@@ -1,4 +1,4 @@
-const READ_KEY = "curator:read-ids";
+const READ_KEY = "dossier:read-ids";
 const state = {
   categories: [],
   activeCategory: "all",
@@ -163,7 +163,7 @@ function wireInstallPrompt() {
   const dismissBtn = el("#install-dismiss");
   let deferredPrompt = null;
 
-  if (isInStandaloneMode() || localStorage.getItem("curator:install-dismissed")) {
+  if (isInStandaloneMode() || localStorage.getItem("dossier:install-dismissed")) {
     return;
   }
 
@@ -178,7 +178,7 @@ function wireInstallPrompt() {
     window.addEventListener("beforeinstallprompt", (e) => {
       e.preventDefault();
       deferredPrompt = e;
-      textEl.textContent = "Add Curator to your home screen for quick access.";
+      textEl.textContent = "Add Dossier to your home screen for quick access.";
       acceptBtn.style.display = "";
       banner.dataset.visible = "true";
     });
@@ -195,24 +195,9 @@ function wireInstallPrompt() {
 
   dismissBtn.addEventListener("click", () => {
     banner.dataset.visible = "false";
-    localStorage.setItem("curator:install-dismissed", "1");
+    localStorage.setItem("dossier:install-dismissed", "1");
   });
 }
-
-  el("#install-accept").addEventListener("click", async () => {
-    banner.dataset.visible = "false";
-    if (deferredPrompt) {
-      deferredPrompt.prompt();
-      await deferredPrompt.userChoice;
-      deferredPrompt = null;
-    }
-  });
-
-  // el("#install-dismiss").addEventListener("click", () => {
-  //   banner.dataset.visible = "false";
-  //   localStorage.setItem("curator:install-dismissed", "1");
-  // });
-
 
 async function init() {
   renderRail();
