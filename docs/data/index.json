@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-29T08:14:16.077101+00:00",
-  "total_items": 193,
+  "updated": "2026-07-29T08:30:05.372467+00:00",
+  "total_items": 324,
   "categories": [
     {
       "category": "finance",
-      "count": 70
+      "count": 71
     },
     {
       "category": "wealth-building",
-      "count": 8
+      "count": 18
     },
     {
       "category": "entertainment",
@@ -20,7 +20,7 @@
     },
     {
       "category": "real-estate",
-      "count": 30
+      "count": 150
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-29T08:14:16.075584+00:00",
-  "count": 30,
+  "updated": "2026-07-29T08:30:05.371001+00:00",
+  "count": 150,
   "items": [
     {
       "id": "da51e89bb805a6fb",
@@ -102,6 +102,16 @@
       "summary": "Ryan, 64, purchased the property in 2024—and stands to make a very impressive profit if she secures a sale price close to her ask.",
       "published": "2026-07-28T14:21:17+00:00",
       "fetched": "2026-07-29T08:14:16.074691+00:00"
+    },
+    {
+      "id": "7f6b67b0e390f548",
+      "title": "New Construction Falls to 5-Year Low as Price Floor Nears",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-446",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This isn’t a “good” housing market for anyone. Affordability remains a major barrier to homeownership. Sellers aren’t getting what they want for their homes.",
+      "published": "2026-07-28T11:00:51+00:00",
+      "fetched": "2026-07-29T08:30:04.856388+00:00"
     },
     {
       "id": "167515c1a423f915",
@@ -244,6 +254,36 @@
       "fetched": "2026-07-29T08:14:16.074960+00:00"
     },
     {
+      "id": "f5185b09dc50966e",
+      "title": "Deal Diary: 9 Years, 39 Doors, and $20K a Month in Cash Flow—Here’s How Jefferson Simmons Built His Portfolio",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-jefferson-simmons",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Jefferson Simmons Location Manhattan, Kansas Occupation Full-time real estate investor (former underwriter, Realtor, and university fundraiser) Assets 17 properties, 39 doors, $20,000/month in cash flow Investment strategy Single-family and [ ]",
+      "published": "2026-07-27T14:00:00+00:00",
+      "fetched": "2026-07-29T08:30:04.856433+00:00"
+    },
+    {
+      "id": "e3e3d2afe9ed5a73",
+      "title": "One Rental Property Saved Me From My 100-Hour Workweeks",
+      "link": "https://www.biggerpockets.com/blog/rookie-749",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Picture this: working two jobs, sleeping during your breaks, and still showing up every single day because you ve already decided what your life looks like on the other side! That s [ ]",
+      "published": "2026-07-27T11:00:10+00:00",
+      "fetched": "2026-07-29T08:30:04.856464+00:00"
+    },
+    {
+      "id": "e349356c60ca9f59",
+      "title": "The “Repeatable” Strategy That Helped Him Buy 6 Rentals in 6 Months (Working 9-5)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1309",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Worried you’ll come up short in retirement? When Brian Waters ran the numbers, he realized he was still decades away from being able to leave his nine-to-five. He needed a [ ]",
+      "published": "2026-07-27T11:00:08+00:00",
+      "fetched": "2026-07-29T08:30:04.856499+00:00"
+    },
+    {
       "id": "05788d48676622c8",
       "title": "Heartland’s Affordable Innovation Oasis Emerges as a Real Estate Powerhouse",
       "link": "https://www.realtor.com/news/trends/champaign-urbana-illinois-real-estate-powerhouse-july-2026-report/",
@@ -302,6 +342,1166 @@
       "summary": "The property isn't just worthy of a shoot in a high-end magazine—it was designed by the man who used to curate them.",
       "published": "2026-07-26T17:38:00+00:00",
       "fetched": "2026-07-29T08:14:16.075061+00:00"
+    },
+    {
+      "id": "749a15a569d89a60",
+      "title": "Cash Flow vs. Appreciation: What Should Beginners Focus on? (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-748",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You’ve read the books. You’ve listened to the podcasts. But you still don’t feel “ready” to invest in real estate.",
+      "published": "2026-07-24T11:00:17+00:00",
+      "fetched": "2026-07-29T08:30:04.856545+00:00"
+    },
+    {
+      "id": "c1ef9b54a242d233",
+      "title": "Homes Are Selling for Much Less Than You Think | July 2026 Housing Market Update",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1308",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "We’ve reached the midway point of 2026, and with six months of housing market data to pull from, one thing is clear: the headlines don’t match reality. The media is [ ]",
+      "published": "2026-07-24T11:00:09+00:00",
+      "fetched": "2026-07-29T08:30:04.856575+00:00"
+    },
+    {
+      "id": "f93ee96d10248bc4",
+      "title": "You Can Retire with Even Less (Only Using Real Estate)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-445",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The average American will not be able to retire. 50% are going into their golden years with less than $500,000—significantly short of what would even be considered a livable retirement [ ]",
+      "published": "2026-07-23T11:00:12+00:00",
+      "fetched": "2026-07-29T08:30:04.856604+00:00"
+    },
+    {
+      "id": "54e381cfd3f4bf41",
+      "title": "Most Mom-and-Pop Landlords Lose Money—Here’s Why, and What to Do Instead",
+      "link": "https://www.biggerpockets.com/blog/most-mom-and-pop-landlords-lose-money",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "According to the media and average Americans, landlords are all rich, lazy leeches growing fat off of honest workers. It’s an easy narrative to spin. Too bad the numbers prove [ ]",
+      "published": "2026-07-22T16:38:51+00:00",
+      "fetched": "2026-07-29T08:30:04.856635+00:00"
+    },
+    {
+      "id": "37ff3e878946b167",
+      "title": "When Passive Income Becomes a Massive Headache: The Major Mistakes Landlords Have Made and What They Did to Correct Them",
+      "link": "https://www.biggerpockets.com/blog/when-passive-income-becomes-a-massive-headache",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "As seasoned investors will tell you, the phrase “passive income” is largely an oxymoron—like the term “easy money” or, for Brit transplants like me, the sentence, “I think England can [ ]",
+      "published": "2026-07-22T16:36:04+00:00",
+      "fetched": "2026-07-29T08:30:04.856667+00:00"
+    },
+    {
+      "id": "4de0a9abe76ff701",
+      "title": "Making $3,000/Month Cash Flow (Per Property) with This Scalable Rental Strategy",
+      "link": "https://www.biggerpockets.com/blog/rookie-747",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "One of the biggest mistakes new investors make is analyzing rental properties for the best-case scenario. Today’s guest does the opposite. He plans for the worst, and it’s the reason [ ]",
+      "published": "2026-07-22T11:00:40+00:00",
+      "fetched": "2026-07-29T08:30:04.856696+00:00"
+    },
+    {
+      "id": "52b6b8c812b140b5",
+      "title": "Build vs. Buy: Which Is Best for Your First Rental?",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1307",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You don’t have to buy your first rental property—you can build one instead. Newer systems, fewer repairs, and that “brand new” feeling that tenants may pay more rent for. But…is [ ]",
+      "published": "2026-07-22T11:00:21+00:00",
+      "fetched": "2026-07-29T08:30:04.856724+00:00"
+    },
+    {
+      "id": "faca16d0fe2f07a5",
+      "title": "The Summer 2026 Rent-to-Payment Report: Where You Can Still Cash Flow With Real Estate",
+      "link": "https://www.biggerpockets.com/blog/rent-to-payment-report-summer-2026",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Foreword by Dave Meyer In a new era of real estate investing, the old rules of thumb no longer work. Back in the day of cheap homes and high rents, [ ]",
+      "published": "2026-07-21T15:14:43+00:00",
+      "fetched": "2026-07-29T08:30:04.856751+00:00"
+    },
+    {
+      "id": "8a5739f780cbf1b1",
+      "title": "From Handwritten Letters to 14 Units: How a College Freshman With No Credit Built a Cash-Flowing Portfolio",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-logan-george",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Logan George Location Tallahassee, Florida Occupation Insurance agency owner and real estate investor Assets 14 rental units, $7,900/month in cash flow Investment strategy Direct mail, cold-calling for off-market deals, [ ]",
+      "published": "2026-07-21T14:00:00+00:00",
+      "fetched": "2026-07-29T08:30:04.856779+00:00"
+    },
+    {
+      "id": "aea3a61d76964af8",
+      "title": "Zillow: $1,000/Month Cash Flow Exists in These Markets",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-444",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Zillow is seeing “signs of life” emerging in the housing market. Strong demand, days pending hitting pre-pandemic levels, and serious cash flow in specific markets. How long will this last, [ ]",
+      "published": "2026-07-21T11:00:23+00:00",
+      "fetched": "2026-07-29T08:30:04.856807+00:00"
+    },
+    {
+      "id": "d8225981e16a526c",
+      "title": "Higher Interest Rates Are Turbocharging Short-Term Rental Profits, According to a New Report",
+      "link": "https://www.biggerpockets.com/blog/higher-interest-rates-are-turbocharging-short-term-rental-profits-according-to-a-new-report",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Editor’s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets’ annual real estate investing conference—using code MYRE100 at checkout. Plot twist: Remember when everyone not [ ]",
+      "published": "2026-07-20T19:26:51+00:00",
+      "fetched": "2026-07-29T08:30:04.856840+00:00"
+    },
+    {
+      "id": "6eceaf51876394d8",
+      "title": "He Started with $5,000. Now He Owns 14 Rental Properties (And Quit His Job!)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1306",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "When Niyi Adewole got his first “real” job out of college, he had one goal: financial freedom. But when he asked his coworkers about the company 401(k), he left more [ ]",
+      "published": "2026-07-20T11:00:30+00:00",
+      "fetched": "2026-07-29T08:30:04.856868+00:00"
+    },
+    {
+      "id": "360acc6c9542f7b3",
+      "title": "She Bought the Property No One Wanted. It Had a Hidden Income Stream ($3K+/Month).",
+      "link": "https://www.biggerpockets.com/blog/rookie-746",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "People think you need a dozen rental properties to achieve financial freedom. You don’t. Buy the right property in the right location, and it may only take one.",
+      "published": "2026-07-20T11:00:23+00:00",
+      "fetched": "2026-07-29T08:30:04.856898+00:00"
+    },
+    {
+      "id": "d68b0bc9c8a9ee60",
+      "title": "BPCON 2026: Your Complete Guide to Our Biggest Event of the Year",
+      "link": "https://www.biggerpockets.com/blog/guide-to-bpcon-2026",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "From the perspective of the BPCON Planner, who is also an investor and obsessed with helping people find their people to achieve their financial independence goals. Key Takeaways BPCON is [ ]",
+      "published": "2026-07-17T15:58:08+00:00",
+      "fetched": "2026-07-29T08:30:04.856926+00:00"
+    },
+    {
+      "id": "30ece4d3a04adbb1",
+      "title": "Here’s How the New 21st Century ROAD to Housing Act Could Help Real Estate Investors",
+      "link": "https://www.biggerpockets.com/blog/how-the-21st-century-road-to-housing-act-could-help-real-estate-investors",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Although the recently passed 21st Century ROAD to Housing Act is primarily aimed at first-time homebuyers, it also benefits investors when applied correctly. The changes might not be immediate, but [ ]",
+      "published": "2026-07-17T14:31:53+00:00",
+      "fetched": "2026-07-29T08:30:04.856954+00:00"
+    },
+    {
+      "id": "ee9b14e45628341a",
+      "title": "The Housing Market Is Shifting. Here’s What Rookies Should Do. (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-745",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The housing market looks very different than it did just a year or two ago. Home prices are softening, rates have eased slightly from the highs of 2023 and 2024, [ ]",
+      "published": "2026-07-17T11:00:46+00:00",
+      "fetched": "2026-07-29T08:30:04.856983+00:00"
+    },
+    {
+      "id": "68246f12a4500e7f",
+      "title": "I Reached Financial Independence Before 40 (Everything You Know is Wrong)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1305",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "I reached financial independence before 40. I set out to do the impossible, and achieved it. I bought rental properties, worked hard at my job, saved and invested most of [ ]",
+      "published": "2026-07-17T11:00:06+00:00",
+      "fetched": "2026-07-29T08:30:04.857009+00:00"
+    },
+    {
+      "id": "132fc507120f3fdb",
+      "title": "Major Homebuilders Have Not Sold Homes This Cheap in Nearly a Decade—Here’s How Investors Can Take Advantage",
+      "link": "https://www.biggerpockets.com/blog/major-homebuilders-have-not-sold-homes-this-cheap-in-nearly-a-decade-heres-how-investors-can-take-advantage",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Editor’s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets’ annual real estate investing conference—using code MYRE100 at checkout. For truly passive real estate investing, [ ]",
+      "published": "2026-07-16T14:43:46+00:00",
+      "fetched": "2026-07-29T08:30:04.857046+00:00"
+    },
+    {
+      "id": "52723ad7f38f6ea1",
+      "title": "You Won’t Believe Why Mortgage Rates Are Going Up (Again)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-443",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You won’t believe why mortgage rates are going back up. It’s not because of the war, it’s not because of gas prices, and it’s not because of the Federal Reserve. [ ]",
+      "published": "2026-07-16T11:00:20+00:00",
+      "fetched": "2026-07-29T08:30:04.857073+00:00"
+    },
+    {
+      "id": "0b1da6c1743f5a3e",
+      "title": "Pay Off Your Mortgage or Reinvest in Real Estate? What Makes More Sense in Today’s Market?",
+      "link": "https://www.biggerpockets.com/blog/should-you-pay-off-your-mortgage-or-reinvest-in-real-estate",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Leverage was always the love language for real estate investors. It was the principle on which the BRRRR strategy was based, and fortunes were made. However, since the dramatic rise [ ]",
+      "published": "2026-07-15T17:08:21+00:00",
+      "fetched": "2026-07-29T08:30:04.857105+00:00"
+    },
+    {
+      "id": "3d08426649858845",
+      "title": "If House Flipping is “Dead,” How Is She Flipping 10+ Houses THIS Year?",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1304",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Many people assume house flipping doesn’t work anymore. They’re wrong. House flipping isn’t dead.",
+      "published": "2026-07-15T11:00:57+00:00",
+      "fetched": "2026-07-29T08:30:04.857136+00:00"
+    },
+    {
+      "id": "de75e805685ace85",
+      "title": "Long-Term Rentals vs. Short-Term Rentals: Which Is Best for Beginners?",
+      "link": "https://www.biggerpockets.com/blog/rookie-744",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "When buying your first rental property, everyone gives you the same advice: play it safe, get a long-term tenant, and collect the rent. But that same house, run as an [ ]",
+      "published": "2026-07-15T11:00:02+00:00",
+      "fetched": "2026-07-29T08:30:04.857161+00:00"
+    },
+    {
+      "id": "910738aa98bd4b04",
+      "title": "BiggerPockets Pulse: Investors Are Resilient, But Sentiment Continues to Drop",
+      "link": "https://www.biggerpockets.com/blog/pulse-q3-2026",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Each quarter, the BiggerPockets Pulse survey captures how investors in our community feel about and behave in the current market. Our Q3 2026 results paint a profile of a resilient [ ]",
+      "published": "2026-07-14T18:53:31+00:00",
+      "fetched": "2026-07-29T08:30:04.857186+00:00"
+    },
+    {
+      "id": "ce60c8ea7f0a5b7e",
+      "title": "Deal Diary: How Andy Gill Turned a Mailer Into 30 Units",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-andy-gil",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Category Details Name Andy Gill Location Connecticut Occupation General contractor and real estate investor Assets 58 rental units across multiple properties, plus a 30-unit portfolio in phased acquisition Investment strategy [ ]",
+      "published": "2026-07-14T14:01:00+00:00",
+      "fetched": "2026-07-29T08:30:04.857212+00:00"
+    },
+    {
+      "id": "787642808bb918b6",
+      "title": "2026 Housing Market Predictions: Seller Pain is Far From Over",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-442",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The first half of the 2026 housing market is over, and now it’s time to answer the question everyone wants to know: What’s next? Will the market slow down even [ ]",
+      "published": "2026-07-14T11:00:49+00:00",
+      "fetched": "2026-07-29T08:30:04.857239+00:00"
+    },
+    {
+      "id": "08ca09f8e1e092b5",
+      "title": "He Bought 58 Rental Units in Just 4 Years by Solving Other Landlords’ Problems",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1303",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "When the Great Recession hit, Andy Gil lost his business. Suddenly, he was forced to start over. But the fear of losing everything again was the driving force behind what [ ]",
+      "published": "2026-07-13T11:00:14+00:00",
+      "fetched": "2026-07-29T08:30:04.857265+00:00"
+    },
+    {
+      "id": "ff604abe2d4d0af7",
+      "title": "She Built a 3-Property Portfolio in 5 Years While Working Her 9-5",
+      "link": "https://www.biggerpockets.com/blog/rookie-743",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Your first rental property rarely comes from sitting back and waiting. It usually comes when you put yourself out there, talk to others about what you re building, and stay in [ ]",
+      "published": "2026-07-13T11:00:07+00:00",
+      "fetched": "2026-07-29T08:30:04.857291+00:00"
+    },
+    {
+      "id": "c4bf35fbd6d727e6",
+      "title": "Start at 45, Retire at 55: The Late Starter’s Rental Playbook",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1302",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If you’re in your 40s, or even 50s, and think it’s too late to build a comfortable retirement, think again. We’ve done the math, we’ve crunched the numbers, and we ve [ ]",
+      "published": "2026-07-10T11:00:53+00:00",
+      "fetched": "2026-07-29T08:30:04.857320+00:00"
+    },
+    {
+      "id": "268b9bde069c4ad7",
+      "title": "How to Find and Fund Your First Real Estate Deal (From Scratch) (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-742",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You ve got very little savings, almost no credit history, and you want to buy a rental property. Most people would tell you to wait, but today, we’re giving you clear, [ ]",
+      "published": "2026-07-10T11:00:49+00:00",
+      "fetched": "2026-07-29T08:30:04.857347+00:00"
+    },
+    {
+      "id": "84428b80a3f89fd8",
+      "title": "Insurance Shock Is Eating Cash Flow Away—This Surprising Market is Facing the Brunt of It",
+      "link": "https://www.biggerpockets.com/blog/insurance-shock-is-eating-cash-flow-away-this-surprising-market-is-facing-the-brunt-of-it",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Editor’s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets’ annual real estate investing conference—using code MYRE100 at checkout. As if interest rates and house [ ]",
+      "published": "2026-07-09T17:35:29+00:00",
+      "fetched": "2026-07-29T08:30:04.857381+00:00"
+    },
+    {
+      "id": "ba3ff2c3689438f8",
+      "title": "A Glut of Inventory is on the Way—How Should Investors Prepare?",
+      "link": "https://www.biggerpockets.com/blog/a-glut-of-inventory-is-on-the-way-how-should-investors-prepare",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Editor s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets annual real estate investing conference—using code MYRE100 at checkout. The housing [ ]",
+      "published": "2026-07-09T17:28:17+00:00",
+      "fetched": "2026-07-29T08:30:04.857411+00:00"
+    },
+    {
+      "id": "552eb33bc337a947",
+      "title": "Workers Are Feeling the AI Squeeze: How It Could Define the Next Housing Cycle",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-441",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If you ask the average American, AI is taking over, as are the headlines warning that it’s coming for our jobs. Open LinkedIn, and you’ll see stories about chatbots replacing [ ]",
+      "published": "2026-07-09T11:00:01+00:00",
+      "fetched": "2026-07-29T08:30:04.857439+00:00"
+    },
+    {
+      "id": "a27bb96511b8780e",
+      "title": "The Exact Investment “Stack” We’re Using to Retire Early (Not Just Rentals)",
+      "link": "https://www.biggerpockets.com/blog/rookie-741",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Don’t want to wait until 65 to retire? With a combination of rental properties and some of the other investments we’re covering on today’s show, you may not have to. [ ]",
+      "published": "2026-07-08T11:00:45+00:00",
+      "fetched": "2026-07-29T08:30:04.857467+00:00"
+    },
+    {
+      "id": "10be1f9b8afefe6e",
+      "title": "The Simple Systems Behind a 150-Unit Rental Portfolio (8-Hour Workweeks!)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1301",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "When the dot-com bubble burst, Matt (the “Lumberjack Landlord”) watched his 100% stock portfolio go to dust. Having lost everything he had saved throughout his early twenties, his only option [ ]",
+      "published": "2026-07-08T11:00:31+00:00",
+      "fetched": "2026-07-29T08:30:04.857494+00:00"
+    },
+    {
+      "id": "2f5d63e5aa454f2a",
+      "title": "Deal Diary: The $80K Deal That Turned Into a 24-Unit Building",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-remington-lyman",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Remington Lyman Location Columbus, Ohio Occupation Real estate investor brokerage owner Assets ~100 residential units and four commercial deals, including a 24-unit apartment building and a 24,000-square-foot warehouse [ ]",
+      "published": "2026-07-07T19:12:20+00:00",
+      "fetched": "2026-07-29T08:30:04.857532+00:00"
+    },
+    {
+      "id": "10351e97a53a1c42",
+      "title": "Commercial Real Estate Is Quietly Setting Up for a Decade-Long Bull Run",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-440",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "We’ve officially reached the halfway point of 2026, and the housing market still feels…stuck. The economy is in limbo. Home prices haven’t tanked.",
+      "published": "2026-07-07T11:00:46+00:00",
+      "fetched": "2026-07-29T08:30:04.857564+00:00"
+    },
+    {
+      "id": "8ccf4fdf8c7fd279",
+      "title": "New Law Carries Implications For Roofing and Insurance—Here’s What Investors Need to Know",
+      "link": "https://www.biggerpockets.com/blog/new-law-carries-implications-for-roofing-and-insurance-heres-what-investors-need-to-know",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "As if homeowner’s insurance weren’t expensive enough, a new federal rule has quietly moved the responsibility to pay for roof damage claims off the insurers’ shoulders and onto property owners. [ ]",
+      "published": "2026-07-06T16:51:23+00:00",
+      "fetched": "2026-07-29T08:30:04.857596+00:00"
+    },
+    {
+      "id": "76b57a55cbeeae3d",
+      "title": "She Bought Her First Rental Property with $0 Down (Her Exact Playbook)",
+      "link": "https://www.biggerpockets.com/blog/rookie-740",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "What if the one thing stopping you from buying your first rental property isn’t money, or connections, but the belief that it’s just not possible for someone like you? Today’s [ ]",
+      "published": "2026-07-06T11:00:43+00:00",
+      "fetched": "2026-07-29T08:30:04.857624+00:00"
+    },
+    {
+      "id": "ce1531ddff61dba9",
+      "title": "I Started Investing with Just $7,500. Now I Own Millions in Rentals",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1300",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "One day, Remington Lyman was brought into his boss s office, told that he did above-and-beyond at his job, and was handed a 2% raise with a smile. All the extra [ ]",
+      "published": "2026-07-06T11:00:40+00:00",
+      "fetched": "2026-07-29T08:30:04.857649+00:00"
+    },
+    {
+      "id": "db2df699a4bd36ad",
+      "title": "How to 2X Your Cash Flow (or More) on the Property You Already Own (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-739",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "What if you could take the rental property you already own and make 2-3 times more? Whether you’re in the red, barely breaking even, or wanting more from your rentals, [ ]",
+      "published": "2026-07-03T11:00:57+00:00",
+      "fetched": "2026-07-29T08:30:04.857676+00:00"
+    },
+    {
+      "id": "3d61a95dad4b2d82",
+      "title": "How Much Real Estate Do You Actually Need to Be Free?",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1299",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "How many rental properties do you need to retire? A lot fewer than you think. When people start investing in real estate, they think they need 20, 50, or even [ ]",
+      "published": "2026-07-03T11:00:51+00:00",
+      "fetched": "2026-07-29T08:30:04.857702+00:00"
+    },
+    {
+      "id": "19353b9c17945ef7",
+      "title": "If I Had to Start Over in Real Estate Today, I’d Do This",
+      "link": "https://www.biggerpockets.com/blog/if-i-had-to-start-over-in-real-estate-today-id-do-this",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "At 22, I went to work for a hard money lender doing purchase-rehab loans. I bought my first rental property at 24, which kicked off a decade of active real [ ]",
+      "published": "2026-07-02T18:28:50+00:00",
+      "fetched": "2026-07-29T08:30:04.857728+00:00"
+    },
+    {
+      "id": "5930f36f67b86644",
+      "title": "New Fed Chair, Same Inflation Fight: What “Higher for Longer” Really Means for Small Landlords",
+      "link": "https://www.biggerpockets.com/blog/new-fed-chair-same-inflation-fight-what-higher-for-longer-really-means-for-small-landlords",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Real estate investors hoping new Federal Reserve chair Kevin Warsh would wave a magic wand and cut interest rates have been in for a rude awakening. With the Iran war [ ]",
+      "published": "2026-07-02T16:35:22+00:00",
+      "fetched": "2026-07-29T08:30:04.857758+00:00"
+    },
+    {
+      "id": "1babb85fdc0dd31b",
+      "title": "The Data Is Lying: What Buyers Are Really Paying in 2026 (Less Than You Think)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-439",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "We’ve all seen the data. Home prices are falling but remain relatively “flat,” year over year. There’s just one problem: the data is lying.",
+      "published": "2026-07-02T11:00:37+00:00",
+      "fetched": "2026-07-29T08:30:04.857790+00:00"
+    },
+    {
+      "id": "55ea203802a09199",
+      "title": "Inside the Search: The Detroit House That Looked Bad on Paper",
+      "link": "https://www.biggerpockets.com/blog/inside-the-search-the-detroit-house-that-looked-bad-on-paper",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "My goal is not to buy one property. My goal is to build a machine that continuously funds future acquisitions. The investor: Osama, Detroit.",
+      "published": "2026-07-01T19:08:25+00:00",
+      "fetched": "2026-07-29T08:30:04.857817+00:00"
+    },
+    {
+      "id": "0235b87505a932a8",
+      "title": "Is Real Estate Still THE Best Path to Passive Income? (Invited to Debate)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1298",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "We’re all here for passive income, and when you say “passive income,” many people immediately think of rental properties. But, is real estate investing really the best path to get [ ]",
+      "published": "2026-07-01T11:00:58+00:00",
+      "fetched": "2026-07-29T08:30:04.857845+00:00"
+    },
+    {
+      "id": "6866539fb7caa1e8",
+      "title": "3 Ways to Fund Your First Real Estate Deal Without 20% Down",
+      "link": "https://www.biggerpockets.com/blog/rookie-738",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "What’s stopping you from buying your very first rental property? For most rookies, it’s rarely ever the market, the interest rates, or even the competition–it s a number in their head. [ ]",
+      "published": "2026-07-01T11:00:32+00:00",
+      "fetched": "2026-07-29T08:30:04.857875+00:00"
+    },
+    {
+      "id": "0e52fc364f1557ba",
+      "title": "Deal Diary: How Matt Picaro Uses 203K Loans to Scale",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-matt-picaro",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Matt Picaro Location Long Island, New York Occupation Real estate investor Assets Three owner-occupied units Investment strategy House hacking, flipping Financing FHA 203K (3.5% down) Matt Picaro grew up [ ]",
+      "published": "2026-06-30T18:18:32+00:00",
+      "fetched": "2026-07-29T08:30:04.857901+00:00"
+    },
+    {
+      "id": "0a0d87709d61fbf8",
+      "title": "Trump Just Stalled the Biggest Housing Bill in Decades",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-438",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You’ve seen the headlines. The housing market is stuck. Distress is rising.",
+      "published": "2026-06-30T11:00:02+00:00",
+      "fetched": "2026-07-29T08:30:04.857930+00:00"
+    },
+    {
+      "id": "d05f9eed064a8ed6",
+      "title": "Texting With Zach Lemaster: The 5%-Down New-Construction Rental Nobody’s Talking About",
+      "link": "https://www.biggerpockets.com/blog/texting-with-zach-lemaster",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "A conversation with Zach Lemaster, founder and CEO of Rent to Retirement Most investors decided turnkey rentals were dead the morning mortgage rates crossed 7%. Cash flow evaporated, the math [ ]",
+      "published": "2026-06-29T19:30:04+00:00",
+      "fetched": "2026-07-29T08:30:04.857958+00:00"
+    },
+    {
+      "id": "5f5df5caa1abfd85",
+      "title": "Zero-Down Payment FHA Loans Could Be a Game Changer For Renters and Investors Alike, According to a New Report",
+      "link": "https://www.biggerpockets.com/blog/zero-down-payment-fha-loans-could-be-a-game-changer-for-renters-and-investors",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "A zero-down FHA loan might sound too good to be true, but a new analysis from the nonprofit research group Urban Institute argues that allowing the Federal Housing Administration (FHA) [ ]",
+      "published": "2026-06-29T17:50:28+00:00",
+      "fetched": "2026-07-29T08:30:04.857986+00:00"
+    },
+    {
+      "id": "9978db030580cc1d",
+      "title": "He Started Investing in His 40s, Now He’s on Track to Retire with Rentals",
+      "link": "https://www.biggerpockets.com/blog/rookie-737",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Not everyone gets into real estate investing when conditions are perfect. Some, like our next guest, get in because they have no other choice. The path Brent Beard was on [ ]",
+      "published": "2026-06-29T11:00:45+00:00",
+      "fetched": "2026-07-29T08:30:04.858012+00:00"
+    },
+    {
+      "id": "5e38858ac78ab819",
+      "title": "3 Kids, Full-Time Job, $2M Portfolio: This Single Mom Did It in 6 Years!",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1297",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "In just six years, this single mom of three became a self-made multimillionaire with rental properties. She didn’t start with a ton of cash; she worked full-time, and she often [ ]",
+      "published": "2026-06-29T11:00:05+00:00",
+      "fetched": "2026-07-29T08:30:04.858040+00:00"
+    },
+    {
+      "id": "3afc67670514b870",
+      "title": "Mortgage Defaults and Foreclosures Are Surging in Key Markets: What Investors Need to Know",
+      "link": "https://www.biggerpockets.com/blog/mortgage-defaults-and-foreclosures-are-surging-in-key-markets",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Foreclosures are way up. According to HousingWire, they rose 14% year over year in May, while analytics and data site ATTOM reports a 26% jump in the first quarter compared [ ]",
+      "published": "2026-06-26T18:06:25+00:00",
+      "fetched": "2026-07-29T08:30:04.858066+00:00"
+    },
+    {
+      "id": "db775565ed7dcfed",
+      "title": "I Manage Everything in My Portfolio Myself. Here’s Why I Still Keep a Passive Sleeve.",
+      "link": "https://www.biggerpockets.com/blog/i-manage-everything-in-my-portfolio-myself-heres-why-i-still-keep-a-passive-sleeve",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Presented in partnership with Connect Invest. I run a glamping and short-term rental portfolio in Texas, and I self-manage basically all of it. I take the direct bookings and answer [ ]",
+      "published": "2026-06-26T16:33:58+00:00",
+      "fetched": "2026-07-29T08:30:04.858094+00:00"
+    },
+    {
+      "id": "babf0771918bbb54",
+      "title": "Where We’d Invest in Real Estate Right Now (12 Markets)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1296",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "New to investing in real estate? In an area that has high housing prices, tough landlord laws, or little-to-no cash flow potential? We’ve got you covered.",
+      "published": "2026-06-26T11:00:52+00:00",
+      "fetched": "2026-07-29T08:30:04.858123+00:00"
+    },
+    {
+      "id": "3b95c1953298e9b7",
+      "title": "My Property Is Losing Money: Should I Sell or Pivot? (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-736",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The property you spent months working on is about to lose you money. What should you do? Sell?",
+      "published": "2026-06-26T11:00:48+00:00",
+      "fetched": "2026-07-29T08:30:04.858151+00:00"
+    },
+    {
+      "id": "c4fd20da3b3cbc63",
+      "title": "Peace Deal Signed: Where Mortgage Rates Are Actually Headed",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-437",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The peace deal between the U.S. and Iran has been agreed to (at least for now). The Strait of Hormuz, the chokehold on 20% of the world’s oil, is starting [ ]",
+      "published": "2026-06-25T11:00:06+00:00",
+      "fetched": "2026-07-29T08:30:04.858177+00:00"
+    },
+    {
+      "id": "61ef9dfa8a45b09d",
+      "title": "AI-Created Tech Layoffs are Shifting the Housing Market",
+      "link": "https://www.biggerpockets.com/blog/ai-created-tech-layoffs-are-shifting-the-housing-market",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "AI-powered layoffs are shaking up the once-bulletproof tech job market, with more than 100,000 layoffs so far this year alone. For real estate investors, the burning question is where all [ ]",
+      "published": "2026-06-24T19:54:49+00:00",
+      "fetched": "2026-07-29T08:30:04.858202+00:00"
+    },
+    {
+      "id": "289722befd6d9154",
+      "title": "Why Now Could Be the Best Market For Real Estate Investing in Over a Decade",
+      "link": "https://www.biggerpockets.com/blog/why-now-could-be-the-best-market-for-real-estate-investing-in-over-a-decade",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Both active and passive real estate investors have pulled back over the last year. For example, Redfin reported that mom-and-pop investors pulled back by 6% late last year and 13% [ ]",
+      "published": "2026-06-24T19:22:44+00:00",
+      "fetched": "2026-07-29T08:30:04.858227+00:00"
+    },
+    {
+      "id": "41c5107f0fd32df0",
+      "title": "Deal Diary: How Lucy Hinds Turned One HELOC Into Three Rental Properties",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-lucy-hinds",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Lucy Hinds Location Cincinnati, Ohio Occupation Real estate investor Assets Single-family rentals Investment strategy Long-term rentals Financing Conventional + HELOCs Lucy Hinds spent years living the Dave Ramsey playbook: [ ]",
+      "published": "2026-06-24T16:51:12+00:00",
+      "fetched": "2026-07-29T08:30:04.858254+00:00"
+    },
+    {
+      "id": "a962a337e424271f",
+      "title": "Making $29,000/Month from One “Boring” Property (1,000 Miles Away)",
+      "link": "https://www.biggerpockets.com/blog/rookie-735",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "What if the best real estate investment isn’t the one with tenants, toilets, or employees, but the low-maintenance property everyone else is ignoring? Today’s guest is making thousands each month [ ]",
+      "published": "2026-06-24T11:00:25+00:00",
+      "fetched": "2026-07-29T08:30:04.858283+00:00"
+    },
+    {
+      "id": "a8e02e56b4423a49",
+      "title": "Chad Carson’s 2 Deals/Year Strategy That Makes You a Rental Millionaire",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1295",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Is buying rental properties still worth it in 2026? There’s no denying that rising interest rates, sluggish rent growth, and other factors have taken the shine off many properties that [ ]",
+      "published": "2026-06-24T11:00:23+00:00",
+      "fetched": "2026-07-29T08:30:04.858312+00:00"
+    },
+    {
+      "id": "b5f05dd5921cb37b",
+      "title": "The Fed Signals a Reversal in Rates",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-436",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The new Federal Reserve Chair is already making news, signaling a major change to rates—and not in the way Americans were hoping for. With inflation up, the Fed has eyed [ ]",
+      "published": "2026-06-23T11:00:10+00:00",
+      "fetched": "2026-07-29T08:30:04.858338+00:00"
+    },
+    {
+      "id": "a5e4963d800d49dc",
+      "title": "Where to Park Cash Between Deals (Without Letting It Rot in a Savings Account)",
+      "link": "https://www.biggerpockets.com/blog/where-to-park-cash-between-deals-without-letting-it-rot-in-a-savings-account",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This article is presented in partnership with Connect Invest. You finally found a deal. Then it died at inspection.",
+      "published": "2026-06-22T16:52:37+00:00",
+      "fetched": "2026-07-29T08:30:04.858367+00:00"
+    },
+    {
+      "id": "7970c277875d1a08",
+      "title": "BiggerPockets Appoints Active Real Estate Investor Eric Augustyn as CEO, Ushering in a New Era of Platform Innovation",
+      "link": "https://www.biggerpockets.com/blog/biggerpockets-appoints-eric-augustyn-as-ceo",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "DENVER — June 22, 2026 — BiggerPockets, the premier community and resource hub for real estate investors (REIs), today announced the appointment of experienced operator and active real estate investor [ ]",
+      "published": "2026-06-22T15:36:23+00:00",
+      "fetched": "2026-07-29T08:30:04.858398+00:00"
+    },
+    {
+      "id": "8927cccd58d1fc07",
+      "title": "To Scale an Average Rental Portfolio, You’ll Need $30K-$60K in Cash per Door. Here’s an Alternative to the BRRRR Method That Lowers Risk and Increases Cash Flow.",
+      "link": "https://www.biggerpockets.com/blog/alternative-to-the-brrrr-method",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "In the rush to acquire rental properties, many investors forget one crucial aspect of financial planning: liquidity. It’s probably the single most important reason why small investors fail. I should [ ]",
+      "published": "2026-06-22T15:20:38+00:00",
+      "fetched": "2026-07-29T08:30:04.858432+00:00"
+    },
+    {
+      "id": "ad65647e6939815d",
+      "title": "I Bought 15 Rental Units While Making $15/Hour Putting Up Fences",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1294",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Britton Eads was making $15 per hour putting up fences all day. He had no college degree; he dropped out of the electrician trade and didn’t have many other options. [ ]",
+      "published": "2026-06-22T11:00:29+00:00",
+      "fetched": "2026-07-29T08:30:04.858459+00:00"
+    },
+    {
+      "id": "de3ba721f56f1259",
+      "title": "How to House Hack Your Way Out of $200K in Student Loan Debt!",
+      "link": "https://www.biggerpockets.com/blog/rookie-734",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "At 31, James sat down at a kitchen table with his wife Aida, ran the numbers on the next 30 years, and didn t like what he saw—$200,000 in student loans [ ]",
+      "published": "2026-06-22T11:00:12+00:00",
+      "fetched": "2026-07-29T08:30:04.858486+00:00"
+    },
+    {
+      "id": "ca37e769967c35a3",
+      "title": "The Real Estate LLC Mistake That Could Cost You Thousands (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-733",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Do you need a real estate LLC, and should you form one before or after buying a rental property? This is a very common rookie question, and liability protection is [ ]",
+      "published": "2026-06-19T11:00:52+00:00",
+      "fetched": "2026-07-29T08:30:04.858521+00:00"
+    },
+    {
+      "id": "f23b1d8482c80e4b",
+      "title": "The Strongest Sign for the Housing Market in Years | June 2026 Update",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1293",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The housing market is doing what nobody expected—and none of the mainstream media is covering it. Trends are forming that most Americans thought were impossible in this type of economy, [ ]",
+      "published": "2026-06-19T11:00:32+00:00",
+      "fetched": "2026-07-29T08:30:04.858552+00:00"
+    },
+    {
+      "id": "99420a7edc0a6dfc",
+      "title": "Entry-Level Rentals Are Disappearing—Here’s How Landlords Can Fill the Gap",
+      "link": "https://www.biggerpockets.com/blog/entry-level-rentals-are-disappearing-heres-how-landlords-can-fill-the-gap",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Amid the glut of shiny new amenity-filled rental communities, one type of home is disappearing from the investment landscape: the starter rental. However, savvy small investors are uniquely positioned to [ ]",
+      "published": "2026-06-18T19:16:15+00:00",
+      "fetched": "2026-07-29T08:30:04.858581+00:00"
+    },
+    {
+      "id": "9e54e3d64fa7ef18",
+      "title": "The DTI Trap: Why Traditional Financing Stops Working After Your Second Rental (And What to Do Instead)",
+      "link": "https://www.biggerpockets.com/blog/the-dti-trap-why-traditional-financing-stops-working-after-your-second-rental-and-what-to-do-instead",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This article is presented by LendingOne. You have two rentals. Both are cash-flowing and performing exactly the way you underwrote them.",
+      "published": "2026-06-18T19:09:16+00:00",
+      "fetched": "2026-07-29T08:30:04.858610+00:00"
+    },
+    {
+      "id": "3d3a3645d694ae08",
+      "title": "Wall Street is Locking You Out of the Housing Market (Unless You Pay Up)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-435",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Wall Street is quietly monopolizing the housing market—and we’re not talking about them buying homes. It’s something more far-reaching, something that will affect every investor in every market on every [ ]",
+      "published": "2026-06-18T11:00:32+00:00",
+      "fetched": "2026-07-29T08:30:04.858641+00:00"
+    },
+    {
+      "id": "5009c10bba3ef715",
+      "title": "Stop Waiting for Rates to Drop—New Construction Investors Already Bought at 4%",
+      "link": "https://www.biggerpockets.com/blog/stop-waiting-for-rates-to-drop-new-construction-investors-already-bought",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This article is presented by Rent to Retirement. Half the investors I talk to are doing the same thing right now: nothing. They are sitting on cash, refreshing the rate [ ]",
+      "published": "2026-06-17T17:29:17+00:00",
+      "fetched": "2026-07-29T08:30:04.858668+00:00"
+    },
+    {
+      "id": "6723d2b41e8957c1",
+      "title": "How Few Rental Properties Do You Actually Need to Quit Your Job? (Coach Chad Carson Says Fewer Than You Think)",
+      "link": "https://www.biggerpockets.com/blog/texting-with-chad-carson",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "A conversation with Chad Coach Carson, host of the Real Estate Investing for Cashflow Podcast and author of The Small and Mighty Real Estate Investor The default real estate investing [ ]",
+      "published": "2026-06-17T16:23:46+00:00",
+      "fetched": "2026-07-29T08:30:04.858695+00:00"
+    },
+    {
+      "id": "7d0e801c9f4d22d5",
+      "title": "The Easiest Ways to Find Off-Market Properties in 2026 (Our Exact Playbook)",
+      "link": "https://www.biggerpockets.com/blog/rookie-732",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Many rookies assume the best real estate deals are already listed on the market, but what if that’s not the case? The truth is, it’s getting harder and harder to [ ]",
+      "published": "2026-06-17T11:00:51+00:00",
+      "fetched": "2026-07-29T08:30:04.858724+00:00"
+    },
+    {
+      "id": "5c0d30cb086b52a5",
+      "title": "Morgan Housel: The Investing Expert’s “System” for Stress-Free Wealth",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1292",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Morgan Housel, best-selling author of The Psychology of Money, Same as Ever, and The Art of Spending Money, has a “system” for building wealth that seems too simple, too easy [ ]",
+      "published": "2026-06-17T11:00:39+00:00",
+      "fetched": "2026-07-29T08:30:04.858759+00:00"
+    },
+    {
+      "id": "d712efd44ec84ab9",
+      "title": "Bonus Depreciation, Explained Without the Jargon",
+      "link": "https://www.biggerpockets.com/blog/bonus-depreciation-explained-without-the-jargon",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "I want to talk about something that confuses many new investors but is actually one of the most powerful tools in real estate tax strategy: bonus depreciation. And before you [ ]",
+      "published": "2026-06-16T16:41:14+00:00",
+      "fetched": "2026-07-29T08:30:04.858786+00:00"
+    },
+    {
+      "id": "7119af99414f6b37",
+      "title": "What We’re Buying During The 2026 Multifamily Crash",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-434",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This is exactly what we’re buying, selling, and trading in Summer 2026. It’s a strange time for real estate—multifamily prices are crashing hard, single-family is staying stable, rents aren’t moving [ ]",
+      "published": "2026-06-16T11:00:26+00:00",
+      "fetched": "2026-07-29T08:30:04.858816+00:00"
+    },
+    {
+      "id": "bd101a4648c9c711",
+      "title": "Deal Diary: How Deandra McDonald Went From Lender Rejections to 10+ Unit Multifamily Properties",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-deandra-mcdonald",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Deandra McDonald Location Virginia Occupation Real estate investor Assets Multifamily real estate Investment strategy House hacking, long-term rentals, joint ventures, seller financing Financing Conventional, FHA, seller financing Deandra McDonald [ ]",
+      "published": "2026-06-15T19:33:01+00:00",
+      "fetched": "2026-07-29T08:30:04.858844+00:00"
+    },
+    {
+      "id": "3c778cb8ecdc0604",
+      "title": "Should You Offer a Concession to Get Your Apartment Leased Faster?",
+      "link": "https://www.biggerpockets.com/blog/should-you-offer-a-concession-to-get-your-apartment-leased-faster",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The deluge of newly built apartments in the Sunbelt and Northeast has put tenants in the driver’s seat when negotiating rent prices. Landlords in large multifamily developments have been acting [ ]",
+      "published": "2026-06-15T19:27:54+00:00",
+      "fetched": "2026-07-29T08:30:04.858872+00:00"
+    },
+    {
+      "id": "d1c29b4a0e9c7580",
+      "title": "First Rental in 2016, Financially Free in 2026 (Every Strategy I Used)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1291",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Ten years ago, Erika Brown bought her first investment property. Now, a decade later, she’s financially free, with a portfolio she’s slowly starting to scale down so she can do [ ]",
+      "published": "2026-06-15T11:00:37+00:00",
+      "fetched": "2026-07-29T08:30:04.858899+00:00"
+    },
+    {
+      "id": "516a9697281666b9",
+      "title": "She Lost $85,000, Then Made It All Back with a Single Rental Property",
+      "link": "https://www.biggerpockets.com/blog/rookie-731",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Real estate bookkeeping might not be the most thrilling part of owning a rental property, but it’s often the difference between bleeding money each month and earning cash flow you [ ]",
+      "published": "2026-06-15T11:00:07+00:00",
+      "fetched": "2026-07-29T08:30:04.858926+00:00"
+    },
+    {
+      "id": "62eb897da2a40103",
+      "title": "Your Pool Is an Asset—It’s Also a Lawsuit Waiting to Happen",
+      "link": "https://www.biggerpockets.com/blog/your-pool-is-an-asset-its-also-a-lawsuit-waiting-to-happen",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Summer contains the best three months of the year in short-term rental investing: occupancy and rates climb, guests book further out, and your calendar looks like the one you dreamed [ ]",
+      "published": "2026-06-12T13:21:53+00:00",
+      "fetched": "2026-07-29T08:30:04.858951+00:00"
+    },
+    {
+      "id": "c6d90a2ce961bac0",
+      "title": "Inside the Search: The Pipes Burst During the Final Walkthrough. He Bought the House Anyway.",
+      "link": "https://www.biggerpockets.com/blog/inside-the-search-the-pipes-burst-during-the-final-walkthrough-he-bought-the-house-anyway",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Here’s how an out-of-state investor turned a flooded hoarder house into his next step toward 20 doors, and what his team says separates the investors who make it from the [ ]",
+      "published": "2026-06-12T13:14:20+00:00",
+      "fetched": "2026-07-29T08:30:04.858979+00:00"
+    },
+    {
+      "id": "92d0e6bfbbc726bc",
+      "title": "The Best Property Management Software for Small Landlords (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-730",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Thinking about self-managing your rental property? Then, you’ll need property management software to help with things like processing applications, collecting rent, and managing maintenance requests. In this episode, we’re sharing [ ]",
+      "published": "2026-06-12T11:00:45+00:00",
+      "fetched": "2026-07-29T08:30:04.859009+00:00"
+    },
+    {
+      "id": "7c4fafbbb09bca33",
+      "title": "Anyone Can Flip a House After Hearing This",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1290",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Anyone can flip a house after hearing this episode. If you’ve got around 30 minutes and want to make a faster return on your money than rental properties, this is [ ]",
+      "published": "2026-06-12T11:00:04+00:00",
+      "fetched": "2026-07-29T08:30:04.859035+00:00"
+    },
+    {
+      "id": "f310d5dae0f108a0",
+      "title": "Real Estate Investors’ Purchases Drop to a Six-Year Low—Here’s Why Now Is a Great Time to Buy",
+      "link": "https://www.biggerpockets.com/blog/real-estate-investors-purchases-drop-to-a-six-year-low-heres-why-now-is-a-great-time-to-buy",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "It had to happen sooner or later: The effect of high interest rates, purchase prices, and escalating holding costs has caused investor purchases to plummet to a six-year low, according [ ]",
+      "published": "2026-06-11T15:19:37+00:00",
+      "fetched": "2026-07-29T08:30:04.859064+00:00"
+    },
+    {
+      "id": "8ef25f02d07b97fe",
+      "title": "New Data: U.S. Home Prices Are Hitting Their Floor",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-433",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Did home prices just hit their floor? New demand data is showing something no one expected—buyers coming back. If the supply-demand balance hits equilibrium, we could see the national housing [ ]",
+      "published": "2026-06-11T11:00:40+00:00",
+      "fetched": "2026-07-29T08:30:04.859091+00:00"
+    },
+    {
+      "id": "476342db9472c96e",
+      "title": "A New Report Says That Retirement Could Cost $2.5 Million by 2043—Here’s How Real Estate Investing Could Help You Get There",
+      "link": "https://www.biggerpockets.com/blog/a-new-report-says-that-retirement-could-cost-millions-by-2043-heres-how-real-estate-investing-could-help-you-get-there",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The conventional concept of retirement—leisurely games of golf, twice-yearly vacations, and drinking coffee at morning book clubs—is becoming as improbable as watching a unicorn foal graze in your back garden. [ ]",
+      "published": "2026-06-10T15:34:38+00:00",
+      "fetched": "2026-07-29T08:30:04.859124+00:00"
+    },
+    {
+      "id": "52b1e46cc21f91cc",
+      "title": "Does Your Real Estate Investing Platform Cater to Your Investment Type? Here’s Why It Should",
+      "link": "https://www.biggerpockets.com/blog/does-your-real-estate-investing-platform-cater-to-your-investment-type-heres-why-it-should",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This article is presented by Propstream. The world of real estate investing is almost unthinkable today without software tools geared toward generating leads, calculating risk, and working out a viable [ ]",
+      "published": "2026-06-10T15:16:14+00:00",
+      "fetched": "2026-07-29T08:30:04.859154+00:00"
+    },
+    {
+      "id": "2ff4eeddf36a7d78",
+      "title": "Big Changes I’m Making to My Portfolio This Year (That Will Make Me Richer)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1289",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Many rookies think things become easy once you’ve built a large real estate portfolio, but that’s far from true. Even with 26 short-term rentals, a 13-unit hotel, and a few [ ]",
+      "published": "2026-06-10T11:00:05+00:00",
+      "fetched": "2026-07-29T08:30:04.859182+00:00"
+    },
+    {
+      "id": "702923777a700b28",
+      "title": "Big Changes I’m Making to My Portfolio This Year (That Will Make Me Richer)",
+      "link": "https://www.biggerpockets.com/blog/rookie-729",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Many rookies think things become easy once you’ve built a large real estate portfolio, but that’s far from true. Even with 26 short-term rentals, a 13-unit hotel, and a few [ ]",
+      "published": "2026-06-10T11:00:03+00:00",
+      "fetched": "2026-07-29T08:30:04.859210+00:00"
+    },
+    {
+      "id": "24815333469be43f",
+      "title": "Devon Kennard, The NFL Linebacker Who Built a 50 Rental Portfolio",
+      "link": "https://www.biggerpockets.com/blog/texting-with-devon-kennard",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Most NFL players are broke within five years of retirement. The statistic gets repeated so often it s become background noise, but the numbers are real, and the trajectory is brutal: [ ]",
+      "published": "2026-06-09T16:35:09+00:00",
+      "fetched": "2026-07-29T08:30:04.859235+00:00"
+    },
+    {
+      "id": "03d2edf7aec0969b",
+      "title": "J Scott: We Have 1-2 Months Before the Economy Begins to Break",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-432",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The next global recession is a lot closer than many Americans think. We’ve been (fairly) insulated from supply chain shocks stemming from the War in Iran, but within the next [ ]",
+      "published": "2026-06-09T11:00:23+00:00",
+      "fetched": "2026-07-29T08:30:04.859262+00:00"
+    },
+    {
+      "id": "dfb197cba3725b97",
+      "title": "Why Two Identical Properties Can Produce Completely Different Returns",
+      "link": "https://www.biggerpockets.com/blog/why-two-identical-properties-can-produce-completely-different-returns",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This article is presented by Onshore. A situation that often catches new real estate investors off guard is a significant discrepancy in return on investment (ROI) between what seem like [ ]",
+      "published": "2026-06-08T16:51:27+00:00",
+      "fetched": "2026-07-29T08:30:04.859294+00:00"
+    },
+    {
+      "id": "baead15206aa684c",
+      "title": "6 Markets Where You Can Launch a Real Estate Investment Career With Homes Under $300,000",
+      "link": "https://www.biggerpockets.com/blog/6-markets-where-you-can-launch-a-real-estate-investment-career-with-homes-under-300000",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If home prices and interest rates are keeping you sidelined from investing, it’s worth looking outside your local market. According to data from Realtor.com, six major metropolitan markets have median [ ]",
+      "published": "2026-06-08T16:40:14+00:00",
+      "fetched": "2026-07-29T08:30:04.859323+00:00"
+    },
+    {
+      "id": "18ab2947a316581e",
+      "title": "She Started Investing in College and Already Has 5 Rental Units (And Counting)",
+      "link": "https://www.biggerpockets.com/blog/rookie-728",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The real estate investing moves you make today could change your life. Those in their 40s, 50s, and 60s often look back and regret not starting sooner. Today’s guest isn’t [ ]",
+      "published": "2026-06-08T11:00:42+00:00",
+      "fetched": "2026-07-29T08:30:04.859350+00:00"
+    },
+    {
+      "id": "e46afe9e691a5be2",
+      "title": "Retire Early with Less Than 10 Rentals? She Did It, Starting in 2022",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1288",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You don’t need a big, expensive, stressful rental property portfolio to retire on your terms. Today’s guest was able to leave her W-2 job in her late 30s, all thanks [ ]",
+      "published": "2026-06-08T11:00:11+00:00",
+      "fetched": "2026-07-29T08:30:04.859377+00:00"
+    },
+    {
+      "id": "f8ca34f8dca690d8",
+      "title": "Buy 1 Rental Every 2 Years and Watch What Happens",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1287",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Buying just one rental every two years can make you financially free—and by a lot. So many real estate investing influencers constantly talk about buying dozens, even hundreds of rental [ ]",
+      "published": "2026-06-05T11:00:34+00:00",
+      "fetched": "2026-07-29T08:30:04.859404+00:00"
+    },
+    {
+      "id": "4601e5811182a70d",
+      "title": "My Rental Property Has Zero Appreciation: Should I Hold or Sell? (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-727",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Do you have home equity sitting in your primary residence? You could use it to buy your first or next rental property! There are several ways to do this, and [ ]",
+      "published": "2026-06-05T11:00:03+00:00",
+      "fetched": "2026-07-29T08:30:04.859429+00:00"
+    },
+    {
+      "id": "dca9203421634e90",
+      "title": "The “Engine” of the U.S. Economy is Starting to Crack (It Will Affect Housing)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-431",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The “engine” of the U.S. economy is starting to crack—and real estate is already feeling the effects. Just last week, we touched on the hidden “recession” affecting many Americans.",
+      "published": "2026-06-04T11:00:22+00:00",
+      "fetched": "2026-07-29T08:30:04.859459+00:00"
+    },
+    {
+      "id": "e82485620569ecd5",
+      "title": "From Crushing Debt to Renting Out Billy Joel’s Former Estate—How Ben Chester Turned It All Around",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-ben-chester",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Ben Chester Location New York City Occupation Tech sales and real estate investor Assets Eight properties, three short-term rentals (including Billy Joel s former Hudson River estate) Investment strategy Short-term [ ]",
+      "published": "2026-06-03T18:28:49+00:00",
+      "fetched": "2026-07-29T08:30:04.859488+00:00"
+    },
+    {
+      "id": "3835803bb86e792b",
+      "title": "Mortgage Rates Hit 6.5%: Six Practical Moves to Keep Your Real Estate Investing Career Moving Forward",
+      "link": "https://www.biggerpockets.com/blog/practical-moves-to-keep-your-real-estate-investing-career-moving-forward",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Mortgage rates are now over 6.5%, the highest level since the Iran war began. For anyone who planned to make 2026 the year they started or accelerated their real estate [ ]",
+      "published": "2026-06-03T17:00:05+00:00",
+      "fetched": "2026-07-29T08:30:04.859524+00:00"
+    },
+    {
+      "id": "4da67af325d8f033",
+      "title": "The 3 Insurance Mistakes That Cost Landlords the Most (According to a Guy Who’s Seen Thousands of Claims)",
+      "link": "https://www.biggerpockets.com/blog/texting-with-darren-nix",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "A conversation with Darren Nix, founder and CEO of Steadily Most real estate investors think about insurance exactly twice: when they close on a property and when something breaks. The [ ]",
+      "published": "2026-06-03T16:56:50+00:00",
+      "fetched": "2026-07-29T08:30:04.859554+00:00"
+    },
+    {
+      "id": "fd21d5cfac61e6fe",
+      "title": "The Ultimate Guide to Buying Off-Market Properties (As a Complete Beginner)",
+      "link": "https://www.biggerpockets.com/blog/rookie-726",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Struggling to find great real estate deals on the MLS? What if we told you some of the best rental properties are often found elsewhere? If you want better cash [ ]",
+      "published": "2026-06-03T11:00:44+00:00",
+      "fetched": "2026-07-29T08:30:04.859580+00:00"
+    },
+    {
+      "id": "ee3c26986817ccf3",
+      "title": "The Little-Known Loan That Helped Me Turn $9K Down into $150K in Equity",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1286",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This is arguably the best real estate investing loan on the market today. It funds the purchase, renovation, closing costs, and up to six months of mortgage payments, so you’re [ ]",
+      "published": "2026-06-03T11:00:29+00:00",
+      "fetched": "2026-07-29T08:30:04.859610+00:00"
+    },
+    {
+      "id": "9f7f9c03eaa1e603",
+      "title": "How Government Red Tape is Stopping Investors and Flippers From Rehabbing Older Homes",
+      "link": "https://www.biggerpockets.com/blog/how-government-red-tape-is-stopping-investors-and-flippers-from-rehabbing-older-homes",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Growing old is never much fun—unless it’s a house, in which case, for BRRRR investors and flippers, it has traditionally been both a lot of fun and a great source [ ]",
+      "published": "2026-06-02T16:44:22+00:00",
+      "fetched": "2026-07-29T08:30:04.859636+00:00"
+    },
+    {
+      "id": "3d467bede1304ece",
+      "title": "Home Listing Prices Fall for 16th Straight Week (and It Could Keep Coming)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-430",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Home listing prices have been falling for weeks, and it’s not just sellers who are getting fed up. Real estate agents have finally decided to call it quits, with many [ ]",
+      "published": "2026-06-02T11:00:44+00:00",
+      "fetched": "2026-07-29T08:30:04.859663+00:00"
+    },
+    {
+      "id": "090805466224f98d",
+      "title": "Deal Diary: You’re Never Too Old to Chase FIRE",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-youre-never-too-old-to-chase-fire",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Neil Whitney Location Picayune, Mississippi Occupation HVAC business owner real estate investor Assets 23 doors (2 fourplexes, 6 duplexes, 3 single-family homes) Investment strategy Long-Term Rentals Financing Conventional [ ]",
+      "published": "2026-06-01T16:47:34+00:00",
+      "fetched": "2026-07-29T08:30:04.859691+00:00"
+    },
+    {
+      "id": "13e280a8cbf38fd7",
+      "title": "He Was Laid Off From TSA, Now He Owns an Entire Rental Portfolio",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1285",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Before building an entire real estate portfolio, Matthew Garland was laid off from the TSA. He went from searching for contraband in your suitcase to searching for jobs ASAP. He [ ]",
+      "published": "2026-06-01T11:00:17+00:00",
+      "fetched": "2026-07-29T08:30:04.859716+00:00"
+    },
+    {
+      "id": "8fc632b1056dbbf8",
+      "title": "He Was Making Just $12/Hour: Now He Owns 7 Rental Properties (10 Units)",
+      "link": "https://www.biggerpockets.com/blog/rookie-725",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You don’t need a big market, huge salary, or even a college degree to invest in real estate. Today’s guest had a very simple goal when he started: replace his [ ]",
+      "published": "2026-06-01T11:00:04+00:00",
+      "fetched": "2026-07-29T08:30:04.859743+00:00"
+    },
+    {
+      "id": "af6199d7b4634a96",
+      "title": "6 Green Flags Most Real Estate Investors Miss",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1284",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "There are six “green flags” most real estate investors completely miss, but can make them serious wealth. Any of these six will allow you to buy an undervalued investment property, [ ]",
+      "published": "2026-05-29T11:00:37+00:00",
+      "fetched": "2026-07-29T08:30:04.859769+00:00"
+    },
+    {
+      "id": "98dbbfaf39e8514d",
+      "title": "How to Pay (Much) Less in Taxes as a Real Estate Investor (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-724",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Rental properties can give you cash flow, appreciation, and loan paydown from tenants. But tax benefits are often the unsung hero of real estate investing. Today, we’re sharing some of [ ]",
+      "published": "2026-05-29T11:00:03+00:00",
+      "fetched": "2026-07-29T08:30:04.859797+00:00"
+    },
+    {
+      "id": "fb3c1f0000001e3c",
+      "title": "Can You Still Flip Houses in 2026? We Asked Someone Who’s Done It 60+ Times",
+      "link": "https://www.biggerpockets.com/blog/can-you-still-flip-houses-in-2026-we-asked-someone-whos-done-it-60-times",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Everyone s got a take on flipping right now. Half the internet will tell you the math is dead, margins got squeezed out, rates broke the model, and you should move [ ]",
+      "published": "2026-05-28T18:30:39+00:00",
+      "fetched": "2026-07-29T08:30:04.859824+00:00"
     }
   ]
 }
