@@ -1,7 +1,7 @@
 {
   "name": "Dossier",
   "short_name": "Dossier",
-  "description": "Personal curated feed — finance, wealth building, education, real estate, entertainment.",
+  "description": "Personal curated feed — finance, wealth building, education, real estate, health, entertainment.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
