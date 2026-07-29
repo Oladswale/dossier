@@ -1,8 +1,18 @@
 {
   "category": "entertainment",
-  "updated": "2026-07-29T14:33:45.107978+00:00",
-  "count": 38,
+  "updated": "2026-07-29T14:53:15.392574+00:00",
+  "count": 39,
   "items": [
+    {
+      "id": "206c7a1f75ae4ab4",
+      "title": "Two Men Found Guilty in Double Murder of Special Effects Guru and His Partner on Caribbean Island",
+      "link": "https://www.rollingstone.com/culture/culture-news/daniel-langlois-dominica-murder-jonathan-lehrer-guilty-1235600254/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Jonathan Lehrer and Robert Snyder Jr. were convicted of killing Daniel Langlois and Dominique Marchand in 2023 on the island of Dominica",
+      "published": "2026-07-29T14:37:01+00:00",
+      "fetched": "2026-07-29T14:53:15.192560+00:00"
+    },
     {
       "id": "7689f53938a4bbd0",
       "title": "Jean-Pierre Dorléac, ‘Somewhere in Time,’ ‘Battlestar Galactica’ Costume Designer, Dies at 83",
