@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-07-29T08:30:04.528316+00:00",
-  "count": 65,
+  "updated": "2026-07-29T14:33:46.188012+00:00",
+  "count": 67,
   "items": [
+    {
+      "id": "c341b2dc928cfc08",
+      "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+      "link": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
+      "published": "2026-07-29T14:00:00+00:00",
+      "fetched": "2026-07-29T14:33:45.337892+00:00"
+    },
+    {
+      "id": "85ee5fc611951a57",
+      "title": "How a 13th-Century Monk Created a Prayer Manuscript by Writing Over—and Accidentally Preserving—Archimedes’ Groundbreaking Mathematical Works",
+      "link": "https://www.openculture.com/2026/07/how-a-13th-century-monk-created-a-manuscript-that-erased-archimedes.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In Jerusalem of the year 1229, there lived a Greek Orthodox monk named Johannes Myronas. Needing some parchment for a prayer book, he grabbed some already-used pages, erased their existing content, and over them wrote down “prayers for the dead, prayers for repentance, blessings for the loaves at Easter, and even a prayer for those [ ]",
+      "published": "2026-07-29T09:04:29+00:00",
+      "fetched": "2026-07-29T14:33:46.187794+00:00"
+    },
     {
       "id": "66d43c1a48ac48cd",
       "title": "Hear What Homer’s Odyssey Sounded Like When Sung in the Original Ancient Greek",
