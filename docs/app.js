@@ -147,17 +147,57 @@ function wireSearch() {
   });
 }
 
+function isIos() {
+  return /iphone|ipad|ipod/i.test(navigator.userAgent);
+}
+
+function isInStandaloneMode() {
+  // already installed / launched from home screen
+  return window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+}
+
 function wireInstallPrompt() {
   const banner = el("#install-banner");
+  const textEl = el("#install-text");
+  const acceptBtn = el("#install-accept");
+  const dismissBtn = el("#install-dismiss");
   let deferredPrompt = null;
 
-  window.addEventListener("beforeinstallprompt", (e) => {
-    e.preventDefault();
-    deferredPrompt = e;
-    if (!localStorage.getItem("curator:install-dismissed")) {
+  if (isInStandaloneMode() || localStorage.getItem("curator:install-dismissed")) {
+    return;
+  }
+
+  if (isIos()) {
+    // iOS Safari never fires beforeinstallprompt — there is no programmatic
+    // install API at all, so we just show the manual steps.
+    textEl.textContent = "Install: tap the Share icon below, then \u201cAdd to Home Screen.\u201d";
+    acceptBtn.style.display = "none";
+    banner.dataset.visible = "true";
+  } else {
+    // Android / desktop Chrome, Edge, etc. — use the native prompt.
+    window.addEventListener("beforeinstallprompt", (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      textEl.textContent = "Add Curator to your home screen for quick access.";
+      acceptBtn.style.display = "";
       banner.dataset.visible = "true";
-    }
+    });
+
+    acceptBtn.addEventListener("click", async () => {
+      banner.dataset.visible = "false";
+      if (deferredPrompt) {
+        deferredPrompt.prompt();
+        await deferredPrompt.userChoice;
+        deferredPrompt = null;
+      }
+    });
+  }
+
+  dismissBtn.addEventListener("click", () => {
+    banner.dataset.visible = "false";
+    localStorage.setItem("curator:install-dismissed", "1");
   });
+}
 
   el("#install-accept").addEventListener("click", async () => {
     banner.dataset.visible = "false";
