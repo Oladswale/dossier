@@ -208,11 +208,11 @@ function wireInstallPrompt() {
     }
   });
 
-  el("#install-dismiss").addEventListener("click", () => {
-    banner.dataset.visible = "false";
-    localStorage.setItem("curator:install-dismissed", "1");
-  });
-}
+  // el("#install-dismiss").addEventListener("click", () => {
+  //   banner.dataset.visible = "false";
+  //   localStorage.setItem("curator:install-dismissed", "1");
+  // });
+
 
 async function init() {
   renderRail();
