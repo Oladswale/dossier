@@ -1,8 +1,88 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-29T14:53:17.224928+00:00",
+  "updated": "2026-07-29T18:47:29.253831+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a409852cfd06d350",
+      "title": "The Work-From-Home Surcharge: Inside the Controversial New Fee Affecting Renters",
+      "link": "https://www.realtor.com/news/trends/working-from-home-could-cost-hundreds-a-month/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A rental listing in California has sparked debate among renters—thanks to its $200 monthly fee for tenants who work from home.",
+      "published": "2026-07-29T18:28:51+00:00",
+      "fetched": "2026-07-29T18:47:29.253186+00:00"
+    },
+    {
+      "id": "a2c2c67ffe8ced79",
+      "title": "Fed Holds Interest Rates Steady in Split Decision as Rebel Faction Presses for Action on Inflation",
+      "link": "https://www.realtor.com/news/trends/fed-interest-rate-decision-kevin-warsh-july-2026-mortgages/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Fed Chairman Kevin Warsh joined the majority on the 12-member Federal Open Market Committee in the 9-3 vote.",
+      "published": "2026-07-29T18:02:58+00:00",
+      "fetched": "2026-07-29T18:47:29.253225+00:00"
+    },
+    {
+      "id": "876989cb5806760b",
+      "title": "LeBron James: Supercommuter? Inside Wild Rumors NBA Pro Will Live in New York City and Travel to Philadelphia 76ers Via Helicopter",
+      "link": "https://www.realtor.com/news/sports/lebron-james-new-york-philadelphia-helicopter-price-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "James, 41, could reportedly live in New York while playing for the 76ers—and commute to Philadelphia in a helicopter.",
+      "published": "2026-07-29T17:54:44+00:00",
+      "fetched": "2026-07-29T18:47:29.253260+00:00"
+    },
+    {
+      "id": "cb526b2a57058b45",
+      "title": "The Old Farmer’s Almanac Fall 2026 Outlook: Is Your Property Ready for El Niño?",
+      "link": "https://www.realtor.com/news/trends/old-farmers-almanac-fall-2026-outlook-homeowner-prep/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The fall 2026 forecast reveals a distinct national split: a warm interior wrapped in cooler coastal weather.",
+      "published": "2026-07-29T16:38:20+00:00",
+      "fetched": "2026-07-29T18:47:29.253291+00:00"
+    },
+    {
+      "id": "6425b04993fb2dbc",
+      "title": "Senate Confirms New Spymaster After Mortgage Boss Bill Pulte Fired 30% of Staff in the Role",
+      "link": "https://www.realtor.com/news/real-estate-news/senate-confirm-dni-jay-clayton-bill-pulte/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Pulte will return to his role as the top housing official in the Trump administration.",
+      "published": "2026-07-29T15:37:53+00:00",
+      "fetched": "2026-07-29T18:47:29.253319+00:00"
+    },
+    {
+      "id": "e4357d8ebf97f3b9",
+      "title": "Mortgage Applications Plunge as Surging Interest Rates Deter Buyers",
+      "link": "https://www.realtor.com/news/trends/mortgage-applications-apply-for-loan-july-29-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage applications fell last week as rising oil prices drove interest rates higher, deterring would-be homebuyers.",
+      "published": "2026-07-29T15:26:42+00:00",
+      "fetched": "2026-07-29T18:47:29.253346+00:00"
+    },
+    {
+      "id": "f8e8ab1cfc340ba6",
+      "title": "Stuck at 10 Loans? Why Scaling Investors Need a Financing Plan From Day 1",
+      "link": "https://www.biggerpockets.com/blog/stuck-at-10-loans-why-scaling-investors-need-a-financing-plan-from-day-1",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Here’s a common, nasty-surprise scenario many beginner investors have to confront: An investor with a few properties makes a move to expand their portfolio. They have an excellent credit score [ ]",
+      "published": "2026-07-29T15:22:04+00:00",
+      "fetched": "2026-07-29T18:47:28.796775+00:00"
+    },
+    {
+      "id": "6ad5148428e07808",
+      "title": "EXCLUSIVE: Bill Cosby Takes $6 Million New York Home Off the Market—After Skipping $60 Million Rape Case Deposition Due to ‘Health Issues’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/bill-cosby-new-york-home-sale-update-health-lawsuit/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Cosby, 89, originally listed the property for sale in January—two months before he lost a $60 million civil sexual assault suit.",
+      "published": "2026-07-29T15:11:01+00:00",
+      "fetched": "2026-07-29T18:47:29.253382+00:00"
+    },
     {
       "id": "2503b1d51807bb37",
       "title": "Foreign Buyers Spend Billions Less Than Last Year on U.S. Housing Market",
@@ -1422,86 +1502,6 @@
       "summary": "Do you have home equity sitting in your primary residence? You could use it to buy your first or next rental property! There are several ways to do this, and [ ]",
       "published": "2026-06-05T11:00:03+00:00",
       "fetched": "2026-07-29T08:30:04.859429+00:00"
-    },
-    {
-      "id": "dca9203421634e90",
-      "title": "The “Engine” of the U.S. Economy is Starting to Crack (It Will Affect Housing)",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-431",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The “engine” of the U.S. economy is starting to crack—and real estate is already feeling the effects. Just last week, we touched on the hidden “recession” affecting many Americans.",
-      "published": "2026-06-04T11:00:22+00:00",
-      "fetched": "2026-07-29T08:30:04.859459+00:00"
-    },
-    {
-      "id": "e82485620569ecd5",
-      "title": "From Crushing Debt to Renting Out Billy Joel’s Former Estate—How Ben Chester Turned It All Around",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-ben-chester",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Ben Chester Location New York City Occupation Tech sales and real estate investor Assets Eight properties, three short-term rentals (including Billy Joel s former Hudson River estate) Investment strategy Short-term [ ]",
-      "published": "2026-06-03T18:28:49+00:00",
-      "fetched": "2026-07-29T08:30:04.859488+00:00"
-    },
-    {
-      "id": "3835803bb86e792b",
-      "title": "Mortgage Rates Hit 6.5%: Six Practical Moves to Keep Your Real Estate Investing Career Moving Forward",
-      "link": "https://www.biggerpockets.com/blog/practical-moves-to-keep-your-real-estate-investing-career-moving-forward",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Mortgage rates are now over 6.5%, the highest level since the Iran war began. For anyone who planned to make 2026 the year they started or accelerated their real estate [ ]",
-      "published": "2026-06-03T17:00:05+00:00",
-      "fetched": "2026-07-29T08:30:04.859524+00:00"
-    },
-    {
-      "id": "4da67af325d8f033",
-      "title": "The 3 Insurance Mistakes That Cost Landlords the Most (According to a Guy Who’s Seen Thousands of Claims)",
-      "link": "https://www.biggerpockets.com/blog/texting-with-darren-nix",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "A conversation with Darren Nix, founder and CEO of Steadily Most real estate investors think about insurance exactly twice: when they close on a property and when something breaks. The [ ]",
-      "published": "2026-06-03T16:56:50+00:00",
-      "fetched": "2026-07-29T08:30:04.859554+00:00"
-    },
-    {
-      "id": "fd21d5cfac61e6fe",
-      "title": "The Ultimate Guide to Buying Off-Market Properties (As a Complete Beginner)",
-      "link": "https://www.biggerpockets.com/blog/rookie-726",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Struggling to find great real estate deals on the MLS? What if we told you some of the best rental properties are often found elsewhere? If you want better cash [ ]",
-      "published": "2026-06-03T11:00:44+00:00",
-      "fetched": "2026-07-29T08:30:04.859580+00:00"
-    },
-    {
-      "id": "ee3c26986817ccf3",
-      "title": "The Little-Known Loan That Helped Me Turn $9K Down into $150K in Equity",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1286",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This is arguably the best real estate investing loan on the market today. It funds the purchase, renovation, closing costs, and up to six months of mortgage payments, so you’re [ ]",
-      "published": "2026-06-03T11:00:29+00:00",
-      "fetched": "2026-07-29T08:30:04.859610+00:00"
-    },
-    {
-      "id": "9f7f9c03eaa1e603",
-      "title": "How Government Red Tape is Stopping Investors and Flippers From Rehabbing Older Homes",
-      "link": "https://www.biggerpockets.com/blog/how-government-red-tape-is-stopping-investors-and-flippers-from-rehabbing-older-homes",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Growing old is never much fun—unless it’s a house, in which case, for BRRRR investors and flippers, it has traditionally been both a lot of fun and a great source [ ]",
-      "published": "2026-06-02T16:44:22+00:00",
-      "fetched": "2026-07-29T08:30:04.859636+00:00"
-    },
-    {
-      "id": "3d467bede1304ece",
-      "title": "Home Listing Prices Fall for 16th Straight Week (and It Could Keep Coming)",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-430",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Home listing prices have been falling for weeks, and it’s not just sellers who are getting fed up. Real estate agents have finally decided to call it quits, with many [ ]",
-      "published": "2026-06-02T11:00:44+00:00",
-      "fetched": "2026-07-29T08:30:04.859663+00:00"
     }
   ]
 }

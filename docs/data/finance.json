@@ -1,8 +1,238 @@
 {
   "category": "finance",
-  "updated": "2026-07-29T14:53:11.499688+00:00",
-  "count": 94,
+  "updated": "2026-07-29T18:47:23.818749+00:00",
+  "count": 117,
   "items": [
+    {
+      "id": "2dd817c97ab4730c",
+      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+      "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
+      "published": "2026-07-29T18:43:19+00:00",
+      "fetched": "2026-07-29T18:47:23.003134+00:00"
+    },
+    {
+      "id": "e26438d1e8cf9d41",
+      "title": "Here's what changed in the second Fed statement under Warsh",
+      "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
+      "published": "2026-07-29T18:39:55+00:00",
+      "fetched": "2026-07-29T18:47:23.003093+00:00"
+    },
+    {
+      "id": "83066d013c7a48a1",
+      "title": "Ford’s big-truck bet is paying off— and Wall Street is taking notice",
+      "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+      "published": "2026-07-29T18:32:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798592+00:00"
+    },
+    {
+      "id": "69676406ee5b2d7b",
+      "title": "Royal Exchange pre-tax profit declines 94.2% in H1 2026",
+      "link": "https://nairametrics.com/2026/07/29/royal-exchange-pre-tax-profit-declines-94-2-in-h1-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Royal Exchange Plc has released its H1 2026 financial statement, reporting a sharp decline of 94.2% in pre-tax profit. The post Royal Exchange pre-tax profit declines 94.2% in H1 2026 appeared first on Nairametrics .",
+      "published": "2026-07-29T18:23:13+00:00",
+      "fetched": "2026-07-29T18:47:23.321205+00:00"
+    },
+    {
+      "id": "9fe2a425f8ee7b66",
+      "title": "Kenya empowers investigators to seize crypto wallets tied to financial crime",
+      "link": "https://techcabal.com/2026/07/29/crypto-assets-can-now-seized-and-converted-in-kenya/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Kenya's new crypto rules now empower authorities to seize and convert crypto assets into fiat asset to preserve value during investigations.",
+      "published": "2026-07-29T18:22:43+00:00",
+      "fetched": "2026-07-29T18:47:23.818404+00:00"
+    },
+    {
+      "id": "0f0c085db78d666a",
+      "title": "Individual investors are dumping stocks at the fastest pace since the COVID crash",
+      "link": "https://www.marketwatch.com/story/individual-investors-are-dumping-stocks-at-the-fastest-pace-since-the-covid-crash-42b46756?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Individual investors just recorded “their largest net selling of single stocks since the COVID crash,” according to Vanda Research.",
+      "published": "2026-07-29T17:40:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798642+00:00"
+    },
+    {
+      "id": "55235740b382c96e",
+      "title": "Kenya’s new crypto rules could force exchanges to delist foreign stablecoins",
+      "link": "https://techcabal.com/2026/07/29/kenya-crypto-rules-could-force-exchanges-to-delist-foreign-stablecoins/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The new rules give the central bank direct oversight to cut off local access to foreign stablecoins without having to regulate the offshore issuers themselves.",
+      "published": "2026-07-29T17:29:16+00:00",
+      "fetched": "2026-07-29T18:47:23.818449+00:00"
+    },
+    {
+      "id": "ce8fcc2fdd711734",
+      "title": "I’ve seen families destroyed by this common estate-planning mistake. Here’s how to protect yours.",
+      "link": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "It’s not enough to do everything “right” on paper.",
+      "published": "2026-07-29T17:18:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798675+00:00"
+    },
+    {
+      "id": "bfe7f2807865b6e7",
+      "title": "Why SoFi’s stock is dropping, even after its earnings beat expectations",
+      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+      "published": "2026-07-29T17:18:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798704+00:00"
+    },
+    {
+      "id": "73b2e562f811b202",
+      "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
+      "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A strong dollar is doing far less for the fight against inflation than might be expected.",
+      "published": "2026-07-29T17:12:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798737+00:00"
+    },
+    {
+      "id": "39ab2a552153b068",
+      "title": "PwC, EY jointly command an estimated 35.9% of Nigeria’s corporate audit market in 2025`",
+      "link": "https://nairametrics.com/2026/07/29/pwc-ey-jointly-command-an-estimated-35-9-of-nigerias-corporate-audit-market-in-2025/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "PricewaterhouseCoopers (PwC) and Ernst Young (EY) emerged as the leading auditors among 128 major Nigerian companies reviewed in 2025, with each firm auditing 23 companies, representing 17.97% of the total. The post PwC, EY jointly command an estimated 35.9% of Nigeria s corporate audit market in 2025` appeared first on Nairametrics .",
+      "published": "2026-07-29T17:00:13+00:00",
+      "fetched": "2026-07-29T18:47:23.321269+00:00"
+    },
+    {
+      "id": "d9fc6eda004689c3",
+      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+      "published": "2026-07-29T17:00:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798784+00:00"
+    },
+    {
+      "id": "f96711668811227f",
+      "title": "Flutterwave Named to CNBC and Statista’s World’s Top Fintech Companies List",
+      "link": "https://nairametrics.com/2026/07/29/flutterwave-named-to-cnbc-and-statistas-worlds-top-fintech-companies-list/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Flutterwave, Africa s leading payments technology company, has been named to CNBC and Statista s 2025 World s Top Fintech Companies list. The recognition highlights Flutterwave s continued commitment to innovation, operational excellence, and building technology that powers seamless payments and cross-border commerce across Africa and beyond. The CNBC World’s Top Fintech Companies list is an annual global ranking [ ] The post Flutterwave Named to CNBC and Statista s World s Top Fintech Companies List appeared first on Nairametrics .",
+      "published": "2026-07-29T16:59:33+00:00",
+      "fetched": "2026-07-29T18:47:23.321347+00:00"
+    },
+    {
+      "id": "11c8aaf61dd951f8",
+      "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
+      "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil prices rose on Wednesday after President Donald Trump said the U.S. would order heavy strikes after Iran targeted American forces in the Middle East with ballistic missiles overnight.",
+      "published": "2026-07-29T16:36:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798823+00:00"
+    },
+    {
+      "id": "40677e35dc1bc81d",
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "published": "2026-07-29T16:30:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798858+00:00"
+    },
+    {
+      "id": "4d53a51e2d9a2209",
+      "title": "Why trust has become Nigeria’s next digital payments challenge",
+      "link": "https://techcabal.com/2026/07/29/why-trust-has-become-nigeria-digital-payments-challenge/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria no longer has a payments problem. It has a trust problem. That is the central argument of a new report by Bridgforte, a policy research institute, published in partnership with the United Nations Development Programme (UNDP) Innovation Hub in Lagos, which argues that confidence in Nigeria's financial system is now determined less by how quickly money moves than by how reliably the system responds when something goes wrong.",
+      "published": "2026-07-29T16:27:07+00:00",
+      "fetched": "2026-07-29T18:47:23.818515+00:00"
+    },
+    {
+      "id": "4d2e93af5c53998b",
+      "title": "NITDA to license tech firms for software testing under new framework",
+      "link": "https://nairametrics.com/2026/07/29/nitda-to-license-tech-firms-for-software-testing-under-new-framework/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Information Technology Development Agency (NITDA) is set to license tech firms for software testing as it seeks to standardize IT project implementation across government and regulated private sector entities. The post NITDA to license tech firms for software testing under new framework appeared first on Nairametrics .",
+      "published": "2026-07-29T16:10:05+00:00",
+      "fetched": "2026-07-29T18:47:23.321399+00:00"
+    },
+    {
+      "id": "f490bb8d217418b3",
+      "title": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
+      "link": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Clarity Act’s progress in May helped lift the price of bitcoin, but now the measure is facing obstacles in the full Senate.",
+      "published": "2026-07-29T16:03:00+00:00",
+      "fetched": "2026-07-29T18:47:22.798917+00:00"
+    },
+    {
+      "id": "f0794b0bd7a36d2e",
+      "title": "These professional certifications are quietly transforming careers across Nigeria",
+      "link": "https://nairametrics.com/2026/07/29/these-professional-certifications-are-quietly-transforming-careers-across-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Professional certifications are becoming one of the clearest ways Nigerian professionals are distinguishing themselves in an increasingly competitive job market, as employers place greater value on verified expertise and workers seek skills that remain relevant in the age of artificial intelligence. The post These professional certifications are quietly transforming careers across Nigeria appeared first on Nairametrics .",
+      "published": "2026-07-29T15:48:57+00:00",
+      "fetched": "2026-07-29T18:47:23.321454+00:00"
+    },
+    {
+      "id": "c2ec0ab9cf9278e2",
+      "title": "Nigeria tests investor appetite with sale of former telecom monopoly ntel",
+      "link": "https://techcabal.com/2026/07/29/why-ntels-planned-sale-is-about-more-than-amcons-exit/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The process remains in its early stages. No investors have emerged yet, AMCON spokesperson Jude Nwauzor said.",
+      "published": "2026-07-29T15:38:35+00:00",
+      "fetched": "2026-07-29T18:47:23.818546+00:00"
+    },
+    {
+      "id": "60ac8559b2082ef7",
+      "title": "Toheeb Popoola found Photoshop by accident. It changed his life.",
+      "link": "https://techcabal.com/2026/07/29/my-life-in-tech-toheeb-popoola/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "As his family's financial situation worsened, earning an income became just as important as pursuing a university education.",
+      "published": "2026-07-29T15:24:49+00:00",
+      "fetched": "2026-07-29T18:47:23.818576+00:00"
+    },
+    {
+      "id": "f407ce8213ee4692",
+      "title": "Grocery delivery startup GoLemon shuts down after failing to raise fresh capital",
+      "link": "https://techcabal.com/2026/07/29/golemon-shutdown/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "While the startup says individual grocery orders were profitable, it never generated enough volume to cover the fixed costs of running its own supply chain.",
+      "published": "2026-07-29T15:16:57+00:00",
+      "fetched": "2026-07-29T18:47:23.818607+00:00"
+    },
+    {
+      "id": "bc424524699f5aa0",
+      "title": "Nigeria’s First SEC-Licensed Exchange, Quidax, Expands Stablecoin Infrastructure to Over 21 Countries",
+      "link": "https://nairametrics.com/2026/07/29/nigerias-first-sec-licensed-exchange-quidax-expands-stablecoin-infrastructure-to-over-21-countries/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Quidax, the first digital assets exchange to receive a provisional licence from Nigeria s Securities and Exchange Commission (SEC), today announced the expansion of its stablecoin infrastructure to more than 21 countries and 14 currencies, enabling startups, fintechs, and global enterprises to move value seamlessly across Africa and key international markets. Africa loses an estimated $5 [ ] The post Nigeria s First SEC-Licensed Exchange, Quidax, Expands Stablecoin Infrastructure to Over 21 Countries appeared first on Nairametrics .",
+      "published": "2026-07-29T15:00:50+00:00",
+      "fetched": "2026-07-29T18:47:23.321523+00:00"
+    },
     {
       "id": "faed0d42589fd3ae",
       "title": "Nigeria’s $1 trillion target: What the numbers really mean for business",

@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-07-29T14:53:15.392574+00:00",
-  "count": 39,
+  "updated": "2026-07-29T18:47:27.333898+00:00",
+  "count": 59,
   "items": [
+    {
+      "id": "5a7d929d6557a36b",
+      "title": "‘Chicago Fire’ Star Joe Miñoso to Leave Series After 15 Seasons",
+      "link": "https://variety.com/2026/tv/news/chicago-fire-joe-minoso-leaving-season-15-1236823672/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Joe Miñoso is leaving Chicago Fire after 15 seasons, a source confirms to Variety. The actor has played firefighter Joe Cruz on the NBC drama series since Season 1. He will appear in a handful of episodes in the show s upcoming 15th season to wrap up his character arc.",
+      "published": "2026-07-29T18:36:41+00:00",
+      "fetched": "2026-07-29T18:47:27.133947+00:00"
+    },
+    {
+      "id": "85c621a1bb16c106",
+      "title": "What’s Coming to Netflix in August 2026",
+      "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Netflix has announced an exciting new rotation of movies and series for this August, including a variety of horror and crime projects to prepare viewers for the upcoming fall season. The Chucky franchise will kick off the slew of horror movies arriving this month, including the additions of Bride of Chucky, Child s Play 2, and [ ]",
+      "published": "2026-07-29T18:35:00+00:00",
+      "fetched": "2026-07-29T18:47:27.134008+00:00"
+    },
+    {
+      "id": "051d56a1b3a9acd4",
+      "title": "‘The Daily Show’ Sets 30th Anniversary Podcast Hosted by News Team (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/the-daily-show-new-podcast-30th-anniversary-1236822848/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Daily Show blew out the candles on 30 years this month, and to celebrate, the Comedy Central talk series is putting out a three-episode podcast series titled 30 F#@king Years: The Daily Show Remembers. The limited audio series is hosted by the News Team — that s Jordan Klepper, Desi Lydic, Ronny Chieng, Michael Kosta, [ ]",
+      "published": "2026-07-29T18:00:00+00:00",
+      "fetched": "2026-07-29T18:47:27.134070+00:00"
+    },
+    {
+      "id": "6fa3373c007579bb",
+      "title": "Rachel Chinouriri Is ‘One Song Away From Crying’ and Just Weeks Away From Her New Album",
+      "link": "https://www.rollingstone.com/music/music-news/rachel-chinouriri-new-single-album-i-think-i-spoke-too-soon-1235599351/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "British singer and songwriter will release her second studio album I Think I Spoke Too Soon on Oct. 16",
+      "published": "2026-07-29T17:48:40+00:00",
+      "fetched": "2026-07-29T18:47:27.221214+00:00"
+    },
+    {
+      "id": "498fe59e92d9c0fa",
+      "title": "T-Mobile’s Home Internet Deals Include $200 Cash-Back Credit and Free Subscriptions to Hulu and Paramount+",
+      "link": "https://variety.com/2026/shopping/news/best-t-mobile-internet-deals-shop-online-1236570662/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "T-Mobile is making it more affordable to cut ties with traditional internet providers. For a limited time, new customers who sign up for any T-Mobile 5G Home Internet plan can receive their first month of service on T-Mobile1, plus up to $200 back through a virtual prepaid card.2 The rebate amount depends on which plan [ ]",
+      "published": "2026-07-29T17:27:37+00:00",
+      "fetched": "2026-07-29T18:47:27.134125+00:00"
+    },
+    {
+      "id": "711fa995e58694df",
+      "title": "Afroman Sues Officer Who Raided His Home, Sued Him, and Lost",
+      "link": "https://www.rollingstone.com/music/music-news/afroman-sues-officer-who-raided-home-sued-lost-1235600431/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Musician accuses Brian Newland of malicious prosecution, abuse of process, and more",
+      "published": "2026-07-29T17:21:13+00:00",
+      "fetched": "2026-07-29T18:47:27.221248+00:00"
+    },
+    {
+      "id": "ba43797140bdf84d",
+      "title": "DIRECTV’s Newest Duo Bundle Saves $30 on News and Entertainment Channels",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/directv-duo-news-entertainment-bundle-price-savings-1235600407/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The best way to get news and entertainment TV channels online? DIRECTV’s newest Duo bundle",
+      "published": "2026-07-29T17:18:37+00:00",
+      "fetched": "2026-07-29T18:47:27.221282+00:00"
+    },
+    {
+      "id": "a51ae5e718c23728",
+      "title": "Sex Life Stalled? Take Matters Into Your Own Hands (Literally) With Womanizer’s Latest Vibrator",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-womanizer-next-liberty-vibrator-best-sex-toys-2026-1235599923/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Next Liberty promises an orgasm 98% of the time, according to the brand, and is now available for purchase online",
+      "published": "2026-07-29T17:18:31+00:00",
+      "fetched": "2026-07-29T18:47:27.221317+00:00"
+    },
+    {
+      "id": "1413dc24ed829fe7",
+      "title": "The Covid Origins Saga Is More Complicated Than Either Side Wants to Admit",
+      "link": "https://www.rollingstone.com/politics/politics-features/covid-origin-saga-anthony-fauci-hearing-1235600425/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "We're no closer to getting answers after Anthony Fauci exercised his Fifth Amendment rights during his Senate hearing",
+      "published": "2026-07-29T17:03:39+00:00",
+      "fetched": "2026-07-29T18:47:27.221348+00:00"
+    },
+    {
+      "id": "775ae52943e925be",
+      "title": "‘The Odyssey’ Surpasses $700 Million Globally After 12 Days in Theaters",
+      "link": "https://variety.com/2026/film/box-office/the-odyssey-700-million-globally-fourth-biggest-movie-1236823343/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Odyssey has surpassed $700 million at the global box office, becoming the fourth highest-grossing movie of the year after just 12 days in theaters. Christopher Nolan s Greek epic has generated $320.5 million domestically and $407.4 million overseas, bringing worldwide ticket sales to $727.9 million. Hollywood s top three releases of 2026 are June s Toy Story [ ]",
+      "published": "2026-07-29T16:48:22+00:00",
+      "fetched": "2026-07-29T18:47:27.134180+00:00"
+    },
+    {
+      "id": "6074d1fbd49505ee",
+      "title": "Bruce Campbell to Bring ‘Ernie & Emma’ on Nationwide Alamo Drafthouse Tour This Fall (EXCLUSIVE) – Film News in Brief",
+      "link": "https://variety.com/2026/film/news/film-news-in-brief-july-27-2026-1236821755/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Bruce Campbell is set to bring his new independent film, Ernie Emma, to Alamo Drafthouse screens this fall. The nationwide tour will feature Campbell in-person, beginning Friday, Sept. 4 in Los Angeles before stops in San Francisco, New York City, Texas, Washington, D.C., North Carolina, Virginia and more cities through Nov.",
+      "published": "2026-07-29T16:46:33+00:00",
+      "fetched": "2026-07-29T18:47:27.134238+00:00"
+    },
+    {
+      "id": "4196c8794c44f577",
+      "title": "Sundance Teases New Theaters in Boulder, Expanded Competition Slots as Industry Heads to Colorado for ‘Orientation’",
+      "link": "https://variety.com/2026/film/news/sundance-boulder-venues-festival-map-orientation-1236823439/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Hollywood hasn’t begun packing for the fall festivals in Venice, Telluride and Toronto, but the Sundance Film Festival has dropped in with a reminder that January is around the corner. On Wednesday, leadership at Sundance sent out a mid-year update on the fest’s seismic move from Park City, Utah, to the Colorado mountain town of [ ]",
+      "published": "2026-07-29T16:03:58+00:00",
+      "fetched": "2026-07-29T18:47:27.134295+00:00"
+    },
+    {
+      "id": "ac163c654a6bfd86",
+      "title": "BTS Won’t Submit Comeback Album for Consideration at 2027 Grammys",
+      "link": "https://www.rollingstone.com/music/music-news/bts-wont-submit-for-2027-grammy-awards-1235600350/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The group expressed \"hope that music can be heard and loved by itself rather than being divided by region or language\" after the introduction of a Best Asian Pop Music Performance category",
+      "published": "2026-07-29T16:01:07+00:00",
+      "fetched": "2026-07-29T18:47:27.221384+00:00"
+    },
+    {
+      "id": "1416f3fef371dfcb",
+      "title": "‘Tony’ Review: Dominic Sessa Gives His First Movie-Star Performance in Matt Johnson’s Tasty Biopic About the Young Anthony Bourdain",
+      "link": "https://variety.com/2026/film/reviews/tony-review-dominic-sessa-antonio-banderas-1236821892/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The beauty of \"Tony\" is that it doesn’t make anything feel predetermined. It’s the story of an old-school American summer — those months when a college kid like Tony, doing a job because he needs a job, has the drifting freedom to fall into random experiences, because that’s the enchantment of being in a Cape Cod beach town in 1975.",
+      "published": "2026-07-29T16:01:06+00:00",
+      "fetched": "2026-07-29T18:47:27.134352+00:00"
+    },
+    {
+      "id": "93ae6554e3c8f557",
+      "title": "Ozzy Osbourne Haunted Experience Is Headed to Universal Studios’ Halloween Horror Nights",
+      "link": "https://variety.com/2026/film/news/ozzy-osbourne-universal-studios-halloween-horror-nights-1236822990/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Universal Studios’ Halloween Horror Nights is set to pay tribute to Ozzy Osbourne with an original haunted house dubbed “Ozzy Osbourne: Prince of Darkness.” As part of the experience, guests will be able to climb aboard the Crazy Train for a terrifying trip through his disturbing world of rock n roll. Developed as a living [ ]",
+      "published": "2026-07-29T16:00:00+00:00",
+      "fetched": "2026-07-29T18:47:27.134407+00:00"
+    },
+    {
+      "id": "2c396518d4cc68fb",
+      "title": "Ewan McGregor and Alan Cumming to Lead Scottish Stage Adaptation of Harry Macqueen’s Gay Romantic Drama ‘Supernova’",
+      "link": "https://variety.com/2026/theater/global/ewan-mcgregor-alan-cumming-stage-adaptation-supernova-1236823318/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Two of Scotland s best known faces from cinema and TV are set to tread the boards together for the first time and at a theater close to their home towns. Trainspotting legend Ewan McGregor and The Traitors favorite Alan Cumming will take the lead in the stage adaptation of Harry Macqueen s highly acclaimed 2020 romantic [ ]",
+      "published": "2026-07-29T16:00:00+00:00",
+      "fetched": "2026-07-29T18:47:27.134463+00:00"
+    },
+    {
+      "id": "ead8565415e5707e",
+      "title": "Country Music Is Coming Out Strong Against Data Centers",
+      "link": "https://www.rollingstone.com/music/music-country/country-music-artists-oppose-data-centers-1235600150/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From Brad Paisley and Willie Nelson to Tanya Tucker and even Gavin Adcock, country artists are decrying the industrial facilities",
+      "published": "2026-07-29T15:58:33+00:00",
+      "fetched": "2026-07-29T18:47:27.221413+00:00"
+    },
+    {
+      "id": "8f750e8230133a89",
+      "title": "Michael B. Jordan is a Mastermind in ‘The Thomas Crown Affair’ Trailer",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/michael-b-jordan-thomas-crown-affair-teaser-trailer-1235600310/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Jordan directed and produced the second American remake of the heist thriller, which hits theaters next March",
+      "published": "2026-07-29T15:28:52+00:00",
+      "fetched": "2026-07-29T18:47:27.221444+00:00"
+    },
+    {
+      "id": "a39405e485d0094f",
+      "title": "Kavinsky, French DJ-Producer Whose Chilly ‘Nightcall’ Defined ‘Drive,’ Dead at 50",
+      "link": "https://www.rollingstone.com/music/music-news/kavinsky-death-obituary-1235600260/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Artist had resurgence after appearance at 2024 Olympics",
+      "published": "2026-07-29T15:01:02+00:00",
+      "fetched": "2026-07-29T18:47:27.221469+00:00"
+    },
+    {
+      "id": "384623a6a1b701cd",
+      "title": "Tony Iommi on New Solo Album, Missing Ozzy Osbourne, and How He’s Not Going Anywhere",
+      "link": "https://www.rollingstone.com/music/music-features/tony-iommi-from-the-dark-interview-black-sabbath-ozzy-1235599849/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "In his first interview since Ozzy's death, the Black Sabbath guitarist also previews \"World Alone\" from the new solo album he's releasing this fall",
+      "published": "2026-07-29T15:00:00+00:00",
+      "fetched": "2026-07-29T18:47:27.221503+00:00"
+    },
     {
       "id": "206c7a1f75ae4ab4",
       "title": "Two Men Found Guilty in Double Murder of Special Effects Guru and His Partner on Caribbean Island",
