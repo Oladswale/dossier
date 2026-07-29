@@ -1,0 +1,54 @@
+# sources.yaml
+# Your curated source list. Each source is an RSS/Atom feed.
+# category: must match one of the keys in categories.json (docs/data/categories.json)
+# name: display name
+# url: the feed URL
+#
+# Add/remove entries freely. Run `python crawler/check_sources.py` after
+# editing this file to verify every URL is a live, parseable feed before
+# you push — dead or malformed feeds are skipped automatically at crawl
+# time anyway, but it's nice to know ahead of a run.
+
+finance:
+  - name: Investopedia
+    url: https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline
+  - name: MarketWatch Top Stories
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+  - name: CNBC Finance
+    url: https://www.cnbc.com/id/10000664/device/rss/rss.html
+  - name: Nairametrics
+    url: https://nairametrics.com/feed/
+  - name: TechCabal
+    url: https://techcabal.com/feed/
+
+wealth-building:
+  - name: Mr. Money Mustache
+    url: https://www.mrmoneymustache.com/feed/
+  - name: Get Rich Slowly
+    url: https://www.getrichslowly.org/feed/
+  - name: Financial Samurai
+    url: https://www.financialsamurai.com/feed/
+  - name: The Simple Dollar
+    url: https://www.thesimpledollar.com/feed/
+
+entertainment:
+  - name: Variety
+    url: https://variety.com/feed/
+  - name: Rolling Stone
+    url: https://www.rollingstone.com/feed/
+  - name: Entertainment Weekly
+    url: https://ew.com/feed/
+
+education:
+  - name: MIT News
+    url: https://news.mit.edu/rss/feed
+  - name: Edutopia
+    url: https://www.edutopia.org/rss.xml
+  - name: Open Culture
+    url: https://www.openculture.com/feed
+
+real-estate:
+  - name: BiggerPockets Blog
+    url: https://www.biggerpockets.com/blog/feed
+  - name: Realtor.com News
+    url: https://www.realtor.com/news/feed/

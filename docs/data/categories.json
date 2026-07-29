@@ -1,0 +1,9 @@
+{
+  "categories": [
+    { "id": "finance", "label": "Finance", "color": "#3b6e5e" },
+    { "id": "wealth-building", "label": "Wealth Building", "color": "#8a6d3b" },
+    { "id": "entertainment", "label": "Entertainment", "color": "#7a4b6e" },
+    { "id": "education", "label": "Education", "color": "#3b5a8a" },
+    { "id": "real-estate", "label": "Real Estate", "color": "#6e5a3b" }
+  ]
+}

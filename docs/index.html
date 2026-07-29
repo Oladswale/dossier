@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Curator</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.svg">
+  <link rel="apple-touch-icon" href="icons/icon-192.svg">
+  <meta name="theme-color" content="#161513">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="install-banner" id="install-banner">
+    <span>Add Curator to your home screen for quick access.</span>
+    <div style="display:flex; gap:8px;">
+      <button id="install-accept">Install</button>
+      <button class="dismiss" id="install-dismiss">Not now</button>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <h1>Curator</h1>
+      <span class="dateline" id="dateline"></span>
+    </div>
+    <div class="sub">Finance &middot; Wealth Building &middot; Education &middot; Real Estate &middot; Entertainment</div>
+  </header>
+
+  <div class="status-line" id="status-line">Loading…</div>
+
+  <div class="search-row">
+    <input type="search" id="search-input" placeholder="Search headlines, sources, summaries…">
+  </div>
+
+  <nav class="category-rail" id="category-rail"></nav>
+
+  <main id="article-list"></main>
+
+  <script>
+    document.getElementById("dateline").textContent = new Date().toLocaleDateString(undefined, {
+      weekday: "short", year: "numeric", month: "short", day: "numeric"
+    });
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

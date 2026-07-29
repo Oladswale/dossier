@@ -1,0 +1,26 @@
+{
+  "updated": "2026-07-29T08:14:16.077101+00:00",
+  "total_items": 193,
+  "categories": [
+    {
+      "category": "finance",
+      "count": 70
+    },
+    {
+      "category": "wealth-building",
+      "count": 8
+    },
+    {
+      "category": "entertainment",
+      "count": 20
+    },
+    {
+      "category": "education",
+      "count": 65
+    },
+    {
+      "category": "real-estate",
+      "count": 30
+    }
+  ]
+}
