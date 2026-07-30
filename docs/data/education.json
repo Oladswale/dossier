@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-07-30T13:20:14.381824+00:00",
-  "count": 70,
+  "updated": "2026-07-30T19:05:03.976729+00:00",
+  "count": 71,
   "items": [
+    {
+      "id": "17e651ac77f40d4b",
+      "title": "Why some nitrogen-processing enzymes are more efficient than others",
+      "link": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer production.",
+      "published": "2026-07-30T15:00:00+00:00",
+      "fetched": "2026-07-30T19:05:02.830009+00:00"
+    },
     {
       "id": "b9989e3bf85a92cc",
       "title": "A Guide to Every Major Film Adaptation of Homer’s Odyssey Before Christopher Nolan’s Movie",

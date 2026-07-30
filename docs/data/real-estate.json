@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-30T13:20:14.957662+00:00",
+  "updated": "2026-07-30T19:05:05.043238+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2c80a041e60c3092",
+      "title": "Retired Homeowners Need To Start Spending Their Nest Egg—and The Best Investment Is Your House",
+      "link": "https://www.realtor.com/advice/finance/retired-homeowners-smart-spending-nest-egg-improvements/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "People are living longer, meaning retirees fear they're spending their nest eggs too quickly. But spending money on your home has benefits.",
+      "published": "2026-07-30T18:08:06+00:00",
+      "fetched": "2026-07-30T19:05:05.042573+00:00"
+    },
+    {
+      "id": "5b61ed81b8806dd2",
+      "title": "Twin 100-Year-Old Nantucket Cottages Hit the Market for $2.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/twin-100-year-old-nantucket-cottages-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The cottages, built in the 1920s, could be used as a Nantucket getaway or short-term rentals.",
+      "published": "2026-07-30T17:48:02+00:00",
+      "fetched": "2026-07-30T19:05:05.042607+00:00"
+    },
+    {
+      "id": "1879aa1e44c7065a",
+      "title": "George and Amal Clooney Forced To Evacuate Home in France During Wildfires",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/george-clooney-amal-clooney-france-wildires-evacuation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Clooneys' farmhouse is located in one of the many regions where wildfires are rapidly expanding across France, Spain, Italy, and Greece.",
+      "published": "2026-07-30T16:21:36+00:00",
+      "fetched": "2026-07-30T19:05:05.042635+00:00"
+    },
+    {
+      "id": "a9badf6b266b54d1",
+      "title": "Mortgage Rates Jump to 6.66% as Fed Eyes Fall Rate Hikes",
+      "link": "https://www.realtor.com/news/trends/mortgage-interest-rates-now-july-30-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed home loans climbed to 6.66% for the week ending July 30 after the Fed voted to hold rates steady.",
+      "published": "2026-07-30T16:00:00+00:00",
+      "fetched": "2026-07-30T19:05:05.042662+00:00"
+    },
+    {
+      "id": "a10d2aa844b1bb3e",
+      "title": "Severe Thunderstorms Inflicted $82 Billion in Damage Last Year, Making Them More Costly Than Hurricanes",
+      "link": "https://www.realtor.com/news/trends/severe-thunderstorms-insurance-hail-tornado-damage-first-street-2025/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Convective storms, which may include hail, lightning, strong winds, or tornadoes, accounted for nearly one-third of all disaster losses.",
+      "published": "2026-07-30T15:21:00+00:00",
+      "fetched": "2026-07-30T19:05:05.042689+00:00"
+    },
+    {
+      "id": "f4e0bdecd30935c3",
+      "title": "Where Should You Park Cash Between Real Estate Deals?",
+      "link": "https://www.biggerpockets.com/blog/where-should-you-park-cash-between-real-estate-deals",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Sponsored by Connect Invest. If you ve ever gone in as an LP on a syndication, you already know this trade. The GP does the underwriting, manages the asset, and handles [ ]",
+      "published": "2026-07-30T14:00:17+00:00",
+      "fetched": "2026-07-30T19:05:04.457327+00:00"
+    },
     {
       "id": "39aba7f100c05976",
       "title": "Fannie Mae IPO Could Have Serious Side Effects on Mortgage Rates",
@@ -12,6 +72,16 @@
       "summary": "Nearly 50% of mortgages in the U.S. flow through Fannie Mae or Freddie Mac—but a push from the Trump Administration could sell shares of these government enterprises and put them [ ]",
       "published": "2026-07-30T11:00:43+00:00",
       "fetched": "2026-07-30T13:20:14.669289+00:00"
+    },
+    {
+      "id": "63476aad4aa584e5",
+      "title": "They Left the Bay Area—Then Homeownership Jumped 33%",
+      "link": "https://www.realtor.com/news/trends/bay-area-movers-homeownership-ai-boom/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Cheaper housing put ownership within reach even before AI wealth flooded the market—but moving came with a cost of its own.",
+      "published": "2026-07-30T10:00:00+00:00",
+      "fetched": "2026-07-30T19:05:05.042719+00:00"
     },
     {
       "id": "40ae0ec1ccc4a3f9",
@@ -62,6 +132,16 @@
       "summary": "Real estate returns can meet or exceed stocks. But there are some major caveats to the data. Experts still aren't warm on the idea, either.",
       "published": "2026-07-29T22:06:04+00:00",
       "fetched": "2026-07-30T01:10:42.014591+00:00"
+    },
+    {
+      "id": "ca5261858e1767e2",
+      "title": "‘Do Solar Panels Increase Home Values?’ See How Homebuyers are Using RealAssist AI on Realtor.com",
+      "link": "https://www.realtor.com/news/trends/real-estate-questions-explanations-ai-realtor/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Launched this week, RealAssist AI is a homebuying assistant tool built in collaboration with Google Gemini and Google Cloud.",
+      "published": "2026-07-29T21:16:11+00:00",
+      "fetched": "2026-07-30T19:05:05.042777+00:00"
     },
     {
       "id": "ff154a59b91859e2",
@@ -1422,86 +1502,6 @@
       "summary": "Thinking about self-managing your rental property? Then, you’ll need property management software to help with things like processing applications, collecting rent, and managing maintenance requests. In this episode, we’re sharing [ ]",
       "published": "2026-06-12T11:00:45+00:00",
       "fetched": "2026-07-29T08:30:04.859009+00:00"
-    },
-    {
-      "id": "7c4fafbbb09bca33",
-      "title": "Anyone Can Flip a House After Hearing This",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1290",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Anyone can flip a house after hearing this episode. If you’ve got around 30 minutes and want to make a faster return on your money than rental properties, this is [ ]",
-      "published": "2026-06-12T11:00:04+00:00",
-      "fetched": "2026-07-29T08:30:04.859035+00:00"
-    },
-    {
-      "id": "f310d5dae0f108a0",
-      "title": "Real Estate Investors’ Purchases Drop to a Six-Year Low—Here’s Why Now Is a Great Time to Buy",
-      "link": "https://www.biggerpockets.com/blog/real-estate-investors-purchases-drop-to-a-six-year-low-heres-why-now-is-a-great-time-to-buy",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "It had to happen sooner or later: The effect of high interest rates, purchase prices, and escalating holding costs has caused investor purchases to plummet to a six-year low, according [ ]",
-      "published": "2026-06-11T15:19:37+00:00",
-      "fetched": "2026-07-29T08:30:04.859064+00:00"
-    },
-    {
-      "id": "8ef25f02d07b97fe",
-      "title": "New Data: U.S. Home Prices Are Hitting Their Floor",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-433",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Did home prices just hit their floor? New demand data is showing something no one expected—buyers coming back. If the supply-demand balance hits equilibrium, we could see the national housing [ ]",
-      "published": "2026-06-11T11:00:40+00:00",
-      "fetched": "2026-07-29T08:30:04.859091+00:00"
-    },
-    {
-      "id": "476342db9472c96e",
-      "title": "A New Report Says That Retirement Could Cost $2.5 Million by 2043—Here’s How Real Estate Investing Could Help You Get There",
-      "link": "https://www.biggerpockets.com/blog/a-new-report-says-that-retirement-could-cost-millions-by-2043-heres-how-real-estate-investing-could-help-you-get-there",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The conventional concept of retirement—leisurely games of golf, twice-yearly vacations, and drinking coffee at morning book clubs—is becoming as improbable as watching a unicorn foal graze in your back garden. [ ]",
-      "published": "2026-06-10T15:34:38+00:00",
-      "fetched": "2026-07-29T08:30:04.859124+00:00"
-    },
-    {
-      "id": "52b1e46cc21f91cc",
-      "title": "Does Your Real Estate Investing Platform Cater to Your Investment Type? Here’s Why It Should",
-      "link": "https://www.biggerpockets.com/blog/does-your-real-estate-investing-platform-cater-to-your-investment-type-heres-why-it-should",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This article is presented by Propstream. The world of real estate investing is almost unthinkable today without software tools geared toward generating leads, calculating risk, and working out a viable [ ]",
-      "published": "2026-06-10T15:16:14+00:00",
-      "fetched": "2026-07-29T08:30:04.859154+00:00"
-    },
-    {
-      "id": "2ff4eeddf36a7d78",
-      "title": "Big Changes I’m Making to My Portfolio This Year (That Will Make Me Richer)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1289",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Many rookies think things become easy once you’ve built a large real estate portfolio, but that’s far from true. Even with 26 short-term rentals, a 13-unit hotel, and a few [ ]",
-      "published": "2026-06-10T11:00:05+00:00",
-      "fetched": "2026-07-29T08:30:04.859182+00:00"
-    },
-    {
-      "id": "702923777a700b28",
-      "title": "Big Changes I’m Making to My Portfolio This Year (That Will Make Me Richer)",
-      "link": "https://www.biggerpockets.com/blog/rookie-729",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Many rookies think things become easy once you’ve built a large real estate portfolio, but that’s far from true. Even with 26 short-term rentals, a 13-unit hotel, and a few [ ]",
-      "published": "2026-06-10T11:00:03+00:00",
-      "fetched": "2026-07-29T08:30:04.859210+00:00"
-    },
-    {
-      "id": "24815333469be43f",
-      "title": "Devon Kennard, The NFL Linebacker Who Built a 50 Rental Portfolio",
-      "link": "https://www.biggerpockets.com/blog/texting-with-devon-kennard",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Most NFL players are broke within five years of retirement. The statistic gets repeated so often it s become background noise, but the numbers are real, and the trajectory is brutal: [ ]",
-      "published": "2026-06-09T16:35:09+00:00",
-      "fetched": "2026-07-29T08:30:04.859235+00:00"
     }
   ]
 }

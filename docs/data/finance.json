@@ -1,8 +1,268 @@
 {
   "category": "finance",
-  "updated": "2026-07-30T13:20:08.993170+00:00",
+  "updated": "2026-07-30T19:04:56.804931+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d5a4deab42eeb9ff",
+      "title": "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve",
+      "link": "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Kevin Warsh insists the Federal Reserve will do whatever it takes to reduce U.S. inflation to its 2% target, but investors aren’t buying it.",
+      "published": "2026-07-30T19:02:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906649+00:00"
+    },
+    {
+      "id": "c1c3ed7f74b41fec",
+      "title": "The warning signal insiders are sending",
+      "link": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Corporate insiders haven’t been this bearish in more than 20 years.",
+      "published": "2026-07-30T18:49:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906690+00:00"
+    },
+    {
+      "id": "c277793fc990ba2c",
+      "title": "African airlines record highest international passenger demand growth in June",
+      "link": "https://nairametrics.com/2026/07/30/african-airlines-record-highest-international-passenger-demand-growth-in-june/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "African airlines posted a 6.7% year-on-year increase in international passenger demand in June 2026, the strongest growth among all regions covered in the International Air Transport Association's (IATA) latest passenger traffic report. The post African airlines record highest international passenger demand growth in June appeared first on Nairametrics .",
+      "published": "2026-07-30T18:39:37+00:00",
+      "fetched": "2026-07-30T19:04:54.955043+00:00"
+    },
+    {
+      "id": "c529a2d8eae3d92e",
+      "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
+      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Microsoft is spending heavily on AI but is also taking a “responsible” approach to its financials, an analyst said.",
+      "published": "2026-07-30T17:36:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906735+00:00"
+    },
+    {
+      "id": "a0f2b2a4a5df07f4",
+      "title": "MeCure picks Anderline Dukor as sole CEO ahead of N50 billion expansion",
+      "link": "https://nairametrics.com/2026/07/30/mecure-picks-anderline-dukor-as-sole-ceo-ahead-of-n50-billion-expansion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "MeCure Industries Plc has appointed Mrs. Anderline Ndidi Dukor as its Chief Executive Officer following a reorganisation of the company’s executive leadership structure. The post MeCure picks Anderline Dukor as sole CEO ahead of N50 billion expansion appeared first on Nairametrics .",
+      "published": "2026-07-30T17:28:28+00:00",
+      "fetched": "2026-07-30T19:04:54.955099+00:00"
+    },
+    {
+      "id": "fc6b8cbf7daeef4a",
+      "title": "Food and fuel prices now worry African youths more than political instability",
+      "link": "https://nairametrics.com/2026/07/30/food-and-fuel-prices-now-worry-african-youths-more-than-political-instability/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Rising cost of living has become the single biggest issue shaping the lives of young Africans, overtaking infectious diseases and political instability, according to the 2026 African Youth Survey. The post Food and fuel prices now worry African youths more than political instability appeared first on Nairametrics .",
+      "published": "2026-07-30T17:27:44+00:00",
+      "fetched": "2026-07-30T19:04:54.955142+00:00"
+    },
+    {
+      "id": "d3047c11232a3cce",
+      "title": "Filmhouse records highest-ever presales as Spider-Man crosses 3,500 advance tickets",
+      "link": "https://nairametrics.com/2026/07/30/filmhouse-records-highest-ever-presales-as-spider-man-crosses-3500-advance-tickets/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Filmhouse Cinemas has recorded the highest advance ticket sales in its history, with more than 3,500 tickets sold for Spider-Man: Brand New Day ahead of its nationwide release on Friday, July 31. The cinema chain confirmed this on Thursday that the milestone has exceeded its previous presale record by more than threefold, establishing a new [ ] The post Filmhouse records highest-ever presales as Spider-Man crosses 3,500 advance tickets appeared first on Nairametrics .",
+      "published": "2026-07-30T17:20:05+00:00",
+      "fetched": "2026-07-30T19:04:54.955195+00:00"
+    },
+    {
+      "id": "38c1d5ea69c292b8",
+      "title": "Social Security’s biggest problem isn’t a design flaw. It’s a missing trust fund.",
+      "link": "https://www.marketwatch.com/story/social-securitys-biggest-problem-isnt-a-design-flaw-its-a-missing-trust-fund-75cd1351?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Should policymakers look beyond the payroll tax to cover this share of the deficit?",
+      "published": "2026-07-30T17:18:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906762+00:00"
+    },
+    {
+      "id": "26f643835f5c8a3a",
+      "title": "The cyclospora outbreak is the biggest ever. Why this ‘unusual’ outbreak is so hard to manage.",
+      "link": "https://www.marketwatch.com/story/the-cyclospora-outbreak-is-the-biggest-ever-why-the-unusual-outbreak-is-so-hard-to-manage-4d1b4841?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The complexity of the cyclospora outbreak raises questions about whether it could last longer than previous outbreaks, which usually end in August.",
+      "published": "2026-07-30T17:16:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906792+00:00"
+    },
+    {
+      "id": "40612f685a7cbad6",
+      "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "published": "2026-07-30T17:07:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906821+00:00"
+    },
+    {
+      "id": "fc2703ed84102140",
+      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
+      "published": "2026-07-30T17:05:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906850+00:00"
+    },
+    {
+      "id": "73fe964309f84c31",
+      "title": "FG to publish fuel subsidy savings after months of public scrutiny",
+      "link": "https://nairametrics.com/2026/07/30/fg-to-publish-fuel-subsidy-savings-after-months-of-public-scrutiny/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government will, in the coming days, publish a detailed analysis of savings from the removal of fuel and foreign exchange subsidies and how the funds have been utilised. The post FG to publish fuel subsidy savings after months of public scrutiny appeared first on Nairametrics .",
+      "published": "2026-07-30T16:45:39+00:00",
+      "fetched": "2026-07-30T19:04:54.955232+00:00"
+    },
+    {
+      "id": "ca1910cca02e5d51",
+      "title": "A break below this critical stock-market threshold used to signal panic for investors. Not anymore.",
+      "link": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "This year provides a good illustration of how this strategy often falls flat.",
+      "published": "2026-07-30T16:45:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906874+00:00"
+    },
+    {
+      "id": "9a7d566526449463",
+      "title": "Mortgage rates jump to their highest level in a year and show few signs of falling",
+      "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Federal Reserve on Wednesday kept its benchmark interest rate steady, but political and economic developments are pushing mortgage rates higher.",
+      "published": "2026-07-30T16:20:00+00:00",
+      "fetched": "2026-07-30T19:04:53.906899+00:00"
+    },
+    {
+      "id": "fc5f9d48ae54c67f",
+      "title": "Dangote Cement’s H1 2026 profit jumps 34% as Nigeria carries Group",
+      "link": "https://nairametrics.com/2026/07/30/dangote-cements-h1-2026-profit-jumps-34-as-nigeria-carries-group/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Cement closed out the first half of 2026 with one of its strongest quarterly profit growths in years, with Nigeria doing the heavy lifting, costs stayed under control, and a shrinking debt profile. The post Dangote Cement s H1 2026 profit jumps 34% as Nigeria carries Group appeared first on Nairametrics .",
+      "published": "2026-07-30T16:18:39+00:00",
+      "fetched": "2026-07-30T19:04:54.955274+00:00"
+    },
+    {
+      "id": "2758e49bd0061acb",
+      "title": "Visa appoints ex-Airtel Money Kenya chief as East Africa head",
+      "link": "https://techcabal.com/2026/07/30/visa-appoints-ex-airtel-money-kenya-chief-as-east-africa-head/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "According to Visa, Kinuthia-Otieno will be based in Nairobi, where she will lead the company's efforts to grow digital payments, deepen partnerships with financial institutions and partners, and expand financial inclusion across the region.",
+      "published": "2026-07-30T15:51:14+00:00",
+      "fetched": "2026-07-30T19:04:56.804669+00:00"
+    },
+    {
+      "id": "80d9e01369c056e0",
+      "title": "Nigeria’s petrol three-wheelers are going electric—with batteries powered by diesel",
+      "link": "https://techcabal.com/2026/07/30/nigerias-petrol-three-wheelers-are-going-electric-with-batteries/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Swap converts Lagos petrol tricycles to electric at no upfront cost, but still relies on diesel generators to charge some of its batteries.",
+      "published": "2026-07-30T15:22:15+00:00",
+      "fetched": "2026-07-30T19:04:56.804708+00:00"
+    },
+    {
+      "id": "a0af4b5b84803737",
+      "title": "Three in four Nigerian youths say the country is on the wrong track",
+      "link": "https://nairametrics.com/2026/07/30/three-in-four-nigerian-youths-say-the-country-is-on-the-wrong-track/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Three out of four Nigerian youths believe the country is heading in the wrong direction, placing Nigeria among the most pessimistic countries in a 16-nation African survey published this month. The post Three in four Nigerian youths say the country is on the wrong track appeared first on Nairametrics .",
+      "published": "2026-07-30T14:30:18+00:00",
+      "fetched": "2026-07-30T19:04:54.955311+00:00"
+    },
+    {
+      "id": "5bf0eda7fdd48da5",
+      "title": "After foreigners leave, South Africa’s convenience stores face a tech test",
+      "link": "https://techcabal.com/2026/07/30/south-africa-spaza-shops/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "While some South Africans have welcomed the return of locally owned businesses, others question whether township consumers can afford the higher prices that have followed.",
+      "published": "2026-07-30T14:28:26+00:00",
+      "fetched": "2026-07-30T19:04:56.804739+00:00"
+    },
+    {
+      "id": "952216e080bb3f3b",
+      "title": "Leadway Assurance, CubeCover, Vitse Technologies Sign on as Official Partners for IMT 5.0",
+      "link": "https://nairametrics.com/2026/07/30/leadway-assurance-cubecover-vitse-technologies-sign-on-as-official-partners-for-imt-5-0/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Insurance Meets Tech (IMT), West Africa’s premier platform for dialogue between the insurance and technology sectors, has announced Leadway Assurance as Official Insurer, CubeCover as Official Digital Insurer, and Vitse Technologies as Official Technology Partner for its fifth edition. The early commitment from these organisations, ahead of the conference scheduled for Friday, September 18, 2026, [ ] The post Leadway Assurance, CubeCover, Vitse Technologies Sign on as Official Partners for IMT 5.0 appeared first on Nairametrics .",
+      "published": "2026-07-30T14:06:00+00:00",
+      "fetched": "2026-07-30T19:04:54.955372+00:00"
+    },
+    {
+      "id": "f622e3b749db6b14",
+      "title": "PenCom’s new RSA rules could send N2 trillion into Nigerian stocks",
+      "link": "https://nairametrics.com/2026/07/30/pencoms-new-rsa-rules-could-send-n2-trillion-into-nigerian-stocks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "United Capital Plc’s Group Chief Executive Officer, Mr. Peter Ashade, has said that the revised Retirement Savings Account (RSA) investment guidelines by the National Pension Commission (PenCom) could unlock more than N2 trillion in fresh institutional inflows into the Nigerian equities market. The post PenCom’s new RSA rules could send N2 trillion into Nigerian stocks appeared first on Nairametrics .",
+      "published": "2026-07-30T14:02:12+00:00",
+      "fetched": "2026-07-30T19:04:54.955422+00:00"
+    },
+    {
+      "id": "e5fd0fbffe3a2039",
+      "title": "How Cardtonic’s Upskill 4.0 Is opening new doors for tech talent in Nigeria and Ghana",
+      "link": "https://nairametrics.com/2026/07/30/how-cardtonics-upskill-4-0-is-opening-new-doors-for-tech-talent-in-nigeria-and-ghana/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Discover how Cardtonic’s Upskill 4.0 is opening new doors for Tech talent in Nigeria and Ghana with 25 MacBooks and 20 fully funded scholarships. The post How Cardtonic’s Upskill 4.0 Is opening new doors for tech talent in Nigeria and Ghana appeared first on Nairametrics .",
+      "published": "2026-07-30T14:00:02+00:00",
+      "fetched": "2026-07-30T19:04:54.955464+00:00"
+    },
+    {
+      "id": "da868f4b44ad53b7",
+      "title": "stop searching, start chatting: Glovo pioneers AI quick-commerce",
+      "link": "https://nairametrics.com/2026/07/30/stop-searching-start-chatting-glovo-pioneers-ai-quick-commerce/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Glovo, a leading multi-category tech company, today announced its integration into the generative AI ecosystem with the launch of its Shopping Assistant for ChatGPT and Claude. Users can now discover retail products, compare prices, and seamlessly order any item using natural conversational language with the AI systems. The Glovo experience inside such platforms introduces a [ ] The post stop searching, start chatting: Glovo pioneers AI quick-commerce appeared first on Nairametrics .",
+      "published": "2026-07-30T13:59:01+00:00",
+      "fetched": "2026-07-30T19:04:54.955528+00:00"
+    },
+    {
+      "id": "c10dea9576ca070e",
+      "title": "Expanding Access, Building Impact: Inside SeedFi’s Growth Journey",
+      "link": "https://nairametrics.com/2026/07/30/expanding-access-building-impact-inside-seedfis-growth-journey/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "As the financial landscape continues to evolve, the conversation around financial inclusion has shifted from simply providing access to capital to creating pathways for long-term financial participation. Across Africa, individuals and businesses increasingly need financial solutions that extend beyond credit, enabling them to build financial identities, grow sustainable livelihoods, and participate more fully in the [ ] The post Expanding Access, Building Impact: Inside SeedFi s Growth Journey appeared first on Nairametrics .",
+      "published": "2026-07-30T13:57:50+00:00",
+      "fetched": "2026-07-30T19:04:54.955581+00:00"
+    },
+    {
+      "id": "b605ed502dd8c226",
+      "title": "Seplat to sell 10% stake in NNPCL joint venture for $281.6 million",
+      "link": "https://nairametrics.com/2026/07/30/seplat-to-sell-10-stake-in-nnpcl-joint-venture-for-281-6-million/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Seplat Energy Plc has signed a legally binding agreement to sell a 10% working interest in its joint venture assets with the Nigerian National Petroleum Company Limited (NNPC Limited) for approximately $281.6 million. The post Seplat to sell 10% stake in NNPCL joint venture for $281.6 million appeared first on Nairametrics .",
+      "published": "2026-07-30T13:52:52+00:00",
+      "fetched": "2026-07-30T19:04:54.955621+00:00"
+    },
+    {
+      "id": "db3ab75e3153c9c6",
+      "title": "One founder’s plan to make childbirth less financially dangerous",
+      "link": "https://techcabal.com/2026/07/30/preggicare-by-healthvest/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "PreggiCare, HealthVest's maternal health savings platform, allows women to save gradually for antenatal care, childbirth and emergencies.",
+      "published": "2026-07-30T13:38:01+00:00",
+      "fetched": "2026-07-30T19:04:56.804765+00:00"
+    },
     {
       "id": "d90bf6253ff2e5eb",
       "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
@@ -1242,266 +1502,6 @@
       "summary": "HBM Nigeria Plc has released its unaudited H1 2026 results, reporting a pre-tax profit of N317.73 billion for the six months ended June 30, 2026. The post HBM Nigeria reports N318 billion profit in H1 2026, declares interim dividend appeared first on Nairametrics .",
       "published": "2026-07-28T16:50:07+00:00",
       "fetched": "2026-07-29T08:14:08.261708+00:00"
-    },
-    {
-      "id": "2de3952d31882abb",
-      "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-      "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Brokerages, startups and even retail investors are building AI agents that can help oversee portfolios and automate investing tasks once handled by humans.",
-      "published": "2026-07-28T16:16:25+00:00",
-      "fetched": "2026-07-29T08:14:07.765060+00:00"
-    },
-    {
-      "id": "72741df569e39446",
-      "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-      "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
-      "published": "2026-07-28T15:35:48+00:00",
-      "fetched": "2026-07-29T08:14:07.765080+00:00"
-    },
-    {
-      "id": "a799302ec47335ed",
-      "title": "Africa no longer wants to import technology. It wants to write the rules",
-      "link": "https://techcabal.com/2026/07/28/africa-wants-more-than-digital-inclusion-it-wants-digital-influence/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Over two days at the African Telecommunications Union's Conference of Plenipotentiaries, officials from across the continent argued that Africa has spent too long importing not just digital infrastructure but the rules that govern it.",
-      "published": "2026-07-28T13:44:35+00:00",
-      "fetched": "2026-07-29T08:14:09.000856+00:00"
-    },
-    {
-      "id": "3db853ebed1fb524",
-      "title": "Egyptian startup Fincart raises $2.8 million to expand AI commerce platform",
-      "link": "https://techcabal.com/2026/07/28/egyptian-startup-fincart-raises-2-8-million-to-expand-ai-commerce-platform/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The raise comes one year after Fincart's undisclosed pre-seed round and coincides with the startup’s pivot from a logistics management platform into an AI-powered operating system for e-commerce merchants.",
-      "published": "2026-07-28T12:07:03+00:00",
-      "fetched": "2026-07-29T08:14:09.000880+00:00"
-    },
-    {
-      "id": "3b3510808b209876",
-      "title": "Cape Verde got the world’s attention. Francophone African tech still needs it.",
-      "link": "https://techcabal.com/2026/07/28/francophone-weekly-by-techcabal-033/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Cape Verde’s sudden global visibility mirrors a bigger problem: Francophone African startups are still fighting for investor attention.",
-      "published": "2026-07-28T11:50:42+00:00",
-      "fetched": "2026-07-29T08:14:09.000900+00:00"
-    },
-    {
-      "id": "b5023a1ae4e5ebca",
-      "title": "Airtel Money wants a $1 billion IPO. Can London deliver?",
-      "link": "https://techcabal.com/2026/07/28/airtel-money-wants-a-1-billion-ipo-can-london-deliver/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Airtel Africa has finally settled on where it wants to take one of Africa’s biggest fintech businesses public. The bigger question is whether that market can still deliver what the company is looking for.",
-      "published": "2026-07-28T11:49:24+00:00",
-      "fetched": "2026-07-29T08:14:09.000923+00:00"
-    },
-    {
-      "id": "914b71ebaa9a0f03",
-      "title": "Absa Kenya automated 71% of processes after $31 million tech spend",
-      "link": "https://techcabal.com/2026/07/28/absa-kenya-automated-71-of-processes-after-31-million-tech-spend/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Absa Bank Kenya, one of the country’s largest commercial banks, said a KES 4 billion ($31 million) technology investment helped automate 71% of its processes in 2025.",
-      "published": "2026-07-28T11:05:28+00:00",
-      "fetched": "2026-07-29T08:14:09.000943+00:00"
-    },
-    {
-      "id": "bc7f306f65d5b1e2",
-      "title": "Cheaper decoders, bigger profits: CANAL+ says MultiChoice is turning the corner",
-      "link": "https://techcabal.com/2026/07/28/canal-multichoice-results/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The company must now prove that traditional pay television can remain relevant as consumers weigh the cost of premium TV against streaming platforms.",
-      "published": "2026-07-28T10:59:39+00:00",
-      "fetched": "2026-07-29T08:14:09.000961+00:00"
-    },
-    {
-      "id": "5c1fe2ada1b5c151",
-      "title": "👨🏿‍🚀TechCabal Daily – Zedcrest acquires Leatherback",
-      "link": "https://techcabal.com/2026/07/28/techcabal-daily-zedcrest-bags-leatherback/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Zedcrest acquires Leatherback Kenyan courts shut out unlicenced lenders Africa wants localised AI models Vodacom’s mobile money boom",
-      "published": "2026-07-28T06:29:57+00:00",
-      "fetched": "2026-07-29T08:14:09.000983+00:00"
-    },
-    {
-      "id": "4325c24fa28b308f",
-      "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-      "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
-      "published": "2026-07-27T18:06:35+00:00",
-      "fetched": "2026-07-29T08:14:07.765102+00:00"
-    },
-    {
-      "id": "47d92fe1114d57f9",
-      "title": "Vodacom’s $548 billion mobile money business shows fintech is driving its future",
-      "link": "https://techcabal.com/2026/07/27/vodacom-processed-548-billion/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The Safaricom transaction not only expands its geographic footprint but also accelerates its ambition to become a leading pan-African fintech player.",
-      "published": "2026-07-27T15:10:48+00:00",
-      "fetched": "2026-07-29T08:14:09.001001+00:00"
-    },
-    {
-      "id": "dd4e5b9c8dc1b0cc",
-      "title": "AI is making it harder to hide income from South Africa’s taxman",
-      "link": "https://techcabal.com/2026/07/27/ai-south-africas-taxman/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Beyond improving tax collection, it offers a glimpse into how algorithmic decision-making is reshaping public institutions and the relationship between citizens and the state.",
-      "published": "2026-07-27T13:08:15+00:00",
-      "fetched": "2026-07-29T08:14:09.001020+00:00"
-    },
-    {
-      "id": "5024fe65f5563cee",
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-      "published": "2026-07-24T22:43:56+00:00",
-      "fetched": "2026-07-29T08:14:07.765123+00:00"
-    },
-    {
-      "id": "561ab9b9ce45e331",
-      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-      "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-      "published": "2026-07-24T14:10:40+00:00",
-      "fetched": "2026-07-29T08:14:07.765205+00:00"
-    },
-    {
-      "id": "428fe49513dcd739",
-      "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-      "link": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.",
-      "published": "2026-07-24T02:42:21+00:00",
-      "fetched": "2026-07-29T08:14:07.765144+00:00"
-    },
-    {
-      "id": "b816f5eda3f36e8a",
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-      "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-      "published": "2026-07-23T20:25:28+00:00",
-      "fetched": "2026-07-29T08:14:07.765161+00:00"
-    },
-    {
-      "id": "9bb74c26cc766138",
-      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-      "link": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
-      "published": "2026-07-23T17:10:06+00:00",
-      "fetched": "2026-07-29T08:14:07.765183+00:00"
-    },
-    {
-      "id": "ecd2c534f68407a5",
-      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-      "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
-      "published": "2026-07-22T22:06:49+00:00",
-      "fetched": "2026-07-29T08:14:07.765226+00:00"
-    },
-    {
-      "id": "c710dd397a97966e",
-      "title": "Kalshi launches election hub for prediction markets ahead of midterms",
-      "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The company said the page gives viewers of its event contracts a central place to see speculators' outlook for the midterm elections.",
-      "published": "2026-07-22T15:23:02+00:00",
-      "fetched": "2026-07-29T08:14:07.765245+00:00"
-    },
-    {
-      "id": "32df0b3634305834",
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "link": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
-      "published": "2026-07-21T20:51:34+00:00",
-      "fetched": "2026-07-29T08:14:07.765271+00:00"
-    },
-    {
-      "id": "de6a7b1d3f8d6f78",
-      "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
-      "link": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
-      "published": "2026-07-21T20:01:39+00:00",
-      "fetched": "2026-07-29T08:14:07.765292+00:00"
-    },
-    {
-      "id": "5b250f9658927748",
-      "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-      "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
-      "published": "2026-07-21T14:37:08+00:00",
-      "fetched": "2026-07-29T08:14:07.765313+00:00"
-    },
-    {
-      "id": "51d36a1fb247782d",
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
-      "published": "2026-07-21T10:24:07+00:00",
-      "fetched": "2026-07-29T08:14:07.765334+00:00"
-    },
-    {
-      "id": "dddadd16bde6214c",
-      "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
-      "link": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Tuesday evening's second-quarter earnings report is the perfect stage to do just that.",
-      "published": "2026-07-20T18:14:23+00:00",
-      "fetched": "2026-07-29T08:14:07.765352+00:00"
-    },
-    {
-      "id": "6f2296a457412a03",
-      "title": "Coinbase trading results may fall short of expectations, according to prediction markets",
-      "link": "https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Speculators think in the company's second quarter earnings report, it will show trading volume fell for a third consecutive quarter.",
-      "published": "2026-07-20T12:41:50+00:00",
-      "fetched": "2026-07-29T08:14:07.765373+00:00"
-    },
-    {
-      "id": "f22fd4c6bb71fac0",
-      "title": "China's car market heads for worst year since 2021 as sales plunge 20%",
-      "link": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Consumer demand for cars in China tumbles following record-high sales of 23.7 million units in 2025.",
-      "published": "2026-07-20T08:43:40+00:00",
-      "fetched": "2026-07-29T08:14:07.765397+00:00"
     }
   ]
 }
