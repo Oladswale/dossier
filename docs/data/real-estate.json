@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-30T08:02:12.002082+00:00",
+  "updated": "2026-07-30T13:20:14.957662+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "39aba7f100c05976",
+      "title": "Fannie Mae IPO Could Have Serious Side Effects on Mortgage Rates",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-447",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Nearly 50% of mortgages in the U.S. flow through Fannie Mae or Freddie Mac—but a push from the Trump Administration could sell shares of these government enterprises and put them [ ]",
+      "published": "2026-07-30T11:00:43+00:00",
+      "fetched": "2026-07-30T13:20:14.669289+00:00"
+    },
+    {
+      "id": "40ae0ec1ccc4a3f9",
+      "title": "They Left the Bay Area Before the AI Boom—Homeownership Jumped 33%",
+      "link": "https://www.realtor.com/news/trends/bay-area-movers-homeownership-ai-boom/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New research finds leavers traded Bay Area incomes, schools, and proximity for cheaper housing as AI wealth raised the bar back home.",
+      "published": "2026-07-30T10:00:00+00:00",
+      "fetched": "2026-07-30T13:20:14.957043+00:00"
+    },
+    {
+      "id": "278dce2f05ac0ec6",
+      "title": "Los Angeles Rents Are Falling, but Not Enough To Be Affordable for New College Grads",
+      "link": "https://www.realtor.com/news/trends/los-angeles-california-renters-college-graduates-july-2026-rent-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Despite Los Angeles County rents falling to multiyear lows, entry-level salaries leave the Class of 2026 struggling to afford studio units.",
+      "published": "2026-07-30T09:32:00+00:00",
+      "fetched": "2026-07-30T13:20:14.957081+00:00"
+    },
+    {
+      "id": "e2f448ff6800a979",
+      "title": "PBS Star and Chef Pati Jinich Serves Up an Inside Look at Eclectic Maryland Home Where She Films Hit Show ‘Pati’s Mexican Table’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/pati-jinich-mexican-table-pbs-maryland-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Jinich, 54, has filmed her Daytime Emmy-nominated cooking show at home in Chevy Chase, MD, for the past 15 years.",
+      "published": "2026-07-30T09:09:00+00:00",
+      "fetched": "2026-07-30T13:20:14.957115+00:00"
+    },
     {
       "id": "4b3c645e46aaa8d2",
       "title": "The Rental Market Flipped: 9 Numbers Every Landlord Needs to Know in 2026",
@@ -1462,46 +1502,6 @@
       "summary": "Most NFL players are broke within five years of retirement. The statistic gets repeated so often it s become background noise, but the numbers are real, and the trajectory is brutal: [ ]",
       "published": "2026-06-09T16:35:09+00:00",
       "fetched": "2026-07-29T08:30:04.859235+00:00"
-    },
-    {
-      "id": "03d2edf7aec0969b",
-      "title": "J Scott: We Have 1-2 Months Before the Economy Begins to Break",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-432",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The next global recession is a lot closer than many Americans think. We’ve been (fairly) insulated from supply chain shocks stemming from the War in Iran, but within the next [ ]",
-      "published": "2026-06-09T11:00:23+00:00",
-      "fetched": "2026-07-29T08:30:04.859262+00:00"
-    },
-    {
-      "id": "dfb197cba3725b97",
-      "title": "Why Two Identical Properties Can Produce Completely Different Returns",
-      "link": "https://www.biggerpockets.com/blog/why-two-identical-properties-can-produce-completely-different-returns",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This article is presented by Onshore. A situation that often catches new real estate investors off guard is a significant discrepancy in return on investment (ROI) between what seem like [ ]",
-      "published": "2026-06-08T16:51:27+00:00",
-      "fetched": "2026-07-29T08:30:04.859294+00:00"
-    },
-    {
-      "id": "baead15206aa684c",
-      "title": "6 Markets Where You Can Launch a Real Estate Investment Career With Homes Under $300,000",
-      "link": "https://www.biggerpockets.com/blog/6-markets-where-you-can-launch-a-real-estate-investment-career-with-homes-under-300000",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If home prices and interest rates are keeping you sidelined from investing, it’s worth looking outside your local market. According to data from Realtor.com, six major metropolitan markets have median [ ]",
-      "published": "2026-06-08T16:40:14+00:00",
-      "fetched": "2026-07-29T08:30:04.859323+00:00"
-    },
-    {
-      "id": "18ab2947a316581e",
-      "title": "She Started Investing in College and Already Has 5 Rental Units (And Counting)",
-      "link": "https://www.biggerpockets.com/blog/rookie-728",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The real estate investing moves you make today could change your life. Those in their 40s, 50s, and 60s often look back and regret not starting sooner. Today’s guest isn’t [ ]",
-      "published": "2026-06-08T11:00:42+00:00",
-      "fetched": "2026-07-29T08:30:04.859350+00:00"
     }
   ]
 }

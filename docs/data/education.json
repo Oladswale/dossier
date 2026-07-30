@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-07-30T08:02:11.340570+00:00",
-  "count": 68,
+  "updated": "2026-07-30T13:20:14.381824+00:00",
+  "count": 70,
   "items": [
+    {
+      "id": "b9989e3bf85a92cc",
+      "title": "A Guide to Every Major Film Adaptation of Homer’s Odyssey Before Christopher Nolan’s Movie",
+      "link": "https://www.openculture.com/2026/07/a-guide-to-every-major-film-adaptation-of-homers-odyssey-before-christopher-nolans-movie.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "If you plan on shooting your own adaptation of Homer’s Odyssey, bear in mind how much rests on your choice of leading man. In order to play Odysseus, an actor must summon a real gravitas, but also a still-smoldering vitality: here is a man who led the Greek army to defeat Troy, but still has [ ]",
+      "published": "2026-07-30T09:00:22+00:00",
+      "fetched": "2026-07-30T13:20:14.381568+00:00"
+    },
+    {
+      "id": "aa2bc4058ddf4367",
+      "title": "The Visionary Mystical Art of Carl Jung: See Illustrated Pages from The Red Book",
+      "link": "https://www.openculture.com/2026/07/visionary-mystical-art-of-carl-jung.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Carl Jung’s Liber Novus, better known as The Red Book, has come to light in a complete English translation, published by Norton in a 2009 facsimile edition and a smaller “reader’s edition” in 2012. The years since have seen several exhibitions of the book, which “could pass for a Bible rendered by a medieval monk,” [ ]",
+      "published": "2026-07-30T08:00:02+00:00",
+      "fetched": "2026-07-30T13:20:14.381626+00:00"
+    },
     {
       "id": "0461f8ed9ceab992",
       "title": "MIT and Broad Institute researchers break diffraction barrier in super-resolution microscopy",
