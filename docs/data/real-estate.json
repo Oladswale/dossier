@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-29T18:47:29.253831+00:00",
+  "updated": "2026-07-30T01:10:42.015219+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4b3c645e46aaa8d2",
+      "title": "The Rental Market Flipped: 9 Numbers Every Landlord Needs to Know in 2026",
+      "link": "https://www.biggerpockets.com/blog/the-rental-market-flipped-9-numbers-every-landlord-needs-to-know-in-2026",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Sponsored by Avail For most of 2020 to 2023, you could raise the rent, barely try to market a unit, and still fill it by the weekend. That is gone. [ ]",
+      "published": "2026-07-29T23:00:29+00:00",
+      "fetched": "2026-07-30T01:10:41.686664+00:00"
+    },
+    {
+      "id": "edffb88061192b63",
+      "title": "Using Retirement Savings for a Down Payment Could Be Financial Boon for First-Time Buyers, Study Finds",
+      "link": "https://www.realtor.com/news/real-estate-news/retirement-savings-home-down-payment-ira-401k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Real estate returns can meet or exceed stocks. But there are some major caveats to the data. Experts still aren't warm on the idea, either.",
+      "published": "2026-07-29T22:06:04+00:00",
+      "fetched": "2026-07-30T01:10:42.014591+00:00"
+    },
+    {
+      "id": "ff154a59b91859e2",
+      "title": "These Are Some of the Top Questions Homebuyers Ask RealAssist AI on Realtor.com",
+      "link": "https://www.realtor.com/news/trends/real-estate-questions-explanations-ai-realtor/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Launched this week, RealAssist AI is a homebuying assistant tool built in collaboration with Google Gemini and Google Cloud.",
+      "published": "2026-07-29T21:16:11+00:00",
+      "fetched": "2026-07-30T01:10:42.014628+00:00"
+    },
     {
       "id": "a409852cfd06d350",
       "title": "The Work-From-Home Surcharge: Inside the Controversial New Fee Affecting Renters",
@@ -1472,36 +1502,6 @@
       "summary": "The real estate investing moves you make today could change your life. Those in their 40s, 50s, and 60s often look back and regret not starting sooner. Today’s guest isn’t [ ]",
       "published": "2026-06-08T11:00:42+00:00",
       "fetched": "2026-07-29T08:30:04.859350+00:00"
-    },
-    {
-      "id": "e46afe9e691a5be2",
-      "title": "Retire Early with Less Than 10 Rentals? She Did It, Starting in 2022",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1288",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You don’t need a big, expensive, stressful rental property portfolio to retire on your terms. Today’s guest was able to leave her W-2 job in her late 30s, all thanks [ ]",
-      "published": "2026-06-08T11:00:11+00:00",
-      "fetched": "2026-07-29T08:30:04.859377+00:00"
-    },
-    {
-      "id": "f8ca34f8dca690d8",
-      "title": "Buy 1 Rental Every 2 Years and Watch What Happens",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1287",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Buying just one rental every two years can make you financially free—and by a lot. So many real estate investing influencers constantly talk about buying dozens, even hundreds of rental [ ]",
-      "published": "2026-06-05T11:00:34+00:00",
-      "fetched": "2026-07-29T08:30:04.859404+00:00"
-    },
-    {
-      "id": "4601e5811182a70d",
-      "title": "My Rental Property Has Zero Appreciation: Should I Hold or Sell? (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-727",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Do you have home equity sitting in your primary residence? You could use it to buy your first or next rental property! There are several ways to do this, and [ ]",
-      "published": "2026-06-05T11:00:03+00:00",
-      "fetched": "2026-07-29T08:30:04.859429+00:00"
     }
   ]
 }

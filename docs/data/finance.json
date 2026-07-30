@@ -1,8 +1,158 @@
 {
   "category": "finance",
-  "updated": "2026-07-29T18:47:23.818749+00:00",
-  "count": 117,
+  "updated": "2026-07-30T01:10:31.506784+00:00",
+  "count": 132,
   "items": [
+    {
+      "id": "adedd99a103440c6",
+      "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+      "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+      "published": "2026-07-30T01:02:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338355+00:00"
+    },
+    {
+      "id": "9fc4b734120a70b9",
+      "title": "Why SoFi’s stock drops, even after its earnings beat expectations",
+      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+      "published": "2026-07-30T01:01:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338399+00:00"
+    },
+    {
+      "id": "fb009b81928bfea8",
+      "title": "Qualcomm’s stock falls as memory woes weigh on earnings",
+      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The chip company came up short on its bottom line.",
+      "published": "2026-07-30T00:20:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338429+00:00"
+    },
+    {
+      "id": "cbd49861abb67900",
+      "title": "Starbucks is becoming cool again. Here’s how it pulled off its turnaround.",
+      "link": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Trendier products, faster service and more food options boost Starbucks’ earnings.",
+      "published": "2026-07-30T00:19:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338459+00:00"
+    },
+    {
+      "id": "6db789a49c3550f4",
+      "title": "Robinhood puts up record revenue as volatility drives a trading bonanza",
+      "link": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Prediction-market revenues on the popular trading app increased tenfold during the second quarter.",
+      "published": "2026-07-30T00:18:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338485+00:00"
+    },
+    {
+      "id": "44973a1847b3e1ae",
+      "title": "Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic",
+      "link": "https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Mexican fast-casual chain acknowledged ‘softening’ traffic in the second half of July, but it’s taking a rosier view of its full-year prospects.",
+      "published": "2026-07-30T00:16:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338517+00:00"
+    },
+    {
+      "id": "caf5e512983ee46f",
+      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+      "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
+      "published": "2026-07-29T23:10:46+00:00",
+      "fetched": "2026-07-30T01:10:30.406560+00:00"
+    },
+    {
+      "id": "a3b73331733c801f",
+      "title": "Here are the five big takeaways from this week's Fed meeting",
+      "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+      "published": "2026-07-29T22:54:09+00:00",
+      "fetched": "2026-07-30T01:10:30.406626+00:00"
+    },
+    {
+      "id": "9ee27a7b97d96dbc",
+      "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
+      "link": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The United States Oil Fund has climbed by 58% since the start of the Iran war, more than double the gain of WTI crude futures.",
+      "published": "2026-07-29T22:44:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338558+00:00"
+    },
+    {
+      "id": "82734b16734e1884",
+      "title": "‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
+      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I realize that probate can be lengthy, public and expensive.”",
+      "published": "2026-07-29T22:30:00+00:00",
+      "fetched": "2026-07-30T01:10:30.338587+00:00"
+    },
+    {
+      "id": "d4a9dd55ed3f3696",
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+      "published": "2026-07-29T22:20:18+00:00",
+      "fetched": "2026-07-30T01:10:30.406690+00:00"
+    },
+    {
+      "id": "74b519edf0eac60d",
+      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+      "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+      "published": "2026-07-29T21:43:50+00:00",
+      "fetched": "2026-07-30T01:10:30.406600+00:00"
+    },
+    {
+      "id": "0ca6684c63cb0cfd",
+      "title": "Sterling Bank’s profit climbs 22%, but loan losses are rising faster",
+      "link": "https://nairametrics.com/2026/07/29/sterling-banks-profit-climbs-22-but-loan-losses-are-rising-faster/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sterling Bank has reported a pre-tax profit of N55.53 billion for the six months ended 30 June 2026, representing an increase of 21.92% from N45.55 billion in the corresponding period of 2025. The post Sterling Bank’s profit climbs 22%, but loan losses are rising faster appeared first on Nairametrics .",
+      "published": "2026-07-29T21:20:53+00:00",
+      "fetched": "2026-07-30T01:10:30.800888+00:00"
+    },
+    {
+      "id": "de5eef76ba30dffb",
+      "title": "Wema Bank posts N154.56 billion H1 2026 pretax profit, up 53.65% YoY",
+      "link": "https://nairametrics.com/2026/07/29/wema-bank-posts-n154-56-billion-h1-2026-pretax-profit-up-53-65-yoy/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Wema Bank Plc reported a pre-tax profit of N154.56 billion for the six months ended June 30, 2026, representing a 53.65% increase year-on-year from N100.59 billion in the corresponding period of 2025. The post Wema Bank posts N154.56 billion H1 2026 pretax profit, up 53.65% YoY appeared first on Nairametrics .",
+      "published": "2026-07-29T21:00:14+00:00",
+      "fetched": "2026-07-30T01:10:30.800941+00:00"
+    },
+    {
+      "id": "144758f67e786102",
+      "title": "NASCON grew sales 4%, profit jumped 28%. Something changed",
+      "link": "https://nairametrics.com/2026/07/29/nascon-grew-sales-4-profit-jumped-28-something-changed/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "NASCON Allied Industries Plc reported a profit before tax of N29.70 billion for the first half of 2026, representing a 27.59% year-on-year increase, as stronger operating margins, higher finance income and lower borrowing costs boosted an otherwise modest revenue growth. The post NASCON grew sales 4%, profit jumped 28%. Something changed appeared first on Nairametrics .",
+      "published": "2026-07-29T20:56:41+00:00",
+      "fetched": "2026-07-30T01:10:30.800988+00:00"
+    },
     {
       "id": "2dd817c97ab4730c",
       "title": "Divided Fed holds interest rates steady, but three members voted to hike",
