@@ -1,8 +1,188 @@
 {
   "category": "finance",
-  "updated": "2026-07-31T08:26:57.075768+00:00",
+  "updated": "2026-07-31T13:23:25.470071+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f33cc7d64eb89475",
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+      "published": "2026-07-31T13:16:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167509+00:00"
+    },
+    {
+      "id": "ffc1ec64c07662c4",
+      "title": "ExxonMobil, Chevron’s combined profits quadrupled in three months as the Iran war raged",
+      "link": "https://www.marketwatch.com/story/exxonmobil-chevrons-combined-profits-quadrupled-in-three-months-as-the-iran-war-raged-a6e8da62?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Combined profits of ExxonMobil and Chevron for the second quarter soared more than 300% in three months to more than $26 billion.",
+      "published": "2026-07-31T12:58:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167566+00:00"
+    },
+    {
+      "id": "f06f091f087327d4",
+      "title": "The Big Mac Index turns 40. Here’s why it’s still relevant.",
+      "link": "https://www.marketwatch.com/story/the-big-mac-index-turns-forty-and-heres-the-beef-its-still-relevant-b56497dd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Broadly speaking, burgers are cheaper in Asia, where the U.S. president has accused several countries of currency manipulation.",
+      "published": "2026-07-31T12:48:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167596+00:00"
+    },
+    {
+      "id": "3153f28d0679333f",
+      "title": "Why 3 Fed dissenters say waiting to raise interest rates could make inflation harder to tame",
+      "link": "https://www.marketwatch.com/story/fed-dissenters-speak-why-they-backed-higher-interest-rates-e0306129?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Inflation has topped the Fed’s 2% target for more than five years",
+      "published": "2026-07-31T12:43:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167621+00:00"
+    },
+    {
+      "id": "90b7955365cc4744",
+      "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+      "published": "2026-07-31T12:41:34+00:00",
+      "fetched": "2026-07-31T13:23:23.402909+00:00"
+    },
+    {
+      "id": "ad8d75169486bd8a",
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+      "published": "2026-07-31T12:40:00+00:00",
+      "fetched": "2026-07-31T13:23:23.402942+00:00"
+    },
+    {
+      "id": "47ef1f865f748e02",
+      "title": "Why fresh volatility means a ‘valuation opportunity’ is opening up in U.S. stocks",
+      "link": "https://www.marketwatch.com/story/why-fresh-volatility-means-a-valuation-opportunity-is-opening-up-in-u-s-stocks-9dbef149?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "It’s normal for equities to have a tough time around Federal Reserve transitions, says RBC.",
+      "published": "2026-07-31T12:32:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167647+00:00"
+    },
+    {
+      "id": "5024d76869caada8",
+      "title": "‘It’s like buying a lottery ticket’: Fidelity asked for my former sister-in-law’s death certificate. Does this mean I’m due a windfall?",
+      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“You never know, maybe I’ll win.”",
+      "published": "2026-07-31T12:30:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167670+00:00"
+    },
+    {
+      "id": "176a639dcbec370e",
+      "title": "South Korea’s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
+      "link": "https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Kospi saw its best-ever day on Friday, as the index came roaring back thanks to historical jumps in its big tech names.",
+      "published": "2026-07-31T11:59:00+00:00",
+      "fetched": "2026-07-31T13:23:23.167707+00:00"
+    },
+    {
+      "id": "5202fc69b384c09f",
+      "title": "More consumer companies are staying private for longer, avoiding the IPO road",
+      "link": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.",
+      "published": "2026-07-31T11:30:01+00:00",
+      "fetched": "2026-07-31T13:23:23.402969+00:00"
+    },
+    {
+      "id": "eb80c861dc1636f5",
+      "title": "Nigeria’s first fully verified direct property marketplace goes live today",
+      "link": "https://nairametrics.com/2026/07/31/nigerias-first-fully-verified-direct-property-marketplace-goes-live-today/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The platform eliminates agent fraud, fake listings, and hidden fees connecting landlords, developers, and shortlet operators directly with renters, buyers, and guests across NigeriaNigeria s property market has a fraud problem. It has always had a fraud problem. And for too long, millions of Nigerians have paid the price losing money to ghost agents, fake listings, [ ] The post Nigeria s first fully verified direct property marketplace goes live today appeared first on Nairametrics .",
+      "published": "2026-07-31T11:09:01+00:00",
+      "fetched": "2026-07-31T13:23:23.947867+00:00"
+    },
+    {
+      "id": "6f3df6a4c2aba6d6",
+      "title": "NNPC profit jumps 15.8% to N535 billion in June, highest in 10 months",
+      "link": "https://nairametrics.com/2026/07/31/nnpc-profit-jumps-15-8-to-n535-billion-in-june-highest-in-10-months/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian National Petroleum Company Limited (NNPCL) recorded a profit after tax (PAT) of N535 billion in June 2026, representing a 15.8% increase from the N462 billion recorded in May. The post NNPC profit jumps 15.8% to N535 billion in June, highest in 10 months appeared first on Nairametrics .",
+      "published": "2026-07-31T11:07:53+00:00",
+      "fetched": "2026-07-31T13:23:23.947914+00:00"
+    },
+    {
+      "id": "8f862a5611bb0812",
+      "title": "Access Bank dismisses shutdown rumour, vows to track those behind it",
+      "link": "https://nairametrics.com/2026/07/31/access-bank-dismisses-shutdown-rumour-vows-to-track-those-behind-it/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Access Bank has dismissed social media message claiming it is shutting down. The post Access Bank dismisses shutdown rumour, vows to track those behind it appeared first on Nairametrics .",
+      "published": "2026-07-31T11:01:25+00:00",
+      "fetched": "2026-07-31T13:23:23.947946+00:00"
+    },
+    {
+      "id": "f47d20f50677ebca",
+      "title": "Nigerian Breweries H1 profit rises 18% to N156.3 billion, erases accumulated losses",
+      "link": "https://nairametrics.com/2026/07/31/nigerian-breweries-h1-profit-rises-18-to-n156-3-billion-erases-accumulated-losses/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian Breweries Plc has released its unaudited first-half 2026 financial results, reporting profit before tax rising to N156.3 billion, representing an 18% increase compared with N132.2 billion recorded in H1 2025. The post Nigerian Breweries H1 profit rises 18% to N156.3 billion, erases accumulated losses appeared first on Nairametrics .",
+      "published": "2026-07-31T10:54:33+00:00",
+      "fetched": "2026-07-31T13:23:23.947984+00:00"
+    },
+    {
+      "id": "78efb83aa28c54cf",
+      "title": "Anthropic reveals its AI models hacked three organisations during cybersecurity testing",
+      "link": "https://nairametrics.com/2026/07/31/anthropic-reveals-its-ai-models-hacked-three-organisations-during-cybersecurity-testing/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Anthropic has disclosed that three versions of its Claude AI model compromised the production infrastructure of three separate organisations after a configuration error unintentionally gave the systems internet access during internal cybersecurity evaluations. The post Anthropic reveals its AI models hacked three organisations during cybersecurity testing appeared first on Nairametrics .",
+      "published": "2026-07-31T10:52:27+00:00",
+      "fetched": "2026-07-31T13:23:23.948023+00:00"
+    },
+    {
+      "id": "089c13bda920caaa",
+      "title": "African airlines defy global trend with 7.1% cargo capacity drop",
+      "link": "https://nairametrics.com/2026/07/31/african-airlines-defy-global-trend-with-7-1-cargo-capacity-drop/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "African airlines were the only carriers globally to record a decline in air cargo capacity in June 2026, with available cargo space falling 7.1% year-on-year despite a 4.7% increase in freight demand. The post African airlines defy global trend with 7.1% cargo capacity drop appeared first on Nairametrics .",
+      "published": "2026-07-31T10:48:10+00:00",
+      "fetched": "2026-07-31T13:23:23.948057+00:00"
+    },
+    {
+      "id": "57dd49fc3c1c93c7",
+      "title": "How two high school sweethearts built an AI company for farmers",
+      "link": "https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "In 2022, after careers in banking and agricultural development, they founded Green Giraffe, a Zambian startup using AI and satellite technology to help smallholder farmers access premium markets.",
+      "published": "2026-07-31T10:28:01+00:00",
+      "fetched": "2026-07-31T13:23:25.469845+00:00"
+    },
+    {
+      "id": "78e4407d7f8bd5bf",
+      "title": "Nigeria’s foreign reserves shed $114 million in seven days after reaching $52.04 billion peak",
+      "link": "https://nairametrics.com/2026/07/31/nigerias-foreign-reserves-shed-114-million-in-seven-days-after-reaching-52-04-billion-peak/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s foreign reserves fell by $114 million in seven days after reaching a recent peak of $52.04 billion. The post Nigeria’s foreign reserves shed $114 million in seven days after reaching $52.04 billion peak appeared first on Nairametrics .",
+      "published": "2026-07-31T09:13:21+00:00",
+      "fetched": "2026-07-31T13:23:23.948099+00:00"
+    },
     {
       "id": "0bbb5c8e5f97ba0a",
       "title": "Naira hits N1,834/£1 as British Pound slips against US dollar",
@@ -1322,186 +1502,6 @@
       "summary": "Internal Shell documents have raised fresh concerns about ageing infrastructure, oil spills, pipeline management and a potential $10.9 billion decommissioning bill linked to the company’s former Niger Delta operations. The post Shell’s Niger Delta legacy faces fresh scrutiny over leaked documents appeared first on Nairametrics .",
       "published": "2026-07-29T11:32:28+00:00",
       "fetched": "2026-07-29T14:33:40.985892+00:00"
-    },
-    {
-      "id": "17c5f7c4501d1f01",
-      "title": "Kenyan companies must disclose when people interact with AI under new policy",
-      "link": "https://techcabal.com/2026/07/29/kenyan-companies-disclose-ai-under-new-policy/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The proposed Kenya Artificial Intelligence and Other Emerging Technologies Policy says individuals \"are entitled to know when an AI system is acting on them\" and requires organisations to disclose when customers are communicating directly with AI.",
-      "published": "2026-07-29T11:28:29+00:00",
-      "fetched": "2026-07-29T14:33:41.603765+00:00"
-    },
-    {
-      "id": "c97a435a8cc023f5",
-      "title": "Naira strengthens to N1,552/€ as CBN’s high rates steady FX market",
-      "link": "https://nairametrics.com/2026/07/29/naira-strengthens-to-n1552-e-as-cbns-high-rates-steady-fx-market/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The naira appreciated against the major European currency on the mid-week trade session at the official market, with the CBN’s latest data indicating it settled at N1552/€1, up from N1563/€1 last week The post Naira strengthens to N1,552/€ as CBN s high rates steady FX market appeared first on Nairametrics .",
-      "published": "2026-07-29T11:18:03+00:00",
-      "fetched": "2026-07-29T14:33:40.985936+00:00"
-    },
-    {
-      "id": "c5e8f177ae0cc610",
-      "title": "Rafa Corporation accelerates growth with investment in Nigeria’s largest continuous soap manufacturing facility",
-      "link": "https://nairametrics.com/2026/07/29/rafa-corporation-accelerates-growth-with-investment-in-nigerias-largest-continuous-soap-manufacturing-facility/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Rafa Corporation, manufacturer of the rapidly growing Rafa Detergent brand, has announced a landmark investment in world-class soap manufacturing technology, marking a major milestone in its ambition to build one of Africa’s leading home and personal care manufacturing enterprises. The investment significantly expands Rafa’s production capabilities while reinforcing its commitment to innovation, industrial excellence and [ ] The post Rafa Corporation accelerates growth with investment in Nigeria s largest continuous soap manufacturing facility appeared first on Nairametrics .",
-      "published": "2026-07-29T10:53:44+00:00",
-      "fetched": "2026-07-29T14:33:40.985999+00:00"
-    },
-    {
-      "id": "fca2ad6a3a027bbb",
-      "title": "Nigeria’s housing deficit and why Escrow Is necessary but not sufficient.",
-      "link": "https://nairametrics.com/2026/07/29/nigerias-housing-deficit-and-why-escrow-is-necessary-but-not-sufficient/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has proposed something Nigeria’s housing market has long needed. Under the National Housing and Built Environment Regulation Policy announced by the Minister of Housing and Urban Development, Engr. Muttaqha Rabe Darma, developers would no longer be able to sell homes off-plan without a licence.",
-      "published": "2026-07-29T10:52:00+00:00",
-      "fetched": "2026-07-29T14:33:40.986057+00:00"
-    },
-    {
-      "id": "de06fb6730a65984",
-      "title": "Zenith Bank: the best-in-class lender beyond balance-sheet size",
-      "link": "https://nairametrics.com/2026/07/29/zenith-bank-the-best-in-class-lender-beyond-balance-sheet-size/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zenith Bank stands out as Nigeria s best-in-class lender not simply because of the size of its balance sheet, but because of what it has consistently produced from that balance sheet: industry-leading profit, strong capital buffers, rising shareholder returns and an increasingly profitable international franchise. That distinction matters amid recent industry discussions that have framed best-in-class [ ] The post Zenith Bank: the best-in-class lender beyond balance-sheet size appeared first on Nairametrics .",
-      "published": "2026-07-29T10:46:37+00:00",
-      "fetched": "2026-07-29T14:33:40.986110+00:00"
-    },
-    {
-      "id": "5889b554028335fb",
-      "title": "Nigeria’s consumer credit falls to N3.8 trillion, first decline in six years",
-      "link": "https://nairametrics.com/2026/07/29/nigerias-consumer-credit-falls-to-n3-8-trillion-first-decline-in-six-years/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Consumer credit outstanding fell by 19.89% to N3.78 trillion in 2025 from N4.72 trillion in the preceding period, marking the first decline since December 2019, according to the Central Bank of Nigeria (CBN). The post Nigeria s consumer credit falls to N3.8 trillion, first decline in six years appeared first on Nairametrics .",
-      "published": "2026-07-29T10:21:42+00:00",
-      "fetched": "2026-07-29T14:33:40.986153+00:00"
-    },
-    {
-      "id": "e5af412071ff0aba",
-      "title": "AMCON assets decline 29.8% to N1.29 trillion as wind-down efforts continue",
-      "link": "https://nairametrics.com/2026/07/29/amcon-assets-decline-29-8-to-n1-29-trillion-as-wind-down-efforts-continue/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Asset Management Corporation of Nigeria (AMCON) recorded a 29.8% decline in total assets to N1.29 trillion in 2025, down from N1.84 trillion in 2024, as it continued to wind down its intervention portfolio and repay obligations linked to the banking sector bailout programme. The post AMCON assets decline 29.8% to N1.29 trillion as wind-down efforts continue appeared first on Nairametrics .",
-      "published": "2026-07-29T09:58:12+00:00",
-      "fetched": "2026-07-29T14:33:40.986197+00:00"
-    },
-    {
-      "id": "04c8e0ff12381247",
-      "title": "OpenAI rogue agent breached customer at second tech firm during hacking spree – Report",
-      "link": "https://nairametrics.com/2026/07/29/openai-rogue-agent-breached-customer-at-second-tech-firm-during-hacking-spree-report/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The OpenAI artificial intelligence agent that broke into Hugging Face's systems earlier this month also compromised a customer at another firm, Modal Labs, expanding the known footprint of the incident beyond what had previously been reported. The post OpenAI rogue agent breached customer at second tech firm during hacking spree Report appeared first on Nairametrics .",
-      "published": "2026-07-29T09:03:33+00:00",
-      "fetched": "2026-07-29T14:33:40.986240+00:00"
-    },
-    {
-      "id": "58cd8cb4ad06644a",
-      "title": "Okomu Oil H1 2026 pre-tax profit falls 12% to N59 billion",
-      "link": "https://nairametrics.com/2026/07/29/okomu-oil-h1-2026-pre-tax-profit-falls-12-to-n59-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Okomu Oil Palm Plc reported a pre-tax profit of N58.99 billion for the six months ended June 30, 2026, down 12.03% from N67.05 billion in the corresponding period of 2025. The post Okomu Oil H1 2026 pre-tax profit falls 12% to N59 billion appeared first on Nairametrics .",
-      "published": "2026-07-29T08:23:06+00:00",
-      "fetched": "2026-07-29T08:29:57.260393+00:00"
-    },
-    {
-      "id": "fc3cae289be1c352",
-      "title": "Nigeria’s 2026 VAT reform: What the shift to consumption means for states",
-      "link": "https://nairametrics.com/2026/07/29/nigerias-2026-vat-reform-what-the-shift-to-consumption-means-for-states/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "If you’ve been following the tax changes in Nigeria, one of the biggest shifts in the 2026 reforms is how Value Added Tax (VAT) is now being shared. Before the reform, VAT was mostly tied to the state where a company had its head office. This meant that states like Lagos benefited hugely because many [ ] The post Nigeria’s 2026 VAT reform: What the shift to consumption means for states appeared first on Nairametrics .",
-      "published": "2026-07-29T08:07:19+00:00",
-      "fetched": "2026-07-29T08:14:08.260443+00:00"
-    },
-    {
-      "id": "aa560879c5486d20",
-      "title": "Zichis profits soar 543% as egg, palm oil sales surge",
-      "link": "https://nairametrics.com/2026/07/29/zichis-profits-soar-543-as-egg-palm-oil-sales-surge/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zichis Agro-Allied Industries Plc has reported a profit before tax of N478.7 million for the first half of 2026, representing a 448.6% increase from the corresponding period of 2025, driven by strong revenue growth across its agricultural and poultry business lines. The post Zichis profits soar 543% as egg, palm oil sales surge appeared first on Nairametrics .",
-      "published": "2026-07-29T07:21:00+00:00",
-      "fetched": "2026-07-29T08:14:08.260496+00:00"
-    },
-    {
-      "id": "066f6570337f8b23",
-      "title": "CBN slams banks with N430 million fines for ignoring customer complaints",
-      "link": "https://nairametrics.com/2026/07/29/cbn-slams-banks-with-n430-million-fines-for-ignoring-customer-complaints/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) imposed N430 million in penalties on financial institutions in 2025 over delays in resolving customer complaints and failure to comply with its directives, underscoring a tougher regulatory stance on consumer protection in the banking sector. The post CBN slams banks with N430 million fines for ignoring customer complaints appeared first on Nairametrics .",
-      "published": "2026-07-29T07:12:23+00:00",
-      "fetched": "2026-07-29T08:14:08.260542+00:00"
-    },
-    {
-      "id": "8c8813c40ff0a317",
-      "title": "Dimension Data raises N4.05 billion in first tranche of N20 billion bond programme",
-      "link": "https://nairametrics.com/2026/07/29/dimension-data-raises-n4-05-billion-in-first-tranche-of-n20-billion-bond-programme/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dimension Data Limited has completed the signing ceremony for the issuance of N4.05 billion (approximately US$2.9 million), marking the first tranche of its N20 billion (US$14.7 million) bond programme, following the successful subscription of its Series 1 corporate bond. The post Dimension Data raises N4.05 billion in first tranche of N20 billion bond programme appeared first on Nairametrics .",
-      "published": "2026-07-29T06:37:24+00:00",
-      "fetched": "2026-07-29T08:14:08.260586+00:00"
-    },
-    {
-      "id": "15d92c82d8b6a8c4",
-      "title": "FIFA proposes $20 billion commercial arm as UEFA raises governance concerns",
-      "link": "https://nairametrics.com/2026/07/29/fifa-proposes-20-billion-commercial-arm-as-uefa-raises-governance-concerns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FIFA is planning to establish a new commercial subsidiary valued at $20 billion as the global football governing body seeks to increase earnings from its competitions and expand financial support for football federations worldwide. The post FIFA proposes $20 billion commercial arm as UEFA raises governance concerns appeared first on Nairametrics .",
-      "published": "2026-07-29T06:23:41+00:00",
-      "fetched": "2026-07-29T08:14:08.260625+00:00"
-    },
-    {
-      "id": "8d12bc1636a7c5b7",
-      "title": "CBN: Nigeria’s FX inflows hit $109.9 billion as autonomous sources drive growth",
-      "link": "https://nairametrics.com/2026/07/29/cbn-nigerias-fx-inflows-hit-109-9-billion-as-autonomous-sources-drive-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria recorded total foreign exchange (FX) inflows of $109.86 billion in 2025, representing a 13.81% increase from $96.53 billion recorded in 2024. The post CBN: Nigeria s FX inflows hit $109.9 billion as autonomous sources drive growth appeared first on Nairametrics .",
-      "published": "2026-07-29T06:11:42+00:00",
-      "fetched": "2026-07-29T08:14:08.260663+00:00"
-    },
-    {
-      "id": "09e040d45cef19de",
-      "title": "👨🏿‍🚀TechCabal Daily – Crypto winter at Luno",
-      "link": "https://techcabal.com/2026/07/29/techcabal-daily-crypto-winter-at-luno/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In this edition: Layoffs at Luno Airtel Money Kenya appoints acting MD Sport powers DStv comeback Kenya drafts labour policy around AI",
-      "published": "2026-07-29T06:07:35+00:00",
-      "fetched": "2026-07-29T08:14:09.000828+00:00"
-    },
-    {
-      "id": "d971e33720d449b1",
-      "title": "WHO says 1.2 million people contracted HIV in 2025 despite global progress",
-      "link": "https://nairametrics.com/2026/07/29/who-says-1-2-million-people-contracted-hiv-in-2025-despite-global-progress/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "About 1.2 million people contracted the Human Immunodeficiency Virus (HIV) globally in 2025 despite significant progress made over the past two decades in reducing new infections and expanding access to life-saving treatment, according to a new report by the World Health Organization (WHO). The post WHO says 1.2 million people contracted HIV in 2025 despite global progress appeared first on Nairametrics .",
-      "published": "2026-07-29T05:34:01+00:00",
-      "fetched": "2026-07-29T08:14:08.260705+00:00"
-    },
-    {
-      "id": "1015632de2256044",
-      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Loadings at a Mediterranean port have picked up as Saudi Arabia races to offer its oil to buyers through a lengthier — and more expensive — backdoor.",
-      "published": "2026-07-29T01:28:00+00:00",
-      "fetched": "2026-07-29T08:14:06.869281+00:00"
     }
   ]
 }

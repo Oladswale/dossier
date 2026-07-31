@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-31T08:27:01.504705+00:00",
+  "updated": "2026-07-31T13:23:32.131360+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d2e61f61bfdf3e44",
+      "title": "How to Analyze a Rental Property Step-by-Step (15 Years of Experience)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1311",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This is how to analyze a rental property step-by-step in 2026. You don’t need to do any complicated math, you don’t need to sign up for a course, and you [ ]",
+      "published": "2026-07-31T11:00:37+00:00",
+      "fetched": "2026-07-31T13:23:31.772880+00:00"
+    },
+    {
+      "id": "04f142157b113fb4",
+      "title": "More Than 1,000 Schools Closed—and Home Values Could Take the Hit",
+      "link": "https://www.realtor.com/news/trends/school-closures-home-values/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Strong schools help make neighborhoods valuable. But when rising prices push families out, closures can put that same value at risk.",
+      "published": "2026-07-31T10:00:00+00:00",
+      "fetched": "2026-07-31T13:23:32.130742+00:00"
+    },
     {
       "id": "87024041f643549e",
       "title": "Immigration Helped Revive Springfield—Now Its Recovery Is at Risk",
@@ -1482,26 +1502,6 @@
       "summary": "Morgan Housel, best-selling author of The Psychology of Money, Same as Ever, and The Art of Spending Money, has a “system” for building wealth that seems too simple, too easy [ ]",
       "published": "2026-06-17T11:00:39+00:00",
       "fetched": "2026-07-29T08:30:04.858759+00:00"
-    },
-    {
-      "id": "d712efd44ec84ab9",
-      "title": "Bonus Depreciation, Explained Without the Jargon",
-      "link": "https://www.biggerpockets.com/blog/bonus-depreciation-explained-without-the-jargon",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "I want to talk about something that confuses many new investors but is actually one of the most powerful tools in real estate tax strategy: bonus depreciation. And before you [ ]",
-      "published": "2026-06-16T16:41:14+00:00",
-      "fetched": "2026-07-29T08:30:04.858786+00:00"
-    },
-    {
-      "id": "7119af99414f6b37",
-      "title": "What We’re Buying During The 2026 Multifamily Crash",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-434",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This is exactly what we’re buying, selling, and trading in Summer 2026. It’s a strange time for real estate—multifamily prices are crashing hard, single-family is staying stable, rents aren’t moving [ ]",
-      "published": "2026-06-16T11:00:26+00:00",
-      "fetched": "2026-07-29T08:30:04.858816+00:00"
     }
   ]
 }
