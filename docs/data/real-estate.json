@@ -1,8 +1,128 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-31T13:23:32.131360+00:00",
+  "updated": "2026-07-31T19:02:16.861939+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ca8c735368d30b35",
+      "title": "I Bought a 9,000-Square-Foot Barn in Middle-of-Nowhere that Makes Me $320,000 a Year",
+      "link": "https://www.realtor.com/news/first-person/wisconsin-barn-short-term-rental-big-money-maker/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "It started as a dream to make a \"viral\" house reminiscent of his childhood. It turned into a booming business.",
+      "published": "2026-07-31T18:54:46+00:00",
+      "fetched": "2026-07-31T19:02:16.861188+00:00"
+    },
+    {
+      "id": "335bb3b4550d55f7",
+      "title": "New Colorado River Plan Could Spell Water Cutbacks for Arizona, California, and Nevada",
+      "link": "https://www.realtor.com/news/real-estate-news/colorado-river-plan-water-cutbacks-arizona-california-nevada/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A new federal plan mandates up to 40% Colorado River water cuts for Arizona, California, and Nevada, sparking sharp pushback from leaders.",
+      "published": "2026-07-31T18:41:52+00:00",
+      "fetched": "2026-07-31T19:02:16.861226+00:00"
+    },
+    {
+      "id": "c22a3f5d01b70548",
+      "title": "2,500+ Florida Condos Show Structural Damage, Just 5 Evacuated, State Report Finds",
+      "link": "https://www.realtor.com/news/trends/florida-condo-buildings-deemed-uninhabitable-inspections-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A state report reveals that \"milestone\" inspections flagged over 2,500 Florida condos and co-ops for severe structural deterioration.",
+      "published": "2026-07-31T17:49:46+00:00",
+      "fetched": "2026-07-31T19:02:16.861254+00:00"
+    },
+    {
+      "id": "3f87f5b0a3006bd5",
+      "title": "Forget Avocado Toast: Gen Z Is Taking on a New Kind of Debt—and It Could Lock Them Out of Homeownership",
+      "link": "https://www.realtor.com/news/trends/gen-z-shadow-debt-lock-them-out-of-homeownership/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New research shows Gen Z is taking on “shadow debt” by covering group expenses for friends. Here’s how it can make buying a home harder.",
+      "published": "2026-07-31T17:26:12+00:00",
+      "fetched": "2026-07-31T19:02:16.861293+00:00"
+    },
+    {
+      "id": "996f8ff3a6676a96",
+      "title": "Top 5 States for Foreign Homebuyers—Where Nearly 50% Are Paying Cash for Homes",
+      "link": "https://www.realtor.com/news/trends/foreign-homebuyers-cash-florida-california-texas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "International buyers in the U.S. housing market are near a record low, but some states are still seeing booming interest.",
+      "published": "2026-07-31T17:06:27+00:00",
+      "fetched": "2026-07-31T19:02:16.861323+00:00"
+    },
+    {
+      "id": "47085ced421370c8",
+      "title": "EXCLUSIVE: Inside Neyshia Go’s 140-Calls-a-Day Life in Luxury Real Estate",
+      "link": "https://www.realtor.com/news/unique-homes/neyshia-go-sothebys-international-luxury-agent/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "From dawn calls to candy-room theaters: Step inside a top agent's whirlwind day of showings, escrow, and hard-won deals.",
+      "published": "2026-07-31T16:59:21+00:00",
+      "fetched": "2026-07-31T19:02:16.861351+00:00"
+    },
+    {
+      "id": "00918e028f972ef5",
+      "title": "Inside Scottie Scheffler’s $2.1 Million Texas Home He Shares With High School Sweetheart Turned Wife and Their Kids",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/scottie-scheffler-pga-tournament-dallas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The humble home is the golfer's haven when he's not on the PGA tour, and it's near one of his favorite fast food restaurants.",
+      "published": "2026-07-31T16:11:00+00:00",
+      "fetched": "2026-07-31T19:02:16.861381+00:00"
+    },
+    {
+      "id": "759f2ed63ad3113b",
+      "title": "How Sellers Are Using Smart Cameras To Eavesdrop on Homebuyers: ‘Consider Yourself in a Reality Show’",
+      "link": "https://www.realtor.com/news/trends/smart-cameras-spying-home-buying/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Sellers are using smart cameras to eavesdrop on buyers. Here is how active home security devices are wiretapping showings and ruining deals.",
+      "published": "2026-07-31T16:02:39+00:00",
+      "fetched": "2026-07-31T19:02:16.861412+00:00"
+    },
+    {
+      "id": "4b80310209fa1eed",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.66% Rate",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-july-30/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rates surged this week to levels not seen in over a year, supporting economists' outlook that mid-6% mortgages are here to stay.",
+      "published": "2026-07-31T15:47:00+00:00",
+      "fetched": "2026-07-31T19:02:16.861440+00:00"
+    },
+    {
+      "id": "e5f05efca029b600",
+      "title": "Living on the Edge: 5 Dramatic Cantilevered Homes Hovering Over Thin Air",
+      "link": "https://www.realtor.com/news/unique-homes/cantilevered-homes-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore five gravity-defying cantilevered homes with dramatic designs, bold architecture, and breathtaking views across the U.S.",
+      "published": "2026-07-31T15:00:00+00:00",
+      "fetched": "2026-07-31T19:02:16.861465+00:00"
+    },
+    {
+      "id": "51101f63566ef1b1",
+      "title": "Can Cost Segregation Studies Help If I Bought the Property Years Ago?",
+      "link": "https://www.biggerpockets.com/blog/can-cost-segregation-studies-help-if-i-bought-the-property-years-ago",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If you ve been in real estate for a while, you ve probably heard investors talk about cost segregation like it s something you have to do the same year you close on [ ]",
+      "published": "2026-07-31T14:00:43+00:00",
+      "fetched": "2026-07-31T19:02:16.544215+00:00"
+    },
+    {
+      "id": "666ce481de568e65",
+      "title": "Tired of Nantucket’s Influencer Scene? 5 New England Hidden Gems To Visit Instead",
+      "link": "https://www.realtor.com/news/trends/nantucket-influencers-social-media-viral-coastal-towns/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "For visitors seeking a classic New England coastal experience without crowds of influencers, here are five hidden-gem destinations.",
+      "published": "2026-07-31T13:30:00+00:00",
+      "fetched": "2026-07-31T19:02:16.861493+00:00"
+    },
     {
       "id": "d2e61f61bfdf3e44",
       "title": "How to Analyze a Rental Property Step-by-Step (15 Years of Experience)",
@@ -1382,126 +1502,6 @@
       "summary": "DENVER — June 22, 2026 — BiggerPockets, the premier community and resource hub for real estate investors (REIs), today announced the appointment of experienced operator and active real estate investor [ ]",
       "published": "2026-06-22T15:36:23+00:00",
       "fetched": "2026-07-29T08:30:04.858398+00:00"
-    },
-    {
-      "id": "8927cccd58d1fc07",
-      "title": "To Scale an Average Rental Portfolio, You’ll Need $30K-$60K in Cash per Door. Here’s an Alternative to the BRRRR Method That Lowers Risk and Increases Cash Flow.",
-      "link": "https://www.biggerpockets.com/blog/alternative-to-the-brrrr-method",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "In the rush to acquire rental properties, many investors forget one crucial aspect of financial planning: liquidity. It’s probably the single most important reason why small investors fail. I should [ ]",
-      "published": "2026-06-22T15:20:38+00:00",
-      "fetched": "2026-07-29T08:30:04.858432+00:00"
-    },
-    {
-      "id": "ad65647e6939815d",
-      "title": "I Bought 15 Rental Units While Making $15/Hour Putting Up Fences",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1294",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Britton Eads was making $15 per hour putting up fences all day. He had no college degree; he dropped out of the electrician trade and didn’t have many other options. [ ]",
-      "published": "2026-06-22T11:00:29+00:00",
-      "fetched": "2026-07-29T08:30:04.858459+00:00"
-    },
-    {
-      "id": "de3ba721f56f1259",
-      "title": "How to House Hack Your Way Out of $200K in Student Loan Debt!",
-      "link": "https://www.biggerpockets.com/blog/rookie-734",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "At 31, James sat down at a kitchen table with his wife Aida, ran the numbers on the next 30 years, and didn t like what he saw—$200,000 in student loans [ ]",
-      "published": "2026-06-22T11:00:12+00:00",
-      "fetched": "2026-07-29T08:30:04.858486+00:00"
-    },
-    {
-      "id": "ca37e769967c35a3",
-      "title": "The Real Estate LLC Mistake That Could Cost You Thousands (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-733",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Do you need a real estate LLC, and should you form one before or after buying a rental property? This is a very common rookie question, and liability protection is [ ]",
-      "published": "2026-06-19T11:00:52+00:00",
-      "fetched": "2026-07-29T08:30:04.858521+00:00"
-    },
-    {
-      "id": "f23b1d8482c80e4b",
-      "title": "The Strongest Sign for the Housing Market in Years | June 2026 Update",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1293",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The housing market is doing what nobody expected—and none of the mainstream media is covering it. Trends are forming that most Americans thought were impossible in this type of economy, [ ]",
-      "published": "2026-06-19T11:00:32+00:00",
-      "fetched": "2026-07-29T08:30:04.858552+00:00"
-    },
-    {
-      "id": "99420a7edc0a6dfc",
-      "title": "Entry-Level Rentals Are Disappearing—Here’s How Landlords Can Fill the Gap",
-      "link": "https://www.biggerpockets.com/blog/entry-level-rentals-are-disappearing-heres-how-landlords-can-fill-the-gap",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Amid the glut of shiny new amenity-filled rental communities, one type of home is disappearing from the investment landscape: the starter rental. However, savvy small investors are uniquely positioned to [ ]",
-      "published": "2026-06-18T19:16:15+00:00",
-      "fetched": "2026-07-29T08:30:04.858581+00:00"
-    },
-    {
-      "id": "9e54e3d64fa7ef18",
-      "title": "The DTI Trap: Why Traditional Financing Stops Working After Your Second Rental (And What to Do Instead)",
-      "link": "https://www.biggerpockets.com/blog/the-dti-trap-why-traditional-financing-stops-working-after-your-second-rental-and-what-to-do-instead",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This article is presented by LendingOne. You have two rentals. Both are cash-flowing and performing exactly the way you underwrote them.",
-      "published": "2026-06-18T19:09:16+00:00",
-      "fetched": "2026-07-29T08:30:04.858610+00:00"
-    },
-    {
-      "id": "3d3a3645d694ae08",
-      "title": "Wall Street is Locking You Out of the Housing Market (Unless You Pay Up)",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-435",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Wall Street is quietly monopolizing the housing market—and we’re not talking about them buying homes. It’s something more far-reaching, something that will affect every investor in every market on every [ ]",
-      "published": "2026-06-18T11:00:32+00:00",
-      "fetched": "2026-07-29T08:30:04.858641+00:00"
-    },
-    {
-      "id": "5009c10bba3ef715",
-      "title": "Stop Waiting for Rates to Drop—New Construction Investors Already Bought at 4%",
-      "link": "https://www.biggerpockets.com/blog/stop-waiting-for-rates-to-drop-new-construction-investors-already-bought",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This article is presented by Rent to Retirement. Half the investors I talk to are doing the same thing right now: nothing. They are sitting on cash, refreshing the rate [ ]",
-      "published": "2026-06-17T17:29:17+00:00",
-      "fetched": "2026-07-29T08:30:04.858668+00:00"
-    },
-    {
-      "id": "6723d2b41e8957c1",
-      "title": "How Few Rental Properties Do You Actually Need to Quit Your Job? (Coach Chad Carson Says Fewer Than You Think)",
-      "link": "https://www.biggerpockets.com/blog/texting-with-chad-carson",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "A conversation with Chad Coach Carson, host of the Real Estate Investing for Cashflow Podcast and author of The Small and Mighty Real Estate Investor The default real estate investing [ ]",
-      "published": "2026-06-17T16:23:46+00:00",
-      "fetched": "2026-07-29T08:30:04.858695+00:00"
-    },
-    {
-      "id": "7d0e801c9f4d22d5",
-      "title": "The Easiest Ways to Find Off-Market Properties in 2026 (Our Exact Playbook)",
-      "link": "https://www.biggerpockets.com/blog/rookie-732",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Many rookies assume the best real estate deals are already listed on the market, but what if that’s not the case? The truth is, it’s getting harder and harder to [ ]",
-      "published": "2026-06-17T11:00:51+00:00",
-      "fetched": "2026-07-29T08:30:04.858724+00:00"
-    },
-    {
-      "id": "5c0d30cb086b52a5",
-      "title": "Morgan Housel: The Investing Expert’s “System” for Stress-Free Wealth",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1292",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Morgan Housel, best-selling author of The Psychology of Money, Same as Ever, and The Art of Spending Money, has a “system” for building wealth that seems too simple, too easy [ ]",
-      "published": "2026-06-17T11:00:39+00:00",
-      "fetched": "2026-07-29T08:30:04.858759+00:00"
     }
   ]
 }
