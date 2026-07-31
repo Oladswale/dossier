@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-07-30T19:05:05.043238+00:00",
+  "updated": "2026-07-31T01:23:18.444763+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "87024041f643549e",
+      "title": "Immigration Helped Revive Springfield—Now Its Recovery Is at Risk",
+      "link": "https://www.realtor.com/news/trends/springfield-ohio-haitian-immigration-housing-recovery/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Haitian immigration helped revive Springfield after decades of decline. Federal policy could now put its housing recovery at risk.",
+      "published": "2026-07-30T22:26:03+00:00",
+      "fetched": "2026-07-31T01:23:18.444045+00:00"
+    },
+    {
+      "id": "854416d37c5ddb51",
+      "title": "Fed Researchers Offer a New Homeownership Metric—and It Drops the Rate to 53%",
+      "link": "https://www.realtor.com/news/trends/homeownership-rates-minneapolis-federal-reserve/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Just half of U.S. adults own a home, a number obscured in the traditional ways the Fed studies and reports on homeownership.",
+      "published": "2026-07-30T21:30:26+00:00",
+      "fetched": "2026-07-31T01:23:18.444085+00:00"
+    },
+    {
+      "id": "95ae21c63f87b4f0",
+      "title": "You Have 500 Leads. Now What? How to Prioritize Your List So You’re Not Wasting Marketing Dollars.",
+      "link": "https://www.biggerpockets.com/blog/you-have-500-leads-now-what-how-to-prioritize-your-list-so-youre-not-wasting-marketing-dollars",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Sponsored by PropStream As a real estate investor, you already know that finding deals is the cornerstone of building a successful business. Building a list of potential sellers is pretty [ ]",
+      "published": "2026-07-30T20:00:25+00:00",
+      "fetched": "2026-07-31T01:23:17.979595+00:00"
+    },
+    {
+      "id": "0e45d50d0a5bfbd7",
+      "title": "‘Is This House Haunted?’ The Strangest Questions People Are Asking RealAssist AI",
+      "link": "https://www.realtor.com/news/trends/funny-questions-explanations-ai-real-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "From haunted homes to HOA chicken rules, see the quirky questions homebuyers are asking Realtor.com’s AI tool—and the insights behind them.",
+      "published": "2026-07-30T20:00:00+00:00",
+      "fetched": "2026-07-31T01:23:18.444119+00:00"
+    },
+    {
+      "id": "0fb12be1d47897a0",
+      "title": "Sean ‘Diddy’ Combs’ Prison Release Date Is Moved Up—Weeks After $55 Million Miami Mansion Sells",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/sean-diddy-combs-prison-release-date-latest/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Diddy was found guilty on two counts of transportation to engage in prostitution and was initially sentenced to 50 months in prison.",
+      "published": "2026-07-30T19:23:51+00:00",
+      "fetched": "2026-07-31T01:23:18.444171+00:00"
+    },
     {
       "id": "2c80a041e60c3092",
       "title": "Retired Homeowners Need To Start Spending Their Nest Egg—and The Best Investment Is Your House",
@@ -124,6 +174,16 @@
       "fetched": "2026-07-30T01:10:41.686664+00:00"
     },
     {
+      "id": "29e2044fdc5a30d2",
+      "title": "Using Retirement Savings for a Home Down Payment Could Be ‘Financial Boon’, Study Finds",
+      "link": "https://www.realtor.com/news/real-estate-news/retirement-savings-home-down-payment-ira-401k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Real estate returns can meet or exceed stocks. But there are some major caveats to the data. Experts still aren't warm on the idea, either.",
+      "published": "2026-07-29T22:06:04+00:00",
+      "fetched": "2026-07-31T01:23:18.444280+00:00"
+    },
+    {
       "id": "edffb88061192b63",
       "title": "Using Retirement Savings for a Down Payment Could Be Financial Boon for First-Time Buyers, Study Finds",
       "link": "https://www.realtor.com/news/real-estate-news/retirement-savings-home-down-payment-ira-401k/",
@@ -132,6 +192,16 @@
       "summary": "Real estate returns can meet or exceed stocks. But there are some major caveats to the data. Experts still aren't warm on the idea, either.",
       "published": "2026-07-29T22:06:04+00:00",
       "fetched": "2026-07-30T01:10:42.014591+00:00"
+    },
+    {
+      "id": "34de5bad2b7e9924",
+      "title": "‘Can I Add an ADU?’ How Homebuyers are Using RealAssist AI on Realtor.com for Their Most-Pressing Questions",
+      "link": "https://www.realtor.com/news/trends/realassist-questions-answers-real-estate-listings/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Discover how Realtor.com’s new RealAssist AI answers your tough questions on home valuations, solar ROI, zoning rules and mortgage options.",
+      "published": "2026-07-29T21:16:11+00:00",
+      "fetched": "2026-07-31T01:23:18.444313+00:00"
     },
     {
       "id": "ca5261858e1767e2",
@@ -1432,76 +1502,6 @@
       "summary": "This is exactly what we’re buying, selling, and trading in Summer 2026. It’s a strange time for real estate—multifamily prices are crashing hard, single-family is staying stable, rents aren’t moving [ ]",
       "published": "2026-06-16T11:00:26+00:00",
       "fetched": "2026-07-29T08:30:04.858816+00:00"
-    },
-    {
-      "id": "bd101a4648c9c711",
-      "title": "Deal Diary: How Deandra McDonald Went From Lender Rejections to 10+ Unit Multifamily Properties",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-deandra-mcdonald",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Deandra McDonald Location Virginia Occupation Real estate investor Assets Multifamily real estate Investment strategy House hacking, long-term rentals, joint ventures, seller financing Financing Conventional, FHA, seller financing Deandra McDonald [ ]",
-      "published": "2026-06-15T19:33:01+00:00",
-      "fetched": "2026-07-29T08:30:04.858844+00:00"
-    },
-    {
-      "id": "3c778cb8ecdc0604",
-      "title": "Should You Offer a Concession to Get Your Apartment Leased Faster?",
-      "link": "https://www.biggerpockets.com/blog/should-you-offer-a-concession-to-get-your-apartment-leased-faster",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The deluge of newly built apartments in the Sunbelt and Northeast has put tenants in the driver’s seat when negotiating rent prices. Landlords in large multifamily developments have been acting [ ]",
-      "published": "2026-06-15T19:27:54+00:00",
-      "fetched": "2026-07-29T08:30:04.858872+00:00"
-    },
-    {
-      "id": "d1c29b4a0e9c7580",
-      "title": "First Rental in 2016, Financially Free in 2026 (Every Strategy I Used)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1291",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Ten years ago, Erika Brown bought her first investment property. Now, a decade later, she’s financially free, with a portfolio she’s slowly starting to scale down so she can do [ ]",
-      "published": "2026-06-15T11:00:37+00:00",
-      "fetched": "2026-07-29T08:30:04.858899+00:00"
-    },
-    {
-      "id": "516a9697281666b9",
-      "title": "She Lost $85,000, Then Made It All Back with a Single Rental Property",
-      "link": "https://www.biggerpockets.com/blog/rookie-731",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Real estate bookkeeping might not be the most thrilling part of owning a rental property, but it’s often the difference between bleeding money each month and earning cash flow you [ ]",
-      "published": "2026-06-15T11:00:07+00:00",
-      "fetched": "2026-07-29T08:30:04.858926+00:00"
-    },
-    {
-      "id": "62eb897da2a40103",
-      "title": "Your Pool Is an Asset—It’s Also a Lawsuit Waiting to Happen",
-      "link": "https://www.biggerpockets.com/blog/your-pool-is-an-asset-its-also-a-lawsuit-waiting-to-happen",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Summer contains the best three months of the year in short-term rental investing: occupancy and rates climb, guests book further out, and your calendar looks like the one you dreamed [ ]",
-      "published": "2026-06-12T13:21:53+00:00",
-      "fetched": "2026-07-29T08:30:04.858951+00:00"
-    },
-    {
-      "id": "c6d90a2ce961bac0",
-      "title": "Inside the Search: The Pipes Burst During the Final Walkthrough. He Bought the House Anyway.",
-      "link": "https://www.biggerpockets.com/blog/inside-the-search-the-pipes-burst-during-the-final-walkthrough-he-bought-the-house-anyway",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Here’s how an out-of-state investor turned a flooded hoarder house into his next step toward 20 doors, and what his team says separates the investors who make it from the [ ]",
-      "published": "2026-06-12T13:14:20+00:00",
-      "fetched": "2026-07-29T08:30:04.858979+00:00"
-    },
-    {
-      "id": "92d0e6bfbbc726bc",
-      "title": "The Best Property Management Software for Small Landlords (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-730",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Thinking about self-managing your rental property? Then, you’ll need property management software to help with things like processing applications, collecting rent, and managing maintenance requests. In this episode, we’re sharing [ ]",
-      "published": "2026-06-12T11:00:45+00:00",
-      "fetched": "2026-07-29T08:30:04.859009+00:00"
     }
   ]
 }

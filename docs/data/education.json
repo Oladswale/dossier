@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-07-30T19:05:03.976729+00:00",
-  "count": 71,
+  "updated": "2026-07-31T01:23:17.664181+00:00",
+  "count": 73,
   "items": [
+    {
+      "id": "93f62dd0504f500a",
+      "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+      "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
+      "published": "2026-07-30T21:00:00+00:00",
+      "fetched": "2026-07-31T01:23:16.593972+00:00"
+    },
+    {
+      "id": "527a33e63b28cbae",
+      "title": "Connecting research to policy on Capitol Hill",
+      "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
+      "published": "2026-07-30T20:35:00+00:00",
+      "fetched": "2026-07-31T01:23:16.594016+00:00"
+    },
     {
       "id": "17e651ac77f40d4b",
       "title": "Why some nitrogen-processing enzymes are more efficient than others",

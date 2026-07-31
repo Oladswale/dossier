@@ -1,8 +1,168 @@
 {
   "category": "entertainment",
-  "updated": "2026-07-30T19:05:02.422336+00:00",
-  "count": 120,
+  "updated": "2026-07-31T01:23:16.244842+00:00",
+  "count": 136,
   "items": [
+    {
+      "id": "20869c96a02babf8",
+      "title": "‘Stuart Fails to Save the Universe’ Producers on Episode 2’s Surprise Kaley Cuoco Cameo As an Alternate Penny",
+      "link": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This story contains spoilers from “Stuart Fails to Save the Universe” Season 1 Episode 2, now streaming on HBO Max. “Stuart Fails to Save the Universe” Episode 2 was chock full of cameos and guest stars — but saved the biggest one, at least for “The Big Bang Theory” fans, until near the end [ ]",
+      "published": "2026-07-31T01:00:00+00:00",
+      "fetched": "2026-07-31T01:23:16.032222+00:00"
+    },
+    {
+      "id": "7c759e39940a8f8b",
+      "title": "‘Spider-Man: Brand New Day’: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel’s Next Reboot",
+      "link": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This article contains major spoilers for Spider-Man: Brand New Day, now playing in theaters. After months of speculation about who Sadie Sink is playing in Spider-Man: Brand New Day, the movie has finally hit theaters and Spidey fans can see for themselves which comic-book character she s bringing to life As many people predicted, [ ]",
+      "published": "2026-07-31T00:30:00+00:00",
+      "fetched": "2026-07-31T01:23:16.032283+00:00"
+    },
+    {
+      "id": "04c3d70b2eddc7ab",
+      "title": "Boy George Drops Out of London ‘Jesus Christ Superstar’ Production Following Backlash to Pro-Israel Song",
+      "link": "https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Boy George has dropped out of a London production of Jesus Christ Superstar just days after releasing the controversial pro-Israel song We Will Dance Again. Paul Kemsley, George s manager, released a statement on social media that he had decided that the Culture Club singer would no longer appear in the production at the London Palladium. [ ]",
+      "published": "2026-07-30T23:55:07+00:00",
+      "fetched": "2026-07-31T01:23:16.032335+00:00"
+    },
+    {
+      "id": "416b1628fbc3b2b4",
+      "title": "‘Dungeons & Dragons’ Reveals Star Wars, ‘World of Warcraft’-Themed Tabletop Roleplaying Game as Part of New ‘Universes Beyond’ Collection",
+      "link": "https://variety.com/2026/gaming/news/dungeons-and-dragons-star-wars-world-of-warcraft-games-1236824675/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Dungeons Dragons maker Wizards of the Coast announced the upcoming launch of Star Wars and World of Warcraft -themed game offerings during Gen Con 2026 Thursday. Starting Nov. 17, the WoW expansion will allow D D players to “roll for Azeroth as they recreate their ‘World of Warcraft’ main character or roll a new alt and [ ]",
+      "published": "2026-07-30T23:40:00+00:00",
+      "fetched": "2026-07-31T01:23:16.032396+00:00"
+    },
+    {
+      "id": "692542ce3b39e7e7",
+      "title": "Banijay Americas CEO Ben Samek to Oversee Merged Banijay/All3Media Operations in the U.S.",
+      "link": "https://variety.com/2026/tv/news/ben-samek-oversee-merged-banijay-all3media-merged-us-1236824710/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "With the completion of the $8 billion merger between Banijay and All3Media, as expected Banijay Americas CEO Ben Samek is in line to oversee the combined company s U.S. entity. News comes after Banijay and All3Media, which described their merger as “the world’s largest independent production company, finalized their deal earlier this month.",
+      "published": "2026-07-30T23:19:06+00:00",
+      "fetched": "2026-07-31T01:23:16.032450+00:00"
+    },
+    {
+      "id": "0fc8ed10bf0ee005",
+      "title": "Boy George Drops Out of ‘Jesus Christ Superstar’ After Pro-Israel Song Release",
+      "link": "https://www.rollingstone.com/music/music-news/boy-george-drops-out-jesus-christ-superstar-musical-1235601316/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer's AI-assisted song, “We Will Dance Again,” minimizes Palestinian suffering and praises Israel’s military actions in Gaza",
+      "published": "2026-07-30T23:12:14+00:00",
+      "fetched": "2026-07-31T01:23:16.104078+00:00"
+    },
+    {
+      "id": "e5d0041aae710ead",
+      "title": "‘Wonder Man’ Star Yahya Abdul-Mateen II Speaks Out After Marvel Series Canceled: ‘That’s Life… Everything Will Shake Out’",
+      "link": "https://variety.com/2026/tv/news/yahya-abdul-mateen-ii-wonder-man-canceled-marvel-1236824724/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Wonder Man star Yahya Abdul-Mateen II is speaking out about the surprise cancellation of the Marvel TV series, after it had been renewed for a second season on Disney+. Word just dropped that Wonder Man won’t be coming back for Season 2. (And if you don’t knowww, now ya knoww!",
+      "published": "2026-07-30T23:04:40+00:00",
+      "fetched": "2026-07-31T01:23:16.032506+00:00"
+    },
+    {
+      "id": "abac78ffa12eac34",
+      "title": "Disney Expected to Sell 50% Stake in A+E to Hearst for More Than $1 Billion",
+      "link": "https://variety.com/2026/tv/news/disney-sell-stake-ae-hearst-1236824672/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney is getting ready to shed its ownership stake in A+E Global Media, the cable-focused programmer it has owned jointly with Hearst for more than a decade. Disney will sell its 50% stake in A+E Global Media (formerly known as A+E Networks) to Hearst, in a transaction valued at over $1 billion, a source familiar [ ]",
+      "published": "2026-07-30T21:47:12+00:00",
+      "fetched": "2026-07-31T01:23:16.032550+00:00"
+    },
+    {
+      "id": "68d11c7e5785e527",
+      "title": "Netflix Sued After Unreleased Nicolas Cage WWII Movie Allegedly Stolen From Office",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/netflix-fortitude-nicolas-cage-movie-lawsuit-1235601182/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The producer of Fortitude , a movie \"tonally in the vein of Ocean's 11 or Inglourious Basterds ,\" wants $105 million for the alleged gaffe",
+      "published": "2026-07-30T21:38:52+00:00",
+      "fetched": "2026-07-31T01:23:16.104120+00:00"
+    },
+    {
+      "id": "99fa3b5d3b697626",
+      "title": "As Outfest Rebuilds, What Will the Future of L.A.’s Staple LGBTQ+ Film Festival Look Like?",
+      "link": "https://variety.com/2026/film/news/outfest-rebuilds-future-lgbtq-film-festival-1236824448/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Outfest looked a little different this past weekend. Instead of the usual 11-day window over the summer, the festivities ran for four days from July 23-26, with screenings and conversations held at the Los Angeles LGBT Center’s Renberg Theatre in Hollywood. The program featured over 30 films and shorts, headlined by Gregg Araki’s “I Want [ ]",
+      "published": "2026-07-30T21:37:59+00:00",
+      "fetched": "2026-07-31T01:23:16.032600+00:00"
+    },
+    {
+      "id": "aec77db4923dc3c4",
+      "title": "Veteran Reality Exec Mike Darnell Seals Overall Deal at Netflix, Where He’ll Also Provide Guidance on the Streamer’s Unscripted Slate",
+      "link": "https://variety.com/2026/tv/news/mike-darnell-overall-deal-netflix-unscripted-1236824714/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The dark prince of reality TV has re-emerged. Mike Darnell has inked an exclusive, multi-year overall deal with Netflix, where he will also consult on the platform s unscripted slate. He ll work closely with Netflix nonfiction series sports vice president Brandon Riegg, who was instrumental in recruiting Darnell to the streamer.",
+      "published": "2026-07-30T21:35:00+00:00",
+      "fetched": "2026-07-31T01:23:16.032651+00:00"
+    },
+    {
+      "id": "1a8fb104aeb6a614",
+      "title": "‘Spider-Man: Brand New Day’ Early Cut ‘Took Notes From Random People’ at Test Screenings and ‘We Hated It,’ Says Tom Holland: ‘It Totally Didn’t Work’",
+      "link": "https://variety.com/2026/film/news/tom-holland-spider-man-brand-new-day-test-screenings-1236824202/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tom Holland said in an interview with Quotable on the Spider-Man: Brand New Day press tour that one of the worst cuts he saw of the movie was shaped by test screenings. We ve seen loads of different cuts of this movie, and one of the cuts, they took all of the notes from all of [ ]",
+      "published": "2026-07-30T21:32:42+00:00",
+      "fetched": "2026-07-31T01:23:16.032698+00:00"
+    },
+    {
+      "id": "53174207716f0cd8",
+      "title": "Barbie’s Best Festive Look Yet? Meet the 2026 Holiday Doll That’s Now Available Online",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-the-2026-holiday-barbie-online-best-sites-1235600992/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From a bright red gown to sleek styling, Mattel's newest Holiday Barbie is a seasonal \"sleigh\"",
+      "published": "2026-07-30T21:11:13+00:00",
+      "fetched": "2026-07-31T01:23:16.104177+00:00"
+    },
+    {
+      "id": "f22477067734891c",
+      "title": "Storm Owner Suspended After Clash With Sophie Cunningham Supporters",
+      "link": "https://www.rollingstone.com/culture/culture-news/storm-owner-suspended-sophie-cunningham-trans-athletes-1235601245/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Two teens, wearing shirts with XX and XY chromosomes on them, were backing the Fever guard's stance on banning transgender athletes from women's sports",
+      "published": "2026-07-30T21:08:51+00:00",
+      "fetched": "2026-07-31T01:23:16.104207+00:00"
+    },
+    {
+      "id": "bc105810409a8766",
+      "title": "Musk to Spend Millions Boosting MAGA Candidates in Midterms",
+      "link": "https://www.rollingstone.com/politics/politics-news/elon-musk-spend-big-2026-midterms-1235601248/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Axios has reported that the tech billionaire is prepared to open his pocketbook to help Republicans this November",
+      "published": "2026-07-30T21:03:01+00:00",
+      "fetched": "2026-07-31T01:23:16.104233+00:00"
+    },
+    {
+      "id": "945f60a773d678bc",
+      "title": "Travis Scott Directs Visual for ‘Odyssey’ Song ‘When I’m Home’",
+      "link": "https://www.rollingstone.com/music/music-news/travis-scott-odyssey-video-when-im-home-1235601212/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Scott directs and stars in the new visual with James Blake and Ludwig Goransson following the release of the film’s closing song",
+      "published": "2026-07-30T20:16:56+00:00",
+      "fetched": "2026-07-31T01:23:16.104264+00:00"
+    },
     {
       "id": "a9306d510bb33e46",
       "title": "The Next Spider-Man Actor: Tom Holland Has a ‘Clear Vision’ For His Successor and a ‘Whole Plan’ Is Already ‘Laid Out’",
