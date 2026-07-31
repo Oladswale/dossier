@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-07-31T01:23:17.664181+00:00",
-  "count": 73,
+  "updated": "2026-07-31T08:27:00.630559+00:00",
+  "count": 75,
   "items": [
+    {
+      "id": "174e3f6a47902c22",
+      "title": "Why Mapmakers Put Fake Towns on Their Maps in the 1920s — and the One That Became Real",
+      "link": "https://www.openculture.com/2026/07/why-mapmakers-put-fake-towns-on-their-maps-in-the-1920s-and-the-one-that-became-real.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Open Culture readers may know John Green best for Crash Course, the YouTube channel that teaches everything you need to know about subjects like world history, U.S. history, big history, literature, and philosophy. Or at least it teaches everything a teenage student facing down the prospect of Advanced Placement subject exams needs to know.",
+      "published": "2026-07-31T08:00:45+00:00",
+      "fetched": "2026-07-31T08:27:00.630319+00:00"
+    },
+    {
+      "id": "56cc4306053fb77d",
+      "title": "Building energy security through more sustainable batteries",
+      "link": "https://news.mit.edu/2026/building-energy-security-through-more-sustainable-batteries-hugh-smith-0731",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "PhD student Hugh Smith works to develop sodium-ion batteries, whose components are more abundant and accessible than those of conventional lithium-ion technology.",
+      "published": "2026-07-31T04:00:00+00:00",
+      "fetched": "2026-07-31T08:26:59.377395+00:00"
+    },
     {
       "id": "93f62dd0504f500a",
       "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
