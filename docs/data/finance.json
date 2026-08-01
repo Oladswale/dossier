@@ -1,8 +1,128 @@
 {
   "category": "finance",
-  "updated": "2026-07-31T19:02:13.189323+00:00",
+  "updated": "2026-08-01T01:24:14.220188+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8d6270d54a2e4180",
+      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
+      "link": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors are seeing more signs that the bottom is near, if not already in.",
+      "published": "2026-07-31T22:21:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785351+00:00"
+    },
+    {
+      "id": "e29377a75ed131e2",
+      "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
+      "link": "https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There are more similarities between the two hedge-fund blowups than one might expect.",
+      "published": "2026-07-31T22:09:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785389+00:00"
+    },
+    {
+      "id": "a76b42ecc42d420c",
+      "title": "The S&P 500 is making a change by adding this little-known industrial stock",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Ferguson Enterprises’ stock was rallying more than 8% after news the Newport News, Va., company will be joining the S P 500 index, edging out better-known names for inclusion.",
+      "published": "2026-07-31T21:53:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785488+00:00"
+    },
+    {
+      "id": "49b4d475fd805b20",
+      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
+      "published": "2026-07-31T21:28:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785525+00:00"
+    },
+    {
+      "id": "aad3564dac481aa6",
+      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
+      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
+      "published": "2026-07-31T21:10:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785559+00:00"
+    },
+    {
+      "id": "4cca9ff68bff15be",
+      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
+      "published": "2026-07-31T20:23:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785592+00:00"
+    },
+    {
+      "id": "d43ff4f0668af97c",
+      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+      "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
+      "published": "2026-07-31T20:20:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785621+00:00"
+    },
+    {
+      "id": "3d55645cf11eb6a1",
+      "title": "U.S. ends routine visa processing in Abuja from August 1",
+      "link": "https://nairametrics.com/2026/07/31/u-s-ends-routine-visa-processing-in-abuja-from-august-1/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerians seeking U.S. visas will now have to process their applications through the U.S. Consulate General in Lagos from August 1, 2026, following the transfer of routine visa services from the U.S.",
+      "published": "2026-07-31T20:06:18+00:00",
+      "fetched": "2026-08-01T01:24:12.715110+00:00"
+    },
+    {
+      "id": "7e7cf8ecb3f83489",
+      "title": "The trillion-dollar map: How to win in Nigeria’s unseen economy",
+      "link": "https://nairametrics.com/2026/07/31/the-trillion-dollar-map-how-to-win-in-nigerias-unseen-economy/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria is worth about USD 291 billion and about USD 2.3 trillion at the same time. Both are World Bank figures for 2025. The first converts the economy into dollars at the exchange rate.",
+      "published": "2026-07-31T20:03:57+00:00",
+      "fetched": "2026-08-01T01:24:12.715186+00:00"
+    },
+    {
+      "id": "b933bfdfb5d11e79",
+      "title": "International Breweries’ H1 2026 pre-tax profit rises 22% on margin recovery.",
+      "link": "https://nairametrics.com/2026/07/31/international-breweries-h1-2026-pre-tax-profit-rises-22-on-margin-recovery/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "International Breweries Plc has released its unaudited H1 2026 results reporting recorded a pre-tax profit of N74.79 billion for the six months ended June 2026. The post International Breweries H1 2026 pre-tax profit rises 22% on margin recovery. appeared first on Nairametrics .",
+      "published": "2026-07-31T19:17:53+00:00",
+      "fetched": "2026-08-01T01:24:12.715235+00:00"
+    },
+    {
+      "id": "e99139d0824c68f2",
+      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I realize that probate can be lengthy, public and expensive.”",
+      "published": "2026-07-31T19:16:00+00:00",
+      "fetched": "2026-08-01T01:24:11.785649+00:00"
+    },
+    {
+      "id": "41dac1a60433387c",
+      "title": "Lagos collects N1.67 trillion in six months, hits 90% revenue target",
+      "link": "https://nairametrics.com/2026/07/31/lagos-collects-n1-67-trillion-in-six-months-hits-90-revenue-target/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Lagos State generated N1.67 trillion in recurrent revenue in the first half of 2026, achieving 90% of its half-year target. The post Lagos collects N1.67 trillion in six months, hits 90% revenue target appeared first on Nairametrics .",
+      "published": "2026-07-31T19:10:58+00:00",
+      "fetched": "2026-08-01T01:24:12.715275+00:00"
+    },
     {
       "id": "85f80817aabed49e",
       "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
@@ -1382,126 +1502,6 @@
       "summary": "It’s not enough to do everything “right” on paper.",
       "published": "2026-07-29T17:18:00+00:00",
       "fetched": "2026-07-29T18:47:22.798675+00:00"
-    },
-    {
-      "id": "bfe7f2807865b6e7",
-      "title": "Why SoFi’s stock is dropping, even after its earnings beat expectations",
-      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors were disappointed by the neobank’s restrained guidance.",
-      "published": "2026-07-29T17:18:00+00:00",
-      "fetched": "2026-07-29T18:47:22.798704+00:00"
-    },
-    {
-      "id": "73b2e562f811b202",
-      "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
-      "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A strong dollar is doing far less for the fight against inflation than might be expected.",
-      "published": "2026-07-29T17:12:00+00:00",
-      "fetched": "2026-07-29T18:47:22.798737+00:00"
-    },
-    {
-      "id": "39ab2a552153b068",
-      "title": "PwC, EY jointly command an estimated 35.9% of Nigeria’s corporate audit market in 2025`",
-      "link": "https://nairametrics.com/2026/07/29/pwc-ey-jointly-command-an-estimated-35-9-of-nigerias-corporate-audit-market-in-2025/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "PricewaterhouseCoopers (PwC) and Ernst Young (EY) emerged as the leading auditors among 128 major Nigerian companies reviewed in 2025, with each firm auditing 23 companies, representing 17.97% of the total. The post PwC, EY jointly command an estimated 35.9% of Nigeria s corporate audit market in 2025` appeared first on Nairametrics .",
-      "published": "2026-07-29T17:00:13+00:00",
-      "fetched": "2026-07-29T18:47:23.321269+00:00"
-    },
-    {
-      "id": "d9fc6eda004689c3",
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
-      "published": "2026-07-29T17:00:00+00:00",
-      "fetched": "2026-07-29T18:47:22.798784+00:00"
-    },
-    {
-      "id": "f96711668811227f",
-      "title": "Flutterwave Named to CNBC and Statista’s World’s Top Fintech Companies List",
-      "link": "https://nairametrics.com/2026/07/29/flutterwave-named-to-cnbc-and-statistas-worlds-top-fintech-companies-list/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Flutterwave, Africa s leading payments technology company, has been named to CNBC and Statista s 2025 World s Top Fintech Companies list. The recognition highlights Flutterwave s continued commitment to innovation, operational excellence, and building technology that powers seamless payments and cross-border commerce across Africa and beyond. The CNBC World’s Top Fintech Companies list is an annual global ranking [ ] The post Flutterwave Named to CNBC and Statista s World s Top Fintech Companies List appeared first on Nairametrics .",
-      "published": "2026-07-29T16:59:33+00:00",
-      "fetched": "2026-07-29T18:47:23.321347+00:00"
-    },
-    {
-      "id": "11c8aaf61dd951f8",
-      "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
-      "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Oil prices rose on Wednesday after President Donald Trump said the U.S. would order heavy strikes after Iran targeted American forces in the Middle East with ballistic missiles overnight.",
-      "published": "2026-07-29T16:36:00+00:00",
-      "fetched": "2026-07-29T18:47:22.798823+00:00"
-    },
-    {
-      "id": "40677e35dc1bc81d",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
-      "published": "2026-07-29T16:30:00+00:00",
-      "fetched": "2026-07-29T18:47:22.798858+00:00"
-    },
-    {
-      "id": "4d53a51e2d9a2209",
-      "title": "Why trust has become Nigeria’s next digital payments challenge",
-      "link": "https://techcabal.com/2026/07/29/why-trust-has-become-nigeria-digital-payments-challenge/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria no longer has a payments problem. It has a trust problem. That is the central argument of a new report by Bridgforte, a policy research institute, published in partnership with the United Nations Development Programme (UNDP) Innovation Hub in Lagos, which argues that confidence in Nigeria's financial system is now determined less by how quickly money moves than by how reliably the system responds when something goes wrong.",
-      "published": "2026-07-29T16:27:07+00:00",
-      "fetched": "2026-07-29T18:47:23.818515+00:00"
-    },
-    {
-      "id": "4d2e93af5c53998b",
-      "title": "NITDA to license tech firms for software testing under new framework",
-      "link": "https://nairametrics.com/2026/07/29/nitda-to-license-tech-firms-for-software-testing-under-new-framework/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Information Technology Development Agency (NITDA) is set to license tech firms for software testing as it seeks to standardize IT project implementation across government and regulated private sector entities. The post NITDA to license tech firms for software testing under new framework appeared first on Nairametrics .",
-      "published": "2026-07-29T16:10:05+00:00",
-      "fetched": "2026-07-29T18:47:23.321399+00:00"
-    },
-    {
-      "id": "f490bb8d217418b3",
-      "title": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
-      "link": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The Clarity Act’s progress in May helped lift the price of bitcoin, but now the measure is facing obstacles in the full Senate.",
-      "published": "2026-07-29T16:03:00+00:00",
-      "fetched": "2026-07-29T18:47:22.798917+00:00"
-    },
-    {
-      "id": "f0794b0bd7a36d2e",
-      "title": "These professional certifications are quietly transforming careers across Nigeria",
-      "link": "https://nairametrics.com/2026/07/29/these-professional-certifications-are-quietly-transforming-careers-across-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Professional certifications are becoming one of the clearest ways Nigerian professionals are distinguishing themselves in an increasingly competitive job market, as employers place greater value on verified expertise and workers seek skills that remain relevant in the age of artificial intelligence. The post These professional certifications are quietly transforming careers across Nigeria appeared first on Nairametrics .",
-      "published": "2026-07-29T15:48:57+00:00",
-      "fetched": "2026-07-29T18:47:23.321454+00:00"
-    },
-    {
-      "id": "c2ec0ab9cf9278e2",
-      "title": "Nigeria tests investor appetite with sale of former telecom monopoly ntel",
-      "link": "https://techcabal.com/2026/07/29/why-ntels-planned-sale-is-about-more-than-amcons-exit/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The process remains in its early stages. No investors have emerged yet, AMCON spokesperson Jude Nwauzor said.",
-      "published": "2026-07-29T15:38:35+00:00",
-      "fetched": "2026-07-29T18:47:23.818546+00:00"
     }
   ]
 }
