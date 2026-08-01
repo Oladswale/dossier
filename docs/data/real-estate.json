@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-01T12:46:53.966315+00:00",
+  "updated": "2026-08-01T18:47:47.812414+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "308973809cb028ee",
+      "title": "Gondola-Side Steamboat Springs Stone Mansion Returns to Market for $14 Million",
+      "link": "https://www.realtor.com/news/unique-homes/steamboat-springs-stone-mansion-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The sprawling stone estate has returned to the market with a Gondola side view and picturesque features.",
+      "published": "2026-08-01T16:07:00+00:00",
+      "fetched": "2026-08-01T18:47:47.811785+00:00"
+    },
     {
       "id": "38d45bcb95e845eb",
       "title": "‘I’m Renovating a 120-Year-Old Abandoned General Store Into the Homestead of My Dreams’",
@@ -1492,16 +1502,6 @@
       "summary": "The peace deal between the U.S. and Iran has been agreed to (at least for now). The Strait of Hormuz, the chokehold on 20% of the world’s oil, is starting [ ]",
       "published": "2026-06-25T11:00:06+00:00",
       "fetched": "2026-07-29T08:30:04.858177+00:00"
-    },
-    {
-      "id": "61ef9dfa8a45b09d",
-      "title": "AI-Created Tech Layoffs are Shifting the Housing Market",
-      "link": "https://www.biggerpockets.com/blog/ai-created-tech-layoffs-are-shifting-the-housing-market",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "AI-powered layoffs are shaking up the once-bulletproof tech job market, with more than 100,000 layoffs so far this year alone. For real estate investors, the burning question is where all [ ]",
-      "published": "2026-06-24T19:54:49+00:00",
-      "fetched": "2026-07-29T08:30:04.858202+00:00"
     }
   ]
 }
