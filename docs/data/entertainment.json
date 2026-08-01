@@ -1,8 +1,28 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-01T07:56:28.729816+00:00",
+  "updated": "2026-08-01T12:46:51.661361+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bbc07ce1be29af44",
+      "title": "Massive Attack Duo Banned From Singapore Over Palestinian Flag Display",
+      "link": "https://variety.com/2026/music/news/massive-attack-duo-banned-singapore-palestinian-flag-1236825534/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Both members of Massive Attack have been permanently barred from re-entering Singapore after unfurling a Palestinian flag during the British trip-hop group s concert in the city-state, according to a joint statement from the Singapore Police Force and the Infocomm Media Development Authority (IMDA). The statement said police investigated both band members for their actions of [ ]",
+      "published": "2026-08-01T09:26:41+00:00",
+      "fetched": "2026-08-01T12:46:51.349639+00:00"
+    },
+    {
+      "id": "6ac9d60874438ea0",
+      "title": "‘The Inbetweeners’ Reunion Movie in the Works at Netflix With Original Lead Cast to Return",
+      "link": "https://variety.com/2026/film/global/the-inbetweeners-reunion-movie-netflix-original-lead-cast-1236825532/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Inbetweeners — the hit Brit teen comedy series from the late 2000s that spawned two successful spin-off films — is officially back. A reunion movie is now in the works at Netflix, Variety has confirmed, with the original lead cast of Simon Bird, Joe Thomas, Blake Harrison and James Buckley understood to be attached, although final [ ]",
+      "published": "2026-08-01T09:17:30+00:00",
+      "fetched": "2026-08-01T12:46:51.349689+00:00"
+    },
     {
       "id": "bfb8243337a3be20",
       "title": "FIFA Chief Gianni Infantino on the Ropes as He Ditches Controversial $20 Billion Private Investment Plan",
@@ -1482,26 +1502,6 @@
       "summary": "The best way to get news and entertainment TV channels online? DIRECTV’s newest Duo bundle",
       "published": "2026-07-29T17:18:37+00:00",
       "fetched": "2026-07-29T18:47:27.221282+00:00"
-    },
-    {
-      "id": "a51ae5e718c23728",
-      "title": "Sex Life Stalled? Take Matters Into Your Own Hands (Literally) With Womanizer’s Latest Vibrator",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-womanizer-next-liberty-vibrator-best-sex-toys-2026-1235599923/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Next Liberty promises an orgasm 98% of the time, according to the brand, and is now available for purchase online",
-      "published": "2026-07-29T17:18:31+00:00",
-      "fetched": "2026-07-29T18:47:27.221317+00:00"
-    },
-    {
-      "id": "1413dc24ed829fe7",
-      "title": "The Covid Origins Saga Is More Complicated Than Either Side Wants to Admit",
-      "link": "https://www.rollingstone.com/politics/politics-features/covid-origin-saga-anthony-fauci-hearing-1235600425/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "We're no closer to getting answers after Anthony Fauci exercised his Fifth Amendment rights during his Senate hearing",
-      "published": "2026-07-29T17:03:39+00:00",
-      "fetched": "2026-07-29T18:47:27.221348+00:00"
     }
   ]
 }

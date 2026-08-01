@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-01T07:56:30.441063+00:00",
+  "updated": "2026-08-01T12:46:53.966315+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "38d45bcb95e845eb",
+      "title": "‘I’m Renovating a 120-Year-Old Abandoned General Store Into the Homestead of My Dreams’",
+      "link": "https://www.realtor.com/news/first-person/renovation-history-abandoned-property-homestead-dreams/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Emma Shaye, 32, purchased the property in the fall of 2024 for $23,000 following the loss of her mother to Multiple System Atrophy.",
+      "published": "2026-08-01T11:02:00+00:00",
+      "fetched": "2026-08-01T12:46:53.965798+00:00"
+    },
+    {
+      "id": "b7fd4a47e6a6f17a",
+      "title": "What Will Become of Florida’s Infamous ‘Holdout House’?",
+      "link": "https://www.realtor.com/news/real-estate-news/clearwater-beach-holdout-house-887-gulfview-florida/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The last single-family house standing on a Tampa Bay peninsula was sold in late 2025 to a mystery buyer for $3 milllion.",
+      "published": "2026-08-01T10:00:00+00:00",
+      "fetched": "2026-08-01T12:46:53.965839+00:00"
+    },
     {
       "id": "8b31667bbab9b677",
       "title": "NYC Family Snaps Up $47 Million St. Regis-Branded Penthouse in Miami’s ‘Manhattan of the South’",
@@ -1482,26 +1502,6 @@
       "summary": "AI-powered layoffs are shaking up the once-bulletproof tech job market, with more than 100,000 layoffs so far this year alone. For real estate investors, the burning question is where all [ ]",
       "published": "2026-06-24T19:54:49+00:00",
       "fetched": "2026-07-29T08:30:04.858202+00:00"
-    },
-    {
-      "id": "289722befd6d9154",
-      "title": "Why Now Could Be the Best Market For Real Estate Investing in Over a Decade",
-      "link": "https://www.biggerpockets.com/blog/why-now-could-be-the-best-market-for-real-estate-investing-in-over-a-decade",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Both active and passive real estate investors have pulled back over the last year. For example, Redfin reported that mom-and-pop investors pulled back by 6% late last year and 13% [ ]",
-      "published": "2026-06-24T19:22:44+00:00",
-      "fetched": "2026-07-29T08:30:04.858227+00:00"
-    },
-    {
-      "id": "41c5107f0fd32df0",
-      "title": "Deal Diary: How Lucy Hinds Turned One HELOC Into Three Rental Properties",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-lucy-hinds",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Lucy Hinds Location Cincinnati, Ohio Occupation Real estate investor Assets Single-family rentals Investment strategy Long-term rentals Financing Conventional + HELOCs Lucy Hinds spent years living the Dave Ramsey playbook: [ ]",
-      "published": "2026-06-24T16:51:12+00:00",
-      "fetched": "2026-07-29T08:30:04.858254+00:00"
     }
   ]
 }
