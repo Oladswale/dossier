@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-02T12:49:55.357246+00:00",
+  "updated": "2026-08-02T18:47:50.481897+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6444e7e21a8d161f",
+      "title": "Restored 1750s Waterfall Estate in Hudson Valley Is Listed for the First Time in 60 Years for $5.2 Million",
+      "link": "https://www.realtor.com/news/unique-homes/bloomvale-historic-waterfall-estate-hudson-valley-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The remarkable stone estate served as a cotton mill and cidery before being transformed into an extraordinary private residence.",
+      "published": "2026-08-02T14:30:00+00:00",
+      "fetched": "2026-08-02T18:47:50.481372+00:00"
+    },
+    {
+      "id": "85ac0a310280bdad",
+      "title": "From Hot Spot to Ghost Town: How Abandoned South Miami Mall Reflects South Florida’s Luxury Transformation",
+      "link": "https://www.realtor.com/news/trends/south-miami-sunset-place-mall-florida-luxury-boom/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Midtown Development purchased the 10-acre site for $65.5 million in 2020 after a previous owner failed to execute a 2019 redevelopment plan.",
+      "published": "2026-08-02T13:01:00+00:00",
+      "fetched": "2026-08-02T18:47:50.481411+00:00"
+    },
     {
       "id": "3939b9159f4ac1ba",
       "title": "From Budget Kit House to Historic Collector Item: Inside the Rise, Fall, and Evolution of Sears Catalog Homes",
@@ -1482,26 +1502,6 @@
       "summary": "Presented in partnership with Connect Invest. I run a glamping and short-term rental portfolio in Texas, and I self-manage basically all of it. I take the direct bookings and answer [ ]",
       "published": "2026-06-26T16:33:58+00:00",
       "fetched": "2026-07-29T08:30:04.858094+00:00"
-    },
-    {
-      "id": "babf0771918bbb54",
-      "title": "Where We’d Invest in Real Estate Right Now (12 Markets)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1296",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "New to investing in real estate? In an area that has high housing prices, tough landlord laws, or little-to-no cash flow potential? We’ve got you covered.",
-      "published": "2026-06-26T11:00:52+00:00",
-      "fetched": "2026-07-29T08:30:04.858123+00:00"
-    },
-    {
-      "id": "3b95c1953298e9b7",
-      "title": "My Property Is Losing Money: Should I Sell or Pivot? (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-736",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The property you spent months working on is about to lose you money. What should you do? Sell?",
-      "published": "2026-06-26T11:00:48+00:00",
-      "fetched": "2026-07-29T08:30:04.858151+00:00"
     }
   ]
 }
