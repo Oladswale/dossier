@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-02T01:22:05.239847+00:00",
-  "count": 75,
+  "updated": "2026-08-02T07:58:34.481656+00:00",
+  "count": 76,
   "items": [
+    {
+      "id": "2ffd856393628cc0",
+      "title": "Using reason, again and again",
+      "link": "https://news.mit.edu/2026/using-reason-again-and-again-brian-hedden-0802",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Philosopher Brian Hedden studies decision-making over time — and recently chose to return to alma mater MIT, where he is now connecting ethics and computing.",
+      "published": "2026-08-02T04:00:00+00:00",
+      "fetched": "2026-08-02T07:58:33.633933+00:00"
+    },
     {
       "id": "174e3f6a47902c22",
       "title": "Why Mapmakers Put Fake Towns on Their Maps in the 1920s — and the One That Became Real",
