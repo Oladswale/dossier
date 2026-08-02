@@ -1,8 +1,78 @@
 {
   "category": "finance",
-  "updated": "2026-08-02T07:58:29.716518+00:00",
+  "updated": "2026-08-02T12:49:49.813721+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e34e10f4fa4921f8",
+      "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+      "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
+      "published": "2026-08-02T12:00:00+00:00",
+      "fetched": "2026-08-02T12:49:48.117407+00:00"
+    },
+    {
+      "id": "4d932b1bd540aa2b",
+      "title": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
+      "link": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The breakout to record highs by bank stocks, plus their strong earnings and favorable valuations, suggest more good times ahead for the financial sector.",
+      "published": "2026-08-02T12:00:00+00:00",
+      "fetched": "2026-08-02T12:49:48.117457+00:00"
+    },
+    {
+      "id": "62d5ab649153b38d",
+      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
+      "link": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses.",
+      "published": "2026-08-02T11:30:00+00:00",
+      "fetched": "2026-08-02T12:49:48.117491+00:00"
+    },
+    {
+      "id": "69ef544573a055d6",
+      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+      "link": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Apple has been phenomenally profitable because its CEO resisted demands to change the business’s focus.",
+      "published": "2026-08-02T11:00:00+00:00",
+      "fetched": "2026-08-02T12:49:48.117521+00:00"
+    },
+    {
+      "id": "5096b75c134b6707",
+      "title": "MMIA fire: Passenger processing, flights resume at Lagos airport after incident",
+      "link": "https://nairametrics.com/2026/08/02/mmia-fire-passenger-processing-flights-resume-at-lagos-airport-after-incident/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Passenger processing and flight operations have resumed at the Murtala Muhammed International Airport (MMIA), Lagos, following an incident initially reported as a fire at one of the airport's terminals. The post MMIA fire: Passenger processing, flights resume at Lagos airport after incident appeared first on Nairametrics .",
+      "published": "2026-08-02T10:56:40+00:00",
+      "fetched": "2026-08-02T12:49:48.536317+00:00"
+    },
+    {
+      "id": "beb1771aec32e469",
+      "title": "U.S. visa bond: Nigeria among countries under permanent $20,000 rule",
+      "link": "https://nairametrics.com/2026/08/02/u-s-visa-bond-nigeria-among-countries-under-permanent-20000-rule/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria is among the countries whose eligible travellers will remain subject to the United States' permanent visa bond programme, with consular officers empowered to require bonds of up to $20,000 for certain visitor visa applicants from Monday, August 3. The post U.S. visa bond: Nigeria among countries under permanent $20,000 rule appeared first on Nairametrics .",
+      "published": "2026-08-02T09:23:13+00:00",
+      "fetched": "2026-08-02T12:49:48.536376+00:00"
+    },
+    {
+      "id": "cc5d439238fefc05",
+      "title": "Portfolio investment into Nigeria: Understanding the flow, the assets, the risks, and the path forward",
+      "link": "https://nairametrics.com/2026/08/02/portfolio-investment-into-nigeria-understanding-the-flow-the-assets-the-risks-and-the-path-forward/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Foreign portfolio investment has become the main channel through which foreign capital is entering Nigeria in recent years. In 2025, total capital importation reached about $23.22 billion, with portfolio investment accounting for roughly $19.74 billion—more than 85 per cent of the total. In the first quarter of 2026 alone, portfolio inflows hit $9.86 billion out [ ] The post Portfolio investment into Nigeria: Understanding the flow, the assets, the risks, and the path forward appeared first on Nairametrics .",
+      "published": "2026-08-02T09:08:18+00:00",
+      "fetched": "2026-08-02T12:49:48.536447+00:00"
+    },
     {
       "id": "932b9c6f9cb2a0ad",
       "title": "7 factors that could jolt Nigerian economy before 2026 ends",
@@ -62,6 +132,16 @@
       "summary": "We can use some of those revenues to make Social Security contributions more equitable.",
       "published": "2026-08-01T18:30:00+00:00",
       "fetched": "2026-08-01T18:47:12.902101+00:00"
+    },
+    {
+      "id": "7f5e6972cf6aab7f",
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "published": "2026-08-01T18:15:00+00:00",
+      "fetched": "2026-08-02T12:49:48.117595+00:00"
     },
     {
       "id": "26cd5d04d709d6ce",
@@ -1422,86 +1502,6 @@
       "summary": "A bounce may be coming for those momentum stocks that have been brought back to earth, which could open up another selloff, says BTIG’s Jonathan Krinsky.",
       "published": "2026-07-30T12:58:00+00:00",
       "fetched": "2026-07-30T13:20:07.925265+00:00"
-    },
-    {
-      "id": "01a6f1f080c8060f",
-      "title": "Prestige Assurance doubles H1 profit to N1.05 billion despite 16% drop in premiums",
-      "link": "https://nairametrics.com/2026/07/30/prestige-assurance-doubles-h1-profit-to-n1-05-billion-despite-16-drop-in-premiums/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Prestige Assurance Plc reported a profit of N1.05 billion for the six months ended June 30, 2026, despite a 16% drop in premiums. The post Prestige Assurance doubles H1 profit to N1.05 billion despite 16% drop in premiums appeared first on Nairametrics .",
-      "published": "2026-07-30T12:45:38+00:00",
-      "fetched": "2026-07-30T13:20:08.390874+00:00"
-    },
-    {
-      "id": "f511df99574bf05f",
-      "title": "Aliko Dangote and the lesson of generational wealth",
-      "link": "https://nairametrics.com/2026/07/30/aliko-dangote-and-the-lesson-of-generational-wealth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "I saw a report yesterday where Aliko Dangote s daughter was announcing that the Forbes-rated billionaire would seed one-third of his estimated $35 billion wealth, which would translate to about $11 billion, to charity focusing on Health and Education. The first thing that came to my mind was the loud, annoying Igbo billionaire whose symbolism of [ ] The post Aliko Dangote and the lesson of generational wealth appeared first on Nairametrics .",
-      "published": "2026-07-30T12:41:41+00:00",
-      "fetched": "2026-07-30T13:20:08.390936+00:00"
-    },
-    {
-      "id": "4ecccea4556fb724",
-      "title": "GDP grew so-so 1.5% in the second quarter, but don’t be fooled. The economy was much stronger than it looked.",
-      "link": "https://www.marketwatch.com/story/gdp-shows-the-economy-grew-1-5-in-the-second-quarter-but-its-even-better-than-it-looks-11b7f4fe?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The U.S. economy sped up in the spring even as the Iran war dragged on, boosted by the twin engines of consumer spending and business investment.",
-      "published": "2026-07-30T12:38:00+00:00",
-      "fetched": "2026-07-30T13:20:07.925298+00:00"
-    },
-    {
-      "id": "b3a99c111d4499cd",
-      "title": "Fed-favored PCE inflation gauge falls for first time since pandemic, but danger far from over",
-      "link": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The main inflation barometer used to set U.S. interest rates fell in June for the first time since the pandemic, underscoring why the Federal Reserve took no action this week to raise borrowing costs.",
-      "published": "2026-07-30T12:35:00+00:00",
-      "fetched": "2026-07-30T13:20:07.925330+00:00"
-    },
-    {
-      "id": "4c5df180368f1a04",
-      "title": "Congrats, Gen Z, you’re turning 30. Here are the most important money moves to make next.",
-      "link": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Your parents may have shared advice that was fine when they were 30, but “the world has changed significantly” since then.",
-      "published": "2026-07-30T12:30:00+00:00",
-      "fetched": "2026-07-30T13:20:07.925359+00:00"
-    },
-    {
-      "id": "18ed14fc262ff607",
-      "title": "This global equity fund boasts a 150% five-year return for investors, despite holding few U.S. stocks",
-      "link": "https://www.marketwatch.com/story/this-global-equity-fund-boasts-a-150-five-year-return-for-investors-despite-being-well-underweight-u-s-stocks-624ff6b4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The CIO of Ranmore Funds isn’t too keen on U.S. valuations at present, but the beaten-down software sector is luring him back in.",
-      "published": "2026-07-30T12:15:00+00:00",
-      "fetched": "2026-07-30T13:20:07.925388+00:00"
-    },
-    {
-      "id": "d4b475574c7d9c0c",
-      "title": "Nearly half of small-cap and midcap stocks are losing money",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-small-cap-and-midcap-stocks-are-losing-money-ca851c98?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Wall Street is evolving into a winner-take-all contest.",
-      "published": "2026-07-30T11:45:00+00:00",
-      "fetched": "2026-07-30T13:20:07.925408+00:00"
-    },
-    {
-      "id": "6212ea61c4285a0c",
-      "title": "UAC Nigeria pre-tax profit jumps 210% in H1 2026 on consolidation of C.H.I. Limited",
-      "link": "https://nairametrics.com/2026/07/30/uac-nigeria-pre-tax-profit-jumps-210-in-h1-2026-on-consolidation-of-c-h-i-limited/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "UAC of Nigeria Plc has reported a profit before tax of N34.45 billion for the six months ended 30 June 2026, representing an increase of 210.3% from N11.10 billion recorded in the corresponding period of 2025. The post UAC Nigeria pre-tax profit jumps 210% in H1 2026 on consolidation of C.H.I. Limited appeared first on Nairametrics .",
-      "published": "2026-07-30T11:30:05+00:00",
-      "fetched": "2026-07-30T13:20:08.390984+00:00"
     }
   ]
 }

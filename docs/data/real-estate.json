@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-02T07:58:35.218349+00:00",
+  "updated": "2026-08-02T12:49:55.357246+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3939b9159f4ac1ba",
+      "title": "From Budget Kit House to Historic Collector Item: Inside the Rise, Fall, and Evolution of Sears Catalog Homes",
+      "link": "https://www.realtor.com/news/unique-homes/sears-catalog-house-kit-history-appeal/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Shipped directly by train, these “modern” homes would include everything a buyer would need to build their own sanctuary.",
+      "published": "2026-08-02T11:03:00+00:00",
+      "fetched": "2026-08-02T12:49:55.356763+00:00"
+    },
     {
       "id": "308973809cb028ee",
       "title": "Gondola-Side Steamboat Springs Stone Mansion Returns to Market for $14 Million",
@@ -1492,16 +1502,6 @@
       "summary": "The property you spent months working on is about to lose you money. What should you do? Sell?",
       "published": "2026-06-26T11:00:48+00:00",
       "fetched": "2026-07-29T08:30:04.858151+00:00"
-    },
-    {
-      "id": "c4fd20da3b3cbc63",
-      "title": "Peace Deal Signed: Where Mortgage Rates Are Actually Headed",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-437",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The peace deal between the U.S. and Iran has been agreed to (at least for now). The Strait of Hormuz, the chokehold on 20% of the world’s oil, is starting [ ]",
-      "published": "2026-06-25T11:00:06+00:00",
-      "fetched": "2026-07-29T08:30:04.858177+00:00"
     }
   ]
 }
