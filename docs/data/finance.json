@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-08-01T18:47:14.009934+00:00",
+  "updated": "2026-08-02T01:21:59.923470+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bad95b99d9ebd557",
+      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+      "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+      "published": "2026-08-01T20:22:15+00:00",
+      "fetched": "2026-08-02T01:21:58.144936+00:00"
+    },
     {
       "id": "d7a429303db09f30",
       "title": "Let’s elect candidates who will make the wealthy pay taxes",
@@ -1492,16 +1502,6 @@
       "summary": "The Court of Appeal, Abuja, on Wednesday overturned the Federal High Court’s decision which attached a purported N100.1 million judgment debt against the Central Bank of Nigeria (CBN) in a dispute involving the Imo State Government. The post Appeal Court blocks bid to seize CBN over N100 million Imo judgment appeared first on Nairametrics .",
       "published": "2026-07-30T10:36:49+00:00",
       "fetched": "2026-07-30T13:20:08.391095+00:00"
-    },
-    {
-      "id": "4befe43b4c6fc86b",
-      "title": "Otedola spends another N222.2 billion on First HoldCo shares, raises stake to 25.87%",
-      "link": "https://nairametrics.com/2026/07/30/otedola-acquires-n222-2-billion-first-holdco-shares-raises-stake-to-25-87/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Billionaire businessman and Chairman of First HoldCo Plc, Femi Otedola, has deepened his investment in the company after acquiring an additional 1.779 billion ordinary shares worth approximately N222.2 billion. The post Otedola spends another N222.2 billion on First HoldCo shares, raises stake to 25.87% appeared first on Nairametrics .",
-      "published": "2026-07-30T10:28:13+00:00",
-      "fetched": "2026-07-30T13:20:08.391137+00:00"
     }
   ]
 }
