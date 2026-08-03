@@ -1,8 +1,98 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-02T18:47:47.550319+00:00",
+  "updated": "2026-08-03T01:22:57.047899+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "17eb507aa16d150f",
+      "title": "‘Jimmy’ Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin’s Spirit",
+      "link": "https://variety.com/2026/film/reviews/jimmy-review-1236826059/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "If not me, who? said actor Billy Porter in a 2024 Guardian interview, explaining the rationale for his plan to direct and star in a biopic of Black queer author and activist James Baldwin. Who’s going to tell it better than the Black gay man who embodies that in today’s age?",
+      "published": "2026-08-03T00:13:33+00:00",
+      "fetched": "2026-08-03T01:22:56.553766+00:00"
+    },
+    {
+      "id": "58d38e4b5355d4dd",
+      "title": "Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: ‘People Were Coming to Say Goodbye’",
+      "link": "https://variety.com/2026/music/news/phil-collins-almost-died-2024-alcohol-abuse-1236826098/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Phil Collins recently told The Times of London that he almost died in 2024 from health complications stemming from alcohol abuse. The Genesis frontman explained that he was initially admitted to a Swiss hospital for alcohol addiction in late 2023. He was discharged at first, but was brought back in shortly after and placed into [ ]",
+      "published": "2026-08-02T23:01:43+00:00",
+      "fetched": "2026-08-03T01:22:56.553824+00:00"
+    },
+    {
+      "id": "5e8179b9e1584a47",
+      "title": "Pima County Sheriff’s Department Made Several Mistakes During Search for Nancy Guthrie, New Report Claims",
+      "link": "https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A new report from the Wall Street Journal, published Saturday night, brings to light several possible errors by the Pima County Sheriff’s Department during its search for Nancy Guthrie, which has seen little progress since it began in February. The WSJ, citing personal files and interviews with current and former federal officers and individuals close [ ]",
+      "published": "2026-08-02T22:13:10+00:00",
+      "fetched": "2026-08-03T01:22:56.553879+00:00"
+    },
+    {
+      "id": "bd128a5f722661c8",
+      "title": "Christopher Nolan Says There Is a ‘Fundamental Flaw’ With Amateur Film Criticism: ‘To Identify the Mechanism Does Not Invalidate the Mechanism’",
+      "link": "https://variety.com/2026/film/news/christopher-nolan-flaw-film-criticism-the-odyssey-1236826067/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Critics have said their piece about Christopher Nolan’s “The Odyssey,” and now he is saying his piece about them. While on “The Odyssey” press tour, the director spoke with podcaster Zhong Shu about “a fundamental flaw of film criticism” he sees with amateur critics. “The criticism that’s often leveled at movies in general is, ‘Oh, [ ]",
+      "published": "2026-08-02T21:56:02+00:00",
+      "fetched": "2026-08-03T01:22:56.553934+00:00"
+    },
+    {
+      "id": "117efd6cb3ddcf2d",
+      "title": "Trueno, Milo J, and J Noa Fire Up Summerstage",
+      "link": "https://www.rollingstone.com/music/music-pictures/trueno-milo-j-j-noa-summerstage-photos-1235602262/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "If anyone happened to pass by Central Park s Rumsey Playfield on Saturday night, it was clear there wasn’t just any event going on. Thousands of fans flooded the area, brimming with excitement as they counted down to see Trueno, Milo J, and J Noa take on Capital One City Parks Foundation SummerStage. This show had [ ]",
+      "published": "2026-08-02T20:43:36+00:00",
+      "fetched": "2026-08-03T01:22:56.916049+00:00"
+    },
+    {
+      "id": "e2b3d34305b3cf24",
+      "title": "Ariana Grande to Take ‘Step Back From Visibility’ After Tour Ends Amid ‘Public Scrutiny,’ Drops Out of ‘Sunday in the Park With George’ Musical",
+      "link": "https://variety.com/2026/music/news/ariana-grande-step-back-public-scrutiny-sunday-in-the-park-1236826037/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ariana Grande is stepping out of the spotlight for an extended break after she wraps her Eternal Sunshine Tour, a rep for the actress and pop star told People. The rep s statement cited ongoing public scrutiny as one of the reasons for the pause. “Ariana will be taking a step back from visibility after she [ ]",
+      "published": "2026-08-02T19:56:49+00:00",
+      "fetched": "2026-08-03T01:22:56.553986+00:00"
+    },
+    {
+      "id": "d4b24bdc71fb99db",
+      "title": "Ariana Grande Taking a ‘Step Back’ From Public Life After Tour",
+      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"She looks forward to finishing the tour and ending it on a high note, both healthily and happily, and then taking a much-deserved break\"",
+      "published": "2026-08-02T19:54:08+00:00",
+      "fetched": "2026-08-03T01:22:56.916089+00:00"
+    },
+    {
+      "id": "df36480eb0005b3b",
+      "title": "Morgan Wallen Returns to No. 1, Charli xcx Earns Top Three Debut on Albums Chart",
+      "link": "https://variety.com/2026/music/news/morgan-wallen-returns-no-1-charli-xcx-top-three-chart-1236826032/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Morgan Wallen has returned to No. 1 on the Billboard 200 with I m the Problem for a 14th non-consecutive week, while Charli xcx debuts at No. 3 with her eighth album Music, Fashion, Film.",
+      "published": "2026-08-02T19:26:50+00:00",
+      "fetched": "2026-08-03T01:22:56.554034+00:00"
+    },
+    {
+      "id": "c1c7fdaf7f39fe1e",
+      "title": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
+      "link": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers set to play Hades. His previous stage credits include “On the Town” and “The Lion King” as well as TV roles in “Banshee,” “Pair [ ]",
+      "published": "2026-08-02T18:51:25+00:00",
+      "fetched": "2026-08-03T01:22:56.554082+00:00"
+    },
     {
       "id": "48a63c0cc7b7f1d6",
       "title": "See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam",
@@ -1412,96 +1502,6 @@
       "summary": "What was once a failed single from The Lamb Lies Down on Broadway has somehow become one of the most beloved Genesis songs, reappearing again and again throughout the years",
       "published": "2026-07-30T13:19:45+00:00",
       "fetched": "2026-07-30T13:20:12.873044+00:00"
-    },
-    {
-      "id": "d03b5cea1ed1c90d",
-      "title": "George and Amal Clooney Evacuate French Home as Wildfire Threatens Brignoles: ‘We Remain Fully Part of This Community’ and Will ‘Contribute to Its Rebuilding’",
-      "link": "https://variety.com/2026/film/global/george-amal-clooney-evacuate-french-home-wildfire-brignoles-1236824185/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "George and Amal Clooney have evacuated their home in Brignoles in the South of France after a wildfire swept through the area, forcing hundreds of residents to flee. In a letter addressed to Brignoles Mayor Didier Brémond, the couple said they did not know whether their home — a hilltop estate called Domaine du Canadel [ ]",
-      "published": "2026-07-30T13:01:50+00:00",
-      "fetched": "2026-07-30T13:20:12.596991+00:00"
-    },
-    {
-      "id": "ca335208add46764",
-      "title": "Ryan Bingham Signs With WME (EXCLUSIVE)",
-      "link": "https://variety.com/2026/music/news/ryan-bingham-signs-with-wme-1236823915/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Singer-songwriter-actor and “Yellowstone” star Ryan Bingham has signed with WME for worldwide representation in music, the company announced on Thursday. He continues to be represented by Jack Whigham at Range Media Partners for film and television. Bingham has had a remarkably versatile career that stretches back nearly 25 years.",
-      "published": "2026-07-30T13:00:00+00:00",
-      "fetched": "2026-07-30T13:20:12.597047+00:00"
-    },
-    {
-      "id": "f5986ec687a93646",
-      "title": "Italy-Based Lights On Snags Colombia’s ‘In All My Journeys I Am Returning’ Ahead of Its Locarno Bow (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/lights-on-colombia-all-my-journeys-i-am-returning-locarno-1236823773/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Boutique Italian sales agency Lights On has picked up international sales rights to the debut feature of Colombian Manuel Ponce de León’s “In All My Journeys I Am Returning” (“Todos mis viajes son viajes de regreso”) ahead of its world premiere at the Locarno Film Festival. “It’s an exceptionally bold and distinctive first feature film [ ]",
-      "published": "2026-07-30T12:37:35+00:00",
-      "fetched": "2026-07-30T13:20:12.597097+00:00"
-    },
-    {
-      "id": "4bbe4aa13ff6fdbd",
-      "title": "Paul McCartney, Olivia Dean and Raye Make Mercury Prize Shortlist",
-      "link": "https://variety.com/2026/music/global/paul-mccartney-olivia-dean-raye-mercury-prize-shortlist-1236824174/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Paul McCartney has received his first-ever nomination for the U.K. s prestigious Mercury Prize alongside Olivia Dean, Raye and more. The shortlist for the prize, which recognizes outstanding British albums, was unveiled on Thursday.",
-      "published": "2026-07-30T12:36:52+00:00",
-      "fetched": "2026-07-30T13:20:12.597143+00:00"
-    },
-    {
-      "id": "5c5552ee8cce1159",
-      "title": "‘Harry Potter and the Cursed Child’ Celebrates 10 Years as Longest-Running Two-Part Play in Modern West End History – Global Bulletin",
-      "link": "https://variety.com/2026/theater/news/harry-potter-and-the-cursed-child-10-years-west-end-1236824082/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "DISTINGUISHED DECADE Harry Potter and the Cursed Child turns 10 at London s Palace Theatre today, July 30, cementing its place as the longest-running play in modern West End history to be performed as a two-part theatrical experience. Produced by Sonia Friedman Productions, Colin Callender and Harry Potter Theatrical Productions, the production has been seen by more than 2.5 million [ ]",
-      "published": "2026-07-30T11:41:13+00:00",
-      "fetched": "2026-07-30T13:20:12.597193+00:00"
-    },
-    {
-      "id": "28e4bac7ef7e1bc9",
-      "title": "AMC Global Media Streaming Revenue Rises 6% in Q2, U.S. Ad Sales Down 11%",
-      "link": "https://variety.com/2026/tv/news/amc-global-streaming-ad-sales-q2-earnings-1236824072/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "AMC Global Media reported its second-quarter 2026 earnings Thursday on the heels of announcing a $500 million co-exclusive streaming deal with Netflix for The Walking Dead. Streaming revenue for the second quarter, which ran March-May, increased 6% year over year to $180 million. U.S.",
-      "published": "2026-07-30T11:35:18+00:00",
-      "fetched": "2026-07-30T13:20:12.597235+00:00"
-    },
-    {
-      "id": "4894d9111eb3ac0d",
-      "title": "‘The Walking Dead’ Franchise to Stream on Both Netflix and AMC+ Beginning in 2027 Under New $500 Million Deal",
-      "link": "https://variety.com/2026/tv/news/the-walking-dead-stream-netflix-amc-plus-500-million-deal-1236824065/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "AMC Global Media s The Walking Dead franchise will stream on both Netflix and AMC+ beginning in 2027 as part of a new five-year, $500 million licensing deal. The co-exclusive global licensing pact between Netflix and AMC Global Media covers the original The Walking Dead, as well as all six of its spinoffs, including Fear the [ ]",
-      "published": "2026-07-30T11:00:00+00:00",
-      "fetched": "2026-07-30T13:20:12.597278+00:00"
-    },
-    {
-      "id": "5cbe793de299c551",
-      "title": "San Sebastián New Directors: Billy Lumby, Marlene Emilie Lyngstad, ‘Money Heist’ Star Jaime Lorente and More",
-      "link": "https://variety.com/2026/film/global/san-sebastian-new-directors-billy-lumby-jaime-lorente-1236824057/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "BAFTA nominee Billy Lumby and Norway’s Nordic Talents winner Marlene Emilie Lyngstad will compete at San Sebastian’s New Directors strand. Also in the mix is “Erratics,” starring Denis Lavant. a Chile-France-Argentina co-production directed by Thomas Woodroffe.",
-      "published": "2026-07-30T10:37:12+00:00",
-      "fetched": "2026-07-30T13:20:12.597326+00:00"
-    },
-    {
-      "id": "0fbfc336f90ad5d3",
-      "title": "‘Ramayana’ Trailer: Ranbir Kapoor and Yash Face Off in First Part of Nitesh Tiwari’s Epic",
-      "link": "https://variety.com/2026/film/news/ramayana-trailer-ranbir-kapoor-yash-1236819671/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The first trailer for Ramayana has debuted, marking the most substantial promotional asset yet for Nitesh Tiwari s two-part adaptation of the ancient Hindu epic, ahead of a worldwide release this November. The story follows exiled prince Rama (Ranbir Kapoor) and his consort Sita (Sai Pallavi) through exile into catastrophe, as Sita s abduction at the hands [ ]",
-      "published": "2026-07-30T09:53:13+00:00",
-      "fetched": "2026-07-30T13:20:12.597369+00:00"
     }
   ]
 }
