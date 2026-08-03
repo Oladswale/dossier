@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-03T09:01:58.524031+00:00",
-  "count": 76,
+  "updated": "2026-08-03T14:08:34.126154+00:00",
+  "count": 78,
   "items": [
+    {
+      "id": "56dbf7ff044e784a",
+      "title": "Watch the Evolution of Manhattan Unfold in a Timelapse Video, from 1600 to 2026",
+      "link": "https://www.openculture.com/2026/08/watch-the-evolution-of-manhattan-unfold-in-a-timelapse-video-from-1600-to-2026.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "A Manhattan without skyscrapers sounds difficult, if not impossible, to imagine today. But such a place really did exist, at least up until the turn of the twentieth century. While the title of the very first skyscraper ever built may go to the Home Insurance Building in Chicago, New York City caught up so aggressively [ ]",
+      "published": "2026-08-03T09:00:03+00:00",
+      "fetched": "2026-08-03T14:08:34.125958+00:00"
+    },
+    {
+      "id": "db663b20d766199a",
+      "title": "Turning molecules into reliable electronic devices",
+      "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.",
+      "published": "2026-08-03T09:00:00+00:00",
+      "fetched": "2026-08-03T14:08:32.927523+00:00"
+    },
     {
       "id": "2ffd856393628cc0",
       "title": "Using reason, again and again",

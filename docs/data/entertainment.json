@@ -1,8 +1,128 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-03T09:01:57.075705+00:00",
+  "updated": "2026-08-03T14:08:32.695226+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "85fc8d77cc0e575d",
+      "title": "MS NOW Launches Peter Alexander’s ‘State of Play’ August 10",
+      "link": "https://variety.com/2026/tv/news/peter-alexander-ms-now-state-of-play-launch-1236826277/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Peter Alexander carries his years of experience at NBC News over to MS NOW, where he lands next week. The veteran Washington correspondent and weekend Today host will launch a new 11 a.m. program on the Versant-backed network starting Monday, August 10.",
+      "published": "2026-08-03T14:05:00+00:00",
+      "fetched": "2026-08-03T14:08:32.452347+00:00"
+    },
+    {
+      "id": "385b2c9f5312ef97",
+      "title": "Ben McKenzie Says Major Streamers Were Scared to License His Anti-Crypto Documentary, So He Found a Different Way to Reach Audiences",
+      "link": "https://variety.com/2026/film/news/ben-mckenzie-cryptocurrency-documentary-home-entertainment-1236825954/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ben McKenzie believes he knows why the major streaming services weren t interested in licensing Everyone Is Lying to You for Money. His new documentary takes on the cryptocurrency industry, portraying the controversial digital currency as corrupt and in dire need of more regulations. But the film is being released as President Donald Trump has profited [ ]",
+      "published": "2026-08-03T14:00:00+00:00",
+      "fetched": "2026-08-03T14:08:32.452401+00:00"
+    },
+    {
+      "id": "bc3f2d82268f605c",
+      "title": "Fans Pay Tribute to Glen Hansard at Public Wake in Dublin",
+      "link": "https://www.rollingstone.com/music/music-news/glen-hansard-public-wake-dublin-1235602420/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The musician's funeral will take place at St. Patrick’s Cathedral in Dublin on Tuesday, with musical performances expected from his friends and family",
+      "published": "2026-08-03T13:55:11+00:00",
+      "fetched": "2026-08-03T14:08:32.617900+00:00"
+    },
+    {
+      "id": "871c6bbeaebb2a08",
+      "title": "Scott Pelley, Sharyn Alfonsi Take Journalist-in-Residence Roles at Columbia University",
+      "link": "https://variety.com/2026/tv/news/scott-pelley-sharyn-alfonsi-journalist-residence-columbia-1236826307/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The stopwatch keeps ticking after 60 Minutes. Sharyn Alfonsi and Scott Pelley were both named journalists-in-residence at Columbia University s School of Journalism Monday, a position that will be in place for the 2026-2027 academic term. The two former 60 Minutes correspondents will work with students through lectures, workshops and special events, and they will each [ ]",
+      "published": "2026-08-03T13:23:42+00:00",
+      "fetched": "2026-08-03T14:08:32.452448+00:00"
+    },
+    {
+      "id": "9d0cddd59eb6cc4a",
+      "title": "‘Spider-Man: Brand New Day’ Sets Imax Release as ‘The Odyssey’ Exclusive Run Ends",
+      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-imax-release-odyssey-exclusive-run-ends-1236826306/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Spider-Man: Brand New Day will (finally!) swing to Imax on Aug. 6. Sony and Marvel s web-slinging adventure didn t play on the company s premium screens during its first few days in theaters because Christopher Nolan s The Odyssey commanded the network s entire domestic footprint for three weekends.",
+      "published": "2026-08-03T13:20:38+00:00",
+      "fetched": "2026-08-03T14:08:32.452501+00:00"
+    },
+    {
+      "id": "7495889b23c3933a",
+      "title": "CNN Appoints Stefano Pozzebon as Rome Correspondent, Boosting European Coverage (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/global/cnn-stefano-pozzebon-rome-correspondent-european-coverage-1236826222/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "CNN has announced the appointment of award-winning Italian journalist Stefano Pozzebon as an international correspondent based in its Rome bureau. Pozzebon will be responsible for covering major news stories in Italy and across Europe for CNN’s linear and digital platforms. He will work alongside CNN Vatican Correspondent Christopher Lamb, who leads CNN s coverage of the Vatican and the [ ]",
+      "published": "2026-08-03T13:15:00+00:00",
+      "fetched": "2026-08-03T14:08:32.452555+00:00"
+    },
+    {
+      "id": "ad96506f9903b560",
+      "title": "Outplay Films Nabs Tom Tykwer-Produced Locarno Competition Title ‘I Rarely Wake Up Dreaming’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/outplay-films-tom-tykwer-locarno-i-rarely-wake-up-dreaming-1236826274/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Isabelle Stever s Locarno main competition title I Rarely Wake Up Dreaming, produced by Tom Tykwer, has been picked up for world sales by France s Outplay Films. Produced by Tykwer and Uwe Schott at Berlin-based X Filme Creative Pool and written by Anna Melikova, the film follows Olya and Oleh, a young queer Ukrainian couple whose [ ]",
+      "published": "2026-08-03T13:01:01+00:00",
+      "fetched": "2026-08-03T14:08:32.452603+00:00"
+    },
+    {
+      "id": "776f237e0e6d269e",
+      "title": "‘Warhammer 40,000’ Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A Warhammer 40,000 animated event series is in development from Amazon MGM Studios, Blur Studios, and Games Workshop, Variety has learned exclusively. In addition, Henry Cavill who is attached to lead a live-action Warhammer 40,000 series currently in development at Amazon will executive produce the animated series as well. It is being developed [ ]",
+      "published": "2026-08-03T13:00:00+00:00",
+      "fetched": "2026-08-03T14:08:32.452651+00:00"
+    },
+    {
+      "id": "86065ef81b3f1cc5",
+      "title": "50 Years Ago Today: The Who Kick Off Their Final Tour With Keith Moon",
+      "link": "https://www.rollingstone.com/music/music-features/50-years-ago-the-who-final-keith-moon-tour-1235601643/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "On Aug. 3, 1976, the classic lineup of the Who played an explosive show in Maryland. No one knew it'd be the last tour for the drummer Moon, who died two years later",
+      "published": "2026-08-03T13:00:00+00:00",
+      "fetched": "2026-08-03T14:08:32.617939+00:00"
+    },
+    {
+      "id": "3bb0d54f2d4ac8ca",
+      "title": "CBS News Correspondent Trevor Phillips Says Editor-in-Chief Bari Weiss ‘Will Either Change the World or Crash and Burn’",
+      "link": "https://variety.com/2026/tv/global/cbs-news-trevor-phillips-bari-weiss-change-the-world-1236826236/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Recently appointed CBS News correspondent Trevor Phillips has given a typically forthright assessment of his new boss, Bari Weiss. “Bari and her team have a huge tanker of a network news organisation to turn around, and they are assembling a little team on the bridge,” he told The Daily Telegraph. “The great thing about her [ ]",
+      "published": "2026-08-03T10:35:09+00:00",
+      "fetched": "2026-08-03T14:08:32.452702+00:00"
+    },
+    {
+      "id": "059f2b4f83d725a4",
+      "title": "‘Peaky Blinders’ Helps U.K. Region Land Official Production Hub Status From British Film Commission",
+      "link": "https://variety.com/2026/tv/global/peaky-blinders-uk-west-midlands-official-production-hub-1236826227/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Peaky Blinders may have given closely clipped back and sides haircuts a new lease of life, but it s now helped a region of the U.K. land official backing as a center for high-end productions. The British Film Commission has announced that the West Midlands, home to the city of Birmingham and where Peaky Blinders is [ ]",
+      "published": "2026-08-03T09:51:37+00:00",
+      "fetched": "2026-08-03T14:08:32.452750+00:00"
+    },
+    {
+      "id": "ae508ee97285489a",
+      "title": "‘Sunday in the Park with George’ Producers Confirm Summer 2027 Show Will Go On ‘As Planned’ After Ariana Grande Exits",
+      "link": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-summer-2027-launch-1236826224/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The London production of “Sunday in the Park With George” is set to go ahead as planned despite Ariana Grande exiting the show. The Stephen Sondheim revival, which also stars Grande s Wicked co-star Jonathan Bailey, was scheduled to premiere at London s Barbican next summer with producers set to launch ticket sales after Grande completed the [ ]",
+      "published": "2026-08-03T09:46:55+00:00",
+      "fetched": "2026-08-03T14:08:32.452809+00:00"
+    },
     {
       "id": "fc431bbf3b96d61d",
       "title": "Action Man Movie, Based on Iconic British Toy Originally Inspired by ‘G.I. Joe,’ in Development With Working Title and Hasbro",
@@ -1382,126 +1502,6 @@
       "summary": "Scott directs and stars in the new visual with James Blake and Ludwig Goransson following the release of the film’s closing song",
       "published": "2026-07-30T20:16:56+00:00",
       "fetched": "2026-07-31T01:23:16.104264+00:00"
-    },
-    {
-      "id": "a9306d510bb33e46",
-      "title": "The Next Spider-Man Actor: Tom Holland Has a ‘Clear Vision’ For His Successor and a ‘Whole Plan’ Is Already ‘Laid Out’",
-      "link": "https://variety.com/2026/film/news/spider-man-actors-tom-holland-successor-1236824415/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tom Holland is swinging back into theaters this weekend as Peter Parker in Spider-Man: Brand New Day, but a plan is already being laid out for his replacement. The actor has been vocal in past interviews about wanting to be directly involved in passing the baton to his Spider-Man successor, but he revealed in a [ ]",
-      "published": "2026-07-30T18:38:18+00:00",
-      "fetched": "2026-07-30T19:05:01.111993+00:00"
-    },
-    {
-      "id": "d1b956a0def38729",
-      "title": "‘Wonder Man’ Not Returning for Season 2 at Disney+ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/wonder-man-canceled-disney-season-2-renewal-1236824259/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Wonder Man has been canceled at Disney+, Variety has learned exclusively. The news comes despite the fact that Disney announced a Season 2 renewal for the show back in March, roughly two months after it debuted. According to sources, a writers room for Season 2 was never opened and the show s writers have been released [ ]",
-      "published": "2026-07-30T18:30:00+00:00",
-      "fetched": "2026-07-30T19:05:01.112047+00:00"
-    },
-    {
-      "id": "21c839840ade3386",
-      "title": "Jared Leto Documentary Director on Exposing Sexual Misconduct Allegations and the ‘Mystery’ of Why He Hasn’t Been Held Accountable",
-      "link": "https://variety.com/2026/tv/global/jared-leto-bbc-documentary-director-allegations-1236824187/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Just over a year after Jared Leto withstood a catalogue of sexual misconduct accusations published in AirMail, the BBC broadcast a documentary titled “Jared Leto: Hollywood’s Dark Secret.” In it, director Alice McShane (“Russell Brand: In Plain Sight”) teams up with the reporter behind the AirMail story, Elena Clavarino, and BBC producer Jessica Sartenaer to set out the [ ]",
-      "published": "2026-07-30T18:01:41+00:00",
-      "fetched": "2026-07-30T19:05:01.112103+00:00"
-    },
-    {
-      "id": "beedb0e1fe73c249",
-      "title": "Barack Obama’s Summer Song List: Glen Hansard, the Strokes, Noah Kahan Lead Annual Playlist",
-      "link": "https://www.rollingstone.com/music/music-news/barack-obama-summer-playlist-glen-hansard-strokes-noah-kahan-1235601040/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"It starts with a song Michelle and I love by Glen Hansard, a great musician who passed tragically this week,\" former president wrote",
-      "published": "2026-07-30T17:59:43+00:00",
-      "fetched": "2026-07-30T19:05:01.345021+00:00"
-    },
-    {
-      "id": "92797a6d55f55cd9",
-      "title": "Bailey Zimmerman Cancels European Tour, Citing ‘Important Family Matters’",
-      "link": "https://www.rollingstone.com/music/music-country/bailey-zimmerman-cancels-european-tour-family-matters-1235600978/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The country singer, who has seen his share of controversy this summer, scrapped all upcoming international dates",
-      "published": "2026-07-30T17:40:34+00:00",
-      "fetched": "2026-07-30T19:05:01.345055+00:00"
-    },
-    {
-      "id": "3cde55a24aac5cf7",
-      "title": "Locarno Player ‘The Days Off,’ Lucila Mariani’s Dreamlike Argentine Debut, Boarded by Inwave Films (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/locarno-the-days-off-lucila-mariani-inwave-maravillacine-1236823137/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Inwave Films, the international sales company with offices in Paris and Beijing, has acquired worldwide sales rights to “The Days Off,” the debut feature from Argentine writer-director Lucila Mariani, ahead of its world premiere in Locarno s Filmmakers of the Present. Blending coming-of-age drama with a dreamlike, science-fiction edge, the film filters Argentina’s economic instability and [ ]",
-      "published": "2026-07-30T17:28:26+00:00",
-      "fetched": "2026-07-30T19:05:01.112155+00:00"
-    },
-    {
-      "id": "f573247b40a6dcaa",
-      "title": "Trump Is Really, Really Unpopular, New Polling Shows",
-      "link": "https://www.rollingstone.com/politics/politics-news/trump-polling-craters-iran-war-cost-of-living-crisis-1235601053/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The president's approval rating is in the low 30s, with Americans believing he isn't focused on what's important",
-      "published": "2026-07-30T17:20:50+00:00",
-      "fetched": "2026-07-30T19:05:01.345080+00:00"
-    },
-    {
-      "id": "7b035823e6df3626",
-      "title": "‘Weapons,’ ‘Marty Supreme’ and ‘Hacks’ Among 2026 MacGuffin Awards Nominees",
-      "link": "https://variety.com/2026/artisans/news/macguffin-awards-property-masters-guild-nominees-2026-1236823893/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“One Battle After Another, “Marty Supreme” and “Sinners” are among the MacGuffin Awards nominees presented by the Property Masters Guild. The awards honors the prop masters and their contributions behind the camera. The winners will be revealed during the live ceremony on Sept.",
-      "published": "2026-07-30T17:00:00+00:00",
-      "fetched": "2026-07-30T19:05:01.112202+00:00"
-    },
-    {
-      "id": "890b096725c9f2c1",
-      "title": "‘Knots Landing’ Star Donna Mills Joins OnlyFans at 85 Years Old (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/donna-mills-onlyfans-85-years-old-1236824164/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Donna Mills, one of the best known television stars of the 1980s thanks to her role as Abby Cunningham on the CBS primetime soap Knots Landing, is throwing fans a surprise by joining OnlyFans at 85 years old. I’ve always appreciated the incredible support and encouragement I’ve received from my fans over the years. Social [ ]",
-      "published": "2026-07-30T17:00:00+00:00",
-      "fetched": "2026-07-30T19:05:01.112247+00:00"
-    },
-    {
-      "id": "eaf1f457dbb400c7",
-      "title": "Trista Schroeder Named General Counsel and Chief Operating Officer of the Sundance Institute (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/trista-schroeder-named-chief-operating-officer-sundance-institute-1236824213/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Trista Schroeder has been named general counsel and chief operating officer of the Sundance Institute. She will take on her expanded role effective immediately. Schroeder has served as Sundance Institute s general counsel since 2020, providing legal and operational counsel through a period of significant institutional change.",
-      "published": "2026-07-30T17:00:00+00:00",
-      "fetched": "2026-07-30T19:05:01.112294+00:00"
-    },
-    {
-      "id": "820237e3187d2cc3",
-      "title": "UTA Signs Organization Behind Rose Bowl Game and Rose Parade",
-      "link": "https://variety.com/2026/tv/news/uta-signs-rose-bowl-game-rose-parade-1236824407/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "New Year s Day came early for UTA, which has signed the Pasadena Tournament of Roses, the organization behind the Rose Bowl Game and the Rose Parade. The Tournament of Roses proudly produces both the Rose Parade and the Rose Bowl Game, creating one of the most recognized New Year s Day celebrations in the world, said [ ]",
-      "published": "2026-07-30T17:00:00+00:00",
-      "fetched": "2026-07-30T19:05:01.112335+00:00"
-    },
-    {
-      "id": "73352fcd964e1136",
-      "title": "Karol G Isn’t Holding Anything Back on New Album ‘No Me Arrepiento de Sentir Tanto’",
-      "link": "https://www.rollingstone.com/music/music-latin/karol-g-new-album-no-me-arrepiento-de-sentir-tanto-1235600947/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Colombian superstar announced the LP, which arrives Aug. 7, during her latest tour stop",
-      "published": "2026-07-30T16:58:59+00:00",
-      "fetched": "2026-07-30T19:05:01.345106+00:00"
     }
   ]
 }
