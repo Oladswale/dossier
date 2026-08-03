@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-03T14:08:34.126154+00:00",
-  "count": 78,
+  "updated": "2026-08-03T19:13:50.009349+00:00",
+  "count": 80,
   "items": [
+    {
+      "id": "5658147ea24c018e",
+      "title": "Connecting students with the future of microelectronics",
+      "link": "https://news.mit.edu/2026/connecting-students-future-microelectronics-0803",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The 2026 NEMC Hub-sponsored externship gave students access to world-class research, advanced semiconductor manufacturing, and professionals driving innovation across the Northeast.",
+      "published": "2026-08-03T17:30:00+00:00",
+      "fetched": "2026-08-03T19:13:48.793678+00:00"
+    },
     {
       "id": "56dbf7ff044e784a",
       "title": "Watch the Evolution of Manhattan Unfold in a Timelapse Video, from 1600 to 2026",
@@ -22,6 +32,16 @@
       "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.",
       "published": "2026-08-03T09:00:00+00:00",
       "fetched": "2026-08-03T14:08:32.927523+00:00"
+    },
+    {
+      "id": "3456d1a2a444cf00",
+      "title": "Watch David Bowie & Annie Lennox in Rehearsal, Singing “Under Pressure,” with Queen (1992)",
+      "link": "https://www.openculture.com/2026/08/david-bowie-annie-lennox-singing-under-pressure-with-queen.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "It’s common to feel like we know our artists, writers, musicians, actors… we want so badly to touch their lives in some way, as their lives touch ours. This overwhelming desire is responsible for a huge market share of our mass media, from the most tasteless tabloid hit jobs to the most respectful longform essays. [ ]",
+      "published": "2026-08-03T08:00:16+00:00",
+      "fetched": "2026-08-03T19:13:50.009110+00:00"
     },
     {
       "id": "2ffd856393628cc0",

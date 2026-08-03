@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-03T14:08:34.662666+00:00",
+  "updated": "2026-08-03T19:13:50.852182+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9dbec3758d61ddb3",
+      "title": "Using Your IRA To Buy Another Home: The Strategy Turning Buyers Into Investors",
+      "link": "https://www.realtor.com/news/trends/using-ira-to-buy-investment-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With the Road to Housing Act potentially creating more buying opportunities for smaller investors, here's one way to tap into your funds.",
+      "published": "2026-08-03T17:57:55+00:00",
+      "fetched": "2026-08-03T19:13:50.851541+00:00"
+    },
+    {
+      "id": "3e1fa11cecfc1f07",
+      "title": "Wildfires in Washington State Destroy Hundreds of Homes Near Spokane as Nearly 65,000 Residents Flee",
+      "link": "https://www.realtor.com/news/real-estate-news/wildfires-spokane-county-washington-homes-destroyed-evacuations/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Three devastating wildfires that exploded in Spokane County, WA, over the weekend destroyed around 700 homes.",
+      "published": "2026-08-03T16:23:09+00:00",
+      "fetched": "2026-08-03T19:13:50.851578+00:00"
+    },
+    {
+      "id": "d81c1d09d1ad0d23",
+      "title": "‘Real Housewives of Miami’ Star Stephanie Shojaee Claims Villa She and Her Husband Rented in France Was Robbed",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/stephanie-shojaee-real-housewives-miami-husband-robbery-villa-france/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The reality star, 41, claimed in an Instagram post that the villa she rented in the South of France was robbed.",
+      "published": "2026-08-03T15:59:46+00:00",
+      "fetched": "2026-08-03T19:13:50.851613+00:00"
+    },
+    {
+      "id": "f41f036064ab8d76",
+      "title": "Deal Diary: How a Math Teacher Bought 19 Doors",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-christle-stezskal",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Christle Stezskal Location Northwest suburbs of Chicago, Illinois (investing in Kansas City, MO, and Rock County, WI) Occupation Full-time real estate investor (former high school math teacher and IT [ ]",
+      "published": "2026-08-03T14:00:00+00:00",
+      "fetched": "2026-08-03T19:13:50.509629+00:00"
+    },
     {
       "id": "8135473847e7fb52",
       "title": "Four Properties on a Teacher’s Salary by Buying Small, Affordable Homes",
@@ -1462,46 +1502,6 @@
       "summary": "My goal is not to buy one property. My goal is to build a machine that continuously funds future acquisitions. The investor: Osama, Detroit.",
       "published": "2026-07-01T19:08:25+00:00",
       "fetched": "2026-07-29T08:30:04.857817+00:00"
-    },
-    {
-      "id": "0235b87505a932a8",
-      "title": "Is Real Estate Still THE Best Path to Passive Income? (Invited to Debate)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1298",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "We’re all here for passive income, and when you say “passive income,” many people immediately think of rental properties. But, is real estate investing really the best path to get [ ]",
-      "published": "2026-07-01T11:00:58+00:00",
-      "fetched": "2026-07-29T08:30:04.857845+00:00"
-    },
-    {
-      "id": "6866539fb7caa1e8",
-      "title": "3 Ways to Fund Your First Real Estate Deal Without 20% Down",
-      "link": "https://www.biggerpockets.com/blog/rookie-738",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "What’s stopping you from buying your very first rental property? For most rookies, it’s rarely ever the market, the interest rates, or even the competition–it s a number in their head. [ ]",
-      "published": "2026-07-01T11:00:32+00:00",
-      "fetched": "2026-07-29T08:30:04.857875+00:00"
-    },
-    {
-      "id": "0e52fc364f1557ba",
-      "title": "Deal Diary: How Matt Picaro Uses 203K Loans to Scale",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-matt-picaro",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Matt Picaro Location Long Island, New York Occupation Real estate investor Assets Three owner-occupied units Investment strategy House hacking, flipping Financing FHA 203K (3.5% down) Matt Picaro grew up [ ]",
-      "published": "2026-06-30T18:18:32+00:00",
-      "fetched": "2026-07-29T08:30:04.857901+00:00"
-    },
-    {
-      "id": "0a0d87709d61fbf8",
-      "title": "Trump Just Stalled the Biggest Housing Bill in Decades",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-438",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You’ve seen the headlines. The housing market is stuck. Distress is rising.",
-      "published": "2026-06-30T11:00:02+00:00",
-      "fetched": "2026-07-29T08:30:04.857930+00:00"
     }
   ]
 }
