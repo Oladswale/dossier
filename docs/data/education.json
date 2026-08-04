@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-04T01:14:13.563417+00:00",
-  "count": 81,
+  "updated": "2026-08-04T08:12:39.059625+00:00",
+  "count": 82,
   "items": [
+    {
+      "id": "550fee49d05be426",
+      "title": "Hear the Earliest Known Piece of Polyphonic Music: This Composition, Dating Back to 900 AD, Changed Western Music",
+      "link": "https://www.openculture.com/2026/08/earliest-known-piece-of-polyphonic-music.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Like digging for fossils or panning for gold, the research process can be a tedious affair. But for any researcher, long days of searching and reading will eventually result in discovery. These are the moments scholars cherish.",
+      "published": "2026-08-04T07:02:20+00:00",
+      "fetched": "2026-08-04T08:12:39.059411+00:00"
+    },
     {
       "id": "7e16a80753a52223",
       "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
