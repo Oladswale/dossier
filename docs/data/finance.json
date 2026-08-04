@@ -1,8 +1,238 @@
 {
   "category": "finance",
-  "updated": "2026-08-04T08:12:34.230260+00:00",
+  "updated": "2026-08-04T13:30:20.976098+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "29cad00c3ea576cd",
+      "title": "Oil prices take a dive as Qatar and Bessent note talks to reopen Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil prices turned sharply lower on Tuesday after a Qatari official talked about a potential short-term deal between the U.S. and Iran.",
+      "published": "2026-08-04T13:22:00+00:00",
+      "fetched": "2026-08-04T13:30:19.163588+00:00"
+    },
+    {
+      "id": "a0fa5cd5296287d6",
+      "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+      "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
+      "published": "2026-08-04T13:18:15+00:00",
+      "fetched": "2026-08-04T13:30:19.234332+00:00"
+    },
+    {
+      "id": "e3091613df29c87a",
+      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+      "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
+      "published": "2026-08-04T13:12:03+00:00",
+      "fetched": "2026-08-04T13:30:19.234368+00:00"
+    },
+    {
+      "id": "20df5ac2bd57f385",
+      "title": "The stock market’s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Citadel Securities strategist Scott Rubner said markets have gotten a “technical reset” and is ready to recommend buying stocks again.",
+      "published": "2026-08-04T12:30:00+00:00",
+      "fetched": "2026-08-04T13:30:19.163654+00:00"
+    },
+    {
+      "id": "307da4c22100a07c",
+      "title": "Google Pixel 11 Pro: Release date, price, and specs",
+      "link": "https://techcabal.com/2026/08/04/google-pixel-11-pro-release-date-price-specs/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Table of contents When is the Google Pixel 11 Pro coming out? Google Pixel 11 Pro detailed specs How much will the Google Pixel 11 Pro cost? What colours does the Google Pixel 11 Pro come in?",
+      "published": "2026-08-04T12:13:01+00:00",
+      "fetched": "2026-08-04T13:30:20.975762+00:00"
+    },
+    {
+      "id": "0c6a8dcfedc22f4b",
+      "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
+      "link": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The company will announce a partnership with Comply, a compliance technology company, on Tuesday, Kalshi told CNBC.",
+      "published": "2026-08-04T12:05:41+00:00",
+      "fetched": "2026-08-04T13:30:19.234395+00:00"
+    },
+    {
+      "id": "d12146792fb281f1",
+      "title": "What was the world’s hottest stock market is now hunting ground for short sellers",
+      "link": "https://www.marketwatch.com/story/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-f8f25dd0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "South Korea’s once-surging market is now a haven for short sellers.",
+      "published": "2026-08-04T11:51:00+00:00",
+      "fetched": "2026-08-04T13:30:19.163703+00:00"
+    },
+    {
+      "id": "fef8032c3ffdac34",
+      "title": "Caterpillar is killing it, and data-center demand is driving record revenue",
+      "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Caterpillar’s stock surges after the biggest earnings beat in five years, as demand for data-center construction provided a boost.",
+      "published": "2026-08-04T11:50:00+00:00",
+      "fetched": "2026-08-04T13:30:19.163732+00:00"
+    },
+    {
+      "id": "a649ea34fa67b953",
+      "title": "Nigeria’s 90,000km fibre network will be built by a company that doesn’t yet exist",
+      "link": "https://techcabal.com/2026/08/04/nigerias-project-bridge-targets-90000km-fibre-network-by-2030/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria’s ambition to become Africa’s digital economy powerhouse now rests on a company that has yet to be legally incorporated. The federal government expects to register the Special Purpose Vehicle (SPV) that will oversee Project BRIDGE by July 31, laying the legal foundation for one of Nigeria’s largest digital infrastructure projects. The incorporation date will [ ]",
+      "published": "2026-08-04T11:44:57+00:00",
+      "fetched": "2026-08-04T13:30:20.975823+00:00"
+    },
+    {
+      "id": "e9c6f1666e02967b",
+      "title": "AI agents and state contracts power Côte d’Ivoire’s startup push",
+      "link": "https://techcabal.com/2026/08/04/francophone-weekly-by-techcabal-034/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Côte d’Ivoire launches AI-backed support programme for 30 startups, offering public contract access, cloud credits, and scale-up assistance.",
+      "published": "2026-08-04T11:34:14+00:00",
+      "fetched": "2026-08-04T13:30:20.975867+00:00"
+    },
+    {
+      "id": "14aded37ccbd4457",
+      "title": "Nigeria’s fintech success comes with a hidden casualty: Microfinance banks",
+      "link": "https://nairametrics.com/2026/08/04/nigerias-fintech-success-comes-with-a-hidden-casualty-microfinance-banks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's fintech success comes with a hidden casualty: Microfinance banks The post Nigeria s fintech success comes with a hidden casualty: Microfinance banks appeared first on Nairametrics .",
+      "published": "2026-08-04T11:13:25+00:00",
+      "fetched": "2026-08-04T13:30:19.607167+00:00"
+    },
+    {
+      "id": "f87723c7db08c01f",
+      "title": "Dangote Cement signs $800 million Itori expansion deal with Sinoma",
+      "link": "https://nairametrics.com/2026/08/04/dangote-cement-signs-800-million-itori-expansion-deal-with-sinoma/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Industries Limited has signed a Memorandum of Understanding (MoU) worth over $800 million with Sinoma International Engineering Co. Ltd. to expand the Dangote Cement plant in Itori, Ogun State The post Dangote Cement signs $800 million Itori expansion deal with Sinoma appeared first on Nairametrics .",
+      "published": "2026-08-04T11:09:29+00:00",
+      "fetched": "2026-08-04T13:30:19.607218+00:00"
+    },
+    {
+      "id": "f3cf550a273009c2",
+      "title": "INTERPOL identifies Nigeria as both origin and target of African cybercrime operations",
+      "link": "https://nairametrics.com/2026/08/04/interpol-identifies-nigeria-as-both-origin-and-target-of-african-cybercrime-operations/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria has been identified as both a major target of cyberattacks and a key source of cyber-enabled financial crime in Africa. The post INTERPOL identifies Nigeria as both origin and target of African cybercrime operations appeared first on Nairametrics .",
+      "published": "2026-08-04T11:09:13+00:00",
+      "fetched": "2026-08-04T13:30:19.607258+00:00"
+    },
+    {
+      "id": "98dc759d149fd106",
+      "title": "The trade-off of graduating college early: No debt, but no job?",
+      "link": "https://www.marketwatch.com/story/the-trade-off-of-graduating-college-early-no-debt-but-no-job-7c81784b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Students who graduate early still enter a tough job market. Here’s how to make sure that fast-tracking school doesn’t compromise your career.",
+      "published": "2026-08-04T11:00:00+00:00",
+      "fetched": "2026-08-04T13:30:19.163771+00:00"
+    },
+    {
+      "id": "1e8c6a668f67218b",
+      "title": "How one Ghanaian developer is redesigning assistive AI for African users",
+      "link": "https://techcabal.com/2026/08/04/assistive-technology-for-african-users/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "When Emmanuel Quartey temporarily lost hearing in one ear in February 2024, the impact was immediate. Everyday conversations became frustrating, and even simple interactions required more effort than he was used to. It was the first time he had experienced, even briefly, how losing one sense could reshape everyday life.",
+      "published": "2026-08-04T10:54:56+00:00",
+      "fetched": "2026-08-04T13:30:20.975911+00:00"
+    },
+    {
+      "id": "92fbb3fad3176fcd",
+      "title": "Nigeria’s crypto tax rules now include stamp duties: What traders need to know",
+      "link": "https://nairametrics.com/2026/08/04/nigerias-crypto-tax-rules-now-include-stamp-duties-what-traders-need-to-know/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria Revenue Service (NRS) – renamed following a tax administrative reform, which had previously been known as the Federal Inland Revenue Service (FIRS) – has issued new Guidelines on the Taxation of Virtual Assets The post Nigeria s crypto tax rules now include stamp duties: What traders need to know appeared first on Nairametrics .",
+      "published": "2026-08-04T10:44:17+00:00",
+      "fetched": "2026-08-04T13:30:19.607312+00:00"
+    },
+    {
+      "id": "9530c3cd0e6173ae",
+      "title": "The ‘Magnificent Seven’ companies just did something they haven’t since ChatGPT was first released",
+      "link": "https://www.marketwatch.com/story/the-magnificent-seven-companies-just-did-something-they-havent-since-chatgpt-was-first-released-d8aa609f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The grouping of companies called the Magnificent Seven just did something that they haven’t since the introduction of ChatGPT sent the market into an artificial intelligence-sparked frenzy.",
+      "published": "2026-08-04T10:43:00+00:00",
+      "fetched": "2026-08-04T13:30:19.163804+00:00"
+    },
+    {
+      "id": "19e64b935b61b999",
+      "title": "TGM Academy to train and certify 10,000 talent managers across Africa by 2030",
+      "link": "https://nairametrics.com/2026/08/04/tgm-academy-to-train-and-certify-10000-talent-managers-across-africa-by-2030/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "TGM Academy has announced a groundbreaking mission to train and certify 10,000 professional talent managers across Africa by 2030, marking one of the continent's most significant investments in the talent management professional infrastructure powering the creative economy. The post TGM Academy to train and certify 10,000 talent managers across Africa by 2030 appeared first on Nairametrics .",
+      "published": "2026-08-04T09:45:27+00:00",
+      "fetched": "2026-08-04T13:30:19.607358+00:00"
+    },
+    {
+      "id": "1095746257a41807",
+      "title": "Regency Alliance raises N6.04 billion, says it now meets NAICOM’s capital requirement",
+      "link": "https://nairametrics.com/2026/08/04/regency-alliance-raises-n6-04-billion-says-it-now-meets-naicoms-capital-requirement/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Regency Alliance Insurance Plc has announced the successful completion of a N6.04 billion capital raising programme, saying the exercise has positioned the company above the N15 billion minimum capital requirement for non-life insurers under the Nigerian Insurance Industry Reform Act (NIIRA) 2025. The post Regency Alliance raises N6.04 billion, says it now meets NAICOM’s capital requirement appeared first on Nairametrics .",
+      "published": "2026-08-04T09:45:21+00:00",
+      "fetched": "2026-08-04T13:30:19.607411+00:00"
+    },
+    {
+      "id": "d2f22b6b87327d6a",
+      "title": "Sunbeth Global Concepts Secures Investment Grade Ratings from Agusto & Co. and Intelligence Africa",
+      "link": "https://nairametrics.com/2026/08/04/sunbeth-global-concepts-secures-investment-grade-ratings-from-agusto-co-and-intelligence-africa/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sunbeth Global Concepts Limited has received investment grade national scale credit ratings from two SEC-regulated African credit rating agencies, Agusto Co. and Intelligence Africa, reinforcing confidence in the company s financial strength, operational performance and long-term growth strategy. Agusto Co., Nigeria s foremost indigenous credit rating agency, regulated by the Securities and Exchange Commission, assigned [ ] The post Sunbeth Global Concepts Secures Investment Grade Ratings from Agusto Co.",
+      "published": "2026-08-04T09:44:20+00:00",
+      "fetched": "2026-08-04T13:30:19.607470+00:00"
+    },
+    {
+      "id": "719838655b36ebf8",
+      "title": "Data factory global launches Nigeria’s data marketplace to expand access to high-quality public datasets",
+      "link": "https://nairametrics.com/2026/08/04/data-factory-global-launches-nigerias-data-marketplace-to-expand-access-to-high-quality-public-datasets/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Data Factory Global (DFG), a Nigerian Data-as-a-Service (DaaS) company, today announced the launch of the Data Factory Marketplace, a digital platform designed to make high-quality datasets more accessible to businesses, researchers, developers, policymakers, students, and organizations.The marketplace provides a growing collection of structured datasets across sectors including education, healthcare, governance, demographics, business, economics, and public [ ] The post Data factory global launches Nigeria s data marketplace to expand access to high-quality public datasets appeared first on Nairametrics .",
+      "published": "2026-08-04T09:32:02+00:00",
+      "fetched": "2026-08-04T13:30:19.607534+00:00"
+    },
+    {
+      "id": "8211f4769b455880",
+      "title": "India buys 2 million barrels of Nigeria’s Utapate and Okwuibome crude for September delivery",
+      "link": "https://nairametrics.com/2026/08/04/india-buys-2-million-barrels-of-nigerias-utapate-and-okwuibome-crude-for-september-delivery/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "India’s Hindustan Petroleum Corp (HPCL) has purchased two million barrels of Nigeria’s Utapate and Okwuibome crude for delivery in late September, in a deal that highlights continued demand for Nigeria’s premium crude grades from one of Asia’s major refining markets. The post India buys 2 million barrels of Nigeria’s Utapate and Okwuibome crude for September delivery appeared first on Nairametrics .",
+      "published": "2026-08-04T09:23:00+00:00",
+      "fetched": "2026-08-04T13:30:19.607587+00:00"
+    },
+    {
+      "id": "656cb1094145cdef",
+      "title": "Zedcrest Wealth Launches Scholarship in Partnership with ProductDive and AltSchool Africa",
+      "link": "https://nairametrics.com/2026/08/04/zedcrest-wealth-launches-scholarship-in-partnership-with-productdive-and-altschool-africa/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Leading asset management firm Zedcrest Wealth has announced the launch of the Zedcrest Wealth Academy Scholarship, a new initiative designed to equip ambitious Nigerians with both in-demand career skills and the financial knowledge needed to build lasting wealth. The scholarship initiative, delivered through strategic partnerships with ProductDive and AltSchool Africa, reflects Zedcrest Wealth s belief that [ ] The post Zedcrest Wealth Launches Scholarship in Partnership with ProductDive and AltSchool Africa appeared first on Nairametrics .",
+      "published": "2026-08-04T09:14:39+00:00",
+      "fetched": "2026-08-04T13:30:19.607641+00:00"
+    },
     {
       "id": "31672edddd7cff14",
       "title": "Telkom’s voice era is over. Data now pays the bills",
@@ -1272,236 +1502,6 @@
       "summary": "Between 2016 and 2020, she worked in advertising and branding, developing campaigns for clients including Nigerian tier-one lenders Access Bank and Zenith Bank.",
       "published": "2026-08-01T10:57:18+00:00",
       "fetched": "2026-08-01T12:46:48.244270+00:00"
-    },
-    {
-      "id": "352e2fe25ea68ae9",
-      "title": "CBN mops up N7.2 trillion in July, but quietly changes its playbook",
-      "link": "https://nairametrics.com/2026/08/01/cbn-mops-up-n7-2-trillion-in-july-but-quietly-changes-its-playbook/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) sterilized N7.18 trillion from the financial system in July through Open Market Operations (OMO) auctions, a 48.57% decline from the N13.96 trillion mopped up conducted in June. The post CBN mops up N7.2 trillion in July, but quietly changes its playbook appeared first on Nairametrics .",
-      "published": "2026-08-01T10:36:08+00:00",
-      "fetched": "2026-08-01T12:46:46.830684+00:00"
-    },
-    {
-      "id": "a490b88589ebec3e",
-      "title": "Nigerian stocks set for profit-taking in August, Dangote Refinery in spotlight",
-      "link": "https://nairametrics.com/2026/08/01/nigerian-stocks-set-for-profit-taking-in-august-dangote-refinery-in-spotlight/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's stocks enter August with the NGX All-Share Index (ASI) hovering around 247,000 index points, approaching record highs. The post Nigerian stocks set for profit-taking in August, Dangote Refinery in spotlight appeared first on Nairametrics .",
-      "published": "2026-08-01T08:28:12+00:00",
-      "fetched": "2026-08-01T12:46:46.830712+00:00"
-    },
-    {
-      "id": "47f35acca3d8c329",
-      "title": "Berger Paints profit jumps 27% despite rising operating costs",
-      "link": "https://nairametrics.com/2026/08/01/berger-paints-h1-pre-tax-profit-climbs-27-to-n1-20-billion-on-strong-paint-sales/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Berger Paints Nigeria Plc has released its H1 financial statement, reporting a pre-tax profit of N1.20 billion for the six months ended June 30, 2026. The post Berger Paints profit jumps 27% despite rising operating costs appeared first on Nairametrics .",
-      "published": "2026-08-01T08:07:01+00:00",
-      "fetched": "2026-08-01T12:46:46.830739+00:00"
-    },
-    {
-      "id": "4a486ae2ef224fb6",
-      "title": "Gavi commits $500 million to vaccinate Nigeria’s next generation",
-      "link": "https://nairametrics.com/2026/08/01/gavi-commits-500-million-to-vaccinate-nigerias-next-generation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Gavi, the Vaccine Alliance, has committed more than $500 million to support Nigeria’s immunisation programme over the next five years. The post Gavi commits $500 million to vaccinate Nigeria s next generation appeared first on Nairametrics .",
-      "published": "2026-08-01T07:45:26+00:00",
-      "fetched": "2026-08-01T07:56:25.057665+00:00"
-    },
-    {
-      "id": "86fe7f01f495a679",
-      "title": "South Africa plans new $30 travel permit fee for visitors",
-      "link": "https://nairametrics.com/2026/08/01/south-africa-plans-new-30-travel-permit-fee-for-visitors/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "South Africa is proposing a new ZAR 500 ($30) processing fee for travellers applying for its Electronic Travel Authorisation (ETA), as the country continues expanding its digital border management system. The post South Africa plans new $30 travel permit fee for visitors appeared first on Nairametrics .",
-      "published": "2026-08-01T07:31:45+00:00",
-      "fetched": "2026-08-01T07:56:25.057742+00:00"
-    },
-    {
-      "id": "7fcd5bef1982bf9d",
-      "title": "Africa’s exports jump 14%, trail only Asia in global trade growth",
-      "link": "https://nairametrics.com/2026/08/01/africas-exports-jump-14-trail-only-asia-in-global-trade-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Africa’s merchandise exports increased by 14% year-on-year in the first quarter of 2026, recording the second-highest regional growth after Asia, according to the World Trade Organization (WTO). The post Africa s exports jump 14%, trail only Asia in global trade growth appeared first on Nairametrics .",
-      "published": "2026-08-01T07:12:23+00:00",
-      "fetched": "2026-08-01T07:56:25.057796+00:00"
-    },
-    {
-      "id": "97d45b8d5a3ce7be",
-      "title": "Nigerian equities market adds N11.11 trillion in July as banking stocks power recovery",
-      "link": "https://nairametrics.com/2026/08/01/nigerian-equities-market-adds-n11-11-trillion-in-july-as-banking-stocks-power-recovery/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market delivered a strong performance in July 2026, adding approximately N11.11 trillion to investors' wealth as sustained buying interest in banking and other fundamentally strong stocks outweighed intermittent profit-taking across consumer goods and oil gas counters. The post Nigerian equities market adds N11.11 trillion in July as banking stocks power recovery appeared first on Nairametrics .",
-      "published": "2026-08-01T06:53:29+00:00",
-      "fetched": "2026-08-01T07:56:25.057848+00:00"
-    },
-    {
-      "id": "8d6270d54a2e4180",
-      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
-      "link": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors are seeing more signs that the bottom is near, if not already in.",
-      "published": "2026-07-31T22:21:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785351+00:00"
-    },
-    {
-      "id": "e29377a75ed131e2",
-      "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
-      "link": "https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There are more similarities between the two hedge-fund blowups than one might expect.",
-      "published": "2026-07-31T22:09:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785389+00:00"
-    },
-    {
-      "id": "a76b42ecc42d420c",
-      "title": "The S&P 500 is making a change by adding this little-known industrial stock",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Ferguson Enterprises’ stock was rallying more than 8% after news the Newport News, Va., company will be joining the S P 500 index, edging out better-known names for inclusion.",
-      "published": "2026-07-31T21:53:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785488+00:00"
-    },
-    {
-      "id": "49b4d475fd805b20",
-      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
-      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-      "published": "2026-07-31T21:28:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785525+00:00"
-    },
-    {
-      "id": "aad3564dac481aa6",
-      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
-      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
-      "published": "2026-07-31T21:10:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785559+00:00"
-    },
-    {
-      "id": "4cca9ff68bff15be",
-      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
-      "published": "2026-07-31T20:23:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785592+00:00"
-    },
-    {
-      "id": "d43ff4f0668af97c",
-      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-      "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
-      "published": "2026-07-31T20:20:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785621+00:00"
-    },
-    {
-      "id": "3d55645cf11eb6a1",
-      "title": "U.S. ends routine visa processing in Abuja from August 1",
-      "link": "https://nairametrics.com/2026/07/31/u-s-ends-routine-visa-processing-in-abuja-from-august-1/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerians seeking U.S. visas will now have to process their applications through the U.S. Consulate General in Lagos from August 1, 2026, following the transfer of routine visa services from the U.S.",
-      "published": "2026-07-31T20:06:18+00:00",
-      "fetched": "2026-08-01T01:24:12.715110+00:00"
-    },
-    {
-      "id": "7e7cf8ecb3f83489",
-      "title": "The trillion-dollar map: How to win in Nigeria’s unseen economy",
-      "link": "https://nairametrics.com/2026/07/31/the-trillion-dollar-map-how-to-win-in-nigerias-unseen-economy/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria is worth about USD 291 billion and about USD 2.3 trillion at the same time. Both are World Bank figures for 2025. The first converts the economy into dollars at the exchange rate.",
-      "published": "2026-07-31T20:03:57+00:00",
-      "fetched": "2026-08-01T01:24:12.715186+00:00"
-    },
-    {
-      "id": "b933bfdfb5d11e79",
-      "title": "International Breweries’ H1 2026 pre-tax profit rises 22% on margin recovery.",
-      "link": "https://nairametrics.com/2026/07/31/international-breweries-h1-2026-pre-tax-profit-rises-22-on-margin-recovery/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "International Breweries Plc has released its unaudited H1 2026 results reporting recorded a pre-tax profit of N74.79 billion for the six months ended June 2026. The post International Breweries H1 2026 pre-tax profit rises 22% on margin recovery. appeared first on Nairametrics .",
-      "published": "2026-07-31T19:17:53+00:00",
-      "fetched": "2026-08-01T01:24:12.715235+00:00"
-    },
-    {
-      "id": "e99139d0824c68f2",
-      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
-      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I realize that probate can be lengthy, public and expensive.”",
-      "published": "2026-07-31T19:16:00+00:00",
-      "fetched": "2026-08-01T01:24:11.785649+00:00"
-    },
-    {
-      "id": "41dac1a60433387c",
-      "title": "Lagos collects N1.67 trillion in six months, hits 90% revenue target",
-      "link": "https://nairametrics.com/2026/07/31/lagos-collects-n1-67-trillion-in-six-months-hits-90-revenue-target/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos State generated N1.67 trillion in recurrent revenue in the first half of 2026, achieving 90% of its half-year target. The post Lagos collects N1.67 trillion in six months, hits 90% revenue target appeared first on Nairametrics .",
-      "published": "2026-07-31T19:10:58+00:00",
-      "fetched": "2026-08-01T01:24:12.715275+00:00"
-    },
-    {
-      "id": "85f80817aabed49e",
-      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
-      "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
-      "published": "2026-07-31T18:46:45+00:00",
-      "fetched": "2026-07-31T19:02:11.464266+00:00"
-    },
-    {
-      "id": "2b3801e8657571a7",
-      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-      "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-      "published": "2026-07-31T18:33:23+00:00",
-      "fetched": "2026-07-31T19:02:11.464368+00:00"
-    },
-    {
-      "id": "661283bdeb11e759",
-      "title": "AI stocks may have bottomed out. What investors should watch for next.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-may-have-bottomed-out-what-investors-should-watch-for-next-bda034c5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Microsoft earnings provided optimism for the AI trade, as did the trading activity surrounding a hedge fund’s fire sale.",
-      "published": "2026-07-31T18:29:00+00:00",
-      "fetched": "2026-07-31T19:02:11.257321+00:00"
-    },
-    {
-      "id": "8200c3262250cf3d",
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-      "published": "2026-07-31T18:20:01+00:00",
-      "fetched": "2026-07-31T19:02:11.464305+00:00"
     }
   ]
 }

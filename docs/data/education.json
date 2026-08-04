@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-04T08:12:39.059625+00:00",
-  "count": 82,
+  "updated": "2026-08-04T13:30:29.629325+00:00",
+  "count": 83,
   "items": [
+    {
+      "id": "d2cfa00441feb96d",
+      "title": "The benefits of medical AI assistance vary based on user expertise",
+      "link": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors.",
+      "published": "2026-08-04T09:00:00+00:00",
+      "fetched": "2026-08-04T13:30:24.462888+00:00"
+    },
     {
       "id": "550fee49d05be426",
       "title": "Hear the Earliest Known Piece of Polyphonic Music: This Composition, Dating Back to 900 AD, Changed Western Music",

@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-04T08:12:39.677886+00:00",
+  "updated": "2026-08-04T13:30:30.144394+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "eb4b017f1f8722f6",
+      "title": "2026’s “Discounted” Properties Aren’t the Bargain They Look Like",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-448",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If you’re investing in real estate, you’re probably asking, “How much can this property make me?” But in 2026, it’s the opposite question that actually builds your wealth: “How much [ ]",
+      "published": "2026-08-04T11:00:43+00:00",
+      "fetched": "2026-08-04T13:30:29.852750+00:00"
+    },
+    {
+      "id": "fb0b49590ed7141c",
+      "title": "The Great Wealth Transfer Trap: Why Lenders Are Pushing Heirs Out of 3% Mortgage Rates",
+      "link": "https://www.realtor.com/news/trends/heirs-lose-boomers-low-rate-mortgages/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Federal protections can preserve inherited loans, but heirs say documentation loops and refinance pressure put affordable payments at risk.",
+      "published": "2026-08-04T10:00:00+00:00",
+      "fetched": "2026-08-04T13:30:30.143735+00:00"
+    },
+    {
+      "id": "0cc2c577099b0dbf",
+      "title": "Waterfront Florida Megamansion With Astonishing Amenities, Including a 14-Seat Theater, Is Listed for $78 Million",
+      "link": "https://www.realtor.com/news/unique-homes/most-expensive-homes-for-sale-us-august-4-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built in 2025, the luxurious eight-bedroom estate designed by architect Cesar Molina is in the gated enclave of Gables Estates.",
+      "published": "2026-08-04T09:08:00+00:00",
+      "fetched": "2026-08-04T13:30:30.143771+00:00"
+    },
     {
       "id": "99de411b3e45e07a",
       "title": "A Million-Dollar Home Used To Be Considered a Mansion—Not Anymore",
@@ -1472,36 +1502,6 @@
       "summary": "We’ve officially reached the halfway point of 2026, and the housing market still feels…stuck. The economy is in limbo. Home prices haven’t tanked.",
       "published": "2026-07-07T11:00:46+00:00",
       "fetched": "2026-07-29T08:30:04.857564+00:00"
-    },
-    {
-      "id": "8ccf4fdf8c7fd279",
-      "title": "New Law Carries Implications For Roofing and Insurance—Here’s What Investors Need to Know",
-      "link": "https://www.biggerpockets.com/blog/new-law-carries-implications-for-roofing-and-insurance-heres-what-investors-need-to-know",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "As if homeowner’s insurance weren’t expensive enough, a new federal rule has quietly moved the responsibility to pay for roof damage claims off the insurers’ shoulders and onto property owners. [ ]",
-      "published": "2026-07-06T16:51:23+00:00",
-      "fetched": "2026-07-29T08:30:04.857596+00:00"
-    },
-    {
-      "id": "76b57a55cbeeae3d",
-      "title": "She Bought Her First Rental Property with $0 Down (Her Exact Playbook)",
-      "link": "https://www.biggerpockets.com/blog/rookie-740",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "What if the one thing stopping you from buying your first rental property isn’t money, or connections, but the belief that it’s just not possible for someone like you? Today’s [ ]",
-      "published": "2026-07-06T11:00:43+00:00",
-      "fetched": "2026-07-29T08:30:04.857624+00:00"
-    },
-    {
-      "id": "ce1531ddff61dba9",
-      "title": "I Started Investing with Just $7,500. Now I Own Millions in Rentals",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1300",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "One day, Remington Lyman was brought into his boss s office, told that he did above-and-beyond at his job, and was handed a 2% raise with a smile. All the extra [ ]",
-      "published": "2026-07-06T11:00:40+00:00",
-      "fetched": "2026-07-29T08:30:04.857649+00:00"
     }
   ]
 }
