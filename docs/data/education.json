@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-04T13:30:29.629325+00:00",
-  "count": 83,
+  "updated": "2026-08-04T19:14:45.452603+00:00",
+  "count": 85,
   "items": [
+    {
+      "id": "dfb23587b4e7785d",
+      "title": "Solving the solvent problem",
+      "link": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option.",
+      "published": "2026-08-04T18:50:00+00:00",
+      "fetched": "2026-08-04T19:14:44.499849+00:00"
+    },
+    {
+      "id": "9ca8ba974565df75",
+      "title": "What Did Ancient Rome Look Like? A 3D Virtual Tour of the City During the Second Century AD",
+      "link": "https://www.openculture.com/2026/08/what-did-ancient-rome-look-like.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The description “open-air museum” has often been applied, in various senses both positive and negative, to the country of Italy in general and the city of Rome in particular. Indeed, only the imagination of a truly blinkered (or unusually phone-addicted) tourist could fail to be cast back to antiquity upon entering its historic center, itself [ ]",
+      "published": "2026-08-04T15:51:07+00:00",
+      "fetched": "2026-08-04T19:14:45.452406+00:00"
+    },
     {
       "id": "d2cfa00441feb96d",
       "title": "The benefits of medical AI assistance vary based on user expertise",

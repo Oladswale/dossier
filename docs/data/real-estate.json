@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-04T13:30:30.144394+00:00",
+  "updated": "2026-08-04T19:14:45.963810+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "eaba10b38710f7f4",
+      "title": "From Stoves to ACs: The Surprising Essentials Landlords Can Legally Ban Today",
+      "link": "https://www.realtor.com/advice/rent/what-can-landlords-legally-ban-in-rentals/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Dishwashers, washing machines, and air conditioners are all modern home essentials—that your landlord can deny you if they so desire.",
+      "published": "2026-08-04T18:17:50+00:00",
+      "fetched": "2026-08-04T19:14:45.963173+00:00"
+    },
+    {
+      "id": "fb7d9c4f6145ef0d",
+      "title": "EXCLUSIVE: Aubrey Plaza Lands a Buyer for $4.9 Million L.A. Home—as She Prepares To Welcome Her First Child",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/aubrey-plaza-los-angeles-home-sale-buyer-pregnancy/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Plaza, 42, originally listed the property—which she shared with her late husband, Jeff Baena—for $6.5 million in September 2025.",
+      "published": "2026-08-04T17:41:03+00:00",
+      "fetched": "2026-08-04T19:14:45.963214+00:00"
+    },
+    {
+      "id": "24f6831c6df291cd",
+      "title": "Missouri HOA President Is Accused of Diverting $30,000 for Personal Condo Repairs",
+      "link": "https://www.realtor.com/news/trends/missouri-hoa-president-lawsuit-woodlands-cheryl-honey/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Woodlands Property Owners Association filed the lawsuit against Cheryl Honey last month.",
+      "published": "2026-08-04T17:14:32+00:00",
+      "fetched": "2026-08-04T19:14:45.963242+00:00"
+    },
+    {
+      "id": "6a0e2df13c497c1b",
+      "title": "Florida Judge Orders Property-Tax Ballot Rewrite Over ‘Political Slogan’",
+      "link": "https://www.realtor.com/news/real-estate-news/florida-amendment-3-property-tax-ballot-rewrite/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A judge found Florida’s aggressive property-tax ballot language misleading, ordering a rewrite before voters weigh the proposal in November.",
+      "published": "2026-08-04T16:55:27+00:00",
+      "fetched": "2026-08-04T19:14:45.963272+00:00"
+    },
+    {
+      "id": "402ec1871d366cc5",
+      "title": "Bijan Robinson Inks $75 Million Falcons Extension to Become NFL’s Highest-Paid Running Back—3 Years After Making ‘Magical’ Move to Atlanta",
+      "link": "https://www.realtor.com/news/sports/bijan-robinson-homes-property-falcons/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Robinson, 24, has signed a new three-year contract extension with the Falcons, having been drafted by the team in 2023.",
+      "published": "2026-08-04T16:13:00+00:00",
+      "fetched": "2026-08-04T19:14:45.963327+00:00"
+    },
+    {
+      "id": "c2ebd835b14b4118",
+      "title": "Home Prices Are on the Upswing in More Cities—Here’s Where They’re Rising Fastest",
+      "link": "https://www.realtor.com/news/trends/home-prices-rising-nar-q2-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Spring 2026 home prices rose annually across 80% of U.S. metro markets, driven by strong growth in the Northeast and Midwest.",
+      "published": "2026-08-04T14:25:12+00:00",
+      "fetched": "2026-08-04T19:14:45.963358+00:00"
+    },
     {
       "id": "eb4b017f1f8722f6",
       "title": "2026’s “Discounted” Properties Aren’t the Bargain They Look Like",
@@ -1442,66 +1502,6 @@
       "summary": "Editor’s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets’ annual real estate investing conference—using code MYRE100 at checkout. As if interest rates and house [ ]",
       "published": "2026-07-09T17:35:29+00:00",
       "fetched": "2026-07-29T08:30:04.857381+00:00"
-    },
-    {
-      "id": "ba3ff2c3689438f8",
-      "title": "A Glut of Inventory is on the Way—How Should Investors Prepare?",
-      "link": "https://www.biggerpockets.com/blog/a-glut-of-inventory-is-on-the-way-how-should-investors-prepare",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Editor s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets annual real estate investing conference—using code MYRE100 at checkout. The housing [ ]",
-      "published": "2026-07-09T17:28:17+00:00",
-      "fetched": "2026-07-29T08:30:04.857411+00:00"
-    },
-    {
-      "id": "552eb33bc337a947",
-      "title": "Workers Are Feeling the AI Squeeze: How It Could Define the Next Housing Cycle",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-441",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If you ask the average American, AI is taking over, as are the headlines warning that it’s coming for our jobs. Open LinkedIn, and you’ll see stories about chatbots replacing [ ]",
-      "published": "2026-07-09T11:00:01+00:00",
-      "fetched": "2026-07-29T08:30:04.857439+00:00"
-    },
-    {
-      "id": "a27bb96511b8780e",
-      "title": "The Exact Investment “Stack” We’re Using to Retire Early (Not Just Rentals)",
-      "link": "https://www.biggerpockets.com/blog/rookie-741",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Don’t want to wait until 65 to retire? With a combination of rental properties and some of the other investments we’re covering on today’s show, you may not have to. [ ]",
-      "published": "2026-07-08T11:00:45+00:00",
-      "fetched": "2026-07-29T08:30:04.857467+00:00"
-    },
-    {
-      "id": "10be1f9b8afefe6e",
-      "title": "The Simple Systems Behind a 150-Unit Rental Portfolio (8-Hour Workweeks!)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1301",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "When the dot-com bubble burst, Matt (the “Lumberjack Landlord”) watched his 100% stock portfolio go to dust. Having lost everything he had saved throughout his early twenties, his only option [ ]",
-      "published": "2026-07-08T11:00:31+00:00",
-      "fetched": "2026-07-29T08:30:04.857494+00:00"
-    },
-    {
-      "id": "2f5d63e5aa454f2a",
-      "title": "Deal Diary: The $80K Deal That Turned Into a 24-Unit Building",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-remington-lyman",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Remington Lyman Location Columbus, Ohio Occupation Real estate investor brokerage owner Assets ~100 residential units and four commercial deals, including a 24-unit apartment building and a 24,000-square-foot warehouse [ ]",
-      "published": "2026-07-07T19:12:20+00:00",
-      "fetched": "2026-07-29T08:30:04.857532+00:00"
-    },
-    {
-      "id": "10351e97a53a1c42",
-      "title": "Commercial Real Estate Is Quietly Setting Up for a Decade-Long Bull Run",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-440",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "We’ve officially reached the halfway point of 2026, and the housing market still feels…stuck. The economy is in limbo. Home prices haven’t tanked.",
-      "published": "2026-07-07T11:00:46+00:00",
-      "fetched": "2026-07-29T08:30:04.857564+00:00"
     }
   ]
 }
