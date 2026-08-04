@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-03T19:13:50.009349+00:00",
-  "count": 80,
+  "updated": "2026-08-04T01:14:13.563417+00:00",
+  "count": 81,
   "items": [
+    {
+      "id": "7e16a80753a52223",
+      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
+      "link": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
+      "published": "2026-08-03T19:50:00+00:00",
+      "fetched": "2026-08-04T01:14:12.184455+00:00"
+    },
     {
       "id": "5658147ea24c018e",
       "title": "Connecting students with the future of microelectronics",
