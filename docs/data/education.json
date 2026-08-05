@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-08-05T13:28:40.292356+00:00",
-  "count": 89,
+  "updated": "2026-08-05T19:08:33.004032+00:00",
+  "count": 93,
   "items": [
+    {
+      "id": "a2e15bac9378b7da",
+      "title": "Then and now: How MIT Lincoln Laboratory has served as a driving force in national security innovation",
+      "link": "https://news.mit.edu/2026/mit-lincoln-laboratory-driving-force-national-security-innovation-0805",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Members of the laboratory community reflect on technology impacts that shaped the United States and the world over the past 75 years.",
+      "published": "2026-08-05T18:10:00+00:00",
+      "fetched": "2026-08-05T19:08:31.139123+00:00"
+    },
+    {
+      "id": "f356e967ad03fb07",
+      "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
+      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies.",
+      "published": "2026-08-05T15:00:00+00:00",
+      "fetched": "2026-08-05T19:08:31.139160+00:00"
+    },
+    {
+      "id": "7eef4fd46556cb75",
+      "title": "Scientists unveil more than 600 new tissue models of human cancer",
+      "link": "https://news.mit.edu/2026/scientists-unveil-600-new-tissue-models-human-cancer-0805",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Derived from patient tumor samples and available to researchers around the world, the cells will aid the development of new cancer treatments.",
+      "published": "2026-08-05T15:00:00+00:00",
+      "fetched": "2026-08-05T19:08:31.139192+00:00"
+    },
+    {
+      "id": "c3b681d0615cc147",
+      "title": "Read 20,000+ Golden Age Comic Books Free Online: Superheroes, Westerns, Romance, Horror, and More",
+      "link": "https://www.openculture.com/2026/08/read-20000-golden-age-comic-books-free-online.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "For generations of kids in the twentieth century, few pleasures were as intoxicating as a trip to the comic-book shop with the week’s allowance fresh in hand. Those of us who grew up in the nineties had any number of high-production-value paper superhero spectacles from major publishers on which to blow our money. Personally, I [ ]",
+      "published": "2026-08-05T14:34:12+00:00",
+      "fetched": "2026-08-05T19:08:33.003797+00:00"
+    },
     {
       "id": "beec89759255f8b8",
       "title": "How Ada Lovelace, Daughter of Lord Byron, Wrote the First Computer Program in 1842–a Century Before the First Computer",

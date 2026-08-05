@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-05T13:28:39.128994+00:00",
+  "updated": "2026-08-05T19:08:30.838037+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b5750668314ec790",
+      "title": "Perez Hilton’s Family Asks for Privacy as Blogger Receives Medical Care Following Self-Harm",
+      "link": "https://www.rollingstone.com/culture/culture-news/perez-hilton-family-statement-selfharm-medical-care-1235603999/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"We can confirm that Perez is receiving medical care, and our family’s focus right now is on his well-being,\" reads a statement",
+      "published": "2026-08-05T19:07:54+00:00",
+      "fetched": "2026-08-05T19:08:30.735545+00:00"
+    },
+    {
+      "id": "5f112c853183db02",
+      "title": "Sam Smith Releases Bluesy Lament ‘When He’s Gone’ Ahead of New Album ‘Hazel Eyes’",
+      "link": "https://www.rollingstone.com/music/music-news/sam-smith-when-hes-gone-single-hazel-eyes-1235603990/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Smith's fifth studio album arrives on Aug. 21",
+      "published": "2026-08-05T19:02:17+00:00",
+      "fetched": "2026-08-05T19:08:30.735601+00:00"
+    },
+    {
+      "id": "ea7e4fe68e2bce87",
+      "title": "‘Gilmore Girls’ Documentary Set at HBO Max With Lauren Graham, Never-Before-Seen Footage and More",
+      "link": "https://variety.com/2026/tv/news/gilmore-girls-documentary-hbo-max-1236828437/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s time to return to Star s Hollow. An official documentary about Gilmore Girls, the beloved seven-season family dramedy that premiered in 2000, is currently in production and set to debut on HBO Max. Per the official logline, the untitled film is told from the perspective of series creator Amy Sherman-Palladino alongside her husband, executive producer [ ]",
+      "published": "2026-08-05T19:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.637955+00:00"
+    },
+    {
+      "id": "8518659af3b4b2b5",
+      "title": "Olivia Rodrigo Slams Trump for ‘Defunding’ Planned Parenthood: ‘We’ll Never Stop Fighting’",
+      "link": "https://variety.com/2026/music/news/olivia-rodrigo-slams-donald-trump-planned-parenthood-1236828564/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Olivia Rodrigo is supporting Planned Parenthood as the organization remains under attack from President Trump. The superstar singer was in a dance video posted to the Instagram and Twitter accounts of Daisy Chain Fields, her upcoming all-woman music festival. Text on the video, set to her song “My Way,” says, “Learning that nearly 30 Planned [ ]",
+      "published": "2026-08-05T18:51:05+00:00",
+      "fetched": "2026-08-05T19:08:30.638019+00:00"
+    },
+    {
+      "id": "34b0388e476a4327",
+      "title": "Braxton Keith Is Leading Country’s New Class of Twang",
+      "link": "https://www.rollingstone.com/music/music-country/braxton-keith-post-malone-stagecoach-interview-1235603684/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The west Texas native with the pronounced mustache is catching the attention of fans and artists like Post Malone with his album Real Damn Deal",
+      "published": "2026-08-05T18:22:41+00:00",
+      "fetched": "2026-08-05T19:08:30.735653+00:00"
+    },
+    {
+      "id": "044a3f8fedd7d304",
+      "title": "Where to Watch ‘The Shards’ TV Series Online for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-the-shards-tv-show-online-free-streaming-1235603784/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Bret Easton Ellis’s best-selling novel gets the Ryan Murphy treatment in this new FX series",
+      "published": "2026-08-05T18:05:00+00:00",
+      "fetched": "2026-08-05T19:08:30.735686+00:00"
+    },
+    {
+      "id": "d7cc999471c75038",
+      "title": "‘The Five Star Weekend’ Renewed for Season 2 After Becoming Peacock’s Most-Watched Scripted Series Ever",
+      "link": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Five Star Weekend has been renewed for a second season at Peacock. Based on Elin Hilderbrand s 2023 novel of the same name, the drama series stars Jennifer Garner as Hollis Shaw, a famous cook and author who is grieving her late husband. The official series description reads, Unable to move forward, the death starts [ ]",
+      "published": "2026-08-05T18:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.638072+00:00"
+    },
+    {
+      "id": "3ed6cca33b8b9559",
+      "title": "Cypress Hill’s B-Real Talks Celebrating Cultural Pride and Spirituality on ‘Dios Bendiga’ LP",
+      "link": "https://www.rollingstone.com/music/music-latin/cypress-hill-talks-cultural-pride-spirituality-dios-bendiga-1235603764/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The veteran lyricist opens up about rapping in his native language and Latin music with revolutionary overtones",
+      "published": "2026-08-05T17:48:18+00:00",
+      "fetched": "2026-08-05T19:08:30.735765+00:00"
+    },
+    {
+      "id": "bca355040bd87355",
+      "title": "Willem Dafoe on Playing a Poet in ‘Late Fame’ and Working With Robert Eggers and Yorgos Lanthimos: ‘If I Give Myself to a Director, I Want It to Burn Hot’",
+      "link": "https://variety.com/2026/film/features/willem-dafoe-robert-eggers-yorgos-lanthimos-late-fame-1236824363/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Willem Dafoe is in the midst of a massive year — and he’s playing a character whose life is small by design. In director Kent Jones’ “Late Fame” (out Aug. 7 in New York and Aug.",
+      "published": "2026-08-05T17:30:00+00:00",
+      "fetched": "2026-08-05T19:08:30.638130+00:00"
+    },
+    {
+      "id": "3e89c258cc618d12",
+      "title": "What Is David Ellison’s Breaking Point?",
+      "link": "https://variety.com/2026/film/news/david-ellison-breaking-point-paramount-wb-merger-trial-1236828418/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "David Ellison and the leadership team at Paramount expected to spend much of the summer settling into new digs with Warner Bros. Discovery. A few weeks ago, they privately predicted the merger of the two media companies would be wrapped up by July or August at the latest.",
+      "published": "2026-08-05T17:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.638176+00:00"
+    },
+    {
+      "id": "d285f7d4afab372c",
+      "title": "‘The Odyssey’ Translator Emily Wilson Doubles Down Against Nolan’s ‘Emotionally Empty’ Movie: ‘We Need Art That Is Truthful’ About the ‘Necessity of Compassion’",
+      "link": "https://variety.com/2026/film/news/the-odyssey-translator-emily-wilson-slams-nolan-emotionally-empty-1236828397/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Emily Wilson, the author whose 2017 translation of “The Odyssey” was an influence for Christopher Nolan during his own adaptation process, is doubling down in her critiques of the director s blockbuster epic. In an op-ed written for The Atlantic, Wilson called out Nolan s Odyssey for being emotionally empty. She previously torched the movie in a [ ]",
+      "published": "2026-08-05T16:54:38+00:00",
+      "fetched": "2026-08-05T19:08:30.638234+00:00"
+    },
+    {
+      "id": "76788cde13b1a7c8",
+      "title": "Dawn Richard Will Dig Deep Into New Orleans Roots on New Album ‘Creole Culture’",
+      "link": "https://www.rollingstone.com/music/music-news/dawn-richard-creole-culture-album-announcement-1235603956/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer previews the record, out in October, with the new single “Enough”",
+      "published": "2026-08-05T16:34:32+00:00",
+      "fetched": "2026-08-05T19:08:30.735795+00:00"
+    },
+    {
+      "id": "8226d5f9345a3378",
+      "title": "Ted Sarandos Meets Prime Minister Narendra Modi, Unveils Netflix India Storytelling Initiative",
+      "link": "https://variety.com/2026/tv/news/ted-sarandos-narendra-modi-netflix-india-storytelling-initiative-1236828464/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Netflix Co-CEO Ted Sarandos met with Indian Prime Minister Narendra Modi in New Delhi on Wednesday to unveil the Netflix India Storytelling Initiative, a multi-phase investment in the country’s creative talent pipeline. The initiative builds on more than a decade of partnership between Netflix and India’s creative community, during which the streamer has produced over [ ]",
+      "published": "2026-08-05T16:19:23+00:00",
+      "fetched": "2026-08-05T19:08:30.638285+00:00"
+    },
+    {
+      "id": "0cafd3de85fc3232",
+      "title": "ABC News Digital Workers Unionize With WGA East in Unanimous Vote",
+      "link": "https://variety.com/2026/tv/news/abc-news-digital-wga-east-union-1236827549/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Employees at ABC News digital division voted unanimously to form a union with the Writers Guild of America East. WGA East which has repped unionized employees in ABC News TV operations for decades said it reached an agreement with ABC regarding the union representation process for employees of ABCNews.com and ABC News’ social [ ]",
+      "published": "2026-08-05T16:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.638333+00:00"
+    },
+    {
+      "id": "2301f315f21d35a3",
+      "title": "‘One Night Only’ Review: Monica Barbaro and Callum Turner Are Too Hot for This Sexless Sex Comedy",
+      "link": "https://variety.com/2026/film/news/one-night-only-review-1236828254/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A high-concept romantic comedy is a difficult thing to pull off. The success of any romcom is so dependent on any number of ordinary yet intangible factors — star chemistry, warmth, a general sense of goodwill toward all involved — that when you massively complicate the rules of the game, the balance is thrown off. [ ]",
+      "published": "2026-08-05T16:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.638382+00:00"
+    },
+    {
+      "id": "2b7a1dbec8681c9e",
+      "title": "‘Martin’ Spinoff ‘The Varnell Hill Show’ Sets September Release Date, Drops First Look Photos",
+      "link": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Paramount+ has released first-look images of “The Varnell Hill Show,” the “Martin” spinoff premiering this September on the streaming platform. The eight-episode debut season will premiere with two episodes on Sept. 1, followed by one new episode every Tuesday night until Oct.",
+      "published": "2026-08-05T16:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.638433+00:00"
+    },
+    {
+      "id": "17abb467c95812ca",
+      "title": "D4vd: 10 Takeaways From Our Investigation Into the Singer Accused of Killing Celeste Rivas Hernandez",
+      "link": "https://www.rollingstone.com/music/music-news/d4vd-accused-murder-celeste-rivas-hernandez-takeaways-1235600333/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The artist, born David Burke, allegedly maintained an intense online relationship with another young woman, who is sharing details of their interactions for the first time",
+      "published": "2026-08-05T16:00:00+00:00",
+      "fetched": "2026-08-05T19:08:30.735827+00:00"
+    },
+    {
+      "id": "b7e316553e649eb7",
+      "title": "‘Tony’ Isn’t a Biopic. It’s Superhero Coming-of-Age Fan Fiction",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/tony-bourdain-biopic-review-1235601293/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Matt Johnson re-creates the wonder years of a snot-nosed punk who’ll grow up to be a celebrity-chef icon. Call it ‘Bourdain the Man the Show the Movie’",
+      "published": "2026-08-05T15:45:10+00:00",
+      "fetched": "2026-08-05T19:08:30.735861+00:00"
+    },
+    {
+      "id": "88c6a74e978a083c",
+      "title": "Loe Shimmy Puts Women First on ‘Pretty Girlz Run the World’",
+      "link": "https://www.rollingstone.com/music/music-features/loe-shimmy-pretty-girlz-run-the-world-interview-1235603456/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Florida rapper talks about embracing his softer side and recording the Drake collaboration “I’m Spent” while hooked up to an IV",
+      "published": "2026-08-05T15:26:09+00:00",
+      "fetched": "2026-08-05T19:08:30.735890+00:00"
+    },
+    {
+      "id": "bbc420d7759dde31",
+      "title": "Koe Wetzel Is Singing With Ella Langley and Leaving His Hard-Partying Days Behind",
+      "link": "https://www.rollingstone.com/music/music-features/koe-wetzel-favorite-duet-partner-ella-langley-interview-1235603905/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“This is definitely the curtain call for how things have been up to this point,” says the Texas roughhouser, who drops the new Langley collab “Jaded.”",
+      "published": "2026-08-05T15:07:13+00:00",
+      "fetched": "2026-08-05T19:08:30.735921+00:00"
+    },
     {
       "id": "c40bc6c880b66d24",
       "title": "Sophie Fleur de Bruijn, Whose Spec Script ‘The One Month Mark’ Sold to Apple With Jennifer Lawrence Attached, Signs With CAA (EXCLUSIVE)",
@@ -1302,206 +1502,6 @@
       "summary": "Ben McKenzie believes he knows why the major streaming services weren t interested in licensing Everyone Is Lying to You for Money. His new documentary takes on the cryptocurrency industry, portraying the controversial digital currency as corrupt and in dire need of more regulations. But the film is being released as President Donald Trump has profited [ ]",
       "published": "2026-08-03T14:00:00+00:00",
       "fetched": "2026-08-03T14:08:32.452401+00:00"
-    },
-    {
-      "id": "bc3f2d82268f605c",
-      "title": "Fans Pay Tribute to Glen Hansard at Public Wake in Dublin",
-      "link": "https://www.rollingstone.com/music/music-news/glen-hansard-public-wake-dublin-1235602420/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The musician's funeral will take place at St. Patrick’s Cathedral in Dublin on Tuesday, with musical performances expected from his friends and family",
-      "published": "2026-08-03T13:55:11+00:00",
-      "fetched": "2026-08-03T14:08:32.617900+00:00"
-    },
-    {
-      "id": "871c6bbeaebb2a08",
-      "title": "Scott Pelley, Sharyn Alfonsi Take Journalist-in-Residence Roles at Columbia University",
-      "link": "https://variety.com/2026/tv/news/scott-pelley-sharyn-alfonsi-journalist-residence-columbia-1236826307/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The stopwatch keeps ticking after 60 Minutes. Sharyn Alfonsi and Scott Pelley were both named journalists-in-residence at Columbia University s School of Journalism Monday, a position that will be in place for the 2026-2027 academic term. The two former 60 Minutes correspondents will work with students through lectures, workshops and special events, and they will each [ ]",
-      "published": "2026-08-03T13:23:42+00:00",
-      "fetched": "2026-08-03T14:08:32.452448+00:00"
-    },
-    {
-      "id": "9d0cddd59eb6cc4a",
-      "title": "‘Spider-Man: Brand New Day’ Sets Imax Release as ‘The Odyssey’ Exclusive Run Ends",
-      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-imax-release-odyssey-exclusive-run-ends-1236826306/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spider-Man: Brand New Day will (finally!) swing to Imax on Aug. 6. Sony and Marvel s web-slinging adventure didn t play on the company s premium screens during its first few days in theaters because Christopher Nolan s The Odyssey commanded the network s entire domestic footprint for three weekends.",
-      "published": "2026-08-03T13:20:38+00:00",
-      "fetched": "2026-08-03T14:08:32.452501+00:00"
-    },
-    {
-      "id": "7495889b23c3933a",
-      "title": "CNN Appoints Stefano Pozzebon as Rome Correspondent, Boosting European Coverage (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/global/cnn-stefano-pozzebon-rome-correspondent-european-coverage-1236826222/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "CNN has announced the appointment of award-winning Italian journalist Stefano Pozzebon as an international correspondent based in its Rome bureau. Pozzebon will be responsible for covering major news stories in Italy and across Europe for CNN’s linear and digital platforms. He will work alongside CNN Vatican Correspondent Christopher Lamb, who leads CNN s coverage of the Vatican and the [ ]",
-      "published": "2026-08-03T13:15:00+00:00",
-      "fetched": "2026-08-03T14:08:32.452555+00:00"
-    },
-    {
-      "id": "ad96506f9903b560",
-      "title": "Outplay Films Nabs Tom Tykwer-Produced Locarno Competition Title ‘I Rarely Wake Up Dreaming’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/outplay-films-tom-tykwer-locarno-i-rarely-wake-up-dreaming-1236826274/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Isabelle Stever s Locarno main competition title I Rarely Wake Up Dreaming, produced by Tom Tykwer, has been picked up for world sales by France s Outplay Films. Produced by Tykwer and Uwe Schott at Berlin-based X Filme Creative Pool and written by Anna Melikova, the film follows Olya and Oleh, a young queer Ukrainian couple whose [ ]",
-      "published": "2026-08-03T13:01:01+00:00",
-      "fetched": "2026-08-03T14:08:32.452603+00:00"
-    },
-    {
-      "id": "776f237e0e6d269e",
-      "title": "‘Warhammer 40,000’ Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A Warhammer 40,000 animated event series is in development from Amazon MGM Studios, Blur Studios, and Games Workshop, Variety has learned exclusively. In addition, Henry Cavill who is attached to lead a live-action Warhammer 40,000 series currently in development at Amazon will executive produce the animated series as well. It is being developed [ ]",
-      "published": "2026-08-03T13:00:00+00:00",
-      "fetched": "2026-08-03T14:08:32.452651+00:00"
-    },
-    {
-      "id": "86065ef81b3f1cc5",
-      "title": "50 Years Ago Today: The Who Kick Off Their Final Tour With Keith Moon",
-      "link": "https://www.rollingstone.com/music/music-features/50-years-ago-the-who-final-keith-moon-tour-1235601643/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "On Aug. 3, 1976, the classic lineup of the Who played an explosive show in Maryland. No one knew it'd be the last tour for the drummer Moon, who died two years later",
-      "published": "2026-08-03T13:00:00+00:00",
-      "fetched": "2026-08-03T14:08:32.617939+00:00"
-    },
-    {
-      "id": "3bb0d54f2d4ac8ca",
-      "title": "CBS News Correspondent Trevor Phillips Says Editor-in-Chief Bari Weiss ‘Will Either Change the World or Crash and Burn’",
-      "link": "https://variety.com/2026/tv/global/cbs-news-trevor-phillips-bari-weiss-change-the-world-1236826236/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Recently appointed CBS News correspondent Trevor Phillips has given a typically forthright assessment of his new boss, Bari Weiss. “Bari and her team have a huge tanker of a network news organisation to turn around, and they are assembling a little team on the bridge,” he told The Daily Telegraph. “The great thing about her [ ]",
-      "published": "2026-08-03T10:35:09+00:00",
-      "fetched": "2026-08-03T14:08:32.452702+00:00"
-    },
-    {
-      "id": "059f2b4f83d725a4",
-      "title": "‘Peaky Blinders’ Helps U.K. Region Land Official Production Hub Status From British Film Commission",
-      "link": "https://variety.com/2026/tv/global/peaky-blinders-uk-west-midlands-official-production-hub-1236826227/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Peaky Blinders may have given closely clipped back and sides haircuts a new lease of life, but it s now helped a region of the U.K. land official backing as a center for high-end productions. The British Film Commission has announced that the West Midlands, home to the city of Birmingham and where Peaky Blinders is [ ]",
-      "published": "2026-08-03T09:51:37+00:00",
-      "fetched": "2026-08-03T14:08:32.452750+00:00"
-    },
-    {
-      "id": "ae508ee97285489a",
-      "title": "‘Sunday in the Park with George’ Producers Confirm Summer 2027 Show Will Go On ‘As Planned’ After Ariana Grande Exits",
-      "link": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-summer-2027-launch-1236826224/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The London production of “Sunday in the Park With George” is set to go ahead as planned despite Ariana Grande exiting the show. The Stephen Sondheim revival, which also stars Grande s Wicked co-star Jonathan Bailey, was scheduled to premiere at London s Barbican next summer with producers set to launch ticket sales after Grande completed the [ ]",
-      "published": "2026-08-03T09:46:55+00:00",
-      "fetched": "2026-08-03T14:08:32.452809+00:00"
-    },
-    {
-      "id": "fc431bbf3b96d61d",
-      "title": "Action Man Movie, Based on Iconic British Toy Originally Inspired by ‘G.I. Joe,’ in Development With Working Title and Hasbro",
-      "link": "https://variety.com/2026/film/global/action-man-movie-toy-working-title-hasbro-1236825801/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Action Man — the iconic British action figure that first launched in 1966 — is getting the movie treatment. Variety has confirmed that an Action Man film is being developed by U.K. powerhouse studio Working Title alongside Hasbro, who own the licence and whose own G.I.",
-      "published": "2026-08-03T08:28:37+00:00",
-      "fetched": "2026-08-03T09:01:56.515375+00:00"
-    },
-    {
-      "id": "fdbde9df93a5c9d8",
-      "title": "Woody Harrelson to Be Honored at Sarajevo Film Festival",
-      "link": "https://variety.com/2026/film/global/woody-harrelson-sarajevo-film-festival-1236826197/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Woody Harrelson will be awarded the Honorary Heart of Sarajevo at the 32nd Sarajevo Film Festival in recognition of his outstanding contribution to the film industry and an exceptional acting career, the festival said Monday. The news follows announcements over the weekend that the festival would close with a newly restored version of Bosnian director [ ]",
-      "published": "2026-08-03T08:01:44+00:00",
-      "fetched": "2026-08-03T09:01:56.515421+00:00"
-    },
-    {
-      "id": "fe7476df964974ec",
-      "title": "Erik Poppe’s ‘Beloved’ to Open Haugesund: ‘All Eyes Are on Norway,’ Says Festival Chief Tonje Hardersen",
-      "link": "https://variety.com/2026/film/global/erik-poppe-nikolaj-coster-waldau-norway-haugesund-1236826201/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After the World Cup where Norway made a splash with its wealth of soccer talent – led by Erling Haaland and Martin Ødegaard – the Nordic nation will be showcasing some of its biggest film talents at the 54th edition of the Norwegian International Film Festival in Haugesund, running Aug. 22-28. Out of 84 feature length [ ]",
-      "published": "2026-08-03T08:00:00+00:00",
-      "fetched": "2026-08-03T09:01:56.515466+00:00"
-    },
-    {
-      "id": "4bd1562ab23314aa",
-      "title": "Massive Attack Addresses Singapore Concert Aftermath in New Statement",
-      "link": "https://variety.com/2026/music/news/massive-attack-duo-banned-singapore-palestinian-flag-1236825534/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "UPDATED: Massive Attack has addressed the aftermath of the Singapore concert in a statement posted to Instagram. The band said its members were detained by the police, isolated and separately questioned following the show, and described some members undergoing hotel room searches and temporary passport confiscation as part of the process. The band said the [ ]",
-      "published": "2026-08-03T07:22:16+00:00",
-      "fetched": "2026-08-03T09:01:56.515504+00:00"
-    },
-    {
-      "id": "f2184f6c86aa69ba",
-      "title": "Massive Attack Respond to Being Banned From Singapore Over Displaying Palestinian Flag",
-      "link": "https://www.rollingstone.com/music/music-news/massive-attack-singapore-palestinian-flag-response-1235602364/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"We did not imagine that merely holding up the flag of a sovereign state recognized by 157 countries would violate any law\"",
-      "published": "2026-08-03T06:49:28+00:00",
-      "fetched": "2026-08-03T09:01:56.785591+00:00"
-    },
-    {
-      "id": "89fac3fbe72ce9fc",
-      "title": "Korea Box Office: ‘Spider-Man: Brand New Day’ Captures 81% Market Share in Colossal Debut",
-      "link": "https://variety.com/2026/film/box-office/korea-box-office-spider-man-brand-new-day-81-percent-market-share-1236826175/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Superhero blockbuster Spider-Man: Brand New Day has delivered a huge opening at the South Korean box office during the weekend of Jul. 31–Aug. 2.",
-      "published": "2026-08-03T06:25:29+00:00",
-      "fetched": "2026-08-03T09:01:56.515548+00:00"
-    },
-    {
-      "id": "13eed11099f8970d",
-      "title": "China Box Office: ‘Spider-Man: Brand New Day’ Swings to Massive $121 Million Five-Day Opening",
-      "link": "https://variety.com/2026/film/box-office/china-box-office-spider-man-brand-new-day-121-million-1236826171/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sony Pictures superhero spectacle Spider-Man: Brand New Day swung into the top spot at the mainland China box office during the July 31–Aug. 2 weekend, generating RMB463.5 million ($68.1 million over its three-day opening frame, according to Artisan Gateway. The tentpole project has grossed $121.3 million in the Middle Kingdom in its first five days [ ]",
-      "published": "2026-08-03T05:55:18+00:00",
-      "fetched": "2026-08-03T09:01:56.515591+00:00"
-    },
-    {
-      "id": "a4ed72350d27a7dc",
-      "title": "Imtiaz Ali, Anurag Kashyap Team to Present Coming-of-Age Film ‘Bobby Beauty Parlour’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/imtiaz-ali-anurag-kashyap-bobby-beauty-parlour-1236825106/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Indian auteurs Imtiaz Ali and Anurag Kashyap have come together to present Bobby Beauty Parlour, a coming-of-age short film premiering during Friendship Week. Directed by Shashwat Dwivedi, Bobby Beauty Parlour follows childhood best friends Eelu and Manu, who spend their last hours together drinking, napping and bickering in a neighborhood beauty parlor, unwilling to let [ ]",
-      "published": "2026-08-03T04:30:00+00:00",
-      "fetched": "2026-08-03T09:01:56.515643+00:00"
-    },
-    {
-      "id": "0efb8fe73038918c",
-      "title": "‘House of the Dragon’: Gayle Rankin on That ‘F — ed Up’ Aemond-Alys-Alicent Scene, ‘Unbearable’ Family Dinner and Dragon Egg Plans",
-      "link": "https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 7 of “House of the Dragon,” now streaming on HBO Max. Gayle Rankin s Alys Rivers has dealt with an Oedipus complex before during her time at Harrenhal, but this week s “House of the Dragon” marked the first time Alys was directly dragged into the Targaryens incestuous [ ]",
-      "published": "2026-08-03T02:00:00+00:00",
-      "fetched": "2026-08-03T09:01:56.515689+00:00"
-    },
-    {
-      "id": "17eb507aa16d150f",
-      "title": "‘Jimmy’ Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin’s Spirit",
-      "link": "https://variety.com/2026/film/reviews/jimmy-review-1236826059/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "If not me, who? said actor Billy Porter in a 2024 Guardian interview, explaining the rationale for his plan to direct and star in a biopic of Black queer author and activist James Baldwin. Who’s going to tell it better than the Black gay man who embodies that in today’s age?",
-      "published": "2026-08-03T00:13:33+00:00",
-      "fetched": "2026-08-03T01:22:56.553766+00:00"
     }
   ]
 }
