@@ -1,8 +1,168 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-05T08:11:15.025043+00:00",
+  "updated": "2026-08-05T13:28:39.128994+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c40bc6c880b66d24",
+      "title": "Sophie Fleur de Bruijn, Whose Spec Script ‘The One Month Mark’ Sold to Apple With Jennifer Lawrence Attached, Signs With CAA (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/sophie-fleur-de-bruijn-mark-apple-jennifer-lawrence-caa-1236828191/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "U.S. playwright-writer-director and performer Sophie Fleur de Bruijn, whose original romantic comedy spec script The One Month Mark recently sold to Apple, with Jennifer Lawrence attached, has signed for representation with CAA. De Bruijn has been making a splash in Hollywood with her spec scripts and directed the social horror-comedy Polycule, written by Cal Bolster [ ]",
+      "published": "2026-08-05T13:25:03+00:00",
+      "fetched": "2026-08-05T13:28:38.806064+00:00"
+    },
+    {
+      "id": "28c3b4cb6df4a083",
+      "title": "Disney Says Commercials for Super Bowl LXI Have Sold Out",
+      "link": "https://variety.com/2026/tv/news/disney-super-bowl-commercials-sell-out-1236828270/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney said it had sold out all its commercial inventory tied to its coming 2027 telecast of Super Bowl LXI, showing a remarkable push to a financial touchdown that seemed in danger of being blocked just a few weeks ago. Hugh Johnston, the company s chief financial officer, announced the close out of ad sales tied [ ]",
+      "published": "2026-08-05T13:24:52+00:00",
+      "fetched": "2026-08-05T13:28:38.806115+00:00"
+    },
+    {
+      "id": "7099b9320b135cea",
+      "title": "Disney Looking to Launch Free Streaming Channels as CEO Josh D’Amaro Doubles Down on the Streaming Biz",
+      "link": "https://variety.com/2026/tv/news/disney-free-streaming-channels-launch-josh-damaro-1236828249/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney is looking to join the free streaming channel boom as newly named CEO Josh D Amaro doubles down on streaming as one of two key pillars to drive future growth. During Disney s quarterly earnings call, D Amaro confirmed that Disney is considering launching FAST channels as a means of expanding its streaming advertising industry and for [ ]",
+      "published": "2026-08-05T13:20:01+00:00",
+      "fetched": "2026-08-05T13:28:38.806163+00:00"
+    },
+    {
+      "id": "25fc5ec1af131844",
+      "title": "Prime Video’s Stunning Drama ’Sterling Point’ Elevates the YA Genre Beyond the Mundane: TV Review",
+      "link": "https://variety.com/2026/tv/reviews/sterling-point-review-prime-video-1236827553/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "There is a plethora of recent YA television series across streamers and networks, including The Summer I Turned Pretty, Off Campus, “Cruel Intentions, and Every Year After (which all happen to be Prime Video series). However, these shows tend to zero in on romance, focusing almost solely on those initial feelings of love and sexual [ ]",
+      "published": "2026-08-05T13:15:00+00:00",
+      "fetched": "2026-08-05T13:28:38.806217+00:00"
+    },
+    {
+      "id": "eebccc525397641a",
+      "title": "Disney CEO Admits ‘Star Wars: The Mandalorian and Grogu’ and ‘Moana’ Failed at Box Office but ‘Fueled Other Parts of Our Company’",
+      "link": "https://variety.com/2026/film/news/disney-ceo-moana-mandalorian-grogu-box-office-flops-1236828236/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney CEO Josh D Amaro admitted on the company s latest earnings call that Star Wars: The Mandalorian and Grogu and the live-action Moana remake both underperformed at the box office this summer, although he maintained that both titles were not outright busts for the studio as they contributed to merchandise sales, drove people to theme parks [ ]",
+      "published": "2026-08-05T13:06:18+00:00",
+      "fetched": "2026-08-05T13:28:38.806263+00:00"
+    },
+    {
+      "id": "217da5157e63f8fe",
+      "title": "Weezer Go Back in Time for ‘C.E.O.’ Music Video",
+      "link": "https://www.rollingstone.com/music/music-news/weezer-ceo-music-video-tony-hawk-tour-dates-1235603846/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rock band tapped Tony Hawk, Giovanni Ribisi, Michael Peña, Rob Riggle, and Rob Huebel for the throwback clip",
+      "published": "2026-08-05T13:04:36+00:00",
+      "fetched": "2026-08-05T13:28:38.993632+00:00"
+    },
+    {
+      "id": "604c0e01b01a6247",
+      "title": "‘Resident Evil Requiem’ Stars Nick Apostolides, Angela Sant’Albano to Host Gamescom’s Future Games Show (EXCLUSIVE)",
+      "link": "https://variety.com/2026/gaming/news/future-games-show-hosts-resident-evil-requiem-1236828231/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Resident Evil Requiem” stars Nick Apostolides and Angela Sant Albano will co-host the Future Games Show at gamescom on Aug. 26. Best known for playing Leon S.",
+      "published": "2026-08-05T13:00:56+00:00",
+      "fetched": "2026-08-05T13:28:38.806314+00:00"
+    },
+    {
+      "id": "630a7f6f6b32fd34",
+      "title": "Jonny Greenwood, Alexandre Desplat, Hildur Guðnadóttir Among World Soundtrack Awards Contenders",
+      "link": "https://variety.com/2026/film/news/world-soundtrack-awards-nominations-2026-1236828206/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jonny Greenwood, Alexandre Desplat and Hildur Guðnadóttir are among the nominees for Film Composer of the Year at the 26th edition of the World Soundtrack Awards, which takes place on Oct. 10. Greenwood, Radiohead’s lead guitarist, was the composer for Paul Thomas Anderson’s “One Battle After Another.” His film scoring career has been defined by [ ]",
+      "published": "2026-08-05T13:00:00+00:00",
+      "fetched": "2026-08-05T13:28:38.806361+00:00"
+    },
+    {
+      "id": "2e923e2561f51234",
+      "title": "‘A Soulless Demon’: D4vd’s Path From Pop Star to Accused Killer",
+      "link": "https://www.rollingstone.com/music/music-features/d4vd-murder-trial-celeste-rivas-hernandez-1235601172/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "David Burke’s moody music made him a Gen Z sensation. But authorities say he was hiding a shocking secret: the gruesome murder and dismemberment of 14-year-old Celeste Rivas Hernandez",
+      "published": "2026-08-05T13:00:00+00:00",
+      "fetched": "2026-08-05T13:28:38.993675+00:00"
+    },
+    {
+      "id": "d19b1132780e2e9e",
+      "title": "Nia Smith on Conducting the Perfect At-Home Listening Experience",
+      "link": "https://www.rollingstone.com/music/music-news/nia-smith-crafting-the-perfect-home-listening-experience-1235597373/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "",
+      "published": "2026-08-05T12:58:51+00:00",
+      "fetched": "2026-08-05T13:28:38.993695+00:00"
+    },
+    {
+      "id": "010236721fa575b2",
+      "title": "Is That Cameron Winter on Phoebe Bridgers’ New Album?",
+      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-cameron-winter-lost-weekend-1235600345/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "A mysterious singer with the pseudonym \"Son John-Johnson\" is credited on the Lost Weekend tracks \"Kill Me\" and \"I Can't Wait.\" He sure sounds a lot like Geese's frontman",
+      "published": "2026-08-05T12:12:34+00:00",
+      "fetched": "2026-08-05T13:28:38.993727+00:00"
+    },
+    {
+      "id": "e2be67da5aae4089",
+      "title": "Charlie Puth on Finding His Way in Fashion and Family: ‘I Know What Feels Like Me’",
+      "link": "https://www.rollingstone.com/product-recommendations/style/charlie-puth-lucky-brand-jeans-campaign-2026-photos-shop-1235603743/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer and new dad talks about fronting a new campaign for Lucky Brand denim and how fatherhood has changed his outlook on life",
+      "published": "2026-08-05T12:00:00+00:00",
+      "fetched": "2026-08-05T13:28:38.993757+00:00"
+    },
+    {
+      "id": "c3292fc0dce7f97a",
+      "title": "Prateek Kuhad to Make Feature Film Acting Debut in Marginal MediaWorks, D36 and Jugaad’s ‘Drowning,’ Directed by Dar Gai (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/prateek-kuhad-feature-film-acting-debut-drowning-dar-gai-1236828131/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Prateek Kuhad, the Indian singer-songwriter known for hits including Cold/Mess and Kasoor, will make his feature film acting debut in Drowning ( Doobna in Hindi/Urdu), Marginal MediaWorks has revealed. Directed by Dar Gai and shot on location in New Delhi, the film marks Marginal s first fiction feature produced in South Asia, in partnership with Los Angeles-based [ ]",
+      "published": "2026-08-05T11:00:00+00:00",
+      "fetched": "2026-08-05T13:28:38.806409+00:00"
+    },
+    {
+      "id": "bb91b9d769369aae",
+      "title": "Disney Streaming Profit Doubles in June Quarter, Company Shifting Consumer Products to Studios Division",
+      "link": "https://variety.com/2026/tv/news/disney-streaming-earnings-q3-2026-consumer-products-shift-1236827893/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney posted mixed results for the June 2026 quarter, as Disney+ and Hulu continued to boost profits and the theme parks division turning in solid performance. And Disney CEO Josh D Amaro revealed his latest move to restructure the media conglomerate s operations: He s moving most of consumer products out of Disney Experiences and into the entertainment [ ]",
+      "published": "2026-08-05T10:36:25+00:00",
+      "fetched": "2026-08-05T13:28:38.806450+00:00"
+    },
+    {
+      "id": "ace5a990f348cdba",
+      "title": "‘The Mummy’ Poster Ads Banned From London Underground After Advertising Watchdog Cites ‘Distressing’ Imagery",
+      "link": "https://variety.com/2026/film/news/the-mummy-poster-ads-banned-london-underground-1236828159/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The U.K. Advertising Standards Authority has ruled that outdoor poster ads for Lee Cronin s The Mummy breached its code by presenting an image that gave a realistic impression of a dead child, while clearing companion TV and streaming spots for the same campaign. The ASA investigated four issues stemming from several complaints about ads for [ ]",
+      "published": "2026-08-05T10:11:30+00:00",
+      "fetched": "2026-08-05T13:28:38.806495+00:00"
+    },
+    {
+      "id": "b20a6e0abe2982d0",
+      "title": "Colman Domingo Says Final Season of ‘Euphoria’ ‘Meant Everything’ to Him",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/colman-domingo-euphoria-final-season-fallon-1235603853/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"He gave me the arc of a lifetime,\" the actor said of the show's creator Sam Levinson",
+      "published": "2026-08-05T08:53:59+00:00",
+      "fetched": "2026-08-05T13:28:38.993798+00:00"
+    },
     {
       "id": "368d111b20ea745a",
       "title": "‘Ted Lasso’ Season 4 Is Both a Promising Reboot and a Tedious Sequel: TV Review",
@@ -1342,166 +1502,6 @@
       "summary": "If not me, who? said actor Billy Porter in a 2024 Guardian interview, explaining the rationale for his plan to direct and star in a biopic of Black queer author and activist James Baldwin. Who’s going to tell it better than the Black gay man who embodies that in today’s age?",
       "published": "2026-08-03T00:13:33+00:00",
       "fetched": "2026-08-03T01:22:56.553766+00:00"
-    },
-    {
-      "id": "58d38e4b5355d4dd",
-      "title": "Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: ‘People Were Coming to Say Goodbye’",
-      "link": "https://variety.com/2026/music/news/phil-collins-almost-died-2024-alcohol-abuse-1236826098/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Phil Collins recently told The Times of London that he almost died in 2024 from health complications stemming from alcohol abuse. The Genesis frontman explained that he was initially admitted to a Swiss hospital for alcohol addiction in late 2023. He was discharged at first, but was brought back in shortly after and placed into [ ]",
-      "published": "2026-08-02T23:01:43+00:00",
-      "fetched": "2026-08-03T01:22:56.553824+00:00"
-    },
-    {
-      "id": "5e8179b9e1584a47",
-      "title": "Pima County Sheriff’s Department Made Several Mistakes During Search for Nancy Guthrie, New Report Claims",
-      "link": "https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A new report from the Wall Street Journal, published Saturday night, brings to light several possible errors by the Pima County Sheriff’s Department during its search for Nancy Guthrie, which has seen little progress since it began in February. The WSJ, citing personal files and interviews with current and former federal officers and individuals close [ ]",
-      "published": "2026-08-02T22:13:10+00:00",
-      "fetched": "2026-08-03T01:22:56.553879+00:00"
-    },
-    {
-      "id": "bd128a5f722661c8",
-      "title": "Christopher Nolan Says There Is a ‘Fundamental Flaw’ With Amateur Film Criticism: ‘To Identify the Mechanism Does Not Invalidate the Mechanism’",
-      "link": "https://variety.com/2026/film/news/christopher-nolan-flaw-film-criticism-the-odyssey-1236826067/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Critics have said their piece about Christopher Nolan’s “The Odyssey,” and now he is saying his piece about them. While on “The Odyssey” press tour, the director spoke with podcaster Zhong Shu about “a fundamental flaw of film criticism” he sees with amateur critics. “The criticism that’s often leveled at movies in general is, ‘Oh, [ ]",
-      "published": "2026-08-02T21:56:02+00:00",
-      "fetched": "2026-08-03T01:22:56.553934+00:00"
-    },
-    {
-      "id": "117efd6cb3ddcf2d",
-      "title": "Trueno, Milo J, and J Noa Fire Up Summerstage",
-      "link": "https://www.rollingstone.com/music/music-pictures/trueno-milo-j-j-noa-summerstage-photos-1235602262/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "If anyone happened to pass by Central Park s Rumsey Playfield on Saturday night, it was clear there wasn’t just any event going on. Thousands of fans flooded the area, brimming with excitement as they counted down to see Trueno, Milo J, and J Noa take on Capital One City Parks Foundation SummerStage. This show had [ ]",
-      "published": "2026-08-02T20:43:36+00:00",
-      "fetched": "2026-08-03T01:22:56.916049+00:00"
-    },
-    {
-      "id": "e2b3d34305b3cf24",
-      "title": "Ariana Grande to Take ‘Step Back From Visibility’ After Tour Ends Amid ‘Public Scrutiny,’ Drops Out of ‘Sunday in the Park With George’ Musical",
-      "link": "https://variety.com/2026/music/news/ariana-grande-step-back-public-scrutiny-sunday-in-the-park-1236826037/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ariana Grande is stepping out of the spotlight for an extended break after she wraps her Eternal Sunshine Tour, a rep for the actress and pop star told People. The rep s statement cited ongoing public scrutiny as one of the reasons for the pause. “Ariana will be taking a step back from visibility after she [ ]",
-      "published": "2026-08-02T19:56:49+00:00",
-      "fetched": "2026-08-03T01:22:56.553986+00:00"
-    },
-    {
-      "id": "d4b24bdc71fb99db",
-      "title": "Ariana Grande Taking a ‘Step Back’ From Public Life After Tour",
-      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"She looks forward to finishing the tour and ending it on a high note, both healthily and happily, and then taking a much-deserved break\"",
-      "published": "2026-08-02T19:54:08+00:00",
-      "fetched": "2026-08-03T01:22:56.916089+00:00"
-    },
-    {
-      "id": "df36480eb0005b3b",
-      "title": "Morgan Wallen Returns to No. 1, Charli xcx Earns Top Three Debut on Albums Chart",
-      "link": "https://variety.com/2026/music/news/morgan-wallen-returns-no-1-charli-xcx-top-three-chart-1236826032/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Morgan Wallen has returned to No. 1 on the Billboard 200 with I m the Problem for a 14th non-consecutive week, while Charli xcx debuts at No. 3 with her eighth album Music, Fashion, Film.",
-      "published": "2026-08-02T19:26:50+00:00",
-      "fetched": "2026-08-03T01:22:56.554034+00:00"
-    },
-    {
-      "id": "c1c7fdaf7f39fe1e",
-      "title": "‘Hadestown’ Parts Ways With Hades Actor Geno Segers After Online Controversy",
-      "link": "https://variety.com/2026/theater/news/broadways-hadestown-geno-segers-online-controversy-1236826009/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Geno Segers, who was announced this week to join Broadway’s “Hadestown,” will no longer be part of the Broadway production. “Hadestown” announced a new principal cast earlier this week, with Segers set to play Hades. His previous stage credits include “On the Town” and “The Lion King” as well as TV roles in “Banshee,” “Pair [ ]",
-      "published": "2026-08-02T18:51:25+00:00",
-      "fetched": "2026-08-03T01:22:56.554082+00:00"
-    },
-    {
-      "id": "48a63c0cc7b7f1d6",
-      "title": "See Madonna Bring Out Kylie Minogue to Preview ‘Love Sensation’ Remix in Amsterdam",
-      "link": "https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-remix-amsterdam-1235602313/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Material Girl also performs Confessions on a Dance Floor 's \"Sorry\" live for first time since 2008 at WorldPride Amsterdam's Club Confessions gig",
-      "published": "2026-08-02T18:33:18+00:00",
-      "fetched": "2026-08-02T18:47:47.298915+00:00"
-    },
-    {
-      "id": "fbc1ae062bc19516",
-      "title": "‘Spider-Man: Brand New Day’ Obliterates Expectations With $927 Million Global Debut",
-      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "All hail Peter Parker. Sony and Marvel s web-slinging adventure Spider-Man: Brand New Day climbed to $927 million globally, a mind-blowing, jaw-dropping and totally epic opening weekend haul. Few films manage to earn that much by the end of their box office runs, much less after three days on the big screen.",
-      "published": "2026-08-02T16:46:52+00:00",
-      "fetched": "2026-08-02T18:47:47.094559+00:00"
-    },
-    {
-      "id": "a7c2554c7912b48a",
-      "title": "Phil Collins Reveals He Nearly Died in 2024 Amid Battle With Alcohol Addiction",
-      "link": "https://www.rollingstone.com/music/music-news/phil-collins-reveals-nearly-died-2024-alcohol-addiction-1235602301/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"My kidneys were packing up, my organs were just seizing up,” Collins told the Sunday Times . \"People were coming to say goodbye.\"",
-      "published": "2026-08-02T16:34:15+00:00",
-      "fetched": "2026-08-02T18:47:47.298951+00:00"
-    },
-    {
-      "id": "45bc869ba716e090",
-      "title": "‘Wonder Man’ Co-Creator Says ‘Contracts Were Signed, Schedules Were Cleared’ Before Marvel Series Was Canceled: ‘This Is Not a Marketing Stunt’",
-      "link": "https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Wonder Man” showrunner and co-creator Andrew Guest took to TikTok on Saturday to thank fans and share his thoughts about the Marvel Television drama’s cancellation. “Just want to say I’ve been listening,” Guest said. “I appreciate you all.",
-      "published": "2026-08-02T16:10:35+00:00",
-      "fetched": "2026-08-02T18:47:47.094617+00:00"
-    },
-    {
-      "id": "e4794ba0c7673dbb",
-      "title": "‘Spider-Man: Brand New Day’ and ‘The Odyssey’ Power Biggest Collective Weekend in Box Office History With $430 Million",
-      "link": "https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A powerful one-two punch from Spider-Man: Brand New Day and The Odyssey has fueled the biggest collective weekend in box office history, with roughly $430 million across all movies in the marketplace. Prior to this, the top three weekends were led by “Avengers: Endgame” ($402 million collectively), 2018 s “Avengers: Infinity War” ($314 million collectively) and [ ]",
-      "published": "2026-08-02T16:09:06+00:00",
-      "fetched": "2026-08-02T18:47:47.094666+00:00"
-    },
-    {
-      "id": "b7aecb4064f3f13d",
-      "title": "21 Best Movies New to Streaming in August: ‘Michael,’ ‘Mother Mary,’ ‘Oppenheimer’ Back on Peacock and More",
-      "link": "https://variety.com/lists/best-movies-streaming-august-2026/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Looking to watch the biggest movies of the year? You ll have to go to the theater this August to catch The Odyssey and Spider-Man: Brand New Day, but coming home is the Michael Jackson biopic Michael after a historic box office run earlier this year. The movie became the second title of 2026 to cross [ ]",
-      "published": "2026-08-02T15:59:02+00:00",
-      "fetched": "2026-08-02T18:47:47.094707+00:00"
-    },
-    {
-      "id": "d2862b5ac3ab7644",
-      "title": "Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Grammy winner Dean celebrated breaking a U.K. chart record with surprise guest Sam Fender",
-      "published": "2026-08-02T15:24:43+00:00",
-      "fetched": "2026-08-02T18:47:47.298974+00:00"
-    },
-    {
-      "id": "30bee2b96f6221cd",
-      "title": "‘Spider-Man: Brand New Day’ Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
-      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With great power comes truly heroic ticket sales. Sony and Marvel s comic book adventure Brand New Day obliterated box office expectations, collecting a jaw-dropping $355 million from 4,487 North American theaters. It s the second-biggest debut in domestic box office history, following 2019 s Avengers: Endgame with $357 million, not adjusted for inflation.",
-      "published": "2026-08-02T15:03:20+00:00",
-      "fetched": "2026-08-02T18:47:47.094752+00:00"
     }
   ]
 }

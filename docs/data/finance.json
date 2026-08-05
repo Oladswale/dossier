@@ -1,8 +1,268 @@
 {
   "category": "finance",
-  "updated": "2026-08-05T08:11:11.200306+00:00",
+  "updated": "2026-08-05T13:28:35.506697+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5397a6a0167b6af1",
+      "title": "3 reasons AMD’s stock is falling in the face of its latest earnings report",
+      "link": "https://www.marketwatch.com/story/3-reasons-amds-stock-is-falling-in-the-face-of-its-latest-earnings-report-c2e16c71?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analysts noted that the company delivered muted upside with its results, underwhelmed some investors with its margin outlook and was simply up against high expectations.",
+      "published": "2026-08-05T12:59:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776216+00:00"
+    },
+    {
+      "id": "e87a944a8a91cf23",
+      "title": "The S&P 500 just hit a new high. ‘Big Short’ investor Michael Burry thinks it could bring a 1987-style fall.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-just-hit-a-new-high-big-short-investor-michael-burry-thinks-it-could-bring-a-1987-style-fall-775c3b95?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The famed investor says watch out after that S P 500 surge on Tuesday. He’s not budging from some bearish tech views.",
+      "published": "2026-08-05T12:57:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776268+00:00"
+    },
+    {
+      "id": "15b11fbf21797b89",
+      "title": "Beyond Interest: AltBank Shifts Nigeria’s Capital Debate From Rates to Allocation",
+      "link": "https://nairametrics.com/2026/08/05/beyond-interest-altbank-shifts-nigerias-capital-debate-from-rates-to-allocation/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Alternative Bank (AltBank) recently hosted investors, entrepreneurs, wealth creators and institutional decision-makers to a private intelligence forum held in Victoria Island, Lagos. Themed ‘Beyond Interest: Capital, Innovation, and the Future of Wealth’, the forum was convened to advance the case for non-interest finance as a practical route to mobilising patient capital into Nigeria’s productive [ ] The post Beyond Interest: AltBank Shifts Nigeria s Capital Debate From Rates to Allocation appeared first on Nairametrics .",
+      "published": "2026-08-05T12:56:57+00:00",
+      "fetched": "2026-08-05T13:28:34.896865+00:00"
+    },
+    {
+      "id": "cab1221cd0d3ef8e",
+      "title": "Omowonuola Akintola wants Africa to build its geospatial future",
+      "link": "https://techcabal.com/2026/08/05/my-life-in-tech-omowonuola-akintola/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "An unmapped village. A community overlooked for development. A disaster response slowed by missing data.",
+      "published": "2026-08-05T12:44:49+00:00",
+      "fetched": "2026-08-05T13:28:35.506439+00:00"
+    },
+    {
+      "id": "644775372b8e2929",
+      "title": "Nigeria’s business activity hits five-month high in July – NESG",
+      "link": "https://nairametrics.com/2026/08/05/nigerias-business-activity-hits-five-month-high-in-july-nesg/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s business activity rebounded strongly in July 2026 as the Nigerian Economic Summit Group (NESG) Current Business Performance Index rose to 108.6 points, its highest level since February. The post Nigeria s business activity hits five-month high in July – NESG appeared first on Nairametrics .",
+      "published": "2026-08-05T12:35:18+00:00",
+      "fetched": "2026-08-05T13:28:34.896922+00:00"
+    },
+    {
+      "id": "d3108c11b60424a5",
+      "title": "The government owns some of the same stocks you do. Here’s why that is risky.",
+      "link": "https://www.marketwatch.com/story/the-government-owns-some-of-the-same-stocks-you-do-heres-why-that-is-risky-6ad6462d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Recent deals to have the U.S. take a stake in companies mark something new: Government ownership used as a standing industrial-policy tool rather than an emergency backstop.",
+      "published": "2026-08-05T12:30:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776304+00:00"
+    },
+    {
+      "id": "64eb174493744e95",
+      "title": "ADP says businesses add the fewest new jobs in six months. Labor market is still sluggish.",
+      "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "ADP said U.S. businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft.",
+      "published": "2026-08-05T12:25:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776341+00:00"
+    },
+    {
+      "id": "dac0665c9b384803",
+      "title": "Nigeria Customs hires just 0.7% of 573,680 job applicants",
+      "link": "https://nairametrics.com/2026/08/05/nigeria-customs-hires-just-0-7-of-573680-job-applicants/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigeria Customs Service (NCS) has offered employment to 3,852 candidates across its three entry cadres in its nationwide recruitment exercise, representing about 0.7% of the 573,680 applications received. The post Nigeria Customs hires just 0.7% of 573,680 job applicants appeared first on Nairametrics .",
+      "published": "2026-08-05T12:21:31+00:00",
+      "fetched": "2026-08-05T13:28:34.896965+00:00"
+    },
+    {
+      "id": "f6902ab1091a340d",
+      "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
+      "link": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Uber Technologies shares fell early Wednesday, despite the ride-hailing company registering earnings a tad above Wall Street estimates in the second quarter as a jump in passengers and deliveries boosted revenue.",
+      "published": "2026-08-05T12:19:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776372+00:00"
+    },
+    {
+      "id": "73bb3405380e6bb4",
+      "title": "Beta Glass appoints ‘Boye Olusanya as Chairman following Vitus Ezinwa’s departure",
+      "link": "https://nairametrics.com/2026/08/05/beta-glass-appoints-boye-olusanya-as-chairman-following-vitus-ezinwas-departure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Beta Glass Plc has appointed Mr. ‘Boye Olusanya as Chairman of its Board of Directors following the departure of Dr. Vitus Ezinwa, who had led the board since 2024.",
+      "published": "2026-08-05T12:05:53+00:00",
+      "fetched": "2026-08-05T13:28:34.897013+00:00"
+    },
+    {
+      "id": "63fdc51dfb9edd73",
+      "title": "Lilly’s revenue soars 48%, driven by demand for its GLP-1s",
+      "link": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Lilly’s sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.",
+      "published": "2026-08-05T12:01:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776401+00:00"
+    },
+    {
+      "id": "b5efcf4b28d1554f",
+      "title": "Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth",
+      "link": "https://www.marketwatch.com/story/walt-disneys-stock-climbs-as-company-cites-toy-story-5-for-earnings-growth-fe0c86c1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Walt Disney’s stock, which has been struggling all year, rallied on Wednesday as the entertainment giant reported surprisingly strong earnings.",
+      "published": "2026-08-05T11:42:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776441+00:00"
+    },
+    {
+      "id": "ddc8bf3b62a66e4e",
+      "title": "El Niño to push 6 million into hunger in West and Central Africa – WFP",
+      "link": "https://nairametrics.com/2026/08/05/el-nino-to-push-6-million-into-hunger-in-west-and-central-africa-wfp/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The strengthening El Niño weather pattern could push nearly six million additional people in West and Central Africa into acute food insecurity by the end of 2027, according to a new report released by the United Nations World Food Programme (WFP). The post El Niño to push 6 million into hunger in West and Central Africa – WFP appeared first on Nairametrics .",
+      "published": "2026-08-05T11:32:12+00:00",
+      "fetched": "2026-08-05T13:28:34.897066+00:00"
+    },
+    {
+      "id": "12778a73de3de0f9",
+      "title": "Reports of the 60/40 portfolio’s demise are proving to be premature",
+      "link": "https://www.marketwatch.com/story/reports-of-the-60-40-portfolios-demise-are-proving-to-be-premature-e339679f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The balanced stock-bond portfolio is defying the widespread argument that it is no longer an appropriate approach.",
+      "published": "2026-08-05T11:30:00+00:00",
+      "fetched": "2026-08-05T13:28:33.776467+00:00"
+    },
+    {
+      "id": "e5fa5d63ecd0781d",
+      "title": "Nigeria’s scheduled airline seat capacity rises 37% to 1.22 million in August",
+      "link": "https://nairametrics.com/2026/08/05/nigerias-scheduled-airline-seat-capacity-rises-37-to-1-22-million-in-august/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's scheduled airline seat capacity rose 37% year-on-year to 1.22 million seats in August 2026, recording the fastest growth among Africa's top aviation markets. The post Nigeria s scheduled airline seat capacity rises 37% to 1.22 million in August appeared first on Nairametrics .",
+      "published": "2026-08-05T11:24:28+00:00",
+      "fetched": "2026-08-05T13:28:34.897107+00:00"
+    },
+    {
+      "id": "a35e8620f3101172",
+      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+      "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+      "published": "2026-08-05T11:13:46+00:00",
+      "fetched": "2026-08-05T13:28:34.571230+00:00"
+    },
+    {
+      "id": "27784ff4466b6c67",
+      "title": "WAEC releases 2026 WASSCE results",
+      "link": "https://nairametrics.com/2026/08/05/waec-releases-2026-wassce-results/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The West African Examinations Council (WAEC) has released the results of the 2026 West African Senior School Certificate Examination (WASSCE) for School Candidates. The post WAEC releases 2026 WASSCE results appeared first on Nairametrics .",
+      "published": "2026-08-05T11:01:54+00:00",
+      "fetched": "2026-08-05T13:28:34.897140+00:00"
+    },
+    {
+      "id": "89767166bc10e316",
+      "title": "Moove becomes Africa’s latest unicorn after $250 million funding",
+      "link": "https://nairametrics.com/2026/08/05/moove-becomes-africas-latest-unicorn-after-250-million-funding/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Moove, the Nigerian founded mobility technology company, has raised $250 million in a Series C funding round, achieving a $2.1 billion valuation and officially joining the ranks of Africa's unicorn startups. The post Moove becomes Africa s latest unicorn after $250 million funding appeared first on Nairametrics .",
+      "published": "2026-08-05T10:40:03+00:00",
+      "fetched": "2026-08-05T13:28:34.897179+00:00"
+    },
+    {
+      "id": "0e9f807fee6cbcbb",
+      "title": "Firstbank empowers women entrepreneurs through maiden spark a gem challenge",
+      "link": "https://nairametrics.com/2026/08/05/firstbank-empowers-women-entrepreneurs-through-maiden-spark-a-gem-challenge/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "FirstBank, West Africa’s premier financial institution and the leading financial inclusion service provider, has reinforced its commitment to empowering women-owned businesses with the successful execution of the maiden edition of Spark A Gem Challenge. The initiative, a flagship Women-Preneur Pitch-a-Ton programme under the Bank’s FirstGem proposition, was designed to provide women entrepreneurs with access to [ ] The post Firstbank empowers women entrepreneurs through maiden spark a gem challenge appeared first on Nairametrics .",
+      "published": "2026-08-05T10:13:50+00:00",
+      "fetched": "2026-08-05T13:28:34.897238+00:00"
+    },
+    {
+      "id": "2afb46701e4a3da4",
+      "title": "IHS shareholders back MTN’s bid for full ownership",
+      "link": "https://techcabal.com/2026/08/05/mtn-wins-shareholder-approval-to-take-ihs-private/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "MTN Group has secured shareholder approval to acquire the remaining shares in IHS Holding Limited",
+      "published": "2026-08-05T09:55:28+00:00",
+      "fetched": "2026-08-05T13:28:35.506476+00:00"
+    },
+    {
+      "id": "f06b6e24d54d55f1",
+      "title": "Caverton posts N8.66 billion H1 loss as admin costs surge",
+      "link": "https://nairametrics.com/2026/08/05/caverton-posts-n8-66-billion-h1-loss-as-admin-costs-surge/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Caverton Offshore Support Group Plc has reported a pre-tax loss of N8.66 billion for the six months ended June 30, 2026, compared with a pre-tax profit of N2.07 billion recorded in the corresponding period of 2025. The post Caverton posts N8.66 billion H1 loss as admin costs surge appeared first on Nairametrics .",
+      "published": "2026-08-05T09:52:53+00:00",
+      "fetched": "2026-08-05T13:28:34.897277+00:00"
+    },
+    {
+      "id": "3c8d204aad973892",
+      "title": "Ellah Lakes narrows H1 loss as revenue jumps 264%",
+      "link": "https://nairametrics.com/2026/08/05/ellah-lakes-narrows-h1-loss-as-revenue-jumps-264/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ellah Lakes Plc has reported an operating loss of N782.63 million for the six months ended June 30, 2026, an improvement from the operating loss of N3.84 billion reported for the 17-month audited period ended December 31, 2025. The post Ellah Lakes narrows H1 loss as revenue jumps 264% appeared first on Nairametrics .",
+      "published": "2026-08-05T09:32:09+00:00",
+      "fetched": "2026-08-05T13:28:34.897314+00:00"
+    },
+    {
+      "id": "8e41b372bfe50ece",
+      "title": "Exclusive: Kenya’s Cloud9 acquires Chpter less than a year after founders left",
+      "link": "https://techcabal.com/2026/08/05/exclusive-kenyas-cloud9-acquires-chpter-less-than-a-year-after-founders-left/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Cloud9, a Kenyan startup that offers digital banking services for businesses, has acquired social commerce platform Chpter in an all-stock deal.",
+      "published": "2026-08-05T09:03:14+00:00",
+      "fetched": "2026-08-05T13:28:35.506507+00:00"
+    },
+    {
+      "id": "e41a66a56460ba4a",
+      "title": "Coronation insurance and coronation life assurance meet niira 2025 minimum capital requirements following successful ₦9.2 billion capital raise",
+      "link": "https://nairametrics.com/2026/08/05/coronation-insurance-and-coronation-life-assurance-meet-niira-2025-minimum-capital-requirements-following-successful-%e2%82%a69-2-billion-capital-raise/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Coronation Insurance Plc and Coronation Life Assurance Limited have successfully met the new minimum capital requirements stipulated under the Nigerian Insurance Industry Reform Act (NIIRA) 2025, marking the successful completion of the Nigerian insurance industry s year-long recapitalisation exercise as announced by the National Insurance Commission (NAICOM). The milestone follows the successful conclusion of a ₦9.2 [ ] The post Coronation insurance and coronation life assurance meet niira 2025 minimum capital requirements following successful ₦9.2 billion capital raise appeared first on Nairametrics .",
+      "published": "2026-08-05T08:57:38+00:00",
+      "fetched": "2026-08-05T13:28:34.897381+00:00"
+    },
+    {
+      "id": "46378bc3662f09ce",
+      "title": "CBN says naira FX gap falls below 2% as reserves top $52.5 billion",
+      "link": "https://nairametrics.com/2026/08/05/cbn-says-naira-fx-gap-falls-below-2-as-reserves-top-52-5-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria (CBN) says its ongoing monetary and foreign exchange reforms are delivering positive results, with the gap between the official naira exchange rate and Bureau de Change rates now below 2% as external reserves rose above $52.5 billion. The post CBN says naira FX gap falls below 2% as reserves top $52.5 billion appeared first on Nairametrics .",
+      "published": "2026-08-05T08:55:02+00:00",
+      "fetched": "2026-08-05T13:28:34.897424+00:00"
+    },
+    {
+      "id": "c90e978604ca9d8e",
+      "title": "OneDosh and Stripe Finally Solved Onramping",
+      "link": "https://nairametrics.com/2026/08/05/onedosh-and-stripe-finally-solved-onramping/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "For years, the financial industry accepted friction as normal.Long bank transfers. Complicated funding methods. Failed transactions.",
+      "published": "2026-08-05T08:44:07+00:00",
+      "fetched": "2026-08-05T13:28:34.897474+00:00"
+    },
     {
       "id": "43836b0a85a4a13a",
       "title": "Standard Chartered, Sony back Yellow Card in $40 million funding round",
@@ -1242,266 +1502,6 @@
       "summary": "There's a bill many Nigerians pay every month that never shows up on a bank statement as a single line. It shows up as a transfer to a parent. The post Black tax in nigeria: what it really costs you, and how to calculate yours appeared first on Nairametrics .",
       "published": "2026-08-03T11:44:37+00:00",
       "fetched": "2026-08-03T14:08:30.634999+00:00"
-    },
-    {
-      "id": "99aab4a4c5b57a5b",
-      "title": "BUA Foods delivers double digit profit as margin discipline drives growth",
-      "link": "https://nairametrics.com/2026/08/03/bua-foods-delivers-double-digit-profit-as-margin-discipline-drives-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s leading food manufacturing company, BUA Foods Plc has announced its unaudited financial results for the half year ended June 30... The post BUA Foods delivers double digit profit as margin discipline drives growth appeared first on Nairametrics .",
-      "published": "2026-08-03T11:15:20+00:00",
-      "fetched": "2026-08-03T14:08:30.635041+00:00"
-    },
-    {
-      "id": "14b0ee66cdbb9e2c",
-      "title": "Wema bank converts tough conditions into n154.6 billion first-half pretax profit growth",
-      "link": "https://nairametrics.com/2026/08/03/wema-bank-converts-tough-conditions-into-n154-6-billion-first-half-pretax-profit-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Wema Bank's H1 2026 performance highlights a 53.65% pretax profit growth with a 21.73% expansion in customer loans, even as Nigerian... The post Wema bank converts tough conditions into n154.6 billion first-half pretax profit growth appeared first on Nairametrics .",
-      "published": "2026-08-03T10:53:18+00:00",
-      "fetched": "2026-08-03T14:08:30.635080+00:00"
-    },
-    {
-      "id": "5a6e35492ef25567",
-      "title": "Airtel targets Kenya’s small businesses as mobile money war shifts to merchants",
-      "link": "https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Airtel Money Kenya is targeting small businesses with a new digital wallet as it seeks to deepen customer engagement after increasing its share of Kenya's mobile money market to 10.9%.",
-      "published": "2026-08-03T10:53:15+00:00",
-      "fetched": "2026-08-03T14:08:31.329264+00:00"
-    },
-    {
-      "id": "e0708a05f73e50e6",
-      "title": "Otedola grants first-ever interview since becoming First HoldCo Chairman",
-      "link": "https://nairametrics.com/2026/08/03/the-femi-otedola-interview-why-im-betting-my-fortune-on-first-holdco/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Femi Otedola rarely grants interviews. In this exclusive conversation with Nairametrics, he discusses the biggest bet of his career, from First HoldCo’s record write-offs and soaring valuation to succession, governance, dividends, and his long-term ambitions for the institution. The post Otedola grants first-ever interview since becoming First HoldCo Chairman appeared first on Nairametrics .",
-      "published": "2026-08-03T10:53:01+00:00",
-      "fetched": "2026-08-03T14:08:30.635130+00:00"
-    },
-    {
-      "id": "325bde8a7d477b40",
-      "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
-      "link": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "China’s domestic tourism is underperforming, with hotel revenues falling as soft demand pressures room rates.",
-      "published": "2026-08-03T10:32:09+00:00",
-      "fetched": "2026-08-03T14:08:30.243152+00:00"
-    },
-    {
-      "id": "05a885b707ddaa0a",
-      "title": "African startups raise $102 million in July as equity funding hits seven-year low",
-      "link": "https://nairametrics.com/2026/08/03/african-startups-raise-102-million-in-july-as-equity-funding-hits-seven-year-low/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "African startups raised a total of $102 million across 44 funding rounds of $100,000 or more in July 2026, marking the lowest monthly funding total since March 2025. The post African startups raise $102 million in July as equity funding hits seven-year low appeared first on Nairametrics .",
-      "published": "2026-08-03T10:30:42+00:00",
-      "fetched": "2026-08-03T14:08:30.635192+00:00"
-    },
-    {
-      "id": "50ea392f252eee9c",
-      "title": "Fidson delivers ₦3.6bn dividend, reaffirms path to becoming africa’s largest pharma manufacturer",
-      "link": "https://nairametrics.com/2026/08/03/fidson-delivers-%e2%82%a63-6bn-dividend-reaffirms-path-to-becoming-africas-largest-pharma-manufacturer/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Shareholders of the largest pharmaceutical company in Nigeria, Fidson Healthcare Plc, have approved a dividend of 1.50 per 50 kobo ordinary share, amounting to 3.6 billion, at the Company s 27th Annual General Meeting held virtually on Thursday, 30 July 2026.The approval comes against the backdrop of a year in which the Company achieved key milestones [ ] The post Fidson delivers ₦3.6bn dividend, reaffirms path to becoming africa s largest pharma manufacturer appeared first on Nairametrics .",
-      "published": "2026-08-03T10:19:42+00:00",
-      "fetched": "2026-08-03T14:08:30.635262+00:00"
-    },
-    {
-      "id": "f62a6e15b540219a",
-      "title": "NAFDAC, OAU join £3.7 million Oxford-led project to detect fake vaccines",
-      "link": "https://nairametrics.com/2026/08/03/nafdac-oau-join-3-7-million-oxford-led-project-to-detect-fake-vaccines/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) and Obafemi Awolowo University (OAU) have joined a £3.7 million international research initiative led by the University of Oxford to develop advanced technologies for detecting substandard, degraded, and falsified vaccines across supply chains. The post NAFDAC, OAU join £3.7 million Oxford-led project to detect fake vaccines appeared first on Nairametrics .",
-      "published": "2026-08-03T10:19:28+00:00",
-      "fetched": "2026-08-03T14:08:30.635317+00:00"
-    },
-    {
-      "id": "4a71102127d816ed",
-      "title": "OPay is Okay: Trust Is Not Claimed – It Is Earned",
-      "link": "https://nairametrics.com/2026/08/03/opay-is-okay-trust-is-not-claimed-it-is-earned/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For tens of millions of people across Nigeria, digital finance has changed everyday life. Paying bills, sending money, saving, and running businesses have become faster and easier than ever before. But alongside this progress comes one question that many people still ask: Can I really trust digital finance?",
-      "published": "2026-08-03T10:05:45+00:00",
-      "fetched": "2026-08-03T14:08:30.635373+00:00"
-    },
-    {
-      "id": "beadfe873fc323ca",
-      "title": "Busha expands its innovation portfolio with the launch of licensed prediction market, signal by busha",
-      "link": "https://nairametrics.com/2026/08/03/busha-expands-its-innovation-portfolio-with-the-launch-of-licensed-prediction-market-signal-by-busha/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "As prediction markets gain global recognition as tools for forecasting trends across business, politics, technology and sports, Busha today announced the launch of Signal by Busha, a prediction market licensed by the Lagos State Lottery and Gaming Authority.Available immediately as a web platform, Signal by Busha is accessible to existing Busha users using their current [ ] The post Busha expands its innovation portfolio with the launch of licensed prediction market, signal by busha appeared first on Nairametrics .",
-      "published": "2026-08-03T10:00:31+00:00",
-      "fetched": "2026-08-03T14:08:30.635428+00:00"
-    },
-    {
-      "id": "2fb69644603a8bf1",
-      "title": "FirstHoldco hits N6 trillion market cap in historic first for Nigerian banks",
-      "link": "https://nairametrics.com/2026/08/03/firstholdco-hits-n6-trillion-market-cap-in-historic-first-for-nigerian-banks/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FirstHoldCo Plc has crossed the N6 trillion market capitalisation mark during the ongoing trading session today, August 3, 2026, becoming the first Nigerian banking group to reach the milestone. The post FirstHoldco hits N6 trillion market cap in historic first for Nigerian banks appeared first on Nairametrics .",
-      "published": "2026-08-03T09:54:32+00:00",
-      "fetched": "2026-08-03T14:08:30.635468+00:00"
-    },
-    {
-      "id": "17fa21a899ae59a5",
-      "title": "FULL LIST: 43 insurance, reinsurance companies that met NAICOM recapitalisation deadline",
-      "link": "https://nairametrics.com/2026/08/03/full-list-43-insurance-reinsurance-companies-that-met-naicom-recapitalisation-deadline/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Insurance Commission (NAICOM) has announced a list of 41 insurance companies and two reinsurance firms that successfully met the insurance sector recapitalisation deadline of July 31, 2026. The post FULL LIST: 43 insurance, reinsurance companies that met NAICOM recapitalisation deadline appeared first on Nairametrics .",
-      "published": "2026-08-03T09:43:22+00:00",
-      "fetched": "2026-08-03T14:08:30.635508+00:00"
-    },
-    {
-      "id": "32266e81982b8856",
-      "title": "HDAN Urges APC to Prioritise Affordable Housing Over Distribution of Phones and Laptops",
-      "link": "https://nairametrics.com/2026/08/03/hdan-urges-apc-to-prioritise-affordable-housing-over-distribution-of-phones-and-laptops/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Housing Development Advocacy Network (HDAN) has called on the All Progressives Congress (APC) to place greater emphasis on expanding affordable homeownership programmes for Nigerians rather than relying on the distribution of phones, laptops and other consumable items as part of political mobilisation and empowerment initiatives. HDAN said that while digital devices have their place [ ] The post HDAN Urges APC to Prioritise Affordable Housing Over Distribution of Phones and Laptops appeared first on Nairametrics .",
-      "published": "2026-08-03T09:35:51+00:00",
-      "fetched": "2026-08-03T14:08:30.635560+00:00"
-    },
-    {
-      "id": "651003b4e6d3d427",
-      "title": "How Airtel Africa plans to cross $7 billion in annual revenue",
-      "link": "https://techcabal.com/2026/08/03/how-airtel-africa-plans-to-cross-7-billion-in-annual-revenue/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Airtel Africa is on course to become a $7 billion business by the end of its next financial year ending March 2027. Its latest earnings reveal the three growth engines that could get it there.",
-      "published": "2026-08-03T09:06:31+00:00",
-      "fetched": "2026-08-03T14:08:31.329297+00:00"
-    },
-    {
-      "id": "de0abe1540d19604",
-      "title": "LivingTrust Mortgage Bank’s profit crashes 76% despite stronger deposits",
-      "link": "https://nairametrics.com/2026/08/03/livingtrust-mortgage-banks-profit-crashes-76-despite-stronger-deposits/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "LivingTrust Mortgage Bank Plc has released its unaudited first half 2026 financial statement, reporting a pre-tax profit of N133.33 million for the six months ended June 30, 2026. The post LivingTrust Mortgage Bank s profit crashes 76% despite stronger deposits appeared first on Nairametrics .",
-      "published": "2026-08-03T08:56:41+00:00",
-      "fetched": "2026-08-03T09:01:51.768136+00:00"
-    },
-    {
-      "id": "f9222050c390928f",
-      "title": "Top 15 busiest domestic airports in Africa in H1 2026",
-      "link": "https://nairametrics.com/2026/08/03/top-15-busiest-domestic-airports-in-africa-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "According to OAG data for August 2026, total airline capacity across the continent increased by 8.4% year on year to 27.3 million seats, with international services accounting for 79% of total capacity, while domestic capacity grew even faster at 11%. The post Top 15 busiest domestic airports in Africa in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-08-03T08:47:26+00:00",
-      "fetched": "2026-08-03T09:01:51.768185+00:00"
-    },
-    {
-      "id": "351ad6538117def0",
-      "title": "The Next Wave: “Coping ugly”",
-      "link": "https://techcabal.com/2026/08/03/the-next-wave-coping-ugly/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "We tend to tell success stories from the ending, smoothing over the difficult years until painful decisions look like inevitable strategy.",
-      "published": "2026-08-03T08:45:34+00:00",
-      "fetched": "2026-08-03T09:01:52.908989+00:00"
-    },
-    {
-      "id": "cb1c5f71322a75be",
-      "title": "NAICOM clears 43 insurers after recapitalisation, fate of eight still uncertain",
-      "link": "https://nairametrics.com/2026/08/03/naicom-clears-43-insurers-after-recapitalisation-fate-of-eight-still-uncertain/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Insurance Commission (NAICOM) has announced the completion of the insurance sector recapitalisation exercise introduced under the Nigerian Insurance Industry Reform Act (NIIRA) 2025, confirming that 43 insurance and reinsurance companies have met the new minimum capital requirements. The post NAICOM clears 43 insurers after recapitalisation, fate of eight still uncertain appeared first on Nairametrics .",
-      "published": "2026-08-03T08:42:30+00:00",
-      "fetched": "2026-08-03T09:01:51.768228+00:00"
-    },
-    {
-      "id": "9ed24483218e0b60",
-      "title": "Lebara partners Payaza as exclusive payment partner to power new commerce hub",
-      "link": "https://nairametrics.com/2026/08/03/lebara-partners-payaza-as-exclusive-payment-partner-to-power-new-commerce-hub/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lebara Nigeria, a mobile virtual network operator (MVNO) has partnered with Nigerian fintech Payaza to power a new digital commerce platform. The post Lebara partners Payaza as exclusive payment partner to power new commerce hub appeared first on Nairametrics .",
-      "published": "2026-08-03T08:06:58+00:00",
-      "fetched": "2026-08-03T09:01:51.768261+00:00"
-    },
-    {
-      "id": "34028f352275ac97",
-      "title": "Oil prices crash after Trump eases Iran tensions, cheaper petrol may follow",
-      "link": "https://nairametrics.com/2026/08/03/oil-prices-crash-after-trump-eases-iran-tensions-cheaper-petrol-may-follow/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian crude oil and major oil contracts slid on Monday as fresh talks between the US and Iran would begin under President Donald Trump, fueled by hopes that a deal would reopen the Strait of Hormuz. The post Oil prices crash after Trump eases Iran tensions, cheaper petrol may follow appeared first on Nairametrics .",
-      "published": "2026-08-03T07:56:16+00:00",
-      "fetched": "2026-08-03T09:01:51.768299+00:00"
-    },
-    {
-      "id": "9635eca9af430e80",
-      "title": "Chellarams returns to N1.45 billion profit after tax as revenue jumps 84%",
-      "link": "https://nairametrics.com/2026/08/03/chellarams-returns-to-n1-45-billion-profit-after-tax-as-revenue-jumps-84/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Chellarams Plc returned to profitability in the first quarter of 2026, posting a profit before tax of N1.45 billion, compared with a loss before tax of N38.52 million in the corresponding period of 2025, driven by strong revenue growth, improved margins and lower finance costs. The post Chellarams returns to N1.45 billion profit after tax as revenue jumps 84% appeared first on Nairametrics .",
-      "published": "2026-08-03T06:48:16+00:00",
-      "fetched": "2026-08-03T09:01:51.768341+00:00"
-    },
-    {
-      "id": "0b51d7ccda76011a",
-      "title": "👨🏿‍🚀TechCabal Daily – Kenya’s piracy hunt",
-      "link": "https://techcabal.com/2026/08/03/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-kenyas-piracy-hunt/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: South Africans are paying less for TV, shopping Kenya to tackle piracy HSBC Egypt finds a buyer for retail business Telecom Namibia extends acting CEO tenure",
-      "published": "2026-08-03T06:24:37+00:00",
-      "fetched": "2026-08-03T09:01:52.909032+00:00"
-    },
-    {
-      "id": "2123510778fcdf1d",
-      "title": "Presidency asks Atiku to provide evidence after N7.98 trillion oil windfall claim",
-      "link": "https://nairametrics.com/2026/08/03/presidency-asks-atiku-to-provide-evidence-after-n7-98-trillion-oil-windfall-claim/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The N7.98 trillion oil windfall claim attributed to former Vice President Atiku Abubakar is false, Bayo Onanuga, Special Adviser to President Bola Tinubu on Information and Strategy, has said. The post Presidency asks Atiku to provide evidence after N7.98 trillion oil windfall claim appeared first on Nairametrics .",
-      "published": "2026-08-03T06:13:13+00:00",
-      "fetched": "2026-08-03T09:01:51.768376+00:00"
-    },
-    {
-      "id": "05e2b0ff689b7b61",
-      "title": "Brent crude slides $16 in eight trading days as Trump revives Iran peace talks",
-      "link": "https://nairametrics.com/2026/08/03/brent-crude-slides-16-in-eight-trading-days-as-trump-revives-iran-peace-talks/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Brent crude has fallen by more than $16 per barrel in eight trading sessions, retreating sharply from the $100 level reached during the height of the latest Middle East conflict as signs of renewed peace talks between the United States and Iran eased fears of a prolonged disruption to global oil supplies through the Strait of Hormuz. The post Brent crude slides $16 in eight trading days as Trump revives Iran peace talks appeared first on Nairametrics .",
-      "published": "2026-08-03T05:53:52+00:00",
-      "fetched": "2026-08-03T09:01:51.768421+00:00"
-    },
-    {
-      "id": "b32c5991f95ec1d9",
-      "title": "Best-performing Nigerian stocks in July as two stocks crossed 100% gains",
-      "link": "https://nairametrics.com/2026/08/02/best-performing-nigerian-stocks-in-july-as-two-stocks-crossed-100-gains/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market staged a strong recovery in July 2026, with the benchmark NGX All-Share Index gaining 6.92% month-on-month to close at 245,283.68 points, up from 229,419.18 points at the end of June. The post Best-performing Nigerian stocks in July as two stocks crossed 100% gains appeared first on Nairametrics .",
-      "published": "2026-08-02T18:51:11+00:00",
-      "fetched": "2026-08-03T01:22:51.770692+00:00"
-    },
-    {
-      "id": "e7a89d46ebf6f58c",
-      "title": "Meet the 12 CEOs running Nigeria’s Electricity Distribution Companies in 2026",
-      "link": "https://nairametrics.com/2026/08/02/meet-the-12-ceos-running-nigerias-electricity-distribution-companies-in-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "This article features the 12 CEOs leading Nigeria's top electricity distribution companies. The post Meet the 12 CEOs running Nigeria s Electricity Distribution Companies in 2026 appeared first on Nairametrics .",
-      "published": "2026-08-02T16:20:57+00:00",
-      "fetched": "2026-08-02T18:47:44.109624+00:00"
     }
   ]
 }

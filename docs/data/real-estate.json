@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-05T08:11:17.246088+00:00",
+  "updated": "2026-08-05T13:28:41.019975+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "78668dc3ff59d20c",
+      "title": "How to Build Your Own Real Estate Investing Team (From Scratch)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1313",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Real estate investing is a team sport. You can buy great rental properties in great neighborhoods and still fail—all because you don’t have the right people around you. Today, we’re [ ]",
+      "published": "2026-08-05T11:00:31+00:00",
+      "fetched": "2026-08-05T13:28:40.594466+00:00"
+    },
+    {
+      "id": "cb956c5c00c2b2a2",
+      "title": "These 10 Cities Could Reap the Biggest Benefits From Federal Grants To Spur Homebuilding",
+      "link": "https://www.realtor.com/news/trends/cdbg-federal-grants-housing-development/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Realtor.com found that the cities with the largest impact are the ones that need homebuilding the most—in the Northeast and Midwest.",
+      "published": "2026-08-05T10:00:00+00:00",
+      "fetched": "2026-08-05T13:28:41.019340+00:00"
+    },
     {
       "id": "917345d991c3a213",
       "title": "JPMorgan Will Pour $750 Billion Into Housing Over the Next Decade—Here’s What It Means for Homebuyers",
@@ -1482,26 +1502,6 @@
       "summary": "Leverage was always the love language for real estate investors. It was the principle on which the BRRRR strategy was based, and fortunes were made. However, since the dramatic rise [ ]",
       "published": "2026-07-15T17:08:21+00:00",
       "fetched": "2026-07-29T08:30:04.857105+00:00"
-    },
-    {
-      "id": "3d08426649858845",
-      "title": "If House Flipping is “Dead,” How Is She Flipping 10+ Houses THIS Year?",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1304",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Many people assume house flipping doesn’t work anymore. They’re wrong. House flipping isn’t dead.",
-      "published": "2026-07-15T11:00:57+00:00",
-      "fetched": "2026-07-29T08:30:04.857136+00:00"
-    },
-    {
-      "id": "de75e805685ace85",
-      "title": "Long-Term Rentals vs. Short-Term Rentals: Which Is Best for Beginners?",
-      "link": "https://www.biggerpockets.com/blog/rookie-744",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "When buying your first rental property, everyone gives you the same advice: play it safe, get a long-term tenant, and collect the rent. But that same house, run as an [ ]",
-      "published": "2026-07-15T11:00:02+00:00",
-      "fetched": "2026-07-29T08:30:04.857161+00:00"
     }
   ]
 }
