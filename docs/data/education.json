@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-05T01:15:58.096531+00:00",
-  "count": 87,
+  "updated": "2026-08-05T08:11:16.371841+00:00",
+  "count": 89,
   "items": [
+    {
+      "id": "beec89759255f8b8",
+      "title": "How Ada Lovelace, Daughter of Lord Byron, Wrote the First Computer Program in 1842–a Century Before the First Computer",
+      "link": "https://www.openculture.com/2026/08/how-ada-lovelace-wrote-the-first-computer-program-in-1842.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "I’ve never quite understood why the phrase “revisionist history” became purely pejorative. Of course, it has its Orwellian dark side, but all knowledge has to be revised periodically, as we acquire new information and, ideally, discard old prejudices and narrow frames of reference. A failure to do so seems fundamentally regressive, not only in political [ ]",
+      "published": "2026-08-05T08:00:13+00:00",
+      "fetched": "2026-08-05T08:11:16.371692+00:00"
+    },
+    {
+      "id": "fa2d51f8575993d8",
+      "title": "These 3D-printed objects can tell you if they’re being used properly",
+      "link": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, without any electronics.",
+      "published": "2026-08-05T04:00:00+00:00",
+      "fetched": "2026-08-05T08:11:15.287140+00:00"
+    },
     {
       "id": "bc6c775753cc0291",
       "title": "Past is prologue for geopolitical developments",
