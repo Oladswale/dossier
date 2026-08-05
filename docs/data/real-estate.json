@@ -1,8 +1,78 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-04T19:14:45.963810+00:00",
+  "updated": "2026-08-05T01:15:58.832144+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "917345d991c3a213",
+      "title": "JPMorgan Will Pour $750 Billion Into Housing Over the Next Decade—Here’s What It Means for Homebuyers",
+      "link": "https://www.realtor.com/news/trends/jpmorgan-housing-financing-initiative-mortgages-construction/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The bank aims to build or preserve 1 million affordable housing units and help a half-million customers purchase homes.",
+      "published": "2026-08-04T23:38:44+00:00",
+      "fetched": "2026-08-05T01:15:58.831400+00:00"
+    },
+    {
+      "id": "f0b3597d2c83301f",
+      "title": "Towering 3-Story Barn Set at the Heart of a Lush 72-Acre Legacy Compound Hits the Market in the Berkshires for $4.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/barn-house-retro-timeless-berkshires-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built by the business partner of acclaimed architect Marcel Breuer, the property features a \"timeless\" retro style.",
+      "published": "2026-08-04T22:49:41+00:00",
+      "fetched": "2026-08-05T01:15:58.831451+00:00"
+    },
+    {
+      "id": "a75af33ec8d9bb3d",
+      "title": "EXCLUSIVE: Red Hot Chili Peppers Bassist Flea Relists Extraordinary Malibu Estate for $8 Million",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/red-hot-chili-peppers-flea-malibu-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property, which was originally listed in March for $8,495,000, is tucked behind the 24/7 guarded gates of Malibu Colony.",
+      "published": "2026-08-04T22:16:04+00:00",
+      "fetched": "2026-08-05T01:15:58.831480+00:00"
+    },
+    {
+      "id": "45cd213889c2b7ac",
+      "title": "Michigan Primary Puts Housing Affordability to Its First Big Midterm Test",
+      "link": "https://www.realtor.com/news/trends/michigan-primary-housing-affordability-young-voters/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Michigan’s high-stakes Senate, House, and gubernatorial races collide with a 119,000-home shortage and a youth electorate primed to matter.",
+      "published": "2026-08-04T21:51:54+00:00",
+      "fetched": "2026-08-05T01:15:58.831510+00:00"
+    },
+    {
+      "id": "6a2f4b9731831165",
+      "title": "Arson Suspect in Spokane Wildfire Arrested After Inferno Destroyed Hundreds of Homes",
+      "link": "https://www.realtor.com/news/real-estate-news/arson-suspect-aaron-farinacci-arrest-spokane-washington-wildfires/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Aaron Farinacci, a convicted felon who killed his dad in 2010, has been charged with arson in connection with the Spokane fires.",
+      "published": "2026-08-04T20:23:45+00:00",
+      "fetched": "2026-08-05T01:15:58.831536+00:00"
+    },
+    {
+      "id": "83e80e27fd3ea5e1",
+      "title": "Meghan Markle Marks 45th Birthday With Fun Pool Photo Shoot—as She Shares Glimpse Into California Celebrations",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-birthday-photos-california-montecito/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Meghan turned 45 on Aug. 4—but managed to sneak in a fun-filled getaway in California before her big day, where she captured her photos.",
+      "published": "2026-08-04T19:49:06+00:00",
+      "fetched": "2026-08-05T01:15:58.831568+00:00"
+    },
+    {
+      "id": "f1b97a2f15e1c511",
+      "title": "Fannie and Freddie’s New Condo Mortgage Rules Could Mean More Delays and Denials, Experts Say",
+      "link": "https://www.realtor.com/news/real-estate-news/new-condo-mortgage-rules-could-mean-more-delays-and-denials/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Fannie Mae and Freddie Mac are rolling out a new set of rules aimed at making condos safer. But they come with some extra complications.",
+      "published": "2026-08-04T19:13:11+00:00",
+      "fetched": "2026-08-05T01:15:58.831596+00:00"
+    },
     {
       "id": "eaba10b38710f7f4",
       "title": "From Stoves to ACs: The Surprising Essentials Landlords Can Legally Ban Today",
@@ -42,6 +112,16 @@
       "summary": "A judge found Florida’s aggressive property-tax ballot language misleading, ordering a rewrite before voters weigh the proposal in November.",
       "published": "2026-08-04T16:55:27+00:00",
       "fetched": "2026-08-04T19:14:45.963272+00:00"
+    },
+    {
+      "id": "4c3e769aea2a3ad4",
+      "title": "Bijan Robinson Inks $75 Million Falcons Extension To Become NFL’s Highest-Paid Running Back—3 Years After Making ‘Magical’ Move to Atlanta",
+      "link": "https://www.realtor.com/news/sports/bijan-robinson-homes-property-falcons/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Robinson, 24, has signed a new three-year contract extension with the Falcons, having been drafted by the team in 2023.",
+      "published": "2026-08-04T16:13:00+00:00",
+      "fetched": "2026-08-05T01:15:58.831658+00:00"
     },
     {
       "id": "402ec1871d366cc5",
@@ -1422,86 +1502,6 @@
       "summary": "When buying your first rental property, everyone gives you the same advice: play it safe, get a long-term tenant, and collect the rent. But that same house, run as an [ ]",
       "published": "2026-07-15T11:00:02+00:00",
       "fetched": "2026-07-29T08:30:04.857161+00:00"
-    },
-    {
-      "id": "910738aa98bd4b04",
-      "title": "BiggerPockets Pulse: Investors Are Resilient, But Sentiment Continues to Drop",
-      "link": "https://www.biggerpockets.com/blog/pulse-q3-2026",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Each quarter, the BiggerPockets Pulse survey captures how investors in our community feel about and behave in the current market. Our Q3 2026 results paint a profile of a resilient [ ]",
-      "published": "2026-07-14T18:53:31+00:00",
-      "fetched": "2026-07-29T08:30:04.857186+00:00"
-    },
-    {
-      "id": "ce60c8ea7f0a5b7e",
-      "title": "Deal Diary: How Andy Gill Turned a Mailer Into 30 Units",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-andy-gil",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Category Details Name Andy Gill Location Connecticut Occupation General contractor and real estate investor Assets 58 rental units across multiple properties, plus a 30-unit portfolio in phased acquisition Investment strategy [ ]",
-      "published": "2026-07-14T14:01:00+00:00",
-      "fetched": "2026-07-29T08:30:04.857212+00:00"
-    },
-    {
-      "id": "787642808bb918b6",
-      "title": "2026 Housing Market Predictions: Seller Pain is Far From Over",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-442",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The first half of the 2026 housing market is over, and now it’s time to answer the question everyone wants to know: What’s next? Will the market slow down even [ ]",
-      "published": "2026-07-14T11:00:49+00:00",
-      "fetched": "2026-07-29T08:30:04.857239+00:00"
-    },
-    {
-      "id": "08ca09f8e1e092b5",
-      "title": "He Bought 58 Rental Units in Just 4 Years by Solving Other Landlords’ Problems",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1303",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "When the Great Recession hit, Andy Gil lost his business. Suddenly, he was forced to start over. But the fear of losing everything again was the driving force behind what [ ]",
-      "published": "2026-07-13T11:00:14+00:00",
-      "fetched": "2026-07-29T08:30:04.857265+00:00"
-    },
-    {
-      "id": "ff604abe2d4d0af7",
-      "title": "She Built a 3-Property Portfolio in 5 Years While Working Her 9-5",
-      "link": "https://www.biggerpockets.com/blog/rookie-743",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Your first rental property rarely comes from sitting back and waiting. It usually comes when you put yourself out there, talk to others about what you re building, and stay in [ ]",
-      "published": "2026-07-13T11:00:07+00:00",
-      "fetched": "2026-07-29T08:30:04.857291+00:00"
-    },
-    {
-      "id": "c4bf35fbd6d727e6",
-      "title": "Start at 45, Retire at 55: The Late Starter’s Rental Playbook",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1302",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If you’re in your 40s, or even 50s, and think it’s too late to build a comfortable retirement, think again. We’ve done the math, we’ve crunched the numbers, and we ve [ ]",
-      "published": "2026-07-10T11:00:53+00:00",
-      "fetched": "2026-07-29T08:30:04.857320+00:00"
-    },
-    {
-      "id": "268b9bde069c4ad7",
-      "title": "How to Find and Fund Your First Real Estate Deal (From Scratch) (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-742",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You ve got very little savings, almost no credit history, and you want to buy a rental property. Most people would tell you to wait, but today, we’re giving you clear, [ ]",
-      "published": "2026-07-10T11:00:49+00:00",
-      "fetched": "2026-07-29T08:30:04.857347+00:00"
-    },
-    {
-      "id": "84428b80a3f89fd8",
-      "title": "Insurance Shock Is Eating Cash Flow Away—This Surprising Market is Facing the Brunt of It",
-      "link": "https://www.biggerpockets.com/blog/insurance-shock-is-eating-cash-flow-away-this-surprising-market-is-facing-the-brunt-of-it",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Editor’s Note: Thanks for reading! As a special offer for our readers, save $100 on your ticket to BPCON2026—BiggerPockets’ annual real estate investing conference—using code MYRE100 at checkout. As if interest rates and house [ ]",
-      "published": "2026-07-09T17:35:29+00:00",
-      "fetched": "2026-07-29T08:30:04.857381+00:00"
     }
   ]
 }

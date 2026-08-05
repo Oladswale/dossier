@@ -1,8 +1,118 @@
 {
   "category": "finance",
-  "updated": "2026-08-04T19:14:40.870954+00:00",
+  "updated": "2026-08-05T01:15:52.308455+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "626a86acf7c77d84",
+      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The S P 500 booked its 25th record close of 2026, after a 42-day break.",
+      "published": "2026-08-04T22:40:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146039+00:00"
+    },
+    {
+      "id": "c380d733e1873e65",
+      "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+      "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
+      "published": "2026-08-04T22:22:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146089+00:00"
+    },
+    {
+      "id": "ac7f8b8e26f93466",
+      "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
+      "published": "2026-08-04T21:54:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146124+00:00"
+    },
+    {
+      "id": "c2186563b6ac55cc",
+      "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+      "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "\"I continue to believe it is possible we are near a major top, and possible a 1987-type fall,\" Burry said in a Tuesday Substack post.",
+      "published": "2026-08-04T21:39:30+00:00",
+      "fetched": "2026-08-05T01:15:51.337482+00:00"
+    },
+    {
+      "id": "d0bcf1f4409ee617",
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+      "link": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "U.S. stocks are entering what has historically been the weakest stretch of the year, but unusually bearish investor sentiment could help limit any pullback, according to Ned Davis Research.",
+      "published": "2026-08-04T21:25:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146157+00:00"
+    },
+    {
+      "id": "e6dd838044b445f1",
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
+      "published": "2026-08-04T21:21:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146185+00:00"
+    },
+    {
+      "id": "55d04256b2d1fd47",
+      "title": "McDonald’s says its value meals have become too complicated",
+      "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
+      "published": "2026-08-04T21:13:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146211+00:00"
+    },
+    {
+      "id": "37daebdc19926179",
+      "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
+      "link": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Stocks have shot higher over the past four trading sessions, and investors who are worried about missing out are piling into bullish options bets just to try to keep up.",
+      "published": "2026-08-04T21:00:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146249+00:00"
+    },
+    {
+      "id": "8e1ce06f51e10c91",
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "published": "2026-08-04T20:47:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146276+00:00"
+    },
+    {
+      "id": "3ed045da2001dac9",
+      "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
+      "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
+      "published": "2026-08-04T20:26:00+00:00",
+      "fetched": "2026-08-05T01:15:51.146303+00:00"
+    },
+    {
+      "id": "ba8c12ac23a680a9",
+      "title": "Zenith Bank alerts customers after cyber incident exposed contact details",
+      "link": "https://nairametrics.com/2026/08/04/zenith-bank-alerts-customers-after-cyber-incident-exposed-contact-details/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Zenith Bank has disclosed that it is investigating unauthorised access to limited customer information, including email addresses and phone numbers, following a cyber incident the bank said is linked to a broader global attack targeting multiple organisations. The post Zenith Bank alerts customers after cyber incident exposed contact details appeared first on Nairametrics .",
+      "published": "2026-08-04T19:16:06+00:00",
+      "fetched": "2026-08-05T01:15:51.799892+00:00"
+    },
     {
       "id": "4bb6d0445e25efc3",
       "title": "World Bank tells developing economies to stop chasing big AI models",
@@ -332,6 +442,16 @@
       "summary": "Caterpillar’s stock surges after the biggest earnings beat in five years, as demand for data-center construction provided a boost.",
       "published": "2026-08-04T11:50:00+00:00",
       "fetched": "2026-08-04T13:30:19.163732+00:00"
+    },
+    {
+      "id": "798b281cf1c84103",
+      "title": "Nigeria’s 90,000km fibre project awaits incorporation of SPV",
+      "link": "https://techcabal.com/2026/08/04/nigerias-project-bridge-targets-90000km-fibre-network-by-2030/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria’s ambition to become Africa’s digital economy powerhouse now rests on a company that has yet to be legally incorporated. The federal government expects to register the Special Purpose Vehicle (SPV) that will oversee Project BRIDGE by July 31, laying the legal foundation for one of Nigeria’s largest digital infrastructure projects. The incorporation date will [ ]",
+      "published": "2026-08-04T11:44:57+00:00",
+      "fetched": "2026-08-05T01:15:52.308243+00:00"
     },
     {
       "id": "a649ea34fa67b953",
@@ -1382,126 +1502,6 @@
       "summary": "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses.",
       "published": "2026-08-02T11:30:00+00:00",
       "fetched": "2026-08-02T12:49:48.117491+00:00"
-    },
-    {
-      "id": "69ef544573a055d6",
-      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
-      "link": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Apple has been phenomenally profitable because its CEO resisted demands to change the business’s focus.",
-      "published": "2026-08-02T11:00:00+00:00",
-      "fetched": "2026-08-02T12:49:48.117521+00:00"
-    },
-    {
-      "id": "5096b75c134b6707",
-      "title": "MMIA fire: Passenger processing, flights resume at Lagos airport after incident",
-      "link": "https://nairametrics.com/2026/08/02/mmia-fire-passenger-processing-flights-resume-at-lagos-airport-after-incident/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Passenger processing and flight operations have resumed at the Murtala Muhammed International Airport (MMIA), Lagos, following an incident initially reported as a fire at one of the airport's terminals. The post MMIA fire: Passenger processing, flights resume at Lagos airport after incident appeared first on Nairametrics .",
-      "published": "2026-08-02T10:56:40+00:00",
-      "fetched": "2026-08-02T12:49:48.536317+00:00"
-    },
-    {
-      "id": "beb1771aec32e469",
-      "title": "U.S. visa bond: Nigeria among countries under permanent $20,000 rule",
-      "link": "https://nairametrics.com/2026/08/02/u-s-visa-bond-nigeria-among-countries-under-permanent-20000-rule/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria is among the countries whose eligible travellers will remain subject to the United States' permanent visa bond programme, with consular officers empowered to require bonds of up to $20,000 for certain visitor visa applicants from Monday, August 3. The post U.S. visa bond: Nigeria among countries under permanent $20,000 rule appeared first on Nairametrics .",
-      "published": "2026-08-02T09:23:13+00:00",
-      "fetched": "2026-08-02T12:49:48.536376+00:00"
-    },
-    {
-      "id": "cc5d439238fefc05",
-      "title": "Portfolio investment into Nigeria: Understanding the flow, the assets, the risks, and the path forward",
-      "link": "https://nairametrics.com/2026/08/02/portfolio-investment-into-nigeria-understanding-the-flow-the-assets-the-risks-and-the-path-forward/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Foreign portfolio investment has become the main channel through which foreign capital is entering Nigeria in recent years. In 2025, total capital importation reached about $23.22 billion, with portfolio investment accounting for roughly $19.74 billion—more than 85 per cent of the total. In the first quarter of 2026 alone, portfolio inflows hit $9.86 billion out [ ] The post Portfolio investment into Nigeria: Understanding the flow, the assets, the risks, and the path forward appeared first on Nairametrics .",
-      "published": "2026-08-02T09:08:18+00:00",
-      "fetched": "2026-08-02T12:49:48.536447+00:00"
-    },
-    {
-      "id": "932b9c6f9cb2a0ad",
-      "title": "7 factors that could jolt Nigerian economy before 2026 ends",
-      "link": "https://nairametrics.com/2026/08/02/7-factors-that-could-jolt-nigerian-economy-before-2026-ends/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s economy has entered a new phase where the focus is shifting from stabilising key economic indicators to delivering real improvements in investment, productivity and living standards, according to FirstBank’s “Reading the Signals The Next Half” Mid-Year Economic Market Outlook 2026. The post 7 factors that could jolt Nigerian economy before 2026 ends appeared first on Nairametrics .",
-      "published": "2026-08-02T07:03:19+00:00",
-      "fetched": "2026-08-02T07:58:29.223442+00:00"
-    },
-    {
-      "id": "f5ddfc646a84e928",
-      "title": "Nigeria is adopting AI fast, but foreign firms are winning, Report warns",
-      "link": "https://nairametrics.com/2026/08/02/nigeria-is-adopting-ai-fast-but-foreign-firms-are-winning-report-warns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria is at risk of becoming permanently dependent on foreign artificial intelligence (AI) technologies unless it significantly increases investment in developing indigenous AI models, datasets and computing infrastructure, according to a new report. The post Nigeria is adopting AI fast, but foreign firms are winning, Report warns appeared first on Nairametrics .",
-      "published": "2026-08-02T06:17:11+00:00",
-      "fetched": "2026-08-02T07:58:29.223523+00:00"
-    },
-    {
-      "id": "fbfb624693a705a9",
-      "title": "SAHCO’s H1 2026 pre-tax profit falls 41% as cost pressures weaken margins",
-      "link": "https://nairametrics.com/2026/08/02/sahcos-h1-2026-pre-tax-profit-falls-41-as-cost-pressures-weaken-margins/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Skyway Aviation Handling Company Plc reported pre-tax profit of N5.827 billion for the first half year ended 30 June 2026, representing a 41.49% decline from N9.958 billion recorded in the corresponding period of 2025. The post SAHCO’s H1 2026 pre-tax profit falls 41% as cost pressures weaken margins appeared first on Nairametrics .",
-      "published": "2026-08-02T05:42:12+00:00",
-      "fetched": "2026-08-02T07:58:29.223577+00:00"
-    },
-    {
-      "id": "9ac458ca8025a72c",
-      "title": "Best performing Nigerian stocks for the week ended July 31, 2026",
-      "link": "https://nairametrics.com/2026/08/02/best-performing-nigerian-stocks-for-the-week-ended-july-31-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market closed the week at losses, with the benchmark All-Share Index slipping 0.03% session-on-session and 0.81% week-on-week to close at 245,283.68 points, down from 245,362.26 points last session, and 247,357.40 points at the start of the week. The post Best performing Nigerian stocks for the week ended July 31, 2026 appeared first on Nairametrics .",
-      "published": "2026-08-02T05:36:52+00:00",
-      "fetched": "2026-08-02T07:58:29.223626+00:00"
-    },
-    {
-      "id": "bad95b99d9ebd557",
-      "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-      "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
-      "published": "2026-08-01T20:22:15+00:00",
-      "fetched": "2026-08-02T01:21:58.144936+00:00"
-    },
-    {
-      "id": "d7a429303db09f30",
-      "title": "Let’s elect candidates who will make the wealthy pay taxes",
-      "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "We can use some of those revenues to make Social Security contributions more equitable.",
-      "published": "2026-08-01T18:30:00+00:00",
-      "fetched": "2026-08-01T18:47:12.902101+00:00"
-    },
-    {
-      "id": "7f5e6972cf6aab7f",
-      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-      "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I will file a complaint with the Better Business Bureau.”",
-      "published": "2026-08-01T18:15:00+00:00",
-      "fetched": "2026-08-02T12:49:48.117595+00:00"
-    },
-    {
-      "id": "26cd5d04d709d6ce",
-      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
-      "published": "2026-08-01T18:06:00+00:00",
-      "fetched": "2026-08-01T18:47:12.902163+00:00"
     }
   ]
 }

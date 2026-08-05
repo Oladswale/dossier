@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-04T19:14:45.452603+00:00",
-  "count": 85,
+  "updated": "2026-08-05T01:15:58.096531+00:00",
+  "count": 87,
   "items": [
+    {
+      "id": "bc6c775753cc0291",
+      "title": "Past is prologue for geopolitical developments",
+      "link": "https://news.mit.edu/2026/past-prologue-geopolitical-developments-0804",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "DUSP Associate Professor Jason Jackson’s latest book compares how two countries chose radically different paths to economic independence.",
+      "published": "2026-08-04T20:25:00+00:00",
+      "fetched": "2026-08-05T01:15:56.934544+00:00"
+    },
+    {
+      "id": "7f81bb4f33277914",
+      "title": "Reframing leadership as a design problem",
+      "link": "https://news.mit.edu/2026/reframing-leadership-design-problem-nicholas-de-monchaux-0804",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Nicholas de Monchaux reflects on guiding the MIT Department of Architecture through a period of dramatic change for the profession.",
+      "published": "2026-08-04T20:00:00+00:00",
+      "fetched": "2026-08-05T01:15:56.934581+00:00"
+    },
     {
       "id": "dfb23587b4e7785d",
       "title": "Solving the solvent problem",
