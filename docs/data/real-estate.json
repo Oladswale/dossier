@@ -1,8 +1,138 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-06T13:27:13.252197+00:00",
+  "updated": "2026-08-06T23:46:23.596179+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ccde97ad2e80e2a9",
+      "title": "The ‘Ted Lasso’ Takeover: How Jason Sudeikis’ Hit Show Turned Affluent London Suburb Into Tourist Hot Spot",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/ted-lasso-richmond-london-tourism-boost/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Jason Sudeikis' Emmy Award–winning show has transformed a quiet community into a thriving hot spot for international travelers.",
+      "published": "2026-08-06T22:36:23+00:00",
+      "fetched": "2026-08-06T23:46:23.595366+00:00"
+    },
+    {
+      "id": "ee67d5f6bb1ec318",
+      "title": "New Mexico’s Young Adults Are Abandoning The Rental Market To Live At Home Longer",
+      "link": "https://www.realtor.com/advice/hyperlocal/new-mexico-housing-crisis-young-adults-to-live-at-home-with-parents-longer/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The housing market continues to present significant challenges for young adults, with many opting to live with their parents in New Mexico.",
+      "published": "2026-08-06T21:43:00+00:00",
+      "fetched": "2026-08-06T23:46:23.595407+00:00"
+    },
+    {
+      "id": "c31aea2c03bdc5d6",
+      "title": "Older Boomers Enter ‘Cash Is King’ Era as 46% Buy Homes Outright Without a Mortgage",
+      "link": "https://www.realtor.com/news/trends/boomers-cash-offer-homebuyer-nar-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Among boomers aged 71 to 79, 46% purchased their home without financing, a recent study found.",
+      "published": "2026-08-06T21:36:50+00:00",
+      "fetched": "2026-08-06T23:46:23.595436+00:00"
+    },
+    {
+      "id": "6c7d8a900ebc3c25",
+      "title": "Rare $27 Million Mansion Hits the Market in California’s Ultrasecretive Billionaire Enclave: ‘An Exceptional Opportunity’",
+      "link": "https://www.realtor.com/news/unique-homes/mansion-for-sale-bradbury-estates-secret-billionaire-community/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Located behind the 24/7 guarded gates of Bradbury Estates, the mansion boasts 14,600 square feet of Tuscan-inspired architecture.",
+      "published": "2026-08-06T20:58:13+00:00",
+      "fetched": "2026-08-06T23:46:23.595465+00:00"
+    },
+    {
+      "id": "559b8a37d2a362c2",
+      "title": "Today’s Starter Homes Hide Massive Remodel Costs Buyers Need To Budget For",
+      "link": "https://www.realtor.com/advice/home-improvement/starter-homes-remodel-costs/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If you want to buy a starter home, the listing price is just the start of the financial investment, depending on the needed repairs.",
+      "published": "2026-08-06T19:52:13+00:00",
+      "fetched": "2026-08-06T23:46:23.595494+00:00"
+    },
+    {
+      "id": "0f1ca22b0c892f3d",
+      "title": "Sydney Sweeney Jets Back to Her Hometown of Spokane With Boyfriend Scooter Braun To Give Aid to Wildfire Victims",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/sydney-sweeney-scooter-braun-spokane-washington-wildfire-victims/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Sweeney, who was born and raised in Spokane, jetted back to the Washington city to hand out food to victims of the wildfires.",
+      "published": "2026-08-06T19:42:35+00:00",
+      "fetched": "2026-08-06T23:46:23.595522+00:00"
+    },
+    {
+      "id": "1903322f6937e086",
+      "title": "EXCLUSIVE: Joe Manganiello’s Fiancée Caitlin O’Connor Opens Up About Their ‘Amazing’ New Life in Pittsburgh After Leaving L.A.",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/caitlin-oconnor-joe-manganiello-move-pittsburgh-wedding-relationship/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "O'Connor and Manganiello relocated to Pennsylvania from Los Angeles at the end of 2025—amid a slump in the entertainment industry.",
+      "published": "2026-08-06T18:52:42+00:00",
+      "fetched": "2026-08-06T23:46:23.595572+00:00"
+    },
+    {
+      "id": "9b70667581c06e98",
+      "title": "‘Spider-Man’ Stars Zendaya and Tom Holland Host Secret Wedding Party in U.K.—but Give No Hint About Which Home They Plan To Live In",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/zendaya-tom-holland-married-law-roach-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Holland and Zendaya are officially married—but they have yet to reveal whether they will live in the U.S. or the U.K.",
+      "published": "2026-08-06T17:17:00+00:00",
+      "fetched": "2026-08-06T23:46:23.595609+00:00"
+    },
+    {
+      "id": "4340357ad399a18c",
+      "title": "EXCLUSIVE: ‘She’s All That’ Star Lists L.A. Home for $1.5 Million—as She Becomes Latest Celebrity To Quit California",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/shes-all-that-tamara-mello-los-angeles-move-florida/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tamara Mello, who rose to fame in the late 1990s, has revealed she and her husband are leaving L.A. to move to Florida.",
+      "published": "2026-08-06T16:18:54+00:00",
+      "fetched": "2026-08-06T23:46:23.595643+00:00"
+    },
+    {
+      "id": "f9f0675e0690c227",
+      "title": "Mortgage Rates Hit 6.69% as Markets Await Critical Deal To Reopen Strait of Hormuz",
+      "link": "https://www.realtor.com/news/trends/mortgage-interest-rates-now-august-6-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed home loans hit 6.69% for the week ending Aug. 6 as Iran and Oman negotiate to reopen the Strait of Hormuz.",
+      "published": "2026-08-06T16:01:22+00:00",
+      "fetched": "2026-08-06T23:46:23.595671+00:00"
+    },
+    {
+      "id": "8a523996b1b13fb5",
+      "title": "Compass Defends Private Listings Strategy as Key Deadline in Congressional Probe Expires",
+      "link": "https://www.realtor.com/news/real-estate-news/compass-reffkin-private-listings-congressional-probe-earnings-call/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Compass CEO Robert Reffkin defended the company's private listings strategy as a deadline passed to respond to a congressional probe.",
+      "published": "2026-08-06T15:31:00+00:00",
+      "fetched": "2026-08-06T23:46:23.595698+00:00"
+    },
+    {
+      "id": "e4808624ca275ad5",
+      "title": "Mississippi’s Housing Crisis Is Forcing Young Adults To Live at Home With Parents Longer",
+      "link": "https://www.realtor.com/advice/hyperlocal/mississippis-housing-crisis-is-forcing-young-adults-to-live-at-home-with-parents-longer/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Many young adults across the nation find themselves unable to leave the nest due to various economic pressures, especially in Mississippi.",
+      "published": "2026-08-06T14:43:46+00:00",
+      "fetched": "2026-08-06T23:46:23.595726+00:00"
+    },
+    {
+      "id": "1a2b545aa20e2d8c",
+      "title": "Donald Trump Jr. Pays Ex Kimberly Guilfoyle $7.6 Million To Buy Her Out of Shared Jupiter Mansion—Months After Wedding Bettina Anderson",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/donald-trump-jr-kimberly-guilfoyle-mansion-buyout-florida/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Trump, 48, and Guilfoyle, 57, purchased the property for $9.7 million in 2021, just a few months after they got engaged.",
+      "published": "2026-08-06T13:45:48+00:00",
+      "fetched": "2026-08-06T23:46:23.595755+00:00"
+    },
     {
       "id": "e6c7bcfb3f7a165e",
       "title": "Vacation Rentals Are Officially on Sale: Where They’re Worth Buying",
@@ -1372,136 +1502,6 @@
       "summary": "Mia Bieniemy, 57, was reportedly taken to hospital with \"serious injuries\" after the incident at the couple's Ashburn, VA, home on July 26.",
       "published": "2026-07-27T14:24:40+00:00",
       "fetched": "2026-07-29T08:14:16.074960+00:00"
-    },
-    {
-      "id": "f5185b09dc50966e",
-      "title": "Deal Diary: 9 Years, 39 Doors, and $20K a Month in Cash Flow—Here’s How Jefferson Simmons Built His Portfolio",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-jefferson-simmons",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Jefferson Simmons Location Manhattan, Kansas Occupation Full-time real estate investor (former underwriter, Realtor, and university fundraiser) Assets 17 properties, 39 doors, $20,000/month in cash flow Investment strategy Single-family and [ ]",
-      "published": "2026-07-27T14:00:00+00:00",
-      "fetched": "2026-07-29T08:30:04.856433+00:00"
-    },
-    {
-      "id": "e3e3d2afe9ed5a73",
-      "title": "One Rental Property Saved Me From My 100-Hour Workweeks",
-      "link": "https://www.biggerpockets.com/blog/rookie-749",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Picture this: working two jobs, sleeping during your breaks, and still showing up every single day because you ve already decided what your life looks like on the other side! That s [ ]",
-      "published": "2026-07-27T11:00:10+00:00",
-      "fetched": "2026-07-29T08:30:04.856464+00:00"
-    },
-    {
-      "id": "e349356c60ca9f59",
-      "title": "The “Repeatable” Strategy That Helped Him Buy 6 Rentals in 6 Months (Working 9-5)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1309",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Worried you’ll come up short in retirement? When Brian Waters ran the numbers, he realized he was still decades away from being able to leave his nine-to-five. He needed a [ ]",
-      "published": "2026-07-27T11:00:08+00:00",
-      "fetched": "2026-07-29T08:30:04.856499+00:00"
-    },
-    {
-      "id": "05788d48676622c8",
-      "title": "Heartland’s Affordable Innovation Oasis Emerges as a Real Estate Powerhouse",
-      "link": "https://www.realtor.com/news/trends/champaign-urbana-illinois-real-estate-powerhouse-july-2026-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Driven by high demand and low inventory around the University of Illinois, Champaign-Urbana's housing market is booming.",
-      "published": "2026-07-27T10:00:00+00:00",
-      "fetched": "2026-07-29T08:14:16.074976+00:00"
-    },
-    {
-      "id": "c84b68b7b4577461",
-      "title": "Stock Wealth Surges Past Real Estate: Should First-Time Buyers Hold Off To Build a Down Payment?",
-      "link": "https://www.realtor.com/news/trends/stock-wealth-surges-past-real-estate-money-monday/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Goldman Sachs reports that household equity holdings have surpassed real estate as a share of financial wealth for the 1st time since WW II.",
-      "published": "2026-07-27T09:32:00+00:00",
-      "fetched": "2026-07-29T08:14:16.074994+00:00"
-    },
-    {
-      "id": "bc52a399cc5b728c",
-      "title": "Housing Week Ahead: Fed Decision, Home Price Data, and Spotlight on Delaware Luxury Market",
-      "link": "https://www.realtor.com/news/trends/weekly-housing-video-market-data-july-27-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Realtor.com economic research team is preparing for a full slate of market reports and economic indicators this week.",
-      "published": "2026-07-27T09:07:00+00:00",
-      "fetched": "2026-07-29T08:14:16.075010+00:00"
-    },
-    {
-      "id": "b764bfd34fb6760b",
-      "title": "Inside the ‘World’s First Human Optimization Residence’ That Is Designed to Extend Residents’ Lifespans",
-      "link": "https://www.realtor.com/news/unique-homes/miami-bal-harbour-penthouse-wellness-longevity/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The jaw-dropping penthouse was “intentionally designed to enhance longevity, recovery and everyday performance.\"",
-      "published": "2026-07-26T20:17:00+00:00",
-      "fetched": "2026-07-29T08:14:16.075027+00:00"
-    },
-    {
-      "id": "7e058b81ba56fa32",
-      "title": "Tallest Building on Fifth Avenue Has Only One Unit Left for Sale",
-      "link": "https://www.realtor.com/news/trends/luxury-skyscraper-520-fifth-avenue-new-york-city-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The brand new luxury tower, overlooking New York City's Bryant Park, is down to its final available condo after a string of sales.",
-      "published": "2026-07-26T18:11:00+00:00",
-      "fetched": "2026-07-29T08:14:16.075043+00:00"
-    },
-    {
-      "id": "878dfea40dfae20b",
-      "title": "‘Elevated’ Hudson Valley Farmhouse Designed To ‘Frame’ Its Beautiful Surroundings Hits the Market for $3.1 Million",
-      "link": "https://www.realtor.com/news/unique-homes/hudson-valley-farmhouse-modern-nature-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The property isn't just worthy of a shoot in a high-end magazine—it was designed by the man who used to curate them.",
-      "published": "2026-07-26T17:38:00+00:00",
-      "fetched": "2026-07-29T08:14:16.075061+00:00"
-    },
-    {
-      "id": "749a15a569d89a60",
-      "title": "Cash Flow vs. Appreciation: What Should Beginners Focus on? (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-748",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You’ve read the books. You’ve listened to the podcasts. But you still don’t feel “ready” to invest in real estate.",
-      "published": "2026-07-24T11:00:17+00:00",
-      "fetched": "2026-07-29T08:30:04.856545+00:00"
-    },
-    {
-      "id": "c1ef9b54a242d233",
-      "title": "Homes Are Selling for Much Less Than You Think | July 2026 Housing Market Update",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1308",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "We’ve reached the midway point of 2026, and with six months of housing market data to pull from, one thing is clear: the headlines don’t match reality. The media is [ ]",
-      "published": "2026-07-24T11:00:09+00:00",
-      "fetched": "2026-07-29T08:30:04.856575+00:00"
-    },
-    {
-      "id": "f93ee96d10248bc4",
-      "title": "You Can Retire with Even Less (Only Using Real Estate)",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-445",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The average American will not be able to retire. 50% are going into their golden years with less than $500,000—significantly short of what would even be considered a livable retirement [ ]",
-      "published": "2026-07-23T11:00:12+00:00",
-      "fetched": "2026-07-29T08:30:04.856604+00:00"
-    },
-    {
-      "id": "54e381cfd3f4bf41",
-      "title": "Most Mom-and-Pop Landlords Lose Money—Here’s Why, and What to Do Instead",
-      "link": "https://www.biggerpockets.com/blog/most-mom-and-pop-landlords-lose-money",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "According to the media and average Americans, landlords are all rich, lazy leeches growing fat off of honest workers. It’s an easy narrative to spin. Too bad the numbers prove [ ]",
-      "published": "2026-07-22T16:38:51+00:00",
-      "fetched": "2026-07-29T08:30:04.856635+00:00"
     }
   ]
 }
