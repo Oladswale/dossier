@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-06T01:13:22.005030+00:00",
-  "count": 93,
+  "updated": "2026-08-06T08:10:01.990760+00:00",
+  "count": 95,
   "items": [
+    {
+      "id": "35eddbae7e4ee5bb",
+      "title": "Mark Twain Predicts the Internet in 1898: Read His Sci-Fi Crime Story, “From The ‘London Times’ in 1904”",
+      "link": "https://www.openculture.com/2026/08/mark-twain-predicts-the-internet-in-1898.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Most people know that Mark Twain wrote about Jim and Huckleberry Finn navigating down the Mississippi. Less well known is that he occasionally dabbled in the burgeoning genre of science fiction. His 1898 short story “The Great Dark” is about a ship that sails across a drop of water on a microscope slide.",
+      "published": "2026-08-06T07:01:42+00:00",
+      "fetched": "2026-08-06T08:10:01.990538+00:00"
+    },
+    {
+      "id": "949f5ebfee2eb935",
+      "title": "A new way to watch heat move through electronics",
+      "link": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers can now precisely measure how heat moves through multilayered materials like computer chips.",
+      "published": "2026-08-06T04:00:00+00:00",
+      "fetched": "2026-08-06T08:09:58.489922+00:00"
+    },
     {
       "id": "a2e15bac9378b7da",
       "title": "Then and now: How MIT Lincoln Laboratory has served as a driving force in national security innovation",
