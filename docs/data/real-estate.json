@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-06T08:10:03.280057+00:00",
+  "updated": "2026-08-06T13:27:13.252197+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e6c7bcfb3f7a165e",
+      "title": "Vacation Rentals Are Officially on Sale: Where They’re Worth Buying",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-449",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Vacation rental markets were some of the biggest winners of the housing boom several years ago. But where are those real estate markets today? New data suggests that many [ ]",
+      "published": "2026-08-06T11:00:10+00:00",
+      "fetched": "2026-08-06T13:27:12.797255+00:00"
+    },
+    {
+      "id": "2d7109ed88802089",
+      "title": "Why British Homebuyers Are Quietly Flocking to This Affordable Heartland State",
+      "link": "https://www.realtor.com/news/trends/british-homebuyers-michigan-nar-report-july-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Driven by the auto industry and bargain lakefront living, the Great Lakes State has quietly become popular with U.K. homebuyers.",
+      "published": "2026-08-06T10:00:00+00:00",
+      "fetched": "2026-08-06T13:27:13.251690+00:00"
+    },
+    {
+      "id": "a11c1658a9579f26",
+      "title": "Inside ‘Chopped’ Champion and ‘Queen of Brunch’ Suzanne Vizethann’s Idyllic Maine Farmhouse—and Dream Kitchen Design",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/food-network-queen-brunch-suzanne-vizethann-perfect-kitchen-maine/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Vizethann, 43, and her husband bought their Maine farmhouse in 2023—then set about creating the perfect cooking space.",
+      "published": "2026-08-06T09:08:00+00:00",
+      "fetched": "2026-08-06T13:27:13.251723+00:00"
+    },
     {
       "id": "4def8e9dbd61af62",
       "title": "EXCLUSIVE: ‘American Pie’ Star Seann William Scott Lists His ‘Magical’ Malibu Park Estate for $17.5 Million",
@@ -1472,36 +1502,6 @@
       "summary": "According to the media and average Americans, landlords are all rich, lazy leeches growing fat off of honest workers. It’s an easy narrative to spin. Too bad the numbers prove [ ]",
       "published": "2026-07-22T16:38:51+00:00",
       "fetched": "2026-07-29T08:30:04.856635+00:00"
-    },
-    {
-      "id": "37ff3e878946b167",
-      "title": "When Passive Income Becomes a Massive Headache: The Major Mistakes Landlords Have Made and What They Did to Correct Them",
-      "link": "https://www.biggerpockets.com/blog/when-passive-income-becomes-a-massive-headache",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "As seasoned investors will tell you, the phrase “passive income” is largely an oxymoron—like the term “easy money” or, for Brit transplants like me, the sentence, “I think England can [ ]",
-      "published": "2026-07-22T16:36:04+00:00",
-      "fetched": "2026-07-29T08:30:04.856667+00:00"
-    },
-    {
-      "id": "4de0a9abe76ff701",
-      "title": "Making $3,000/Month Cash Flow (Per Property) with This Scalable Rental Strategy",
-      "link": "https://www.biggerpockets.com/blog/rookie-747",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "One of the biggest mistakes new investors make is analyzing rental properties for the best-case scenario. Today’s guest does the opposite. He plans for the worst, and it’s the reason [ ]",
-      "published": "2026-07-22T11:00:40+00:00",
-      "fetched": "2026-07-29T08:30:04.856696+00:00"
-    },
-    {
-      "id": "52b6b8c812b140b5",
-      "title": "Build vs. Buy: Which Is Best for Your First Rental?",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1307",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You don’t have to buy your first rental property—you can build one instead. Newer systems, fewer repairs, and that “brand new” feeling that tenants may pay more rent for. But…is [ ]",
-      "published": "2026-07-22T11:00:21+00:00",
-      "fetched": "2026-07-29T08:30:04.856724+00:00"
     }
   ]
 }
