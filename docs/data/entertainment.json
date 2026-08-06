@@ -1,8 +1,178 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-05T19:08:30.838037+00:00",
+  "updated": "2026-08-06T01:13:20.502182+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1955dbed155d5121",
+      "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’",
+      "link": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Regal Cinemas CEO Eduardo Acuna released a statement on Wednesday evening in support of the looming Paramount-Warner Bros. merger. This year has been an important one for our industry.",
+      "published": "2026-08-06T00:36:25+00:00",
+      "fetched": "2026-08-06T01:13:20.075915+00:00"
+    },
+    {
+      "id": "19c0fcd98e51f983",
+      "title": "Selena Gomez Says Goodbye to Alex Russo After ‘Wizards Beyond Waverly Place’ Finale",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/selena-gomez-alex-russo-wizards-beyond-waverly-place-finale-1235604353/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer-actress says goodbye to her beloved character",
+      "published": "2026-08-06T00:18:25+00:00",
+      "fetched": "2026-08-06T01:13:20.352471+00:00"
+    },
+    {
+      "id": "11714c0ab52dbc5d",
+      "title": "Geddy Lee, Alex Lifeson, and Famous Guest Drummers Honor Neil Peart in New Documentary",
+      "link": "https://www.rollingstone.com/music/music-news/geddy-lee-alex-lifeson-neil-peart-documentary-1235604273/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Chad Smith, Stewart Copeland, and Danny Carey all play Rush songs with Lee and Lifeson in Neil Peart: No One’s Disciple, which debuts in September",
+      "published": "2026-08-05T22:40:46+00:00",
+      "fetched": "2026-08-06T01:13:20.352513+00:00"
+    },
+    {
+      "id": "23a2d18252591dd0",
+      "title": "Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to ‘Hash It Out’ After Things ‘Got Pretty Bad’",
+      "link": "https://variety.com/2026/tv/news/zendaya-bella-thorne-feud-disney-pitted-against-each-other-1236828507/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Bella Thorne revealed on the latest episode of the Call Her Daddy podcast that she was aggressively pitted against her Shake It Off co-star Zendaya amid the height of their Disney stardom. The two actors became household names among Disney Channel viewers for playing CeCe Jones (Thorne) and Rocky Blue (Zendaya) on Shake It Off, [ ]",
+      "published": "2026-08-05T22:07:29+00:00",
+      "fetched": "2026-08-06T01:13:20.075971+00:00"
+    },
+    {
+      "id": "b9bf07c713bf997a",
+      "title": "The Best Party Speakers Are Here to Save Summer",
+      "link": "https://www.rollingstone.com/product-recommendations/tech/best-party-speakers-1235601879/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "It's a hot one, but these party speakers will help you make the most of every beach and backyard hang",
+      "published": "2026-08-05T22:00:00+00:00",
+      "fetched": "2026-08-06T01:13:20.352540+00:00"
+    },
+    {
+      "id": "feccd44ba256647f",
+      "title": "Vampire Mockumentary ‘I Love Paris’ Takes Top Honors at 2026 Fantasia Film Festival Audience Awards",
+      "link": "https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The people have spoken at this year’s Fantasia International Film Festival. Nicky Murphy’s vampire mockumentary “I Love Paris” took home best international feature honors at the audience awards, while Masanao Kawajiri’s “Cherry and Virgin” was honored with best animated feature. This year s Fantasia International Film Festival took place from July 16 to Aug.",
+      "published": "2026-08-05T21:58:37+00:00",
+      "fetched": "2026-08-06T01:13:20.076025+00:00"
+    },
+    {
+      "id": "e48745c89a231abc",
+      "title": "‘Mustache’ Review: A Delightfully Anxious Pakistani American Coming-of-Age Comedy",
+      "link": "https://variety.com/2026/film/news/mustache-review-1236827903/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "American coming-of-age comedies rarely beat with such uncomfortable verisimilitude. In the bilingual “Mustache” — the first feature from writer-director Imran J. Khan — 13-year-old Pakistani American high schooler Ilyas (Atharv Verma) undergoes an awkward adjustment from a private Islamic institution to a generic American high school.",
+      "published": "2026-08-05T21:37:59+00:00",
+      "fetched": "2026-08-06T01:13:20.076075+00:00"
+    },
+    {
+      "id": "a7bf0d2c166a97a0",
+      "title": "‘Love Island’ Host Ariana Madix Loses Appeal Over ‘Vanderpump Rules’ Revenge Porn Lawsuit",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/ariana-madix-love-island-vanderpump-loses-appeal-leviss-1235604064/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The underlying lawsuit will now proceed after a two-year delay pending the appeal decision",
+      "published": "2026-08-05T21:35:50+00:00",
+      "fetched": "2026-08-06T01:13:20.352567+00:00"
+    },
+    {
+      "id": "efeb89973f78f666",
+      "title": "‘Soulm8te’ Review: Fembot Goes Rogue in Polished but Predictable Tech Thriller",
+      "link": "https://variety.com/2026/film/reviews/soulm8te-review-1236828635/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Billed as a spun-off third entry in the “M3GAN” franchise, “Soulm8te” is to “Fatal Attraction” as M3GAN’s vehicles were to “Orphan” and “The Bad Seed” — a robotic replay of very familiar genre tropes. Here, a grieving widower working in tech agrees to try out a prototype of the titular “AI companion,” basically a beauteous [ ]",
+      "published": "2026-08-05T21:22:15+00:00",
+      "fetched": "2026-08-06T01:13:20.076123+00:00"
+    },
+    {
+      "id": "7dabdac90af6901b",
+      "title": "Abdul El-Sayed’s Win Sets Off Wave of MAGA Islamophobia",
+      "link": "https://www.rollingstone.com/politics/politics-news/abdul-el-sayed-win-michigan-maga-islamophobia-1235604181/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The high-stakes Senate race in Michigan is going to be ugly",
+      "published": "2026-08-05T21:12:06+00:00",
+      "fetched": "2026-08-06T01:13:20.352590+00:00"
+    },
+    {
+      "id": "e831e829d5fd8bc2",
+      "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA’s Emerging Songwriter Award Nominations Now Open",
+      "link": "https://variety.com/2026/music/news/alicia-keys-signs-with-caa-1236828699/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Alicia Keys has signed with CAA in all areas, the company announced earlier this week. Among her many achievements, the singer-songwriter has sold an estimated 65 million records since the release of her 2001 debut album, “Songs in A Minor,” and is the subject of “Hell’s Kitchen,” a Broadway musical featuring her music and lyrics [ ]",
+      "published": "2026-08-05T21:05:19+00:00",
+      "fetched": "2026-08-06T01:13:20.076171+00:00"
+    },
+    {
+      "id": "dc20a8508d9c9556",
+      "title": "‘Super Troopers 3’ Review: A Cult Comedy Franchise Seeks No Converts in Instantly Forgettable Third Go-Round",
+      "link": "https://variety.com/2026/film/reviews/super-troopers-3-review-1236828587/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "2018 s Super Troopers 2 wasn t so much fan service as fan self-service. Kickstarted with nearly $5 million of crowdfunding after studios doubted the public appetite for a tardy sequel to the 2001 indie sleeper Super Troopers, it gave the people what they wanted and not much else: a familiar rehash of the first film s broad [ ]",
+      "published": "2026-08-05T21:02:40+00:00",
+      "fetched": "2026-08-06T01:13:20.076218+00:00"
+    },
+    {
+      "id": "7ec795897b28b145",
+      "title": "‘Love Island USA’ Season 8 Hits Nearly 19 Billion Minutes Viewed, Most-Watched Streaming Series of the Summer",
+      "link": "https://variety.com/2026/tv/news/love-island-usa-season-8-ratings-record-1236828613/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Love Island USA is officially the series of the summer. According to Peacock, Season 8 of the reality dating series has reached nearly 19 billion minutes watched to date, spanning 35 episodes released between June 2 and July 13 — making it the streamer s most-watched original season ever. Divided by the season s nearly 40-hour runtime, [ ]",
+      "published": "2026-08-05T21:00:00+00:00",
+      "fetched": "2026-08-06T01:13:20.076268+00:00"
+    },
+    {
+      "id": "67e7283a9e75129b",
+      "title": "A Gilmore Girls Documentary Is on Its Way",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/gilmore-girls-hbo-max-documentary-announcement-1235604103/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The authorized documentary will feature never before seen footage from the beloved series and feature interviews with star Lauren Graham",
+      "published": "2026-08-05T20:56:30+00:00",
+      "fetched": "2026-08-06T01:13:20.352615+00:00"
+    },
+    {
+      "id": "cfe1d450163c7157",
+      "title": "The Best Earplugs",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-earplugs-for-concerts-music-938572/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "These specialized earplugs reduce harmful concert volumes and still let you hear the music (and your friends)",
+      "published": "2026-08-05T20:56:00+00:00",
+      "fetched": "2026-08-06T01:13:20.352636+00:00"
+    },
+    {
+      "id": "49cb89386f5ccd0b",
+      "title": "Molly Ringwald Says ‘Secret Life of the American Teenager’ Was Her ‘Worst’ Work Experience: ‘One Person Was Really Difficult’",
+      "link": "https://variety.com/2026/tv/news/molly-ringwald-secret-life-awful-bad-co-star-1236828669/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Molly Ringwald’s experience starring in “The Secret Life of the American Teenager” was tarnished by one bad apple on set. The veteran actress was a guest on the Aug. 4 episode of Andy Cohen’s Bravo talk show “Watch What Happens Live,” which is known for posing revealing questions during games with celebrity guests.",
+      "published": "2026-08-05T20:45:51+00:00",
+      "fetched": "2026-08-06T01:13:20.076317+00:00"
+    },
+    {
+      "id": "d3d98317f4e105e8",
+      "title": "Xbox Celebrates 25 Years With New Community Designs, Updates and FanFest Tour Dates (Gaming News Roundup)",
+      "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-august-3-1236827778/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Xbox is celebrating 25 years of play with new updates, community designs, curated Game Pass collections and the FanFest Tour schedule. Xbox’s 25th anniversary is Nov. 15.",
+      "published": "2026-08-05T20:41:21+00:00",
+      "fetched": "2026-08-06T01:13:20.076366+00:00"
+    },
     {
       "id": "b5750668314ec790",
       "title": "Perez Hilton’s Family Asks for Privacy as Blogger Receives Medical Care Following Self-Harm",
@@ -12,6 +182,16 @@
       "summary": "\"We can confirm that Perez is receiving medical care, and our family’s focus right now is on his well-being,\" reads a statement",
       "published": "2026-08-05T19:07:54+00:00",
       "fetched": "2026-08-05T19:08:30.735545+00:00"
+    },
+    {
+      "id": "40e63af102141a1f",
+      "title": "Sam Smith Releases Bluesy Lament ‘When He’s Gone’ Ahead of New Album, ‘Hazel Eyes’",
+      "link": "https://www.rollingstone.com/music/music-news/sam-smith-when-hes-gone-single-hazel-eyes-1235603990/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Smith’s fifth studio album arrives on Aug. 21",
+      "published": "2026-08-05T19:02:17+00:00",
+      "fetched": "2026-08-06T01:13:20.352671+00:00"
     },
     {
       "id": "5f112c853183db02",
@@ -1322,186 +1502,6 @@
       "summary": "Throughout two decades of web-slinging, rebooting, reversals of fortune, immersions into the Marvel Cinematic Universe and sporadic reappearances by the Spidey-hating J. Jonah Jameson, the “Spider-Man” film franchise has been wildly inconsistent, yet remarkably indestructible. Spider-Man: Brand New Day, the latest film, broke box office records this weekend after it swung its way to a [ ]",
       "published": "2026-08-03T18:50:49+00:00",
       "fetched": "2026-08-03T19:13:47.768939+00:00"
-    },
-    {
-      "id": "92bb224179fdb351",
-      "title": "The Most Revealing Celebrity Confessionals From Rosalía’s ‘Lux’ Tour",
-      "link": "https://www.rollingstone.com/music/music-latin-lists/rosalias-lux-tour-confessionals-celebrity-appearances-1235571575/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer has been inviting stars, from Lola Young to Bad Gyal, to share their deepest secrets onstage before her song “La Perla”",
-      "published": "2026-08-03T18:43:36+00:00",
-      "fetched": "2026-08-03T19:13:47.919564+00:00"
-    },
-    {
-      "id": "e97c1f6dacf81b6b",
-      "title": "Scout Motors Salutes Hard-working Americans at Rolling Stone’s July 4th Stateside Fest",
-      "link": "https://www.rollingstone.com/music/music-news/scout-motors-rolling-stone-july-4th-stateside-1235601199/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "It wasn t just any Fourth of July. It was America s 250th birthday, and fittingly, Rolling Stone brought its inaugural Stateside festival to Kingston, N.Y. — New York s first capital and a city steeped in Revolutionary history.",
-      "published": "2026-08-03T18:13:39+00:00",
-      "fetched": "2026-08-03T19:13:47.919629+00:00"
-    },
-    {
-      "id": "91a88640d109c3c6",
-      "title": "Met Gala 2027 Theme to Highlight Work and Past of Controversial Designer John Galliano",
-      "link": "https://www.rollingstone.com/culture/culture-news/met-gala-2027-theme-john-galliano-controversy-1235602472/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The designer was fired from Dior in 2011 after he was filmed going on an antisemitic rant at a Paris bar",
-      "published": "2026-08-03T18:09:58+00:00",
-      "fetched": "2026-08-03T19:13:47.919662+00:00"
-    },
-    {
-      "id": "0dc28934d175805e",
-      "title": "Pentagon, Coming Up Empty, Solicits ‘Creative’ Ideas for How to Win Iran War",
-      "link": "https://www.rollingstone.com/politics/politics-news/pentagon-seeks-creative-ideas-win-iran-war-1235602746/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Donald Trump and his administration appear to be at a loss for how to move the needle in the conflict",
-      "published": "2026-08-03T18:05:20+00:00",
-      "fetched": "2026-08-03T19:13:47.919692+00:00"
-    },
-    {
-      "id": "3b9094eba65aa426",
-      "title": "‘The Beloved,’ ‘Minotaur,’ ‘No Good Men’ Among Sarajevo Film Festival’s Open Air Selection",
-      "link": "https://variety.com/2026/film/global/sarajevo-film-festival-open-air-section-1236826332/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Sarajevo Film Festival has revealed the lineup of its Open Air section, which screens films outdoors in the festival’s largest venue, the Coca-Cola Open Air Cinema. The Open Air section includes films directed by or starring this year’s Sarajevo honorees, like Paweł Pawlikowski’s “Fatherland,” Diego Luna’s “Ashes” and “Welcome to Sarajevo,” starring Woody Harrelson. [ ]",
-      "published": "2026-08-03T18:04:54+00:00",
-      "fetched": "2026-08-03T19:13:47.768992+00:00"
-    },
-    {
-      "id": "394524d060836d98",
-      "title": "Elizabeth Gillies Joins Indie Political Comedy Series ‘The Right Side’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/elizabeth-gillies-indie-comedy-series-the-right-side-1236826111/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Elizabeth Gillies has joined the cast of Max Talisman’s independent half-hour political dramedy series “The Right Side,” which also stars Andie MacDowell and Peter Gallagher. In “The Right Side,” Gillies will play Jordan Silver, who is “the tastemaker of the Silver Family,” according to an official description. Jordan made a career critiquing her parents’ politics [ ]",
-      "published": "2026-08-03T18:00:00+00:00",
-      "fetched": "2026-08-03T19:13:47.769043+00:00"
-    },
-    {
-      "id": "0defbeecd9308544",
-      "title": "Marta Kauffman Sets Improvised Sitcom ‘DINKS’ at Amazon Starring June Diane Raphael, Paul Scheer (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/amazon-improvised-sitcom-marta-kauffman-paul-scheer-1236826405/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Amazon has greenlit its first-ever multi-cam sitcom, which hails from none other than the legendary Marta Kauffman. Titled DINKS which stands for dual income, no kids the show will also be the first-ever improvised multi-cam comedy. Paul Scheer and June Diane Raphael, who are married in real life, will star in the show [ ]",
-      "published": "2026-08-03T18:00:00+00:00",
-      "fetched": "2026-08-03T19:13:47.769092+00:00"
-    },
-    {
-      "id": "8d82d201bc95f0f9",
-      "title": "Roku City Secrets Revealed: How Long Will Jimothy Last, Why Did the Titanic Get Nixed and Where Exactly Is It Located?",
-      "link": "https://variety.com/2026/tv/news/roku-city-secrets-jimothy-the-odyssey-trojan-horse-1236825441/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It has a city hall and a city council. A vintage art deco theater, a harbor and a fair amount of traffic. And plenty of billboards, of course.",
-      "published": "2026-08-03T17:50:06+00:00",
-      "fetched": "2026-08-03T19:13:47.769144+00:00"
-    },
-    {
-      "id": "d57d4b20109330a0",
-      "title": "Lollapalooza 2026: The 11 Best Moments",
-      "link": "https://www.rollingstone.com/music/music-features/lollapalooza-2026-best-performances-charli-xcx-lorde-sb19-1235602424/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From the debut of the first all-Filipino group to play the Chicago fest to Slayyyter's ascension to the main stage",
-      "published": "2026-08-03T17:40:38+00:00",
-      "fetched": "2026-08-03T19:13:47.919718+00:00"
-    },
-    {
-      "id": "838a55e572b4fd61",
-      "title": "John Mayer Reflects on Bob Weir Playing His Final Dead & Company: ‘His Ultimate Act of Defiance’",
-      "link": "https://www.rollingstone.com/music/music-news/john-mayer-bob-weir-final-dead-and-company-health-battle-1235602656/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Guitarist says Weir’s insistence on playing three nights was amid his health battle “one of the greatest acts of heroism I will ever see in my lifetime”",
-      "published": "2026-08-03T17:35:34+00:00",
-      "fetched": "2026-08-03T19:13:47.919755+00:00"
-    },
-    {
-      "id": "6edcf8aa6e2af1ce",
-      "title": "BTS’ Arirang Tour Takes New York (and New Jersey)",
-      "link": "https://www.rollingstone.com/music/music-pictures/bts-arirang-tour-metlife-photos-1235602450/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "See our best photos from the superstars' stadium shows on Aug. 1 and 2, from the fans to the stage",
-      "published": "2026-08-03T17:21:56+00:00",
-      "fetched": "2026-08-03T19:13:47.919782+00:00"
-    },
-    {
-      "id": "53138b5469e05f8c",
-      "title": "Watch Bruce Springsteen Reflect on Patti Scialfa’s Cancer Diagnosis, Perform ‘Born to Run’ Acoustic",
-      "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-wife-cancer-diagnosis-born-to-run-1235602650/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Springsteen appeared virtually at an event for the Pan-Mass Challenge, which raises funds for the Dana-Farber Cancer Institute, where Scialfa — who he said is in remission — is being treated",
-      "published": "2026-08-03T17:17:46+00:00",
-      "fetched": "2026-08-03T19:13:47.919819+00:00"
-    },
-    {
-      "id": "248b4a066dac5c16",
-      "title": "Maggie Rogers Needed the Salve of a ‘Big Sports Summer.’ Didn’t We All",
-      "link": "https://www.rollingstone.com/music/music-features/maggie-rogers-big-sports-summer-knicks-1235601828/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From the Knicks’ championship run to Wimbledon, the singer-songwriter has been a regular presence at arenas this summer, finding inspiration for a new album in the process",
-      "published": "2026-08-03T16:55:05+00:00",
-      "fetched": "2026-08-03T19:13:47.919852+00:00"
-    },
-    {
-      "id": "1ee9314081d7a515",
-      "title": "Spain’s RTVE Joins Netflix, Universal on Félix Viscarret’s ETA Drama ‘Blanco’",
-      "link": "https://variety.com/2026/film/markets-festivals/rtve-netflix-universal-felix-viscarret-blanco-1236826445/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spanish public broadcaster RTVE has boarded “Blanco,” a high-profile feature directed by Félix Viscarret (“Patria,” “Under the Stars”) about the 1997 kidnapping and murder of Basque politician Miguel Ángel Blanco by terrorist organization ETA. RTVE joins Netflix and Universal Pictures International Spain on the project, with Universal set to handle its theatrical distribution. The film [ ]",
-      "published": "2026-08-03T16:43:57+00:00",
-      "fetched": "2026-08-03T19:13:47.769198+00:00"
-    },
-    {
-      "id": "38ff891d1bd141ca",
-      "title": "‘Movies Aren’t Dead After All’: Sony Pictures Boss Tom Rothman on Historic ‘Spider-Man’ Box Office and Losing Tarantino’s Cliff Booth Sequel to Netflix",
-      "link": "https://variety.com/2026/film/news/sony-tom-rothman-spider-man-brand-new-day-box-office-record-1236826285/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“So I guess movies aren t dead after all?” That’s the understated reaction from Tom Rothman, chairman of Sony Pictures, after “Spider-Man: Brand New Day” obliterated box office expectations. The comic book adventure, starring Tom Holland as Marvel’s web-slinging hero, ignited to $360 million domestically and a mind-blowing $932 million globally, the biggest domestic and second-largest [ ]",
-      "published": "2026-08-03T16:15:00+00:00",
-      "fetched": "2026-08-03T19:13:47.769254+00:00"
-    },
-    {
-      "id": "601a4f0430bac120",
-      "title": "Zac Brown Band Celebrates Concert Milestone by Giving Away Free Cruises to Entire Stadium",
-      "link": "https://www.rollingstone.com/music/music-news/zac-brown-brand-fenway-park-milestone-free-cruises-1235602576/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The country group surprised 37,000 audience members at Boston's Fenway Park with a trip on Margaritaville at Sea in honor of 15 consecutive sold-out shows",
-      "published": "2026-08-03T16:08:19+00:00",
-      "fetched": "2026-08-03T19:13:47.919880+00:00"
-    },
-    {
-      "id": "85fc8d77cc0e575d",
-      "title": "MS NOW Launches Peter Alexander’s ‘State of Play’ August 10",
-      "link": "https://variety.com/2026/tv/news/peter-alexander-ms-now-state-of-play-launch-1236826277/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Peter Alexander carries his years of experience at NBC News over to MS NOW, where he lands next week. The veteran Washington correspondent and weekend Today host will launch a new 11 a.m. program on the Versant-backed network starting Monday, August 10.",
-      "published": "2026-08-03T14:05:00+00:00",
-      "fetched": "2026-08-03T14:08:32.452347+00:00"
-    },
-    {
-      "id": "385b2c9f5312ef97",
-      "title": "Ben McKenzie Says Major Streamers Were Scared to License His Anti-Crypto Documentary, So He Found a Different Way to Reach Audiences",
-      "link": "https://variety.com/2026/film/news/ben-mckenzie-cryptocurrency-documentary-home-entertainment-1236825954/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ben McKenzie believes he knows why the major streaming services weren t interested in licensing Everyone Is Lying to You for Money. His new documentary takes on the cryptocurrency industry, portraying the controversial digital currency as corrupt and in dire need of more regulations. But the film is being released as President Donald Trump has profited [ ]",
-      "published": "2026-08-03T14:00:00+00:00",
-      "fetched": "2026-08-03T14:08:32.452401+00:00"
     }
   ]
 }
