@@ -1,8 +1,108 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-07T01:56:15.998263+00:00",
+  "updated": "2026-08-07T06:56:04.254248+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4c16f37b132beda5",
+      "title": "‘La Koreana,’ a Banner New Talent Title From Spain, Brought to Market at Locarno by Producers Lazona Zinema and Estibaliz Urresola’s Sirimiri (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/la-koreana-lazona-zinema-estebaliz-urresola-1236829726/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sirimiri Films, founded by Estibaliz Urresola, director of Berlinale winner “20,000 Species of Bees,” is teaming with Lazona Zinema, the Basque division of Lazona (“Spanish Affair,” “Gigantes,” “No Rest for the Wicked”) to produce “La Koreana,” one of Spain’s banner new talent titles. The projected feature debut of Basque writer-director Joana Moya, “La Koreana” leapt [ ]",
+      "published": "2026-08-07T06:36:44+00:00",
+      "fetched": "2026-08-07T06:56:03.703876+00:00"
+    },
+    {
+      "id": "bf42ebf97917f23a",
+      "title": "Hear Madonna and Kylie Minogue Team Up for ‘Love Sensation (Afterhours Mix)’",
+      "link": "https://www.rollingstone.com/music/music-news/madonna-kylie-minogue-love-sensation-afterhours-mix-1235604947/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The pop duo teased the track during a live performance in Amsterdam earlier this month",
+      "published": "2026-08-07T06:36:40+00:00",
+      "fetched": "2026-08-07T06:56:03.961180+00:00"
+    },
+    {
+      "id": "da2a2cc4615e5a64",
+      "title": "Locarno’s Alliance 4 Development Welcomes Queer Musical, Eco Body Horror and Bruce LaBruce’s Melodrama with Monica Bellucci and Béatrice Dalle",
+      "link": "https://variety.com/2026/film/global/alliance-4-development-bruce-labruce-monica-bellucci-1236828965/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Alliance 4 Development, Locarno’s co-development platform for film projects from Austria, France, Germany and Switzerland, has presented this year’s projects. The line-up includes Bruce LaBruce’s first French-led feature, “Third Take.” It’s a “female melodrama” starring Monica Bellucci and Béatrice Dalle as two actresses who reunite for a film shoot destined to “become the epiphany of [ ]",
+      "published": "2026-08-07T06:29:26+00:00",
+      "fetched": "2026-08-07T06:56:03.703942+00:00"
+    },
+    {
+      "id": "2c80ba4f33a94c96",
+      "title": "‘The Traitors’ India Season 2 Unveils Trailer With Karan Johar and 21-Celebrity Cast (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/the-traitors-india-season-2-trailer-1236829121/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Prime Video India has unveiled the trailer for the second season of The Traitors, the unscripted celebrity competition series hosted by Karan Johar, set to debut exclusively on the platform on Aug. 13. New episodes will drop every Thursday.",
+      "published": "2026-08-07T06:27:00+00:00",
+      "fetched": "2026-08-07T06:56:03.703996+00:00"
+    },
+    {
+      "id": "be90aee2dd038f40",
+      "title": "Aymar Esse, Director of Locarno Open Doors World Premiere ‘My Father’s Kora,’ Discusses Challenges of Queer Cinema in Senegal",
+      "link": "https://variety.com/2026/film/global/my-fathers-kora-locarno-open-doors-ayeman-aymar-esse-1236829086/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "My Father’s Kora (“La Kora de Mon Père”), a Benin-Switzerland-Germany production, will have its world premiere Aug. 9 at Locarno’s Open Doors section, which has focused on 42 countries of the African continent since 2025. The film follows Souleymane Everston Adowo Freudenreich, an Afro-German trans man who travels to Dakar, Senegal, to repair his father’s [ ]",
+      "published": "2026-08-07T05:58:49+00:00",
+      "fetched": "2026-08-07T06:56:03.704053+00:00"
+    },
+    {
+      "id": "391b2f0fec20f831",
+      "title": "Hear Sierra Ferrell’s Psychedelic New Song, ‘Trying to Love You’",
+      "link": "https://www.rollingstone.com/music/music-news/sierra-ferrell-new-song-trying-to-love-you-1235604841/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "On her first new single of 2026, the Americana powerhouse hops effortlessly to unexpected notes and corners",
+      "published": "2026-08-07T04:54:41+00:00",
+      "fetched": "2026-08-07T06:56:03.961217+00:00"
+    },
+    {
+      "id": "b6b1e055e1acd4cd",
+      "title": "Karol G Feels It All on the Vulnerable ‘No Me Arrepiento de Sentir Tanto’",
+      "link": "https://www.rollingstone.com/music/music-album-reviews/karol-g-no-me-arrepiento-de-sentir-album-review-1235604209/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Colombian superstar traces all of the messy phases of heartbreak on her sixth album",
+      "published": "2026-08-07T04:30:00+00:00",
+      "fetched": "2026-08-07T06:56:03.961247+00:00"
+    },
+    {
+      "id": "4a3608dbac3139d5",
+      "title": "Minnie Driver Posts Video in Neck Brace After Surviving ‘Really Bad Car Accident’: ‘Grateful to Be Alive’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/minnie-driver-car-accident-france-neck-brace-1235604879/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The actress said her car was T-boned while driving in France",
+      "published": "2026-08-07T04:21:18+00:00",
+      "fetched": "2026-08-07T06:56:03.961276+00:00"
+    },
+    {
+      "id": "43ba260aabc0a9e8",
+      "title": "The Meaning Behind Every Song on Karol G’s Most Personal Album, In Her Own Words",
+      "link": "https://www.rollingstone.com/music/music-latin/karol-g-o-me-arrepiento-de-sentir-tanto-interview-meaning-1235604867/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "In an exclusive interview, the Colombian superstar talks about the vulnerable process behind her latest LP, No Me Arrepiento de Sentir Tanto",
+      "published": "2026-08-07T04:04:00+00:00",
+      "fetched": "2026-08-07T06:56:03.961308+00:00"
+    },
+    {
+      "id": "c1d79c6352367364",
+      "title": "Koe Wetzel and Ella Langley Are Back Together for New Duet",
+      "link": "https://www.rollingstone.com/music/music-country/koe-wetzel-ella-langley-new-song-jaded-1235603988/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "With \"Jaded,\" the two country stars reunite after their breakthrough 2022 collaboration",
+      "published": "2026-08-07T04:03:28+00:00",
+      "fetched": "2026-08-07T06:56:03.961333+00:00"
+    },
     {
       "id": "332fcd6a472baa48",
       "title": "Joan Jett Cancels Upcoming Shows After Surgery From a Fractured Vertebra",
@@ -1402,106 +1502,6 @@
       "summary": "The unidentified producer says he created AI-generated vocals for several tracks and is seeking at least $220,000 for the alleged work",
       "published": "2026-08-04T17:49:13+00:00",
       "fetched": "2026-08-04T19:14:44.122945+00:00"
-    },
-    {
-      "id": "53e1879c698c1562",
-      "title": "Bendita Film Sales Seizes Worldwide Sales Rights to TIFF-Bound ‘Love Is the Monster’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/bendita-film-sales-toronto-festival-love-is-the-monster-1236826961/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spanish boutique sales outfit Bendita Film Sales has picked up worldwide rights to Neto Villalobos’ “Love is the Monster” ahead of its world premiere at the Toronto Film Festival (TIFF)’s Centrepiece global showcase program. Shot in Golfito, situated in Costa Rica’s Southern Pacific coast, the dystopian thriller stars Berlinale Silver Bear actress award winner Paulina [ ]",
-      "published": "2026-08-04T17:43:38+00:00",
-      "fetched": "2026-08-04T19:14:44.010194+00:00"
-    },
-    {
-      "id": "e9cca5f0164fc12c",
-      "title": "Elvis Costello to Celebrate 49th Anniversary of ‘My Aim Is True’ With Five-Disc Box Set",
-      "link": "https://www.rollingstone.com/music/music-news/elvis-costello-my-aim-is-true-49th-anniversary-box-set-1235603330/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Making my first record seemed like the beginning of something that I’d imagined for a long time,\" Costello writes in the liner notes, 'before I had any sense of a potential audience\"",
-      "published": "2026-08-04T17:31:18+00:00",
-      "fetched": "2026-08-04T19:14:44.122983+00:00"
-    },
-    {
-      "id": "2eb81cf78d401823",
-      "title": "Ariana Grande May or May Not Be Struggling. We Can Talk About It Without Trying to Shame Her",
-      "link": "https://variety.com/2026/music/news/ariana-grande-eating-disorder-speculation-harmful-1236827071/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“It’s so confusing sometimes to be a girl.” Over the past several years, there’s been an ongoing — and, in many cases, much-needed — conversation around pop stars and body image. In 2020, Taylor Swift disclosed to Variety’s Chris Willman that she would sometimes “just stop eating” and had developed an “unhealthy” relationship with food, [ ]",
-      "published": "2026-08-04T17:15:00+00:00",
-      "fetched": "2026-08-04T19:14:44.010243+00:00"
-    },
-    {
-      "id": "73f39b7a51e95621",
-      "title": "Where to Buy Last-Minute Outside Lands Tickets",
-      "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-outside-lands-tickets-2026-1235603004/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Charli XCX, the Strokes, the xx, Baby Keem, and more will take over San Francisco this weekend",
-      "published": "2026-08-04T16:49:26+00:00",
-      "fetched": "2026-08-04T19:14:44.123008+00:00"
-    },
-    {
-      "id": "4f44a377caa6b5f2",
-      "title": "Country Songs Are Dominating the Hot 100. We Shouldn’t Be Surprised",
-      "link": "https://www.rollingstone.com/music/music-country/country-songs-hot-100-chart-make-history-1235603286/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "For the first time in history, the Top Five is made up of all country songs, including those by Taylor Swift, Ella Langley, and Stella Lefty",
-      "published": "2026-08-04T16:45:56+00:00",
-      "fetched": "2026-08-04T19:14:44.123038+00:00"
-    },
-    {
-      "id": "6b04d239c3f2e327",
-      "title": "Linkin Park Pick Themselves Back Up in New ‘Unshatter’ Documentary Trailer",
-      "link": "https://www.rollingstone.com/music/music-news/linkin-park-unshatter-documentary-trailer-1235603284/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Directed by the band’s Joe Hahn, the film shows how they regrouped following Chester Bennington’s death to record From Zero with Emily Armstrong",
-      "published": "2026-08-04T16:38:57+00:00",
-      "fetched": "2026-08-04T19:14:44.123071+00:00"
-    },
-    {
-      "id": "9ef72a330cc698d1",
-      "title": "The ‘KPop Demon Hunters’ Soundtrack Gets an Exclusive One-Year Anniversary Vinyl",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/buy-kpop-demon-hunters-soundtrack-vinyl-cd-online-1235401178/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "This limited-edition keepsake arrives as fans continue celebrating one of Netflix's biggest original hits",
-      "published": "2026-08-04T16:21:32+00:00",
-      "fetched": "2026-08-04T19:14:44.123098+00:00"
-    },
-    {
-      "id": "3acbbb0d5453d576",
-      "title": "San Sebastián Sets José Giovanni Retrospective Honoring French Crime Cinema Pioneer",
-      "link": "https://variety.com/2026/film/global/san-sebastian-jose-giovanni-retrospective-1236827399/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The San Sebastián Film Festival will dedicate a 20-feature retrospective to José Giovanni, the French director, screenwriter and novelist who became one of the defining figures of the country’s postwar crime cinema. Running during the festival’s 74th edition, the program will span films released between 1960 and 2001, presenting almost all of Giovanni’s work as [ ]",
-      "published": "2026-08-04T13:10:34+00:00",
-      "fetched": "2026-08-04T13:30:23.970248+00:00"
-    },
-    {
-      "id": "754340e026867cc0",
-      "title": "Tokyo’s TIFFCOM 2026 Expands IP Market, Adds AI and Anime Conferences",
-      "link": "https://variety.com/2026/film/markets-festivals/tokyo-tiffcom-2026-ip-market-ai-anime-conferences-1236827466/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "TIFFCOM will expand its Tokyo IP Market: Adaptation Remake for its 2026 edition, running Oct. 28–30 at the Tokyo Metropolitan Industrial Trade Center Hamamatsucho-kan, with a conference program adding sessions on AI and anime. The Tokyo-based content market, affiliated with the Tokyo International Film Festival, is jointly organized by Japan s Ministry of Economy, Trade [ ]",
-      "published": "2026-08-04T13:09:56+00:00",
-      "fetched": "2026-08-04T13:30:23.970308+00:00"
-    },
-    {
-      "id": "61d0acb970eb37d2",
-      "title": "Todrick Hall’s ‘Midnight’ Announces Full Cast and Creative Team Ahead of New York Premiere (EXCLUSIVE)",
-      "link": "https://variety.com/2026/legit/news/todrick-hall-midnight-full-cast-off-broadway-run-1236827451/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Todrick Hall’s Midnight will make its North American premiere this fall off Broadway at the Daryl Roth Theatre following two sold-out engagements in London. Joining Hall in the cast will be Jeremy Beloate (“The Voice”), Jimmy Brewer ( Shucked ), Kennedy Caughell ( Hell’s Kitchen ), Dwayne Clark ( Shucked ), Sidney DuPont (Tony Award nominee, Paradise Square ), Ayana George ( MJ [ ]",
-      "published": "2026-08-04T13:04:21+00:00",
-      "fetched": "2026-08-04T13:30:23.970365+00:00"
     }
   ]
 }
