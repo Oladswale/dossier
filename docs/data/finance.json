@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-08-06T23:46:18.138604+00:00",
+  "updated": "2026-08-07T01:56:11.721056+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "241f6493a8a5b76a",
+      "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "No one knows what Congress will do if Social Security’s trust fund were actually to be depleted.",
+      "published": "2026-08-07T00:31:00+00:00",
+      "fetched": "2026-08-07T01:56:09.768865+00:00"
+    },
+    {
+      "id": "b5e803a0e0f7577d",
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "published": "2026-08-07T00:00:00+00:00",
+      "fetched": "2026-08-07T01:56:09.768910+00:00"
+    },
     {
       "id": "17b0bfa0e33ef092",
       "title": "As Alphabet burns through cash on AI, it’s turning back to the bond market",
@@ -1464,6 +1484,16 @@
       "fetched": "2026-08-04T19:14:40.177986+00:00"
     },
     {
+      "id": "a0fa5cd5296287d6",
+      "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+      "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Paulson said voting with the majority last week wasn't a tough decision.",
+      "published": "2026-08-04T17:49:24+00:00",
+      "fetched": "2026-08-07T01:56:10.034415+00:00"
+    },
+    {
       "id": "cbfc17b768549932",
       "title": "Comercio Partners Report: 10 years of money market and living costs Part 3",
       "link": "https://nairametrics.com/2026/08/04/comercio-partners-report-10-years-of-money-market-and-living-costs-part-3/",
@@ -1472,36 +1502,6 @@
       "summary": "Nigeria s investment landscape has undergone a fundamental shift over the past six years, forcing investors to rethink long-held assumptions about wealth preservation.In this part three of the Comercio Partners report: 10 Years of Money Market and Living Costs , the company examines how persistent inflation, currency depreciation and changing market dynamics reshaped the performance of major [ ] The post Comercio Partners Report: 10 years of money market and living costs Part 3 appeared first on Nairametrics .",
       "published": "2026-08-04T17:30:42+00:00",
       "fetched": "2026-08-04T19:14:40.178046+00:00"
-    },
-    {
-      "id": "588a03fba7801755",
-      "title": "REA targets local solar manufacturing as 85 million lack reliable electricity",
-      "link": "https://nairametrics.com/2026/08/04/rea-targets-local-solar-manufacturing-as-85-million-lack-reliable-electricity/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Rural Electrification Agency (REA) is moving to reduce Nigeria’s dependence on imported solar equipment through a new manufacturing partnership as more than 85 million Nigerians, representing about 40% of the population, still lack reliable access to grid electricity. The post REA targets local solar manufacturing as 85 million lack reliable electricity appeared first on Nairametrics .",
-      "published": "2026-08-04T17:18:13+00:00",
-      "fetched": "2026-08-04T19:14:40.178101+00:00"
-    },
-    {
-      "id": "bcbec991c6c1286d",
-      "title": "The richest 20% are buying most of the new cars sold in the U.S.",
-      "link": "https://www.marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The AI-fueled bull market in stocks has shifted U.S. car sales into a higher gear — and the richest Americans are doing most of the buying.",
-      "published": "2026-08-04T17:09:00+00:00",
-      "fetched": "2026-08-04T19:14:39.713691+00:00"
-    },
-    {
-      "id": "2d6689703f043ce1",
-      "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
-      "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
-      "published": "2026-08-04T16:56:00+00:00",
-      "fetched": "2026-08-04T19:14:39.713721+00:00"
     }
   ]
 }
