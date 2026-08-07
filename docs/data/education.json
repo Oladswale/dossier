@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-07T12:33:51.083362+00:00",
-  "count": 98,
+  "updated": "2026-08-07T18:35:22.744736+00:00",
+  "count": 99,
   "items": [
+    {
+      "id": "e64c12368d35b355",
+      "title": "The History of Glam Rock and How It Put an End to the Hippie Era",
+      "link": "https://www.openculture.com/2026/08/the-history-of-glam-rock-how-it-put-an-end-to-the-hippie-era.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Cast your mind back to the distant year 2021 and recall, if you will, its music, its fashions, the obsessions of its youth. This probably won’t be a difficult task, since in most respects — the dampening effects of the pandemic notwithstanding — none of those aspects of popular culture seem any different today. Yet [ ]",
+      "published": "2026-08-07T16:16:48+00:00",
+      "fetched": "2026-08-07T18:35:22.744496+00:00"
+    },
     {
       "id": "107e643f6a3b79f2",
       "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",

@@ -1,8 +1,78 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-07T12:33:51.784230+00:00",
+  "updated": "2026-08-07T18:35:23.382579+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4d5698634efd2241",
+      "title": "Pioneering Palmer & Krisel-Designed Midcentury Modern ‘Test Case’ Hits the Market in L.A. for Under $1 Million",
+      "link": "https://www.realtor.com/news/unique-homes/palmer-krisel-midcentury-modern-test-case-for-sale-los-angeles/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property is one of the earliest surviving designs conceived by acclaimed duo Dan Palmer and William Krisel.",
+      "published": "2026-08-07T18:10:45+00:00",
+      "fetched": "2026-08-07T18:35:23.381810+00:00"
+    },
+    {
+      "id": "fd1f39f2ee11411b",
+      "title": "How Spokane’s Wildfires Turned a Small Footprint Into Massive Loss—and Where It Could Happen Next",
+      "link": "https://www.realtor.com/news/trends/destructive-wildfire-acreage-structures-spokane-map/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Spokane fires show why acreage alone can obscure a wildfire’s toll—and why homes, structures, and human losses matter far more.",
+      "published": "2026-08-07T17:25:08+00:00",
+      "fetched": "2026-08-07T18:35:23.381851+00:00"
+    },
+    {
+      "id": "f4ee357aeb33dc0c",
+      "title": "A $5.7 Million Lot and Zero Rebuilt Homes: How Wildfire Recovery Is Changing the Face of Malibu",
+      "link": "https://www.realtor.com/news/trends/malibu-housing-market-wildfires-oceanfront-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Burned in the 2025 Palisades Fire, a prime oceanfront lot in Malibu hits the market as the town struggles to rebuild.",
+      "published": "2026-08-07T16:33:00+00:00",
+      "fetched": "2026-08-07T18:35:23.381881+00:00"
+    },
+    {
+      "id": "4d047008ff1ee9e6",
+      "title": "Hoda Kotb Returns Home to a Colorful Birthday Surprise From Her Kids—After Sweet Reunion With Savannah Guthrie",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/hoda-kotb-birthday-children-savannah-guthrie-today-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kotb, 61, shared an image of herself and Guthrie, 54, enjoying an afternoon out—before heading home to a birthday party thrown by her kids.",
+      "published": "2026-08-07T16:03:31+00:00",
+      "fetched": "2026-08-07T18:35:23.381915+00:00"
+    },
+    {
+      "id": "6d19758f43bd5893",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.69% Rate, the Highest Rate This Year",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-august-6/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rates surged this week to levels not seen in over a year, and for the first time, it's higher than the same time last year.",
+      "published": "2026-08-07T15:36:00+00:00",
+      "fetched": "2026-08-07T18:35:23.381944+00:00"
+    },
+    {
+      "id": "5a48e5ec8263f811",
+      "title": "Woman Who Lives in Jason Sudeikis’ Former New York Apartment Snags an Invite to the ‘Ted Lasso’ Premiere—So She Can Return His Mail",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jason-sudeikis-ted-lasso-new-york-home-mail-taylor-palmby/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"Ted Lasso\" fan Taylor Palmby shared an Instagram message with Sudeikis, revealing she had a collection of his old mail to return to him.",
+      "published": "2026-08-07T13:59:18+00:00",
+      "fetched": "2026-08-07T18:35:23.381975+00:00"
+    },
+    {
+      "id": "071083a7dd1e42b8",
+      "title": "Economy Lost 23,000 Jobs in a Shocking July Report—Reducing Odds of Fed Rate Hike",
+      "link": "https://www.realtor.com/news/trends/jobs-report-unemployment-rate-july-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The U.S. economy lost 23,000 new jobs in July, defying economists' forecasts for continued hiring growth.",
+      "published": "2026-08-07T13:14:36+00:00",
+      "fetched": "2026-08-07T18:35:23.382000+00:00"
+    },
     {
       "id": "38d91cd5e97cfc57",
       "title": "The 7-Property Retirement Plan ($80,000/Year)",
@@ -22,6 +92,16 @@
       "summary": "Sen. Elizabeth Warren on Thursday sent a letter to Compass CEO Robert Reffkin requesting information about the brokerage's private listings.",
       "published": "2026-08-07T10:00:00+00:00",
       "fetched": "2026-08-07T12:33:51.783625+00:00"
+    },
+    {
+      "id": "bf582dbbf8c5869e",
+      "title": "Virginia Homeowner Sues Amazon Over Data Center Being Built Near His Home: ‘It’s Just Chaos All the Time’",
+      "link": "https://www.realtor.com/news/trends/virginia-homeowner-suing-amazon-over-data-center-unbearable/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A Virginia man says Amazon data center construction has turned his tap water brown, reduced air quality, and caused damage to his home.",
+      "published": "2026-08-07T09:33:00+00:00",
+      "fetched": "2026-08-07T18:35:23.382041+00:00"
     },
     {
       "id": "81e94ff9e9412388",
@@ -62,6 +142,16 @@
       "summary": "Among boomers aged 71 to 79, 46% purchased their home without financing, a recent study found.",
       "published": "2026-08-06T21:36:50+00:00",
       "fetched": "2026-08-06T23:46:23.595436+00:00"
+    },
+    {
+      "id": "025219f3a0ea7ae4",
+      "title": "Rare $27 Million Mansion Hits the Market in California’s Ultra-Secretive Billionaire Enclave: ‘An Exceptional Opportunity’",
+      "link": "https://www.realtor.com/news/unique-homes/mansion-for-sale-bradbury-estates-secret-billionaire-community/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Located behind the 24/7 guarded gates of Bradbury Estates, the mansion boasts 14,600 square feet of Tuscan-inspired architecture.",
+      "published": "2026-08-06T20:58:13+00:00",
+      "fetched": "2026-08-07T18:35:23.382095+00:00"
     },
     {
       "id": "6c7d8a900ebc3c25",
@@ -1412,96 +1502,6 @@
       "summary": "The two-day interest rate meeting of the FOMC is expected to bring dissenting votes, with the final outcome far from certain.",
       "published": "2026-07-28T10:00:00+00:00",
       "fetched": "2026-07-29T08:14:16.074717+00:00"
-    },
-    {
-      "id": "c295ed025a400b50",
-      "title": "Fresh College Grads Face NYC’s Toughest Rental Market Yet as Asking Prices Surge to 7-Year High",
-      "link": "https://www.realtor.com/news/trends/college-grads-toughest-rental-market-nyc-july-2026-rent-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Recent college graduates in New York City should expect studio rents to consume up to 45% of their entry-level salary.",
-      "published": "2026-07-28T09:32:00+00:00",
-      "fetched": "2026-07-29T08:14:16.074736+00:00"
-    },
-    {
-      "id": "6cb1f02a47caa8e3",
-      "title": "$112 Million Laguna Beach Mansion With a Private Library and a Rotating Bed in Primary Suite Could Become Priciest Home Ever Sold in Orange County",
-      "link": "https://www.realtor.com/news/unique-homes/most-expensive-homes-for-sale-us-july-28-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The property features an array of amazing amenities, including a primary suite with a rotating bed and a ceiling that opens to the stars.",
-      "published": "2026-07-28T09:13:00+00:00",
-      "fetched": "2026-07-29T08:14:16.074755+00:00"
-    },
-    {
-      "id": "5461a69bb680140e",
-      "title": "The Medicaid Rule That Can Put Your Family Home at Risk",
-      "link": "https://www.realtor.com/news/trends/medicaid-estate-recovery-house-inheritance/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A home can survive Medicaid eligibility—and still become the target of a six-figure claim after death.",
-      "published": "2026-07-28T09:01:00+00:00",
-      "fetched": "2026-07-29T08:14:16.074771+00:00"
-    },
-    {
-      "id": "e2df15fb6030cf10",
-      "title": "Why Red Tape Reform Is Key to the Housing Bill’s Success",
-      "link": "https://www.realtor.com/news/real-estate-news/red-tape-reform-housing-bill-new-home-construction/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Local governments have struggled for years to keep up with their own extensive permit and approval systems.",
-      "published": "2026-07-27T23:03:51+00:00",
-      "fetched": "2026-07-29T08:14:16.074787+00:00"
-    },
-    {
-      "id": "50cc788636f6335c",
-      "title": "Savannah Guthrie Begs Mom Nancy’s Abductors to ‘Help Us Find Her’—Nearly 6 Months After 84-Year-Old Was Taken from Her Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/savannah-guthrie-nancy-disappearance-search-update-kidnappers-july-27/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Savannah, 54, has shared an emotional new message for those responsible for her mother's disappearance—nearly six months after she vanished.",
-      "published": "2026-07-27T22:12:49+00:00",
-      "fetched": "2026-07-29T08:14:16.074809+00:00"
-    },
-    {
-      "id": "1f6b1f2fda52fa65",
-      "title": "NYC Wants Landlords To Disclose AI-Edited Listing Photos—Could Your City Be Next?",
-      "link": "https://www.realtor.com/news/trends/nyc-ai-altered-rental-listings-housefishing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New Yorkers are showing up to apartments that don’t match the listing. Now the city wants renters warned when photos have been altered.",
-      "published": "2026-07-27T21:15:39+00:00",
-      "fetched": "2026-07-29T08:14:16.074828+00:00"
-    },
-    {
-      "id": "63b72609eec17f13",
-      "title": "Josh Duhamel Reveals He ‘Still Has’ Home in L.A. After Selling Bachelor Pad—but Admits He Plans To Quit California as Soon as His Son Is 18",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/josh-duhamel-california-move-cabin-home-sale-future/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Duhamel, 53, has hinted that he wants to leave California for good—and focus his attention on his homes in North Dakota and Minnesota.",
-      "published": "2026-07-27T21:10:53+00:00",
-      "fetched": "2026-07-29T08:14:16.074850+00:00"
-    },
-    {
-      "id": "a9d655016583a3d7",
-      "title": "DC City Council Considers Esoteric Tax on Land Values in a Bid To Boost New Development",
-      "link": "https://www.realtor.com/news/real-estate-news/washington-dc-land-value-tax-plan/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "DC could tax land and buildings separately, in a bid to encourage development as Congress tries to cut its ability to raise other taxes.",
-      "published": "2026-07-27T20:29:12+00:00",
-      "fetched": "2026-07-29T08:14:16.074867+00:00"
-    },
-    {
-      "id": "734031f4a01e04d3",
-      "title": "HGTV’s 2008 Dream Home Returns to the Market—as Part of $15 Million Private Islamorada Resort With 100-Foot Pool",
-      "link": "https://www.realtor.com/news/unique-homes/hgtv-dream-home-transformation-resort-islamorada-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The property is now the centerpiece of an extraordinary Islamorada compound—that comes complete with an array of amenities.",
-      "published": "2026-07-27T20:08:44+00:00",
-      "fetched": "2026-07-29T08:14:16.074887+00:00"
     }
   ]
 }

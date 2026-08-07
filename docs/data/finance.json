@@ -1,8 +1,228 @@
 {
   "category": "finance",
-  "updated": "2026-08-07T12:33:46.471116+00:00",
+  "updated": "2026-08-07T18:35:18.062098+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "543f47e2ae2d6e05",
+      "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
+      "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Starlink versus fiber, cable and 5G: The smart spender’s guide to 2026 internet options.",
+      "published": "2026-08-07T18:13:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899715+00:00"
+    },
+    {
+      "id": "5db69b7ff14256e2",
+      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+      "published": "2026-08-07T18:00:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899759+00:00"
+    },
+    {
+      "id": "6327fc31466b21e2",
+      "title": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
+      "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+      "published": "2026-08-07T17:49:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899794+00:00"
+    },
+    {
+      "id": "cfe1ad856db3665c",
+      "title": "Nigeria’s startup funding crashes 96% in July as big investors stay away",
+      "link": "https://nairametrics.com/2026/08/07/nigerias-startup-funding-crashes-96-in-july-as-big-investors-stay-away/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian startups saw their funding crash by 96% in July 2026 as deal activity dried up in the month leading to annual summer activities. The post Nigeria’s startup funding crashes 96% in July as big investors stay away appeared first on Nairametrics .",
+      "published": "2026-08-07T17:35:28+00:00",
+      "fetched": "2026-08-07T18:35:17.551586+00:00"
+    },
+    {
+      "id": "d542dc2590117a5d",
+      "title": "IHS exits Latin America as MTN takeover moves closer",
+      "link": "https://techcabal.com/2026/08/07/ihs-exits-latin-america-as-mtn-takeover-moves-closer/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "IHS Towers has completed the sale of its Latin American tower operations to Macquarie Asset Management, exiting the region as the company reshapes its portfolio ahead of MTN Group’s planned acquisition.",
+      "published": "2026-08-07T17:33:10+00:00",
+      "fetched": "2026-08-07T18:35:18.061781+00:00"
+    },
+    {
+      "id": "dd97ea4cb275fefe",
+      "title": "Nigerians earning N150,000–N250,000 feel inflation most—CBN",
+      "link": "https://nairametrics.com/2026/08/07/nigerians-earning-n150000-n250000-feel-inflation-most-cbn/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerians earning between N150,000 and N250,000 per month were the most likely to perceive inflation as high in July 2026, according to the Central Bank of Nigeria’s latest Inflation Expectations Survey. The post Nigerians earning N150,000–N250,000 feel inflation most—CBN appeared first on Nairametrics .",
+      "published": "2026-08-07T17:17:36+00:00",
+      "fetched": "2026-08-07T18:35:17.551638+00:00"
+    },
+    {
+      "id": "c093bff80e14239b",
+      "title": "How Pause Point on Android 17 works and why it matters",
+      "link": "https://techcabal.com/2026/08/07/how-pause-point-on-android-17-works-and-why-it-matters/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Pause Point is a new Digital Wellbeing feature Google unveiled during its Android announcements ahead of Google I/O 2026. Although it is closely tied to Android 17, Google says the feature is coming later this year.",
+      "published": "2026-08-07T16:58:26+00:00",
+      "fetched": "2026-08-07T18:35:18.061823+00:00"
+    },
+    {
+      "id": "f46939ef2a24c15c",
+      "title": "SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Sometimes stocks come under pressure once insiders are able to unload shares, but in the case of SpaceX. that risk may have been already priced in.",
+      "published": "2026-08-07T16:54:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899827+00:00"
+    },
+    {
+      "id": "48e4858b017c0cd3",
+      "title": "Naira-backed stablecoin cNGN launches on Celo network to ease cross-border payments",
+      "link": "https://techcabal.com/2026/08/07/cngn-launches-on-celo-onchain-fx/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "cNGN, the Naira-backed stablecoin, is now live on Celo's on-chain FX market, opening up the stablecoin to use cases in cross-border payments.",
+      "published": "2026-08-07T16:43:30+00:00",
+      "fetched": "2026-08-07T18:35:18.061852+00:00"
+    },
+    {
+      "id": "30437b21869c39be",
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+      "published": "2026-08-07T16:00:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899877+00:00"
+    },
+    {
+      "id": "f75dcf02f9c16982",
+      "title": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?",
+      "link": "https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "While one analyst thinks Doximity has a compelling AI opportunity, another worries that the company could cannibalize its core business of medical networking.",
+      "published": "2026-08-07T15:36:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899917+00:00"
+    },
+    {
+      "id": "bc8ba1f34611d164",
+      "title": "Tax-free weekends start in Texas, Florida and several other states today. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "16 states are offering tax-free shopping holidays throughout the month as back-to-school costs soar to over $800 per student",
+      "published": "2026-08-07T15:09:00+00:00",
+      "fetched": "2026-08-07T18:35:16.899944+00:00"
+    },
+    {
+      "id": "d1c5a342565255e6",
+      "title": "Otedola invests fresh N18.1 billion in First HoldCo, raises stake to 26.1%",
+      "link": "https://nairametrics.com/2026/08/07/otedola-invests-fresh-n18-1-billion-in-first-holdco-raises-stake-to-26-1/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Billionaire businessman and Chairman of First HoldCo Plc, Femi Otedola, has increased his investment in the financial services group with the acquisition of an additional 138.04 million ordinary shares valued at N18.11 billion. The post Otedola invests fresh N18.1 billion in First HoldCo, raises stake to 26.1% appeared first on Nairametrics .",
+      "published": "2026-08-07T15:08:23+00:00",
+      "fetched": "2026-08-07T18:35:17.551684+00:00"
+    },
+    {
+      "id": "1c210cd00bc9d3d2",
+      "title": "DealHQ Partners announces winners of the 2026 Undergraduate Essay Competition",
+      "link": "https://nairametrics.com/2026/08/07/dealhq-partners-announces-winners-of-the-2026-undergraduate-essay-competition/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "On Wednesday, 29th July 2026, DealHQ Partners, an Africa-focused transaction advisory law firm, announced the winners of the DealHQ Partners Undergraduate Essay Competition 2026 at an award ceremony held at the Firm s offices in Lekki, Lagos.In her welcome address, the Lead Advisor and Founding Partner of DealHQ Partners, Mrs. Tosin Ajose noted that this year s [ ] The post DealHQ Partners announces winners of the 2026 Undergraduate Essay Competition appeared first on Nairametrics .",
+      "published": "2026-08-07T15:00:26+00:00",
+      "fetched": "2026-08-07T18:35:17.551738+00:00"
+    },
+    {
+      "id": "b5ac7bc8b6aa7eca",
+      "title": "NNPC listing: Tinubu signals plan to sell shares on NGX",
+      "link": "https://nairametrics.com/2026/08/07/nnpc-listing-tinubu-signals-plan-to-sell-shares-on-ngx/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Ahmed Tinubu has hinted that his administration’s economic reform would eventually include the listing of the shares of the Nigerian National Petroleum Company (NNPC) Limited on the Nigerian Stock Exchange (NGX). The post NNPC listing: Tinubu signals plan to sell shares on NGX appeared first on Nairametrics .",
+      "published": "2026-08-07T14:52:47+00:00",
+      "fetched": "2026-08-07T18:35:17.551782+00:00"
+    },
+    {
+      "id": "f8802ef08b50d769",
+      "title": "Can EFCC freeze a state government account? This is what Lawyers have to say",
+      "link": "https://nairametrics.com/2026/08/07/can-efcc-freeze-a-state-government-account-this-is-what-lawyers-have-to-say/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Several prominent Nigerian lawyers have weighed in on the powers of the Economic and Financial Crimes Commission (EFCC) to shut down or freeze a state government's bank account. The post Can EFCC freeze a state government account? This is what Lawyers have to say appeared first on Nairametrics .",
+      "published": "2026-08-07T14:43:47+00:00",
+      "fetched": "2026-08-07T18:35:17.551822+00:00"
+    },
+    {
+      "id": "cd11fc7c634ef9d3",
+      "title": "Cheap imports are undercutting the oil palm business for Okomu Oil and Presco",
+      "link": "https://nairametrics.com/2026/08/07/cheap-imports-are-undercutting-the-oil-palm-business-for-okomu-oil-and-presco/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Cheap palm oil imports are beginning to undercut domestic crude palm oil (CPO) prices, forcing local producers Okomu Oil and Presco to report their weakest revenue performance in years. The post Cheap imports are undercutting the oil palm business for Okomu Oil and Presco appeared first on Nairametrics .",
+      "published": "2026-08-07T14:43:20+00:00",
+      "fetched": "2026-08-07T18:35:17.551860+00:00"
+    },
+    {
+      "id": "36f4bb811036643f",
+      "title": "Court slams Dana Airline N5.5 million penalty for delaying lawyer’s flight in 2018",
+      "link": "https://nairametrics.com/2026/08/07/court-slams-dana-airline-n5-5-million-penalty-for-delaying-lawyers-flight-in-2018/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal High Court sitting in Lagos has awarded N5.5 million in damages and legal costs against Dana Airline Limited in favour of Babajide Idowu Esq over the delay of his flight in 2018. The post Court slams Dana Airline N5.5 million penalty for delaying lawyer’s flight in 2018 appeared first on Nairametrics .",
+      "published": "2026-08-07T13:56:32+00:00",
+      "fetched": "2026-08-07T18:35:17.551906+00:00"
+    },
+    {
+      "id": "7d25af0cfc5c2256",
+      "title": "South Africa is betting on WhatsApp to bring Gen Z back to the ballot box",
+      "link": "https://techcabal.com/2026/08/07/south-africa-whatsapp-voter-registration/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The strategy appears to be gaining traction. Nearly half a million voter registration transactions during the IEC's final registration drive came from people aged 16 to 29, while 46% of all new registrations were by voters under 29. The figures suggest digital platforms may be lowering barriers to registration.",
+      "published": "2026-08-07T13:39:35+00:00",
+      "fetched": "2026-08-07T18:35:18.061901+00:00"
+    },
+    {
+      "id": "55a9749bf6401866",
+      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+      "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+      "published": "2026-08-07T13:34:44+00:00",
+      "fetched": "2026-08-07T18:35:16.998286+00:00"
+    },
+    {
+      "id": "08cd90a6e03c8aa0",
+      "title": "Layal Tinubu hosts 500 students at Noella Foundation’s 2026 life after school summit",
+      "link": "https://nairametrics.com/2026/08/07/layal-tinubu-hosts-500-students-at-noella-foundations-2026-life-after-school-summit/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Noella Foundation successfully hosted 500 final-year students from tertiary institutions across Lagos State at the 2026 edition of its Life After School Summit (LAS 2026), reaffirming its commitment to preparing young Nigerians for success beyond the classroom through mentorship, career guidance, practical learning and meaningful industry engagement. Held on Friday, July 17, 2026, at [ ] The post Layal Tinubu hosts 500 students at Noella Foundation s 2026 life after school summit appeared first on Nairametrics .",
+      "published": "2026-08-07T13:11:00+00:00",
+      "fetched": "2026-08-07T18:35:17.551959+00:00"
+    },
+    {
+      "id": "6da49528f8a44f40",
+      "title": "Energy costs still burden Nigerians as inflation fears ease, CBN survey",
+      "link": "https://nairametrics.com/2026/08/07/energy-costs-still-burden-nigerians-as-inflation-fears-ease-cbn-survey/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian firms and households expect inflation-related spending to ease over the next six months, even as energy costs remain the biggest driver of inflation perceptions. The post Energy costs still burden Nigerians as inflation fears ease, CBN survey appeared first on Nairametrics .",
+      "published": "2026-08-07T13:00:38+00:00",
+      "fetched": "2026-08-07T18:35:17.551997+00:00"
+    },
     {
       "id": "7ef7f7d22d58772c",
       "title": "How Technology Is Transforming Securities Trading in Nigeria",
@@ -1282,226 +1502,6 @@
       "summary": "An unmapped village. A community overlooked for development. A disaster response slowed by missing data.",
       "published": "2026-08-05T12:44:49+00:00",
       "fetched": "2026-08-05T13:28:35.506439+00:00"
-    },
-    {
-      "id": "644775372b8e2929",
-      "title": "Nigeria’s business activity hits five-month high in July – NESG",
-      "link": "https://nairametrics.com/2026/08/05/nigerias-business-activity-hits-five-month-high-in-july-nesg/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s business activity rebounded strongly in July 2026 as the Nigerian Economic Summit Group (NESG) Current Business Performance Index rose to 108.6 points, its highest level since February. The post Nigeria s business activity hits five-month high in July – NESG appeared first on Nairametrics .",
-      "published": "2026-08-05T12:35:18+00:00",
-      "fetched": "2026-08-05T13:28:34.896922+00:00"
-    },
-    {
-      "id": "d3108c11b60424a5",
-      "title": "The government owns some of the same stocks you do. Here’s why that is risky.",
-      "link": "https://www.marketwatch.com/story/the-government-owns-some-of-the-same-stocks-you-do-heres-why-that-is-risky-6ad6462d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Recent deals to have the U.S. take a stake in companies mark something new: Government ownership used as a standing industrial-policy tool rather than an emergency backstop.",
-      "published": "2026-08-05T12:30:00+00:00",
-      "fetched": "2026-08-05T13:28:33.776304+00:00"
-    },
-    {
-      "id": "64eb174493744e95",
-      "title": "ADP says businesses add the fewest new jobs in six months. Labor market is still sluggish.",
-      "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "ADP said U.S. businesses created just 44,000 new jobs in July — the smallest increase in six months — in another sign of a sluggish labor market in which hiring is unusually soft.",
-      "published": "2026-08-05T12:25:00+00:00",
-      "fetched": "2026-08-05T13:28:33.776341+00:00"
-    },
-    {
-      "id": "dac0665c9b384803",
-      "title": "Nigeria Customs hires just 0.7% of 573,680 job applicants",
-      "link": "https://nairametrics.com/2026/08/05/nigeria-customs-hires-just-0-7-of-573680-job-applicants/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Customs Service (NCS) has offered employment to 3,852 candidates across its three entry cadres in its nationwide recruitment exercise, representing about 0.7% of the 573,680 applications received. The post Nigeria Customs hires just 0.7% of 573,680 job applicants appeared first on Nairametrics .",
-      "published": "2026-08-05T12:21:31+00:00",
-      "fetched": "2026-08-05T13:28:34.896965+00:00"
-    },
-    {
-      "id": "f6902ab1091a340d",
-      "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
-      "link": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Uber Technologies shares fell early Wednesday, despite the ride-hailing company registering earnings a tad above Wall Street estimates in the second quarter as a jump in passengers and deliveries boosted revenue.",
-      "published": "2026-08-05T12:19:00+00:00",
-      "fetched": "2026-08-05T13:28:33.776372+00:00"
-    },
-    {
-      "id": "73bb3405380e6bb4",
-      "title": "Beta Glass appoints ‘Boye Olusanya as Chairman following Vitus Ezinwa’s departure",
-      "link": "https://nairametrics.com/2026/08/05/beta-glass-appoints-boye-olusanya-as-chairman-following-vitus-ezinwas-departure/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Beta Glass Plc has appointed Mr. ‘Boye Olusanya as Chairman of its Board of Directors following the departure of Dr. Vitus Ezinwa, who had led the board since 2024.",
-      "published": "2026-08-05T12:05:53+00:00",
-      "fetched": "2026-08-05T13:28:34.897013+00:00"
-    },
-    {
-      "id": "63fdc51dfb9edd73",
-      "title": "Lilly’s revenue soars 48%, driven by demand for its GLP-1s",
-      "link": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Lilly’s sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.",
-      "published": "2026-08-05T12:01:00+00:00",
-      "fetched": "2026-08-05T13:28:33.776401+00:00"
-    },
-    {
-      "id": "b5efcf4b28d1554f",
-      "title": "Walt Disney’s stock climbs as company cites ‘Toy Story 5’ for earnings growth",
-      "link": "https://www.marketwatch.com/story/walt-disneys-stock-climbs-as-company-cites-toy-story-5-for-earnings-growth-fe0c86c1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Walt Disney’s stock, which has been struggling all year, rallied on Wednesday as the entertainment giant reported surprisingly strong earnings.",
-      "published": "2026-08-05T11:42:00+00:00",
-      "fetched": "2026-08-05T13:28:33.776441+00:00"
-    },
-    {
-      "id": "ddc8bf3b62a66e4e",
-      "title": "El Niño to push 6 million into hunger in West and Central Africa – WFP",
-      "link": "https://nairametrics.com/2026/08/05/el-nino-to-push-6-million-into-hunger-in-west-and-central-africa-wfp/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The strengthening El Niño weather pattern could push nearly six million additional people in West and Central Africa into acute food insecurity by the end of 2027, according to a new report released by the United Nations World Food Programme (WFP). The post El Niño to push 6 million into hunger in West and Central Africa – WFP appeared first on Nairametrics .",
-      "published": "2026-08-05T11:32:12+00:00",
-      "fetched": "2026-08-05T13:28:34.897066+00:00"
-    },
-    {
-      "id": "12778a73de3de0f9",
-      "title": "Reports of the 60/40 portfolio’s demise are proving to be premature",
-      "link": "https://www.marketwatch.com/story/reports-of-the-60-40-portfolios-demise-are-proving-to-be-premature-e339679f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The balanced stock-bond portfolio is defying the widespread argument that it is no longer an appropriate approach.",
-      "published": "2026-08-05T11:30:00+00:00",
-      "fetched": "2026-08-05T13:28:33.776467+00:00"
-    },
-    {
-      "id": "e5fa5d63ecd0781d",
-      "title": "Nigeria’s scheduled airline seat capacity rises 37% to 1.22 million in August",
-      "link": "https://nairametrics.com/2026/08/05/nigerias-scheduled-airline-seat-capacity-rises-37-to-1-22-million-in-august/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's scheduled airline seat capacity rose 37% year-on-year to 1.22 million seats in August 2026, recording the fastest growth among Africa's top aviation markets. The post Nigeria s scheduled airline seat capacity rises 37% to 1.22 million in August appeared first on Nairametrics .",
-      "published": "2026-08-05T11:24:28+00:00",
-      "fetched": "2026-08-05T13:28:34.897107+00:00"
-    },
-    {
-      "id": "a35e8620f3101172",
-      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-      "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
-      "published": "2026-08-05T11:13:46+00:00",
-      "fetched": "2026-08-05T13:28:34.571230+00:00"
-    },
-    {
-      "id": "27784ff4466b6c67",
-      "title": "WAEC releases 2026 WASSCE results",
-      "link": "https://nairametrics.com/2026/08/05/waec-releases-2026-wassce-results/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The West African Examinations Council (WAEC) has released the results of the 2026 West African Senior School Certificate Examination (WASSCE) for School Candidates. The post WAEC releases 2026 WASSCE results appeared first on Nairametrics .",
-      "published": "2026-08-05T11:01:54+00:00",
-      "fetched": "2026-08-05T13:28:34.897140+00:00"
-    },
-    {
-      "id": "89767166bc10e316",
-      "title": "Moove becomes Africa’s latest unicorn after $250 million funding",
-      "link": "https://nairametrics.com/2026/08/05/moove-becomes-africas-latest-unicorn-after-250-million-funding/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Moove, the Nigerian founded mobility technology company, has raised $250 million in a Series C funding round, achieving a $2.1 billion valuation and officially joining the ranks of Africa's unicorn startups. The post Moove becomes Africa s latest unicorn after $250 million funding appeared first on Nairametrics .",
-      "published": "2026-08-05T10:40:03+00:00",
-      "fetched": "2026-08-05T13:28:34.897179+00:00"
-    },
-    {
-      "id": "0e9f807fee6cbcbb",
-      "title": "Firstbank empowers women entrepreneurs through maiden spark a gem challenge",
-      "link": "https://nairametrics.com/2026/08/05/firstbank-empowers-women-entrepreneurs-through-maiden-spark-a-gem-challenge/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FirstBank, West Africa’s premier financial institution and the leading financial inclusion service provider, has reinforced its commitment to empowering women-owned businesses with the successful execution of the maiden edition of Spark A Gem Challenge. The initiative, a flagship Women-Preneur Pitch-a-Ton programme under the Bank’s FirstGem proposition, was designed to provide women entrepreneurs with access to [ ] The post Firstbank empowers women entrepreneurs through maiden spark a gem challenge appeared first on Nairametrics .",
-      "published": "2026-08-05T10:13:50+00:00",
-      "fetched": "2026-08-05T13:28:34.897238+00:00"
-    },
-    {
-      "id": "2afb46701e4a3da4",
-      "title": "IHS shareholders back MTN’s bid for full ownership",
-      "link": "https://techcabal.com/2026/08/05/mtn-wins-shareholder-approval-to-take-ihs-private/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN Group has secured shareholder approval to acquire the remaining shares in IHS Holding Limited",
-      "published": "2026-08-05T09:55:28+00:00",
-      "fetched": "2026-08-05T13:28:35.506476+00:00"
-    },
-    {
-      "id": "f06b6e24d54d55f1",
-      "title": "Caverton posts N8.66 billion H1 loss as admin costs surge",
-      "link": "https://nairametrics.com/2026/08/05/caverton-posts-n8-66-billion-h1-loss-as-admin-costs-surge/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Caverton Offshore Support Group Plc has reported a pre-tax loss of N8.66 billion for the six months ended June 30, 2026, compared with a pre-tax profit of N2.07 billion recorded in the corresponding period of 2025. The post Caverton posts N8.66 billion H1 loss as admin costs surge appeared first on Nairametrics .",
-      "published": "2026-08-05T09:52:53+00:00",
-      "fetched": "2026-08-05T13:28:34.897277+00:00"
-    },
-    {
-      "id": "3c8d204aad973892",
-      "title": "Ellah Lakes narrows H1 loss as revenue jumps 264%",
-      "link": "https://nairametrics.com/2026/08/05/ellah-lakes-narrows-h1-loss-as-revenue-jumps-264/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ellah Lakes Plc has reported an operating loss of N782.63 million for the six months ended June 30, 2026, an improvement from the operating loss of N3.84 billion reported for the 17-month audited period ended December 31, 2025. The post Ellah Lakes narrows H1 loss as revenue jumps 264% appeared first on Nairametrics .",
-      "published": "2026-08-05T09:32:09+00:00",
-      "fetched": "2026-08-05T13:28:34.897314+00:00"
-    },
-    {
-      "id": "8e41b372bfe50ece",
-      "title": "Exclusive: Kenya’s Cloud9 acquires Chpter less than a year after founders left",
-      "link": "https://techcabal.com/2026/08/05/exclusive-kenyas-cloud9-acquires-chpter-less-than-a-year-after-founders-left/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Cloud9, a Kenyan startup that offers digital banking services for businesses, has acquired social commerce platform Chpter in an all-stock deal.",
-      "published": "2026-08-05T09:03:14+00:00",
-      "fetched": "2026-08-05T13:28:35.506507+00:00"
-    },
-    {
-      "id": "e41a66a56460ba4a",
-      "title": "Coronation insurance and coronation life assurance meet niira 2025 minimum capital requirements following successful ₦9.2 billion capital raise",
-      "link": "https://nairametrics.com/2026/08/05/coronation-insurance-and-coronation-life-assurance-meet-niira-2025-minimum-capital-requirements-following-successful-%e2%82%a69-2-billion-capital-raise/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Coronation Insurance Plc and Coronation Life Assurance Limited have successfully met the new minimum capital requirements stipulated under the Nigerian Insurance Industry Reform Act (NIIRA) 2025, marking the successful completion of the Nigerian insurance industry s year-long recapitalisation exercise as announced by the National Insurance Commission (NAICOM). The milestone follows the successful conclusion of a ₦9.2 [ ] The post Coronation insurance and coronation life assurance meet niira 2025 minimum capital requirements following successful ₦9.2 billion capital raise appeared first on Nairametrics .",
-      "published": "2026-08-05T08:57:38+00:00",
-      "fetched": "2026-08-05T13:28:34.897381+00:00"
-    },
-    {
-      "id": "46378bc3662f09ce",
-      "title": "CBN says naira FX gap falls below 2% as reserves top $52.5 billion",
-      "link": "https://nairametrics.com/2026/08/05/cbn-says-naira-fx-gap-falls-below-2-as-reserves-top-52-5-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) says its ongoing monetary and foreign exchange reforms are delivering positive results, with the gap between the official naira exchange rate and Bureau de Change rates now below 2% as external reserves rose above $52.5 billion. The post CBN says naira FX gap falls below 2% as reserves top $52.5 billion appeared first on Nairametrics .",
-      "published": "2026-08-05T08:55:02+00:00",
-      "fetched": "2026-08-05T13:28:34.897424+00:00"
-    },
-    {
-      "id": "c90e978604ca9d8e",
-      "title": "OneDosh and Stripe Finally Solved Onramping",
-      "link": "https://nairametrics.com/2026/08/05/onedosh-and-stripe-finally-solved-onramping/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For years, the financial industry accepted friction as normal.Long bank transfers. Complicated funding methods. Failed transactions.",
-      "published": "2026-08-05T08:44:07+00:00",
-      "fetched": "2026-08-05T13:28:34.897474+00:00"
     }
   ]
 }
