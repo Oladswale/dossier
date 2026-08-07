@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-07T06:56:06.626059+00:00",
+  "updated": "2026-08-07T12:33:51.784230+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "38d91cd5e97cfc57",
+      "title": "The 7-Property Retirement Plan ($80,000/Year)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1314",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "In just a decade, you can replace your income with rentals. If you can save up just one down payment for a rental property, you can use the strategy I’m [ ]",
+      "published": "2026-08-07T11:00:14+00:00",
+      "fetched": "2026-08-07T12:33:51.318705+00:00"
+    },
+    {
+      "id": "3acc31d4a7876f5f",
+      "title": "EXCLUSIVE: Sen. Warren Says Compass Private Listings Partnership With Chicago MLS ‘Increases Risks of Civil Rights Violations’ in Scathing Letter to CEOs",
+      "link": "https://www.realtor.com/news/real-estate-news/senator-elizabeth-warren-private-listings-compass-ceo-reffkin-letter/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Sen. Elizabeth Warren on Thursday sent a letter to Compass CEO Robert Reffkin requesting information about the brokerage's private listings.",
+      "published": "2026-08-07T10:00:00+00:00",
+      "fetched": "2026-08-07T12:33:51.783625+00:00"
+    },
+    {
+      "id": "81e94ff9e9412388",
+      "title": "A Virginia Homeowner Is Suing Amazon Over a Data Center Being Built by His Home—That He Says Is Already Making Life Unbearable",
+      "link": "https://www.realtor.com/news/trends/virginia-homeowner-suing-amazon-over-data-center-unbearable/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A Virginia man says Amazon data center construction has turned his tap water brown, reduced air quality, and caused damage to his home.",
+      "published": "2026-08-07T09:33:00+00:00",
+      "fetched": "2026-08-07T12:33:51.783666+00:00"
+    },
     {
       "id": "ccde97ad2e80e2a9",
       "title": "The ‘Ted Lasso’ Takeover: How Jason Sudeikis’ Hit Show Turned Affluent London Suburb Into Tourist Hot Spot",
@@ -1472,36 +1502,6 @@
       "summary": "The property is now the centerpiece of an extraordinary Islamorada compound—that comes complete with an array of amenities.",
       "published": "2026-07-27T20:08:44+00:00",
       "fetched": "2026-07-29T08:14:16.074887+00:00"
-    },
-    {
-      "id": "102a3e45ae6a7149",
-      "title": "New Michigan Law Blocks Large Corporate Homebuyers",
-      "link": "https://www.realtor.com/news/real-estate-news/michigan-governor-whitmer-investor-ban-single-family-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Michigan lawmakers greenlit a spate of new housing measures, including an investor ban, new money, and rollbacks of building rules.",
-      "published": "2026-07-27T18:52:38+00:00",
-      "fetched": "2026-07-29T08:14:16.074902+00:00"
-    },
-    {
-      "id": "06cf7be5b1a95a3c",
-      "title": "EXCLUSIVE: Garish California Time Capsule With Floral Wallpaper and Green Shag Carpet Looks Set To Seize Title of ‘Ugliest House in America’",
-      "link": "https://www.realtor.com/news/reality-tv/ugliest-house-america-hgtv-time-capsule-california-green/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Retta, 56, comes across what could be the holy grail of ugly homes while in Southern California for Season 8 of the HGTV hit show.",
-      "published": "2026-07-27T18:26:27+00:00",
-      "fetched": "2026-07-29T08:14:16.074923+00:00"
-    },
-    {
-      "id": "1caa40c1d34bda74",
-      "title": "Inside Carly Simon’s Idyllic Martha’s Vineyard Retreat Where She ‘Withdrew From Public View’ Amid Parkinson’s Diagnosis",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/carly-simon-marthas-vineyard-home-james-taylor-parkinsons/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Simon, 83, has revealed she has been diagnosed with Parkinson's, explaining that the disease prompted her to withdraw from public life.",
-      "published": "2026-07-27T16:42:26+00:00",
-      "fetched": "2026-07-29T08:14:16.074941+00:00"
     }
   ]
 }

@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-07T06:56:05.884846+00:00",
-  "count": 97,
+  "updated": "2026-08-07T12:33:51.083362+00:00",
+  "count": 98,
   "items": [
+    {
+      "id": "107e643f6a3b79f2",
+      "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
+      "link": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The study could help scientists understand how superconductivity and other more complex phenomena emerge in quantum materials.",
+      "published": "2026-08-07T09:00:00+00:00",
+      "fetched": "2026-08-07T12:33:50.251484+00:00"
+    },
     {
       "id": "4bb1c0d92ade975b",
       "title": "Akirah Bradley-Armstrong named vice chancellor for student life",

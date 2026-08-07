@@ -1,8 +1,148 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-07T06:56:04.254248+00:00",
+  "updated": "2026-08-07T12:33:49.929628+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "56ef110984e92832",
+      "title": "The Rise and Fall of the QAnon Queen of Canada",
+      "link": "https://www.rollingstone.com/culture/culture-features/queen-of-canada-romana-didulo-1235590647/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Romana Didulo became one of North America’s most dangerous conspiracy figures, leading followers who believed she could erase debt and cure cancer. By the time the government raided their compound, it was almost too late",
+      "published": "2026-08-07T12:00:00+00:00",
+      "fetched": "2026-08-07T12:33:49.765906+00:00"
+    },
+    {
+      "id": "20e087cdd6d24518",
+      "title": "Tyga Says ‘There’s Nothing Wrong ‘ With Using AI to Create His ’80s-Inspired Album ‘$tarface’",
+      "link": "https://www.rollingstone.com/music/music-news/tyga-says-nothing-wrong-with-using-ai-on-his-new-album-1235604799/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rapper opened up to VIBE about embracing the new technology, his mom’s passing, and who the new project is really for",
+      "published": "2026-08-07T11:59:42+00:00",
+      "fetched": "2026-08-07T12:33:49.765947+00:00"
+    },
+    {
+      "id": "8069e6f97e1472ab",
+      "title": "Take-Two Interactive Reaches $1.4 Billion in Sales During ‘GTA 6’ Preorder Opening Quarter",
+      "link": "https://variety.com/2026/gaming/news/gta-6-preorder-sales-take-two-earnings-1236829396/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Video game publisher Take-Two Interactive drew $1.39 billion in sales from April 1-June 30, the quarter during which it opened presales for Grand Theft Auto 6, even as the company s losses widened. The $1.39 billion in total net bookings (finalized revenue for the quarter came in at $1.53 billion) were not broken down by title [ ]",
+      "published": "2026-08-07T11:32:44+00:00",
+      "fetched": "2026-08-07T12:33:49.568876+00:00"
+    },
+    {
+      "id": "73f1602e50a7ef33",
+      "title": "‘The Blue Trail’ Director Gabriel Mascaro and Top Brazilian Producer Paula Cosenza Launch Trema, Set First Slate (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/gabriel-mascaro-paula-cosenza-trema-1236829859/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Gabriel Mascaro, director of the 2025 Berlinale Grand Jury Prize winner “The Blue Trail,” and top Brazilian producer Paula Cosenza (“Memory House”) have teamed to create Trema, launched as a Northeast Brazil production powerhouse. Trema is headquartered in Recife, Mascaro’s home city and capital of Pernambuco state. Now up and running, Trema is focusing on [ ]",
+      "published": "2026-08-07T11:24:50+00:00",
+      "fetched": "2026-08-07T12:33:49.568940+00:00"
+    },
+    {
+      "id": "5364e0881c11af36",
+      "title": "Starz Revenue Declines 4% in Q2 as Streaming Stabilizes, Company Takes $147 Million Charge Related to Ending Universal Output Deal",
+      "link": "https://variety.com/2026/tv/news/starz-q2-2026-earnings-streaming-universal-deal-termination-1236829362/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Starz saw total revenue slide again in the second quarter of 2026 but the media company reported its first year-over-year growth in streaming revenue in 18 months. Company execs believe the business is turning around, and they ve raised their outlook for adjusted OIBDA (operating income before depreciation and amortization) growth for full-year 2026 from [ ]",
+      "published": "2026-08-07T11:00:00+00:00",
+      "fetched": "2026-08-07T12:33:49.568990+00:00"
+    },
+    {
+      "id": "5d1118712c66713b",
+      "title": "Luca Guadagnino to Receive Cartier Glory to the Filmmaker Award at Venice Film Festival",
+      "link": "https://variety.com/2026/film/festivals/luca-guadagnino-cartier-award-venice-film-festival-1236829848/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Luca Guadagnino will receive the Cartier Glory to the Filmmaker Award at this year s Venice Film Festival. The Italian director, who is premiering his seven-hour Bernardo Bertolucci documentary Joie de Vivre at this year s festival, is being honored as a personality who has made a particularly original contribution to the contemporary film industry, according to [ ]",
+      "published": "2026-08-07T10:33:17+00:00",
+      "fetched": "2026-08-07T12:33:49.569037+00:00"
+    },
+    {
+      "id": "340d6cd0134a9ac3",
+      "title": "Werner Herzog to Be Honored at San Sebastián Film Festival",
+      "link": "https://variety.com/2026/film/festivals/werner-herzog-honored-san-sebastian-film-festival-1236829836/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Prolific filmmaker Werner Herzog will receive the San Sebastián Film Festival s prestigious Donostia Award during its 74th edition in September. The German director will be honored at the Spanish festival s opening gala and will screen his latest film Bucking Fastard, following its world premiere at Venice Film Festival. Over a career spanning six decades, Werner [ ]",
+      "published": "2026-08-07T09:59:47+00:00",
+      "fetched": "2026-08-07T12:33:49.569089+00:00"
+    },
+    {
+      "id": "391f0dce342c9798",
+      "title": "Bella Thorne Is Also Directing and Writing the ‘Spring Breakers’ Sequel She’s Starring In: ‘From Start to Finish, It’s Lit as F—’",
+      "link": "https://variety.com/2026/film/news/bella-thorne-directing-writing-spring-breakers-sequel-1236829801/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Bella Thorne is about to go full Spring Breakers. The former Disney star has revealed that in addition to starring in an upcoming sequel to Harmony Korine s 2012 cult classic, she s also directing and writing the film. Variety exclusively announced the sequel and its cast in May 2025, which also includes Stranger Things breakout Grace [ ]",
+      "published": "2026-08-07T09:23:48+00:00",
+      "fetched": "2026-08-07T12:33:49.569140+00:00"
+    },
+    {
+      "id": "03b8bf001266d976",
+      "title": "Danny DeVito-Produced Heist Comedy ‘Drag’ Boards Blue Finch Films for International Sales (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/danny-devito-drag-blue-finch-films-sales-1236829816/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Blue Finch Films has taken on international sales rights, outside North America, for the heist thriller comedy Drag from directors Greg Yagolnitzer and Raviv Ullman. The U.K. sales and distribution company plans to launch the title at the market during the Toronto Film Festival.",
+      "published": "2026-08-07T09:18:30+00:00",
+      "fetched": "2026-08-07T12:33:49.569188+00:00"
+    },
+    {
+      "id": "cffd9a39c592b087",
+      "title": "Claes Bang Plays a Masseur of Nazi Leader Heinrich Himmler in ‘I Is Another’ — but John Paul in ‘Bad Sisters’ Is Still One of His ‘Worst Characters’",
+      "link": "https://variety.com/2026/film/global/claes-bang-masseur-nazi-heinrich-himmler-i-is-another-1236829157/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Claes Bang plays Heinrich Himmler’s personal physical therapist in Locarno premiere “I Is Another.” Directed by Felix Randau, it focuses on the true story of Felix Kersten. Kersten, who passed away in 1960, claimed to have saved numerous lives during the war due to his influence over the Nazi leader. However, many have disputed his [ ]",
+      "published": "2026-08-07T09:02:25+00:00",
+      "fetched": "2026-08-07T12:33:49.569242+00:00"
+    },
+    {
+      "id": "b833f6c0d53f0aca",
+      "title": "Locarno’s Match Me! Projects Push New Voices, Timely Relevance and Authenticity as a Younger Generation Moves Center Stage",
+      "link": "https://variety.com/2026/film/global/locarno-match-me-2026-producers-highlights-1236829354/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Arthouse movies are increasingly made for younger audiences who are replacing ageing stay-at-home baby boomers at Europe’s upscale cinema theaters. That impact is now working its way through new arthouse projects, seen at Locarno’s 2026 Match Me!, its vibrant co-production meet this year welcoming projects from Europe and Latin America, where a younger generation move [ ]",
+      "published": "2026-08-07T08:55:21+00:00",
+      "fetched": "2026-08-07T12:33:49.569294+00:00"
+    },
+    {
+      "id": "f831d27237711c88",
+      "title": "Locarno Open Doors Buzz Title ‘Chapa 100,’ From Ique Langa, Adds Luminalia, Mo Harare, Mostafa El Kasha (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/markets-festivals/chapa-100-ique-langa-locarno-open-doors-luminalia-1236829782/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Chapa 100,” the 2025 Atlas Workshops Development Award winner, now a potential highlight at Locarno’s Africa-focused strand Open Doors, has been boarded by Italy-based sales agent Luminalia. Written and directed by Mozambique s Ique Langa, “Chapa 100” has also added as an associate producer Mo Harawe, whose “The Village Next to Paradise” screened in Cannes Festival’s [ ]",
+      "published": "2026-08-07T08:22:58+00:00",
+      "fetched": "2026-08-07T12:33:49.569347+00:00"
+    },
+    {
+      "id": "ef8f6eb1a3576504",
+      "title": "Brandon Flowers Looks Back at the Past on Anthemic Single ‘Tiger’s Blood’",
+      "link": "https://www.rollingstone.com/music/music-news/brandon-flowers-tigers-blood-single-1235604980/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Killers frontman will release a new album, Thrasher , later this month",
+      "published": "2026-08-07T07:35:42+00:00",
+      "fetched": "2026-08-07T12:33:49.765978+00:00"
+    },
+    {
+      "id": "aaf0e8ff141c24d1",
+      "title": "Watch Role Model Debut Reflective Song ‘Harmony’ on ‘Fallon’",
+      "link": "https://www.rollingstone.com/music/music-news/role-model-harmony-performance-fallon-1235604970/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The musician's third album, Chuck Timely the Hourglass , is out today",
+      "published": "2026-08-07T06:58:15+00:00",
+      "fetched": "2026-08-07T12:33:49.766006+00:00"
+    },
     {
       "id": "4c16f37b132beda5",
       "title": "‘La Koreana,’ a Banner New Talent Title From Spain, Brought to Market at Locarno by Producers Lazona Zinema and Estibaliz Urresola’s Sirimiri (EXCLUSIVE)",
@@ -1362,146 +1502,6 @@
       "summary": "After winning two Tony Awards, the comedy is one of the hottest tickets in town. Here’s how to see the SNL alum in the lead role",
       "published": "2026-08-04T20:18:23+00:00",
       "fetched": "2026-08-05T01:15:56.434307+00:00"
-    },
-    {
-      "id": "9ffe548906226654",
-      "title": "‘There’s Nothing We Could Do to Rein in Trump,’ GOP Senator Says",
-      "link": "https://www.rollingstone.com/politics/politics-news/john-cornyn-nothing-republicans-can-do-rein-in-trump-1235603640/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Republicans have fully abdicated their congressional duty in service of the president's ego",
-      "published": "2026-08-04T20:04:23+00:00",
-      "fetched": "2026-08-05T01:15:56.434333+00:00"
-    },
-    {
-      "id": "9613afd865415019",
-      "title": "Disney’s Next Big Thing: Malachi Barton on ‘Camp Rock 3,’ Doomscrolling on TikTok and Not Hiding His Faith in God",
-      "link": "https://variety.com/2026/tv/features/malachi-barton-camp-rock-3-disney-faith-god-1236826142/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Can we play ‘Be Like a Woman’ in this beeyotch?” At a studio in Manhattan’s NoMad neighborhood, the speakers fill the room with an avant-pop track from 1979 — one that failed to find an audience upon its release, but leaped onto the Billboard Hot 100 this year after being discovered by teens on TikTok. [ ]",
-      "published": "2026-08-04T19:00:00+00:00",
-      "fetched": "2026-08-04T19:14:44.009759+00:00"
-    },
-    {
-      "id": "7f01157657160964",
-      "title": "Variety’s 10 Assistants to Watch in 2026",
-      "link": "https://variety.com/lists/variety-10-assistants-to-watch-2026/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It’s the most thankless job in Hollywood. Who else but assistants keep calendars from colliding, ensure the checks clear and fix the little mistakes before they become big ones? Being an assistant means making the impossible happen: securing the hardest dinner reservation in town, rebooking a flight at a moment’s notice and babysitting egos bigger [ ]",
-      "published": "2026-08-04T19:00:00+00:00",
-      "fetched": "2026-08-04T19:14:44.009830+00:00"
-    },
-    {
-      "id": "8d56436492f46b33",
-      "title": "‘The Voice’ Celebrity Edition to Air on NBC in 2027, With Host Keke Palmer and Judges Joe Jonas, Queen Latifah, Riley Green",
-      "link": "https://variety.com/2026/tv/news/the-voice-celebrity-nbc-2027-host-keke-palmer-joe-jonas-1236827720/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Voice is plotting its first-ever celebrity edition. NBC announced Tuesday that it is starting production on The Voice: Celebrity, which will air sometime in 2027. Keke Palmer will host, while Joe Jonas, Queen Latifah and Riley Green are set to serve as the show s coaches.",
-      "published": "2026-08-04T19:00:00+00:00",
-      "fetched": "2026-08-04T19:14:44.009887+00:00"
-    },
-    {
-      "id": "a94e0d4f0c99aaa8",
-      "title": "UFC Lost $30 Million on White House Fight on Donald Trump’s Birthday",
-      "link": "https://variety.com/2026/tv/news/ufc-freedom-250-lost-30-million-white-house-donald-trump-1236827704/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ari Emanuel, TKO Group s executive chairman and CEO, called the UFC Freedom 250 event at the White House a roaring success. But the company said it lost $30 million on the elaborately staged extravaganza, held June 14 on the grounds of the White House to coincide with President Donald Trump s 80th birthday. TKO s unique ability [ ]",
-      "published": "2026-08-04T18:56:23+00:00",
-      "fetched": "2026-08-04T19:14:44.009936+00:00"
-    },
-    {
-      "id": "d4557c51de08d8ad",
-      "title": "Trump’s Reflecting Pool Fiasco Can, in Fact, Get Even More Embarrassing",
-      "link": "https://www.rollingstone.com/politics/politics-news/trump-keeps-pushing-reflecting-pool-conspiracy-theory-1235603554/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Jeanine Pirro dropped cases against alleged vandals after realizing the evidence points to \"contractor error.\" Trump isn't happy",
-      "published": "2026-08-04T18:48:07+00:00",
-      "fetched": "2026-08-04T19:14:44.122819+00:00"
-    },
-    {
-      "id": "19660b93a426f06c",
-      "title": "DJs Weigh In: What’s the Song of the Summer?",
-      "link": "https://www.rollingstone.com/music/music-lists/djs-weigh-song-of-the-summer-2026-1235603040/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here are the songs that have been ruling the clubs, according to the people turning up the parties",
-      "published": "2026-08-04T18:44:39+00:00",
-      "fetched": "2026-08-04T19:14:44.122855+00:00"
-    },
-    {
-      "id": "182fae91e9d4c34f",
-      "title": "How to Snag Tickets to Bowen Yang’s ‘Oh Mary!’ Broadway Debut",
-      "link": "https://variety.com/2026/shopping/news/how-to-buy-oh-mary-bowen-yang-broadway-tickets-online-1236827741/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Bowen Yang is trading Studio 8H for the Lyceum Theatre. The comedian and “Las Culturistas” co-host will make his Broadway debut as Mary Todd Lincoln in Cole Escola’s Tony-winning comedy “Oh, Mary!” beginning Sept. 15.",
-      "published": "2026-08-04T18:36:46+00:00",
-      "fetched": "2026-08-04T19:14:44.009989+00:00"
-    },
-    {
-      "id": "f86f867e14c489f6",
-      "title": "‘New Girl’ Cast Reunion Set for Chrysalis Butterfly Ball (EXCLUSIVE)",
-      "link": "https://variety.com/2026/scene/columns/new-girl-cast-reunion-chrysalis-butterfly-ball-1236827464/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The stars of “New Girl” are set to reunite at the upcoming Chrysalis Butterfly Ball in Los Angeles. The cast, including Zooey Deschanel, Max Greenfield, Jake Johnson, Lamorne Morris, Hannah Simone and Damon Wayans Jr., will receive the Rising Phoenix Award at the Oct. 10 gala.",
-      "published": "2026-08-04T18:30:00+00:00",
-      "fetched": "2026-08-04T19:14:44.010040+00:00"
-    },
-    {
-      "id": "e21461da694e0832",
-      "title": "This Honky-Tonk Picker Is Running an Irreverent Long-Shot Bid for Tennessee Governor",
-      "link": "https://www.rollingstone.com/music/music-features/tennessee-governor-nashville-musician-adam-ditch-kurtz-1235603298/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Adam \"Ditch\" Kurtz, who fronts a Buck Owens tribute band, is the latest musician to make a run for political office",
-      "published": "2026-08-04T18:20:57+00:00",
-      "fetched": "2026-08-04T19:14:44.122885+00:00"
-    },
-    {
-      "id": "2f547ffa03e022c0",
-      "title": "Lindsay Clancy Speaks Out Loud in Court for First Time at Murder Trial for Killing Her 3 Children",
-      "link": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-speaks-court-first-time-murder-trial-1235603475/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Clancy confirmed to the judge that she agreed to a stipulation of facts",
-      "published": "2026-08-04T18:10:33+00:00",
-      "fetched": "2026-08-04T19:14:44.122912+00:00"
-    },
-    {
-      "id": "49a7da75202e656e",
-      "title": "Immersive Horror Play ‘A Ghost in Your Ear’ Sets New York Premiere From Audible Theater",
-      "link": "https://variety.com/2026/legit/news/ghost-in-your-ear-horror-play-minetta-lane-audible-theater-1236827653/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jamie Armitage s immersive horror show A Ghost in Your Ear has set its New York premiere at Audible s off-Broadway Minetta Lane Theatre following a sold-out London run earlier this year. The show will run Tuesday, Sept. 29 through Sunday, Nov.",
-      "published": "2026-08-04T17:56:44+00:00",
-      "fetched": "2026-08-04T19:14:44.010090+00:00"
-    },
-    {
-      "id": "06d967963571f317",
-      "title": "Leonardo DiCaprio, Jeff Bezos and Lauren Sánchez Bezos Set $200 Million Fund to Recover Endangered Species",
-      "link": "https://variety.com/2026/film/news/leonardo-dicaprio-jeff-bezos-project-endangered-species-1236827629/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Leonardo DiCaprio’s Re:wild and the Bezos Earth Fund have launched the Phoenix Species Project, an initiative dedicated to recovering endangered species. The project will provide support to recover 100 species facing imminent extinction, spanning mammals, amphibians, reptiles, birds, fish, invertebrates and plants from 30 countries in habitats ranging from oceans to volcanic plains. The initiative [ ]",
-      "published": "2026-08-04T17:55:49+00:00",
-      "fetched": "2026-08-04T19:14:44.010144+00:00"
-    },
-    {
-      "id": "187ec27a9dc28d2e",
-      "title": "Kanye West ‘Refused to Compensate’ Producer for Work on ‘Vultures 2′ and ‘Bully,’ Lawsuit Claims",
-      "link": "https://www.rollingstone.com/music/music-news/kanye-west-producer-vultures-bully-lawsuit-ai-vocals-1235603313/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The unidentified producer says he created AI-generated vocals for several tracks and is seeking at least $220,000 for the alleged work",
-      "published": "2026-08-04T17:49:13+00:00",
-      "fetched": "2026-08-04T19:14:44.122945+00:00"
     }
   ]
 }
