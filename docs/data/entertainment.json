@@ -1,8 +1,28 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-08T06:29:11.498950+00:00",
+  "updated": "2026-08-08T12:19:44.492633+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3eaeecb23fe0eea6",
+      "title": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
+      "link": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Indian National Award-winning filmmaker Srijit Mukherji is bringing to screen the making of Satyajit Ray s Goopy Gyne Bagha Byne, one of Indian cinema s most celebrated classics, in a new film titled Maharaja Tomare Selam. Jeetu Kamal, Ritwik Bhowmik, Rudranil Ghosh, Satakshi Nandy, Sairity Banerjee and Arijit Dutta star in the film, produced by Hoichoi Studios [ ]",
+      "published": "2026-08-08T09:13:41+00:00",
+      "fetched": "2026-08-08T12:19:44.119125+00:00"
+    },
+    {
+      "id": "a09d4b60aa69e202",
+      "title": "‘I Rarely Wake Up Dreaming’ Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
+      "link": "https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Russia s 2022 invasion of Ukraine has prompted a wealth of urgent nonfiction filmmaking documenting the harsh realities of life under siege, but comparatively little dramatic storytelling — a space that the new German-Ukrainian production I Rarely Wake Up Dreaming occupies with bold formal imagination and a commitment to illuminating lives neglected in wider views of [ ]",
+      "published": "2026-08-08T07:19:07+00:00",
+      "fetched": "2026-08-08T12:19:44.119188+00:00"
+    },
     {
       "id": "7907098809d6b6b9",
       "title": "Taylor Swift Song ‘August’ Removed From Trump TikTok Video",
@@ -1482,26 +1502,6 @@
       "summary": "“This is definitely the curtain call for how things have been up to this point,” says the Texas roughhouser, who drops the new Langley collab “Jaded.”",
       "published": "2026-08-05T15:07:13+00:00",
       "fetched": "2026-08-05T19:08:30.735921+00:00"
-    },
-    {
-      "id": "c40bc6c880b66d24",
-      "title": "Sophie Fleur de Bruijn, Whose Spec Script ‘The One Month Mark’ Sold to Apple With Jennifer Lawrence Attached, Signs With CAA (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/sophie-fleur-de-bruijn-mark-apple-jennifer-lawrence-caa-1236828191/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "U.S. playwright-writer-director and performer Sophie Fleur de Bruijn, whose original romantic comedy spec script The One Month Mark recently sold to Apple, with Jennifer Lawrence attached, has signed for representation with CAA. De Bruijn has been making a splash in Hollywood with her spec scripts and directed the social horror-comedy Polycule, written by Cal Bolster [ ]",
-      "published": "2026-08-05T13:25:03+00:00",
-      "fetched": "2026-08-05T13:28:38.806064+00:00"
-    },
-    {
-      "id": "28c3b4cb6df4a083",
-      "title": "Disney Says Commercials for Super Bowl LXI Have Sold Out",
-      "link": "https://variety.com/2026/tv/news/disney-super-bowl-commercials-sell-out-1236828270/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Disney said it had sold out all its commercial inventory tied to its coming 2027 telecast of Super Bowl LXI, showing a remarkable push to a financial touchdown that seemed in danger of being blocked just a few weeks ago. Hugh Johnston, the company s chief financial officer, announced the close out of ad sales tied [ ]",
-      "published": "2026-08-05T13:24:52+00:00",
-      "fetched": "2026-08-05T13:28:38.806115+00:00"
     }
   ]
 }

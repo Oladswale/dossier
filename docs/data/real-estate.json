@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-08T06:29:13.876645+00:00",
+  "updated": "2026-08-08T12:19:46.907063+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "24dddfba8acb07c4",
+      "title": "‘I Learned What It Really Takes to Build a Tiny Home—and the Biggest Problems Aren’t What You’d Expect’",
+      "link": "https://www.realtor.com/news/first-person/tiny-house-building-advice-workshop-problems-surprise/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As someone who has long been obsessed with the idea of building my own home, a tiny house seemed like a simpler place to start.",
+      "published": "2026-08-08T10:00:00+00:00",
+      "fetched": "2026-08-08T12:19:46.906395+00:00"
+    },
     {
       "id": "cd46b6caa574ca90",
       "title": "Flock Cameras Spur Privacy Debate as Dozens of Cities Pull Plug on the Tech",
@@ -1492,16 +1502,6 @@
       "summary": "Five states are in the running for a nuclear energy investment that could mean 25,000 jobs, the Department of Energy said.",
       "published": "2026-07-28T19:53:01+00:00",
       "fetched": "2026-07-29T08:14:16.074557+00:00"
-    },
-    {
-      "id": "d1283de3dc29e1f2",
-      "title": "EXCLUSIVE: Chief Justice John Roberts Sells His Longtime Chevy Chase Home for $3.44 Million—Mere Days After Listing It",
-      "link": "https://www.realtor.com/news/trends/supreme-court-john-roberts-maryland-home-sold-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Roberts and his wife, Jane, purchased the home in 2003, two years before he was nominated to the Supreme Court.",
-      "published": "2026-07-28T18:44:18+00:00",
-      "fetched": "2026-07-29T08:14:16.074579+00:00"
     }
   ]
 }
