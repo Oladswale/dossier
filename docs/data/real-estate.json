@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-08T12:19:46.907063+00:00",
+  "updated": "2026-08-08T18:18:10.712925+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5b655b27ecf3fcb0",
+      "title": "Midcentury Carmel Valley Time Capsule Lists for the First Time in 55 Years for $2.4 Million",
+      "link": "https://www.realtor.com/news/unique-homes/carmel-valley-retreat-midcentury-modern-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The stylish three-bedroom sanctuary surrounded by breathtaking canyon views last traded hands for just $43,000 in 1971.",
+      "published": "2026-08-08T18:01:00+00:00",
+      "fetched": "2026-08-08T18:18:10.712258+00:00"
+    },
+    {
+      "id": "a0642e36088b3059",
+      "title": "Couple Turns Dilapidated $130K Catskills Cabin Into a ‘Joyful’ $1 Million Scandinavian-Inspired Woodland Retreat",
+      "link": "https://www.realtor.com/news/unique-homes/catskills-cabin-transformation-scandinavian-retreat-before-after/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property last changed hands for just $130,000 in 2020, when it was bought by a couple who have transformed it into an idyllic residence.",
+      "published": "2026-08-08T14:38:00+00:00",
+      "fetched": "2026-08-08T18:18:10.712300+00:00"
+    },
+    {
+      "id": "8f0d1761b914c982",
+      "title": "Historic $12 Million Private Island That Can Only Be Reached by Air or Boat Hits the Market for the First Time in 150 Years",
+      "link": "https://www.realtor.com/news/unique-homes/private-island-florida-for-sale-lake-marion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Known as Bannon Island in honor of the Irish carpenter who first built a home there, the property has never before been listed for sale.",
+      "published": "2026-08-08T12:41:00+00:00",
+      "fetched": "2026-08-08T18:18:10.712332+00:00"
+    },
     {
       "id": "24dddfba8acb07c4",
       "title": "‘I Learned What It Really Takes to Build a Tiny Home—and the Biggest Problems Aren’t What You’d Expect’",
@@ -1472,36 +1502,6 @@
       "summary": "Younger people are still struggling to attain homeownership given a limited supply of reasonably priced homes.",
       "published": "2026-07-28T21:43:15+00:00",
       "fetched": "2026-07-29T08:14:16.074494+00:00"
-    },
-    {
-      "id": "4bb143d8f545b5ef",
-      "title": "EXCLUSIVE: Myles Garrett Lands a Buyer for $2.1 Million Ohio Home Just Days After Listing It Amid Trade to Rams",
-      "link": "https://www.realtor.com/news/sports/myles-garrett-home-sale-price-buyer-ohio-cleveland/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Garrett, 30, put his longtime Cleveland-area dwelling on the market just weeks after he was traded by the Browns to the L.A. Rams.",
-      "published": "2026-07-28T20:26:35+00:00",
-      "fetched": "2026-07-29T08:14:16.074520+00:00"
-    },
-    {
-      "id": "bf5d12885cca425c",
-      "title": "How Making Daylight Saving Time Permanent Affects Homeowners",
-      "link": "https://www.realtor.com/news/trends/daylight-saving-time-permanent-affects-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Sunshine Protection Act would mean lighter evenings and darker mornings. The real impact would depend on where you live.",
-      "published": "2026-07-28T20:14:04+00:00",
-      "fetched": "2026-07-29T08:14:16.074538+00:00"
-    },
-    {
-      "id": "e0664e6829071e40",
-      "title": "Trump Administration Considers 5 States for $50 Billion Nuclear Investment as Data Centers Strain Power Grid",
-      "link": "https://www.realtor.com/news/real-estate-news/doe-nuclear-innovation-campus-finalist-states/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Five states are in the running for a nuclear energy investment that could mean 25,000 jobs, the Department of Energy said.",
-      "published": "2026-07-28T19:53:01+00:00",
-      "fetched": "2026-07-29T08:14:16.074557+00:00"
     }
   ]
 }
