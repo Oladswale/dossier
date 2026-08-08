@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-08-08T00:38:51.976165+00:00",
+  "updated": "2026-08-08T06:29:08.058802+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f80cc94283304a17",
+      "title": "Nigeria’s external debt service declines to $954 million in Q1 2026",
+      "link": "https://nairametrics.com/2026/08/08/nigerias-external-debt-service-declines-to-954-million-in-q1-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria spent $954.06 million servicing its external debt obligations in the first quarter of 2026, representing a 31.5% decline from the $1.39 billion recorded in the corresponding period of 2025. The post Nigeria s external debt service declines to $954 million in Q1 2026 appeared first on Nairametrics .",
+      "published": "2026-08-08T06:26:45+00:00",
+      "fetched": "2026-08-08T06:29:06.705916+00:00"
+    },
+    {
+      "id": "4cb6984c161d0c8b",
+      "title": "Nigeria spends N3.14 trillion servicing domestic debt in Q1 2026, up 20.3% year-on-year",
+      "link": "https://nairametrics.com/2026/08/08/nigeria-spends-n3-14-trillion-servicing-domestic-debt-in-q1-2026-up-20-3-year-on-year/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria spent N3.14 trillion servicing its domestic debt obligations in the first quarter of 2026, representing a 20.3% increase from the N2.61 trillion recorded in the corresponding period of 2025. The post Nigeria spends N3.14 trillion servicing domestic debt in Q1 2026, up 20.3% year-on-year appeared first on Nairametrics .",
+      "published": "2026-08-08T05:56:49+00:00",
+      "fetched": "2026-08-08T06:29:06.705973+00:00"
+    },
+    {
+      "id": "2a30cf0b5f55d3c1",
+      "title": "Nigeria’s public debt rises to N159.35 trillion in Q1 2026",
+      "link": "https://nairametrics.com/2026/08/08/nigerias-public-debt-rises-to-n159-35-trillion-in-q1-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s total public debt rose marginally to N159.35 trillion as of March 31, 2026, from N159.28 trillion at the end of December 2025. The post Nigeria’s public debt rises to N159.35 trillion in Q1 2026 appeared first on Nairametrics .",
+      "published": "2026-08-08T05:34:06+00:00",
+      "fetched": "2026-08-08T06:29:06.706026+00:00"
+    },
     {
       "id": "a6967bf4b78747b7",
       "title": "Neveah Limited Secures ISO 9001, ISO 14001 and ISO 45001 Certifications",
@@ -1472,36 +1502,6 @@
       "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
       "published": "2026-08-05T15:55:01+00:00",
       "fetched": "2026-08-05T19:08:25.632436+00:00"
-    },
-    {
-      "id": "3a3c05437930822c",
-      "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
-      "published": "2026-08-05T15:51:00+00:00",
-      "fetched": "2026-08-05T19:08:25.529931+00:00"
-    },
-    {
-      "id": "4ec5ee1419202f7a",
-      "title": "NIS denies suspending passport services in Kano after production migration criticism",
-      "link": "https://nairametrics.com/2026/08/05/nis-denies-suspending-passport-services-in-kano-after-production-migration-criticism/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Immigration Service (NIS) has denied suspending passport services in Kano, saying a recent directive to migrate two passport production centres in the state to the Central Personalization Centre does not amount to a shutdown of passport operations. The post NIS denies suspending passport services in Kano after production migration criticism appeared first on Nairametrics .",
-      "published": "2026-08-05T15:50:45+00:00",
-      "fetched": "2026-08-05T19:08:26.048888+00:00"
-    },
-    {
-      "id": "12508ee80cd72732",
-      "title": "Top 15 African countries with the most data centres in 2026",
-      "link": "https://nairametrics.com/2026/08/05/top-15-african-countries-with-the-most-data-centres-in-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In this article, Nairametrics ranks the countries with most data centers in Sub-Saharan Africa based on the IMF report. The post Top 15 African countries with the most data centres in 2026 appeared first on Nairametrics .",
-      "published": "2026-08-05T15:50:26+00:00",
-      "fetched": "2026-08-05T19:08:26.048925+00:00"
     }
   ]
 }
