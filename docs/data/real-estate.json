@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-09T06:33:29.281205+00:00",
+  "updated": "2026-08-09T12:21:34.533086+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ab5f66b07a26f312",
+      "title": "Built Different: How the Ranch-Style Home Went from 1930s Architectural Rebel to America’s Favorite Floor Plan",
+      "link": "https://www.realtor.com/news/unique-homes/ranch-style-house-architecture-history-affordable-appeal/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Emerging in the 1930s and skyrocketing to fame during the mid-century suburban boom, the ranch-style home transformed how Americans lived.",
+      "published": "2026-08-09T12:17:00+00:00",
+      "fetched": "2026-08-09T12:21:34.532561+00:00"
+    },
     {
       "id": "5b655b27ecf3fcb0",
       "title": "Midcentury Carmel Valley Time Capsule Lists for the First Time in 55 Years for $2.4 Million",
@@ -1492,16 +1502,6 @@
       "summary": "Designed by acclaimed architect and Yestermorrow founder John Connell, the property was originally built in 1990.",
       "published": "2026-07-29T09:03:00+00:00",
       "fetched": "2026-07-29T14:33:46.713646+00:00"
-    },
-    {
-      "id": "da51e89bb805a6fb",
-      "title": "Homeownership Rate Remains Flat as Affordability Strains New Buyers",
-      "link": "https://www.realtor.com/news/trends/homeownership-rate-vacancy-census-data-q2-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Younger people are still struggling to attain homeownership given a limited supply of reasonably priced homes.",
-      "published": "2026-07-28T21:43:15+00:00",
-      "fetched": "2026-07-29T08:14:16.074494+00:00"
     }
   ]
 }
