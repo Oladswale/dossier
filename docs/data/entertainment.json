@@ -1,8 +1,48 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-09T00:41:31.841210+00:00",
+  "updated": "2026-08-09T06:33:27.100177+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5ab17b64c436f23b",
+      "title": "Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled",
+      "link": "https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Two new character stills of Mahesh Babu from S.S. Rajamouli s Varanasi were released Sunday to mark the actor s birthday, showing his character Rudhra on location in Africa. The film’s story spans thousands of years and traverses multiple continents, with locations ranging from Antarctica to Africa to the titular Indian city.",
+      "published": "2026-08-09T05:47:14+00:00",
+      "fetched": "2026-08-09T06:33:26.767323+00:00"
+    },
+    {
+      "id": "759dabaee1cff19d",
+      "title": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
+      "link": "https://variety.com/2026/shopping/news/whitney-houston-barbie-buy-online-1236830603/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Whitney Houston is ready to dance with somebody in Barbieland. Mattel is honoring the late pop icon with a new Barbie Signature doll inspired by Houston’s colorful look from the 1987 music video for “I Wanna Dance With Somebody (Who Loves Me).” The $60 collectible launches Aug. 8 at Target stores and online at [ ]",
+      "published": "2026-08-09T04:00:00+00:00",
+      "fetched": "2026-08-09T06:33:26.767380+00:00"
+    },
+    {
+      "id": "78329de63c6f0754",
+      "title": "I Wanna Dance With Some Barbie: Mattel Drops New Whitney Houston Doll That You Can Now Buy",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-the-whitney-houston-barbie-doll-online-best-price-1235605905/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Created with the Houston estate, the doll recreates the singer's iconic music video look — and it's already flying off shelves",
+      "published": "2026-08-09T04:00:00+00:00",
+      "fetched": "2026-08-09T06:33:27.009372+00:00"
+    },
+    {
+      "id": "9f582cf145d84eaf",
+      "title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
+      "link": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The show-stopping finale at Citi Field included tons of surprises, including guest appearances from 50 Cent, J Balvin, and more",
+      "published": "2026-08-09T00:51:22+00:00",
+      "fetched": "2026-08-09T06:33:27.009408+00:00"
+    },
     {
       "id": "f92aa9665e8b1eab",
       "title": "Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’",
@@ -1462,46 +1502,6 @@
       "summary": "The underlying lawsuit will now proceed after a two-year delay pending the appeal decision",
       "published": "2026-08-05T21:35:50+00:00",
       "fetched": "2026-08-06T01:13:20.352567+00:00"
-    },
-    {
-      "id": "efeb89973f78f666",
-      "title": "‘Soulm8te’ Review: Fembot Goes Rogue in Polished but Predictable Tech Thriller",
-      "link": "https://variety.com/2026/film/reviews/soulm8te-review-1236828635/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Billed as a spun-off third entry in the “M3GAN” franchise, “Soulm8te” is to “Fatal Attraction” as M3GAN’s vehicles were to “Orphan” and “The Bad Seed” — a robotic replay of very familiar genre tropes. Here, a grieving widower working in tech agrees to try out a prototype of the titular “AI companion,” basically a beauteous [ ]",
-      "published": "2026-08-05T21:22:15+00:00",
-      "fetched": "2026-08-06T01:13:20.076123+00:00"
-    },
-    {
-      "id": "7dabdac90af6901b",
-      "title": "Abdul El-Sayed’s Win Sets Off Wave of MAGA Islamophobia",
-      "link": "https://www.rollingstone.com/politics/politics-news/abdul-el-sayed-win-michigan-maga-islamophobia-1235604181/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The high-stakes Senate race in Michigan is going to be ugly",
-      "published": "2026-08-05T21:12:06+00:00",
-      "fetched": "2026-08-06T01:13:20.352590+00:00"
-    },
-    {
-      "id": "e831e829d5fd8bc2",
-      "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA’s Emerging Songwriter Award Nominations Now Open",
-      "link": "https://variety.com/2026/music/news/alicia-keys-signs-with-caa-1236828699/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Alicia Keys has signed with CAA in all areas, the company announced earlier this week. Among her many achievements, the singer-songwriter has sold an estimated 65 million records since the release of her 2001 debut album, “Songs in A Minor,” and is the subject of “Hell’s Kitchen,” a Broadway musical featuring her music and lyrics [ ]",
-      "published": "2026-08-05T21:05:19+00:00",
-      "fetched": "2026-08-06T01:13:20.076171+00:00"
-    },
-    {
-      "id": "dc20a8508d9c9556",
-      "title": "‘Super Troopers 3’ Review: A Cult Comedy Franchise Seeks No Converts in Instantly Forgettable Third Go-Round",
-      "link": "https://variety.com/2026/film/reviews/super-troopers-3-review-1236828587/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "2018 s Super Troopers 2 wasn t so much fan service as fan self-service. Kickstarted with nearly $5 million of crowdfunding after studios doubted the public appetite for a tardy sequel to the 2001 indie sleeper Super Troopers, it gave the people what they wanted and not much else: a familiar rehash of the first film s broad [ ]",
-      "published": "2026-08-05T21:02:40+00:00",
-      "fetched": "2026-08-06T01:13:20.076218+00:00"
     }
   ]
 }
