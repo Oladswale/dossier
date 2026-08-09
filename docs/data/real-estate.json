@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-09T12:21:34.533086+00:00",
+  "updated": "2026-08-09T18:20:04.614991+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d52da9077bc08074",
+      "title": "Dramatic Stone Villa Perched on the Edge of Horseshoe Bay Comes With Boat-In, Boat-Out Access",
+      "link": "https://www.realtor.com/news/unique-homes/stone-villa-boat-access-horseshoe-bay-escondido-golf-club-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built in 2014, the six-bedroom, 10-bathroom home spans three estate lots inside the exclusive Escondido Golf and Lake Club.",
+      "published": "2026-08-09T17:14:00+00:00",
+      "fetched": "2026-08-09T18:20:04.614316+00:00"
+    },
+    {
+      "id": "93e55ab3323575ea",
+      "title": "‘We Transform Abandoned New York City Buildings into Stunning Guesthouses’",
+      "link": "https://www.realtor.com/news/first-person/new-york-city-abandoned-buildings-renovations-guesthouses/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The South Carolina couple, who operate Gale Guesthouses, purchased their first property in 2019 and operate it as a rental on Airbnb.",
+      "published": "2026-08-09T13:31:00+00:00",
+      "fetched": "2026-08-09T18:20:04.614363+00:00"
+    },
+    {
+      "id": "3595b8d04d461625",
+      "title": "Viral Comedy Skits, Golf Pop-Ups, and Themed Coloring Books: Inside Real Estate Agents’ Most Creative Marketing Tactics",
+      "link": "https://www.realtor.com/news/trends/real-estate-agents-creative-marketing-tactics-buyer-demand/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "To boost buyer demand, real estate agents are ditching traditional open houses for fun and quirky marketing strategies.",
+      "published": "2026-08-09T13:01:00+00:00",
+      "fetched": "2026-08-09T18:20:04.614399+00:00"
+    },
     {
       "id": "ab5f66b07a26f312",
       "title": "Built Different: How the Ranch-Style Home Went from 1930s Architectural Rebel to America’s Favorite Floor Plan",
@@ -1472,36 +1502,6 @@
       "summary": "Real estate investors often talk about cash flow, or the profits from flipping a house, but rarely the total impact that buying a rental property and holding it for multiple [ ]",
       "published": "2026-07-29T11:00:24+00:00",
       "fetched": "2026-07-29T14:33:46.409410+00:00"
-    },
-    {
-      "id": "ce15dad4b5b3de38",
-      "title": "What America’s Most Expensive ZIP Codes Reveal About Where Wealth Actually Goes",
-      "link": "https://www.realtor.com/news/trends/americas-most-expensive-zip-codes-reveal-about-wealth/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Wealth does not necessarily make everyday life dramatically more expensive.",
-      "published": "2026-07-29T10:00:00+00:00",
-      "fetched": "2026-07-29T14:33:46.713586+00:00"
-    },
-    {
-      "id": "e5c55c1324120e6e",
-      "title": "Delaware’s Tale of 2 Luxuries: Coastal Beach Homes vs. Old Money Estates",
-      "link": "https://www.realtor.com/news/trends/delaware-luxury-homes-prices-market-report-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Delaware, with only a million residents, has two faces of luxury: a coastal region with famous beaches, and the historic Chateau Country.",
-      "published": "2026-07-29T09:34:00+00:00",
-      "fetched": "2026-07-29T14:33:46.713616+00:00"
-    },
-    {
-      "id": "0beb4e94d4290428",
-      "title": "Mind-Boggling Vermont Home With a ‘Floating Deck’ and ‘Distinct Lack of Walls’ Is Listed for Under $500K",
-      "link": "https://www.realtor.com/news/unique-homes/vermont-house-floating-no-walls-john-connell/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Designed by acclaimed architect and Yestermorrow founder John Connell, the property was originally built in 1990.",
-      "published": "2026-07-29T09:03:00+00:00",
-      "fetched": "2026-07-29T14:33:46.713646+00:00"
     }
   ]
 }
