@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-10T07:02:46.114193+00:00",
+  "updated": "2026-08-10T12:37:46.116022+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3805c1a76cd6ffa9",
+      "title": "Rentals Replaced My Income in 11 Years (Even After Making Every Mistake)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1315",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "In just 11 years, Aaron Murphy has replaced his and his wife’s income with repeatable, long-term rental properties. No complicated strategy. No huge windfall of cash.",
+      "published": "2026-08-10T11:00:20+00:00",
+      "fetched": "2026-08-10T12:37:45.726145+00:00"
+    },
+    {
+      "id": "8801e589fb3fdc8f",
+      "title": "Greater Boston’s Historic ‘Leather City’ Is America’s Hottest ZIP Code",
+      "link": "https://www.realtor.com/news/trends/peabody-massachusetts-boston-hottest-zip-code-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Peabody, MA, tops the Realtor.com 2026 hottest ZIP codes list as high demand for affordable suburban housing near major cities drives sales.",
+      "published": "2026-08-10T10:00:00+00:00",
+      "fetched": "2026-08-10T12:37:46.115346+00:00"
+    },
+    {
+      "id": "e6cc29252e21353d",
+      "title": "Retiring Soon? 4 Crucial Money Moves Every Homeowner Should Make Before Retirement",
+      "link": "https://www.realtor.com/news/trends/crucial-money-moves-for-homeowner-before-retirement-money-monday/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If you're a year out from retirement, there are a few steps to take in the next 12 months to secure your finances and housing budget.",
+      "published": "2026-08-10T09:33:00+00:00",
+      "fetched": "2026-08-10T12:37:46.115386+00:00"
+    },
+    {
+      "id": "1f7f3055807d30a0",
+      "title": "Housing Week Ahead: Hottest ZIPs, Existing-Home Sales, and Data Center Deep Dive",
+      "link": "https://www.realtor.com/news/trends/housing-week-data-reports-august-10-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The upcoming week delivers critical research from the Realtor.com economics team alongside key market indicators.",
+      "published": "2026-08-10T09:07:00+00:00",
+      "fetched": "2026-08-10T12:37:46.115416+00:00"
+    },
     {
       "id": "d52da9077bc08074",
       "title": "Dramatic Stone Villa Perched on the Edge of Horseshoe Bay Comes With Boat-In, Boat-Out Access",
@@ -222,6 +262,16 @@
       "summary": "The U.S. economy lost 23,000 new jobs in July, defying economists' forecasts for continued hiring growth.",
       "published": "2026-08-07T13:14:36+00:00",
       "fetched": "2026-08-07T18:35:23.382000+00:00"
+    },
+    {
+      "id": "b002f26dcf625ad4",
+      "title": "What Most Rookies Get Wrong When Picking a Rental Market (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-754",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Once you ve decided you want to invest in real estate, the questions only get harder. How do you choose a real estate market? How much will repairs really cost?",
+      "published": "2026-08-07T11:00:28+00:00",
+      "fetched": "2026-08-10T12:37:45.726193+00:00"
     },
     {
       "id": "38d91cd5e97cfc57",
@@ -1452,56 +1502,6 @@
       "summary": "Mortgage applications fell last week as rising oil prices drove interest rates higher, deterring would-be homebuyers.",
       "published": "2026-07-29T15:26:42+00:00",
       "fetched": "2026-07-29T18:47:29.253346+00:00"
-    },
-    {
-      "id": "f8e8ab1cfc340ba6",
-      "title": "Stuck at 10 Loans? Why Scaling Investors Need a Financing Plan From Day 1",
-      "link": "https://www.biggerpockets.com/blog/stuck-at-10-loans-why-scaling-investors-need-a-financing-plan-from-day-1",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Here’s a common, nasty-surprise scenario many beginner investors have to confront: An investor with a few properties makes a move to expand their portfolio. They have an excellent credit score [ ]",
-      "published": "2026-07-29T15:22:04+00:00",
-      "fetched": "2026-07-29T18:47:28.796775+00:00"
-    },
-    {
-      "id": "6ad5148428e07808",
-      "title": "EXCLUSIVE: Bill Cosby Takes $6 Million New York Home Off the Market—After Skipping $60 Million Rape Case Deposition Due to ‘Health Issues’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/bill-cosby-new-york-home-sale-update-health-lawsuit/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Cosby, 89, originally listed the property for sale in January—two months before he lost a $60 million civil sexual assault suit.",
-      "published": "2026-07-29T15:11:01+00:00",
-      "fetched": "2026-07-29T18:47:29.253382+00:00"
-    },
-    {
-      "id": "2503b1d51807bb37",
-      "title": "Foreign Buyers Spend Billions Less Than Last Year on U.S. Housing Market",
-      "link": "https://www.realtor.com/news/trends/foreign-buyers-spend-billions-less-housing-market-nar-july-2026-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Foreign homebuyer activity in the U.S. plunged 19% to $45.3 billion due to high prices, tight inventory, and shifting migration trends.",
-      "published": "2026-07-29T14:00:00+00:00",
-      "fetched": "2026-07-29T14:33:46.713552+00:00"
-    },
-    {
-      "id": "e78326cd81d06cea",
-      "title": "How to Replace a $65,000 Salary with Rental Property Cash Flow (Step by Step)",
-      "link": "https://www.biggerpockets.com/blog/rookie-750",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If you’re trading your time for a paycheck and depending on someone else for financial security, real estate investing could be your way out, and the path to true financial [ ]",
-      "published": "2026-07-29T11:00:25+00:00",
-      "fetched": "2026-07-29T14:33:46.409368+00:00"
-    },
-    {
-      "id": "84d72305477f3481",
-      "title": "How Much One “Ordinary” Rental Property Has Made Me in the Last 6 Years",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1310",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Real estate investors often talk about cash flow, or the profits from flipping a house, but rarely the total impact that buying a rental property and holding it for multiple [ ]",
-      "published": "2026-07-29T11:00:24+00:00",
-      "fetched": "2026-07-29T14:33:46.409410+00:00"
     }
   ]
 }
