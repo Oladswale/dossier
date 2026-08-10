@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-10T00:43:02.571655+00:00",
-  "count": 99,
+  "updated": "2026-08-10T07:02:45.294027+00:00",
+  "count": 100,
   "items": [
+    {
+      "id": "b077d3876cd68789",
+      "title": "MIT researchers tackle the economic realities of fusion power",
+      "link": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Their new study aims to give budding industry a framework for understanding how fusion can be profitable.",
+      "published": "2026-08-10T04:00:00+00:00",
+      "fetched": "2026-08-10T07:02:44.068187+00:00"
+    },
     {
       "id": "e64c12368d35b355",
       "title": "The History of Glam Rock and How It Put an End to the Hippie Era",
