@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-10T12:37:45.380122+00:00",
-  "count": 101,
+  "updated": "2026-08-10T18:38:29.784645+00:00",
+  "count": 103,
   "items": [
+    {
+      "id": "82a977c05f20d866",
+      "title": "High-orbit satellites could light the way for travel to the moon",
+      "link": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Acting as cooperative optical beacons, the satellites could provide GPS-like navigation and communications support for spacecraft operating across cislunar space.",
+      "published": "2026-08-10T18:10:00+00:00",
+      "fetched": "2026-08-10T18:38:26.776901+00:00"
+    },
+    {
+      "id": "fb33d58fb23cab67",
+      "title": "How the Bird Sound Effects in Alfred Hitchcock’s The Birds Were Created with a Pioneering Electronic Instrument, the Trautonium",
+      "link": "https://www.openculture.com/2026/08/how-the-bird-sound-effects-in-alfred-hitchcocks-the-birds-were-created-with-a-pioneering-electronic-instrument-the-trautonium.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Alfred Hitchcock’s The Birds was nominated for an Academy Award for Best Special Effects, though viewers raised on more recent Hollywood spectacles would hardly find its mechanized and optically printed avian attackers convincing. Still, the picture as a whole has retained its eerie, ominous power over the last six decades, and a decent amount of the [ ]",
+      "published": "2026-08-10T13:46:14+00:00",
+      "fetched": "2026-08-10T18:38:29.784400+00:00"
+    },
     {
       "id": "a5be687fe20b097b",
       "title": "Watch a Band Perform the Sound Effects from Pink Floyd’s “Money,” Using a Money Counter, Torn Sheets of Paper & More",
