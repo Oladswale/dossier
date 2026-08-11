@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-11T06:42:06.617202+00:00",
+  "updated": "2026-08-11T12:35:02.935410+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5dba1f9087410267",
+      "title": "A True-Crime Producer Posed as an Heiress — Then Allegedly Stole $30 Million",
+      "link": "https://www.rollingstone.com/culture/culture-features/true-crime-fake-heiress-fbi-most-wanted-1235589737/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Mary Carole McDonnell made low-budget crime shows, but her own story was built on deceptions fit for one of her series. Now she’s on the FBI’s Most Wanted list and the target of a global manhunt",
+      "published": "2026-08-11T12:00:00+00:00",
+      "fetched": "2026-08-11T12:35:02.808880+00:00"
+    },
+    {
+      "id": "44f071f3681bc80a",
+      "title": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas With a Knife in My Hand and Slippers on My Feet’",
+      "link": "https://variety.com/2026/film/global/monica-bellucci-kettice-locarno-giovanni-tortorici-1236831849/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Do you think Monica Bellucci has done it all? Think again. “I’ve never done anything like that,” she tells Variety about her role in “Ketticè.” Directed by Giovanni Tortorici, the film premiered at Locarno.",
+      "published": "2026-08-11T11:37:28+00:00",
+      "fetched": "2026-08-11T12:35:02.473501+00:00"
+    },
+    {
+      "id": "e4918572a7647d5b",
+      "title": "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/films-boutique-mani-haghighi-new-york-film-festival-1236831895/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi’s documentary “I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,” which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day War and the subsequent [ ]",
+      "published": "2026-08-11T11:25:01+00:00",
+      "fetched": "2026-08-11T12:35:02.473559+00:00"
+    },
+    {
+      "id": "9b893fc3c25da81c",
+      "title": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
+      "link": "https://variety.com/2026/biz/news/jonathan-roumie-chosen-st-patricks-immersive-banijay-1236831784/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Banijay is expanding its Luminiscence immersive experience franchise in the U.S. with an installation at New York s iconic St. Patrick s Cathedral that opens Oct.",
+      "published": "2026-08-11T11:00:00+00:00",
+      "fetched": "2026-08-11T12:35:02.473610+00:00"
+    },
+    {
+      "id": "4afebbc19496979c",
+      "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit Supacell, has lined up an impressive cast list for his second short film behind the camera, The Animals. George MacKay ( Rose of Nevada, Sense and Sensibility ) stars alongside Louisa Harland ( Renegade Nell, Derry Girls ), Nathalie Emmanuel ( Game of Thrones, [ ]",
+      "published": "2026-08-11T09:30:28+00:00",
+      "fetched": "2026-08-11T12:35:02.473694+00:00"
+    },
+    {
+      "id": "15e7d6ed112b4736",
+      "title": "RTL Group Posts 3.9% Revenue Rise as Streaming Side Grows, Though Fremantle Continues to Suffer",
+      "link": "https://variety.com/2026/tv/global/rtl-group-rise-revenue-streaming-grows-1236831855/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "European media conglomerate RTL Group on Tuesday posted first-half figures showing strong growth in streaming, with revenue up 3.9% to €2.9 billion ($ 3.3 billion), while revenues from its linear TV side and its Fremantle content business were down. The acquisition of pay-TV operation ‌Sky Deutschland from Comcast in June has also increased the group s revenue base. [ ]",
+      "published": "2026-08-11T09:11:12+00:00",
+      "fetched": "2026-08-11T12:35:02.473756+00:00"
+    },
+    {
+      "id": "e3a850196c42973e",
+      "title": "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in House of the Dragon, is ready to take on a very different role. The British actor is set to star in Love Unlimited, the debut short drama from actor Olivier Huband ( A Discovery of Witches, Becoming Elizabeth ). Frankel will also [ ]",
+      "published": "2026-08-11T08:58:20+00:00",
+      "fetched": "2026-08-11T12:35:02.473802+00:00"
+    },
+    {
+      "id": "4a466427574517e2",
+      "title": "Travis Barker Fights Through the Pain in ‘Louder Than Fear’ Trailer",
+      "link": "https://www.rollingstone.com/music/music-news/travis-barker-louder-than-fear-trailer-disney-hulu-1235606640/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The documentary film, about the Blink-182 drummer's near-death experience in a plane crash, premieres on streaming this week",
+      "published": "2026-08-11T07:46:33+00:00",
+      "fetched": "2026-08-11T12:35:02.808916+00:00"
+    },
+    {
+      "id": "ed3ba93f61421f20",
+      "title": "‘Pacifiction’ Director Albert Serra on His New Film ‘Sixteen Moments of My Life’ and Why He’d Love to Have Directed Elvis Presley",
+      "link": "https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Don’t call Albert Serra’s new film, “Seize moments de ma vie” (“Sixteen Moments of My Life”), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off performance by screen legend Ingrid Caven at the Théâtre des Bouffes du Nord in Paris. “I will never shoot a concert unless [ ]",
+      "published": "2026-08-11T07:09:38+00:00",
+      "fetched": "2026-08-11T12:35:02.473849+00:00"
+    },
+    {
+      "id": "1a444d0a9b5a7434",
+      "title": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
+      "link": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Kamiyama Kenji says the alien threat driving his new Gundam anime is a direct metaphor for humanity s uneasy relationship with artificial intelligence. The director, known for Ghost in the Shell: Stand Alone Complex and The Lord of the Rings: The War of the Rohirrim, tells Variety he built Mobile Suit Gundam RG XARX-ZERO around that [ ]",
+      "published": "2026-08-11T07:00:00+00:00",
+      "fetched": "2026-08-11T12:35:02.473894+00:00"
+    },
+    {
+      "id": "0ec66697788ace76",
+      "title": "Locarno: The Filmmakers Behind ‘Piluk,’ From the National Film Board of Canada, Discuss the Language of Animation",
+      "link": "https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "With a world premiere in the Locarno Film Festival s Pardi di Domani selection of short and medium-length films, the filmmakers behind Piluk saw the production as a chance to tell a story with the simplest possible textures: pencil, paper and the human voice. Produced by Marc Bertrand and Jelena Popović of the National Film Board [ ]",
+      "published": "2026-08-11T06:55:23+00:00",
+      "fetched": "2026-08-11T12:35:02.473940+00:00"
+    },
+    {
+      "id": "da42d7186ca632e3",
+      "title": "Demi Lovato to Reprise Role in ‘Camp Rock 3’: ‘Y’all Miss Me?’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/demi-lovato-camp-rock-3-reprise-role-jonas-brothers-1235606635/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The third edition of the Disney franchise, which stars the Jonas Brothers, premieres on Aug. 13",
+      "published": "2026-08-11T06:49:04+00:00",
+      "fetched": "2026-08-11T12:35:02.808945+00:00"
+    },
+    {
+      "id": "aa085fc15d72e560",
+      "title": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office",
+      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-uk-ireland-box-office-1236831811/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sony s superhero blockbuster Spider-Man: Brand New Day retained its top spot at the U.K. and Ireland box office for a second consecutive week, taking £10.1 million ($13.6) over its sophomore frame. The film s cumulative total is now $87.4 million after 13 days of release.",
+      "published": "2026-08-11T06:42:25+00:00",
+      "fetched": "2026-08-11T12:35:02.473989+00:00"
+    },
     {
       "id": "22ccc41733737c25",
       "title": "Gramado Film Festival Hosts the First International Meeting of Cities",
@@ -1372,136 +1502,6 @@
       "summary": "“One Night Only” director Will Gluck doesn t want you to overthink it. The filmmaker has been fielding a lot of inquiries about the premise, logic and loopholes of his new movie, a raucous romantic comedy about the one night a year where premarital sex is legal. (Think “The Purge,” but for banging instead of murder.) [ ]",
       "published": "2026-08-07T23:00:00+00:00",
       "fetched": "2026-08-08T00:38:55.118398+00:00"
-    },
-    {
-      "id": "e581be8ff7e29b85",
-      "title": "Judy Collins on Doing a Farewell Tour While ‘Having a Lot More Steam in My Engine’: At 87, ‘I’m the Betty White of the Folk Movement’",
-      "link": "https://variety.com/2026/music/news/judy-collins-farewell-tour-interview-1236830430/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "How sweet — or suite — it still is. Judy Collins is doing a valedictory lap or two around the country on what is billed as a farewell tour, even though, at 87, she s showing little in the way of weariness about maintaining a full concert schedule or lack of prowess in pulling these shows [ ]",
-      "published": "2026-08-07T22:42:40+00:00",
-      "fetched": "2026-08-08T00:38:55.118438+00:00"
-    },
-    {
-      "id": "92f068d9f53eb5f4",
-      "title": "Mookie Betts on Keeping His Pregame Routine Simple and Why He Doesn’t Worry About Rivalries",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/mookie-betts-dodgers-interview-native-1235605660/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Dodgers shortstop discusses how his clean routine led to a campaign with Native, why he's not superstitious, and the story behind his signature jewelry",
-      "published": "2026-08-07T21:59:05+00:00",
-      "fetched": "2026-08-08T00:38:55.245480+00:00"
-    },
-    {
-      "id": "b51193f630ef6a4e",
-      "title": "Trump Begs Supreme Court to Rescue His Precious Ballroom",
-      "link": "https://www.rollingstone.com/politics/politics-news/trump-begs-supreme-court-rescue-ballroom-project-1235605804/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The D.C. Circuit Court of Appeals ruled on Friday that construction must stop on the president's vanity project",
-      "published": "2026-08-07T21:43:22+00:00",
-      "fetched": "2026-08-08T00:38:55.245501+00:00"
-    },
-    {
-      "id": "dbdfc3c781562d40",
-      "title": "Olivia Rodrigo Debuts ‘Pretty Sad’ Songs at Sweltering Brooklyn Surprise Show: Concert Review",
-      "link": "https://variety.com/2026/music/reviews/olivia-rodrigo-debuts-pretty-sad-songs-brooklyn-surprise-concert-review-1236830406/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The announcement dropped on a pulverizingly humid Thursday afternoon in New York City: just a few hours later, an Olivia Rodrigo surprise gig would take place at Brooklyn’s intimate, 1,100-capacity venue Warsaw. The expected mad dash for tickets — only available at the venue’s box office — ensued, with fans lining up in heat that [ ]",
-      "published": "2026-08-07T21:28:57+00:00",
-      "fetched": "2026-08-08T00:38:55.118475+00:00"
-    },
-    {
-      "id": "b254302ed7f9a35a",
-      "title": "Meshell Ndegeocello, Cat Power Give Human League’s ‘Don’t You Want Me’ a Reggae Rework",
-      "link": "https://www.rollingstone.com/music/music-news/meshell-ndegeocello-cat-power-human-league-1235605666/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Unlikely duet previews Synonym, an ambitious covers album featuring Cynthia Erivo, Chaka Khan, Brandi Carlile, and WILLOW",
-      "published": "2026-08-07T21:12:41+00:00",
-      "fetched": "2026-08-08T00:38:55.245524+00:00"
-    },
-    {
-      "id": "889fd5d67a510b66",
-      "title": "Dwayne Johnson Defends ‘Moana’ After Bad Reviews: ‘Just the Way It Goes’",
-      "link": "https://variety.com/2026/film/news/dwayne-johnson-moana-bad-reviews-1236830353/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dwayne Johnson has come to terms with the tepid critical reception to his latest movie, the live-action “Moana” remake. The muscled thespian spoke with People about his reaction to the film, which drew the ire of critics. “Our first two reviews came out,” Johnson said.",
-      "published": "2026-08-07T21:10:29+00:00",
-      "fetched": "2026-08-08T00:38:55.118511+00:00"
-    },
-    {
-      "id": "cd22033282266264",
-      "title": "‘I Is Another’ Review: An Impeccable Claes Bang Plays Felix Kersten, Massage Therapist to Heinrich Himmler and Would-Be Nobel Laureate",
-      "link": "https://variety.com/2026/film/news/i-is-another-review-1236825554/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A handsomely upholstered psychological thriller with more than a little contemporary resonance, the period drama “I Is Another” should spark heated debate about what constitutes a historical fact as well as the increasingly malleable nature of truth today. German writer-director Felix Randau’s fourth feature centers on the fascinating but now mostly forgotten figure of Felix [ ]",
-      "published": "2026-08-07T21:03:00+00:00",
-      "fetched": "2026-08-08T00:38:55.118549+00:00"
-    },
-    {
-      "id": "5711bb7430af0e91",
-      "title": "Béla Tarr’s Legacy to Be Celebrated at Sarajevo Film Festival",
-      "link": "https://variety.com/2026/film/global/bela-tarr-legacy-sarajevo-film-festival-1236830359/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Sarajevo Film Festival has launched a new program dedicated to the legacy of Hungarian filmmaker Béla Tarr, who died this year. The Béla Tarr in Sarajevo Tribute program will focus on the work of former students from the Film Factory in Sarajevo, an innovative educational initiative set up by Tarr in 2013. The lineup [ ]",
-      "published": "2026-08-07T20:07:28+00:00",
-      "fetched": "2026-08-08T00:38:55.118584+00:00"
-    },
-    {
-      "id": "5bcb5da16ac9edaa",
-      "title": "Ravyn Lenae Breaks Down Boundaries on ‘Blue Island’",
-      "link": "https://www.rollingstone.com/music/music-album-reviews/ravyn-lenae-blue-island-album-review-1235578511/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The record points clearly towards the future, one in which the Chicago singer is an obvious leader in pop, R B, alt-anything, and whatever else she decides to lay claim to",
-      "published": "2026-08-07T19:52:50+00:00",
-      "fetched": "2026-08-08T00:38:55.245548+00:00"
-    },
-    {
-      "id": "a27d8acd2eaf4bb5",
-      "title": "Drake Appears on Karol G’s New Album. Let’s Look at His Past Latin Music Collaborations",
-      "link": "https://www.rollingstone.com/music/music-latin/drakes-latin-music-collaborations-karol-g-1235560629/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Canadian rapper has been fusing hip-hop with Latin genres for more than a decade",
-      "published": "2026-08-07T19:42:15+00:00",
-      "fetched": "2026-08-08T00:38:55.245568+00:00"
-    },
-    {
-      "id": "c5da90853ba1c826",
-      "title": "Katseye’s Sophia Laforteza Announces Hiatus From Group",
-      "link": "https://www.rollingstone.com/music/music-news/katseye-sophie-break-hiatus-1235605430/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Making this decision wasn’t easy, but I’m learning that health has to come first”",
-      "published": "2026-08-07T19:39:53+00:00",
-      "fetched": "2026-08-08T00:38:55.245588+00:00"
-    },
-    {
-      "id": "308fd1d01f04063d",
-      "title": "Variety Toasts Young Hollywood’s Hottest at Cover Bash With Tate McRae, Sombr, Tyriq Withers and Malachi Barton",
-      "link": "https://variety.com/2026/film/news/power-of-young-hollywood-2026-party-inside-tate-mcrae-1236829692/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Los Angeles, sweltering thanks to an unusual August humidity, got even hotter on Wednesday as Variety toasted the best and brightest young talent in show business. Variety Power of Young Hollywood, presented by Disney+, welcomed scores of actors, musicians, influencers, agents and execs to the Four Seasons Beverly Hills — including this year’s franchise cover [ ]",
-      "published": "2026-08-07T19:34:00+00:00",
-      "fetched": "2026-08-08T00:38:55.118620+00:00"
-    },
-    {
-      "id": "905a6c843c0f2193",
-      "title": "Chappell Roan Announces Two-Night LGBTQ+ Fundraising Event",
-      "link": "https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-fundraising-event-1235605626/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "‘Super Graphic Spectacular’ at Los Angeles’ Shrine Auditorium in October will benefit the Midwest Princess Project",
-      "published": "2026-08-07T19:30:32+00:00",
-      "fetched": "2026-08-08T00:38:55.245608+00:00"
     }
   ]
 }

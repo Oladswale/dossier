@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-11T06:42:08.571823+00:00",
+  "updated": "2026-08-11T12:35:05.098404+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6c8c60de5e122ea8",
+      "title": "A Buyer’s Summer Is “On” as Asking Prices See Steepest Decline Since 2017",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-450",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Most investors understand that real estate is local. While the national headlines usually tell one story, regional and local data often tell a very different one. This week’s headlines [ ]",
+      "published": "2026-08-11T11:00:28+00:00",
+      "fetched": "2026-08-11T12:35:04.653374+00:00"
+    },
+    {
+      "id": "81a1ace44c1fa729",
+      "title": "Data Centers Are Moving In Next to American Homes—Here’s How Neighborhoods Are Changing",
+      "link": "https://www.realtor.com/news/trends/data-center-home-prices-housing-report-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Data centers are increasingly popping up next to U.S. homes, and they're changing neighborhoods in the process.",
+      "published": "2026-08-11T09:00:00+00:00",
+      "fetched": "2026-08-11T12:35:05.097737+00:00"
+    },
+    {
+      "id": "2b9176f4c7d9cd6a",
+      "title": "The ‘Sandwich Generation’ Is Getting Younger—and Homeownership Is at Risk",
+      "link": "https://www.realtor.com/news/trends/sandwich-generation-caregiving-homeownership-age-34/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New research finds the \"sandwich generation\" starts at 34, squeezing savings and earnings during critical first-time homebuying years.",
+      "published": "2026-08-11T08:07:00+00:00",
+      "fetched": "2026-08-11T12:35:05.097775+00:00"
+    },
     {
       "id": "323f3b27ef6bb375",
       "title": "Inside Usher’s Art-Packed Atlanta Mansion—Complete With Stuffed Toy Wall, Hookah Lounge, and Private Barber Shop",
@@ -1472,36 +1502,6 @@
       "summary": "Convective storms, which may include hail, lightning, strong winds, or tornadoes, accounted for nearly one-third of all disaster losses.",
       "published": "2026-07-30T15:21:00+00:00",
       "fetched": "2026-07-30T19:05:05.042689+00:00"
-    },
-    {
-      "id": "f4e0bdecd30935c3",
-      "title": "Where Should You Park Cash Between Real Estate Deals?",
-      "link": "https://www.biggerpockets.com/blog/where-should-you-park-cash-between-real-estate-deals",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Sponsored by Connect Invest. If you ve ever gone in as an LP on a syndication, you already know this trade. The GP does the underwriting, manages the asset, and handles [ ]",
-      "published": "2026-07-30T14:00:17+00:00",
-      "fetched": "2026-07-30T19:05:04.457327+00:00"
-    },
-    {
-      "id": "39aba7f100c05976",
-      "title": "Fannie Mae IPO Could Have Serious Side Effects on Mortgage Rates",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-447",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Nearly 50% of mortgages in the U.S. flow through Fannie Mae or Freddie Mac—but a push from the Trump Administration could sell shares of these government enterprises and put them [ ]",
-      "published": "2026-07-30T11:00:43+00:00",
-      "fetched": "2026-07-30T13:20:14.669289+00:00"
-    },
-    {
-      "id": "63476aad4aa584e5",
-      "title": "They Left the Bay Area—Then Homeownership Jumped 33%",
-      "link": "https://www.realtor.com/news/trends/bay-area-movers-homeownership-ai-boom/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Cheaper housing put ownership within reach even before AI wealth flooded the market—but moving came with a cost of its own.",
-      "published": "2026-07-30T10:00:00+00:00",
-      "fetched": "2026-07-30T19:05:05.042719+00:00"
     }
   ]
 }
