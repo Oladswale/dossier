@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-11T12:35:04.432069+00:00",
-  "count": 106,
+  "updated": "2026-08-11T18:41:46.937012+00:00",
+  "count": 109,
   "items": [
+    {
+      "id": "6b0bbd1c45f412df",
+      "title": "3 Questions: MIT Sloan launches Evening MBA",
+      "link": "https://news.mit.edu/2026/3-questions-mit-sloan-launches-evening-mba-0811",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Dean Richard Locke discusses a new program that expands access for working professionals while deepening connections to Greater Boston’s innovation economy.",
+      "published": "2026-08-11T17:40:00+00:00",
+      "fetched": "2026-08-11T18:41:45.596769+00:00"
+    },
+    {
+      "id": "f8958f0dd53eb441",
+      "title": "The mystery of the Chinese tea chest label",
+      "link": "https://news.mit.edu/2026/mystery-of-the-chinese-tea-chest-label-0811",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT historian Tristan Brown uncovers the true origins of an artifact once thought to be a relic of the Boston Tea Party.",
+      "published": "2026-08-11T16:30:00+00:00",
+      "fetched": "2026-08-11T18:41:45.596805+00:00"
+    },
+    {
+      "id": "5cbcaa129f7b4899",
+      "title": "How the Beatles Made their Most Acclaimed Album, Revolver, Released 60 Years Ago This Month",
+      "link": "https://www.openculture.com/2026/08/how-the-beatles-made-their-most-acclaimed-album-revolver.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Among Beatles connoisseurs, it’s fair game to claim anything from Rubber Soul to Abbey Road as one’s favorite album. But even within that span of the catalog, a hierarchy of acclaim exists, and that hierarchy has been rearranged over the decades. The ecstatic reception of Sgt.",
+      "published": "2026-08-11T14:50:26+00:00",
+      "fetched": "2026-08-11T18:41:46.936802+00:00"
+    },
     {
       "id": "8685c4a09d1029f2",
       "title": "226 Ansel Adams Photographs of Great American National Parks Are Now Online",
