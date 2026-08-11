@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-11T00:42:48.287932+00:00",
-  "count": 104,
+  "updated": "2026-08-11T06:42:07.964087+00:00",
+  "count": 105,
   "items": [
+    {
+      "id": "4e4c487a55fb6c7e",
+      "title": "On the hunt for dark matter",
+      "link": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for the universe’s most elusive particle.",
+      "published": "2026-08-11T04:00:00+00:00",
+      "fetched": "2026-08-11T06:42:06.843357+00:00"
+    },
     {
       "id": "a79f30d449ecb8ef",
       "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
