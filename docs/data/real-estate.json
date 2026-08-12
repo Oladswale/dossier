@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-12T07:02:15.607946+00:00",
+  "updated": "2026-08-12T12:37:49.222149+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "197364167ac5be29",
+      "title": "How to Buy a Rental Property with 5% Down or Less (5 Ways)",
+      "link": "https://www.biggerpockets.com/blog/rookie-756",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You’ve probably heard that you need a 20% down payment to buy a rental property. But for the average rookie, that’s just not a viable way to build a real [ ]",
+      "published": "2026-08-12T11:00:50+00:00",
+      "fetched": "2026-08-12T12:37:48.924812+00:00"
+    },
+    {
+      "id": "feae48d69c08ec39",
+      "title": "10 “Hidden” Signs of a High-Upside Rental Property (Buy These in 2026)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1316",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The “regular” rental property you’re thinking of buying? It may not look like anything special here in 2026, but it could be worth tens or even hundreds of thousands of [ ]",
+      "published": "2026-08-12T11:00:13+00:00",
+      "fetched": "2026-08-12T12:37:48.924857+00:00"
+    },
+    {
+      "id": "70a075a5c496f0f4",
+      "title": "This Couple Replaced Their Salaries with 9 Rental Properties (In Just 4 Years)",
+      "link": "https://www.biggerpockets.com/blog/rookie-755",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Chris and Ksenia Kim had always wanted to own rental properties, but planning for a family and reaching a breaking point with work travel got them to finally take action. [ ]",
+      "published": "2026-08-12T11:00:11+00:00",
+      "fetched": "2026-08-12T12:37:48.924892+00:00"
+    },
+    {
+      "id": "1fb772520476bb2f",
+      "title": "Luxury on Discount: Austin’s High-End Real Estate Market Enters Correction as Prices Fall 10%",
+      "link": "https://www.realtor.com/news/trends/home-prices-falling-austin-luxury-report-july-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Austin, San Francisco, and Boston have seen the steepest decline in luxury home prices over the past year, but for different reasons.",
+      "published": "2026-08-12T09:00:00+00:00",
+      "fetched": "2026-08-12T12:37:49.221481+00:00"
+    },
     {
       "id": "4e44d34056dad78e",
       "title": "Oprah Winfrey Returns to Her Former Hometown of Chicago as She Makes Rare Appearance With Partner Stedman Graham",
@@ -1462,46 +1502,6 @@
       "summary": "The humble home is the golfer's haven when he's not on the PGA tour, and it's near one of his favorite fast food restaurants.",
       "published": "2026-07-31T16:11:00+00:00",
       "fetched": "2026-07-31T19:02:16.861381+00:00"
-    },
-    {
-      "id": "759f2ed63ad3113b",
-      "title": "How Sellers Are Using Smart Cameras To Eavesdrop on Homebuyers: ‘Consider Yourself in a Reality Show’",
-      "link": "https://www.realtor.com/news/trends/smart-cameras-spying-home-buying/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Sellers are using smart cameras to eavesdrop on buyers. Here is how active home security devices are wiretapping showings and ruining deals.",
-      "published": "2026-07-31T16:02:39+00:00",
-      "fetched": "2026-07-31T19:02:16.861412+00:00"
-    },
-    {
-      "id": "4b80310209fa1eed",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.66% Rate",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-july-30/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rates surged this week to levels not seen in over a year, supporting economists' outlook that mid-6% mortgages are here to stay.",
-      "published": "2026-07-31T15:47:00+00:00",
-      "fetched": "2026-07-31T19:02:16.861440+00:00"
-    },
-    {
-      "id": "e5f05efca029b600",
-      "title": "Living on the Edge: 5 Dramatic Cantilevered Homes Hovering Over Thin Air",
-      "link": "https://www.realtor.com/news/unique-homes/cantilevered-homes-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore five gravity-defying cantilevered homes with dramatic designs, bold architecture, and breathtaking views across the U.S.",
-      "published": "2026-07-31T15:00:00+00:00",
-      "fetched": "2026-07-31T19:02:16.861465+00:00"
-    },
-    {
-      "id": "51101f63566ef1b1",
-      "title": "Can Cost Segregation Studies Help If I Bought the Property Years Ago?",
-      "link": "https://www.biggerpockets.com/blog/can-cost-segregation-studies-help-if-i-bought-the-property-years-ago",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If you ve been in real estate for a while, you ve probably heard investors talk about cost segregation like it s something you have to do the same year you close on [ ]",
-      "published": "2026-07-31T14:00:43+00:00",
-      "fetched": "2026-07-31T19:02:16.544215+00:00"
     }
   ]
 }

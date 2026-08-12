@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-12T07:02:14.967479+00:00",
-  "count": 109,
+  "updated": "2026-08-12T12:37:48.534931+00:00",
+  "count": 112,
   "items": [
+    {
+      "id": "00cf46176e29276a",
+      "title": "Met Warehouse opens as the new home of MIT’s School of Architecture and Planning",
+      "link": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In a feat of adaptive reuse, a massive, century-old brick storage facility has been turned into a contemporary hub for collaboration and creative work.",
+      "published": "2026-08-12T10:00:00+00:00",
+      "fetched": "2026-08-12T12:37:47.373388+00:00"
+    },
+    {
+      "id": "f13cead8eeca5003",
+      "title": "How to design a space habitat that supports its residents’ mental health",
+      "link": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions.",
+      "published": "2026-08-12T09:00:00+00:00",
+      "fetched": "2026-08-12T12:37:47.373427+00:00"
+    },
+    {
+      "id": "4ae4fe643d3a83cb",
+      "title": "Watch Stewart Brand’s 6‑Part Series How Buildings Learn, With Music by Brian Eno",
+      "link": "https://www.openculture.com/2026/08/watch-stewart-brands-6-part-series-how-buildings-learn.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Stewart Brand came onto the cultural scene during the 1960s, helping to stage the Acid Tests made famous by Ken Kesey and the Merry Pranksters, and later launching the influential Whole Earth Catalog (something Steve Jobs described as “Google in paperback form, 35 years before Google came along”). He also vigorously campaigned in 1966 to have NASA release [ ]",
+      "published": "2026-08-12T08:13:24+00:00",
+      "fetched": "2026-08-12T12:37:48.534692+00:00"
+    },
     {
       "id": "6b0bbd1c45f412df",
       "title": "3 Questions: MIT Sloan launches Evening MBA",
