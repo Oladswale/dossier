@@ -1,8 +1,248 @@
 {
   "category": "finance",
-  "updated": "2026-08-12T12:37:43.362568+00:00",
+  "updated": "2026-08-12T18:43:00.168572+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9a059cb58efcfa30",
+      "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+      "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Short interest in SpaceX fell to about 11% of the company's publicly traded shares Wednesday, down sharply from a peak of 34% last week, according to S3.",
+      "published": "2026-08-12T18:36:37+00:00",
+      "fetched": "2026-08-12T18:42:58.834997+00:00"
+    },
+    {
+      "id": "f2232e481bb9bce6",
+      "title": "Creative sector to contribute 2.3% to GDP, add 2 million jobs by 2030 — FG",
+      "link": "https://nairametrics.com/2026/08/12/creative-sector-to-contribute-2-3-to-gdp-add-2-million-jobs-by-2030-fg/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government says Nigeria’s creative sector is expected to contribute about 2.3% to the country’s Gross Domestic Product (GDP) and create an additional 2 million jobs by 2030 under the Renewed Hope Agenda of the Tinubu administration. The post Creative sector to contribute 2.3% to GDP, add 2 million jobs by 2030 — FG appeared first on Nairametrics .",
+      "published": "2026-08-12T18:31:39+00:00",
+      "fetched": "2026-08-12T18:42:59.106820+00:00"
+    },
+    {
+      "id": "600d999de4120b33",
+      "title": "Now China wants to become the shop floor for the Muslim world",
+      "link": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Chinese exporters are moving into halal food, cosmetics and fashion, but success in this vast market depends on something harder to manufacture than cheap goods: trust.",
+      "published": "2026-08-12T18:28:00+00:00",
+      "fetched": "2026-08-12T18:42:58.725780+00:00"
+    },
+    {
+      "id": "96d932f8c97b8f95",
+      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+      "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Caps on student borrowing could also play into how America pays for college.",
+      "published": "2026-08-12T18:20:00+00:00",
+      "fetched": "2026-08-12T18:42:58.725820+00:00"
+    },
+    {
+      "id": "b28c446897df40ff",
+      "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
+      "link": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors are concerned that Alphabet faces a fresh threat from Nvidia’s plans to help fund the AI buildout alongside major Wall Street players.",
+      "published": "2026-08-12T18:19:00+00:00",
+      "fetched": "2026-08-12T18:42:58.725861+00:00"
+    },
+    {
+      "id": "ed89bc9b15d744fe",
+      "title": "Wike closes Abuja Secretariat of dissolved committee on sale of FG houses",
+      "link": "https://nairametrics.com/2026/08/12/wike-closes-abuja-secretariat-of-dissolved-committee-on-sale-of-fg-houses/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Minister of the Federal Capital Territory (FCT), Nyesom Wike, has directed the closure of the Secretariat of the dissolved Ad-Hoc Committee on Sales of Federal Government Houses (SFGH) in the Federal Capital Territory. The post Wike closes Abuja Secretariat of dissolved committee on sale of FG houses appeared first on Nairametrics .",
+      "published": "2026-08-12T18:16:51+00:00",
+      "fetched": "2026-08-12T18:42:59.106874+00:00"
+    },
+    {
+      "id": "4fb0e6ef882133ca",
+      "title": "Chili’s has hopped on the chicken-sandwich bandwagon, and it’s driving big sales gains",
+      "link": "https://www.marketwatch.com/story/chilis-has-hopped-on-the-chicken-sandwich-bandwagon-and-its-driving-big-sales-gains-cfad9549?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The number of chicken sandwiches sold at Chili’s locations has increased 175% — and shares of its parent company are now trading at record highs.",
+      "published": "2026-08-12T18:04:00+00:00",
+      "fetched": "2026-08-12T18:42:58.725910+00:00"
+    },
+    {
+      "id": "5c85d677669d344e",
+      "title": "SpaceX’s stock is getting a Grok-fueled boost",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company is best known for rocket launches but has big revenue goals for its AI business.",
+      "published": "2026-08-12T17:26:00+00:00",
+      "fetched": "2026-08-12T18:42:58.725946+00:00"
+    },
+    {
+      "id": "1670e803fe9ab186",
+      "title": "NITDA warns WordPress users over vulnerability that could give attackers website control",
+      "link": "https://nairametrics.com/2026/08/12/nitda-warns-wordpress-users-over-vulnerability-that-could-give-attackers-website-control/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s National Information Technology Development Agency (NITDA) has warned WordPress users and administrators about a pre-authentication vulnerability that could allow attackers to execute malicious PHP code on affected websites. The post NITDA warns WordPress users over vulnerability that could give attackers website control appeared first on Nairametrics .",
+      "published": "2026-08-12T17:21:04+00:00",
+      "fetched": "2026-08-12T18:42:59.106940+00:00"
+    },
+    {
+      "id": "ea87820366d55955",
+      "title": "CBN relaxes discount window restrictions for FX, government securities",
+      "link": "https://nairametrics.com/2026/08/12/cbn-relaxes-discount-window-restrictions-for-fx-government-securities/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria (CBN) has removed restrictions that prevented financial institutions participating in the Nigerian Foreign Exchange Market (NFEM) and primary auctions of government securities from accessing its Discount Window. The post CBN relaxes discount window restrictions for FX, government securities appeared first on Nairametrics .",
+      "published": "2026-08-12T16:58:23+00:00",
+      "fetched": "2026-08-12T18:42:59.106983+00:00"
+    },
+    {
+      "id": "0ff517728786badc",
+      "title": "Vodacom appoints former Airtel Africa CEO Segun Ogunsanya to board",
+      "link": "https://nairametrics.com/2026/08/12/vodacom-appoints-former-airtel-africa-ceo-segun-ogunsanya-to-board/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Former Airtel Africa Group Chief Executive Officer Segun Ogunsanya has been appointed as an independent non-executive director of Vodacom Group. The post Vodacom appoints former Airtel Africa CEO Segun Ogunsanya to board appeared first on Nairametrics .",
+      "published": "2026-08-12T16:48:37+00:00",
+      "fetched": "2026-08-12T18:42:59.107017+00:00"
+    },
+    {
+      "id": "24def155ea008a13",
+      "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
+      "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Social Security’s cost-of-living adjustment could be as much as 3.6% in 2027.",
+      "published": "2026-08-12T16:45:00+00:00",
+      "fetched": "2026-08-12T18:42:58.725973+00:00"
+    },
+    {
+      "id": "a593ad3f973f914e",
+      "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
+      "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
+      "published": "2026-08-12T16:44:00+00:00",
+      "fetched": "2026-08-12T18:42:58.726003+00:00"
+    },
+    {
+      "id": "42f288235c92c2bd",
+      "title": "NGX woos Hong Kong investors, pushes Chinese firms for dual listings",
+      "link": "https://nairametrics.com/2026/08/12/ngx-woos-hong-kong-investors-pushes-chinese-firms-for-dual-listings/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Exchange Group (NGX Group) has intensified efforts to attract Hong Kong investors into Nigeria while encouraging Chinese companies with significant operations in the country to consider dual listings on the Nigerian Exchange. The post NGX woos Hong Kong investors, pushes Chinese firms for dual listings appeared first on Nairametrics .",
+      "published": "2026-08-12T16:26:15+00:00",
+      "fetched": "2026-08-12T18:42:59.107056+00:00"
+    },
+    {
+      "id": "3aa32a1362a15444",
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
+      "published": "2026-08-12T16:00:00+00:00",
+      "fetched": "2026-08-12T18:42:58.726028+00:00"
+    },
+    {
+      "id": "3b25f3ead8e556e8",
+      "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
+      "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The signs are all around that Wall Street is back in that dangerous atmosphere of giddy euphoria that those with long memories will remember from the infamous dot-com bubble of the late 1990s.",
+      "published": "2026-08-12T16:00:00+00:00",
+      "fetched": "2026-08-12T18:42:58.726058+00:00"
+    },
+    {
+      "id": "a46b46ad05e9854f",
+      "title": "As Nigeria’s Crypto economy grows, Ridima is making Crypto-to-Naira conversion faster and simpler",
+      "link": "https://nairametrics.com/2026/08/12/as-nigerias-crypto-economy-grows-ridima-is-making-crypto-to-naira-conversion-faster-and-simpler/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ridima has built its product around that second half, which it calls the exit experience. The argument behind it is simple enough to state in one line: in Nigeria, the quality of a crypto platform is decided by what happens when you want your naira back. The post As Nigeria s Crypto economy grows, Ridima is making Crypto-to-Naira conversion faster and simpler appeared first on Nairametrics .",
+      "published": "2026-08-12T14:56:43+00:00",
+      "fetched": "2026-08-12T18:42:59.107105+00:00"
+    },
+    {
+      "id": "3d5c9eafd67d0bcc",
+      "title": "Shoprite’s Sixty60 is now a $1.6 billion digital commerce business",
+      "link": "https://techcabal.com/2026/08/12/shoprites-sixty60-is-now-a-1-6-billion-digital-commerce-business/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The numbers show how the retailer is turning its vast physical store network into infrastructure for a rapidly expanding digital commerce business.",
+      "published": "2026-08-12T14:49:07+00:00",
+      "fetched": "2026-08-12T18:43:00.168370+00:00"
+    },
+    {
+      "id": "2f49c1b7a5a3824c",
+      "title": "Within the room, again: the variable Nigeria finally admitted",
+      "link": "https://nairametrics.com/2026/08/12/within-the-room-again-the-variable-nigeria-finally-admitted/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "For decades, Nigeria's national economic conversation has been conducted in a narrow vocabulary: oil production, foreign reserves, inflation and the exchange rate. The post Within the room, again: the variable Nigeria finally admitted appeared first on Nairametrics .",
+      "published": "2026-08-12T14:48:04+00:00",
+      "fetched": "2026-08-12T18:42:59.107139+00:00"
+    },
+    {
+      "id": "b3f7832b279b3eeb",
+      "title": "Jumia raises $50 million led by IFC as Q2 revenue rises 14%",
+      "link": "https://nairametrics.com/2026/08/12/jumia-raises-50-million-led-by-ifc-q2-revenue-rises-14/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa’s e-commerce giant, Jumia Technologies AG, has secured $50 million through a capital raise anchored by a $25 million investment from the International Finance Corporation (IFC), a member of the World Bank Group. The post Jumia raises $50 million led by IFC as Q2 revenue rises 14% appeared first on Nairametrics .",
+      "published": "2026-08-12T14:35:13+00:00",
+      "fetched": "2026-08-12T18:42:59.107182+00:00"
+    },
+    {
+      "id": "bffae1aa0bab6a0a",
+      "title": "Big 6 audit firms earn N175 billion, PwC leads clients, KPMG revenue",
+      "link": "https://nairametrics.com/2026/08/12/big-6-audit-firms-earn-n175-billion-pwc-leads-clients-kpmg-revenue/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's leading audit firms generated more than N175 billion in combined revenue during their 2025 financial years, according to an analysis of Transparency Reports published under Rule 12 of the Financial Reporting Council of Nigeria (FRCN). The post Big 6 audit firms earn N175 billion, PwC leads clients, KPMG revenue appeared first on Nairametrics .",
+      "published": "2026-08-12T14:26:55+00:00",
+      "fetched": "2026-08-12T18:42:59.107223+00:00"
+    },
+    {
+      "id": "936b6c39555ad651",
+      "title": "Nigeria’s crude oil output holds above 1.5mbpd for third month despite July drop",
+      "link": "https://nairametrics.com/2026/08/12/nigerias-crude-oil-output-holds-above-1-5mbpd-for-third-month-despite-july-drop/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s crude oil production remained above 1.5 million barrels per day (bpd) for the third consecutive month in July 2026 despite a decline from the previous month. The post Nigeria’s crude oil output holds above 1.5mbpd for third month despite July drop appeared first on Nairametrics .",
+      "published": "2026-08-12T13:25:34+00:00",
+      "fetched": "2026-08-12T18:42:59.107265+00:00"
+    },
+    {
+      "id": "337bac24f41e9c8e",
+      "title": "PENGASSAN pushes to open Africa’s fuel market to Dangote products",
+      "link": "https://nairametrics.com/2026/08/12/pengassan-pushes-to-open-africas-fuel-market-to-dangote-products/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Petroleum and Natural Gas Senior Staff Association of Nigeria (PENGASSAN) has called for the free trade of Dangote Refinery products across Africa, stressing that it will be better for the country and the continent at large. The post PENGASSAN pushes to open Africa’s fuel market to Dangote products appeared first on Nairametrics .",
+      "published": "2026-08-12T13:17:09+00:00",
+      "fetched": "2026-08-12T18:42:59.107308+00:00"
+    },
+    {
+      "id": "85aae1bfbb4a6291",
+      "title": "Beyond the Building: why location matters in corporate Real Estate",
+      "link": "https://nairametrics.com/2026/08/12/beyond-the-building-why-location-matters-in-corporate-real-estate/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "When organisations evaluate office space, attention is naturally drawn to the building itself—its architecture, specifications, amenities, sustainability credentials, and prestige. The post Beyond the Building: why location matters in corporate Real Estate appeared first on Nairametrics .",
+      "published": "2026-08-12T12:56:14+00:00",
+      "fetched": "2026-08-12T18:42:59.107346+00:00"
+    },
     {
       "id": "84b73cb54c2036f7",
       "title": "CoreWeave’s stock is rocketing after earnings lead to praise from bulls and bears alike",
@@ -1262,246 +1502,6 @@
       "summary": "The Central Bank of Nigeria (CBN) acting on behalf of the Debt Management Office (DMO), is returning to the primary market with a N700 billion Nigerian Treasury Bills (NTB) auction scheduled for Wednesday, August 12, just one week after withdrawing a similar-sized offering to prevent liquidity conditions from overheating. The post CBN returns to Primary Market with N700 billion NTB auction on August 12 appeared first on Nairametrics .",
       "published": "2026-08-10T16:55:44+00:00",
       "fetched": "2026-08-10T18:38:22.403100+00:00"
-    },
-    {
-      "id": "fa855cbb36231820",
-      "title": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
-      "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Here’s how the Protect College Sports Act could impact the economics of college sports.",
-      "published": "2026-08-10T16:48:00+00:00",
-      "fetched": "2026-08-10T18:38:21.895762+00:00"
-    },
-    {
-      "id": "9a3825af0a4deb36",
-      "title": "Mark Zuckerberg rejects AI doom narrative, says invention will create more jobs",
-      "link": "https://nairametrics.com/2026/08/10/mark-zuckerberg-rejects-ai-doom-narrative-says-invention-will-create-more-jobs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Meta CEO Mark Zuckerberg has challenged growing fears that artificial intelligence will bring widespread job losses and make humans less relevant, arguing that advanced AI could instead expand individual capabilities, create new businesses and increase employment. The post Mark Zuckerberg rejects AI doom narrative, says invention will create more jobs appeared first on Nairametrics .",
-      "published": "2026-08-10T16:47:29+00:00",
-      "fetched": "2026-08-10T18:38:22.403143+00:00"
-    },
-    {
-      "id": "0d38e8620051b02a",
-      "title": "17 S&P 500 companies with growing revenue and profit margins — and some of their stocks are cheap",
-      "link": "https://www.marketwatch.com/story/17-s-p-500-companies-with-growing-revenue-and-profit-margins-and-some-of-their-stocks-are-cheap-e7c7fa14?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "These companies increased their quarterly sales per share by at least 40% while expanding their gross profit margins and their operating margins.",
-      "published": "2026-08-10T15:35:00+00:00",
-      "fetched": "2026-08-10T18:38:21.895805+00:00"
-    },
-    {
-      "id": "e7676b25fdc7209e",
-      "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
-      "published": "2026-08-10T15:20:00+00:00",
-      "fetched": "2026-08-10T18:38:21.895831+00:00"
-    },
-    {
-      "id": "63cdd001c40d4e0c",
-      "title": "85% of Nigerian workloads run on public clouds as government pushes localisation",
-      "link": "https://techcabal.com/2026/08/10/nigeria-pushes-local-cloud-as-85-of-workloads-use-public-clouds/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria is moving to bring more of its cloud infrastructure within the country, seeking to cut reliance on overseas systems and keep more of the digital economy’s value at home.",
-      "published": "2026-08-10T15:03:14+00:00",
-      "fetched": "2026-08-10T18:38:22.912772+00:00"
-    },
-    {
-      "id": "73b3c0fb73c5d9bd",
-      "title": "FirstBank Samuel Asabia Professorial Chair Hosts Inaugural Public Lecture on Business Ethics and Nigeria’s Economic Future",
-      "link": "https://nairametrics.com/2026/08/10/firstbank-samuel-asabia-professorial-chair-hosts-inaugural-public-lecture-on-business-ethics-and-nigerias-economic-future/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos, 10 August 2026 – FirstBank, West Africa’s premier financial institution and the leading financial inclusion service provider, is pleased to announce the inaugural public lecture of the FirstBank Samuel Asabia Professorial Chair in Business Ethics and Governance scheduled to hold at the University of Lagos on 3 September 2026. The post FirstBank Samuel Asabia Professorial Chair Hosts Inaugural Public Lecture on Business Ethics and Nigeria s Economic Future appeared first on Nairametrics .",
-      "published": "2026-08-10T14:58:32+00:00",
-      "fetched": "2026-08-10T18:38:22.403206+00:00"
-    },
-    {
-      "id": "527353f31ce85c30",
-      "title": "Nigeria’s trillion-dollar ambition has a returns problem",
-      "link": "https://nairametrics.com/2026/08/10/nigerias-trillion-dollar-ambition-has-a-returns-problem/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "This is part of a series exploring whether, and how, Nigeria can become a one trillion-dollar economy. Next in the series: is Nigeria preparing its people to power the growth? The post Nigeria’s trillion-dollar ambition has a returns problem appeared first on Nairametrics .",
-      "published": "2026-08-10T14:45:58+00:00",
-      "fetched": "2026-08-10T18:38:22.403249+00:00"
-    },
-    {
-      "id": "ce6912e7525079f9",
-      "title": "Three states account for 43% of Nigeria’s N4.52 trillion states’ debt – DMO",
-      "link": "https://nairametrics.com/2026/08/10/three-states-account-for-43-of-nigerias-n4-52-trillion-states-debt-dmo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos, the Federal Capital Territory (FCT) and Rivers State accounted for more than 43% of the N4.52 trillion domestic debt owed by Nigeria’s 36 states and the FCT as of March 31, 2026. The post Three states account for 43% of Nigeria’s N4.52 trillion states’ debt – DMO appeared first on Nairametrics .",
-      "published": "2026-08-10T14:16:10+00:00",
-      "fetched": "2026-08-10T18:38:22.403293+00:00"
-    },
-    {
-      "id": "625858ddf64edc35",
-      "title": "NERC seizes control of Kaduna DisCo over N456.5 billion debt crisis",
-      "link": "https://nairametrics.com/2026/08/10/nerc-seizes-control-of-kaduna-disco-over-n456-5-billion-debt-crisis/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Electricity Regulatory Commission (NERC) has taken over Kaduna Electricity Distribution Company (KAEDC), dissolving its board of directors over a mounting debt crisis that has left the utility owing about N456.5 billion in cumulative market obligations. The post NERC seizes control of Kaduna DisCo over N456.5 billion debt crisis appeared first on Nairametrics .",
-      "published": "2026-08-10T13:55:19+00:00",
-      "fetched": "2026-08-10T18:38:22.403340+00:00"
-    },
-    {
-      "id": "fb0bcffcec9d005d",
-      "title": "First Securities emerges Nigeria’s No. 1 broker as Bamboo dominates retail trades",
-      "link": "https://nairametrics.com/2026/08/10/first-securities-emerges-nigerias-no-1-broker-as-bamboo-dominates-retail-trades/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Retail investors accounted for roughly one in every four stock trades executed on the Nigerian Exchange (NGX) between January and July 2026, with Lambeth Capital Limited, through its brokerage partner, Bamboo, driving the bulk of that activity for a seventh consecutive month. The post First Securities emerges Nigeria’s No. 1 broker as Bamboo dominates retail trades appeared first on Nairametrics .",
-      "published": "2026-08-10T13:45:04+00:00",
-      "fetched": "2026-08-10T18:38:22.403390+00:00"
-    },
-    {
-      "id": "bb7bf42a1291339d",
-      "title": "NRS Chairman, Zacch Adedeji, lists four economic distortions inherited by Tinubu",
-      "link": "https://nairametrics.com/2026/08/10/nrs-chairman-zacch-adedeji-lists-four-economic-distortions-inherited-by-tinubu/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Chairman of the Nigeria Revenue Service (NRS), Zacch Adedeji, has listed four major economic distortions inherited by the President Bola Tinubu-led administration. The post NRS Chairman, Zacch Adedeji, lists four economic distortions inherited by Tinubu appeared first on Nairametrics .",
-      "published": "2026-08-10T13:38:33+00:00",
-      "fetched": "2026-08-10T18:38:22.403426+00:00"
-    },
-    {
-      "id": "2cf8d323b4a08b8c",
-      "title": "Experts reveal how EU CBI crackdown could reshape wealthy Nigerians’ migration plans",
-      "link": "https://nairametrics.com/2026/08/10/experts-reveal-how-eu-cbi-crackdown-could-reshape-wealthy-nigerians-migration-plans/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The report followed a directive issued by the European Union, which gave five Caribbean nations — Antigua and Barbuda, Dominica, Grenada, Saint Lucia, and Saint Kitts and Nevis — until June 1, 2028, to reform or phase out their citizenship-by-investment (CBI) programmes or risk losing visa-free access to the Schengen area. The post Experts reveal how EU CBI crackdown could reshape wealthy Nigerians’ migration plans appeared first on Nairametrics .",
-      "published": "2026-08-10T13:32:16+00:00",
-      "fetched": "2026-08-10T18:38:22.403477+00:00"
-    },
-    {
-      "id": "a8bab7b11c06a437",
-      "title": "Lagos overtakes oil states as top FAAC earner with N365.78 billion",
-      "link": "https://nairametrics.com/2026/08/10/lagos-overtakes-oil-states-as-top-faac-earner-with-n365-78-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s states received significantly higher disbursements from the Federation Account in H1 2026, reflecting stronger distributable revenues from statutory revenue, Value Added Tax (VAT), derivation revenue, Electronic Money Transfer Levy (EMTL) and other revenue streams. The post Lagos overtakes oil states as top FAAC earner with N365.78 billion appeared first on Nairametrics .",
-      "published": "2026-08-10T13:18:23+00:00",
-      "fetched": "2026-08-10T18:38:22.403522+00:00"
-    },
-    {
-      "id": "d5cd8581e016a7e1",
-      "title": "Nigerians set new data usage record, consume 1.5 million terabytes in May",
-      "link": "https://nairametrics.com/2026/08/10/nigerians-set-new-data-usage-record-consume-1-5-million-terabytes-in-may/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Telecommunications subscribers in Nigeria used 1.5 million terabytes of data in May, the highest monthly consumption ever recorded. The post Nigerians set new data usage record, consume 1.5 million terabytes in May appeared first on Nairametrics .",
-      "published": "2026-08-10T13:05:27+00:00",
-      "fetched": "2026-08-10T18:38:22.403556+00:00"
-    },
-    {
-      "id": "fd105fcda6a797b0",
-      "title": "What African investors think about the funding squeeze killing early-stage startups",
-      "link": "https://techcabal.com/2026/08/10/african-vc-funding-squeez/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Startups raising between $100,000 and $1 million fell 44% in six months. African VC investors explain what changed.",
-      "published": "2026-08-10T13:04:53+00:00",
-      "fetched": "2026-08-10T18:38:22.912809+00:00"
-    },
-    {
-      "id": "4bd2b3a71a80a3ef",
-      "title": "Tax reform fails to stop multiple collectors visiting Nigerian manufacturers – MAN",
-      "link": "https://nairametrics.com/2026/08/10/tax-reform-fails-to-stop-multiple-collectors-visiting-nigerian-manufacturers-man/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Tax Act 2025 has yet to eliminate multiple taxes and levies imposed on manufacturers, with companies still facing visits from different tax authorities and regulators, according to the Manufacturers Association of Nigeria (MAN). The post Tax reform fails to stop multiple collectors visiting Nigerian manufacturers – MAN appeared first on Nairametrics .",
-      "published": "2026-08-10T13:01:08+00:00",
-      "fetched": "2026-08-10T18:38:22.403602+00:00"
-    },
-    {
-      "id": "3c6549606a0c5106",
-      "title": "Nigeria is making crypto companies collect taxes for the government",
-      "link": "https://techcabal.com/2026/08/10/virtual-asset-rules-for-nigerian-vasps/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The requirements could increase compliance costs and force companies to expand their finance and compliance teams. They could also require changes to internal systems for onboarding, settlement, custody, and reconciliation.",
-      "published": "2026-08-10T12:52:55+00:00",
-      "fetched": "2026-08-10T18:38:22.912842+00:00"
-    },
-    {
-      "id": "979b127a8da2771c",
-      "title": "Zedcrest Group Convenes Market Leaders to Navigate a New Era of Global Investing",
-      "link": "https://nairametrics.com/2026/08/10/zedcrest-group-convenes-market-leaders-to-navigate-a-new-era-of-global-investing/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zedcrest Group Convenes Market Leaders to Navigate a New Era of Global Investing The post Zedcrest Group Convenes Market Leaders to Navigate a New Era of Global Investing appeared first on Nairametrics .",
-      "published": "2026-08-10T12:26:02+00:00",
-      "fetched": "2026-08-10T12:37:39.410747+00:00"
-    },
-    {
-      "id": "b9ba940fef39ec3a",
-      "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
-      "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The company said it sees growth opportunities in physical AI, custom chips and advanced packaging.",
-      "published": "2026-08-10T12:24:00+00:00",
-      "fetched": "2026-08-10T12:37:38.970371+00:00"
-    },
-    {
-      "id": "6658e75a2552f0ae",
-      "title": "Energy crisis pushes solar imports above $400 million across 15 African countries in Q1",
-      "link": "https://nairametrics.com/2026/08/10/energy-crisis-pushes-solar-imports-above-400-million-across-15-african-countries-in-q1/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Fifteen African countries recorded more than $400 million in solar panel imports in the first quarter of 2026 as the energy crisis drove households and businesses to seek alternatives to conventional energy sources. The post Energy crisis pushes solar imports above $400 million across 15 African countries in Q1 appeared first on Nairametrics .",
-      "published": "2026-08-10T12:23:48+00:00",
-      "fetched": "2026-08-10T12:37:39.410802+00:00"
-    },
-    {
-      "id": "8ce6f60b86202c78",
-      "title": "Nigeria’s brewers spend N220 billion fighting for consumers in H1 2026",
-      "link": "https://nairametrics.com/2026/08/10/nigerias-brewers-spend-n220-billion-fighting-for-consumers-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s three listed breweries spent more than N220 billion on advertising and distribution in the first half of 2026, as intense competition forces them to fight harder for shelf space and consumer attention. The post Nigeria’s brewers spend N220 billion fighting for consumers in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-08-10T11:42:46+00:00",
-      "fetched": "2026-08-10T12:37:39.410859+00:00"
-    },
-    {
-      "id": "c7b90e4cc11b900c",
-      "title": "FCMB, Healthcare Stakeholders Set Out Roadmap to Move Nigeria’s Health Sector from Survival to Scale",
-      "link": "https://nairametrics.com/2026/08/10/fcmb-healthcare-stakeholders-set-out-roadmap-to-move-nigerias-health-sector-from-survival-to-scale/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s healthcare sector needs more than additional funding to expand. The post FCMB, Healthcare Stakeholders Set Out Roadmap to Move Nigeria’s Health Sector from Survival to Scale appeared first on Nairametrics .",
-      "published": "2026-08-10T11:39:10+00:00",
-      "fetched": "2026-08-10T12:37:39.410905+00:00"
-    },
-    {
-      "id": "7ba8f3054ad7b39e",
-      "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
-      "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
-      "published": "2026-08-10T11:15:00+00:00",
-      "fetched": "2026-08-10T12:37:38.970469+00:00"
-    },
-    {
-      "id": "72779bb5fdc3bcf9",
-      "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
-      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A weaker labor market may mean the Federal Reserve can cut interest rates amid benign wage inflation, says 22V.",
-      "published": "2026-08-10T11:11:00+00:00",
-      "fetched": "2026-08-10T12:37:38.970504+00:00"
     }
   ]
 }

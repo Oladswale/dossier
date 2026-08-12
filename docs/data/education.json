@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-12T12:37:48.534931+00:00",
-  "count": 112,
+  "updated": "2026-08-12T18:43:05.426233+00:00",
+  "count": 114,
   "items": [
+    {
+      "id": "92fcb39a8ab1f8fe",
+      "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
+      "link": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often found in deep-space images.",
+      "published": "2026-08-12T15:00:00+00:00",
+      "fetched": "2026-08-12T18:43:04.382252+00:00"
+    },
+    {
+      "id": "ccc12aeb837a81bd",
+      "title": "The Most Controversial Ancient Philosophy: Epicureanism",
+      "link": "https://www.openculture.com/2026/08/the-most-controversial-ancient-philosophy-epicureanism.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Over the years, you’ve probably heard at least a few people casually describe themselves as Epicureans. As used today, the label can refer to as little as enjoying the occasional expensive restaurant meal. The bar was a bit higher in the second century, as explained by ancient-history YouTuber Garrett Ryan in the new video above [ ]",
+      "published": "2026-08-12T13:57:06+00:00",
+      "fetched": "2026-08-12T18:43:05.426005+00:00"
+    },
     {
       "id": "00cf46176e29276a",
       "title": "Met Warehouse opens as the new home of MIT’s School of Architecture and Planning",
