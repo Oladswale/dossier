@@ -1,8 +1,118 @@
 {
   "category": "finance",
-  "updated": "2026-08-11T18:41:41.089865+00:00",
+  "updated": "2026-08-12T00:49:54.258897+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5ea1a94cac9f1b8a",
+      "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
+      "published": "2026-08-12T00:17:00+00:00",
+      "fetched": "2026-08-12T00:49:53.009960+00:00"
+    },
+    {
+      "id": "c39ab949979b52ae",
+      "title": "Super Micro’s earnings report brings more good news, and the stock is climbing",
+      "link": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company impressed Wall Street several weeks ago by teasing an improved profitability trajectory. Super Micro’s latest forecast has exceeded expectations as well.",
+      "published": "2026-08-12T00:16:00+00:00",
+      "fetched": "2026-08-12T00:49:53.010062+00:00"
+    },
+    {
+      "id": "3e608dfcd54b4e55",
+      "title": "Lumentum sees sales more than double as AI demand swells",
+      "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
+      "published": "2026-08-12T00:15:00+00:00",
+      "fetched": "2026-08-12T00:49:53.010156+00:00"
+    },
+    {
+      "id": "f69d8e768bf6f1f7",
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "published": "2026-08-11T21:15:00+00:00",
+      "fetched": "2026-08-12T00:49:53.010267+00:00"
+    },
+    {
+      "id": "baa78dbf47e28844",
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+      "published": "2026-08-11T21:01:13+00:00",
+      "fetched": "2026-08-12T00:49:53.202189+00:00"
+    },
+    {
+      "id": "57c5de513f8cf558",
+      "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
+      "link": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "”We don’t live lavishly, and sometimes we both think maybe we could upgrade a few things.”",
+      "published": "2026-08-11T20:58:00+00:00",
+      "fetched": "2026-08-12T00:49:53.010362+00:00"
+    },
+    {
+      "id": "646a9447606b492c",
+      "title": "Cava’s sales surge as diners swap lettuce for grain bowls and pitas amid food-safety scare",
+      "link": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Cava Group says some diners have switched up their orders to avoid lettuce, but the fast-casual chain has still been able to sport sales growth despite a summer of food-safety scares impacting the restaurant industry writ large.",
+      "published": "2026-08-11T20:41:00+00:00",
+      "fetched": "2026-08-12T00:49:53.010436+00:00"
+    },
+    {
+      "id": "145b650e5f6e0777",
+      "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+      "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A lack of clarity around Oracle’s future AI spending plans is keeping investors on the sidelines, one analyst believes.",
+      "published": "2026-08-11T20:32:00+00:00",
+      "fetched": "2026-08-12T00:49:53.010493+00:00"
+    },
+    {
+      "id": "659dbe7d4d72d5c3",
+      "title": "NGX loses N1.17 trillion as MTN Nigeria, First HoldCo lead profit-taking",
+      "link": "https://nairametrics.com/2026/08/11/ngx-loses-n1-17-trillion-as-mtn-nigeria-first-holdco-lead-profit-taking/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market pulled back sharply on Tuesday, August 11, 2026, ending a four-session winning streak as profit-taking in large-cap stocks like MTN Nigeria, First HoldCo triggered a reversal of part of Monday's record rally, wiping approximately N1.17 trillion off investors' wealth. The post NGX loses N1.17 trillion as MTN Nigeria, First HoldCo lead profit-taking appeared first on Nairametrics .",
+      "published": "2026-08-11T20:00:24+00:00",
+      "fetched": "2026-08-12T00:49:53.467978+00:00"
+    },
+    {
+      "id": "127c285dc4a339b2",
+      "title": "Tinubu approves deep offshore reform targeting $50 billion investment in Nigeria’s oil sector",
+      "link": "https://nairametrics.com/2026/08/11/tinubu-approves-deep-offshore-reform-targeting-50-billion-investment-in-nigerias-oil-sector/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu has approved a landmark deep offshore investment reform aimed at unlocking up to $50 billion in new investment across Nigeria’s offshore oil and gas sector, replacing the long-standing system of project-by-project negotiations with a transparent, rules-based investment framework. The post Tinubu approves deep offshore reform targeting $50 billion investment in Nigeria’s oil sector appeared first on Nairametrics .",
+      "published": "2026-08-11T19:31:02+00:00",
+      "fetched": "2026-08-12T00:49:53.468048+00:00"
+    },
+    {
+      "id": "c830e13695ff5f45",
+      "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+      "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
+      "published": "2026-08-11T18:44:16+00:00",
+      "fetched": "2026-08-12T00:49:53.202228+00:00"
+    },
     {
       "id": "fb938c231260bdd1",
       "title": "Nvidia just soothed a major market fear about AI, analysts say",
@@ -12,6 +122,16 @@
       "summary": "Nvidia’s new partnerships with financial players help mitigate concerns that the company is too tightly linked to its customers, according to BofA and Morgan Stanley.",
       "published": "2026-08-11T18:36:00+00:00",
       "fetched": "2026-08-11T18:41:39.879824+00:00"
+    },
+    {
+      "id": "6a5f9857fc784141",
+      "title": "NYSC denies NANS levy deal, warns students against N200 mobilisation payment",
+      "link": "https://nairametrics.com/2026/08/11/nysc-denies-nans-levy-deal-warns-students-against-n200-mobilisation-payment/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigeria Youth Service Corps has denied entering into any agreement with the National Association of Nigerian Students regarding the collection of levies from students as a condition for NYSC mobilisation. The post NYSC denies NANS levy deal, warns students against N200 mobilisation payment appeared first on Nairametrics .",
+      "published": "2026-08-11T18:28:20+00:00",
+      "fetched": "2026-08-12T00:49:53.468125+00:00"
     },
     {
       "id": "384905e3d5662f09",
@@ -1382,126 +1502,6 @@
       "summary": "Energy companies in the S P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
       "published": "2026-08-09T14:00:00+00:00",
       "fetched": "2026-08-09T18:19:56.375989+00:00"
-    },
-    {
-      "id": "488ffc63f6da7a51",
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "For the first time in four years, the average stock is beating the stock market.",
-      "published": "2026-08-09T13:00:00+00:00",
-      "fetched": "2026-08-09T18:19:56.376078+00:00"
-    },
-    {
-      "id": "9c01f4a5ec95a413",
-      "title": "Italy-bound businessman arrested at Enugu airport with 98 cocaine wraps",
-      "link": "https://nairametrics.com/2026/08/09/italy-bound-businessman-arrested-at-enugu-airport-with-98-cocaine-wraps/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A 30-year-old Italy-based businessman, Joseph Cyril, excreted 98 wraps of cocaine after he was arrested by operatives of the National Drug Law The post Italy-bound businessman arrested at Enugu airport with 98 cocaine wraps appeared first on Nairametrics .",
-      "published": "2026-08-09T12:54:04+00:00",
-      "fetched": "2026-08-09T18:19:56.930877+00:00"
-    },
-    {
-      "id": "696dc9ab10f1da44",
-      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-      "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
-      "published": "2026-08-09T12:30:00+00:00",
-      "fetched": "2026-08-09T18:19:56.376109+00:00"
-    },
-    {
-      "id": "e021ce3e7f956487",
-      "title": "Lekki residents groan as 2-week blackout sends fuel spending soaring",
-      "link": "https://nairametrics.com/2026/08/09/lekki-residents-groan-as-2-week-blackout-sends-fuel-spending-soaring/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Residents of Lekki Phase 1 in Lagos say they have endured nearly two weeks without electricity after a transformer fault, forcing many.... The post Lekki residents groan as 2-week blackout sends fuel spending soaring appeared first on Nairametrics .",
-      "published": "2026-08-09T12:29:12+00:00",
-      "fetched": "2026-08-09T18:19:56.930911+00:00"
-    },
-    {
-      "id": "30b4b4db3d0336a1",
-      "title": "Europe accounts for over 50% of Africa’s international airline seats in August",
-      "link": "https://nairametrics.com/2026/08/09/europe-accounts-for-over-50-of-africas-international-airline-seats-in-august/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Europe accounted for 10.8 million scheduled international airline seats from Africa in August 2026, making it the largest international destination region for airlines operating in the African aviation market. The post Europe accounts for over 50% of Africa’s international airline seats in August appeared first on Nairametrics .",
-      "published": "2026-08-09T09:30:25+00:00",
-      "fetched": "2026-08-09T12:21:27.990045+00:00"
-    },
-    {
-      "id": "8eaf206311122436",
-      "title": "Beyond the chargers: Inside Nigeria’s emerging EV infrastructure race",
-      "link": "https://nairametrics.com/2026/08/09/beyond-the-chargers-inside-nigerias-emerging-ev-infrastructure-race/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In an exclusive Nairametrics interview, Philip Ogunleye, Founder and CEO of Vine Mobility Technologies, discusses the current state of Nigeria's EV charging infrastructure, the evolving charging experience for drivers, the role of software and data in managing charging networks, the business models shaping the sector and what is required for electric mobility to achieve wider adoption in Nigeria. The post Beyond the chargers: Inside Nigeria’s emerging EV infrastructure race appeared first on Nairametrics .",
-      "published": "2026-08-09T07:59:35+00:00",
-      "fetched": "2026-08-09T12:21:27.990099+00:00"
-    },
-    {
-      "id": "325d26dab706d091",
-      "title": "Investors worry as Geregu Power defaults on bond payments",
-      "link": "https://nairametrics.com/2026/08/09/investors-worry-as-geregu-power-defaults-on-bond-payments/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Geregu Power Plc has defaulted on its N40.09 billion Series 1 Senior Unsecured Bond, missing both its eighth semi-annual coupon obligation and its scheduled fourth principal bullet repayment, according to an updated listing status published by FMDQ Securities Exchange. The post Investors worry as Geregu Power defaults on bond payments appeared first on Nairametrics .",
-      "published": "2026-08-09T07:38:55+00:00",
-      "fetched": "2026-08-09T12:21:27.990137+00:00"
-    },
-    {
-      "id": "1db02eee48a9a2d3",
-      "title": "FG incorporates company to deliver 90,000km nationwide fibre network",
-      "link": "https://nairametrics.com/2026/08/09/fg-incorporates-company-to-deliver-90000km-nationwide-fibre-network/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has incorporated Bridge Open Access (Bridge OA), the independent company established to deliver Nigeria’s planned 90,000-kilometre nationwide fibre-optic network under Project BRIDGE. The post FG incorporates company to deliver 90,000km nationwide fibre network appeared first on Nairametrics .",
-      "published": "2026-08-09T07:15:13+00:00",
-      "fetched": "2026-08-09T12:21:27.990172+00:00"
-    },
-    {
-      "id": "afdc2d0f46008da4",
-      "title": "NGX wants Nigerians to own stakes in Indorama, NLNG through listings",
-      "link": "https://nairametrics.com/2026/08/09/ngx-wants-nigerians-to-own-stakes-in-indorama-nlng-through-listings/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Chief Executive Officer of Nigerian Exchange Limited (NGX), Temi Popoola, has called on the Federal Government to leverage the capital market as a tool for economic transformation by listing stakes in strategic national assets like Indorama Eleme Petrochemicals Limited on the Nigerian Exchange. The post NGX wants Nigerians to own stakes in Indorama, NLNG through listings appeared first on Nairametrics .",
-      "published": "2026-08-09T06:43:27+00:00",
-      "fetched": "2026-08-09T12:21:27.990209+00:00"
-    },
-    {
-      "id": "d9fc6eda004689c3",
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
-      "published": "2026-08-08T19:00:00+00:00",
-      "fetched": "2026-08-09T00:41:26.802545+00:00"
-    },
-    {
-      "id": "053a2649042a5b5d",
-      "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
-      "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
-      "published": "2026-08-08T18:37:00+00:00",
-      "fetched": "2026-08-09T00:41:26.802610+00:00"
-    },
-    {
-      "id": "7db1972c121dfc04",
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“He has never been particularly generous or nurturing.”",
-      "published": "2026-08-08T18:30:00+00:00",
-      "fetched": "2026-08-09T00:41:26.802644+00:00"
     }
   ]
 }

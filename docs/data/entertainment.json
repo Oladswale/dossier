@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-11T18:41:45.268712+00:00",
+  "updated": "2026-08-12T00:49:55.959468+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c7d26d67c58c875d",
+      "title": "John Hinckley Jr. Shares New Message to Jodie Foster, 45 Years After Trying to Assassinate Ronald Reagan to Impress Her: ‘I Wish Her Well’",
+      "link": "https://variety.com/2026/film/news/john-hinckley-jr-message-jodie-foster-ronald-reagan-1236832616/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "John Hinckley Jr., the Oklahoma native who tried to assassinate President Ronald Regan in 1981 in an attempt to impress Jodie Foster, shared a new message for “The Silence of the Lambs” star during a recent appearance on the “Mark Joseph Show” (via EW). “I just wish Jodie Foster well, you know,” Hinckley said. “I [ ]",
+      "published": "2026-08-11T23:56:19+00:00",
+      "fetched": "2026-08-12T00:49:55.588328+00:00"
+    },
+    {
+      "id": "690a04ae5ed8c98d",
+      "title": "Tiffany Haddish Pleads Guilty to Driving Under the Influence, Gets 12 Months of Probation",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/tiffany-haddish-pleads-guilty-drunken-driving-no-jail-1235607261/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The comedian sidestepped any further jail time after accepting responsibility for the misdemeanor charge in Georgia",
+      "published": "2026-08-11T23:28:38+00:00",
+      "fetched": "2026-08-12T00:49:55.787729+00:00"
+    },
+    {
+      "id": "901f41d6510b4cc5",
+      "title": "Zoe Saldaña Says It’s ‘Frustrating’ When Political Questions Only Get Asked to Actors of Color and Women: ‘That’s Incredibly Limiting’",
+      "link": "https://variety.com/2026/film/news/zoe-saldana-political-questions-women-of-color-white-men-1236832484/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Zoe Saldaña is growing frustrated with political questions, mainly because she doesn t find them being asked in equal measure across the industry. The Oscar winner said during a conversation at the Locarno Film Festival that she often participates in Q As because she is eager to talk about the craft of acting. However, Saldaña keeps finding [ ]",
+      "published": "2026-08-11T23:04:59+00:00",
+      "fetched": "2026-08-12T00:49:55.588433+00:00"
+    },
+    {
+      "id": "d2fbf42615ee4c57",
+      "title": "Rod Stewart Undergoes Successful Heart Procedure, Cancels Tour Dates to Recover",
+      "link": "https://www.rollingstone.com/music/music-news/rod-stewart-heart-procedure-cancels-tour-1235607202/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After a routine coronary stent procedure, the singer is taking time off his One Last Time Tour to heal",
+      "published": "2026-08-11T22:25:11+00:00",
+      "fetched": "2026-08-12T00:49:55.787763+00:00"
+    },
+    {
+      "id": "2581962fad7537e3",
+      "title": "‘Obsession’ Star Inde Navarrette Shares Her Freaky Nikki Style, Favorite Horror Movies, and Go-To Jeans",
+      "link": "https://www.rollingstone.com/product-recommendations/style/inde-navarrette-interview-obsession-style-gap-campaign-1235607056/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Fresh off Obsession ’s record-breaking run, Navarrette brings her independent spirit to Gap’s new campaign",
+      "published": "2026-08-11T22:11:55+00:00",
+      "fetched": "2026-08-12T00:49:55.787800+00:00"
+    },
+    {
+      "id": "09147e8769f40909",
+      "title": "‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)",
+      "link": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From Assassin s Creed series creator Patrice Désilets, the dark, third-person narrative action-adventure game unravels a mystery across Amsterdam.",
+      "published": "2026-08-11T22:00:31+00:00",
+      "fetched": "2026-08-12T00:49:55.588539+00:00"
+    },
+    {
+      "id": "e2c7847f98544244",
+      "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
+      "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his One Last Time farewell tour and The Encore Shows Las Vegas residency after undergoing a routine coronary stent procedure. The news comes just days after the singer postponed a show scheduled for Cincinnati s Riverbend Music Center [ ]",
+      "published": "2026-08-11T21:31:02+00:00",
+      "fetched": "2026-08-12T00:49:55.588627+00:00"
+    },
+    {
+      "id": "0659a06780562269",
+      "title": "Nicholas Hoult to Play Gilderoy Lockhart in ‘Harry Potter’ HBO Series Season 2",
+      "link": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Nicholas Hoult will play Gilderoy Lockhart in the second season of HBO s Harry Potter TV series, Variety has learned from sources. The highly-anticipated series is due to debut on Dec. 25 on HBO and HBO Max, with the first season adapting the first book in the novel series, Harry Potter and the Philosopher s Stone.",
+      "published": "2026-08-11T21:29:21+00:00",
+      "fetched": "2026-08-12T00:49:55.588703+00:00"
+    },
+    {
+      "id": "6d15a1f864450077",
+      "title": "John Oliver Begins His Slap-Happy Stint on the Soap Opera ‘Days of Our Lives’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/john-oliver-days-of-our-lives-soap-opera-arc-1235607132/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Last Week Tonight host will wear a crazy wig and play chief water inspector Devlin St. John on a three-episode arc",
+      "published": "2026-08-11T21:20:50+00:00",
+      "fetched": "2026-08-12T00:49:55.787835+00:00"
+    },
+    {
+      "id": "d788e1d33502c761",
+      "title": "How Vera Drew, Louise Weard and More Trans and Nonbinary Filmmakers Are Taking Control of Their Stories Outside the Studio System: ‘We’re Creating a New Industry’",
+      "link": "https://variety.com/2026/film/features/vera-drew-louise-weard-jane-schoenbrun-trans-nonbinary-filmmakers-studio-system-new-industry-1236831911/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When Vera Drew made her ambitious debut film “The People’s Joker,” she didn’t know if anyone else in the world would understand her deeply personal superhero movie parody about transitioning. The first time she met a trans person who connected with the film after a public screening was a “mindblowing” experience. “There had been other [ ]",
+      "published": "2026-08-11T21:15:03+00:00",
+      "fetched": "2026-08-12T00:49:55.588763+00:00"
+    },
+    {
+      "id": "35bfd18784b0134d",
+      "title": "What Exactly Is Going on With the Outrage Over Fauci and Miscarriages?",
+      "link": "https://www.rollingstone.com/politics/politics-news/fauci-covid-vaccine-miscarriage-message-right-1235607125/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The conservative push to demonize the face of the nation’s Covid-19 response has returned to its misinformation roots",
+      "published": "2026-08-11T20:37:26+00:00",
+      "fetched": "2026-08-12T00:49:55.787864+00:00"
+    },
+    {
+      "id": "8c5ccf265de02971",
+      "title": "The Writers Lab Adds Los Angeles-Based Intensive, Announces Writers for Fall 2026 Cohorts",
+      "link": "https://variety.com/2026/film/news/the-writers-lab-los-angeles-intensive-fall-cohorts-1236831539/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Writers Lab announced writers selected for two Lab Intensives this Fall, in New York City and the inaugural Los Angeles cohort. Supported by Meryl Streep and Nicole Kidman, The Writers Lab is the only script incubation program dedicated to elevating the work of women and nonbinary screenwriters over the age of 40. The Los [ ]",
+      "published": "2026-08-11T20:15:00+00:00",
+      "fetched": "2026-08-12T00:49:55.588808+00:00"
+    },
+    {
+      "id": "194e39c09e54b66f",
+      "title": "Cinema Civil War: Why the Paramount-Warner Bros. Sale Is Dividing Movie Theater Owners",
+      "link": "https://variety.com/2026/film/news/movie-theater-owners-divided-paramount-warner-bros-merger-1236832354/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Movie theater owners have become embroiled in the kind of drama they usually sell on the big screen, thanks to the ongoing saga of Paramount’s proposed takeover of Warner Bros. Discovery. Cinema United, the exhibition industry’s main lobbying group, for months has been publicly opposed to any potential sale of Warner Bros.",
+      "published": "2026-08-11T20:08:57+00:00",
+      "fetched": "2026-08-12T00:49:55.588859+00:00"
+    },
+    {
+      "id": "377a99d75d53fdd4",
+      "title": "From the Official Popcorn Bucket to a Mini New York Street Lamp, 12 Pieces of Spider-Man Merch to Pick Up Online",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-spider-man-merch-toys-clothing-gifts-shop-online-1235606671/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "While the Spider-Man franchise has long spun off action figures and collectibles, the new merch includes official golf balls, phone chargers and even flannel shirts.",
+      "published": "2026-08-11T19:58:34+00:00",
+      "fetched": "2026-08-12T00:49:55.787896+00:00"
+    },
+    {
+      "id": "2e2ef46f4c0632a6",
+      "title": "How to Save on a MasterClass Subscription",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-masterclass-deal-sale-promo-1090815/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The online education platform offers more than 200 courses on everything from fitness to cooking to business. Here's how to make it affordable",
+      "published": "2026-08-11T19:55:45+00:00",
+      "fetched": "2026-08-12T00:49:55.787923+00:00"
+    },
+    {
+      "id": "2ca0c775091b1e12",
+      "title": "Where to Stream ‘Michael’ Online for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/stream-michael-online-free-watch-michael-jackson-biopic-1235607041/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Michael has finally landed on a streaming service. Here’s where to stream the blockbuster biopic",
+      "published": "2026-08-11T19:53:38+00:00",
+      "fetched": "2026-08-12T00:49:55.787952+00:00"
+    },
+    {
+      "id": "56cfacca78b86fbc",
+      "title": "Fans Remember Jackie the Eagle, Who Became a Social Media Star Worldwide: ‘Regal, Fierce, Deeply Devoted’",
+      "link": "https://variety.com/2026/scene/news/jackie-eagle-dead-social-media-star-1236832299/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Los Angeles media has been all over the death of a local celebrity for the past two days. But this time, the dearly departed wasn’t a movie star from the golden age of Hollywood. Instead, Southern Californians and the rest of the world are mourning the death of Jackie, the bald eagle.",
+      "published": "2026-08-11T19:40:54+00:00",
+      "fetched": "2026-08-12T00:49:55.588908+00:00"
+    },
+    {
+      "id": "fc621bf8322b7da6",
+      "title": "‘The Office’ U.K. Star Lucy Davis Reveals ‘Incurable’ Cancer Diagnosis",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/lucy-davis-office-cancer-1235607012/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“I’m trying to live out whatever might be left of my life in as fun a way as I possibly can,” actress says",
+      "published": "2026-08-11T19:35:52+00:00",
+      "fetched": "2026-08-12T00:49:55.787981+00:00"
+    },
+    {
+      "id": "ae1342815f30cf46",
+      "title": "Kennedy Center to Cover $250,000 Legal Fees of Jazz Musician Who Protested Trump Takeover",
+      "link": "https://www.rollingstone.com/music/music-news/kennedy-center-chuck-redd-legal-fees-trump-1235607038/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The organization tried to sue Chuck Redd for backing out of an annual Christmas eve gig, but a judge dismissed the suit in June",
+      "published": "2026-08-11T19:34:32+00:00",
+      "fetched": "2026-08-12T00:49:55.788009+00:00"
+    },
+    {
+      "id": "4a578eac492d7d75",
+      "title": "‘The Last House’ Debuts With 27.5 Million Views in Three Days",
+      "link": "https://variety.com/2026/film/news/the-last-house-ratings-netflix-views-1236832324/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Last House, a new thriller film starring Greta Lee and Wagner Moura, debuted with 27.5 million views in its first three days of streaming on Netflix. With that total, the movie easily sailed to the top of Netflix s viewership rankings for the week of Aug. 3-9, not only as the No.",
+      "published": "2026-08-11T19:00:00+00:00",
+      "fetched": "2026-08-12T00:49:55.588953+00:00"
+    },
     {
       "id": "5848d19d14b1e388",
       "title": "Ann Hui Named Camellia Award Recipient at Busan Film Festival – Global Bulletin",
@@ -1302,206 +1502,6 @@
       "summary": "Chilean duo Cristobal León and Joaquín Cociña made a dream nightmare debut with The Wolf House, a stop-motion fantasy that turned heads both with its wholly original design — incorporating claymation, puppetry and papier-mâché to palpably handmade but immersively surreal effect — and its trajectory from a seemingly juvenile storybook premise to very grownup recesses [ ]",
       "published": "2026-08-09T07:42:35+00:00",
       "fetched": "2026-08-09T12:21:32.025374+00:00"
-    },
-    {
-      "id": "4ae3a3021e158e31",
-      "title": "Naseeruddin Shah, Gurvinder Singh Turn a Village’s Real Grief Into Locarno Competition Title ‘Rehmat’: ‘It’s Important That These Films Get Made’",
-      "link": "https://variety.com/2026/film/festivals/naseeruddin-shah-gurvinder-singh-rehmat-locarno-1236830761/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The family living in the house that Rehmat uses as Rashid Ali s ancestral home lost a son to a drug overdose shortly after Indian filmmaker Gurvinder Singh and his crew first met them. Singh tells Variety, The actual family that lives there lost their 19-year-old son after we met them for the first time. When [ ]",
-      "published": "2026-08-09T07:22:59+00:00",
-      "fetched": "2026-08-09T12:21:32.025419+00:00"
-    },
-    {
-      "id": "5ab17b64c436f23b",
-      "title": "Mahesh Babu’s Look in S.S. Rajamouli’s ‘Varanasi’ Unveiled",
-      "link": "https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Two new character stills of Mahesh Babu from S.S. Rajamouli s Varanasi were released Sunday to mark the actor s birthday, showing his character Rudhra on location in Africa. The film’s story spans thousands of years and traverses multiple continents, with locations ranging from Antarctica to Africa to the titular Indian city.",
-      "published": "2026-08-09T05:47:14+00:00",
-      "fetched": "2026-08-09T06:33:26.767323+00:00"
-    },
-    {
-      "id": "759dabaee1cff19d",
-      "title": "Whitney Houston Gets Her Own Barbie, Recreating Iconic ‘I Wanna Dance With Somebody’ Look",
-      "link": "https://variety.com/2026/shopping/news/whitney-houston-barbie-buy-online-1236830603/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Whitney Houston is ready to dance with somebody in Barbieland. Mattel is honoring the late pop icon with a new Barbie Signature doll inspired by Houston’s colorful look from the 1987 music video for “I Wanna Dance With Somebody (Who Loves Me).” The $60 collectible launches Aug. 8 at Target stores and online at [ ]",
-      "published": "2026-08-09T04:00:00+00:00",
-      "fetched": "2026-08-09T06:33:26.767380+00:00"
-    },
-    {
-      "id": "78329de63c6f0754",
-      "title": "I Wanna Dance With Some Barbie: Mattel Drops New Whitney Houston Doll That You Can Now Buy",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-the-whitney-houston-barbie-doll-online-best-price-1235605905/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Created with the Houston estate, the doll recreates the singer's iconic music video look — and it's already flying off shelves",
-      "published": "2026-08-09T04:00:00+00:00",
-      "fetched": "2026-08-09T06:33:27.009372+00:00"
-    },
-    {
-      "id": "9f582cf145d84eaf",
-      "title": "Fuerza Regida Ends Historic Stadium Tour With Star-Studded NYC Closer",
-      "link": "https://www.rollingstone.com/music/music-latin/fuerza-regida-final-show-this-is-our-dream-tour-1235605952/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The show-stopping finale at Citi Field included tons of surprises, including guest appearances from 50 Cent, J Balvin, and more",
-      "published": "2026-08-09T00:51:22+00:00",
-      "fetched": "2026-08-09T06:33:27.009408+00:00"
-    },
-    {
-      "id": "f92aa9665e8b1eab",
-      "title": "Gina Prince-Bythewood Discusses the Worldbuilding of ‘Children of Blood and Bone’ and Praises Author Tomi Adeyemi as a ‘Genius’",
-      "link": "https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "For the opening night of the 24th annual Martha’s Vineyard African American Film Festival (MVAAFF), “Children of Blood and Bone” director Gina Prince-Bythewood and star Thuso Mbedu shared never-before-seen clips of the forthcoming African fantasy film and dished about making the movie. “Obviously films like this don t get made very often,” Prince-Bythewood told The View s [ ]",
-      "published": "2026-08-09T00:36:35+00:00",
-      "fetched": "2026-08-09T00:41:31.605871+00:00"
-    },
-    {
-      "id": "da2a0328db9e93a5",
-      "title": "Andrew Lloyd Webber Is ‘Gutted’ on ‘Cats: The Jellicle Ball’ Closing Night: Producing on Broadway Is ‘Unsustainable’",
-      "link": "https://variety.com/2026/legit/news/andrew-lloyd-webber-cats-the-jellicle-ball-closing-night-1236830708/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ahead of tonight s final Cats: The Jellicle Ball show, composer Andrew Lloyd Webber is speaking out about how producing on Broadway has become unsustainable. “I’m gutted that the wonderful Broadway production of Cats: The Jellicle Ball is closing today,” Lloyd Webber wrote on Instagram. “I’m immensely proud to have been a part of an incredibly daring [ ]",
-      "published": "2026-08-08T23:54:28+00:00",
-      "fetched": "2026-08-09T00:41:31.605937+00:00"
-    },
-    {
-      "id": "274e728a589e008d",
-      "title": "Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’",
-      "link": "https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Warner Bros. has teamed with the AI dog podcast “DogPack” to promote its upcoming sci-fi action film “The End of Oak Street.” The 90-second podcast clip, hosted by an AI golden retriever named Goldie and an AI French bulldog named Frenchie, features an interview with Starbuck, who plays Anne Hathaway and Ewan McGregor s dog in [ ]",
-      "published": "2026-08-08T23:41:56+00:00",
-      "fetched": "2026-08-09T00:41:31.605992+00:00"
-    },
-    {
-      "id": "6dbeed0ddc65bd6d",
-      "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
-      "link": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Perez Hilton’s family released a statement on Saturday updating fans about the blogger’s health after he appeared to commit self-harm during a TikTok livestream. “Perez’s condition remains serious but stable,” read the statement, which was released on Hilton’s website. “He experienced significant blood loss and sustained additional injuries that will require surgery in the coming [ ]",
-      "published": "2026-08-08T22:47:17+00:00",
-      "fetched": "2026-08-09T00:41:31.606046+00:00"
-    },
-    {
-      "id": "c143cbba7b8cc7b9",
-      "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-      "link": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggling in Los Angeles. “Any time there is a consolidation, something shrinks, and right [ ]",
-      "published": "2026-08-08T22:19:26+00:00",
-      "fetched": "2026-08-09T00:41:31.606098+00:00"
-    },
-    {
-      "id": "ec150302f8c578d2",
-      "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
-      "link": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Game Changer” author Rachel Reid is unbothered by the early critics of the Heated Rivalry s upcoming second season. On Friday, it was revealed that Justice Smith and Charlie Gillespie are joining the Season 2 cast of “Heated Rivalry.” Then, later that same day, Reid took to her Instagram story to seemingly dismiss the online chatter [ ]",
-      "published": "2026-08-08T21:58:33+00:00",
-      "fetched": "2026-08-09T00:41:31.606148+00:00"
-    },
-    {
-      "id": "97f743ee8f798165",
-      "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-      "link": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Morrissey has canceled his four-date Las Vegas residency at The Wynn just a week before showtime, Rolling Stone reports. The musician cited “unforeseen logistical issues” as the reason for the sudden cancellation. The former Smiths frontman was set to play four shows at The Wynn’s Encore Theater starting Aug.",
-      "published": "2026-08-08T19:37:14+00:00",
-      "fetched": "2026-08-09T00:41:31.606200+00:00"
-    },
-    {
-      "id": "011fdb26592a4256",
-      "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-      "link": "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The inaugural LA Jazz Fest, set for Aug. 7 to 23 and promising major events including a two-day concert at Dockweiler Beach with stars like John Legend, Janelle Monáe, Parliament/Funkadelic and Raphael Saadiq — was canceled Thursday at the very last minute, and commenters online are already comparing it to the famously doomed Fyre Festival. [ ]",
-      "published": "2026-08-08T19:33:20+00:00",
-      "fetched": "2026-08-09T00:41:31.606252+00:00"
-    },
-    {
-      "id": "c92a2f98395eaa69",
-      "title": "Barack Obama Pokes Fun at Tan Suit Controversy on Larry David’s HBO Show Finale",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/barack-obama-tan-suit-controversy-larry-david-hbo-show-1235605946/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"People always ask me where the tan suit came from. I think it’s time the truth finally came out,\" former president says of appearance on Life, Larry, and the Pursuit of Unhappiness",
-      "published": "2026-08-08T19:23:30+00:00",
-      "fetched": "2026-08-09T00:41:31.716231+00:00"
-    },
-    {
-      "id": "d91f3b1f04bb98bf",
-      "title": "Anthony Michael Hall Says John Hughes Wanted a ‘Breakfast Club’ Sequel Where the Original Cast Is ‘In Their 30s’",
-      "link": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“The Breakfast Club” star Anthony Michael Hall said during a recent appearance on “The Rich Eisen Show” that director John Hughes wanted a sequel in which the group of troubled teens reunites as adults. “It was something that was on his mind, the idea of bringing back the Breakfast Club, ” Hall said. “Like, those five [ ]",
-      "published": "2026-08-08T18:10:47+00:00",
-      "fetched": "2026-08-08T18:18:07.708705+00:00"
-    },
-    {
-      "id": "f28c28806b999348",
-      "title": "‘Cookie Queens’ Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-      "link": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "As a director, Alysa Nahmias thinks like a reality-show producer — she frames the movie as a contest, inviting us to chortle in admiration at what eager-beaver achievers all four girls are. \"Cookie Queens\" never deviates from that one note.",
-      "published": "2026-08-08T18:05:47+00:00",
-      "fetched": "2026-08-08T18:18:07.708756+00:00"
-    },
-    {
-      "id": "f590e002430d17fe",
-      "title": "Bill Maher’s Joke About Ariana Grande’s Weight Draws Groans From ‘Real Time’ Audience",
-      "link": "https://variety.com/2026/tv/news/bill-maher-joke-ariana-grande-weight-real-time-1236830643/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Bill Maher made a joke about Ariana Grande’s weight during Friday’s episode of “Real Time,” and drew mixed reactions from his live audience. “I hope the aliens are here, I do. I hope they’re here and watching us and they’re going to save us,” Maher said during his opening monologue.",
-      "published": "2026-08-08T17:38:25+00:00",
-      "fetched": "2026-08-08T18:18:07.708807+00:00"
-    },
-    {
-      "id": "e7efa71b895966b6",
-      "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an ‘Eccentric’ Aristocratic Matron in His Luca Guadagnino-Produced Film ‘Ketticè’",
-      "link": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Emerging Italian director Giovanni Tortorici, whose feature debut “Diciannove” made a splash last year after launcing from the Venice Horizons section, is in competition at the Locarno Film Festival with his followup, “Ketticè,” a coming-of-age drama set in 2012 Palermo, featuring Monica Bellucci who is among the film s few professional actors. “Ketticè” explores the dynamics between [ ]",
-      "published": "2026-08-08T17:03:39+00:00",
-      "fetched": "2026-08-08T18:18:07.708860+00:00"
-    },
-    {
-      "id": "4f028eb106ac5189",
-      "title": "13 Essential Hip-Hop Songs For 808 Day",
-      "link": "https://www.rollingstone.com/music/music-lists/essential-hip-hop-songs-for-808-day-1235605500/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Celebrate the iconic Roland TR-808 drum machine with music by Public Enemy, Ye, and more.",
-      "published": "2026-08-08T17:02:38+00:00",
-      "fetched": "2026-08-08T18:18:08.076389+00:00"
-    },
-    {
-      "id": "918d0e6d58af6f3f",
-      "title": "Olivia Wilde Says She’s Become ‘So Much More Romantic’ Because of ‘The Invite’: ‘It Melted the Cynic Out of Me’",
-      "link": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Olivia Wilde said she has become “so much more romantic” because of “The Invite.” “It’s melted the cynic out of me,” she said at Switzerand s Locarno Film Festival . “I have spoken to people who have been through so much with their partners, and people have been in marriages for 40, 50, 60 years. They [ ]",
-      "published": "2026-08-08T16:31:40+00:00",
-      "fetched": "2026-08-08T18:18:07.708908+00:00"
     }
   ]
 }
