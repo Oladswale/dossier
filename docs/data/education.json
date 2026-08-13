@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-13T00:51:41.509187+00:00",
-  "count": 116,
+  "updated": "2026-08-13T07:06:13.496085+00:00",
+  "count": 117,
   "items": [
+    {
+      "id": "f79a50e1fd40620b",
+      "title": "Researchers uncover hidden pore network within nuclear fuel",
+      "link": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors running longer, will inform the next generation of nuclear reactor fuel systems.",
+      "published": "2026-08-13T04:00:00+00:00",
+      "fetched": "2026-08-13T07:06:12.458765+00:00"
+    },
     {
       "id": "f693bdb4aba6d734",
       "title": "Featured video: An “MIT story” about an iconic professor",
