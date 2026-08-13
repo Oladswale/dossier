@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-12T18:43:05.426233+00:00",
-  "count": 114,
+  "updated": "2026-08-13T00:51:41.509187+00:00",
+  "count": 116,
   "items": [
+    {
+      "id": "f693bdb4aba6d734",
+      "title": "Featured video: An “MIT story” about an iconic professor",
+      "link": "https://news.mit.edu/2026/featured-video-mit-story-paula-hammond-0812",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new short film from MIT Open Learning explores the influential career of Institute Professor and School of Engineering Dean Paula Hammond.",
+      "published": "2026-08-12T20:25:00+00:00",
+      "fetched": "2026-08-13T00:51:40.320646+00:00"
+    },
+    {
+      "id": "ac58e471c9c5f51e",
+      "title": "MIT selected to lead new NSF materials research center",
+      "link": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Materials Research Science and Engineering Center unites researchers across disciplines to develop technologies for medical imaging, sustainable metals production, and next-generation electronics.",
+      "published": "2026-08-12T20:15:00+00:00",
+      "fetched": "2026-08-13T00:51:40.320687+00:00"
+    },
     {
       "id": "92fcb39a8ab1f8fe",
       "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",

@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-12T18:43:06.227187+00:00",
+  "updated": "2026-08-13T00:51:42.601685+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bd1dbbf8c46dc538",
+      "title": "The $1.4 Trillion Threat Hiding in American Neighborhoods",
+      "link": "https://www.realtor.com/news/trends/wildfire-risk-american-neighborhoods-1-4-trillion-cotality/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New modeling finds more than 2.5 million properties face wildfire risk as homes themselves can become fuel for fast-moving fires.",
+      "published": "2026-08-12T23:00:16+00:00",
+      "fetched": "2026-08-13T00:51:42.600888+00:00"
+    },
+    {
+      "id": "f37bb3901f30fd51",
+      "title": "RFK Jr. Accuses California of ‘Ineptness’ in Handling Homelessness Crisis",
+      "link": "https://www.realtor.com/news/real-estate-news/rfk-turner-hud-california-homlessness-newsom/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Gov. Newsom fired back, insisting California is making progress on tackling the housing and homelessness crises in the state.",
+      "published": "2026-08-12T22:32:50+00:00",
+      "fetched": "2026-08-13T00:51:42.600929+00:00"
+    },
+    {
+      "id": "6c37dac90c4f7592",
+      "title": "Stockard Channing Admits She’s Been Living as a ‘Recluse’ Since Quitting U.S. and Moving to U.K. After Her Partner’s Death",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/stockard-channing-recluse-london-maine-partner-death/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Channing opened up about the life she has built in London after leaving the U.S., while reflecting on the loss of her longtime partner.",
+      "published": "2026-08-12T22:09:06+00:00",
+      "fetched": "2026-08-13T00:51:42.600967+00:00"
+    },
+    {
+      "id": "766529734c1757b9",
+      "title": "Elon Musk Plans To Erect the Largest Building on Earth, and His Neighbors Aren’t Happy",
+      "link": "https://www.realtor.com/news/trends/elon-musk-terafab-grimes-texas-spacex-neighbors/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average Target or Costco store is the size as 2.5 football fields. Musk's Terafab plant would be equivalent to 2,300 football fields.",
+      "published": "2026-08-12T21:55:20+00:00",
+      "fetched": "2026-08-13T00:51:42.600999+00:00"
+    },
+    {
+      "id": "5fe354f0500082c9",
+      "title": "Real Estate Agent Stars of ‘The Traitors: New Blood’ Reveal Tactics for Claiming $250K Prize: ‘Go Big or Go Home’",
+      "link": "https://www.realtor.com/news/reality-tv/traitors-new-blood-cast-real-estate-agents/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kriste Lewis, 52, and Logan Smith, 26, join the cast of everyday Americans competing on the newest season of the reality TV series.",
+      "published": "2026-08-12T21:37:04+00:00",
+      "fetched": "2026-08-13T00:51:42.601033+00:00"
+    },
+    {
+      "id": "0aca4482a42dc783",
+      "title": "Travis Barker Reveals Old-School Rule He and Kourtney Kardashian Follow at Home To Keep Their Marriage Alive",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-barker-kourtney-kardashian-marriage-rules-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Barker shared the thing he and Kardashian do before bed to ensure their romance continues to grow from strength to strength.",
+      "published": "2026-08-12T20:38:22+00:00",
+      "fetched": "2026-08-13T00:51:42.601062+00:00"
+    },
+    {
+      "id": "f7a7d75df2bedd2e",
+      "title": "Karoline Leavitt Will Resign as White House Press Secretary To Spend More Time at Home With Her Husband and Their ‘Beautiful Children’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/karoline-leavitt-nicholas-riccio-children-home-white-house-resignation-donald-trump/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "President Donald Trump announced on Aug. 12 that Leavitt will end her run as press secretary at the end of August.",
+      "published": "2026-08-12T20:01:32+00:00",
+      "fetched": "2026-08-13T00:51:42.601094+00:00"
+    },
+    {
+      "id": "d8483d8a605affa6",
+      "title": "Trump May Eye Cuts to Capital Gains Tax for Home Sellers, Official Says",
+      "link": "https://www.realtor.com/news/real-estate-news/capital-gains-tax-home-sales-reform-trump-hassett-kudlow/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "National Economic Council Director Kevin Hassett said on Wednesday afternoon the president is considering the issue.",
+      "published": "2026-08-12T19:47:45+00:00",
+      "fetched": "2026-08-13T00:51:42.601120+00:00"
+    },
+    {
+      "id": "a13a904f504fe6ae",
+      "title": "‘Miss Congeniality’ and ‘Top Gun’ Film Editor Billy Weber Lists $4 Million L.A. Home Where He Brought Movie Magic to Life",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/top-gun-miss-congeniality-billy-weber-los-angeles-home-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Weber has owned the home for 32 years, having moved into the dwelling back in 1994 and has occasionally edited films there.",
+      "published": "2026-08-12T18:57:16+00:00",
+      "fetched": "2026-08-13T00:51:42.601151+00:00"
+    },
     {
       "id": "bfb1fa735b6191a5",
       "title": "They Just Built Their Dream Home on Cape Cod—Now the State Will Tear It Down",
@@ -1412,96 +1502,6 @@
       "summary": "The sprawling stone estate has returned to the market with a Gondola side view and picturesque features.",
       "published": "2026-08-01T16:07:00+00:00",
       "fetched": "2026-08-01T18:47:47.811785+00:00"
-    },
-    {
-      "id": "38d45bcb95e845eb",
-      "title": "‘I’m Renovating a 120-Year-Old Abandoned General Store Into the Homestead of My Dreams’",
-      "link": "https://www.realtor.com/news/first-person/renovation-history-abandoned-property-homestead-dreams/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Emma Shaye, 32, purchased the property in the fall of 2024 for $23,000 following the loss of her mother to Multiple System Atrophy.",
-      "published": "2026-08-01T11:02:00+00:00",
-      "fetched": "2026-08-01T12:46:53.965798+00:00"
-    },
-    {
-      "id": "b7fd4a47e6a6f17a",
-      "title": "What Will Become of Florida’s Infamous ‘Holdout House’?",
-      "link": "https://www.realtor.com/news/real-estate-news/clearwater-beach-holdout-house-887-gulfview-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The last single-family house standing on a Tampa Bay peninsula was sold in late 2025 to a mystery buyer for $3 milllion.",
-      "published": "2026-08-01T10:00:00+00:00",
-      "fetched": "2026-08-01T12:46:53.965839+00:00"
-    },
-    {
-      "id": "8b31667bbab9b677",
-      "title": "NYC Family Snaps Up $47 Million St. Regis-Branded Penthouse in Miami’s ‘Manhattan of the South’",
-      "link": "https://www.realtor.com/news/trends/new-york-city-family-st-regis-penthouse-miami-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The wealthy New Yorkers will be joining billionaire Ken Griffin in South Florida's booming luxury real estate market.",
-      "published": "2026-07-31T21:54:55+00:00",
-      "fetched": "2026-08-01T01:24:20.109845+00:00"
-    },
-    {
-      "id": "33a7f3b97edc386d",
-      "title": "Nancy Guthrie Ransom Notes Released by Sheriff—Nearly 6 Months After She Was Taken From Her Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/nancy-guthrie-kidnapping-ransom-notes-released-july-31-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Officials in Arizona released two ransom notes in the disappearance of Savannah Guthrie's mother, Nancy.",
-      "published": "2026-07-31T20:54:34+00:00",
-      "fetched": "2026-08-01T01:24:20.109883+00:00"
-    },
-    {
-      "id": "4200f0af71b9d878",
-      "title": "$215K Foreclosure Listing Warns Buyers: Occupant Included, No Showings",
-      "link": "https://www.realtor.com/news/trends/colorado-foreclosure-viral-listing-occupant-included/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A viral Colorado foreclosure listed for $215,000 comes with a catch: Buyer must take the home sight-unseen, with the occupant included.",
-      "published": "2026-07-31T20:17:51+00:00",
-      "fetched": "2026-08-01T01:24:20.109913+00:00"
-    },
-    {
-      "id": "934624fb405a88cf",
-      "title": "Joe Rogan Earns $82 Million From Austin Home Studio as 2026’s Top Podcaster",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/joe-rogan-podcast-austin-mansion-millions/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "“The Joe Rogan Experience” paid the former comedian an estimated $82 million between June 2025 and June 2026.",
-      "published": "2026-07-31T18:59:27+00:00",
-      "fetched": "2026-08-01T01:24:20.109943+00:00"
-    },
-    {
-      "id": "cee66a3169c92fb4",
-      "title": "‘I Bought a 9,000-Square-Foot Barn in the Middle of Nowhere That Makes Me $320,000 a Year’",
-      "link": "https://www.realtor.com/news/first-person/wisconsin-barn-short-term-rental-big-money-maker/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "It started as a dream to make a \"viral\" house reminiscent of his childhood. It turned into a booming business.",
-      "published": "2026-07-31T18:54:46+00:00",
-      "fetched": "2026-08-01T01:24:20.109974+00:00"
-    },
-    {
-      "id": "ca8c735368d30b35",
-      "title": "I Bought a 9,000-Square-Foot Barn in Middle-of-Nowhere that Makes Me $320,000 a Year",
-      "link": "https://www.realtor.com/news/first-person/wisconsin-barn-short-term-rental-big-money-maker/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "It started as a dream to make a \"viral\" house reminiscent of his childhood. It turned into a booming business.",
-      "published": "2026-07-31T18:54:46+00:00",
-      "fetched": "2026-07-31T19:02:16.861188+00:00"
-    },
-    {
-      "id": "335bb3b4550d55f7",
-      "title": "New Colorado River Plan Could Spell Water Cutbacks for Arizona, California, and Nevada",
-      "link": "https://www.realtor.com/news/real-estate-news/colorado-river-plan-water-cutbacks-arizona-california-nevada/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A new federal plan mandates up to 40% Colorado River water cuts for Arizona, California, and Nevada, sparking sharp pushback from leaders.",
-      "published": "2026-07-31T18:41:52+00:00",
-      "fetched": "2026-07-31T19:02:16.861226+00:00"
     }
   ]
 }
