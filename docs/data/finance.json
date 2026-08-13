@@ -1,8 +1,178 @@
 {
   "category": "finance",
-  "updated": "2026-08-13T07:06:08.678903+00:00",
+  "updated": "2026-08-13T12:38:29.255506+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7603626f897d9bf2",
+      "title": "Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.",
+      "link": "https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Netflix is once again an apple in Bill Ackman’s eye, as the streamer was among six stocks Pershing Square added in the last six months.",
+      "published": "2026-08-13T12:36:00+00:00",
+      "fetched": "2026-08-13T12:38:27.265510+00:00"
+    },
+    {
+      "id": "ddf952059a2fc47c",
+      "title": "OPay transactions more than double to $358 billion as IPO nears",
+      "link": "https://nairametrics.com/2026/08/13/opay-transactions-more-than-double-to-358-billion-as-ipo-nears/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "OPay Limited processed gross transaction value (GTV) of $358 billion in 2025, more than double the $166.2 billion recorded in 2024, highlighting the rapid expansion of the fintech’s payments business as it prepares for a potential listing on the New York Stock Exchange. The post OPay transactions more than double to $358 billion as IPO nears appeared first on Nairametrics .",
+      "published": "2026-08-13T12:15:10+00:00",
+      "fetched": "2026-08-13T12:38:27.917136+00:00"
+    },
+    {
+      "id": "824c8d920328ca01",
+      "title": "The AI boom is not just driving stocks — it’s also moving the foreign-exchange market",
+      "link": "https://www.marketwatch.com/story/the-ai-boom-is-not-just-driving-stocks-its-also-moving-the-foreign-exchange-market-275d2f74?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Interest-rate differentials, inflation trends and trade balances are usually thought of as drivers of foreign-exchange movement — but increasingly, the drivers in the currency market are companies looking to expand their offerings in artificial intelligence.",
+      "published": "2026-08-13T12:11:00+00:00",
+      "fetched": "2026-08-13T12:38:27.265566+00:00"
+    },
+    {
+      "id": "e6f50da57c1d0b07",
+      "title": "Presidency reacts as US flags Nigeria’s fiscal transparency gaps",
+      "link": "https://nairametrics.com/2026/08/13/presidency-reacts-as-us-flags-nigerias-fiscal-transparency-gaps/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Presidency has responded to a US assessment that Nigeria failed to meet minimum fiscal transparency requirements, saying the findings should be viewed as an external benchmark rather than a complete assessment of the country’s fiscal governance. The post Presidency reacts as US flags Nigeria’s fiscal transparency gaps appeared first on Nairametrics .",
+      "published": "2026-08-13T11:46:10+00:00",
+      "fetched": "2026-08-13T12:38:27.917211+00:00"
+    },
+    {
+      "id": "f7105fc4cbc3b66c",
+      "title": "SASSA September 2026 payment dates: Full schedule",
+      "link": "https://techcabal.com/2026/08/13/sassa-payment-dates-for-september-2026/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "These dates come from the Department of Social Development's 2026/27 payment schedule, approved by National Treasury.",
+      "published": "2026-08-13T11:33:30+00:00",
+      "fetched": "2026-08-13T12:38:29.255211+00:00"
+    },
+    {
+      "id": "8e86f1eedb78cc68",
+      "title": "Standard Bank wants to own more of Africa’s digital payment flows",
+      "link": "https://techcabal.com/2026/08/13/standard-bank-wants-to-own-more-of-africas-digital-payment/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The growth comes as payments become an integral part of how banks capture value from Africa’s digital economy.",
+      "published": "2026-08-13T11:28:48+00:00",
+      "fetched": "2026-08-13T12:38:29.255251+00:00"
+    },
+    {
+      "id": "bd431137b9023697",
+      "title": "Lenovo profits soar past expectations on AI computers, servers and services",
+      "link": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Lenovo Group on Thursday became the latest company in the build-out of artificial intelligence to report soaring profits that caught investors by surprise.",
+      "published": "2026-08-13T11:00:00+00:00",
+      "fetched": "2026-08-13T12:38:27.265638+00:00"
+    },
+    {
+      "id": "35aee69646ab2623",
+      "title": "Africa’s cybercriminals are adopting AI faster than the institutions chasing them",
+      "link": "https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "AI was involved in 55% of cybercrime cases observed by African countries surveyed by Interpol in 2025, as criminals used the technology to produce convincing phishing messages, fabricate identities, and impersonate executives and public figures. Deepfake incidents increased sevenfold between the second and fourth quarters of 2024.",
+      "published": "2026-08-13T10:49:27+00:00",
+      "fetched": "2026-08-13T12:38:29.255294+00:00"
+    },
+    {
+      "id": "dc0f9cd881571aa6",
+      "title": "Geregu Power: When revenue and profit mask a cash flow problem",
+      "link": "https://nairametrics.com/2026/08/13/geregu-power-when-revenue-and-profit-mask-a-cash-flow-problem/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The recent bond default by Geregu Power Plc has ripped away the facade of comfort that revenue growth and impressive net profits can create. The post Geregu Power: When revenue and profit mask a cash flow problem appeared first on Nairametrics .",
+      "published": "2026-08-13T10:37:51+00:00",
+      "fetched": "2026-08-13T12:38:27.917251+00:00"
+    },
+    {
+      "id": "c6452b29f3b3d8fd",
+      "title": "Flying first class is getting cheaper — if you don’t mind giving up some perks",
+      "link": "https://www.marketwatch.com/story/flying-first-class-is-getting-cheaper-if-you-dont-mind-giving-up-some-perks-76035942?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "‘Basic first class’ is here as airlines move to create multiple tiers of their most premium seats.",
+      "published": "2026-08-13T10:30:00+00:00",
+      "fetched": "2026-08-13T12:38:27.265667+00:00"
+    },
+    {
+      "id": "fd22739d48343a6b",
+      "title": "Cisco’s stock falls on margin concerns. Here’s what Wall Street analysts are saying.",
+      "link": "https://www.marketwatch.com/story/cisco-stock-falls-on-margin-concerns-heres-what-wall-street-analysts-are-saying-582e39fe?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analysts say a focus on the artificial-intelligence ‘supercycle’ could pressure gross margins.",
+      "published": "2026-08-13T10:28:00+00:00",
+      "fetched": "2026-08-13T12:38:27.265694+00:00"
+    },
+    {
+      "id": "eb927293cdf1e473",
+      "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "published": "2026-08-13T10:15:00+00:00",
+      "fetched": "2026-08-13T12:38:27.265720+00:00"
+    },
+    {
+      "id": "1d6d6c60ff5beac2",
+      "title": "Recapitalization: Experts caution over court cases as insurers raise N720 billion",
+      "link": "https://nairametrics.com/2026/08/13/recapitalization-experts-caution-over-court-cases-as-insurers-raise-n720-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Experts have described the recently concluded insurance recapitalisation exercise as a critical step necessary to build a stronger industry with a capacity to underwrite bigger risks, while cautioning that operators dragging their regulator to court may not augur well for the industry. The post Recapitalization: Experts caution over court cases as insurers raise N720 billion appeared first on Nairametrics .",
+      "published": "2026-08-13T09:17:25+00:00",
+      "fetched": "2026-08-13T12:38:27.917295+00:00"
+    },
+    {
+      "id": "376ce917035858db",
+      "title": "Healthcare, technology and agriculture top Nigerians’ job rankings across regions",
+      "link": "https://nairametrics.com/2026/08/13/healthcare-technology-and-agriculture-top-nigerians-job-rankings-across-regions/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Healthcare, technology and agriculture have emerged as the sectors Nigerians want most across the country’s six geopolitical zones, with job preferences varying sharply by region and highlighting what analysts describe as six distinct labour market economies rather than a single national employment crisis. The post Healthcare, technology and agriculture top Nigerians’ job rankings across regions appeared first on Nairametrics .",
+      "published": "2026-08-13T09:06:49+00:00",
+      "fetched": "2026-08-13T12:38:27.917347+00:00"
+    },
+    {
+      "id": "6987b7621363cd29",
+      "title": "Nigeria’s identity law raises questions over who regulates digital signatures",
+      "link": "https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "A digital signature is a mathematical method for verifying that a digital document, email or message is authentic, has not been altered and was signed by the person claiming to have signed it.",
+      "published": "2026-08-13T08:26:31+00:00",
+      "fetched": "2026-08-13T12:38:29.255327+00:00"
+    },
+    {
+      "id": "72ef05210404f0a8",
+      "title": "Nearly half of Nigerian households hit by job, business losses in one year – Report",
+      "link": "https://nairametrics.com/2026/08/13/nearly-half-of-nigerian-households-hit-by-job-business-losses-in-one-year-report/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nearly half of Nigerian households experienced a job loss, business closure or inability to find work in the past 12 months, according to a new report by SBM Intelligence on Thursday. The post Nearly half of Nigerian households hit by job, business losses in one year – Report appeared first on Nairametrics .",
+      "published": "2026-08-13T08:00:48+00:00",
+      "fetched": "2026-08-13T12:38:27.917391+00:00"
+    },
+    {
+      "id": "a5367b6e5b9426e1",
+      "title": "River Park Estate: Lawyer asks EFCC to probe alleged $300 million investment claim",
+      "link": "https://nairametrics.com/2026/08/13/river-park-estate-lawyer-asks-efcc-to-probe-alleged-300-million-investment-claim/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Economic and Financial Crimes Commission (EFCC) has been urged to investigate an alleged fraud and impersonation involving a $300 million investment claim in the River Park Estate dispute. The post River Park Estate: Lawyer asks EFCC to probe alleged $300 million investment claim appeared first on Nairametrics .",
+      "published": "2026-08-13T07:42:37+00:00",
+      "fetched": "2026-08-13T12:38:27.917430+00:00"
+    },
     {
       "id": "370680d0932f241c",
       "title": "Everything announced at Made by Google 2026",
@@ -1332,176 +1502,6 @@
       "summary": "Unwindfest “Founders Rant”, the flagship gathering for founders, business leaders, creators, and professionals shaping Africa s future, returns for the second Lagos edition in 2026. Curated by Yellowlyfe HQ, Founders Rant is returning with a bold mission, to create a space where founders can speak openly about the realities of entrepreneurship, the wins, the failures, the [ ] The post Founders Rant returns to redefine entrepreneurial conversations with unfiltered stories of building, breaking, and achieving appeared first on Nairametrics .",
       "published": "2026-08-11T10:05:30+00:00",
       "fetched": "2026-08-11T12:34:57.359229+00:00"
-    },
-    {
-      "id": "22d1dc93302e6347",
-      "title": "My wife’s Social Security is just $900. Should she claim her spousal benefit at 62 or wait?",
-      "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
-      "published": "2026-08-11T10:00:00+00:00",
-      "fetched": "2026-08-11T12:34:56.743759+00:00"
-    },
-    {
-      "id": "2fe0e0302d59916d",
-      "title": "NCAA moves to halt flight disruptions as aviation union strike over TSC",
-      "link": "https://nairametrics.com/2026/08/11/ncaa-moves-to-halt-flight-disruptions-as-aviation-union-strike-over-tsc/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Civil Aviation Authority (NCAA) has urged aviation unions to halt their ongoing industrial action over the disputed Ticket Sales Charge (TSC) and return to dialogue to allow efforts to resolve the matter to continue. The post NCAA moves to halt flight disruptions as aviation union strike over TSC appeared first on Nairametrics .",
-      "published": "2026-08-11T09:21:40+00:00",
-      "fetched": "2026-08-11T12:34:57.359271+00:00"
-    },
-    {
-      "id": "c58d60be1c4eae13",
-      "title": "Gold hits N220,000/g in Nigeria as traders await US inflation data",
-      "link": "https://nairametrics.com/2026/08/11/gold-hits-n220000-g-in-nigeria-as-traders-await-us-inflation-data/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The price of gold per gram in Nigeria is approximately N220,000 for pure gold, inclusive of retail markup fees, as metal traders await US inflation data. The post Gold hits N220,000/g in Nigeria as traders await US inflation data appeared first on Nairametrics .",
-      "published": "2026-08-11T09:05:28+00:00",
-      "fetched": "2026-08-11T12:34:57.359309+00:00"
-    },
-    {
-      "id": "aa539817cda06634",
-      "title": "Kenya approves first locally domiciled ETF as bank stocks rally",
-      "link": "https://techcabal.com/2026/08/11/kenya-approves-first-locally-domiciled-etf-as-bank-stocks-rally/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The launch comes as Kenyan bank stocks lead a strong rally in the country's equities market, with the NSE Banking Index up 30.9% this year through July.",
-      "published": "2026-08-11T08:54:34+00:00",
-      "fetched": "2026-08-11T12:34:58.030744+00:00"
-    },
-    {
-      "id": "041e135b0a4a7e7f",
-      "title": "Heirs Life Assurance Appoints Pastor Jerry Eze As Non Executive Director",
-      "link": "https://nairametrics.com/2026/08/11/heirs-life-assurance-appoints-pastor-jerry-eze-as-non-executive-director/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Heirs Life Assurance, the specialist life insurance company of Heirs Insurance Group, has appointed Pastor Jerry Eze as an Independent Non-Executive Director on its Board, effective August 10, 2026. The post Heirs Life Assurance Appoints Pastor Jerry Eze As Non Executive Director appeared first on Nairametrics .",
-      "published": "2026-08-11T08:12:46+00:00",
-      "fetched": "2026-08-11T12:34:57.359345+00:00"
-    },
-    {
-      "id": "1bb0cf0c8c050e65",
-      "title": "UBA, Mikano Motors Ease Vehicle Ownership With Auto Financing Scheme",
-      "link": "https://nairametrics.com/2026/08/11/uba-mikano-motors-ease-vehicle-ownership-with-auto-financing-scheme/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Africa’s Global Bank, United Bank for Africa (UBA) Plc, has partnered Mikano Motors to launch an auto financing scheme, themed: ‘Drive Your Dream Today’, specifically designed to ease the purchase of new vehicles by making them more accessible to Nigerians. The post UBA, Mikano Motors Ease Vehicle Ownership With Auto Financing Scheme appeared first on Nairametrics .",
-      "published": "2026-08-11T08:03:17+00:00",
-      "fetched": "2026-08-11T12:34:57.359390+00:00"
-    },
-    {
-      "id": "89fd6f2a84dcea50",
-      "title": "Roqqu announce the launch tokenized stocks as it evolves into a super trading platform",
-      "link": "https://nairametrics.com/2026/08/11/roqqu-announce-the-launch-tokenized-stocks-as-it-evolves-into-a-super-trading-platform/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Roqqu is making sure emerging markets aren't watching from the sidelines by launching tokenized stock investment, giving users direct, borderless access to global equity markets. The post Roqqu announce the launch tokenized stocks as it evolves into a super trading platform appeared first on Nairametrics .",
-      "published": "2026-08-11T07:46:59+00:00",
-      "fetched": "2026-08-11T12:34:57.359426+00:00"
-    },
-    {
-      "id": "8c971f42c91a2a67",
-      "title": "Mastercard announces new lead for Eastern Europe, Middle East and Africa region",
-      "link": "https://nairametrics.com/2026/08/11/mastercard-announces-new-lead-for-eastern-europe-middle-east-and-africa-region/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Mastercard today announced that Yasemin Bedir has been appointed President of the company’s Eastern Europe, Middle East and Africa (EEMEA) region, effective 1 September. The post Mastercard announces new lead for Eastern Europe, Middle East and Africa region appeared first on Nairametrics .",
-      "published": "2026-08-11T07:38:35+00:00",
-      "fetched": "2026-08-11T12:34:57.359465+00:00"
-    },
-    {
-      "id": "c4c1f7a2713595dc",
-      "title": "Airtel Africa surge lifts Nigerian market past N160 trillion mark",
-      "link": "https://nairametrics.com/2026/08/11/airtel-africa-surge-lifts-nigerian-market-past-n160-trillion-mark/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market surged toward its mid-May high on Monday, August 10, 2026, closing above the historic N160 trillion mark in market capitalisation, on renewed buying interest in high net-worth stocks led by Airtel Africa Plc, which gained 8.59% to close at N6,300.00 per share. The post Airtel Africa surge lifts Nigerian market past N160 trillion mark appeared first on Nairametrics .",
-      "published": "2026-08-11T07:10:00+00:00",
-      "fetched": "2026-08-11T12:34:57.359505+00:00"
-    },
-    {
-      "id": "f735c8e9ee30b6f4",
-      "title": "FG targets November for completion of remaining 164km Abuja-Kaduna-Kano highway",
-      "link": "https://nairametrics.com/2026/08/11/fg-targets-november-for-completion-of-remaining-164km-abuja-kaduna-kano-highway/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government is targeting November 2026 for the completion of the remaining 164km stretch of the Abuja-Kaduna-Zaria-Kano highway. The post FG targets November for completion of remaining 164km Abuja-Kaduna-Kano highway appeared first on Nairametrics .",
-      "published": "2026-08-11T06:28:06+00:00",
-      "fetched": "2026-08-11T06:42:01.325450+00:00"
-    },
-    {
-      "id": "14eb94910c055b2b",
-      "title": "👨🏿‍🚀TechCabal Daily – Age-gating social media",
-      "link": "https://techcabal.com/2026/08/11/techcabal-daily-age-gating-social-media/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: NCBA’s Multiple Hauliers takeover hits a court roadblock South Africa wants YouTube and TikTok to check your age Nigeria wants to bring its cloud computing back home Kenya says receipts alone won’t beat a KRA tax bill",
-      "published": "2026-08-11T06:18:22+00:00",
-      "fetched": "2026-08-11T06:42:02.614496+00:00"
-    },
-    {
-      "id": "d1a229d2a396d9f6",
-      "title": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
-      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I’m curious whether there’s a downside.”",
-      "published": "2026-08-11T06:15:00+00:00",
-      "fetched": "2026-08-11T06:42:00.684509+00:00"
-    },
-    {
-      "id": "cd0011d48da2989d",
-      "title": "Nigeria Customs generates N4.03 trillion in H1 2026",
-      "link": "https://nairametrics.com/2026/08/11/nigeria-customs-generates-n4-03-trillion-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Customs Service generated N4.03 trillion in revenue in the first half of 2026, putting it significantly ahead of its mid-year projections and on course to meet its N11 trillion annual target, Comptroller-General Dr. Adewale Adeniyi has said. The post Nigeria Customs generates N4.03 trillion in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-08-11T06:12:08+00:00",
-      "fetched": "2026-08-11T06:42:01.325501+00:00"
-    },
-    {
-      "id": "4522d1998c293e85",
-      "title": "AfDB: Nigeria, Ghana spend more on external debt interest payment than public health",
-      "link": "https://nairametrics.com/2026/08/11/afdb-nigeria-ghana-spend-more-on-external-debt-interest-payment-than-public-health/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria and Ghana are among the West African economies where debt-interest payments rival or exceed public health spending, highlighting the growing pressure debt servicing is placing on government resources, according to the African Development Bank (AfDB). The post AfDB: Nigeria, Ghana spend more on external debt interest payment than public health appeared first on Nairametrics .",
-      "published": "2026-08-11T05:57:55+00:00",
-      "fetched": "2026-08-11T06:42:01.325546+00:00"
-    },
-    {
-      "id": "28711e368343537a",
-      "title": "NUPRC: Local refineries receive 53.7 million barrels of crude in Q2 2026",
-      "link": "https://nairametrics.com/2026/08/11/nuprc-local-refineries-receive-53-7-million-barrels-of-crude-in-q2-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Domestic crude oil and condensate supply to local refineries reached 97.4% in the second quarter of 2026, with 53.7 million barrels supplied between April and June, according to the Nigerian Upstream Petroleum Regulatory Commission (NUPRC). The post NUPRC: Local refineries receive 53.7 million barrels of crude in Q2 2026 appeared first on Nairametrics .",
-      "published": "2026-08-11T05:32:45+00:00",
-      "fetched": "2026-08-11T06:42:01.325587+00:00"
-    },
-    {
-      "id": "d1adb8320db5925a",
-      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
-      "link": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Nvidia late Monday announced a partnership with seven Wall Street financial institutions designed to raise more than $500 billion of third-party capital to fund the buildout of AI infrastructure.",
-      "published": "2026-08-11T02:28:00+00:00",
-      "fetched": "2026-08-11T06:42:00.684558+00:00"
-    },
-    {
-      "id": "e5e9b7fba2f3b693",
-      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-      "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
-      "published": "2026-08-11T02:15:00+00:00",
-      "fetched": "2026-08-11T06:42:00.684590+00:00"
     }
   ]
 }

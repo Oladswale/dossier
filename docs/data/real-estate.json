@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-13T07:06:14.139013+00:00",
+  "updated": "2026-08-13T12:38:35.844549+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b6a9c493fa9f8cdf",
+      "title": "Signs That Your Rents Will Slow (or Grow) in 2026/2027",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-451",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "National rent prices are down year-over-year, but that’s not telling the whole story. Different properties in different markets are seeing an opposite reality. Some markets are seeing 3%-5% rent increases, [ ]",
+      "published": "2026-08-13T11:00:57+00:00",
+      "fetched": "2026-08-13T12:38:35.383070+00:00"
+    },
+    {
+      "id": "926af03019d59e34",
+      "title": "A Viral AI Property Tax Hoax Is Targeting Some Homeowners—and It Could Cost Them Real Relief",
+      "link": "https://www.realtor.com/news/trends/ai-property-tax-hoax-videos-senior-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A network of AI-fueled videos is pushing fake property tax relief that could cost seniors real benefits, a Realtor.com investigation found.",
+      "published": "2026-08-13T09:00:00+00:00",
+      "fetched": "2026-08-13T12:38:35.843917+00:00"
+    },
+    {
+      "id": "7598a1cd6f5ddd93",
+      "title": "Singer Tamar Kaprelian Unveils Stockholm-Inspired Malibu Home She Saved After It Was ‘Destroyed’ by Renters",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/tamar-kaprelian-clive-davis-malibu-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kaprelian, 39, shot her two latest music videos on the property surrounding her abode in Malibu, CA where she's raising her son.",
+      "published": "2026-08-13T08:32:00+00:00",
+      "fetched": "2026-08-13T12:38:35.843956+00:00"
+    },
     {
       "id": "bd1dbbf8c46dc538",
       "title": "The $1.4 Trillion Threat Hiding in American Neighborhoods",
@@ -1472,36 +1502,6 @@
       "summary": "The remarkable stone estate served as a cotton mill and cidery before being transformed into an extraordinary private residence.",
       "published": "2026-08-02T14:30:00+00:00",
       "fetched": "2026-08-02T18:47:50.481372+00:00"
-    },
-    {
-      "id": "85ac0a310280bdad",
-      "title": "From Hot Spot to Ghost Town: How Abandoned South Miami Mall Reflects South Florida’s Luxury Transformation",
-      "link": "https://www.realtor.com/news/trends/south-miami-sunset-place-mall-florida-luxury-boom/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Midtown Development purchased the 10-acre site for $65.5 million in 2020 after a previous owner failed to execute a 2019 redevelopment plan.",
-      "published": "2026-08-02T13:01:00+00:00",
-      "fetched": "2026-08-02T18:47:50.481411+00:00"
-    },
-    {
-      "id": "3939b9159f4ac1ba",
-      "title": "From Budget Kit House to Historic Collector Item: Inside the Rise, Fall, and Evolution of Sears Catalog Homes",
-      "link": "https://www.realtor.com/news/unique-homes/sears-catalog-house-kit-history-appeal/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Shipped directly by train, these “modern” homes would include everything a buyer would need to build their own sanctuary.",
-      "published": "2026-08-02T11:03:00+00:00",
-      "fetched": "2026-08-02T12:49:55.356763+00:00"
-    },
-    {
-      "id": "308973809cb028ee",
-      "title": "Gondola-Side Steamboat Springs Stone Mansion Returns to Market for $14 Million",
-      "link": "https://www.realtor.com/news/unique-homes/steamboat-springs-stone-mansion-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The sprawling stone estate has returned to the market with a Gondola side view and picturesque features.",
-      "published": "2026-08-01T16:07:00+00:00",
-      "fetched": "2026-08-01T18:47:47.811785+00:00"
     }
   ]
 }
