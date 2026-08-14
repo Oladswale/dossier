@@ -1,8 +1,78 @@
 {
   "category": "finance",
-  "updated": "2026-08-13T18:43:24.073520+00:00",
+  "updated": "2026-08-14T00:50:58.592718+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7d3832c74a8c260e",
+      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "link": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "After past snubs, social-media site Reddit has landed a spot on the S P 500, sending shares on an after-hours rally Thursday.",
+      "published": "2026-08-14T00:19:00+00:00",
+      "fetched": "2026-08-14T00:50:56.666610+00:00"
+    },
+    {
+      "id": "dfa6b1af695841e4",
+      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
+      "published": "2026-08-13T22:07:00+00:00",
+      "fetched": "2026-08-14T00:50:56.666669+00:00"
+    },
+    {
+      "id": "b02b51a299849cda",
+      "title": "Markets are looking eerily calm as investors chase FOMO rally",
+      "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "By nearly every headline measure, investors have never looked more relaxed in a year not short of wild rides. But that calm may not be as reassuring as it looks.",
+      "published": "2026-08-13T22:05:00+00:00",
+      "fetched": "2026-08-14T00:50:56.666702+00:00"
+    },
+    {
+      "id": "3f3eae6a54483f29",
+      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“This medication was generic.”",
+      "published": "2026-08-13T22:00:00+00:00",
+      "fetched": "2026-08-14T00:50:56.666722+00:00"
+    },
+    {
+      "id": "14f6b5bf35c681ee",
+      "title": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
+      "link": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Shares of the HR software company rose 18% on Thursday on reports of a potential private-equity acquisition.",
+      "published": "2026-08-13T21:34:00+00:00",
+      "fetched": "2026-08-14T00:50:56.666749+00:00"
+    },
+    {
+      "id": "869de0f688ad5deb",
+      "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+      "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Recent FactSet data show that the rise in earnings is not coming from sales growth alone.",
+      "published": "2026-08-13T20:21:51+00:00",
+      "fetched": "2026-08-14T00:50:56.846552+00:00"
+    },
+    {
+      "id": "080b0bde79b461ad",
+      "title": "NGX loses N613 billion as Unilever, consumer goods stocks extend market selloff",
+      "link": "https://nairametrics.com/2026/08/13/ngx-loses-n613-billion-as-unilever-consumer-goods-stocks-extend-market-selloff/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market extended its losing streak on Thursday, August 13, 2026, as continued selling pressure in consumer goods and selected large-cap stocks pushed the NGX All-Share Index down another 0.39%, wiping approximately N613.09 billion from investors’ wealth. The post NGX loses N613 billion as Unilever, consumer goods stocks extend market selloff appeared first on Nairametrics .",
+      "published": "2026-08-13T18:51:47+00:00",
+      "fetched": "2026-08-14T00:50:57.238273+00:00"
+    },
     {
       "id": "4c352bf56c659e58",
       "title": "FG orders airlines, aviation agencies to agree on TSC repayment plans within one week",
@@ -1214,6 +1284,16 @@
       "fetched": "2026-08-12T00:49:53.010493+00:00"
     },
     {
+      "id": "7bc8a22e63dd5e59",
+      "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
+      "link": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
+      "published": "2026-08-11T20:26:22+00:00",
+      "fetched": "2026-08-14T00:50:56.846645+00:00"
+    },
+    {
       "id": "659dbe7d4d72d5c3",
       "title": "NGX loses N1.17 trillion as MTN Nigeria, First HoldCo lead profit-taking",
       "link": "https://nairametrics.com/2026/08/11/ngx-loses-n1-17-trillion-as-mtn-nigeria-first-holdco-lead-profit-taking/",
@@ -1422,86 +1502,6 @@
       "summary": "JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.",
       "published": "2026-08-11T15:45:44+00:00",
       "fetched": "2026-08-11T18:41:40.100130+00:00"
-    },
-    {
-      "id": "bd28cc5951cf889c",
-      "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
-      "published": "2026-08-11T15:45:00+00:00",
-      "fetched": "2026-08-11T18:41:39.880013+00:00"
-    },
-    {
-      "id": "02ece9526284db3a",
-      "title": "If you can answer this one question, you’ll never worry about money again",
-      "link": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "YNAB founder Jesse Mecham’s new book has a simple system to end the paycheck-to-paycheck struggle.",
-      "published": "2026-08-11T15:44:00+00:00",
-      "fetched": "2026-08-11T18:41:39.880042+00:00"
-    },
-    {
-      "id": "d491bd35bb381186",
-      "title": "LASCOPA orders Lagos businesses to disclose product changes or face sanctions",
-      "link": "https://nairametrics.com/2026/08/11/lascopa-orders-lagos-businesses-to-disclose-product-changes-or-face-sanctions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has ordered businesses to disclose material changes to their products or face regulatory sanctions. The post LASCOPA orders Lagos businesses to disclose product changes or face sanctions appeared first on Nairametrics .",
-      "published": "2026-08-11T15:43:40+00:00",
-      "fetched": "2026-08-11T18:41:40.414791+00:00"
-    },
-    {
-      "id": "48847f6063b327d5",
-      "title": "Nigeria collects $19.9 billion in taxes as digital systems expand",
-      "link": "https://techcabal.com/2026/08/11/nigeria-collected-94-million-in-taxes-daily/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria collected an average of ₦127.83 billion ($93.98 million) in taxes every day between January and July 2026 as new laws and digital systems helped the government bring more economic activity into the tax net.",
-      "published": "2026-08-11T15:42:24+00:00",
-      "fetched": "2026-08-11T18:41:41.089676+00:00"
-    },
-    {
-      "id": "8e5e28ac793bf421",
-      "title": "A historically strong stretch for the U.S. stock market is about to begin",
-      "link": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Some investors are worried that this AI-powered bull market might be getting a little long in the tooth as it approaches its fourth birthday.",
-      "published": "2026-08-11T15:40:00+00:00",
-      "fetched": "2026-08-11T18:41:39.880071+00:00"
-    },
-    {
-      "id": "0beaf1fac26b2149",
-      "title": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate.",
-      "link": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "I looked across the world to see how far our savings would go and whether diversifying our investment portfolio by purchasing a rental property might make more financial sense.",
-      "published": "2026-08-11T15:32:00+00:00",
-      "fetched": "2026-08-11T18:41:39.880126+00:00"
-    },
-    {
-      "id": "310d2345a2bf6228",
-      "title": "NMDPRA pushes for integrated West African fuel market as supply chains shift",
-      "link": "https://nairametrics.com/2026/08/11/nmdpra-pushes-for-integrated-west-african-fuel-market-as-supply-chains-shift/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has called for a functioning West African fuel market amid regional supply chains that are being fundamentally reshaped by the Dangote Refinery. The post NMDPRA pushes for integrated West African fuel market as supply chains shift appeared first on Nairametrics .",
-      "published": "2026-08-11T15:28:29+00:00",
-      "fetched": "2026-08-11T18:41:40.414832+00:00"
-    },
-    {
-      "id": "0cc6179ebb043335",
-      "title": "Spotify to identify AI-generated artists with new profile labels",
-      "link": "https://nairametrics.com/2026/08/11/spotify-to-identify-ai-generated-artists-with-new-profile-labels/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Spotify says it will begin requiring labels for artist profiles that represent AI-generated identities, introducing a new AI Persona badge aimed at helping listeners distinguish between human artists and AI-created personas on the platform. The post Spotify to identify AI-generated artists with new profile labels appeared first on Nairametrics .",
-      "published": "2026-08-11T15:10:01+00:00",
-      "fetched": "2026-08-11T18:41:40.414872+00:00"
     }
   ]
 }

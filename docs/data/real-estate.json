@@ -1,8 +1,108 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-13T18:43:29.700950+00:00",
+  "updated": "2026-08-14T00:51:04.975574+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6d829dcf986b8619",
+      "title": "Jon Hamm and Anna Osceola Are ‘Ready’ for First Baby—but Will ‘Mad Men’ Star’s Bachelor Pad Serve as Their Family Home?",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jon-hamm-anna-osceola-baby-los-feliz-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Mad Men\" star snagged his L.A. abode before he was linked to his now-wife, Anna Osceloa—but it has since become their marital home.",
+      "published": "2026-08-13T22:56:56+00:00",
+      "fetched": "2026-08-14T00:51:04.974941+00:00"
+    },
+    {
+      "id": "6da750e0d4c6102d",
+      "title": "Reclusive Billionaire Craigslist Founder Reveals Why He Quit San Francisco for New York",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/craigslist-founder-craig-newmark-moving-san-francisco-new-york/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In a recent interview, the internet pioneer, 73, opened up about his decision to relocate to New York five years ago.",
+      "published": "2026-08-13T22:34:30+00:00",
+      "fetched": "2026-08-14T00:51:04.974970+00:00"
+    },
+    {
+      "id": "1b6b879898276534",
+      "title": "In a New Test, AI Mortgage Assistants Got Nearly 1 in 4 Answers Wrong",
+      "link": "https://www.realtor.com/news/trends/top-ai-mortgage-underwriting-test-failure-new-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A new open-source benchmark found AI could misclassify bank transactions and treat deposits differently based on the names attached.",
+      "published": "2026-08-13T22:21:27+00:00",
+      "fetched": "2026-08-14T00:51:04.974991+00:00"
+    },
+    {
+      "id": "7f40237d4caffe73",
+      "title": "77-Year-Old Retired Teacher Wins HGTV’s $1.3 Million 2026 Smart Home—and She Has Big Plans for the Idyllic Florida Retreat",
+      "link": "https://www.realtor.com/news/unique-homes/hgtv-2026-smart-home-winner-revealed-teacher/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Karen Hiers, 77, who hails form Jacksonville, FL, has been unveiled as the winner of the modern Orlando abode, which is newly built.",
+      "published": "2026-08-13T21:49:54+00:00",
+      "fetched": "2026-08-14T00:51:04.975015+00:00"
+    },
+    {
+      "id": "18db98cb3d412832",
+      "title": "The Property Tax System Is Breaking—and Ohio Might Be Ground Zero",
+      "link": "https://www.realtor.com/advice/finance/ohio-property-tax-crisis/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In Youngstown, 1 in 3 homeowners is behind on property taxes. The state, citizens, and auditors all have plans to help—but no fix yet.",
+      "published": "2026-08-13T21:49:00+00:00",
+      "fetched": "2026-08-14T00:51:04.975038+00:00"
+    },
+    {
+      "id": "09d13e6d28eaf3b0",
+      "title": "EXCLUSIVE: Aaron Rodgers Puts His Malibu Beach Retreat on Market for $40 Million—After Listing New Jersey and Wisconsin Homes",
+      "link": "https://www.realtor.com/news/sports/aaron-rodgers-malibu-mansion-for-sale-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rodgers, 42, bought the palatial six-bedroom Pacific Coast Highway property through a trust for $28 million in 2019.",
+      "published": "2026-08-13T21:44:00+00:00",
+      "fetched": "2026-08-14T00:51:04.975060+00:00"
+    },
+    {
+      "id": "b846fc0f9c61013e",
+      "title": "New Bill Would Let College Savers Use Leftover Money To Buy a First Home",
+      "link": "https://www.realtor.com/news/real-estate-news/529-college-savings-account-down-payment-first-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A bipartisan bill could let people use a common college savings financial tool to pay for their first house.",
+      "published": "2026-08-13T20:58:18+00:00",
+      "fetched": "2026-08-14T00:51:04.975079+00:00"
+    },
+    {
+      "id": "a59d89d6b69de63d",
+      "title": "EXCLUSIVE: Logan Paul Lists Infamous ‘LSD Ranch’ in California for $3 Million—5 Years After Move to Puerto Rico",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/logan-paul-lsd-ranch-california-for-sale-timothy-leary/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Paul, 31, who is married to model Nina Agdal, purchased the property in 2019, two years before he moved to Puerto Rico.",
+      "published": "2026-08-13T19:40:58+00:00",
+      "fetched": "2026-08-14T00:51:04.975101+00:00"
+    },
+    {
+      "id": "e2f580fe45e0fde0",
+      "title": "World Cup Reverses Slump in International Demand for Short-Term Rentals",
+      "link": "https://www.realtor.com/news/trends/world-cup-international-demand-short-term-rentals/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Across the host cities, short-term rentals generated $1.33 billion in total revenue during the tournament window.",
+      "published": "2026-08-13T19:07:51+00:00",
+      "fetched": "2026-08-14T00:51:04.975118+00:00"
+    },
+    {
+      "id": "9b012b18349c0d0e",
+      "title": "Trump Administration Scales Back Enforcement of Corporate Transparency Law That HOAs Opposed",
+      "link": "https://www.realtor.com/news/real-estate-news/corporate-transparency-act-enforcement-llc-ownership-rules/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The federal government won't force homeowners associations and many other kinds of businesses to disclose details about their owners.",
+      "published": "2026-08-13T18:48:33+00:00",
+      "fetched": "2026-08-14T00:51:04.975148+00:00"
+    },
     {
       "id": "886da37fa629c2ce",
       "title": "Nicole Kidman Reveals She’s Owned a ‘Stealth’ Home in London for 21 Years—and Hints at Plans To Spend Time Abroad After Keith Urban Divorce",
@@ -1402,106 +1502,6 @@
       "summary": "If you’re investing in real estate, you’re probably asking, “How much can this property make me?” But in 2026, it’s the opposite question that actually builds your wealth: “How much [ ]",
       "published": "2026-08-04T11:00:43+00:00",
       "fetched": "2026-08-04T13:30:29.852750+00:00"
-    },
-    {
-      "id": "154e4b3435c49086",
-      "title": "“Sweet Spot” Rentals Every Rookie Should Buy",
-      "link": "https://www.biggerpockets.com/blog/rookie-753",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "There s a rental property out there with your name on it—the “sweet spot” property every rookie investor wants. It s the kind of deal that can give you cash flow, appreciation, [ ]",
-      "published": "2026-08-04T11:00:11+00:00",
-      "fetched": "2026-08-07T06:56:06.270067+00:00"
-    },
-    {
-      "id": "fb0b49590ed7141c",
-      "title": "The Great Wealth Transfer Trap: Why Lenders Are Pushing Heirs Out of 3% Mortgage Rates",
-      "link": "https://www.realtor.com/news/trends/heirs-lose-boomers-low-rate-mortgages/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Federal protections can preserve inherited loans, but heirs say documentation loops and refinance pressure put affordable payments at risk.",
-      "published": "2026-08-04T10:00:00+00:00",
-      "fetched": "2026-08-04T13:30:30.143735+00:00"
-    },
-    {
-      "id": "0cc2c577099b0dbf",
-      "title": "Waterfront Florida Megamansion With Astonishing Amenities, Including a 14-Seat Theater, Is Listed for $78 Million",
-      "link": "https://www.realtor.com/news/unique-homes/most-expensive-homes-for-sale-us-august-4-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built in 2025, the luxurious eight-bedroom estate designed by architect Cesar Molina is in the gated enclave of Gables Estates.",
-      "published": "2026-08-04T09:08:00+00:00",
-      "fetched": "2026-08-04T13:30:30.143771+00:00"
-    },
-    {
-      "id": "99de411b3e45e07a",
-      "title": "A Million-Dollar Home Used To Be Considered a Mansion—Not Anymore",
-      "link": "https://www.realtor.com/news/trends/million-dollar-home-mansion-definition-nar-report-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rapid appreciation means that a $1 million home today is roughly equivalent to a $308,000 home listed in the year 2000.",
-      "published": "2026-08-03T22:36:59+00:00",
-      "fetched": "2026-08-04T01:14:14.257726+00:00"
-    },
-    {
-      "id": "f67e910a7c89a670",
-      "title": "Texas Governor Threatens To Strip Funding From Cities Blocking Housing Development",
-      "link": "https://www.realtor.com/news/real-estate-news/texas-governor-threatens-to-strip-funding-from-cities-blocking-housing-development/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Texas Gov. Greg Abbott is putting cities on notice that stalling housing development could mean losing tax revenue.",
-      "published": "2026-08-03T22:15:26+00:00",
-      "fetched": "2026-08-04T01:14:14.257748+00:00"
-    },
-    {
-      "id": "f3344711cf8ec964",
-      "title": "Inside Jeff Bezos’ Multimillion-Dollar Real Estate Empire He Shares With Wife Lauren Sanchez",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jeff-bezos-lauren-sanchez-live-homes-net-worth-amazon/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Jeff Bezos and Lauren Sanchez have a sprawling portfolio of ultraluxury compounds, spanning coast to coast.",
-      "published": "2026-08-03T22:02:22+00:00",
-      "fetched": "2026-08-04T01:14:14.257767+00:00"
-    },
-    {
-      "id": "878c4d20f06b2d1c",
-      "title": "Homebuilders Accuse Data Centers of Snapping Up Prime Land at ‘Impossible Prices’",
-      "link": "https://www.realtor.com/news/real-estate-news/homebuilders-accuse-data-centers-of-snapping-up-prime-land-at-impossible-prices/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Data center developers could be complicating the housing market by outbidding homebuilders, at least in one fast-growing area.",
-      "published": "2026-08-03T20:23:22+00:00",
-      "fetched": "2026-08-04T01:14:14.257784+00:00"
-    },
-    {
-      "id": "d32db030e507a282",
-      "title": "Biggerpockets Pro Members Can Now Turn Home Equity Into a Flexible Line of Credit With Aven",
-      "link": "https://www.biggerpockets.com/blog/aven-heloc-pro-offer",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Home equity is one of the biggest, most underused assets most investors have. It s sitting there, tied up in the walls of a property, while cash-out refinances take weeks and [ ]",
-      "published": "2026-08-03T20:00:50+00:00",
-      "fetched": "2026-08-04T01:14:13.840233+00:00"
-    },
-    {
-      "id": "6b074e8a914cb6d7",
-      "title": "Why Homeowners Who ‘Did Everything Right’ May Be Headed Back to the Starter Home Market",
-      "link": "https://www.realtor.com/news/trends/homeowners-headed-back-to-starter-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A new type of homebuying competition may soon emerge, as three different types of buyers start looking at the same sliver of housing stock.",
-      "published": "2026-08-03T19:30:37+00:00",
-      "fetched": "2026-08-04T01:14:14.257803+00:00"
-    },
-    {
-      "id": "9dbec3758d61ddb3",
-      "title": "Using Your IRA To Buy Another Home: The Strategy Turning Buyers Into Investors",
-      "link": "https://www.realtor.com/news/trends/using-ira-to-buy-investment-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "With the Road to Housing Act potentially creating more buying opportunities for smaller investors, here's one way to tap into your funds.",
-      "published": "2026-08-03T17:57:55+00:00",
-      "fetched": "2026-08-03T19:13:50.851541+00:00"
     }
   ]
 }

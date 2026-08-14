@@ -1,8 +1,188 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-13T18:43:27.467592+00:00",
+  "updated": "2026-08-14T00:51:02.689387+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b3facb3d7672c8e3",
+      "title": "Oscar Predictions: Supporting Actor — How Many Men Can be Nominated From ‘The Odyssey’?",
+      "link": "https://variety.com/feature/2027-oscars-best-supporting-actor-predictions-1236834271/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
+      "published": "2026-08-14T00:30:00+00:00",
+      "fetched": "2026-08-14T00:51:02.213706+00:00"
+    },
+    {
+      "id": "cf8a9b05b74516ab",
+      "title": "NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him",
+      "link": "https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rap star also said that he has “one or two” albums left in his colossal career",
+      "published": "2026-08-14T00:18:38+00:00",
+      "fetched": "2026-08-14T00:51:02.448319+00:00"
+    },
+    {
+      "id": "f9ab4a8726aa52fd",
+      "title": "Oscar Predictions: Best Actress — How Obsessed Will the Academy Become With Inde Navarrette?",
+      "link": "https://variety.com/feature/2027-oscars-best-actress-predictions-1236834270/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
+      "published": "2026-08-14T00:00:00+00:00",
+      "fetched": "2026-08-14T00:51:02.213748+00:00"
+    },
+    {
+      "id": "da9fa7e099bfed03",
+      "title": "Oscar Predictions: Best Actor — The Most Competitive Category Awaits Leading Men Like Tom Cruise, Matt Damon and More",
+      "link": "https://variety.com/feature/2027-oscars-best-actor-predictions-1236834269/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
+      "published": "2026-08-13T23:31:40+00:00",
+      "fetched": "2026-08-14T00:51:02.213785+00:00"
+    },
+    {
+      "id": "845dda9b9ce6f402",
+      "title": "Lil Durk Murder-for-Hire Trial: Judge Rules ‘Pissed Me Off’ Video Can Be Used as Evidence",
+      "link": "https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-video-lyrics-used-evidence-1235608235/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Durk's defense fought the admission, saying it would create “so much risk of prejudice and confusion\"",
+      "published": "2026-08-13T23:10:29+00:00",
+      "fetched": "2026-08-14T00:51:02.448348+00:00"
+    },
+    {
+      "id": "82ac7a5cae5114d1",
+      "title": "Tyler Duckworth, ‘The Challenge’ Reality Show Winner, Dies at 44",
+      "link": "https://variety.com/2026/tv/news/tyler-duckworth-dead-the-challenge-1236834280/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tyler Duckworth, who competed on six seasons of reality show The Challenge and also appeared on MTV s The Real World: Key West, has died in North Dakota. He was 44. His mother, Joni, announced his death on Facebook Thursday, writing, “My son, Tyler, passed away earlier this week.",
+      "published": "2026-08-13T22:23:34+00:00",
+      "fetched": "2026-08-14T00:51:02.213824+00:00"
+    },
+    {
+      "id": "c2afc71cf19ab2d7",
+      "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold",
+      "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "David Zaslav, president and CEO of Warner Bros. Discovery, has now sold over $195 million worth of stock since the media company clinched a deal to be acquired by David Ellison s Paramount Skydance earlier this year. Zaslav s latest sale of 773,173 shares of WBD stock, for an aggregate market value of $21,655,292, was handled on [ ]",
+      "published": "2026-08-13T21:21:07+00:00",
+      "fetched": "2026-08-14T00:51:02.213856+00:00"
+    },
+    {
+      "id": "c77d7aa6296e550a",
+      "title": "Matthew McConaughey Says Acting in ‘The Wedding Planner’ With Jennifer Lopez Saved Him From Being Searched at U.S.-Mexico Border: ‘They Let Me Go’",
+      "link": "https://variety.com/2026/film/news/matthew-mcconaughey-wedding-planner-mexico-border-jennifer-lopez-1236833933/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Matthew McConaughey revealed on the Happy Sad Confused podcast that acting alongside Jennifer Lopez in 2001 s The Wedding Planner ended up getting him out of a major mess-up at the U.S.-Mexico border. I pull in one late night crossing the border going way down south, the actor recalled. I get pulled over, and it s one [ ]",
+      "published": "2026-08-13T21:20:20+00:00",
+      "fetched": "2026-08-14T00:51:02.213892+00:00"
+    },
+    {
+      "id": "bb87bf13f24fbbef",
+      "title": "Hear Will Hoge and Dave Hause Poke at Religion, Talk Struggles of Indie Music in Live Song Swap",
+      "link": "https://www.rollingstone.com/music/music-country/will-hoge-dave-hause-new-songs-live-podcast-mile-of-music-1235608252/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rock-and-roots songwriters tell stories and perform in a new episode of Rolling Stone 's Nashville Now podcast recorded at the Mile of Music Festival",
+      "published": "2026-08-13T21:14:55+00:00",
+      "fetched": "2026-08-14T00:51:02.448374+00:00"
+    },
+    {
+      "id": "26b139486cdec0d2",
+      "title": "Disney and Macy’s Release Limited-Edition Product Capsule to Celebrate 100th Thanksgiving Day Parade",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/macys-disney-mickey-mouse-collection-where-to-buy-online-1235608098/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Inspired by the new Sorcerer’s Apprentice Mickey balloon, the collection includes watches, clothing, decor, and toys",
+      "published": "2026-08-13T21:05:02+00:00",
+      "fetched": "2026-08-14T00:51:02.448397+00:00"
+    },
+    {
+      "id": "de870ba3bdf8350e",
+      "title": "Here’s How to Get Walmart+ For Just $1 Right Now",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/walmart-plus-discount-deal-1234731666/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Unlock fast shipping and savings on essentials for just $1 during Walmart's current sale on its membership program",
+      "published": "2026-08-13T21:03:00+00:00",
+      "fetched": "2026-08-14T00:51:02.448416+00:00"
+    },
+    {
+      "id": "196503a9497708b3",
+      "title": "Tramell Tillman Says ‘I Had to Sign NDAs’ Before Even Meeting for ‘Spider-Man: Brand New Day’ Role: ‘A Little Frustrating Because Everything Was Shrouded in Secrecy’",
+      "link": "https://variety.com/2026/film/news/tramell-tillman-signed-ndas-spider-man-brand-new-day-role-meeting-1236834204/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tramell Tillman is going to play a big role in the Marvel Cinematic Universe’s future. And he can finally talk about it. Tillman, who won an Emmy last year for his supporting role in Apple TV’s “Severance,” had been hoping to appear in a Marvel movie for some time, and heard from his team that [ ]",
+      "published": "2026-08-13T20:32:05+00:00",
+      "fetched": "2026-08-14T00:51:02.213929+00:00"
+    },
+    {
+      "id": "eaa0afe4c4d09065",
+      "title": "Matthew McConaughey on Immortality, Shooting With Linklater and Nolan and Teaching His Film Students Not to Fear ‘Doing Something Sh—y’",
+      "link": "https://variety.com/2026/film/features/matthew-mcconaughey-rivals-of-amziah-king-brothers-1236833422/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In all his homespun wisdom, Matthew McConaughey doesn’t think the world is a stage — he thinks it’s a story told by the fire. “Am I doing things that I want to last? Yeah.",
+      "published": "2026-08-13T20:30:00+00:00",
+      "fetched": "2026-08-14T00:51:02.213965+00:00"
+    },
+    {
+      "id": "8c9bc1033bfa3d79",
+      "title": "NFL Preseason 2026 Livestream: Here’s Where to Watch Pro Football Games Online",
+      "link": "https://variety.com/2026/shopping/news/how-to-watch-nfl-preseason-games-online-livestream-free-1236480652/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Although the first game of the preseason is the NFL Hall of Fame Game, the rest of the teams in the league begin play during Week 1 of preseason on Thursday, Aug. 13. The NFL 2025-27 season is just a few weeks away, while teams are getting ready to compete to win their division, make [ ]",
+      "published": "2026-08-13T20:24:12+00:00",
+      "fetched": "2026-08-14T00:51:02.213994+00:00"
+    },
+    {
+      "id": "cb4b73f6956dd0f3",
+      "title": "Warner Bros. Discovery’s Gerhard Zeiler to Recieve Directorate Award at This Year’s International Emmys",
+      "link": "https://variety.com/2026/tv/news/warner-bros-discovery-gerhard-zeiler-international-emmy-1236834184/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Warner Bros. Discovery president of international Gerhard Zeiler has been tapped to receive the 2026 International Emmy Directorate Award. He joins Netflix chief content officer Bela Bajaria, who was previously announced as this year s honoree for the org s founders award.",
+      "published": "2026-08-13T20:20:25+00:00",
+      "fetched": "2026-08-14T00:51:02.214027+00:00"
+    },
+    {
+      "id": "606b5a1e8972618e",
+      "title": "Matthew McConaughey Gives Ella Langley’s ‘Choosin’ Texas’ a Bluegrass Spin on ‘Fallon’",
+      "link": "https://www.rollingstone.com/music/music-country/matthew-mcconaughey-performs-choosin-texas-jimmy-fallon-1235608200/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The star of the forthcoming film The Rivals of Amziah King joins the group the Last Bison on The Tonight Show With Jimmy Fallon for a rambling version of the hit song",
+      "published": "2026-08-13T20:13:28+00:00",
+      "fetched": "2026-08-14T00:51:02.448441+00:00"
+    },
+    {
+      "id": "7bf02055e11210e8",
+      "title": "From ‘Moulin Rouge!’ to ‘Chicago,’ Here’s Where You Can Score Discounted Broadway Tickets Online",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-buy-cheap-broadway-tickets-online-1197326/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Here’s how to secure seats to these shows on the Great White Way and see stars like Aaron Tveit and Reece Weaver take the spotlight",
+      "published": "2026-08-13T19:48:32+00:00",
+      "fetched": "2026-08-14T00:51:02.448464+00:00"
+    },
+    {
+      "id": "761b477c528e012b",
+      "title": "What Happens If Luigi Mangione Pleads Guilty in Federal Court Tomorrow?",
+      "link": "https://www.rollingstone.com/culture/culture-news/luigi-mangione-guilty-plea-expected-what-happens-next-1235608083/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Lawyers weigh in on how a federal guilty plea could affect his upcoming state trial for the murder of UnitedHealthcare CEO Brian Thompson",
+      "published": "2026-08-13T19:19:18+00:00",
+      "fetched": "2026-08-14T00:51:02.448484+00:00"
+    },
     {
       "id": "4f7a20baa220feaa",
       "title": "Start the Party: Where to Watch ‘Camp Rock 3’ Online Without Cable for Free",
@@ -12,6 +192,16 @@
       "summary": "The Jonas Brothers and Demi Lovato are reprising their roles in the newest installment of the hit Disney Channel movie franchise. Here’s how to stream it",
       "published": "2026-08-13T18:42:07+00:00",
       "fetched": "2026-08-13T18:43:27.247776+00:00"
+    },
+    {
+      "id": "1e92f4aff646fbfb",
+      "title": "Charlie Worsham, Welcome to the Grand Ole Opry. It’s About Damn Time",
+      "link": "https://www.rollingstone.com/music/music-features/charlie-worsham-inducted-grand-ole-opry-good-choice-1235608039/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The country music institution has made some curious picks for membership in the past, but in choosing one of Nashville's most beloved and talented players, the Opry gets it right",
+      "published": "2026-08-13T18:42:03+00:00",
+      "fetched": "2026-08-14T00:51:02.448514+00:00"
     },
     {
       "id": "cda5dbb7745dd682",
@@ -1312,196 +1502,6 @@
       "summary": "The guitarist shares his memories of collaborating with the late producer on 1999’s 13 , the experimental album that also included “Tender” and “Coffee TV.”",
       "published": "2026-08-11T17:02:04+00:00",
       "fetched": "2026-08-11T18:41:45.151789+00:00"
-    },
-    {
-      "id": "6be6ce3c38f317d5",
-      "title": "‘Possession’ Remake, Starring Margaret Qualley and Callum Turner, Sets Summer 2027 Release Date",
-      "link": "https://variety.com/2026/film/news/possession-remake-release-date-margaret-qualley-1236832166/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A remake of the 1981 supernatural thriller Possession, starring Callum Turner and Margaret Qualley, is coming to theaters next summer. Paramount has slated the movie to release on June 11, 2027. It ll open on the big screen alongside Universal s live-action How to Train Your Dragon 2.",
-      "published": "2026-08-11T17:00:37+00:00",
-      "fetched": "2026-08-11T18:41:44.958588+00:00"
-    },
-    {
-      "id": "7f9411854fedb830",
-      "title": "Vin Diesel Cried Over the ‘Fast Forever’ Script, but the Movie’s Director Still Hasn’t Read It: ‘There Will Be an Ending, and It’s Great’",
-      "link": "https://variety.com/2026/film/news/fast-forever-script-vin-diesel-director-1236832137/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The script for the next Fast and Furious movie, titled Fast Forever, made Vin Diesel cry, but director Louis Leterrier still hasn t read what gave the actor the waterworks. “It is the best script I have read in decades,” Diesel wrote on Instagram about the 11th “Fast and Furious” film, penned by Michael Lesslie. But [ ]",
-      "published": "2026-08-11T16:58:00+00:00",
-      "fetched": "2026-08-11T18:41:44.958645+00:00"
-    },
-    {
-      "id": "c059dc4476b987a0",
-      "title": "Goya-Nominated Zoe Bonafonte Leads Spain-Argentina Soccer Pioneer Drama ‘Veleta’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/zoe-bonafonte-veleta-spain-argentina-soccer-drama-1236831557/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Goya-nominated actress Zoe Bonafonte (“El 47”) will play Spain’s first female soccer player, Ana “Nita” Carmona Ruiz, in “Veleta,” a Spain-Argentina co-production directed and co-written by Paco Torres (“The Magic of Hope”) and now shooting in Andalusia. Goya winner Dani Rovira and “Vikings” actor Moe Dunford also star. Amaya Muruzábal, creator of “Hernán” and showrunner [ ]",
-      "published": "2026-08-11T16:45:31+00:00",
-      "fetched": "2026-08-11T18:41:44.958698+00:00"
-    },
-    {
-      "id": "b95a7dba86441bb6",
-      "title": "Tammy Fine to Lead Talent Development at NBC News",
-      "link": "https://variety.com/2026/tv/news/tammy-fine-nbc-news-talent-development-1236832140/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tammy Fine, a veteran NBC News producer who spent a significant part of her career overseeing key newsmaker interviews in the first hour of Today, is getting a new passel of responsibilities. Fine has been named vice president of talent development at NBC News, and will lead efforts to develop careers and find up and [ ]",
-      "published": "2026-08-11T16:26:11+00:00",
-      "fetched": "2026-08-11T18:41:44.958740+00:00"
-    },
-    {
-      "id": "d2c59638dced13dc",
-      "title": "Why Was It So Hard for Sam Cooke’s Grandkids to Drop a Soul Album?",
-      "link": "https://www.rollingstone.com/music/music-features/womack-sisters-sam-cooke-granddaughters-debut-album-1235606528/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Womack Sisters will finally release a self-titled, tour-de-force debut album that carries their family legacy",
-      "published": "2026-08-11T16:08:35+00:00",
-      "fetched": "2026-08-11T18:41:45.151816+00:00"
-    },
-    {
-      "id": "5dba1f9087410267",
-      "title": "A True-Crime Producer Posed as an Heiress — Then Allegedly Stole $30 Million",
-      "link": "https://www.rollingstone.com/culture/culture-features/true-crime-fake-heiress-fbi-most-wanted-1235589737/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Mary Carole McDonnell made low-budget crime shows, but her own story was built on deceptions fit for one of her series. Now she’s on the FBI’s Most Wanted list and the target of a global manhunt",
-      "published": "2026-08-11T12:00:00+00:00",
-      "fetched": "2026-08-11T12:35:02.808880+00:00"
-    },
-    {
-      "id": "44f071f3681bc80a",
-      "title": "Monica Bellucci Has ‘Never’ Done Anything Like ‘Ketticè’: ‘I Was on Set in My Pajamas With a Knife in My Hand and Slippers on My Feet’",
-      "link": "https://variety.com/2026/film/global/monica-bellucci-kettice-locarno-giovanni-tortorici-1236831849/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Do you think Monica Bellucci has done it all? Think again. “I’ve never done anything like that,” she tells Variety about her role in “Ketticè.” Directed by Giovanni Tortorici, the film premiered at Locarno.",
-      "published": "2026-08-11T11:37:28+00:00",
-      "fetched": "2026-08-11T12:35:02.473501+00:00"
-    },
-    {
-      "id": "e4918572a7647d5b",
-      "title": "Films Boutique Nabs Mani Haghighi’s ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’ Ahead of New York Premiere (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/films-boutique-mani-haghighi-new-york-film-festival-1236831895/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Berlin-based sales agency Films Boutique has acquired worldwide rights to Iranian filmmaker Mani Haghighi’s documentary “I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies,” which is set to premiere at the New York Film Festival. Set between Tabriz and Tehran in the weeks between the 12-Day War and the subsequent [ ]",
-      "published": "2026-08-11T11:25:01+00:00",
-      "fetched": "2026-08-11T12:35:02.473559+00:00"
-    },
-    {
-      "id": "9b893fc3c25da81c",
-      "title": "‘The Chosen’ Star Jonathan Roumie to Voice Banijay Live’s ‘Luminiscence’ Experience at St. Patrick’s Cathedral",
-      "link": "https://variety.com/2026/biz/news/jonathan-roumie-chosen-st-patricks-immersive-banijay-1236831784/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Banijay is expanding its Luminiscence immersive experience franchise in the U.S. with an installation at New York s iconic St. Patrick s Cathedral that opens Oct.",
-      "published": "2026-08-11T11:00:00+00:00",
-      "fetched": "2026-08-11T12:35:02.473610+00:00"
-    },
-    {
-      "id": "4afebbc19496979c",
-      "title": "George MacKay, Louisa Harland, Nathalie Emmanuel and Eric Kofi Abrefa Join ‘The Animals’ From ‘Supacell’ Star Calvin Demba (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/george-mackay-louisa-harland-nathalie-emmanuel-the-animals-1236831878/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Calvin Demba, the British actor, writer and director best known on screen for the Netflix hit Supacell, has lined up an impressive cast list for his second short film behind the camera, The Animals. George MacKay ( Rose of Nevada, Sense and Sensibility ) stars alongside Louisa Harland ( Renegade Nell, Derry Girls ), Nathalie Emmanuel ( Game of Thrones, [ ]",
-      "published": "2026-08-11T09:30:28+00:00",
-      "fetched": "2026-08-11T12:35:02.473694+00:00"
-    },
-    {
-      "id": "15e7d6ed112b4736",
-      "title": "RTL Group Posts 3.9% Revenue Rise as Streaming Side Grows, Though Fremantle Continues to Suffer",
-      "link": "https://variety.com/2026/tv/global/rtl-group-rise-revenue-streaming-grows-1236831855/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "European media conglomerate RTL Group on Tuesday posted first-half figures showing strong growth in streaming, with revenue up 3.9% to €2.9 billion ($ 3.3 billion), while revenues from its linear TV side and its Fremantle content business were down. The acquisition of pay-TV operation ‌Sky Deutschland from Comcast in June has also increased the group s revenue base. [ ]",
-      "published": "2026-08-11T09:11:12+00:00",
-      "fetched": "2026-08-11T12:35:02.473756+00:00"
-    },
-    {
-      "id": "e3a850196c42973e",
-      "title": "‘House of the Dragon’ Star Fabien Frankel Joins Short Film ‘Love Unlimited’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/fabien-frankel-short-film-love-unlimited-1236831857/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Fabien Frankel, currently seen on screens as the dashing, honor-obsessed knight Ser Criston Cole in House of the Dragon, is ready to take on a very different role. The British actor is set to star in Love Unlimited, the debut short drama from actor Olivier Huband ( A Discovery of Witches, Becoming Elizabeth ). Frankel will also [ ]",
-      "published": "2026-08-11T08:58:20+00:00",
-      "fetched": "2026-08-11T12:35:02.473802+00:00"
-    },
-    {
-      "id": "4a466427574517e2",
-      "title": "Travis Barker Fights Through the Pain in ‘Louder Than Fear’ Trailer",
-      "link": "https://www.rollingstone.com/music/music-news/travis-barker-louder-than-fear-trailer-disney-hulu-1235606640/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The documentary film, about the Blink-182 drummer's near-death experience in a plane crash, premieres on streaming this week",
-      "published": "2026-08-11T07:46:33+00:00",
-      "fetched": "2026-08-11T12:35:02.808916+00:00"
-    },
-    {
-      "id": "ed3ba93f61421f20",
-      "title": "‘Pacifiction’ Director Albert Serra on His New Film ‘Sixteen Moments of My Life’ and Why He’d Love to Have Directed Elvis Presley",
-      "link": "https://variety.com/2026/film/global/albert-serra-ingrid-caven-16-moments-of-my-life-locarno-1236831563/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Don’t call Albert Serra’s new film, “Seize moments de ma vie” (“Sixteen Moments of My Life”), a concert film. Premiering out of competition at the Locarno Film Festival, the film documents a one-off performance by screen legend Ingrid Caven at the Théâtre des Bouffes du Nord in Paris. “I will never shoot a concert unless [ ]",
-      "published": "2026-08-11T07:09:38+00:00",
-      "fetched": "2026-08-11T12:35:02.473849+00:00"
-    },
-    {
-      "id": "1a444d0a9b5a7434",
-      "title": "‘Mobile Suit Gundam RG XARX-ZERO’ Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears: ‘Will We End Up Being Used by It?’",
-      "link": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kamiyama Kenji says the alien threat driving his new Gundam anime is a direct metaphor for humanity s uneasy relationship with artificial intelligence. The director, known for Ghost in the Shell: Stand Alone Complex and The Lord of the Rings: The War of the Rohirrim, tells Variety he built Mobile Suit Gundam RG XARX-ZERO around that [ ]",
-      "published": "2026-08-11T07:00:00+00:00",
-      "fetched": "2026-08-11T12:35:02.473894+00:00"
-    },
-    {
-      "id": "0ec66697788ace76",
-      "title": "Locarno: The Filmmakers Behind ‘Piluk,’ From the National Film Board of Canada, Discuss the Language of Animation",
-      "link": "https://variety.com/2026/film/global/locarno-piluk-animation-national-film-board-of-canada-1236831733/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With a world premiere in the Locarno Film Festival s Pardi di Domani selection of short and medium-length films, the filmmakers behind Piluk saw the production as a chance to tell a story with the simplest possible textures: pencil, paper and the human voice. Produced by Marc Bertrand and Jelena Popović of the National Film Board [ ]",
-      "published": "2026-08-11T06:55:23+00:00",
-      "fetched": "2026-08-11T12:35:02.473940+00:00"
-    },
-    {
-      "id": "da42d7186ca632e3",
-      "title": "Demi Lovato to Reprise Role in ‘Camp Rock 3’: ‘Y’all Miss Me?’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/demi-lovato-camp-rock-3-reprise-role-jonas-brothers-1235606635/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The third edition of the Disney franchise, which stars the Jonas Brothers, premieres on Aug. 13",
-      "published": "2026-08-11T06:49:04+00:00",
-      "fetched": "2026-08-11T12:35:02.808945+00:00"
-    },
-    {
-      "id": "aa085fc15d72e560",
-      "title": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Battle Atop U.K., Ireland Box Office",
-      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-uk-ireland-box-office-1236831811/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sony s superhero blockbuster Spider-Man: Brand New Day retained its top spot at the U.K. and Ireland box office for a second consecutive week, taking £10.1 million ($13.6) over its sophomore frame. The film s cumulative total is now $87.4 million after 13 days of release.",
-      "published": "2026-08-11T06:42:25+00:00",
-      "fetched": "2026-08-11T12:35:02.473989+00:00"
-    },
-    {
-      "id": "22ccc41733737c25",
-      "title": "Gramado Film Festival Hosts the First International Meeting of Cities",
-      "link": "https://variety.com/2026/film/global/gramado-fest-hosts-international-meeting-of-cities-1236831694/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The First International Meeting of Cities will take place Aug. 12-14 at the Gramado Film Market and will gather municipal-level authorities from such major towns as Medellín, Rio de Janeiro, Porto Alegre, Maricá and fest-host Gramado as well as representatives of Brazilian and Ibero-American organizations to discuss how the creative economy — particularly the audiovisual [ ]",
-      "published": "2026-08-11T06:37:50+00:00",
-      "fetched": "2026-08-11T06:42:06.310861+00:00"
     }
   ]
 }
