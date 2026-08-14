@@ -1,8 +1,88 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-14T00:51:02.689387+00:00",
+  "updated": "2026-08-14T07:03:53.281328+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a0afdb6643114f2c",
+      "title": "COL AI Studios Launches to Expand Group’s Global Distribution Network (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds on a distribution network that now counts over 5,000 live-action titles, up from a base of just over 1,000 when the network first launched, with [ ]",
+      "published": "2026-08-14T07:00:00+00:00",
+      "fetched": "2026-08-14T07:03:52.798116+00:00"
+    },
+    {
+      "id": "a0ea4a00e42fda11",
+      "title": "Troye Sivan Brings Nicole Kidman to the Club for ‘She’s the Best’ Music Video",
+      "link": "https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Troye Sivan has kicked off a new era with the release of his new single She s the Best along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Steiner, Sivan holds the spotlight at a club filled with drag queens, including Sasha Colby. Kidman, a fellow Aussie, sips a drink [ ]",
+      "published": "2026-08-14T04:48:07+00:00",
+      "fetched": "2026-08-14T07:03:52.798173+00:00"
+    },
+    {
+      "id": "bbc701e514cb0f73",
+      "title": "Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for ‘Lost Weekend’",
+      "link": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but not quite that platinum. So it was fairly easy to pick her out for the entirety of the [ ]",
+      "published": "2026-08-14T04:28:05+00:00",
+      "fetched": "2026-08-14T07:03:52.798222+00:00"
+    },
+    {
+      "id": "59a3200f255c39ef",
+      "title": "Boston Bets on Music and Entertainment Tourism on Heels of Noah Kahan’s Fenway Park Run",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/noah-kahan-fenway-park-show-boston-tourism-1235607511/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Boston has been energized by a wave of major cultural moments this summer, including the World Cup tournament and America 250 celebrations",
+      "published": "2026-08-14T04:27:50+00:00",
+      "fetched": "2026-08-14T07:03:53.100066+00:00"
+    },
+    {
+      "id": "190c683d32c4a6b3",
+      "title": "Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo",
+      "link": "https://www.rollingstone.com/music/music-news/troye-sivan-shes-the-best-charli-xcx-nicole-kidman-1235608285/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "This is the first single off Sivan's new album of the same name, out Oct.9, and the track's accompanying video stars Nicole Kidman",
+      "published": "2026-08-14T04:01:00+00:00",
+      "fetched": "2026-08-14T07:03:53.100107+00:00"
+    },
+    {
+      "id": "97d7de2bbb067b1b",
+      "title": "Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’",
+      "link": "https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Investors say they pumped $1.2 million into Wondermind and claim they were misled about Gomez's involvement",
+      "published": "2026-08-14T03:34:21+00:00",
+      "fetched": "2026-08-14T07:03:53.100138+00:00"
+    },
+    {
+      "id": "82c99e96064a8b16",
+      "title": "Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement",
+      "link": "https://www.rollingstone.com/music/music-news/romeo-santos-sues-accounting-firm-mismanagement-1235608306/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Latin superstar claims the firm filed “incoherent” tax documents, missed deadlines, and failed to invest his money or fund his retirement account",
+      "published": "2026-08-14T01:13:54+00:00",
+      "fetched": "2026-08-14T07:03:53.100171+00:00"
+    },
+    {
+      "id": "37303e837cb9becb",
+      "title": "Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?",
+      "link": "https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
+      "published": "2026-08-14T01:00:00+00:00",
+      "fetched": "2026-08-14T07:03:52.798297+00:00"
+    },
     {
       "id": "b3facb3d7672c8e3",
       "title": "Oscar Predictions: Supporting Actor — How Many Men Can be Nominated From ‘The Odyssey’?",
@@ -1422,86 +1502,6 @@
       "summary": "The two-day event will take place in Stowe, Vermont, this September",
       "published": "2026-08-11T17:38:57+00:00",
       "fetched": "2026-08-11T18:41:45.151638+00:00"
-    },
-    {
-      "id": "fb71938f616c81e3",
-      "title": "Jackie the Bald Eagle Is Being Memorialized With a Slew of Fan-Made T-Shirts",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/jackie-bald-eagle-merch-t-shirts-where-to-buy-online-1235606800/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Fans are commemorating the California bald eagle, famous for her live-streamed romance, with fast-selling tees on Etsy",
-      "published": "2026-08-11T17:38:22+00:00",
-      "fetched": "2026-08-11T18:41:45.151665+00:00"
-    },
-    {
-      "id": "115d362ce208172c",
-      "title": "‘Project Hail Mary’ Arrives on Blu-ray With an Out-of-This-World Collector’s Edition",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/project-hail-mary-blu-ray-dvd-release-buy-online-1235606701/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The sci-fi hit is now available on 4K Ultra HD, Blu-ray and DVD, with a steelbook collector’s edition coming in October",
-      "published": "2026-08-11T17:36:53+00:00",
-      "fetched": "2026-08-11T18:41:45.151696+00:00"
-    },
-    {
-      "id": "d74c41b05f996320",
-      "title": "Emmy Predictions: Lead Actor (Drama) — Which Submission Has the Edge? Noah Wyle, Sterling K. Brown, Mark Ruffalo and More",
-      "link": "https://variety.com/lists/2026-emmys-lead-actor-drama-predictions/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
-      "published": "2026-08-11T17:30:00+00:00",
-      "fetched": "2026-08-11T18:41:44.958428+00:00"
-    },
-    {
-      "id": "de46bd42ce2194fc",
-      "title": "Kris Bowers Set to Compose Netflix Animated Feature ‘Steps’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Emmy-nominated composer Kris Bowers is set to score Netflix’s upcoming animated comedy Steps. The score was recorded in July and August at London s Abbey Road Studios. Slated for release on Nov.",
-      "published": "2026-08-11T17:28:00+00:00",
-      "fetched": "2026-08-11T18:41:44.958484+00:00"
-    },
-    {
-      "id": "aed324c531129f8d",
-      "title": "‘The Office’ U.K. Star Lucy Davis Reveals ‘Incurable’ Cancer Diagnosis: It’s ‘Too Late for Chemo’ and ‘I’m Not Scared of Whatever Comes Next’",
-      "link": "https://variety.com/2026/tv/global/the-office-lucy-davis-cancer-diagnosis-incurable-1236832201/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Lucy Davis, best known for playing receptionist Dawn Tinsley in the original U.K. edition of The Office, has revealed that she has terminal cancer. Writing on Instagram, Davis said she was diagnosed with Stage 4 breast cancer a year and a half ago after discovering a lump on her breast.",
-      "published": "2026-08-11T17:27:55+00:00",
-      "fetched": "2026-08-11T18:41:44.958538+00:00"
-    },
-    {
-      "id": "eb1730f4b41524c7",
-      "title": "Spotify Details Plan to Label AI Artists",
-      "link": "https://www.rollingstone.com/music/music-news/spotify-labeling-ai-artists-1235606855/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "People will have the opportunity to self-disclose with an “AI Persona” badge. Otherwise, the streaming giant will start identifying and tagging relevant profiles",
-      "published": "2026-08-11T17:24:16+00:00",
-      "fetched": "2026-08-11T18:41:45.151727+00:00"
-    },
-    {
-      "id": "4f213619c04da8d8",
-      "title": "Watch the First Teaser for ‘Monster: The Lizzie Borden Story’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/monster-lizzie-borden-ryan-murphy-1235606531/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The new season of the Ryan Murphy-produced anthology series will explore the 1892 murders that captured the nation",
-      "published": "2026-08-11T17:14:56+00:00",
-      "fetched": "2026-08-11T18:41:45.151753+00:00"
-    },
-    {
-      "id": "d59ddf3412aad6ab",
-      "title": "Blur’s Graham Coxon Remembers William Orbit: ‘This Genius Tinged With Madness’",
-      "link": "https://www.rollingstone.com/music/music-news/blur-graham-coxon-william-orbit-tribute-1235606853/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The guitarist shares his memories of collaborating with the late producer on 1999’s 13 , the experimental album that also included “Tender” and “Coffee TV.”",
-      "published": "2026-08-11T17:02:04+00:00",
-      "fetched": "2026-08-11T18:41:45.151789+00:00"
     }
   ]
 }
