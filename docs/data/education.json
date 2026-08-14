@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-14T07:03:54.927691+00:00",
-  "count": 119,
+  "updated": "2026-08-14T12:34:31.547688+00:00",
+  "count": 120,
   "items": [
+    {
+      "id": "ae4428f3e67fe54b",
+      "title": "High-speed microscopy reveals electrical activity across the brain",
+      "link": "https://news.mit.edu/2026/high-speed-microscopy-reveals-electrical-activity-across-brain-0814",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new technique could help scientists learn how the entire brain works to generate decisions and emotions.",
+      "published": "2026-08-14T09:00:00+00:00",
+      "fetched": "2026-08-14T12:34:30.368614+00:00"
+    },
     {
       "id": "be4289266f2940f5",
       "title": "When the US Mail Was Delivered Underground at 35 MPH Through a Network of Pneumatic Tubes (1893–1953)",
