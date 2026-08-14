@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-14T12:34:31.547688+00:00",
-  "count": 120,
+  "updated": "2026-08-14T18:37:25.339334+00:00",
+  "count": 123,
   "items": [
+    {
+      "id": "d6c42ce7e49d8d82",
+      "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
+      "link": "https://news.mit.edu/2026/drug-targeting-inflammatory-enzyme-could-help-prevent-lung-cancer-0814",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new study by MIT researchers shows that inhibiting caspase-1 can reduce the risk of tumor growth.",
+      "published": "2026-08-14T18:00:00+00:00",
+      "fetched": "2026-08-14T18:37:24.130595+00:00"
+    },
+    {
+      "id": "2a6896b810e5c29b",
+      "title": "Cells pulse together as they grow — and malignant cells pulse the longest",
+      "link": "https://news.mit.edu/2026/cells-pulse-together-malignant-cells-pulse-longest-0814",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers discovered a cellular dance that may offer clues to the development of cancer, asthma, and other diseases.",
+      "published": "2026-08-14T15:00:00+00:00",
+      "fetched": "2026-08-14T18:37:24.130625+00:00"
+    },
+    {
+      "id": "3e9ade9450dd2fe3",
+      "title": "Discover the Ancient Roman Shorthand Writing System with 4,000 Symbols Commissioned by Cicero",
+      "link": "https://www.openculture.com/2026/08/discover-the-ancient-roman-shorthand-writing-system-with-4000-symbols-commissioned-by-cicero.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "You can still type a symbol originally invented for Cicero nearly 21 centuries ago — at least if you configure your keyboard properly. The character ⁊ appears in Unicode as U+204A, but is better known as the “Tironian et”: the “et” is Latin for “and,” and the “Tironian” comes from its creator, a man named [ ]",
+      "published": "2026-08-14T13:51:24+00:00",
+      "fetched": "2026-08-14T18:37:25.339145+00:00"
+    },
     {
       "id": "ae4428f3e67fe54b",
       "title": "High-speed microscopy reveals electrical activity across the brain",
