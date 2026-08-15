@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-15T06:16:18.522779+00:00",
+  "updated": "2026-08-15T12:12:12.471748+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4671e353121186e0",
+      "title": "‘I Turned a 112-Year-Old Indiana Schoolhouse into the Mansion of My Dreams’",
+      "link": "https://www.realtor.com/news/first-person/schoolhouse-indiana-history-renovation-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Before the massive renovation, Stacie Grissom lived in New York City, working in content and marketing for a pet product company.",
+      "published": "2026-08-15T11:55:00+00:00",
+      "fetched": "2026-08-15T12:12:12.471136+00:00"
+    },
+    {
+      "id": "a091d8059c460976",
+      "title": "Hurricane Ian Razed Fort Myers’ Historic Rainbow Beach Cottages—Now, They’re Being Rebuilt as Multimillion-Dollar Homes",
+      "link": "https://www.realtor.com/news/unique-homes/fort-myers-florida-rainbow-beach-cottages-hurricane-ian/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Category 5 hurricane destroyed the beloved structures—and finally, four years later, they are being restored, this time as luxury homes.",
+      "published": "2026-08-15T10:00:00+00:00",
+      "fetched": "2026-08-15T12:12:12.471181+00:00"
+    },
     {
       "id": "c3aa1c8c5f7b9b8f",
       "title": "MTV ‘The Challenge’ Champion Tyler Duckworth Found Dead in North Dakota Home",
@@ -1482,26 +1502,6 @@
       "summary": "A home is set at the right price, but it comes with a major catch: The owner just won't leave. So what comes next if you want to buy?",
       "published": "2026-08-05T20:18:48+00:00",
       "fetched": "2026-08-06T01:13:22.530307+00:00"
-    },
-    {
-      "id": "6c245309ae7b39d9",
-      "title": "The Natural Feature That Makes Some Neighborhoods 15 Degrees Cooler Than Others",
-      "link": "https://www.realtor.com/news/trends/trees-cooling-effect-neighborhood-nyc-study-nature-conservancy-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The nonprofit Nature Conservancy studied temperatures in every neighborhood across the city for five years and made a surprising discovery.",
-      "published": "2026-08-05T19:39:11+00:00",
-      "fetched": "2026-08-06T01:13:22.530334+00:00"
-    },
-    {
-      "id": "5aceda15e63c3b41",
-      "title": "HGTV Star Nicole Curtis Hits Back After She Was Sued by City of Detroit Over Abandoned House She Was Ordered To Renovate",
-      "link": "https://www.realtor.com/news/reality-tv/nicole-curtis-hgtv-rehab-addict-lawsuit-abandoned-house-detroit/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Curtis, 49, and her company, Detroit Renovations LLC, have been sued by the city of Detroit over failing to renovate a \"nuisance\" property.",
-      "published": "2026-08-05T18:42:38+00:00",
-      "fetched": "2026-08-05T19:08:33.537931+00:00"
     }
   ]
 }

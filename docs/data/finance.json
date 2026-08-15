@@ -1,8 +1,138 @@
 {
   "category": "finance",
-  "updated": "2026-08-15T06:16:12.981882+00:00",
+  "updated": "2026-08-15T12:12:08.221107+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "06dd73ed60ec7c99",
+      "title": "A decade of internal AI battles is finally catching up to Google",
+      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction.",
+      "published": "2026-08-15T12:00:00+00:00",
+      "fetched": "2026-08-15T12:12:07.280721+00:00"
+    },
+    {
+      "id": "8059f5ba95387962",
+      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
+      "published": "2026-08-15T12:00:00+00:00",
+      "fetched": "2026-08-15T12:12:07.280768+00:00"
+    },
+    {
+      "id": "57c2bf7030f57419",
+      "title": "I’m 63 and a retired CPA. I have a $1.2 million 401(k). Do I need a Roth conversion?",
+      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
+      "published": "2026-08-15T12:00:00+00:00",
+      "fetched": "2026-08-15T12:12:07.280802+00:00"
+    },
+    {
+      "id": "d94f911174ced599",
+      "title": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
+      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The “golden ratio” for portfolio construction — 60% stocks, 40% bonds — works again, but after a few tweaks,",
+      "published": "2026-08-15T11:30:00+00:00",
+      "fetched": "2026-08-15T12:12:07.280836+00:00"
+    },
+    {
+      "id": "7d7d3b28623fce78",
+      "title": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
+      "link": "https://www.marketwatch.com/story/the-hindenburg-omen-keeps-flashing-should-investors-worry-about-a-stock-market-crash-a4baf770?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Among the more popular indicators monitored by Wall Street’s technical strategists, the “Hindenburg Omen” definitely has the coolest name — and is among the more controversial.",
+      "published": "2026-08-15T11:00:00+00:00",
+      "fetched": "2026-08-15T12:12:07.280871+00:00"
+    },
+    {
+      "id": "760de094e1dd0995",
+      "title": "Top 10 Nigerian cities powering the startup boom in 2026",
+      "link": "https://nairametrics.com/2026/08/15/top-10-nigerian-cities-powering-the-startup-boom-in-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria climbed four places to 62nd globally in StartupBlink's Global Startup Ecosystem Index 2026, marking its highest ranking since 2022. The post Top 10 Nigerian cities powering the startup boom in 2026 appeared first on Nairametrics .",
+      "published": "2026-08-15T09:28:29+00:00",
+      "fetched": "2026-08-15T12:12:07.805723+00:00"
+    },
+    {
+      "id": "03e7f5734476a884",
+      "title": "Bonny Light nears $95 as Strait of Hormuz tensions keep oil markets on edge",
+      "link": "https://nairametrics.com/2026/08/15/bonny-light-nears-95-as-strait-of-hormuz-tensions-keep-oil-markets-on-edge/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The popular Nigerian crude contract, Bonny Light, approached the $95 per barrel mark amidst heightened market uncertainty driven by persistent geopolitical tensions, particularly in the Middle East and crucial global trade chokepoints such as the Strait of Hormuz. The post Bonny Light nears $95 as Strait of Hormuz tensions keep oil markets on edge appeared first on Nairametrics .",
+      "published": "2026-08-15T08:48:02+00:00",
+      "fetched": "2026-08-15T12:12:07.805779+00:00"
+    },
+    {
+      "id": "0577452c85a4482e",
+      "title": "PwC flags tax traps in Nigeria’s new virtual assets guidelines",
+      "link": "https://nairametrics.com/2026/08/15/pwc-flags-tax-traps-in-nigerias-new-virtual-assets-guidelines/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "PwC Nigeria has identified several areas of ambiguity in the Nigeria Revenue Service’s newly issued Guidelines on the Taxation of Virtual Assets, even as it urged tax payers to brace for the implementation. The post PwC flags tax traps in Nigeria’s new virtual assets guidelines appeared first on Nairametrics .",
+      "published": "2026-08-15T08:40:37+00:00",
+      "fetched": "2026-08-15T12:12:07.805834+00:00"
+    },
+    {
+      "id": "7bb2572f5fa3b361",
+      "title": "Banks shift N3.86 trillion into agriculture as oil and gas credit shrinks",
+      "link": "https://nairametrics.com/2026/08/15/banks-shift-n3-86-trillion-into-agriculture-as-oil-and-gas-credit-shrinks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Credit to Nigeria’s agriculture sector rose to N3.86 trillion in March 2026, even as lending to the oil and gas sector fell by N335 billion over the first three months of the year. This is according to the latest Quarterly Statistical Bulletin published by the Central Bank of Nigeria (CBN). The CBN data showed that [ ] The post Banks shift N3.86 trillion into agriculture as oil and gas credit shrinks appeared first on Nairametrics .",
+      "published": "2026-08-15T08:30:06+00:00",
+      "fetched": "2026-08-15T12:12:07.805897+00:00"
+    },
+    {
+      "id": "e8a9939f776af7af",
+      "title": "Lagos Island land prices soar, Ikoyi hits N2.5 million per sqm",
+      "link": "https://nairametrics.com/2026/08/15/lagos-island-land-prices-soar-ikoyi-hits-n2-5-million-per-sqm/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Lagos Island Residential Market Report 2026 by real estate company Lagos Realty, seen by Nairametrics, tracks residential rental prices, sales values and land costs across the market between 2022 and 2026. The post Lagos Island land prices soar, Ikoyi hits N2.5 million per sqm appeared first on Nairametrics .",
+      "published": "2026-08-15T07:55:07+00:00",
+      "fetched": "2026-08-15T12:12:07.805941+00:00"
+    },
+    {
+      "id": "b42001d92e3fca13",
+      "title": "Anthropic’s revenue surges 1,360% to $11.5 billion as IPO looms",
+      "link": "https://nairametrics.com/2026/08/15/anthropics-revenue-surges-1360-to-11-5-billion-as-ipo-looms/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Anthropic, the artificial intelligence startup behind the Claude chatbot, has reported a staggering 1,360% surge in quarterly revenue to more than $11.5 billion, highlighting the company’s rapid growth as it prepares for a potential public listing. The post Anthropic’s revenue surges 1,360% to $11.5 billion as IPO looms appeared first on Nairametrics .",
+      "published": "2026-08-15T07:37:48+00:00",
+      "fetched": "2026-08-15T12:12:07.805992+00:00"
+    },
+    {
+      "id": "556fedf202e44fb3",
+      "title": "Nigeria’s exports to China surge 80% to $2.3 billion in H1 2026",
+      "link": "https://nairametrics.com/2026/08/15/nigerias-exports-to-china-surge-80-to-2-3-billion-in-h1-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s exports to China surged by 80% to $2.3 billion in the first half of 2026, driven by China’s expanded zero-tariff policy for African countries and rising demand for Nigerian commodities. The post Nigeria’s exports to China surge 80% to $2.3 billion in H1 2026 appeared first on Nairametrics .",
+      "published": "2026-08-15T07:27:37+00:00",
+      "fetched": "2026-08-15T12:12:07.806038+00:00"
+    },
+    {
+      "id": "604b339547dd099b",
+      "title": "Top 10 investors still backing African startups despite funding slowdown",
+      "link": "https://nairametrics.com/2026/08/15/top-10-investors-still-backing-african-startups-despite-funding-slowdown/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa's startup ecosystem has experienced remarkable highs and challenging lows over the past seven years. The post Top 10 investors still backing African startups despite funding slowdown appeared first on Nairametrics .",
+      "published": "2026-08-15T06:53:37+00:00",
+      "fetched": "2026-08-15T12:12:07.806097+00:00"
+    },
     {
       "id": "3e249b871c2b69c9",
       "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
@@ -1372,136 +1502,6 @@
       "summary": "Chinese exporters are moving into halal food, cosmetics and fashion, but success in this vast market depends on something harder to manufacture than cheap goods: trust.",
       "published": "2026-08-12T18:28:00+00:00",
       "fetched": "2026-08-12T18:42:58.725780+00:00"
-    },
-    {
-      "id": "96d932f8c97b8f95",
-      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
-      "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Caps on student borrowing could also play into how America pays for college.",
-      "published": "2026-08-12T18:20:00+00:00",
-      "fetched": "2026-08-12T18:42:58.725820+00:00"
-    },
-    {
-      "id": "b28c446897df40ff",
-      "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
-      "link": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors are concerned that Alphabet faces a fresh threat from Nvidia’s plans to help fund the AI buildout alongside major Wall Street players.",
-      "published": "2026-08-12T18:19:00+00:00",
-      "fetched": "2026-08-12T18:42:58.725861+00:00"
-    },
-    {
-      "id": "ed89bc9b15d744fe",
-      "title": "Wike closes Abuja Secretariat of dissolved committee on sale of FG houses",
-      "link": "https://nairametrics.com/2026/08/12/wike-closes-abuja-secretariat-of-dissolved-committee-on-sale-of-fg-houses/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Minister of the Federal Capital Territory (FCT), Nyesom Wike, has directed the closure of the Secretariat of the dissolved Ad-Hoc Committee on Sales of Federal Government Houses (SFGH) in the Federal Capital Territory. The post Wike closes Abuja Secretariat of dissolved committee on sale of FG houses appeared first on Nairametrics .",
-      "published": "2026-08-12T18:16:51+00:00",
-      "fetched": "2026-08-12T18:42:59.106874+00:00"
-    },
-    {
-      "id": "4fb0e6ef882133ca",
-      "title": "Chili’s has hopped on the chicken-sandwich bandwagon, and it’s driving big sales gains",
-      "link": "https://www.marketwatch.com/story/chilis-has-hopped-on-the-chicken-sandwich-bandwagon-and-its-driving-big-sales-gains-cfad9549?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The number of chicken sandwiches sold at Chili’s locations has increased 175% — and shares of its parent company are now trading at record highs.",
-      "published": "2026-08-12T18:04:00+00:00",
-      "fetched": "2026-08-12T18:42:58.725910+00:00"
-    },
-    {
-      "id": "5c85d677669d344e",
-      "title": "SpaceX’s stock is getting a Grok-fueled boost",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The company is best known for rocket launches but has big revenue goals for its AI business.",
-      "published": "2026-08-12T17:26:00+00:00",
-      "fetched": "2026-08-12T18:42:58.725946+00:00"
-    },
-    {
-      "id": "1670e803fe9ab186",
-      "title": "NITDA warns WordPress users over vulnerability that could give attackers website control",
-      "link": "https://nairametrics.com/2026/08/12/nitda-warns-wordpress-users-over-vulnerability-that-could-give-attackers-website-control/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s National Information Technology Development Agency (NITDA) has warned WordPress users and administrators about a pre-authentication vulnerability that could allow attackers to execute malicious PHP code on affected websites. The post NITDA warns WordPress users over vulnerability that could give attackers website control appeared first on Nairametrics .",
-      "published": "2026-08-12T17:21:04+00:00",
-      "fetched": "2026-08-12T18:42:59.106940+00:00"
-    },
-    {
-      "id": "ea87820366d55955",
-      "title": "CBN relaxes discount window restrictions for FX, government securities",
-      "link": "https://nairametrics.com/2026/08/12/cbn-relaxes-discount-window-restrictions-for-fx-government-securities/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) has removed restrictions that prevented financial institutions participating in the Nigerian Foreign Exchange Market (NFEM) and primary auctions of government securities from accessing its Discount Window. The post CBN relaxes discount window restrictions for FX, government securities appeared first on Nairametrics .",
-      "published": "2026-08-12T16:58:23+00:00",
-      "fetched": "2026-08-12T18:42:59.106983+00:00"
-    },
-    {
-      "id": "0ff517728786badc",
-      "title": "Vodacom appoints former Airtel Africa CEO Segun Ogunsanya to board",
-      "link": "https://nairametrics.com/2026/08/12/vodacom-appoints-former-airtel-africa-ceo-segun-ogunsanya-to-board/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Former Airtel Africa Group Chief Executive Officer Segun Ogunsanya has been appointed as an independent non-executive director of Vodacom Group. The post Vodacom appoints former Airtel Africa CEO Segun Ogunsanya to board appeared first on Nairametrics .",
-      "published": "2026-08-12T16:48:37+00:00",
-      "fetched": "2026-08-12T18:42:59.107017+00:00"
-    },
-    {
-      "id": "24def155ea008a13",
-      "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
-      "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Social Security’s cost-of-living adjustment could be as much as 3.6% in 2027.",
-      "published": "2026-08-12T16:45:00+00:00",
-      "fetched": "2026-08-12T18:42:58.725973+00:00"
-    },
-    {
-      "id": "a593ad3f973f914e",
-      "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
-      "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
-      "published": "2026-08-12T16:44:00+00:00",
-      "fetched": "2026-08-12T18:42:58.726003+00:00"
-    },
-    {
-      "id": "42f288235c92c2bd",
-      "title": "NGX woos Hong Kong investors, pushes Chinese firms for dual listings",
-      "link": "https://nairametrics.com/2026/08/12/ngx-woos-hong-kong-investors-pushes-chinese-firms-for-dual-listings/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Exchange Group (NGX Group) has intensified efforts to attract Hong Kong investors into Nigeria while encouraging Chinese companies with significant operations in the country to consider dual listings on the Nigerian Exchange. The post NGX woos Hong Kong investors, pushes Chinese firms for dual listings appeared first on Nairametrics .",
-      "published": "2026-08-12T16:26:15+00:00",
-      "fetched": "2026-08-12T18:42:59.107056+00:00"
-    },
-    {
-      "id": "3aa32a1362a15444",
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
-      "published": "2026-08-12T16:00:00+00:00",
-      "fetched": "2026-08-12T18:42:58.726028+00:00"
-    },
-    {
-      "id": "3b25f3ead8e556e8",
-      "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
-      "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The signs are all around that Wall Street is back in that dangerous atmosphere of giddy euphoria that those with long memories will remember from the infamous dot-com bubble of the late 1990s.",
-      "published": "2026-08-12T16:00:00+00:00",
-      "fetched": "2026-08-12T18:42:58.726058+00:00"
     }
   ]
 }
