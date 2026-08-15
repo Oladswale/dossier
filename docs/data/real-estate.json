@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-15T12:12:12.471748+00:00",
+  "updated": "2026-08-15T18:09:23.145657+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f048ba1d8e66e714",
+      "title": "Tiny Cape Cod Cottage That Spans Less Than 800 Square Feet Is Listed for a Huge Price",
+      "link": "https://www.realtor.com/news/unique-homes/cape-cod-tiny-cottage-provincetown-huge-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Located in the sought-after community of Provincetown, the petite property offers an alluring opportunity for a savvy buyer.",
+      "published": "2026-08-15T15:15:00+00:00",
+      "fetched": "2026-08-15T18:09:23.144928+00:00"
+    },
+    {
+      "id": "8570d2cb747ee8c0",
+      "title": "Tennessee Winery That Looks Like It Was Plucked Out of Napa Offers a Slice of California Life for a Fraction of the Price",
+      "link": "https://www.realtor.com/news/unique-homes/tennessee-winery-vineyard-napa-tuscany-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Known as Villa Nove, the property offers nearly 34 acres of land, including 8 acres of income-producing vineyards.",
+      "published": "2026-08-15T13:02:00+00:00",
+      "fetched": "2026-08-15T18:09:23.144967+00:00"
+    },
+    {
+      "id": "c32af04206016380",
+      "title": "Alabama’s ‘Magic City’ Emerges as Hottest Market for Investor Homebuyers",
+      "link": "https://www.realtor.com/news/trends/hottest-markets-for-investor-homebuyers-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Investors are buying big in areas like Birmingham, AL, and Memphis, TN,—and holding on to properties.",
+      "published": "2026-08-15T12:29:00+00:00",
+      "fetched": "2026-08-15T18:09:23.144999+00:00"
+    },
     {
       "id": "4671e353121186e0",
       "title": "‘I Turned a 112-Year-Old Indiana Schoolhouse into the Mansion of My Dreams’",
@@ -1472,36 +1502,6 @@
       "summary": "The governor said in a statement the move could save Virginia ratepayers \"hundreds of millions of dollars.\"",
       "published": "2026-08-05T22:45:01+00:00",
       "fetched": "2026-08-06T01:13:22.530218+00:00"
-    },
-    {
-      "id": "64205b63415dc26f",
-      "title": "EXCLUSIVE: Hall & Oates Rocker John Oates Sells His Longtime Aspen Ranch for $7 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/john-oates-aspen-colorado-ranch-home-sold-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Oates, 78, purchased the stunning property with his wife, Aimee, in 1994—transforming it from bare land into a beautiful retreat.",
-      "published": "2026-08-05T21:55:05+00:00",
-      "fetched": "2026-08-06T01:13:22.530249+00:00"
-    },
-    {
-      "id": "fbf29bd102929bac",
-      "title": "The Home Health Blind Spot: In 12 States, Anyone Can Call Themselves an Inspector",
-      "link": "https://www.realtor.com/news/trends/home-inspector-licensing-requirements-by-state/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home inspectors play a vital role in the market. But nearly one-quarter of states set no minimum standards for their training or licensure.",
-      "published": "2026-08-05T21:14:36+00:00",
-      "fetched": "2026-08-06T01:13:22.530277+00:00"
-    },
-    {
-      "id": "73c418e4df96f742",
-      "title": "Homeowner Included: How To Buy a Home When the Owner Just Won’t Leave",
-      "link": "https://www.realtor.com/news/trends/homeowner-included-foreclosure-listing-how-to-buy/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A home is set at the right price, but it comes with a major catch: The owner just won't leave. So what comes next if you want to buy?",
-      "published": "2026-08-05T20:18:48+00:00",
-      "fetched": "2026-08-06T01:13:22.530307+00:00"
     }
   ]
 }
