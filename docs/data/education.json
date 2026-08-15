@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-14T18:37:25.339334+00:00",
-  "count": 123,
+  "updated": "2026-08-15T00:28:36.594916+00:00",
+  "count": 124,
   "items": [
+    {
+      "id": "ede86b222faaef4a",
+      "title": "Professor Emeritus Chiang Chung Mei, pioneering scholar of ocean wave dynamics and fluid mechanics, dies at 91",
+      "link": "https://news.mit.edu/2026/chiang-chung-mei-dies-0814",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A towering figure in theoretical hydrodynamics is remembered for his intellectual rigor, generosity, and lifelong devotion to his students.",
+      "published": "2026-08-14T20:55:00+00:00",
+      "fetched": "2026-08-15T00:28:35.206630+00:00"
+    },
     {
       "id": "d6c42ce7e49d8d82",
       "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
