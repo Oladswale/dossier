@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-16T12:12:52.017308+00:00",
+  "updated": "2026-08-16T18:09:58.813928+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b882e71f7a5a419e",
+      "title": "16-Acre Ultimate ‘Glamping’ House Tucked Between the Berkshires and Catskills Lists for $4.6 Million",
+      "link": "https://www.realtor.com/news/unique-homes/red-rock-house-east-chatham-new-york-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Red Rock House in East Chatham, NY, is a 'remarkable architectural compound' with a primary residence and guest apartment.",
+      "published": "2026-08-16T16:57:00+00:00",
+      "fetched": "2026-08-16T18:09:58.813325+00:00"
+    },
+    {
+      "id": "2fe62b522828cd70",
+      "title": "Outer Banks Beach Cottage That Has Been ‘Lifted Out of Flood Zone’ Is Listed for Under $350K",
+      "link": "https://www.realtor.com/news/unique-homes/outer-banks-cottage-beach-flood-zone-bargain-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property was raised up on stilts after Hurricane Matthew hit North Carolina in 2016, causing $4.8 billion in damage.",
+      "published": "2026-08-16T15:02:00+00:00",
+      "fetched": "2026-08-16T18:09:58.813355+00:00"
+    },
+    {
+      "id": "67952ce40741e1f9",
+      "title": "Miami’s Hottest New Luxury Neighborhood Banks on Walkability and Retail, Not Beaches",
+      "link": "https://www.realtor.com/news/trends/midtown-miami-standard-residences-carlos-rosso/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Thanks to elevation not found in the rest of Miami, Midtown is becoming the hot new neighborhood, anchored by luxury brands.",
+      "published": "2026-08-16T13:10:00+00:00",
+      "fetched": "2026-08-16T18:09:58.813376+00:00"
+    },
     {
       "id": "c67aa3f1adfb5113",
       "title": "How the Shotgun Home Went From Affordable Southern Staple to an Endangered Design Gem",
@@ -1472,36 +1502,6 @@
       "summary": "Trump, 48, and Guilfoyle, 57, purchased the property for $9.7 million in 2021, just a few months after they got engaged.",
       "published": "2026-08-06T13:45:48+00:00",
       "fetched": "2026-08-06T23:46:23.595755+00:00"
-    },
-    {
-      "id": "e6c7bcfb3f7a165e",
-      "title": "Vacation Rentals Are Officially on Sale: Where They’re Worth Buying",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-449",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Vacation rental markets were some of the biggest winners of the housing boom several years ago. But where are those real estate markets today? New data suggests that many [ ]",
-      "published": "2026-08-06T11:00:10+00:00",
-      "fetched": "2026-08-06T13:27:12.797255+00:00"
-    },
-    {
-      "id": "2d7109ed88802089",
-      "title": "Why British Homebuyers Are Quietly Flocking to This Affordable Heartland State",
-      "link": "https://www.realtor.com/news/trends/british-homebuyers-michigan-nar-report-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Driven by the auto industry and bargain lakefront living, the Great Lakes State has quietly become popular with U.K. homebuyers.",
-      "published": "2026-08-06T10:00:00+00:00",
-      "fetched": "2026-08-06T13:27:13.251690+00:00"
-    },
-    {
-      "id": "a11c1658a9579f26",
-      "title": "Inside ‘Chopped’ Champion and ‘Queen of Brunch’ Suzanne Vizethann’s Idyllic Maine Farmhouse—and Dream Kitchen Design",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/food-network-queen-brunch-suzanne-vizethann-perfect-kitchen-maine/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Vizethann, 43, and her husband bought their Maine farmhouse in 2023—then set about creating the perfect cooking space.",
-      "published": "2026-08-06T09:08:00+00:00",
-      "fetched": "2026-08-06T13:27:13.251723+00:00"
     }
   ]
 }
