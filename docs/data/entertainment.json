@@ -1,8 +1,38 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-16T00:28:57.412225+00:00",
+  "updated": "2026-08-16T06:17:25.534603+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "081ac0f17b1b6e8c",
+      "title": "Ranveer Singh, Kalyani Priyadarshan’s ‘Pralay,’ Produced by Ananya Birla and Hansal Mehta, Directed by Jai Mehta, Starts Filming",
+      "link": "https://variety.com/2026/film/news/ranveer-singh-kalyani-priyadarshan-pralay-mumbai-filming-1236835508/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ranveer Singh s Pralay, an end-of-the-world action thriller, has begun filming in Mumbai. The film is produced by Ananya Birla s Birla Studios, Hansal Mehta and Sahil Saigal s True Story Films and Singh s Maa Kasam Films. Singh, who headlines the project, also serves as a producer on the film, which is directed by Jai Mehta.",
+      "published": "2026-08-16T05:41:00+00:00",
+      "fetched": "2026-08-16T06:17:25.286087+00:00"
+    },
+    {
+      "id": "e7bbad7474298a86",
+      "title": "‘The Pitt,’ ‘Hacks’ and ‘Beef’ Among Astra TV Awards Winners",
+      "link": "https://variety.com/2026/awards/news/the-pitt-hacks-beef-astra-tv-awards-winners-1236835570/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Hacks, The Pitt and Beef were the big winners of the 2026 Astra TV Awards. The Pitt took home the most trophies of the night with six. Those include for best drama series, streaming drama ensemble, actor in a drama series for Noah Wyle, supporting actor in a drama series for Patrick Ball, supporting actress [ ]",
+      "published": "2026-08-16T05:00:00+00:00",
+      "fetched": "2026-08-16T06:17:25.286140+00:00"
+    },
+    {
+      "id": "746aef407215d6f8",
+      "title": "‘Monsters, Inc.’ Themed Land Will Open at Disney World in 2027",
+      "link": "https://variety.com/2026/film/news/monsters-inc-themed-land-will-disney-world-2027-1236834775/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "THe Monsters, Inc. themed land, Monstropolis is set to open at Disney s Hollywood Studios at Disney World in 2027. The news was announced Saturday at D23.",
+      "published": "2026-08-16T04:11:12+00:00",
+      "fetched": "2026-08-16T06:17:25.286197+00:00"
+    },
     {
       "id": "f021236f939cbd70",
       "title": "‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+",
@@ -1472,36 +1502,6 @@
       "summary": "“Heated Rivalry” actor Dylan Walsh has found himself on thin ice after revealing details about upcoming episodes in a video clip that has gone viral. Walsh, who plays David Hollander on the hit hockey romance, recently paused his account on the celebrity video app Cameo after he got “in trouble” in his words [ ]",
       "published": "2026-08-13T11:44:54+00:00",
       "fetched": "2026-08-13T12:38:32.872522+00:00"
-    },
-    {
-      "id": "b85f757d43e751d1",
-      "title": "The Cure Plays the Hits — and Robert Smith Tears Up at ‘Just Like Heaven’ — in Nostalgic, Whimsical Øyafestivalen Set: Concert Review",
-      "link": "https://variety.com/2026/music/global/the-cure-robert-smith-tears-up-oya-fest-review-1236833592/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "For the first five minutes of the Cure s headlining set at Øyafestivalen in Oslo, Norway, Robert Smith stared out at the packed crowd and smiled. As the band played the long, atmospheric introduction to Alone — the opening track of their great 2024 album Songs of a Lost World — Smith stood there positively beaming, [ ]",
-      "published": "2026-08-13T10:42:38+00:00",
-      "fetched": "2026-08-13T12:38:32.872573+00:00"
-    },
-    {
-      "id": "0bca8c0a470b4c29",
-      "title": "‘Warrior Cats’ Animated Series Debuts First Footage, Character Model at Tencent Video Event",
-      "link": "https://variety.com/2026/tv/news/warrior-cats-animated-series-first-footage-character-model-tencent-video-1236833612/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tencent Video pulled back the curtain on its Warrior Cats animated series, showing fans early animation and character artwork for the first time at a fan meeting held in Shenzhen. Series director Rodrigo Blaas appeared alongside Zhou Wang, head of Randong Studio Group and vice president of content production at Tencent Video, offering fans a [ ]",
-      "published": "2026-08-13T10:32:18+00:00",
-      "fetched": "2026-08-13T12:38:32.872618+00:00"
-    },
-    {
-      "id": "41f807444d44e5d0",
-      "title": "‘Othello’ Royal Shakespeare Company Adaptation Starring Sharon D. Clarke Postponed as She Undergoes Cancer Treatment",
-      "link": "https://variety.com/2026/theater/news/sharon-d-clarke-othello-postponed-cancer-treatment-1236833617/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Royal Shakespeare Company has postponed its production of Othello, with Sharon D. Clarke set to play the title role, so the actor can undergo treatment for cancer. The show had been scheduled to run Feb.",
-      "published": "2026-08-13T10:16:15+00:00",
-      "fetched": "2026-08-13T12:38:32.872663+00:00"
     }
   ]
 }
