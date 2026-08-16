@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-15T18:09:23.145657+00:00",
+  "updated": "2026-08-16T00:28:59.947753+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8fae49dd691f3ebe",
+      "title": "From Michelin-Starred Chefs to Private Dining: The New Status Symbol Taking Over Luxury Real Estate",
+      "link": "https://www.realtor.com/news/trends/michelin-starred-chefs-private-dining-luxury-real-estate-status-symbol/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Luxury real estate has entered a new amenities arms race—and this time, it has very little to do with sprawling spas or fitness centers.",
+      "published": "2026-08-15T18:59:00+00:00",
+      "fetched": "2026-08-16T00:28:59.947073+00:00"
+    },
     {
       "id": "f048ba1d8e66e714",
       "title": "Tiny Cape Cod Cottage That Spans Less Than 800 Square Feet Is Listed for a Huge Price",
@@ -1492,16 +1502,6 @@
       "summary": "Scott, 49, purchased the property for just $3.95 million in 2004—and has since poured a fortune into renovating it.",
       "published": "2026-08-06T00:00:00+00:00",
       "fetched": "2026-08-06T01:13:22.530182+00:00"
-    },
-    {
-      "id": "d7c1f58cc863bfb6",
-      "title": "Virginia Orders Data Centers To Pay for Dedicated New Electric Infrastructure",
-      "link": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The governor said in a statement the move could save Virginia ratepayers \"hundreds of millions of dollars.\"",
-      "published": "2026-08-05T22:45:01+00:00",
-      "fetched": "2026-08-06T01:13:22.530218+00:00"
     }
   ]
 }
