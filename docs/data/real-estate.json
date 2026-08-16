@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-16T06:17:27.567640+00:00",
+  "updated": "2026-08-16T12:12:52.017308+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c67aa3f1adfb5113",
+      "title": "How the Shotgun Home Went From Affordable Southern Staple to an Endangered Design Gem",
+      "link": "https://www.realtor.com/news/unique-homes/shotgun-house-history-appeal-affordable-south/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "What once began as an accessible option for working families has evolved into a celebrated piece of architectural history.",
+      "published": "2026-08-16T11:59:00+00:00",
+      "fetched": "2026-08-16T12:12:52.016615+00:00"
+    },
     {
       "id": "8fae49dd691f3ebe",
       "title": "From Michelin-Starred Chefs to Private Dining: The New Status Symbol Taking Over Luxury Real Estate",
@@ -1492,16 +1502,6 @@
       "summary": "Vizethann, 43, and her husband bought their Maine farmhouse in 2023—then set about creating the perfect cooking space.",
       "published": "2026-08-06T09:08:00+00:00",
       "fetched": "2026-08-06T13:27:13.251723+00:00"
-    },
-    {
-      "id": "4def8e9dbd61af62",
-      "title": "EXCLUSIVE: ‘American Pie’ Star Seann William Scott Lists His ‘Magical’ Malibu Park Estate for $17.5 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/seann-william-scott-american-pie-malibu-estate-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Scott, 49, purchased the property for just $3.95 million in 2004—and has since poured a fortune into renovating it.",
-      "published": "2026-08-06T00:00:00+00:00",
-      "fetched": "2026-08-06T01:13:22.530182+00:00"
     }
   ]
 }
