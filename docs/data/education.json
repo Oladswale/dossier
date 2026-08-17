@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-17T12:16:28.652429+00:00",
-  "count": 127,
+  "updated": "2026-08-17T18:18:51.213618+00:00",
+  "count": 128,
   "items": [
+    {
+      "id": "027c12118042b4c3",
+      "title": "MIT engineers connect bacteria to create living transistors",
+      "link": "https://news.mit.edu/2026/mit-engineers-connect-bacteria-to-create-living-transistors-0817",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By wiring together colonies of these bacteria, the researchers built circuits that can perform complicated calculations.",
+      "published": "2026-08-17T18:00:00+00:00",
+      "fetched": "2026-08-17T18:18:49.938199+00:00"
+    },
     {
       "id": "34f9bec2940b1dfe",
       "title": "The Genius of Airplane!: How to Make a Comedy by Playing Everything Completely Straight",

@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-17T12:16:27.021769+00:00",
+  "updated": "2026-08-17T18:18:49.631904+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c28ca89bb70dc86c",
+      "title": "King Gizzard and the Lizard Wizard’s Field of Vision Festival",
+      "link": "https://www.rollingstone.com/music/music-pictures/field-of-vision-festival-king-gizzard-and-the-lizard-wizard-photos-1235609854/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The second iteration of King Gizzard and the Lizard Wizard’s Field of Vision festival took place this weekend at Meadow Creek in Buena Vista, Colorado. Each night of the festival featured a three-hour, marathon headlining set by Gizz — and also included a curated lineup of friends and collaborators from across the world, among them [ ]",
+      "published": "2026-08-17T18:17:49+00:00",
+      "fetched": "2026-08-17T18:18:49.480834+00:00"
+    },
+    {
+      "id": "e1a9bcc7362c246d",
+      "title": "Hayden Panettiere’s ‘Nashville’ Character Helped Expose Country Music’s Dark Side",
+      "link": "https://www.rollingstone.com/music/music-features/hayden-panettiere-nashville-juliette-barnes-metoo-1235610060/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "As Juliette Barnes, Panettiere brought some of the industry's worst-kept secrets to the forefront and influenced a generation of female artists to no longer stay silent",
+      "published": "2026-08-17T18:14:46+00:00",
+      "fetched": "2026-08-17T18:18:49.480876+00:00"
+    },
+    {
+      "id": "de40c7bb853b3ca2",
+      "title": "Taylor Swift Praises Phoebe Bridgers’ New Album ‘Lost Weekend,’ Calls It an ‘Absolute Triumph in Every Way’",
+      "link": "https://variety.com/2026/music/news/taylor-swift-praises-phoebe-bridgers-lost-weekend-triumph-1236836547/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift has spoken out about her love of Phoebe Bridgers new album Lost Weekend, praising the singer-songwriter for her absolute triumph of a record. Swift, who previously featured Bridgers on her 2021 song Nothing New, took to Instagram Stories to congratulate her on her latest project. It s her birthday but she gave us a [ ]",
+      "published": "2026-08-17T18:14:36+00:00",
+      "fetched": "2026-08-17T18:18:48.262639+00:00"
+    },
+    {
+      "id": "ce7dddf236068868",
+      "title": "Tupac Shakur Murder Trial Opens 30 Years After Rapper’s Death: ‘An Act of Revenge’",
+      "link": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-suge-knight-1235609806/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Jurors will decide whether Duane \"Keffe D\" Davis played a role in the deadly drive-by shooting that killed Tupac Shakur in September 1996",
+      "published": "2026-08-17T18:07:38+00:00",
+      "fetched": "2026-08-17T18:18:49.480909+00:00"
+    },
+    {
+      "id": "b59bdfb9e7cd5000",
+      "title": "‘10 Things I Hate About You’ Gets Broadway Release Date With Lena Dunham, Carly Rae Jepsen",
+      "link": "https://www.rollingstone.com/culture/culture-news/10-things-i-hate-broadway-musical-lena-dunham-carly-rae-jepsen-1235610075/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The musical is set to open on Broadway in exactly one year — but casting remains a mystery",
+      "published": "2026-08-17T17:55:54+00:00",
+      "fetched": "2026-08-17T18:18:49.480942+00:00"
+    },
+    {
+      "id": "f06599bfc883541a",
+      "title": "Øya Festival 2026: The 10 Best Sets We Saw, From the Cure to Geese to Lily Allen",
+      "link": "https://variety.com/lists/oyafestivalen-2026-best-sets-the-cure-geese-lily-allen/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Not many festival lineups are as stacked — and sonically diverse — as Øyafestivalen in Oslo, Norway. Over four days at Tøyen Park in the center of the city, there was truly something for everyone. Goth romantics young and old gathered for the Cure s two-and-a-half hour headlining set on Wednesday; indie lovers got a double [ ]",
+      "published": "2026-08-17T17:55:02+00:00",
+      "fetched": "2026-08-17T18:18:48.262701+00:00"
+    },
+    {
+      "id": "69f98d9d3dddf7ee",
+      "title": "Instagram Head of Product Design Explains Thinking Behind That New Logo and Responds to Critics: ‘It’s Important for Us to Embrace the Future’",
+      "link": "https://variety.com/2026/digital/news/instagram-designer-explains-new-logo-responds-to-critics-1236836340/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Instagram rolled out a new logo last week which instantly drew jeers from some users. One of the top criticisms was that the cursive-style s in the updated wordmark confusingly looks like a z, leading to a flood of jokes about the new Instagzam. Instagram director of product design Jasmine Probst, who was one [ ]",
+      "published": "2026-08-17T17:47:18+00:00",
+      "fetched": "2026-08-17T18:18:48.262754+00:00"
+    },
+    {
+      "id": "7c941f75f76dbd48",
+      "title": "Trump Has Opened the Door for Putin to Make a Move on NATO",
+      "link": "https://www.rollingstone.com/politics/politics-features/trump-opened-door-putin-move-nato-1235610069/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The alliance that has kept Russia at bay for nearly 75 years is starting to crack, and the U.S. may be hastening its dissolution",
+      "published": "2026-08-17T17:30:00+00:00",
+      "fetched": "2026-08-17T18:18:49.480972+00:00"
+    },
+    {
+      "id": "bd4a1f908392b166",
+      "title": "‘Kitchen Confidential’ Returns to Bestseller Lists Following Anthony Bourdain Biopic",
+      "link": "https://variety.com/2026/shopping/news/kitchen-confidential-bestseller-lists-anthony-bourdain-1236836464/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "More than 25 years after Anthony Bourdain first pulled back the curtain on restaurant kitchens, readers are going back for seconds. Bourdain s seminal 2000 memoir, Kitchen Confidential: Adventures in the Culinary Underbelly, has returned to bestseller charts following the theatrical release of Tony, A24 s new biographical drama about his formative years. The book is also [ ]",
+      "published": "2026-08-17T17:20:01+00:00",
+      "fetched": "2026-08-17T18:18:48.262802+00:00"
+    },
+    {
+      "id": "7e1daf9a4d349342",
+      "title": "‘A Court of Thorns and Roses’ Books 6 and 7 Titles and Covers Revealed by Fantasy Author Sarah J Maas",
+      "link": "https://variety.com/2026/tv/news/court-of-thorns-and-roses-book-6-7-title-covers-sarah-j-maas-1236836384/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The titles for the sixth and seventh A Court of Thorns and Roses books have been revealed by best-selling fantasy author Sarah J. Maas. The two upcoming installments are the latest books in Maas best-selling fantasy series following the stories of sisters Feyre, Nesta and Elain Archeron and their time in the faerie realm of [ ]",
+      "published": "2026-08-17T17:13:33+00:00",
+      "fetched": "2026-08-17T18:18:48.262849+00:00"
+    },
+    {
+      "id": "73c84e2a907c6dbf",
+      "title": "Nick Reiner Trust Hearing Postponed to October as Lawyers Push for Speedy Access to Funds",
+      "link": "https://variety.com/2026/film/news/nick-reiner-trust-hearing-postponed-1236836408/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Nick Reiner s attorney pushed on Monday for speedy access to trust funds to pay for his criminal defense in the killings of his parents, Rob and Michele Reiner. Reiner, who is being held without bail in Los Angeles County jail, is trying to access $1.5 million in trust assets so that he can rehire his [ ]",
+      "published": "2026-08-17T17:07:06+00:00",
+      "fetched": "2026-08-17T18:18:48.262891+00:00"
+    },
+    {
+      "id": "d51a89b9fc7fefd1",
+      "title": "The U.S Open Is Near: Here’s How to Buy Affordable Tickets to the Tennis Tournament Online",
+      "link": "https://variety.com/2026/shopping/news/us-open-buy-tickets-online-1236097126/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The U.S. Open is nearly back in Queens, bringing two weeks of celebrity-packed stands and Honey Deuces to Flushing Meadows. The 2026 U.S.",
+      "published": "2026-08-17T17:02:59+00:00",
+      "fetched": "2026-08-17T18:18:48.262937+00:00"
+    },
+    {
+      "id": "50ea4d8f763dcd83",
+      "title": "FX’s ‘Love Story’ Cast Celebrates Emmy-Nominated Series at Intimate Tastemaker Dinner and Share How They ‘Brought a Level of Complexity to Their Characters’",
+      "link": "https://variety.com/2026/tv/news/fx-love-story-photo-gallery-cast-1236834087/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It’s hard to imagine, but FX’s “Love Story: John F. Kennedy Jr. and Carolyn Bessette” almost didn’t happen.",
+      "published": "2026-08-17T17:02:26+00:00",
+      "fetched": "2026-08-17T18:18:48.262995+00:00"
+    },
+    {
+      "id": "d1e57aa9060b20cd",
+      "title": "The Best Home Theater Furniture and Seating to Shop in 2026",
+      "link": "https://variety.com/2026/shopping/news/home-theater-furniture-seating-buy-shop-online-1236833951/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When you think of setting up a home theater, certain pieces come to mind: The 4K TV, your speakers, a high-end 4K Blu-ray player and a turntable for when you want to give your eyes a break and listen to music. But about your couch? Or the media console your TV, game consoles and other [ ]",
+      "published": "2026-08-17T17:00:52+00:00",
+      "fetched": "2026-08-17T18:18:48.263036+00:00"
+    },
+    {
+      "id": "b5f0312a173417ed",
+      "title": "ABC Unveils New Twist for Live-Streamed News: Shows That Respond to Viewer Queries, Needs",
+      "link": "https://variety.com/2026/tv/news/abc-news-twist-live-stream-tv-news-gio-benitez-1236836209/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On a new show from ABC News, anchors Gio Benitez and Ashan Singh help viewers fill rabbit holes before getting stuck in them. During a recent live-stream of “Searched, “a relatively new entry to the schedule of ABC News Live, Benitez, clad in bright white sneakers and a short sleeve shirt, offered followers different angles [ ]",
+      "published": "2026-08-17T17:00:00+00:00",
+      "fetched": "2026-08-17T18:18:48.263083+00:00"
+    },
+    {
+      "id": "f0e4ac40f136df3e",
+      "title": "Watch Al Jardine Sing the Beach Boys Deep Cut ‘Back Home’ for First Time in 49 Years",
+      "link": "https://www.rollingstone.com/music/music-news/al-jardine-performs-beach-boys-deep-cut-back-home-1235609947/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The obscure song was written in 1963 for the Surfer Girl album, revisited twice in 1970 during the Sunflower sessions, and not released until 1976 on 15 Big Ones",
+      "published": "2026-08-17T16:39:13+00:00",
+      "fetched": "2026-08-17T18:18:49.481009+00:00"
+    },
+    {
+      "id": "ebe71e911939baba",
+      "title": "Ritchie Blackmore on His Deep Purple Reunion: ‘It Could be the Last Time We See Each Other’",
+      "link": "https://www.rollingstone.com/music/music-news/ritchie-blackmore-deep-purple-reunion-last-time-1235609998/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"I was there to see old friends. I hadn’t seen [them] in 40 years and we're all getting older,\" Blackmore told Guitar Player about his one-off rendition of \"Smoke on the Water\" in Long Island",
+      "published": "2026-08-17T16:38:31+00:00",
+      "fetched": "2026-08-17T18:18:49.481050+00:00"
+    },
+    {
+      "id": "023954ed4acbd173",
+      "title": "Trump Scales Back Military Exercises to Please Kim Jong Un",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-scales-back-military-exercises-kim-jong-un-1235609985/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president ordered a last-minute downgrade of the annual joint military training drills between South Korea and the U.S.",
+      "published": "2026-08-17T15:51:05+00:00",
+      "fetched": "2026-08-17T18:18:49.481078+00:00"
+    },
+    {
+      "id": "27c9e842b5214efc",
+      "title": "Ellie Goulding Sues Ex-Management Company Over Live Nation Ties",
+      "link": "https://www.rollingstone.com/music/music-news/ellie-goulding-sues-tap-management-live-nation-1235601089/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The English pop star says her team at TaP Management pushed her to work with Live Nation, but never disclosed that the company owned TaP",
+      "published": "2026-08-17T15:43:53+00:00",
+      "fetched": "2026-08-17T18:18:49.481106+00:00"
+    },
+    {
+      "id": "dcbc42a42cb8facb",
+      "title": "Brandon Flowers Daydreamed About Quitting Music. He Made a Country Album Instead",
+      "link": "https://www.rollingstone.com/music/music-features/brandon-flowers-the-killers-quitting-music-country-album-1235607951/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“When people heard that I was possibly dipping my toes into country … they thought I was going to write Morgan Wallen songs or something like that,” says Flowers, who drops Thrasher on Aug. 21",
+      "published": "2026-08-17T15:32:25+00:00",
+      "fetched": "2026-08-17T18:18:49.481144+00:00"
+    },
     {
       "id": "62918172a20ac4cc",
       "title": "Iranian Director Ali Asgari Unveils First Clip From Venice-Bound ‘A Bit of Light’: ‘This Trump Guy Is Threatening to Bomb Here Every Day’ (EXCLUSIVE)",
@@ -1302,206 +1502,6 @@
       "summary": "Two legacy DC comics characters get to play green and gritty in HBO’s buddy-cop TV procedural that’s still heavy on the IP",
       "published": "2026-08-14T16:00:00+00:00",
       "fetched": "2026-08-14T18:37:23.700773+00:00"
-    },
-    {
-      "id": "01293bb3414bc8e0",
-      "title": "San Sebastian Adds Jesse Eisenberg, Fred Cavayé, Amanda Kernell Films to Golden Shell Race",
-      "link": "https://variety.com/2026/film/markets-festivals/san-sebastian-jesse-eisenberg-fred-cavaye-amanda-kernell-1236834484/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The San Sebastián Film Festival has added six films to its 2026 Official Selection, including new works from Jesse Eisenberg, Fred Cavayé, Amanda Kernell and Gabriel Martins, alongside feature debuts from Ah Biao and Tony Vahl. The titles join 10 previously announced contenders and will compete for the Golden Shell at the festival’s 74th edition. [ ]",
-      "published": "2026-08-14T11:14:29+00:00",
-      "fetched": "2026-08-14T12:34:29.768625+00:00"
-    },
-    {
-      "id": "19273affc50d82e1",
-      "title": "Golden Lion Winner Milcho Manchevski Talks ‘Giving a Voice’ to Pulse Nightclub Survivors With ‘Good People’: ‘Our Job Was to Stay Out of the Way’",
-      "link": "https://variety.com/2026/film/global/golden-lion-winner-milcho-manchevski-good-people-sarajevo-1236831946/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It took over three decades for Macedonian filmmaker Milcho Manchevski — whose debut feature “Before the Rain” won the top award in Venice in 1994 and was Oscar nominated — to direct his first documentary. But when he first heard about the nightclub fire that took dozens of lives in North Macedonia in 2025, he [ ]",
-      "published": "2026-08-14T11:01:19+00:00",
-      "fetched": "2026-08-14T12:34:29.768688+00:00"
-    },
-    {
-      "id": "d4a2ea5aa278fed9",
-      "title": "‘The Devil Wears Prada 2’ Is Drawing Tourists to Milan Prompting an 18% Increase in Visitors to the Film’s Locations in Italy’s Fashion Capital",
-      "link": "https://variety.com/2026/film/global/the-devil-wears-prada-2-tourists-milan-italy-fashion-1236833591/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“The Devil Wears Prada 2” is making a heavenly impact on Milan. Just a few months after the theatrical release in May of the long-awaited sequel to “The Devil Wears Prada” – that was partly shot in Italy’s fashion capital that serves as a glitzy backdrop for the film’s third act – pedestrian traffic from [ ]",
-      "published": "2026-08-14T10:00:00+00:00",
-      "fetched": "2026-08-14T12:34:29.768739+00:00"
-    },
-    {
-      "id": "7d85e8ea90fedc41",
-      "title": "Nigel Farage Documentary ‘Where Does the Money Come From?’ Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe",
-      "link": "https://variety.com/2026/tv/news/nigel-farage-documentary-5-standards-probe-1236834471/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "ITN Productions has set Nigel Farage: Where Does the Money Come From?, a one-hour documentary examining the Reform U.K. leader s finances, to air on 5, part of the Paramount Skydance Corporation, on Aug. 22.",
-      "published": "2026-08-14T09:21:47+00:00",
-      "fetched": "2026-08-14T12:34:29.768805+00:00"
-    },
-    {
-      "id": "ca3484f92d760a67",
-      "title": "TV Academy Hall of Fame: Sheila Nevins, Absent Due to COVID, Thanks Dr. Fauci for the Vaccine; Bill Hader Pays Tribute to the ‘South Park’ Creators With a ‘Fish Dick’ Story and More",
-      "link": "https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Documentary icon Sheila Nevins — who holds the all-time record for most Emmy wins by an individual (31), thanks to her long run as president of HBO Documentary Films — had to skip Thursday night’s Television Academy Hall of Fame event, after being diagnosed with COVID and pneumonia. Instead, Nevins sent her acceptance speech via [ ]",
-      "published": "2026-08-14T08:16:11+00:00",
-      "fetched": "2026-08-14T12:34:29.768858+00:00"
-    },
-    {
-      "id": "d3f054614a8debd0",
-      "title": "‘You Don’t Belong Here’ Review: A Potentially Involving Story Is Weakened by Airless Dialogue and a Misguided Finale",
-      "link": "https://variety.com/2026/film/reviews/you-dont-belong-here-review-1236834459/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Florin Şerban’s “You Don’t Belong Here” opens with great promise and finishes with a stupefyingly misguided coda: The lengthy minutes in between are rigorously filmed and sharply observed, but would have benefited enormously if the director wasn’t also the producer, writer and editor. Airless pauses between nearly every line of dialogue and a mostly fixed [ ]",
-      "published": "2026-08-14T08:12:38+00:00",
-      "fetched": "2026-08-14T12:34:29.768908+00:00"
-    },
-    {
-      "id": "0938baeac4d56b1b",
-      "title": "Katseye Bring the Party in Vibrant ‘Hootie Frutti’ Music Video",
-      "link": "https://www.rollingstone.com/music/music-news/katseye-hootie-frutti-music-video-1235608358/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The girl group's new five-song EP, Wild , is out now",
-      "published": "2026-08-14T08:10:34+00:00",
-      "fetched": "2026-08-14T12:34:29.965967+00:00"
-    },
-    {
-      "id": "290480be6ea45225",
-      "title": "Watch Keanu Reeves’ Dogstar Perform ‘Joy’ on ‘Fallon’",
-      "link": "https://www.rollingstone.com/music/music-news/keanu-reeves-dogstar-joy-performance-fallon-1235608355/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The reunited rock band released their fourth album, All in Now , earlier this year",
-      "published": "2026-08-14T07:43:11+00:00",
-      "fetched": "2026-08-14T12:34:29.966001+00:00"
-    },
-    {
-      "id": "12a4d55aeee17142",
-      "title": "Fukada Koji, Jakrawal Nilthamrong, Boo Junfeng Films Win Busan Co-Production Fund",
-      "link": "https://variety.com/2026/film/markets-festivals/fukada-koji-jakrawal-nilthamrong-boo-junfeng-busan-fund-1236834448/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Busan International Film Festival s Asian Cinema Fund (ACF) has selected three international co-productions for its 2026 Co-Production Support Fund, backing films from directors Fukada Koji, Jakrawal Nilthamrong and Boo Junfeng with a combined KRW140 million ($100,000) in production funding. The three projects – Grateful, Rhizome and Trinity – were chosen from 15 submissions following [ ]",
-      "published": "2026-08-14T07:38:46+00:00",
-      "fetched": "2026-08-14T12:34:29.768959+00:00"
-    },
-    {
-      "id": "24abc7734d8187b8",
-      "title": "Orville Peck Resists Rebab on Rowdy Single ‘Already Gone’",
-      "link": "https://www.rollingstone.com/music/music-news/orville-peck-already-gone-single-music-video-1235608348/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The track is the third listen off the country singer's forthcoming album, Mule",
-      "published": "2026-08-14T07:16:47+00:00",
-      "fetched": "2026-08-14T12:34:29.966026+00:00"
-    },
-    {
-      "id": "20b36aa02b8a9a62",
-      "title": "Rani Mukerji Receives La Trobe Honorary Doctorate, Wins IFFM Special Citation",
-      "link": "https://variety.com/2026/film/news/rani-mukerji-la-trobe-honorary-doctorate-iffm-citation-1236834439/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Bollywood star Rani Mukerji has been awarded an Honorary Doctor of Letters by Australia s La Trobe University for three decades of work in Indian cinema and her contributions off screen, the university said. She is the second Indian film figure to receive the distinction, after superstar Shah Rukh Khan s honor in 2019. Receiving this honorary [ ]",
-      "published": "2026-08-14T07:16:25+00:00",
-      "fetched": "2026-08-14T12:34:29.769004+00:00"
-    },
-    {
-      "id": "a0afdb6643114f2c",
-      "title": "COL AI Studios Launches to Expand Group’s Global Distribution Network (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/col-ai-studios-launch-global-distribution-1236834136/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "COL Group has launched COL AI Studios, a new entertainment vertical designed to help platforms, studios and brands develop, test and scale content beyond traditional licensing deals. The studio builds on a distribution network that now counts over 5,000 live-action titles, up from a base of just over 1,000 when the network first launched, with [ ]",
-      "published": "2026-08-14T07:00:00+00:00",
-      "fetched": "2026-08-14T07:03:52.798116+00:00"
-    },
-    {
-      "id": "a0ea4a00e42fda11",
-      "title": "Troye Sivan Brings Nicole Kidman to the Club for ‘She’s the Best’ Music Video",
-      "link": "https://variety.com/2026/music/news/troye-sivan-nicole-kidman-shes-the-best-music-video-1236834397/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Troye Sivan has kicked off a new era with the release of his new single She s the Best along with a music video co-starring Nicole Kidman. In the clip, directed by Gordon Von Steiner, Sivan holds the spotlight at a club filled with drag queens, including Sasha Colby. Kidman, a fellow Aussie, sips a drink [ ]",
-      "published": "2026-08-14T04:48:07+00:00",
-      "fetched": "2026-08-14T07:03:52.798173+00:00"
-    },
-    {
-      "id": "bbc701e514cb0f73",
-      "title": "Phoebe Bridgers Leads Delighted Fans Around the Rink at a Rollerskating Listening Party for ‘Lost Weekend’",
-      "link": "https://variety.com/2026/music/news/phoebe-bridgers-rollerskating-release-party-qa-lost-weekend-1236834356/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Phoebe Bridgers tends to stand out in a crowd, and not just because of her celebrity or natural star quality, but because of the hair; other women around L.A. may go for the platinum blonde look, but not quite that platinum. So it was fairly easy to pick her out for the entirety of the [ ]",
-      "published": "2026-08-14T04:28:05+00:00",
-      "fetched": "2026-08-14T07:03:52.798222+00:00"
-    },
-    {
-      "id": "59a3200f255c39ef",
-      "title": "Boston Bets on Music and Entertainment Tourism on Heels of Noah Kahan’s Fenway Park Run",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/noah-kahan-fenway-park-show-boston-tourism-1235607511/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Boston has been energized by a wave of major cultural moments this summer, including the World Cup tournament and America 250 celebrations",
-      "published": "2026-08-14T04:27:50+00:00",
-      "fetched": "2026-08-14T07:03:53.100066+00:00"
-    },
-    {
-      "id": "190c683d32c4a6b3",
-      "title": "Troye Sivan Drops ‘She’s The Best,’ Featuring Secret Charli XCX Cameo",
-      "link": "https://www.rollingstone.com/music/music-news/troye-sivan-shes-the-best-charli-xcx-nicole-kidman-1235608285/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "This is the first single off Sivan's new album of the same name, out Oct.9, and the track's accompanying video stars Nicole Kidman",
-      "published": "2026-08-14T04:01:00+00:00",
-      "fetched": "2026-08-14T07:03:53.100107+00:00"
-    },
-    {
-      "id": "97d7de2bbb067b1b",
-      "title": "Selena Gomez and Her Mother Accused of Defrauding Investors as Mental Health Startup ‘Collapsed’",
-      "link": "https://www.rollingstone.com/music/music-news/selena-gomez-mother-lawsuit-fraud-wondermind-startup-1235608329/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Investors say they pumped $1.2 million into Wondermind and claim they were misled about Gomez's involvement",
-      "published": "2026-08-14T03:34:21+00:00",
-      "fetched": "2026-08-14T07:03:53.100138+00:00"
-    },
-    {
-      "id": "82c99e96064a8b16",
-      "title": "Romeo Santos Sues Accounting Firm for $2.3 Million Over Alleged Tax Errors, Mismanagement",
-      "link": "https://www.rollingstone.com/music/music-news/romeo-santos-sues-accounting-firm-mismanagement-1235608306/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Latin superstar claims the firm filed “incoherent” tax documents, missed deadlines, and failed to invest his money or fund his retirement account",
-      "published": "2026-08-14T01:13:54+00:00",
-      "fetched": "2026-08-14T07:03:53.100171+00:00"
-    },
-    {
-      "id": "37303e837cb9becb",
-      "title": "Oscar Predictions: Supporting Actress — Is This the Year of Penélope Cruz?",
-      "link": "https://variety.com/feature/2027-oscars-best-supporting-actress-predictions-1236834272/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
-      "published": "2026-08-14T01:00:00+00:00",
-      "fetched": "2026-08-14T07:03:52.798297+00:00"
-    },
-    {
-      "id": "b3facb3d7672c8e3",
-      "title": "Oscar Predictions: Supporting Actor — How Many Men Can be Nominated From ‘The Odyssey’?",
-      "link": "https://variety.com/feature/2027-oscars-best-supporting-actor-predictions-1236834271/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
-      "published": "2026-08-14T00:30:00+00:00",
-      "fetched": "2026-08-14T00:51:02.213706+00:00"
     }
   ]
 }
