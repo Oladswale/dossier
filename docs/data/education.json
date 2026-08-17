@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-17T06:25:55.417923+00:00",
-  "count": 124,
+  "updated": "2026-08-17T12:16:28.652429+00:00",
+  "count": 127,
   "items": [
+    {
+      "id": "34f9bec2940b1dfe",
+      "title": "The Genius of Airplane!: How to Make a Comedy by Playing Everything Completely Straight",
+      "link": "https://www.openculture.com/2026/08/the-genius-of-airplane-how-to-make-a-comedy-by-playing-everything-completely-straight.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Not every 46-year-old comedy still gets laughs, but Airplane! seems only to get funnier with the decades. Some viewers too young to have caught it in its theatrical release even take the Benjaminian view of it as the kind of great work that creates its own genre: the rapid-fire deadpan joke machine, we could call it.",
+      "published": "2026-08-17T09:00:33+00:00",
+      "fetched": "2026-08-17T12:16:28.652162+00:00"
+    },
+    {
+      "id": "9fd5a1d8d25d83ea",
+      "title": "Flexible brain circuits can switch between different tasks",
+      "link": "https://news.mit.edu/2026/flexible-brain-circuits-can-switch-between-different-tasks-0817",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Neuroscientists have discovered circuits in the prefrontal cortex that can be repurposed to store different types of information.",
+      "published": "2026-08-17T09:00:00+00:00",
+      "fetched": "2026-08-17T12:16:27.318428+00:00"
+    },
+    {
+      "id": "64962e82ebacba71",
+      "title": "The Rijksmuseum in Amsterdam Has Digitized 840,000 Works of Art, Including Great Works by Rembrandt and Vermeer",
+      "link": "https://www.openculture.com/2026/08/the-rijksmuseum-in-amsterdam-has-digitized-818000-works-of-art.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Art may seem inessential to those who make the big decisions in times of crisis. But it never seemed more necessary to artists working in the time of plague. So it was 366 years ago when Rembrandt painted a portrait of his son, Titus, in a monk’s robe in 1660.",
+      "published": "2026-08-17T08:00:01+00:00",
+      "fetched": "2026-08-17T12:16:28.652223+00:00"
+    },
     {
       "id": "ede86b222faaef4a",
       "title": "Professor Emeritus Chiang Chung Mei, pioneering scholar of ocean wave dynamics and fluid mechanics, dies at 91",
