@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-16T18:09:58.813928+00:00",
+  "updated": "2026-08-17T00:28:02.236367+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "96580e9ed424dc93",
+      "title": "‘Magical’ New York A-Frame With Secret Gardens and ‘Breathtaking’ Walls of Glass Is Listed for $1.7 Million",
+      "link": "https://www.realtor.com/news/unique-homes/aframe-for-sale-new-york-secret-gardens/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The “Woods Home” is a four-bedroom, two-bath property spanning just shy of 5,000 square feet and set on a 6.74-acre lot.",
+      "published": "2026-08-16T21:12:00+00:00",
+      "fetched": "2026-08-17T00:28:02.235698+00:00"
+    },
+    {
+      "id": "f0e055e4af9a3154",
+      "title": "The Orchard House: This Seven Bedroom Montana Home Feels Like Summer In France",
+      "link": "https://www.realtor.com/news/unique-homes/orchard-house-bigfork-montana-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If you've been dreaming of an idyllic European summer, you may not have to go as far as you think to find it.",
+      "published": "2026-08-16T18:18:00+00:00",
+      "fetched": "2026-08-17T00:28:02.235738+00:00"
+    },
     {
       "id": "b882e71f7a5a419e",
       "title": "16-Acre Ultimate ‘Glamping’ House Tucked Between the Berkshires and Catskills Lists for $4.6 Million",
@@ -1482,26 +1502,6 @@
       "summary": "Compass CEO Robert Reffkin defended the company's private listings strategy as a deadline passed to respond to a congressional probe.",
       "published": "2026-08-06T15:31:00+00:00",
       "fetched": "2026-08-06T23:46:23.595698+00:00"
-    },
-    {
-      "id": "e4808624ca275ad5",
-      "title": "Mississippi’s Housing Crisis Is Forcing Young Adults To Live at Home With Parents Longer",
-      "link": "https://www.realtor.com/advice/hyperlocal/mississippis-housing-crisis-is-forcing-young-adults-to-live-at-home-with-parents-longer/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Many young adults across the nation find themselves unable to leave the nest due to various economic pressures, especially in Mississippi.",
-      "published": "2026-08-06T14:43:46+00:00",
-      "fetched": "2026-08-06T23:46:23.595726+00:00"
-    },
-    {
-      "id": "1a2b545aa20e2d8c",
-      "title": "Donald Trump Jr. Pays Ex Kimberly Guilfoyle $7.6 Million To Buy Her Out of Shared Jupiter Mansion—Months After Wedding Bettina Anderson",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/donald-trump-jr-kimberly-guilfoyle-mansion-buyout-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Trump, 48, and Guilfoyle, 57, purchased the property for $9.7 million in 2021, just a few months after they got engaged.",
-      "published": "2026-08-06T13:45:48+00:00",
-      "fetched": "2026-08-06T23:46:23.595755+00:00"
     }
   ]
 }
