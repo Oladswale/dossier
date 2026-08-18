@@ -1,8 +1,108 @@
 {
   "category": "finance",
-  "updated": "2026-08-17T18:18:44.911839+00:00",
+  "updated": "2026-08-18T00:27:11.285467+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1c7a0c7c36c48b73",
+      "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+      "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
+      "published": "2026-08-17T23:47:54+00:00",
+      "fetched": "2026-08-18T00:27:10.369370+00:00"
+    },
+    {
+      "id": "cdffe1dc06ae8a3e",
+      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+      "link": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "One of the most heavily-traded ETFs tracking performance in the U.S. Treasury market has just fallen to its lowest level in over 20 years.",
+      "published": "2026-08-17T22:33:00+00:00",
+      "fetched": "2026-08-18T00:27:10.209066+00:00"
+    },
+    {
+      "id": "08a022d4bb5553cf",
+      "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+      "link": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "We’ve seen three years in a row of double-digit gains. Will there be a fourth?",
+      "published": "2026-08-17T21:22:00+00:00",
+      "fetched": "2026-08-18T00:27:10.209130+00:00"
+    },
+    {
+      "id": "ede15da7e855cc5d",
+      "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "link": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Here’s another factoid that should get the AI bears excited: Stocks in the S P 500 are increasingly trading in opposite directions on a given day. That means higher volatility than the performance of the index would lead one to believe.",
+      "published": "2026-08-17T21:15:00+00:00",
+      "fetched": "2026-08-18T00:27:10.209183+00:00"
+    },
+    {
+      "id": "df3af8356cdaf911",
+      "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
+      "link": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "New 50% import taxes could hit liquor, hockey gear and wood products like particle board.",
+      "published": "2026-08-17T20:28:00+00:00",
+      "fetched": "2026-08-18T00:27:10.209236+00:00"
+    },
+    {
+      "id": "fc6c375b4718a8c0",
+      "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Some big names saw sizable paper gains on their SpaceX stakes when the stock went public, but trading has been volatile since then.",
+      "published": "2026-08-17T20:18:00+00:00",
+      "fetched": "2026-08-18T00:27:10.209269+00:00"
+    },
+    {
+      "id": "2360497268065a96",
+      "title": "Nigerian equities extend bearish run for fifth straight session, lose N106.24 billion",
+      "link": "https://nairametrics.com/2026/08/17/nigerian-equities-extend-bearish-run-for-fifth-straight-session-lose-n106-24-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market extended its bearish trajectory into a new week on Monday, August 17, 2026, with the benchmark NGX All-Share Index (ASI) declining 0.07% to close at 242,454.65 points, down from 242,619.20 points in the previous session. The post Nigerian equities extend bearish run for fifth straight session, lose N106.24 billion appeared first on Nairametrics .",
+      "published": "2026-08-17T20:16:36+00:00",
+      "fetched": "2026-08-18T00:27:10.679737+00:00"
+    },
+    {
+      "id": "d1505cbc2a403778",
+      "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
+      "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Bull markets climb a wall of worry, as the old saying goes. The past six years have tested just how high that wall can get.",
+      "published": "2026-08-17T19:48:00+00:00",
+      "fetched": "2026-08-18T00:27:10.209304+00:00"
+    },
+    {
+      "id": "d00c27c306baf3b4",
+      "title": "Tangerine Life Insurance Limited has met the recapitalisation requirements prescribed by the National Insurance Commission (NAICOM)",
+      "link": "https://nairametrics.com/2026/08/17/tangerine-life-insurance-limited-has-met-the-recapitalisation-requirements-prescribed-by-the-national-insurance-commission-naicom/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Tangerine Life Insurance has further strengthened its reputation as one of Nigeria’s most reliable life insurance providers, delivering a record claims performance in 2025 that gives full expression to the financial strength and upward trajectory reflected in its GCR national scale financial strength rating of A-(NG) with an outlook revised to Positive. The post Tangerine Life Insurance Limited has met the recapitalisation requirements prescribed by the National Insurance Commission (NAICOM) appeared first on Nairametrics .",
+      "published": "2026-08-17T19:40:45+00:00",
+      "fetched": "2026-08-18T00:27:10.679815+00:00"
+    },
+    {
+      "id": "023f1819c62d636f",
+      "title": "NITDA warns Zoom users over vulnerability that could allow attackers take over accounts",
+      "link": "https://nairametrics.com/2026/08/17/nitda-warns-zoom-users-over-vulnerability-that-could-allow-attackers-take-over-accounts/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s National Information Technology Development Agency (NITDA) has warned Zoom users about a critical vulnerability that could allow attackers to remotely take over accounts without valid credentials. The post NITDA warns Zoom users over vulnerability that could allow attackers take over accounts appeared first on Nairametrics .",
+      "published": "2026-08-17T19:09:45+00:00",
+      "fetched": "2026-08-18T00:27:10.679869+00:00"
+    },
     {
       "id": "f5909c378110f934",
       "title": "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley",
@@ -92,6 +192,16 @@
       "summary": "The National Drug Law Enforcement Agency (NDLEA) has destroyed 329,865.585 kilogrammes of assorted illicit drugs and psychotropic substances with an estimated street value of N301.06 billion in Lagos. The post NDLEA destroys 330 tonnes of illicit drugs worth N301 billion in Lagos appeared first on Nairametrics .",
       "published": "2026-08-17T15:49:05+00:00",
       "fetched": "2026-08-17T18:18:43.528693+00:00"
+    },
+    {
+      "id": "802ecaee1285bf73",
+      "title": "Court orders banks, fintechs to freeze 69 accounts over alleged N1.39 billion fraud",
+      "link": "https://nairametrics.com/2026/08/17/court-orders-banks-fintechs-to-freeze-69-accounts-over-alleged-n1-39-billion-fraud/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal High Court in Abuja on Monday ordered 12 commercial banks and six fintech platforms to freeze (place on post-no-debit) about 69 accounts following alleged fraudulent and unauthorised credit transactions on the eTranzact International Plc ecosystem. The post Court orders banks, fintechs to freeze 69 accounts over alleged N1.39 billion fraud appeared first on Nairametrics .",
+      "published": "2026-08-17T15:28:49+00:00",
+      "fetched": "2026-08-18T00:27:10.679968+00:00"
     },
     {
       "id": "cf9547635aa1c9c0",
@@ -1392,116 +1502,6 @@
       "summary": "Kuye is the founder of KAMIM Technologies, a Nigerian climate-tech company that builds solar-powered cold storage infrastructure and connects farmers to markets.",
       "published": "2026-08-14T15:48:37+00:00",
       "fetched": "2026-08-14T18:37:16.288342+00:00"
-    },
-    {
-      "id": "89dd63d08b94333c",
-      "title": "PTAD disburses N3.8 billion arrears to 30,356 pensioners under Defined Benefit Scheme",
-      "link": "https://nairametrics.com/2026/08/14/ptad-disburses-n3-8-billion-arrears-to-30356-pensioners-under-defined-benefit-scheme/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Pension Transitional Arrangement Directorate has disbursed N3,817,568,592.80 in pension arrears to 30,356 pensioners under the Defined Benefit Scheme. The post PTAD disburses N3.8 billion arrears to 30,356 pensioners under Defined Benefit Scheme appeared first on Nairametrics .",
-      "published": "2026-08-14T15:40:07+00:00",
-      "fetched": "2026-08-14T18:37:15.688753+00:00"
-    },
-    {
-      "id": "d11cddca4b124802",
-      "title": "Transworld brokers sale of Nigerian pharma firm by 84-year-old founder",
-      "link": "https://nairametrics.com/2026/08/14/transworld-brokers-sale-of-nigerian-pharma-firm-by-84-year-old-founder/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A fully licensed Nigerian pharmaceutical manufacturing company has changed ownership after its 84-year-old founder sold a majority stake to a group of young Nigerian entrepreneurs, in a deal brokered by Transworld Business Advisors Nigeria. The post Transworld brokers sale of Nigerian pharma firm by 84-year-old founder appeared first on Nairametrics .",
-      "published": "2026-08-14T15:39:01+00:00",
-      "fetched": "2026-08-14T18:37:15.688786+00:00"
-    },
-    {
-      "id": "3053285c80e3bb48",
-      "title": "CBN FX sales surge to $953 million in March after January slump",
-      "link": "https://nairametrics.com/2026/08/14/cbn-fx-sales-surge-to-953-million-in-march-after-january-slump/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) recorded total foreign exchange sales of $953.41 million in March 2026, the highest monthly level since April 2025. The post CBN FX sales surge to $953 million in March after January slump appeared first on Nairametrics .",
-      "published": "2026-08-14T15:19:06+00:00",
-      "fetched": "2026-08-14T18:37:15.688814+00:00"
-    },
-    {
-      "id": "8c8e1d4c083a9c5f",
-      "title": "Agusto & Co withdraws Geregu Power’s rating after N40.09 billion bond default",
-      "link": "https://nairametrics.com/2026/08/14/agusto-co-withdraws-geregu-powers-rating-after-n40-09-billion-bond-default/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Agusto Co has withdrawn the “A-” credit rating assigned to Geregu Power Plc and its N40.09 billion Series 1 Senior Unsecured Bond, after the company defaulted on its scheduled eighth coupon payment and fourth principal repayment, raising fresh concerns about its near-term debt-servicing capacity. The post Agusto Co withdraws Geregu Power’s rating after N40.09 billion bond default appeared first on Nairametrics .",
-      "published": "2026-08-14T14:38:22+00:00",
-      "fetched": "2026-08-14T18:37:15.688859+00:00"
-    },
-    {
-      "id": "e0202465e2a3e77d",
-      "title": "These 4 NGX stocks could have turned your N10 million into N26.1 million",
-      "link": "https://nairametrics.com/2026/08/14/these-4-ngx-stocks-could-have-turned-your-n10-million-into-n26-1-million/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "If you had invested N10 million equally across the four best-performing stocks among Nigerian Exchange-listed companies with market capitalisations above N1 trillion, commonly referred to as SWOOT stocks, at the start of 2026, your portfolio would be worth about N26.15 million today. The post These 4 NGX stocks could have turned your N10 million into N26.1 million appeared first on Nairametrics .",
-      "published": "2026-08-14T14:20:44+00:00",
-      "fetched": "2026-08-14T18:37:15.688893+00:00"
-    },
-    {
-      "id": "9c10cd1250389e2a",
-      "title": "Nasarawa state secures $2 million lithium deal with Chinese firm",
-      "link": "https://nairametrics.com/2026/08/14/nasarawa-state-secures-2-million-lithium-deal-with-chinese-firm/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nasarawa State has signed a $2 million supplementary lithium agreement with Chinese-backed Diamond New Energy, in a move aimed at strengthening the state’s lithium processing value chain and securing continued feedstock supply for a major refining facility. The post Nasarawa state secures $2 million lithium deal with Chinese firm appeared first on Nairametrics .",
-      "published": "2026-08-14T13:51:06+00:00",
-      "fetched": "2026-08-14T18:37:15.688929+00:00"
-    },
-    {
-      "id": "2ec859f1ae252cfc",
-      "title": "Cascador partners Nigeria’s youth ministry to back young founders",
-      "link": "https://techcabal.com/2026/08/14/cascador-partners-nigerias-youth-ministry-to-back-young-founders/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The programme adds to the Nigerian government's efforts in supporting young entrepreneurs and early-stage businesses.",
-      "published": "2026-08-14T13:08:13+00:00",
-      "fetched": "2026-08-14T18:37:16.288362+00:00"
-    },
-    {
-      "id": "e89ca2435fb1655a",
-      "title": "Investors chase CBN’s 20% OMO yield with N4.93 trillion bids",
-      "link": "https://nairametrics.com/2026/08/14/investors-chase-cbns-20-omo-yield-with-n4-93-trillion-bids/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) held an OMO auction on Thursday, August 13, 2026, attracting N4.93 trillion in total subscriptions against a combined N600 billion on offer, split evenly between 103-day and 138-day bills. The post Investors chase CBN’s 20% OMO yield with N4.93 trillion bids appeared first on Nairametrics .",
-      "published": "2026-08-14T12:41:46+00:00",
-      "fetched": "2026-08-14T18:37:15.688963+00:00"
-    },
-    {
-      "id": "c8a2f267a8b629f4",
-      "title": "The Selar row shows how Nigeria plans to tax its creator economy",
-      "link": "https://techcabal.com/2026/08/14/nigeria-creator-economy-tax/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigerian creators may lose 5% of their income to tax if the government decides an ebook sale is a royalty. Here's why it matters.",
-      "published": "2026-08-14T12:36:42+00:00",
-      "fetched": "2026-08-14T18:37:16.288383+00:00"
-    },
-    {
-      "id": "4d56162e1217e083",
-      "title": "‘I didn’t know what else to do’: Patients take their health-insurance battles to Facebook and LinkedIn",
-      "link": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Pushed to their limits, patients are turning to social media to plead for help getting their medical care covered.",
-      "published": "2026-08-14T12:28:00+00:00",
-      "fetched": "2026-08-14T12:34:27.084676+00:00"
-    },
-    {
-      "id": "56ebd6b5775e889c",
-      "title": "U.S. names Brandon Hudspeth as new consul general in Lagos",
-      "link": "https://nairametrics.com/2026/08/14/u-s-names-brandon-hudspeth-as-new-consul-general-in-lagos/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Brandon Hudspeth has been appointed the new U.S. Consul General in Lagos, returning to Nigeria where he previously served as the Consulate’s Political-Economic Section Chief. The post U.S.",
-      "published": "2026-08-14T12:25:43+00:00",
-      "fetched": "2026-08-14T12:34:27.542158+00:00"
     }
   ]
 }

@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-17T18:18:51.952976+00:00",
+  "updated": "2026-08-18T00:27:17.610285+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0f4cbfdff1de6165",
+      "title": "Esteemed Architect Martin Gelber’s Late Modern Los Angeles Home Hits the Market for $3.75 Million",
+      "link": "https://www.realtor.com/news/unique-homes/architect-martin-gelber-late-modern-los-angeles-home-hits-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Gelber, a pioneer in sustainability, lived in the home until his death in 2019. Now, the modernist gem is ready for a new owner.",
+      "published": "2026-08-17T23:12:06+00:00",
+      "fetched": "2026-08-18T00:27:17.609544+00:00"
+    },
+    {
+      "id": "a136505a02bb9b0a",
+      "title": "‘Real Housewives of Beverly Hills’ Star Kyle Richards Shares Emotional Message From Mauricio Umansky on Their 30th Anniversary Amid Separation",
+      "link": "https://www.realtor.com/news/reality-tv/real-housewives-beverly-hills-kyle-richards-mauricio-umansky-split-30th-wedding-anniversary/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Richards, who separated from Umansky in 2023 after decades of marriage, admitted that the reality of their split hit particularly hard.",
+      "published": "2026-08-17T21:51:03+00:00",
+      "fetched": "2026-08-18T00:27:17.609586+00:00"
+    },
+    {
+      "id": "58678366f63c7dfe",
+      "title": "USDA Loan Advantages and Disadvantages",
+      "link": "https://www.realtor.com/advice/finance/usda-loan-pros-and-cons-list/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "For many homebuyers, especially first-time buyers, affordability is one of the biggest challenges. That’s where USDA loans can help.",
+      "published": "2026-08-17T21:13:03+00:00",
+      "fetched": "2026-08-18T00:27:17.609618+00:00"
+    },
+    {
+      "id": "67b76ab4f0964648",
+      "title": "Backyard Housing Boom: L.A. Sees Record Level of ADU Construction After Easing Restrictions",
+      "link": "https://www.realtor.com/news/trends/los-angeles-accessory-dwelling-unit-construction-adu-zoning/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Restrictions around ADUs have eased, but the impact of these new builds on the housing shortage is still \"a drop in the bucket.\"",
+      "published": "2026-08-17T20:49:00+00:00",
+      "fetched": "2026-08-18T00:27:17.609656+00:00"
+    },
+    {
+      "id": "4fb83ee2f1dcd4aa",
+      "title": "Can You Use a USDA Loan for a Manufactured Home?",
+      "link": "https://www.realtor.com/advice/finance/usda-loans-manufactured-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Manufactured homes offer affordable homeownership. Pairing one with a USDA loan makes buying easier in rural and suburban communities.",
+      "published": "2026-08-17T19:43:09+00:00",
+      "fetched": "2026-08-18T00:27:17.609684+00:00"
+    },
+    {
+      "id": "8b5a0d007c0add95",
+      "title": "What Types of Properties Benefit Most From Cost Segregation?",
+      "link": "https://www.biggerpockets.com/blog/what-types-of-properties-benefit-most-from-cost-segregation",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Cost segregation gets talked about like it s a magic button: run the study, get a huge deduction, and lower your tax bill. And for the right property, that s a pretty [ ]",
+      "published": "2026-08-17T19:05:04+00:00",
+      "fetched": "2026-08-18T00:27:17.331592+00:00"
+    },
+    {
+      "id": "5ac8eafdbdd3714f",
+      "title": "Florida Homeowners Could Win Big Tax Cuts—but Local Hospitals Stand To Lose Millions",
+      "link": "https://www.realtor.com/news/trends/florida-homeowners-tax-cuts-local-hospitals/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A tax cut could deliver some relief to Florida homeowners, at a cost.",
+      "published": "2026-08-17T18:55:10+00:00",
+      "fetched": "2026-08-18T00:27:17.609711+00:00"
+    },
+    {
+      "id": "da422d51d317240d",
+      "title": "Former Ohio Jail With Original Prison Cells Hits the Market as a $400K Home",
+      "link": "https://www.realtor.com/news/unique-homes/former-ohio-jail-original-prison-cells-home-for-sale-400k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The former Wood County Jail in Perrysburg, OH, has hit the market for $400,000, nearly 180 years after the brick building was constructed.",
+      "published": "2026-08-17T18:51:32+00:00",
+      "fetched": "2026-08-18T00:27:17.609739+00:00"
+    },
+    {
+      "id": "4694e606d07725fc",
+      "title": "Joanna Gaines Shares Emotional Advice for Parents Facing College Dorm Move-In Day: ‘Wishing Time Would Slow Down’",
+      "link": "https://www.realtor.com/news/reality-tv/joanna-chip-gaines-advice-college-dorms-move-in-kids/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The HGTV star reflected on the emotional experience of sending kids off to college, penning a sweet piece of advice for her followers.",
+      "published": "2026-08-17T18:13:25+00:00",
+      "fetched": "2026-08-18T00:27:17.609770+00:00"
+    },
     {
       "id": "aa1be11535b51b43",
       "title": "BiggerPockets Selects Mynd as Its Preferred Full-Service Property Management Partner",
@@ -1412,96 +1502,6 @@
       "summary": "Burned in the 2025 Palisades Fire, a prime oceanfront lot in Malibu hits the market as the town struggles to rebuild.",
       "published": "2026-08-07T16:33:00+00:00",
       "fetched": "2026-08-07T18:35:23.381881+00:00"
-    },
-    {
-      "id": "4d047008ff1ee9e6",
-      "title": "Hoda Kotb Returns Home to a Colorful Birthday Surprise From Her Kids—After Sweet Reunion With Savannah Guthrie",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/hoda-kotb-birthday-children-savannah-guthrie-today-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kotb, 61, shared an image of herself and Guthrie, 54, enjoying an afternoon out—before heading home to a birthday party thrown by her kids.",
-      "published": "2026-08-07T16:03:31+00:00",
-      "fetched": "2026-08-07T18:35:23.381915+00:00"
-    },
-    {
-      "id": "6d19758f43bd5893",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.69% Rate, the Highest Rate This Year",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-august-6/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rates surged this week to levels not seen in over a year, and for the first time, it's higher than the same time last year.",
-      "published": "2026-08-07T15:36:00+00:00",
-      "fetched": "2026-08-07T18:35:23.381944+00:00"
-    },
-    {
-      "id": "5a48e5ec8263f811",
-      "title": "Woman Who Lives in Jason Sudeikis’ Former New York Apartment Snags an Invite to the ‘Ted Lasso’ Premiere—So She Can Return His Mail",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jason-sudeikis-ted-lasso-new-york-home-mail-taylor-palmby/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"Ted Lasso\" fan Taylor Palmby shared an Instagram message with Sudeikis, revealing she had a collection of his old mail to return to him.",
-      "published": "2026-08-07T13:59:18+00:00",
-      "fetched": "2026-08-07T18:35:23.381975+00:00"
-    },
-    {
-      "id": "071083a7dd1e42b8",
-      "title": "Economy Lost 23,000 Jobs in a Shocking July Report—Reducing Odds of Fed Rate Hike",
-      "link": "https://www.realtor.com/news/trends/jobs-report-unemployment-rate-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The U.S. economy lost 23,000 new jobs in July, defying economists' forecasts for continued hiring growth.",
-      "published": "2026-08-07T13:14:36+00:00",
-      "fetched": "2026-08-07T18:35:23.382000+00:00"
-    },
-    {
-      "id": "b002f26dcf625ad4",
-      "title": "What Most Rookies Get Wrong When Picking a Rental Market (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-754",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Once you ve decided you want to invest in real estate, the questions only get harder. How do you choose a real estate market? How much will repairs really cost?",
-      "published": "2026-08-07T11:00:28+00:00",
-      "fetched": "2026-08-10T12:37:45.726193+00:00"
-    },
-    {
-      "id": "38d91cd5e97cfc57",
-      "title": "The 7-Property Retirement Plan ($80,000/Year)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1314",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "In just a decade, you can replace your income with rentals. If you can save up just one down payment for a rental property, you can use the strategy I’m [ ]",
-      "published": "2026-08-07T11:00:14+00:00",
-      "fetched": "2026-08-07T12:33:51.318705+00:00"
-    },
-    {
-      "id": "3acc31d4a7876f5f",
-      "title": "EXCLUSIVE: Sen. Warren Says Compass Private Listings Partnership With Chicago MLS ‘Increases Risks of Civil Rights Violations’ in Scathing Letter to CEOs",
-      "link": "https://www.realtor.com/news/real-estate-news/senator-elizabeth-warren-private-listings-compass-ceo-reffkin-letter/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Sen. Elizabeth Warren on Thursday sent a letter to Compass CEO Robert Reffkin requesting information about the brokerage's private listings.",
-      "published": "2026-08-07T10:00:00+00:00",
-      "fetched": "2026-08-07T12:33:51.783625+00:00"
-    },
-    {
-      "id": "bf582dbbf8c5869e",
-      "title": "Virginia Homeowner Sues Amazon Over Data Center Being Built Near His Home: ‘It’s Just Chaos All the Time’",
-      "link": "https://www.realtor.com/news/trends/virginia-homeowner-suing-amazon-over-data-center-unbearable/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A Virginia man says Amazon data center construction has turned his tap water brown, reduced air quality, and caused damage to his home.",
-      "published": "2026-08-07T09:33:00+00:00",
-      "fetched": "2026-08-07T18:35:23.382041+00:00"
-    },
-    {
-      "id": "81e94ff9e9412388",
-      "title": "A Virginia Homeowner Is Suing Amazon Over a Data Center Being Built by His Home—That He Says Is Already Making Life Unbearable",
-      "link": "https://www.realtor.com/news/trends/virginia-homeowner-suing-amazon-over-data-center-unbearable/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A Virginia man says Amazon data center construction has turned his tap water brown, reduced air quality, and caused damage to his home.",
-      "published": "2026-08-07T09:33:00+00:00",
-      "fetched": "2026-08-07T12:33:51.783666+00:00"
     }
   ]
 }

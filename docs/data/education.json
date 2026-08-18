@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-17T18:18:51.213618+00:00",
-  "count": 128,
+  "updated": "2026-08-18T00:27:16.947898+00:00",
+  "count": 131,
   "items": [
+    {
+      "id": "5bdc3617b0b7469e",
+      "title": "DNA shaper steers nervous system development",
+      "link": "https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some neurons.",
+      "published": "2026-08-17T20:20:00+00:00",
+      "fetched": "2026-08-18T00:27:15.418400+00:00"
+    },
+    {
+      "id": "41417dca51e4336b",
+      "title": "Q&A: Rethinking how innovation happens",
+      "link": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+      "published": "2026-08-17T19:50:00+00:00",
+      "fetched": "2026-08-18T00:27:15.418445+00:00"
+    },
+    {
+      "id": "9a8d706593b14543",
+      "title": "Mathematical framework connects biological principles to manufacturable, adaptive materials",
+      "link": "https://news.mit.edu/2026/mathematical-framework-connects-biological-principles-manufacturable-adaptive-material-0817",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new framework could streamline the design process of robotic grippers or aerospace components that exhibit complex behaviors found in nature.",
+      "published": "2026-08-17T18:30:00+00:00",
+      "fetched": "2026-08-18T00:27:15.418478+00:00"
+    },
     {
       "id": "027c12118042b4c3",
       "title": "MIT engineers connect bacteria to create living transistors",
