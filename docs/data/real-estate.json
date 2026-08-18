@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-18T06:19:45.558693+00:00",
+  "updated": "2026-08-18T12:17:40.754865+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e2a1c75672a29386",
+      "title": "Finding Discounted Real Estate Just Got Easier",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-452",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This is a game changer for real estate investing. In minutes (or even seconds), you can find every motivated seller in your area, see how desperate they are to sell, [ ]",
+      "published": "2026-08-18T11:00:13+00:00",
+      "fetched": "2026-08-18T12:17:40.413586+00:00"
+    },
+    {
+      "id": "1c844678247b34e0",
+      "title": "Cash Home Sales Are in Decline in Most Cities, but a Handful Show a Surprising Bump",
+      "link": "https://www.realtor.com/news/trends/cash-home-sales-buyers-share-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"That certainty is worth more to sellers today than it was a few years ago, not because competition is fierce, but because it's faded.\"",
+      "published": "2026-08-18T09:00:00+00:00",
+      "fetched": "2026-08-18T12:17:40.754426+00:00"
+    },
+    {
+      "id": "c6bb2c522a274200",
+      "title": "The Hidden Cost of the ‘Great Stuff Transfer’",
+      "link": "https://www.realtor.com/news/trends/inherited-home-organizing-clean-out-costs-fees/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "More than 8 in 10 recent inheritors had to clean out a home before listing it, new data shows—adding time, cost, and emotional strain.",
+      "published": "2026-08-18T08:35:00+00:00",
+      "fetched": "2026-08-18T12:17:40.754459+00:00"
+    },
     {
       "id": "0f4cbfdff1de6165",
       "title": "Esteemed Architect Martin Gelber’s Late Modern Los Angeles Home Hits the Market for $3.75 Million",
@@ -1472,36 +1502,6 @@
       "summary": "The high end of L.A.'s condo market is heating up, defying a sluggish pace seen at lower segments of the market, new data shows.",
       "published": "2026-08-07T20:01:22+00:00",
       "fetched": "2026-08-08T00:38:58.013277+00:00"
-    },
-    {
-      "id": "4d5698634efd2241",
-      "title": "Pioneering Palmer & Krisel-Designed Midcentury Modern ‘Test Case’ Hits the Market in L.A. for Under $1 Million",
-      "link": "https://www.realtor.com/news/unique-homes/palmer-krisel-midcentury-modern-test-case-for-sale-los-angeles/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The property is one of the earliest surviving designs conceived by acclaimed duo Dan Palmer and William Krisel.",
-      "published": "2026-08-07T18:10:45+00:00",
-      "fetched": "2026-08-07T18:35:23.381810+00:00"
-    },
-    {
-      "id": "fd1f39f2ee11411b",
-      "title": "How Spokane’s Wildfires Turned a Small Footprint Into Massive Loss—and Where It Could Happen Next",
-      "link": "https://www.realtor.com/news/trends/destructive-wildfire-acreage-structures-spokane-map/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Spokane fires show why acreage alone can obscure a wildfire’s toll—and why homes, structures, and human losses matter far more.",
-      "published": "2026-08-07T17:25:08+00:00",
-      "fetched": "2026-08-07T18:35:23.381851+00:00"
-    },
-    {
-      "id": "f4ee357aeb33dc0c",
-      "title": "A $5.7 Million Lot and Zero Rebuilt Homes: How Wildfire Recovery Is Changing the Face of Malibu",
-      "link": "https://www.realtor.com/news/trends/malibu-housing-market-wildfires-oceanfront-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Burned in the 2025 Palisades Fire, a prime oceanfront lot in Malibu hits the market as the town struggles to rebuild.",
-      "published": "2026-08-07T16:33:00+00:00",
-      "fetched": "2026-08-07T18:35:23.381881+00:00"
     }
   ]
 }

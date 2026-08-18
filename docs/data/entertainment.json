@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-18T06:19:43.243799+00:00",
+  "updated": "2026-08-18T12:17:38.582712+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "77f6d967b4898fb4",
+      "title": "Peacock Raises Prices Across All Plans, NBCU’s Fourth Increase in Four Years",
+      "link": "https://variety.com/2026/tv/news/peacock-raises-prices-fourth-time-in-four-years-1236837016/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "NBCUniversal s Peacock just turned profitable for the first time. And now the company is raising prices for all customers, marking the streamer s fourth fee increase in four years. Starting Aug.",
+      "published": "2026-08-18T11:43:18+00:00",
+      "fetched": "2026-08-18T12:17:38.217831+00:00"
+    },
+    {
+      "id": "c50ef9493b3695d0",
+      "title": "‘Ice Princess’ Director Remembers Stars Hayden Panettiere and Michelle Trachtenberg as an ‘Amazing Pair’: ‘Two Shining Talents, Gone Far Too Soon’",
+      "link": "https://variety.com/2026/film/global/ice-princess-director-honors-hayden-panettiere-michelle-trachtenberg-1236837006/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ice Princess director Tim Fywell has penned a sweet tribute to the two stars of his beloved 2005 ice skating movie, Hayden Panettiere and Michelle Trachtenberg, following Panettiere s death on Sunday at the age of 36. Trachtenberg also passed away in February of last year, at 39 years old. After the news of Panettiere s death, [ ]",
+      "published": "2026-08-18T11:01:06+00:00",
+      "fetched": "2026-08-18T12:17:38.217877+00:00"
+    },
+    {
+      "id": "ff400b7392abaa0d",
+      "title": "The 2026 Rolling Stone Spirit Awards",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-alcohol-liquors-beverages-2026-1235607234/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From smoky whiskies aged across the pond to beers brewed with rock ‘n’ roll DNA, these are the coolest spirits we sampled this year.",
+      "published": "2026-08-18T11:00:00+00:00",
+      "fetched": "2026-08-18T12:17:38.407583+00:00"
+    },
+    {
+      "id": "b50a0d27ea57121c",
+      "title": "Oscars: Taiwan Selects ‘A Foggy Tale’ for International Feature Race",
+      "link": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A Foggy Tale, directed by Chen Yu-hsun, has been selected to represent Taiwan in the best international feature film category at the 99th Academy Awards, Taiwan s Ministry of Culture has revealed. The film was chosen from seven domestic submissions by majority vote. The selection committee praised the film for its vivid characters, smooth narrative and [ ]",
+      "published": "2026-08-18T10:54:33+00:00",
+      "fetched": "2026-08-18T12:17:38.217915+00:00"
+    },
+    {
+      "id": "6fe39a9ef2ab30ea",
+      "title": "Diego Luna on Challenging How Migrants Are Viewed With ‘Ashes’: ‘We’re Not Thinking About What They Left Behind’",
+      "link": "https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Between conducting a masterclass and attending an open-air screening of his fourth directorial feature, “Ashes,” Diego Luna dropped by the Variety Lounge presented by the Sarajevo Film Festival and BH Telecom to chat about his first time in the Bosnian capital. The Mexican actor-director-producer, who broke out in Alfonso Cuaron’s “Y Tu Mama Tambien” and [ ]",
+      "published": "2026-08-18T10:45:58+00:00",
+      "fetched": "2026-08-18T12:17:38.217957+00:00"
+    },
+    {
+      "id": "bdf915201f35551d",
+      "title": "Disney’s ‘Toy Story 5’ Is Now Out on Digital, With a Physical Release Set for September",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/toy-story-5-streaming-blu-ray-release-date-1235610343/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "You can now rent or buy the hit film from digital platforms, but no Disney+ streaming date has been announced",
+      "published": "2026-08-18T10:00:00+00:00",
+      "fetched": "2026-08-18T12:17:38.407612+00:00"
+    },
+    {
+      "id": "47b8dd2dd1df8693",
+      "title": "Hayden Panettiere’s Ex Wladimir Klitschko Remembers Her ‘Immense Talent While Also Facing the Darker Sides’ of the Industry: ‘She Left This World Far Too Soon’",
+      "link": "https://variety.com/2026/film/news/hayden-panettiere-ex-wladimir-klitschko-mourns-immense-talent-1236836976/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Hayden Panettiere s ex Wladimir Klitschko, who is the father of her 11-year-old daughter Kaya, is mourning the actress following her death on Sunday at the age of 36. In an Instagram post late Monday night, the heavyweight boxing champion wrote that his family is going through a time of profound shock and grief. He continued: [ ]",
+      "published": "2026-08-18T09:36:40+00:00",
+      "fetched": "2026-08-18T12:17:38.218003+00:00"
+    },
+    {
+      "id": "29be14ba6c946d5e",
+      "title": "Croatian Crime Drama ‘Red Water,’ Directed by Cannes Prizewinner Antoneta Alamat Kusijanovic, to Be Co-Produced by ZDF/Arte, Beta Film (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Beta Film has teamed up with ZDF/Arte and Antitalent to co-produce the Croatian crime drama “Red Water,” winner of the 2025 Council of Europe Series Co-Production Development Award at the Sarajevo Film Festival’s CineLink Industry Days. “Red Water,” a six-hour series, is based on Jurica Pavičić’s bestselling novel of the same name, which ranked among [ ]",
+      "published": "2026-08-18T09:31:39+00:00",
+      "fetched": "2026-08-18T12:17:38.218043+00:00"
+    },
+    {
+      "id": "8b2efbaacfaeec17",
+      "title": "Fontaines D.C. Preview New Album ‘Dopamine Chamber’ With Song ‘Marianne’",
+      "link": "https://www.rollingstone.com/music/music-news/fontaines-dc-new-album-song-dopamine-chamber-marianne-1235610335/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Irish band's fifth album arrives on Oct. 16 via XL Recordings",
+      "published": "2026-08-18T08:15:29+00:00",
+      "fetched": "2026-08-18T12:17:38.407632+00:00"
+    },
+    {
+      "id": "13bbe2f7891f8f66",
+      "title": "Shakira Pledges $1.25 Million to Rebuild Schools Damaged by Earthquake in Colombia",
+      "link": "https://www.rollingstone.com/music/music-news/shakira-colombia-earthquake-university-schools-rebuilding-1235610631/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Colombian singer's Fundación Pies Descalzos will lead an effort to kickstart education in the devastated Chocó region",
+      "published": "2026-08-18T08:11:45+00:00",
+      "fetched": "2026-08-18T12:17:38.407654+00:00"
+    },
+    {
+      "id": "d5a84573070cbe88",
+      "title": "Sundance Breakout ‘Thelma’ Set for Mandarin Remake by Stars Collective, Titled ‘Grandma, Please’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Stars Collective has acquired the Mandarin-language remake rights to Thelma, the 2024 Sundance Film Festival breakout that became Magnolia Pictures highest-grossing narrative feature, and is developing an adaptation titled Grandma, Please. In Grandma, Please, an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband s [ ]",
+      "published": "2026-08-18T08:11:15+00:00",
+      "fetched": "2026-08-18T12:17:38.218093+00:00"
+    },
+    {
+      "id": "abce499c0a0ca12b",
+      "title": "Rosie O’Donnell Criticizes Trump, Pays Tribute to Hayden Panettiere as ‘Kimmel’ Guest Host",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/rosie-odonnell-donald-trump-jimmy-kimmel-live-guest-host-1235610625/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“If you thought the president hated Jimmy Kimmel Live when it was hosted by Jimmy Kimmel? Buckle up, people!\"",
+      "published": "2026-08-18T07:38:42+00:00",
+      "fetched": "2026-08-18T12:17:38.407679+00:00"
+    },
+    {
+      "id": "be9ee9651173c93f",
+      "title": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue Tussle Atop U.K., Ireland Box Office",
+      "link": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sony s superhero tentpole Spider-Man: Brand New Day dominated the U.K. and Ireland box office for a third consecutive weekend, adding £6.1 million ($8.3 million), elevating its running total to $106.5 million after 20 days of release. Universal s epic The Odyssey held onto second place in its fifth frame.",
+      "published": "2026-08-18T06:54:02+00:00",
+      "fetched": "2026-08-18T12:17:38.218133+00:00"
+    },
     {
       "id": "93178e45f6c72287",
       "title": "Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute",
@@ -1372,136 +1502,6 @@
       "summary": "Paul Bettany is back as Marvel s most popular android Vision in the upcoming Disney+ series, VisionQuest. The eight-episode series release date is set for Oct. 14.",
       "published": "2026-08-15T04:10:48+00:00",
       "fetched": "2026-08-15T06:16:16.109933+00:00"
-    },
-    {
-      "id": "8fdf7b51813e5568",
-      "title": "Jon Favreau’s ‘Oswald the Lucky Rabbit’ Miniseries Sets February Release Date on Disney+",
-      "link": "https://variety.com/2026/tv/news/jon-favreau-oswald-the-lucky-rabbit-release-date-1236834697/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Oswald the Lucky Rabbit, one of Disney s earliest characters who predated Mickey Mouse, is back for the 21st century. At the D23 fan event in Anaheim on Friday, Disney revealed the first look at its live action combined with hand-drawn 2D animation series Oswald the Lucky Rabbit that s being written, directed and executive produced by [ ]",
-      "published": "2026-08-15T04:07:57+00:00",
-      "fetched": "2026-08-15T06:16:16.109967+00:00"
-    },
-    {
-      "id": "710ffa2320ab15a3",
-      "title": "Courtney Love Reveals She ‘Almost Died’ in 2019 Amid Mystery Illness",
-      "link": "https://www.rollingstone.com/music/music-news/courtney-love-almost-died-new-albmum-1235609604/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The musician also revealed her upcoming album, her first since 2010, is done",
-      "published": "2026-08-15T02:24:49+00:00",
-      "fetched": "2026-08-15T06:16:16.223954+00:00"
-    },
-    {
-      "id": "031be88421444a54",
-      "title": "Emmys: Supporting Actress (Comedy) — Hannah Einbinder Defends Her Crown Against ‘Widow’s Bay’",
-      "link": "https://variety.com/lists/emmys-2026-supporting-actress-comedy-predictions/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
-      "published": "2026-08-14T23:55:00+00:00",
-      "fetched": "2026-08-15T00:28:34.634854+00:00"
-    },
-    {
-      "id": "c6a71f63d90a1886",
-      "title": "‘Beef’ Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs",
-      "link": "https://variety.com/2026/tv/awards/lee-sung-jin-beef-tom-brady-emmy-snubs-1236834964/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Lee Sung Jin learned about “Beef’s” latest Emmy haul all at once. The second season of Netflix’s genre-bending anthology earned 16 nominations, the most of any limited or anthology series this year. The major recognition also made Lee the first Asian television creator to receive multiple nominations in writing, directing and producing for the same [ ]",
-      "published": "2026-08-14T23:45:07+00:00",
-      "fetched": "2026-08-15T00:28:34.634915+00:00"
-    },
-    {
-      "id": "726234f76b2fa11b",
-      "title": "Ian Crafford, Editor of ‘Hope and Glory,’ ‘Field of Dreams,’ Dies at 82",
-      "link": "https://variety.com/2026/film/news/ian-crafford-dead-field-of-dreams-1236834958/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ian Crafford, who edited notable films including John Boorman s Hope and Glory and Field of Dreams, died July 22 of cancer at his home in Brazil. He was 82. Born in Hemel Hempstead, U.K., Crafford started working at Elstree Studios at the age of 17 and enjoyed it so much he never returned to school, [ ]",
-      "published": "2026-08-14T23:21:25+00:00",
-      "fetched": "2026-08-15T00:28:34.634962+00:00"
-    },
-    {
-      "id": "1b5f3e43d3be3b31",
-      "title": "Music Industry Moves: Megan Thee Stallion Announces Partnership With Interscope Records",
-      "link": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Megan Thee Stallion has announced a new partnership with Interscope Records, which will handle the global distribution of her music, among other strategic support. As part of the newly inked deal, the rapper will continue on as an independent artist in complete control and ownership of her masters and publishing. Interscope will provide global distribution [ ]",
-      "published": "2026-08-14T23:10:56+00:00",
-      "fetched": "2026-08-15T00:28:34.635005+00:00"
-    },
-    {
-      "id": "4093de90e7ad7d29",
-      "title": "Slipknot and Sid Wilson Part Ways After Nearly 30 Years",
-      "link": "https://www.rollingstone.com/music/music-news/slipknot-sid-wilson-part-ways-1235602008/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Effective immediately, Slipknot will no longer be associated with Sid Wilson,\" the band posted in a since-deleted social media post",
-      "published": "2026-08-14T23:02:01+00:00",
-      "fetched": "2026-08-15T00:28:34.792099+00:00"
-    },
-    {
-      "id": "4eaedadd3fc27734",
-      "title": "Bad Bunny Reggaeton Copyright Case Ruling Gets Second Look From Judge",
-      "link": "https://www.rollingstone.com/music/music-news/bad-bunny-drake-karol-g-reggaeton-copyright-case-reconsider-1235609366/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Lawyers for Bad Bunny, Drake, and a host of reggaeton superstars are asking the judge to reconsider his ruling that only a jury could decide their dispute with reggae duo Steely Clevie",
-      "published": "2026-08-14T22:14:10+00:00",
-      "fetched": "2026-08-15T00:28:34.792138+00:00"
-    },
-    {
-      "id": "7cc9fa04ac9c4378",
-      "title": "Matthew McConaughey Helped Catch a Murderer",
-      "link": "https://variety.com/2026/film/news/matthew-mcconaughey-catch-murderer-unsolved-mysteries-christopher-nolan-interstellar-1236834945/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Matthew McConaughey is officially back. On Friday afternoon, the revered actor descended upon Filmland, an annual film festival in Little Rock, Arkansas, to receive the Variety Legend Groundbreaker Award as well as present a screening of his latest film, “The Rivals of Amziah King,” wherein he stars as a honey-maker who finds himself roped [ ]",
-      "published": "2026-08-14T22:09:08+00:00",
-      "fetched": "2026-08-15T00:28:34.635065+00:00"
-    },
-    {
-      "id": "1e0137b417f2b4a5",
-      "title": "Rosie O’Donnell Says Wynonna Judd Is the Only Trump Supporter She Talks To: ‘I Give Her Grace’ Despite His ‘Misogyny, Racism and Homophobia’",
-      "link": "https://variety.com/2026/tv/news/rosie-odonnell-wynonna-judd-trump-supporter-1236834643/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Rosie O Donnell announced on The Tangle podcast (via EW) that country music singer Wynonna Judd is the only Trump supporter she speaks to these days. O Donnell, who has been making the press rounds to support her one-woman Off Broadway show Common Knowledge and her upcoming guest hosting stint on Jimmy Kimmel Live, has been publicly [ ]",
-      "published": "2026-08-14T22:02:34+00:00",
-      "fetched": "2026-08-15T00:28:34.635114+00:00"
-    },
-    {
-      "id": "43e79dd532a2e523",
-      "title": "Grammys Will Take Asian Music Category Criticism Into Consideration",
-      "link": "https://www.rollingstone.com/music/music-news/grammys-taking-asian-category-criticism-into-consideration-1235609513/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "CEO Harvey Mason jr. initially defended the Best Asian Pop Music Performance category when BTS opted out of submitting, but new conversations with stakeholders might change his mind",
-      "published": "2026-08-14T21:59:50+00:00",
-      "fetched": "2026-08-15T00:28:34.792168+00:00"
-    },
-    {
-      "id": "f0e9a106759c102d",
-      "title": "Luigi Mangione Details for the First Time How He Planned UnitedHealthcare CEO Murder",
-      "link": "https://www.rollingstone.com/culture/culture-news/luigi-mangione-planned-unitedhealthcare-ceo-murder-1235609367/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“On the morning of Dec. 4, 2024, I shot Mr. Thompson in Manhattan and he died”",
-      "published": "2026-08-14T21:53:29+00:00",
-      "fetched": "2026-08-15T00:28:34.792197+00:00"
-    },
-    {
-      "id": "6c9470c047e14b25",
-      "title": "Anne Hathaway Says ‘Movies That Kill Dogs Should Automatically Be Rated R’",
-      "link": "https://variety.com/2026/film/news/anne-hathaway-movies-dog-deaths-rated-r-1236834811/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Anne Hathaway told Complex during her press tour for The End of Oak Street that movies should be rated R if they feature dogs being killed. Moviegoers have wondered if Oak Street would feature dog violence ever since the film s trailer revealed Starbuck, the trusted canine of the film s central family (Hathaway plays matriarch Denise). [ ]",
-      "published": "2026-08-14T21:21:27+00:00",
-      "fetched": "2026-08-15T00:28:34.635157+00:00"
     }
   ]
 }
