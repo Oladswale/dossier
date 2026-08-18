@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-18T12:17:40.087485+00:00",
-  "count": 134,
+  "updated": "2026-08-18T18:17:40.796440+00:00",
+  "count": 138,
   "items": [
+    {
+      "id": "eb577bb679e19268",
+      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model learns and what it produces dissolves.",
+      "published": "2026-08-18T16:35:00+00:00",
+      "fetched": "2026-08-18T18:17:39.206731+00:00"
+    },
+    {
+      "id": "2d77a4988c46fcb0",
+      "title": "Anthea Coster awarded International Union of Radio Science Appleton Prize",
+      "link": "https://news.mit.edu/2026/anthea-coster-awarded-ursi-appleton-prize-0818",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The MIT Haystack Observatory principal research scientist is honored for lifetime contributions to ionospheric research.",
+      "published": "2026-08-18T15:35:00+00:00",
+      "fetched": "2026-08-18T18:17:39.206769+00:00"
+    },
+    {
+      "id": "1d7fa0d3544bd4cb",
+      "title": "The Secret History of the Antichrist",
+      "link": "https://www.openculture.com/2026/08/the-secret-history-of-the-antichrist.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "PayPal co-founder Peter Thiel has spoken publicly on a variety of issues from contrarian entrepreneurship to technical stagnation to geopolitical struggle. Lately, he’s drawn more attention with extended remarks on what would seem an unexpected subject: the Antichrist, a seemingly enlightened but deceptively malevolent figure or movement bent on putting the world under innovation-stifling unified control. [ ]",
+      "published": "2026-08-18T14:47:15+00:00",
+      "fetched": "2026-08-18T18:17:40.796212+00:00"
+    },
     {
       "id": "a3f37e69593c9d50",
       "title": "5,000 Classic Movie Posters Digitized & Put Online: Free to Browse & Download",
@@ -42,6 +72,16 @@
       "summary": "A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some neurons.",
       "published": "2026-08-17T20:20:00+00:00",
       "fetched": "2026-08-18T00:27:15.418400+00:00"
+    },
+    {
+      "id": "49606c3114889028",
+      "title": "Q&A: Rethinking how innovation happens",
+      "link": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+      "published": "2026-08-17T19:50:00+00:00",
+      "fetched": "2026-08-18T18:17:39.206827+00:00"
     },
     {
       "id": "41417dca51e4336b",

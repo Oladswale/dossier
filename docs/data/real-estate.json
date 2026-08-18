@@ -1,8 +1,88 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-18T12:17:40.754865+00:00",
+  "updated": "2026-08-18T18:17:43.568378+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6e54a8189f508b84",
+      "title": "Inside Marc Jacobs’ $9.2 Million Frank Lloyd Wright-Designed ‘Sanctuary’—as he Details ‘Unexpected’ 4-Year Renovation of the Property",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/inside-marc-jacobs-frank-lloyd-white-fixer-upper/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Jacobs, 63, purchased the upstate New York property on a whim in 2019—but it has since become his own idyllic retreat.",
+      "published": "2026-08-18T17:37:00+00:00",
+      "fetched": "2026-08-18T18:17:43.567635+00:00"
+    },
+    {
+      "id": "41b0589027360edd",
+      "title": "Where Sellers Are Cracking: The Housing Markets Giving Buyers More Leverage",
+      "link": "https://www.biggerpockets.com/blog/housing-markets-where-buyers-have-more-leverage",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "We know the narrative: The housing market is too expensive. That, however, appears to be changing. Data from Parcl Labs shows where the ice is cracking.",
+      "published": "2026-08-18T15:58:32+00:00",
+      "fetched": "2026-08-18T18:17:43.212800+00:00"
+    },
+    {
+      "id": "9ef0c3d000edd49e",
+      "title": "Flock Camera Controversy Spurs Rhode Island Moratorium on Plate-Reading Devices",
+      "link": "https://www.realtor.com/news/real-estate-news/flock-camera-rhode-island-ban-moratorium-governor/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As Flock and other camera companies spur controversy, Rhode Island is pausing installation of new cameras and is studying their effects.",
+      "published": "2026-08-18T15:53:28+00:00",
+      "fetched": "2026-08-18T18:17:43.567673+00:00"
+    },
+    {
+      "id": "4383e063507a933f",
+      "title": "Dramatic Mirror House Designed To Reflect Its Natural Surroundings Is Listed for $15 Million in Star-Studded Enclave of Pound Ridge",
+      "link": "https://www.realtor.com/news/unique-homes/mirror-house-for-sale-pound-ridge-new-york/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The incredible home sits on nearly 20 acres of bucolic land in the star-studded Westchester enclave of Pound Ridge.",
+      "published": "2026-08-18T15:35:50+00:00",
+      "fetched": "2026-08-18T18:17:43.567705+00:00"
+    },
+    {
+      "id": "d116e1718e5a043d",
+      "title": "Pending Home Sales Retreat in July as Mortgage Rates Hit 2026 High",
+      "link": "https://www.realtor.com/news/trends/pending-home-sales-housing-market-nar-july-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Pending home sales continue to lag, with decreases felt across all regions.",
+      "published": "2026-08-18T14:00:43+00:00",
+      "fetched": "2026-08-18T18:17:43.567730+00:00"
+    },
+    {
+      "id": "058e8063122d5490",
+      "title": "EXCLUSIVE: Pete Davidson Takes $1.9 Million Upstate New York Home Off the Market—Just 2 Months After Slashing Asking Price",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/pete-davidson-new-york-home-off-market-update/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The comedian first listed the home for $2.5 million in February but ended up lowering that asking price on three occasions.",
+      "published": "2026-08-18T13:33:04+00:00",
+      "fetched": "2026-08-18T18:17:43.567763+00:00"
+    },
+    {
+      "id": "2bf347facce7e29e",
+      "title": "Single-Family Home Construction Plunges in July, but Permits Offer Signs of Hope",
+      "link": "https://www.realtor.com/news/trends/housing-starts-single-family-homes-construction-census-july-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "July brought a sharp decline in construction of new single-family homes across the U.S., but new permits offer some signs of hope.",
+      "published": "2026-08-18T13:27:05+00:00",
+      "fetched": "2026-08-18T18:17:43.567793+00:00"
+    },
+    {
+      "id": "fa7c93ba22dc95e0",
+      "title": "EXCLUSIVE: Chris Evans Finds a Buyer for His $6.4 Million L.A. Home—After Quitting California To Return to East Coast",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/chris-evans-los-angeles-home-sold-buyer-move-east-coast-family/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Evans landed a buyer for the sprawling hilltop home, just two months after relisting the property with a decreased asking price.",
+      "published": "2026-08-18T12:55:35+00:00",
+      "fetched": "2026-08-18T18:17:43.567826+00:00"
+    },
     {
       "id": "e2a1c75672a29386",
       "title": "Finding Discounted Real Estate Just Got Easier",
@@ -1422,86 +1502,6 @@
       "summary": "Known as Bannon Island in honor of the Irish carpenter who first built a home there, the property has never before been listed for sale.",
       "published": "2026-08-08T12:41:00+00:00",
       "fetched": "2026-08-08T18:18:10.712332+00:00"
-    },
-    {
-      "id": "24dddfba8acb07c4",
-      "title": "‘I Learned What It Really Takes to Build a Tiny Home—and the Biggest Problems Aren’t What You’d Expect’",
-      "link": "https://www.realtor.com/news/first-person/tiny-house-building-advice-workshop-problems-surprise/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As someone who has long been obsessed with the idea of building my own home, a tiny house seemed like a simpler place to start.",
-      "published": "2026-08-08T10:00:00+00:00",
-      "fetched": "2026-08-08T12:19:46.906395+00:00"
-    },
-    {
-      "id": "cd46b6caa574ca90",
-      "title": "Flock Cameras Spur Privacy Debate as Dozens of Cities Pull Plug on the Tech",
-      "link": "https://www.realtor.com/news/trends/flock-cameras-privacy-surveillance-data-debate-technology/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Approximately 23 city councils across the U.S. have canceled, rejected, or deactivated Flock’s ALPRs within their jurisdiction.",
-      "published": "2026-08-07T21:49:35+00:00",
-      "fetched": "2026-08-08T00:38:58.013120+00:00"
-    },
-    {
-      "id": "d9e1326db0a4b392",
-      "title": "‘Once-in-a-Generation’ Cape Cod Estate Could Become Most Expensive Home Ever Sold in Idyllic Massachusetts Enclave",
-      "link": "https://www.realtor.com/news/unique-homes/cape-cod-estate-sandwich-sales-record-most-expensive/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A waterfront estate on Cape Cod has hit the market for $12.9 million, a price that could rewrite the record books in Massachusetts.",
-      "published": "2026-08-07T21:36:31+00:00",
-      "fetched": "2026-08-08T00:38:58.013153+00:00"
-    },
-    {
-      "id": "1e9451d7311fd6a3",
-      "title": "City Council Member Is Accused of Blocking New Housing by Demanding $5 Million for Small Strip of Land",
-      "link": "https://www.realtor.com/news/trends/buckeye-az-city-council-tony-youngker-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Longtime Buckeye, AZ, Councilman Tony Youngker has been accused of demanding a king's ransom for a sliver of his land.",
-      "published": "2026-08-07T21:22:28+00:00",
-      "fetched": "2026-08-08T00:38:58.013176+00:00"
-    },
-    {
-      "id": "f30f87c0eedddd8e",
-      "title": "Billionaire Starbucks Mogul Howard Schultz Sells Longtime Hawaii Retreat for $36 Million—Months After Quitting Seattle To Move to Florida",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/howard-schultz-starbucks-hawaii-estate-sold-record/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Schultz, 73, who is best known as the former CEO of Starbucks, offloaded the estate on July 30, according to property records.",
-      "published": "2026-08-07T20:59:24+00:00",
-      "fetched": "2026-08-08T00:38:58.013211+00:00"
-    },
-    {
-      "id": "a7a6613195ba4f43",
-      "title": "This $2.2 Billion Merger Will Create the Nation’s 6th Largest Homebuilder",
-      "link": "https://www.realtor.com/news/real-estate-news/dream-finders-beazer-homes-homebuilder-merger-news/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Dream Finders Homes Inc. will acquire Beazer Homes USA Inc. in a $915 million deal that will create the nation's sixth-largest homebuilder.",
-      "published": "2026-08-07T20:07:33+00:00",
-      "fetched": "2026-08-08T00:38:58.013235+00:00"
-    },
-    {
-      "id": "fcb6ffad84bef5fd",
-      "title": "Trump Restarts Bid To Fire Fed Gov. Lisa Cook After SCOTUS Ruling",
-      "link": "https://www.realtor.com/news/real-estate-news/donald-trump-federal-reserve-lisa-cook/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Fed Gov. Lisa Cook received notice that the White House is \"considering\" removing her and gave her three weeks to respond.",
-      "published": "2026-08-07T20:07:02+00:00",
-      "fetched": "2026-08-08T00:38:58.013256+00:00"
-    },
-    {
-      "id": "50e9b1053a41dcc3",
-      "title": "Los Angeles Luxury Condo Market Heats Up as Wealthy Buyers Move In",
-      "link": "https://www.realtor.com/news/trends/los-angeles-luxury-condo-market-prices-data-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The high end of L.A.'s condo market is heating up, defying a sluggish pace seen at lower segments of the market, new data shows.",
-      "published": "2026-08-07T20:01:22+00:00",
-      "fetched": "2026-08-08T00:38:58.013277+00:00"
     }
   ]
 }
