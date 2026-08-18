@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-18T00:27:16.947898+00:00",
-  "count": 131,
+  "updated": "2026-08-18T06:19:44.791558+00:00",
+  "count": 133,
   "items": [
+    {
+      "id": "9fc6e5461e7b693e",
+      "title": "How 35 percent of U.S. employees are left on the margins",
+      "link": "https://news.mit.edu/2026/how-35-percent-us-employees-are-left-on-margins-paul-osterman-book-0818",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In a new book, Paul Osterman details his research finding more than one-third of U.S. workers are “disposable,” with little security or chance of job advancement.",
+      "published": "2026-08-18T04:00:00+00:00",
+      "fetched": "2026-08-18T06:19:43.514722+00:00"
+    },
+    {
+      "id": "16877c41a60981a2",
+      "title": "Tackling rare genetic disorders with patient-focused science",
+      "link": "https://news.mit.edu/2026/tackling-rare-genetic-disorders-patient-focused-science-shannon-knight-0818",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Shannon Knight, a brain and cognitive sciences PhD candidate and McGovern Institute researcher, focuses on developing a novel gene therapy.",
+      "published": "2026-08-18T04:00:00+00:00",
+      "fetched": "2026-08-18T06:19:43.514749+00:00"
+    },
     {
       "id": "5bdc3617b0b7469e",
       "title": "DNA shaper steers nervous system development",
