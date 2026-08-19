@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-19T06:21:02.864935+00:00",
-  "count": 141,
+  "updated": "2026-08-19T12:18:03.947646+00:00",
+  "count": 144,
   "items": [
+    {
+      "id": "40e84f05a3b8f5da",
+      "title": "The Complete History of the Beatles as Told By Conan O’Brien",
+      "link": "https://www.openculture.com/2026/08/the-complete-history-of-the-beatles-as-told-by-conan-obrien.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The world ended in the nineteen-sixties. Or rather, one world ended in the nineteen-sixties and gave way to another, a transition personified by no human beings more clearly than the Beatles. “They are lightning rods for so much that makes the sixties a revolutionary decade,” says The Rest Is History podcast co-host Tom Holland in the [ ]",
+      "published": "2026-08-19T09:00:29+00:00",
+      "fetched": "2026-08-19T12:18:03.947385+00:00"
+    },
+    {
+      "id": "a1cb603c0458cd7a",
+      "title": "Securing wireless communication in next-generation devices",
+      "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature.",
+      "published": "2026-08-19T09:00:00+00:00",
+      "fetched": "2026-08-19T12:18:02.327578+00:00"
+    },
+    {
+      "id": "b4afe3c0610b11b0",
+      "title": "NASA Enlists Andy Warhol, Annie Leibovitz, Norman Rockwell & 350 Other Artists to Visually Document America’s Space Program",
+      "link": "https://www.openculture.com/2026/08/nasa-enlists-artists-to-visually-document-americas-space-program.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "It’s hard to imagine that the space-crazed general public needed any help getting worked up about astronauts and NASA in the early ’60s. Perhaps the wild popularity of space-related imagery was in part what motivated NASA administrator James Webb to create the NASA Art Program in 1962. Although the program’s handpicked artists weren’t edited or censored in any [ ]",
+      "published": "2026-08-19T08:00:06+00:00",
+      "fetched": "2026-08-19T12:18:03.947450+00:00"
+    },
     {
       "id": "82a75e9c10c79898",
       "title": "Cell-preservation technique could make CAR-T cell therapy more accessible",
