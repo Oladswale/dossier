@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-19T00:27:40.555025+00:00",
-  "count": 139,
+  "updated": "2026-08-19T06:21:02.864935+00:00",
+  "count": 141,
   "items": [
+    {
+      "id": "82a75e9c10c79898",
+      "title": "Cell-preservation technique could make CAR-T cell therapy more accessible",
+      "link": "https://news.mit.edu/2026/cell-preservation-technique-could-make-car-t-cell-therapy-more-accessible-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers’ approach, which uses naturally occurring sugars as antifreeze, could make it easier for hospitals to deploy this type of cancer treatment.",
+      "published": "2026-08-19T04:00:00+00:00",
+      "fetched": "2026-08-19T06:21:01.412532+00:00"
+    },
+    {
+      "id": "f3d95f590a29106a",
+      "title": "Startup brings ancient Roman concrete technology to modern construction",
+      "link": "https://news.mit.edu/2026/startup-dmat-brings-ancient-roman-concrete-technology-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "DMAT is commercializing findings from the lab of Associate Professor Admir Masic to make concrete longer-lasting and more sustainable.",
+      "published": "2026-08-19T04:00:00+00:00",
+      "fetched": "2026-08-19T06:21:01.412560+00:00"
+    },
     {
       "id": "eb577bb679e19268",
       "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
