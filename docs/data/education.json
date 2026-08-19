@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-19T12:18:03.947646+00:00",
-  "count": 144,
+  "updated": "2026-08-19T18:14:43.308834+00:00",
+  "count": 147,
   "items": [
+    {
+      "id": "9d2c500b52378933",
+      "title": "How the Toxoplasma parasite adapts to crowded conditions in host cells",
+      "link": "https://news.mit.edu/2026/how-toxoplasma-parasite-adapts-to-crowded-host-cell-conditions-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new study by Whitehead Institute researchers identifies how the widespread parasite Toxoplasma gondii survives in crowded environments in infected cells, which helps it persist in long-lasting brain cysts.",
+      "published": "2026-08-19T17:50:00+00:00",
+      "fetched": "2026-08-19T18:14:41.779051+00:00"
+    },
+    {
+      "id": "aea5a6938e161689",
+      "title": "Creating innovations that scale across borders",
+      "link": "https://news.mit.edu/2026/global-design-creating-innovations-that-scale-across-borders-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new book coauthored by Professor Amos Winter asserts that, to solve major challenges and deliver products of value to consumers in both developed and emerging markets, innovators must think and act globally.",
+      "published": "2026-08-19T17:15:00+00:00",
+      "fetched": "2026-08-19T18:14:41.779084+00:00"
+    },
+    {
+      "id": "70f783d461ce0e4f",
+      "title": "Flipping the script on biology education, and scaling it up",
+      "link": "https://news.mit.edu/2026/flipping-script-on-biology-education-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Using a modular kit, the MIT Edgerton Center is bringing a hands-on biology curriculum to Massachusetts’ second-largest school district.",
+      "published": "2026-08-19T15:20:00+00:00",
+      "fetched": "2026-08-19T18:14:41.779110+00:00"
+    },
     {
       "id": "40e84f05a3b8f5da",
       "title": "The Complete History of the Beatles as Told By Conan O’Brien",
