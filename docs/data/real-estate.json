@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-20T06:21:48.779508+00:00",
+  "updated": "2026-08-20T12:19:58.394564+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8fa1bb81bc0d3b15",
+      "title": "JPMorgan Makes a $750B Bet on the Housing Market",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-453",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "JPMorgan Chase, America’s largest bank, just made a big bet on housing—a $750B bet to be exact. At a time when most people hope home prices will fall, JPMorgan is [ ]",
+      "published": "2026-08-20T11:00:27+00:00",
+      "fetched": "2026-08-20T12:19:58.115184+00:00"
+    },
+    {
+      "id": "8b1a176918437b5e",
+      "title": "Florida’s ‘High-Beta’ Housing Market May Be Poised for a Rebound",
+      "link": "https://www.realtor.com/news/trends/florida-housing-market-rebound-luxury-sales-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Though high interest rates and strained affordability dominate the housing headlines, the Sunshine State could lead the market's rebound.",
+      "published": "2026-08-20T09:00:00+00:00",
+      "fetched": "2026-08-20T12:19:58.393863+00:00"
+    },
+    {
+      "id": "2b9ab2d558ac98a3",
+      "title": "Tale of Two Paradises: What $1 Million Buys in the Florida Keys vs. San Diego",
+      "link": "https://www.realtor.com/news/trends/key-west-san-diego-luxury-market-million-dollar-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The coastal paradises of San Diego and the Florida Keys, nestled on opposite shores, tell different stories.",
+      "published": "2026-08-20T08:43:00+00:00",
+      "fetched": "2026-08-20T12:19:58.393900+00:00"
+    },
+    {
+      "id": "8c505a47eb961daa",
+      "title": "‘Million Dollar Listing’ Star James Harris Opens Up Outdoor Oasis at L.A. Home Where He’s Finding Balance Amid ‘Whirlwind’ New Chapter",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/million-dollar-listing-james-harris-bravo-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Harris, 42, purchased the six-bedroom abode in 2021, the same year he made his final appearance as a main cast member on the hit Bravo show.",
+      "published": "2026-08-20T08:17:00+00:00",
+      "fetched": "2026-08-20T12:19:58.393960+00:00"
+    },
     {
       "id": "1047931fcd5e780a",
       "title": "Share of ‘Equity-Rich’ Homeowners Drops to Lowest in 5 Years as Underwater Mortgages Rise",
@@ -1462,46 +1502,6 @@
       "summary": "A judge blocked key parts of NYC's controversial second-home tax rollout after homeowners sued over how they were identified.",
       "published": "2026-08-11T16:48:00+00:00",
       "fetched": "2026-08-11T18:41:47.549394+00:00"
-    },
-    {
-      "id": "be557ec2466c5698",
-      "title": "Chris Pratt and Katherine Schwarzenegger Make Yet Another Attempt To Sell $20 Million Mansion—3 Years After First Listing It",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/chris-pratt-katherine-schwarzenegger-los-angeles-home-sale-update-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pratt and his wife, Katherine Schwarzenegger, first listed the property for sale for $32 million in July 2023—but struggled to find a buyer.",
-      "published": "2026-08-11T15:45:06+00:00",
-      "fetched": "2026-08-11T18:41:47.549429+00:00"
-    },
-    {
-      "id": "7378f7697daeb2d7",
-      "title": "Home Sales Dip in July as Mortgage Rates Hit 2026 High",
-      "link": "https://www.realtor.com/news/trends/existing-home-sales-prices-july-2026-nar-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home sales dipped in July, a month defined by steadily increasing mortgage rates, the National Association of Realtors reported Tuesday.",
-      "published": "2026-08-11T14:00:00+00:00",
-      "fetched": "2026-08-11T18:41:47.549457+00:00"
-    },
-    {
-      "id": "9e47feb0034edb1c",
-      "title": "Here’s What a $975 Million Powerball Winner Would Actually Take Home for a House After Taxes",
-      "link": "https://www.realtor.com/news/trends/powerball-lottery-win-house-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Winning the nearly billion-dollar lottery would be life-changing—and yet how much house you could afford may surprise you.",
-      "published": "2026-08-11T13:25:00+00:00",
-      "fetched": "2026-08-11T18:41:47.549487+00:00"
-    },
-    {
-      "id": "a06c23e96c098a32",
-      "title": "Joseph and Kendra Duggar’s $400K Arkansas Home Lingers on Market as They Withdraw Not Guilty Plea in Child Endangerment Case",
-      "link": "https://www.realtor.com/news/reality-tv/joseph-kendra-duggar-sex-crimes-case-arkansas-home-for-sale-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Jospeh and Kendra were each charged with four counts of second-degree child endangerment in Mach following a search of their home.",
-      "published": "2026-08-11T12:31:00+00:00",
-      "fetched": "2026-08-11T18:41:47.549516+00:00"
     }
   ]
 }
