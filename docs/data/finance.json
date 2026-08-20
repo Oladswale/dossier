@@ -1,8 +1,138 @@
 {
   "category": "finance",
-  "updated": "2026-08-19T18:14:28.031883+00:00",
+  "updated": "2026-08-20T00:27:45.300405+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bb3eb19cc210880b",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "published": "2026-08-19T23:30:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215536+00:00"
+    },
+    {
+      "id": "75c99258902ab88d",
+      "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
+      "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "TIPS yields are at or close to 20-year highs.",
+      "published": "2026-08-19T23:01:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215587+00:00"
+    },
+    {
+      "id": "444d5362bc4b391c",
+      "title": "The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful",
+      "link": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Previous instances of short-term pressure on semiconductor stocks opened up opportunities for investors who bought the dip, according to one analyst.",
+      "published": "2026-08-19T22:02:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215631+00:00"
+    },
+    {
+      "id": "d93dbec9e9661b77",
+      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There’s growing confidence in the idea that traditional software companies will be able to withstand AI disruption.",
+      "published": "2026-08-19T21:50:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215660+00:00"
+    },
+    {
+      "id": "e3ea565ceb4a5ab1",
+      "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
+      "link": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Young Chinese are renting cameras, drones and camping gear instead of buying them. It’s a clever way to save money — but also the latest challenge to Beijing’s effort to get consumers spending.",
+      "published": "2026-08-19T21:44:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215697+00:00"
+    },
+    {
+      "id": "216673ed13f494f7",
+      "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+      "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
+      "published": "2026-08-19T21:26:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215721+00:00"
+    },
+    {
+      "id": "b2603dc062ac7e3f",
+      "title": "Why the Treasury market’s newfound calm could break down in September",
+      "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A brutal summer stretch for the U.S. Treasury market risks getting worse come September, right as many of the world’s largest companies plan to unleash a new wave of bond issuance.",
+      "published": "2026-08-19T21:10:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215754+00:00"
+    },
+    {
+      "id": "186e0a7edf40b344",
+      "title": "‘I brought my Super Bowl ring to the open houses’: Seahawks player shares story of getting his real-estate license",
+      "link": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Montorie Foster Jr. of the Seattle Seahawks got his real-estate license before becoming a Super Bowl champion.",
+      "published": "2026-08-19T21:00:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215781+00:00"
+    },
+    {
+      "id": "d61eeea93b681737",
+      "title": "BREAKING: Geregu Power pays N6 billion owed investors on N40.09 billion bond",
+      "link": "https://nairametrics.com/2026/08/19/breaking-geregu-power-pays-n6-billion-owed-investors-on-n40-09-billion-bond/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Geregu Power Plc has paid the sum of N6 billion (N6,026,093,363.1) owed to investors on its N40.09 billion Series 1 Senior Unsecured Bond, ending the weeks of controversy over its default. While the company has not officially announced this, sources close to the matter confirmed the development to Nairametrics. The default, which Nairametrics first reported [ ] The post BREAKING: Geregu Power pays N6 billion owed investors on N40.09 billion bond appeared first on Nairametrics .",
+      "published": "2026-08-19T20:50:15+00:00",
+      "fetched": "2026-08-20T00:27:44.514467+00:00"
+    },
+    {
+      "id": "e9091211f471b7e4",
+      "title": "The national debt just hit $40 trillion. Here’s how it can hurt Americans.",
+      "link": "https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A research group looked at the consequences for a student financing college, a family buying a home and a Social Security recipient.",
+      "published": "2026-08-19T20:36:00+00:00",
+      "fetched": "2026-08-20T00:27:44.215806+00:00"
+    },
+    {
+      "id": "86976116d7ffe77b",
+      "title": "Chams makes N7.7 billion from cards, biometrics services as H1 profit rises",
+      "link": "https://nairametrics.com/2026/08/19/chams-makes-n7-7-billion-from-cards-biometrics-services-as-h1-profit-rises/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Chams Holding Company Plc generated N7.7 billion from the supply of cards and biometrics-related services in the first half of 2026, as the company continued to expand its presence in Nigeria's payments and identity infrastructure businesses. The post Chams makes N7.7 billion from cards, biometrics services as H1 profit rises appeared first on Nairametrics .",
+      "published": "2026-08-19T19:43:01+00:00",
+      "fetched": "2026-08-20T00:27:44.514515+00:00"
+    },
+    {
+      "id": "ea4edef5eca8773a",
+      "title": "NGX sheds N555 billion as Aradel plunge deepens seven-day market slide",
+      "link": "https://nairametrics.com/2026/08/19/ngx-sheds-n555-billion-as-aradel-plunge-deepens-seven-day-market-slide/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market extended its decline on Wednesday, August 19, 2026, with the All-Share Index (ASI) falling for a seventh consecutive trading session, as renewed selling pressure in oil and gas heavyweights, particularly Aradel Holdings, deepened the ongoing correction. The post NGX sheds N555 billion as Aradel plunge deepens seven-day market slide appeared first on Nairametrics .",
+      "published": "2026-08-19T19:20:45+00:00",
+      "fetched": "2026-08-20T00:27:44.514558+00:00"
+    },
+    {
+      "id": "d25908ae651c34a3",
+      "title": "Tinubu orders 90-day national security threat assessment, five-year defence plan",
+      "link": "https://nairametrics.com/2026/08/19/tinubu-orders-90-day-national-security-threat-assessment-five-year-defence-plan/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu has directed a nine-man committee of Nigeria's top military and intelligence chiefs to produce a comprehensive National Threat Assessment and a rolling five-year Strategic Defence Operations Plan within 90 days. The post Tinubu orders 90-day national security threat assessment, five-year defence plan appeared first on Nairametrics .",
+      "published": "2026-08-19T19:15:45+00:00",
+      "fetched": "2026-08-20T00:27:44.514596+00:00"
+    },
     {
       "id": "b000810fc82942c0",
       "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -102,6 +232,16 @@
       "summary": "“They are always telling me how much harder their life is because they have kids.”",
       "published": "2026-08-19T17:00:00+00:00",
       "fetched": "2026-08-19T18:14:26.876782+00:00"
+    },
+    {
+      "id": "56d9898c062322d4",
+      "title": "Tinubu appoints Abel Enitan as new Head of Civil Service",
+      "link": "https://nairametrics.com/2026/08/19/tinubu-appoints-abel-enitan-as-new-head-of-civil-service/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Ahmed Tinubu has appointed Abel Olumuyiwa Enitan as the new Head of the Civil Service of the Federation (HCSF), effective August 27, 2026. The post Tinubu appoints Abel Enitan as new Head of Civil Service appeared first on Nairametrics .",
+      "published": "2026-08-19T16:53:07+00:00",
+      "fetched": "2026-08-20T00:27:44.514648+00:00"
     },
     {
       "id": "06e8770c084e40e0",
@@ -1362,146 +1502,6 @@
       "summary": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
       "published": "2026-08-17T17:45:00+00:00",
       "fetched": "2026-08-17T18:18:42.705672+00:00"
-    },
-    {
-      "id": "6e9c8abee4af9d47",
-      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-      "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
-      "published": "2026-08-17T17:43:40+00:00",
-      "fetched": "2026-08-17T18:18:42.840379+00:00"
-    },
-    {
-      "id": "f379c925d19eb979",
-      "title": "Abuja Flooding: Wike blames scavengers as Master Plan faces review",
-      "link": "https://nairametrics.com/2026/08/17/abuja-flooding-wike-blames-scavengers-as-master-plan-faces-review/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Minister of the Federal Capital Territory (FCT), Nyesom Wike, has linked recent flooding in Abuja to damage caused by scavengers, adding that the nation's capital's master plan is already under review. The post Abuja Flooding: Wike blames scavengers as Master Plan faces review appeared first on Nairametrics .",
-      "published": "2026-08-17T17:31:25+00:00",
-      "fetched": "2026-08-17T18:18:43.528650+00:00"
-    },
-    {
-      "id": "5e78b3bce8be8eea",
-      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-      "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
-      "published": "2026-08-17T17:10:01+00:00",
-      "fetched": "2026-08-17T18:18:42.840416+00:00"
-    },
-    {
-      "id": "2243c820d9fc0aaa",
-      "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
-      "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
-      "published": "2026-08-17T16:31:00+00:00",
-      "fetched": "2026-08-17T18:18:42.705717+00:00"
-    },
-    {
-      "id": "01f21348673fa8b8",
-      "title": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
-      "link": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A Rothschild analyst suggests Apple could improve upon its ‘subpar’ AI efforts by deploying Nvidia’s open-source models.",
-      "published": "2026-08-17T16:00:00+00:00",
-      "fetched": "2026-08-17T18:18:42.705760+00:00"
-    },
-    {
-      "id": "b14281518310c785",
-      "title": "NDLEA destroys 330 tonnes of illicit drugs worth N301 billion in Lagos",
-      "link": "https://nairametrics.com/2026/08/17/ndlea-destroys-330-tonnes-of-illicit-drugs-worth-n301-billion-in-lagos/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Drug Law Enforcement Agency (NDLEA) has destroyed 329,865.585 kilogrammes of assorted illicit drugs and psychotropic substances with an estimated street value of N301.06 billion in Lagos. The post NDLEA destroys 330 tonnes of illicit drugs worth N301 billion in Lagos appeared first on Nairametrics .",
-      "published": "2026-08-17T15:49:05+00:00",
-      "fetched": "2026-08-17T18:18:43.528693+00:00"
-    },
-    {
-      "id": "802ecaee1285bf73",
-      "title": "Court orders banks, fintechs to freeze 69 accounts over alleged N1.39 billion fraud",
-      "link": "https://nairametrics.com/2026/08/17/court-orders-banks-fintechs-to-freeze-69-accounts-over-alleged-n1-39-billion-fraud/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal High Court in Abuja on Monday ordered 12 commercial banks and six fintech platforms to freeze (place on post-no-debit) about 69 accounts following alleged fraudulent and unauthorised credit transactions on the eTranzact International Plc ecosystem. The post Court orders banks, fintechs to freeze 69 accounts over alleged N1.39 billion fraud appeared first on Nairametrics .",
-      "published": "2026-08-17T15:28:49+00:00",
-      "fetched": "2026-08-18T00:27:10.679968+00:00"
-    },
-    {
-      "id": "cf9547635aa1c9c0",
-      "title": "Court orders banks, fintechs to freeze 69 accounts over alleged N1.39 billion eTranzact fraud",
-      "link": "https://nairametrics.com/2026/08/17/court-orders-banks-fintechs-to-freeze-69-accounts-over-alleged-n1-39-billion-etranzact-fraud/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal High Court in Abuja on Monday ordered 12 commercial banks and six fintech platforms to freeze (place on post-no-debit) about 69 accounts following alleged fraudulent and unauthorised credit transactions on the eTranzact International Plc ecosystem. The post Court orders banks, fintechs to freeze 69 accounts over alleged N1.39 billion eTranzact fraud appeared first on Nairametrics .",
-      "published": "2026-08-17T15:28:49+00:00",
-      "fetched": "2026-08-17T18:18:43.528739+00:00"
-    },
-    {
-      "id": "4d6a7f761decc853",
-      "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "AI companies are seeing improved financial performance, according to reports, and memory-chip companies may be able to better fend off Chinese competition with the help of U.S. officials.",
-      "published": "2026-08-17T15:22:00+00:00",
-      "fetched": "2026-08-17T18:18:42.705808+00:00"
-    },
-    {
-      "id": "3923250c3618c9ad",
-      "title": "MREIF Half-Year earnings reflect continued growth in affordable mortgage lending",
-      "link": "https://nairametrics.com/2026/08/17/mreif-half-year-earnings-reflect-continued-growth-in-affordable-mortgage-lending/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria s housing deficit has never posed a demand problem. Millions of Nigerians want to invest in properties and will service a mortgage if the terms are reasonable. Currently, what the industry lacks is a fairly priced financing structure that is patient enough for prospective property owners while delivering attractive returns to the providers of the [ ] The post MREIF Half-Year earnings reflect continued growth in affordable mortgage lending appeared first on Nairametrics .",
-      "published": "2026-08-17T15:21:08+00:00",
-      "fetched": "2026-08-17T18:18:43.528792+00:00"
-    },
-    {
-      "id": "67fef1afdd59bee3",
-      "title": "Nigerians are returning to ATMs as PoS transactions fall 20%",
-      "link": "https://techcabal.com/2026/08/17/nigerians-moved-19-4-billion-through-atms/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "After years of losing ground to Point-of-Sale (PoS) agents, Automated Teller Machines (ATMs) are making a comeback as transaction volumes rise while PoS volumes decline.",
-      "published": "2026-08-17T15:20:19+00:00",
-      "fetched": "2026-08-17T18:18:44.911565+00:00"
-    },
-    {
-      "id": "cf447c6ecc395fa8",
-      "title": "These 15 Nigerian stocks have returned over 100% in 2026",
-      "link": "https://nairametrics.com/2026/08/17/these-15-nigerian-stocks-have-returned-over-100-in-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Fifteen stocks listed on the Nigerian Exchange have delivered returns of more than 100% since the start of 2026, with the weakest performer still gaining almost twice as much as the broader market year-to-date. The post These 15 Nigerian stocks have returned over 100% in 2026 appeared first on Nairametrics .",
-      "published": "2026-08-17T15:10:48+00:00",
-      "fetched": "2026-08-17T18:18:43.528833+00:00"
-    },
-    {
-      "id": "d779140186720672",
-      "title": "Ecobank scraps director tenure limit, retains retirement age at 70",
-      "link": "https://nairametrics.com/2026/08/17/ecobank-scraps-director-tenure-limit-retains-retirement-age-at-70/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ecobank Transnational Incorporated (ETI) has abolished the tenure limit for non-executive directors while retaining the mandatory retirement age of 70, following shareholder approval of a series of governance reforms aimed at strengthening board effectiveness and continuity. The post Ecobank scraps director tenure limit, retains retirement age at 70 appeared first on Nairametrics .",
-      "published": "2026-08-17T15:08:00+00:00",
-      "fetched": "2026-08-17T18:18:43.528876+00:00"
-    },
-    {
-      "id": "199edac309e4226e",
-      "title": "Nigeria gets 65% of EU’s €2.3 million cholera fund for 4 African countries",
-      "link": "https://nairametrics.com/2026/08/17/nigeria-gets-65-of-eus-e2-3-million-cholera-fund-for-4-african-countries/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria has received €1.5 million, representing about 65% of the European Union’s €2.3 million emergency humanitarian funding for four African countries battling cholera outbreaks. The post Nigeria gets 65% of EU’s €2.3 million cholera fund for 4 African countries appeared first on Nairametrics .",
-      "published": "2026-08-17T15:01:07+00:00",
-      "fetched": "2026-08-17T18:18:43.528926+00:00"
     }
   ]
 }

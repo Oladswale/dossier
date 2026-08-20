@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-19T18:14:43.308834+00:00",
-  "count": 147,
+  "updated": "2026-08-20T00:28:00.445677+00:00",
+  "count": 148,
   "items": [
+    {
+      "id": "bc65b06f9ee2b9aa",
+      "title": "The game’s the thing",
+      "link": "https://news.mit.edu/2026/games-the-thing-kayode-dada-0819",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT senior Kayode Dada has a passion for designing games, and a penchant for building community.",
+      "published": "2026-08-19T18:35:00+00:00",
+      "fetched": "2026-08-20T00:27:59.245488+00:00"
+    },
     {
       "id": "9d2c500b52378933",
       "title": "How the Toxoplasma parasite adapts to crowded conditions in host cells",
