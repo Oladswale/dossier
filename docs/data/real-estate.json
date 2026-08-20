@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-20T12:19:58.394564+00:00",
+  "updated": "2026-08-20T18:18:55.870048+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1d63eb17f9f29b3a",
+      "title": "Kai Trump Admits She’s ‘Overwhelmed’ About Moving Into College Apartment as She Shops for Essentials for New Pad",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kai-trump-college-apartment-move-miami-florida/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kai is preparing to fly the nest and leave behind the comforts of her parents' Florida homes as she moves into her first college apartment.",
+      "published": "2026-08-20T17:11:50+00:00",
+      "fetched": "2026-08-20T18:18:55.869407+00:00"
+    },
+    {
+      "id": "aaf1e327c2ae1532",
+      "title": "Mortgage Rates Fall Slightly to 6.65% Despite Bond Market Turmoil and Growing Concerns About Federal Debt",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-bond-market-august-20-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed home loans dipped to 6.65% for the week ending Aug. 20, down 2 basis points from last week.",
+      "published": "2026-08-20T16:00:13+00:00",
+      "fetched": "2026-08-20T18:18:55.869445+00:00"
+    },
+    {
+      "id": "00fd370f694bd420",
+      "title": "New Atlantic Hurricane Forecast Issued as Peak Season Looms—Is Your Property Prepared?",
+      "link": "https://www.realtor.com/news/trends/new-atlantic-hurricane-forecast-2026-home-prep/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A record-strong super El Niño developing has changed the course of the Atlantic hurricane season, with homeowners impacted severely.",
+      "published": "2026-08-20T15:35:06+00:00",
+      "fetched": "2026-08-20T18:18:55.869477+00:00"
+    },
     {
       "id": "8fa1bb81bc0d3b15",
       "title": "JPMorgan Makes a $750B Bet on the Housing Market",
@@ -1472,36 +1502,6 @@
       "summary": "HGTV has set its sights on a spooky space in San Angelo, TX, featuring a \"haunted\" home in an episode of \"Extreme Buyers Club.\"",
       "published": "2026-08-11T18:40:34+00:00",
       "fetched": "2026-08-12T00:49:58.324119+00:00"
-    },
-    {
-      "id": "7eb9311d9232b6ac",
-      "title": "Downsizing Doesn’t Mean Retiring: What Today’s Working Older Adults Want in a Home",
-      "link": "https://www.realtor.com/news/trends/senior-workers-downsizing-aging-in-place/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Forget aging in place. Seniors are staying in the workforce longer, which is forcing them to rethink their homes.",
-      "published": "2026-08-11T18:07:51+00:00",
-      "fetched": "2026-08-11T18:41:47.549330+00:00"
-    },
-    {
-      "id": "88c370230b5fe822",
-      "title": "Tennessee Farm Values Are Surging Faster Than Any Other State",
-      "link": "https://www.realtor.com/news/trends/farm-land-values-price-per-acre-national-states-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Farmland values continue to rise, with agricultural real estate values surging nearly 6% in one state last year.",
-      "published": "2026-08-11T17:02:53+00:00",
-      "fetched": "2026-08-11T18:41:47.549364+00:00"
-    },
-    {
-      "id": "49e30bb45d0cc5a5",
-      "title": "Mamdani’s Pied-à-Terre Tax Comes Under Fire By Trump: This Will ‘Ruin’ NYC",
-      "link": "https://www.realtor.com/news/trends/nyc-mamdani-pied-a-terre-tax-judge-pause-appeal/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A judge blocked key parts of NYC's controversial second-home tax rollout after homeowners sued over how they were identified.",
-      "published": "2026-08-11T16:48:00+00:00",
-      "fetched": "2026-08-11T18:41:47.549394+00:00"
     }
   ]
 }
