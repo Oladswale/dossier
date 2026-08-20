@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-20T00:28:01.155526+00:00",
+  "updated": "2026-08-20T06:21:48.779508+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1047931fcd5e780a",
+      "title": "Share of ‘Equity-Rich’ Homeowners Drops to Lowest in 5 Years as Underwater Mortgages Rise",
+      "link": "https://www.realtor.com/news/trends/homeowner-equity-underwater-mortgages-attom-q2-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homeowners who purchased homes with little or no money down are now struggling to stay above water.",
+      "published": "2026-08-20T04:01:00+00:00",
+      "fetched": "2026-08-20T06:21:48.779061+00:00"
+    },
     {
       "id": "7c2df2830c4216fb",
       "title": "Alix Earle Offers Glimpse Inside Her Family’s $4.1 Million New Jersey Mansion in Drama-Filled Trailer for Netflix Reality Show",
@@ -1492,16 +1502,6 @@
       "summary": "Jospeh and Kendra were each charged with four counts of second-degree child endangerment in Mach following a search of their home.",
       "published": "2026-08-11T12:31:00+00:00",
       "fetched": "2026-08-11T18:41:47.549516+00:00"
-    },
-    {
-      "id": "6c8c60de5e122ea8",
-      "title": "A Buyer’s Summer Is “On” as Asking Prices See Steepest Decline Since 2017",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-450",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Most investors understand that real estate is local. While the national headlines usually tell one story, regional and local data often tell a very different one. This week’s headlines [ ]",
-      "published": "2026-08-11T11:00:28+00:00",
-      "fetched": "2026-08-11T12:35:04.653374+00:00"
     }
   ]
 }

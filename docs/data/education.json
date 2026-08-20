@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-20T00:28:00.445677+00:00",
-  "count": 148,
+  "updated": "2026-08-20T06:21:48.223737+00:00",
+  "count": 149,
   "items": [
+    {
+      "id": "16d28a458c07f643",
+      "title": "MIT engineers design a better controller for operating construction diggers",
+      "link": "https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new, more intuitive system could speed up the training process for excavator operators.",
+      "published": "2026-08-20T04:00:00+00:00",
+      "fetched": "2026-08-20T06:21:46.979676+00:00"
+    },
     {
       "id": "bc65b06f9ee2b9aa",
       "title": "The game’s the thing",
