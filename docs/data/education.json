@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-20T18:18:55.213957+00:00",
+  "updated": "2026-08-21T00:30:53.666896+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "97b63596a7f6bad8",
+      "title": "Paving the way for greener ammonia production",
+      "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
+      "published": "2026-08-20T18:45:00+00:00",
+      "fetched": "2026-08-21T00:30:52.073716+00:00"
+    },
     {
       "id": "ee4be35df9411c47",
       "title": "Discover the Mundaneum, an Early 20th-Century “Internet” That Put the World’s Knowledge on Millions of Index Cards",
@@ -1492,16 +1502,6 @@
       "summary": "Computer scientist Phillip Isola cuts through the hype to explain how AI agents work and what the future might hold for this rapidly advancing technology.",
       "published": "2026-06-30T15:30:00+00:00",
       "fetched": "2026-07-29T08:14:13.525861+00:00"
-    },
-    {
-      "id": "2979773931251520",
-      "title": "Scientists find ozone depletion began decades before discovery of ozone hole",
-      "link": "https://news.mit.edu/2026/scientists-find-ozone-depletion-began-decades-before-ozone-hole-discovery-0629",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Using modern tools, they also determined that carbon tetrachloride, used as a dry-cleaning and degreasing agent as early as the 1930s, was at the root of early ozone loss.",
-      "published": "2026-06-29T19:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525882+00:00"
     }
   ]
 }

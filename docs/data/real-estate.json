@@ -1,8 +1,108 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-20T18:18:55.870048+00:00",
+  "updated": "2026-08-21T00:30:54.345742+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3e4877df2752e574",
+      "title": "Inside Pat McAfee’s $1.2 Million Indiana Mansion That Sits Mere Minutes From Old Church Where He Films His Show",
+      "link": "https://www.realtor.com/news/sports/pat-mcafee-home-studio-church-indiana-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "McAfee may have traded the football field for a seat behind the microphone, but he hasn't strayed far from the city where his career began.",
+      "published": "2026-08-20T23:05:56+00:00",
+      "fetched": "2026-08-21T00:30:54.345144+00:00"
+    },
+    {
+      "id": "fc5655d0603eebe2",
+      "title": "Luxury Broker Tracy Tutor Teases ‘Trouble’ Ahead as She Pivots From Real Estate to ‘Real Housewives of Beverly Hills’",
+      "link": "https://www.realtor.com/news/reality-tv/tracy-tutor-real-housewives-beverly-hills-cast/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The former \"Million Dollar Listing Los Angeles\" broker is headed for the \"Real Housewives\"—and ready to share her life with fans.",
+      "published": "2026-08-20T21:01:34+00:00",
+      "fetched": "2026-08-21T00:30:54.345174+00:00"
+    },
+    {
+      "id": "c9fde9417eaac58e",
+      "title": "EXCLUSIVE: Provincetown Condo Shatters Price Record—After Snagging a Buyer in Just 24 Hours",
+      "link": "https://www.realtor.com/news/unique-homes/provincetown-most-expensive-condo-record-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The $3.9 million unit eclipses the existing record for priciest condo sold in the Cape Cod enclave, having found a buyer in just 24 hours.",
+      "published": "2026-08-20T20:29:38+00:00",
+      "fetched": "2026-08-21T00:30:54.345194+00:00"
+    },
+    {
+      "id": "4d1b3e0f4e1712d0",
+      "title": "The Surprising Things Your Movers Won’t Move For You",
+      "link": "https://www.realtor.com/advice/move/what-your-movers-wont-move/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Movers draw the line on some things, and if you don’t know about them ahead of time, you might end up out of luck on moving day.",
+      "published": "2026-08-20T20:03:00+00:00",
+      "fetched": "2026-08-21T00:30:54.345214+00:00"
+    },
+    {
+      "id": "2b3a25b779119943",
+      "title": "Indianapolis Bans New Data Centers Until 2028 as Backlash Spreads",
+      "link": "https://www.realtor.com/news/real-estate-news/indianapolis-bans-new-data-centers-until-2028-as-backlash-spreads/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Indianapolis has joined several other cities and states in pausing or restricting construction of new data centers.",
+      "published": "2026-08-20T19:38:43+00:00",
+      "fetched": "2026-08-21T00:30:54.345231+00:00"
+    },
+    {
+      "id": "b1a7d1e6575c8e9b",
+      "title": "14 Crucial Items You Need To Purchase Prior to Moving Day",
+      "link": "https://www.realtor.com/advice/move/ultimate-moving-day-checklist/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Moving all your stuff from one house to the next is often grueling, so we've created a list of moving day must-haves.",
+      "published": "2026-08-20T19:33:00+00:00",
+      "fetched": "2026-08-21T00:30:54.345247+00:00"
+    },
+    {
+      "id": "359dd3e891852836",
+      "title": "Homeowners Are Digging In for 5 Years: A Threat to Buyers or a Hidden Lifeline?",
+      "link": "https://www.realtor.com/news/trends/homeowners-5-year-lock-in-hidden-lifeline-to-buyers/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homeowners are still not ready to put their homes on the market. In the meantime, they're taking better care of their homes.",
+      "published": "2026-08-20T19:32:31+00:00",
+      "fetched": "2026-08-21T00:30:54.345265+00:00"
+    },
+    {
+      "id": "811bf73b190641f6",
+      "title": "Retired Altadena Couple Break Ground on New Home After Losing Everything in Wildfire",
+      "link": "https://www.realtor.com/news/trends/altadena-alvarado-break-ground-home-wildfire-insurance-claim/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Manuel and Emma Alvarado lost everything in the Eaton fire in January 2025. This week, they broke ground on a new home.",
+      "published": "2026-08-20T19:10:19+00:00",
+      "fetched": "2026-08-21T00:30:54.345282+00:00"
+    },
+    {
+      "id": "040f9beda4bade8a",
+      "title": "How Much Is Prince Harry and Meghan Markle’s Montecito Mansion Really Worth?",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-montecito-mansion-value-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Prince Harry and Meghan's return to the U.K. has raised serious questions about what the future holds for their California mansion.",
+      "published": "2026-08-20T19:08:43+00:00",
+      "fetched": "2026-08-21T00:30:54.345300+00:00"
+    },
+    {
+      "id": "f9d50db568fc8a8e",
+      "title": "Before You Move In: The Smart Homeowner’s Checklist for Fast, Reliable Wi-Fi",
+      "link": "https://www.realtor.com/advice/move/smart-homeowners-checklist-fast-reliable-wi-fi-interent/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In the modern age, the first utility necessary in the home is undoubtably the internet.",
+      "published": "2026-08-20T18:39:21+00:00",
+      "fetched": "2026-08-21T00:30:54.345315+00:00"
+    },
     {
       "id": "1d63eb17f9f29b3a",
       "title": "Kai Trump Admits She’s ‘Overwhelmed’ About Moving Into College Apartment as She Shops for Essentials for New Pad",
@@ -1402,106 +1502,6 @@
       "summary": "You’ve probably heard that you need a 20% down payment to buy a rental property. But for the average rookie, that’s just not a viable way to build a real [ ]",
       "published": "2026-08-12T11:00:50+00:00",
       "fetched": "2026-08-12T12:37:48.924812+00:00"
-    },
-    {
-      "id": "feae48d69c08ec39",
-      "title": "10 “Hidden” Signs of a High-Upside Rental Property (Buy These in 2026)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1316",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The “regular” rental property you’re thinking of buying? It may not look like anything special here in 2026, but it could be worth tens or even hundreds of thousands of [ ]",
-      "published": "2026-08-12T11:00:13+00:00",
-      "fetched": "2026-08-12T12:37:48.924857+00:00"
-    },
-    {
-      "id": "70a075a5c496f0f4",
-      "title": "This Couple Replaced Their Salaries with 9 Rental Properties (In Just 4 Years)",
-      "link": "https://www.biggerpockets.com/blog/rookie-755",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Chris and Ksenia Kim had always wanted to own rental properties, but planning for a family and reaching a breaking point with work travel got them to finally take action. [ ]",
-      "published": "2026-08-12T11:00:11+00:00",
-      "fetched": "2026-08-12T12:37:48.924892+00:00"
-    },
-    {
-      "id": "1fb772520476bb2f",
-      "title": "Luxury on Discount: Austin’s High-End Real Estate Market Enters Correction as Prices Fall 10%",
-      "link": "https://www.realtor.com/news/trends/home-prices-falling-austin-luxury-report-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Austin, San Francisco, and Boston have seen the steepest decline in luxury home prices over the past year, but for different reasons.",
-      "published": "2026-08-12T09:00:00+00:00",
-      "fetched": "2026-08-12T12:37:49.221481+00:00"
-    },
-    {
-      "id": "4e44d34056dad78e",
-      "title": "Oprah Winfrey Returns to Her Former Hometown of Chicago as She Makes Rare Appearance With Partner Stedman Graham",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/oprah-winfrey-chicago-hometown-partner-stedman-graham-reunion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Winfrey jetted from her home base of California to Illinois, where she had filmed her iconic TV show for several decades.",
-      "published": "2026-08-11T23:01:20+00:00",
-      "fetched": "2026-08-12T00:49:58.323899+00:00"
-    },
-    {
-      "id": "386d569cc8c0b42c",
-      "title": "Homeowners Insurance Premiums in Texas Surged 30% in 5 Years—10 Times Faster Than Incomes",
-      "link": "https://www.realtor.com/news/trends/texas-homeowners-insurance-premiums-average-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Between 2019 and 2024, home insurance premiums rose 30% in Texas, to an average of $2,983 annually.",
-      "published": "2026-08-11T22:31:33+00:00",
-      "fetched": "2026-08-12T00:49:58.323940+00:00"
-    },
-    {
-      "id": "65cc3848708e28ce",
-      "title": "Mario Lopez’s Former Glendale Home Returns to Market for $5.8 Million—With TV Host’s Bold Renovation Pick Still Intact",
-      "link": "https://www.realtor.com/news/unique-homes/mario-lopez-glendale-home-for-sale-renovation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Access Hollywood\" host resided in the home for 13 years until 2023, when he and his family relocated to a larger dwelling.",
-      "published": "2026-08-11T21:50:31+00:00",
-      "fetched": "2026-08-12T00:49:58.323975+00:00"
-    },
-    {
-      "id": "a3ad4e16299e82d6",
-      "title": "Bessent Says the K-Shaped Economy Is Over—Housing Tells a Different Story",
-      "link": "https://www.realtor.com/news/trends/k-shaped-economy-housing-market-bessent/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Treasury Secretary Scott Bessent says the K-shaped economy is over. Home sales show the divide between the bottom and top is still widening.",
-      "published": "2026-08-11T20:56:53+00:00",
-      "fetched": "2026-08-12T00:49:58.324005+00:00"
-    },
-    {
-      "id": "34c19e7125c27fbd",
-      "title": "NFL Player Sauce Gardner Sues Contractor for $1.4 Million Over Failed Renovation of Abandoned Detroit Building",
-      "link": "https://www.realtor.com/news/sports/sauce-gardner-detroit-abandoned-building-lawsuit-renovation-sanborn-construction/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 24-year-old athlete claims that he was coerced into buying a $935,000 building after a contractor vowed to renovate it for him.",
-      "published": "2026-08-11T20:24:56+00:00",
-      "fetched": "2026-08-12T00:49:58.324036+00:00"
-    },
-    {
-      "id": "b82080c77f269e60",
-      "title": "Mortgage Rates Predicted To Rise Before Settling Back to 6.5% Next Year",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-to-rise-fall-to-6-5-percent-forecast-2027/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rising rates are weighing on the housing market, and the uncomfortable levels above 6% might be here for the medium term, one analyst says.",
-      "published": "2026-08-11T19:47:21+00:00",
-      "fetched": "2026-08-12T00:49:58.324084+00:00"
-    },
-    {
-      "id": "d2fd74d218da9533",
-      "title": "Ghost Hunters Take HGTV Inside ‘Haunted’ Home in Texas’ Paranormal ‘Hub’: ‘Not Safe’",
-      "link": "https://www.realtor.com/news/reality-tv/extreme-buyers-club-hgtv-haunted-house-ghost-hunters-texas/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "HGTV has set its sights on a spooky space in San Angelo, TX, featuring a \"haunted\" home in an episode of \"Extreme Buyers Club.\"",
-      "published": "2026-08-11T18:40:34+00:00",
-      "fetched": "2026-08-12T00:49:58.324119+00:00"
     }
   ]
 }
