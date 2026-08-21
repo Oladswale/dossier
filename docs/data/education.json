@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-21T06:22:10.171557+00:00",
+  "updated": "2026-08-21T12:19:30.340166+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "931bca95ab82a58e",
+      "title": "Why Americans Stopped Reading Books",
+      "link": "https://www.openculture.com/2026/08/why-americans-stopped-reading-books.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The kids can’t read. Such has been the implication, even the declaration, made by a wave of articles in recent years. But the statement needs some qualification: the kids in question are American; what they can’t read is entire books, especially literary fiction; and it isn’t just the kids in the first place.",
+      "published": "2026-08-21T08:00:22+00:00",
+      "fetched": "2026-08-21T12:19:30.339922+00:00"
+    },
     {
       "id": "97b63596a7f6bad8",
       "title": "Paving the way for greener ammonia production",
@@ -1492,16 +1502,6 @@
       "summary": "The innovative effort bringing researchers from Israel to campus keeps growing while enhancing community connections and academic inquiry.",
       "published": "2026-07-01T04:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525843+00:00"
-    },
-    {
-      "id": "c86aae1d0e1f2fcb",
-      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
-      "link": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Computer scientist Phillip Isola cuts through the hype to explain how AI agents work and what the future might hold for this rapidly advancing technology.",
-      "published": "2026-06-30T15:30:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525861+00:00"
     }
   ]
 }
