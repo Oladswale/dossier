@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-21T12:19:30.340166+00:00",
+  "updated": "2026-08-21T18:18:13.862851+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a75e1ce6d33616b8",
+      "title": "The importance of indoor airflow patterns in spreading airborne disease",
+      "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission.",
+      "published": "2026-08-21T16:00:00+00:00",
+      "fetched": "2026-08-21T18:18:12.919650+00:00"
+    },
     {
       "id": "931bca95ab82a58e",
       "title": "Why Americans Stopped Reading Books",
@@ -1492,16 +1502,6 @@
       "summary": "A new study reveals that parts of the brain located far from the canonical language-processing centers are also involved in language comprehension.",
       "published": "2026-07-01T04:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525827+00:00"
-    },
-    {
-      "id": "330ccf94576c2144",
-      "title": "MIT-Kalaniyot program expands, with new cohort of scholars",
-      "link": "https://news.mit.edu/2026/mit-kalaniyot-program-expands-new-cohort-of-scholars-0701",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The innovative effort bringing researchers from Israel to campus keeps growing while enhancing community connections and academic inquiry.",
-      "published": "2026-07-01T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525843+00:00"
     }
   ]
 }

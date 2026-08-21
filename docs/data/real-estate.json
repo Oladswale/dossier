@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-21T12:19:30.988293+00:00",
+  "updated": "2026-08-21T18:18:14.574481+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5f08f3a43aec0326",
+      "title": "I Spent Less Than $500 Last Year for Housing–All While Living in Some of the Most Expensive Cities in the U.S.",
+      "link": "https://www.realtor.com/news/first-person/house-sitting-nomad-living-lower-costs/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "After her divorce, a mom from Boston wasn't sure where she wanted to live next. So she took on the ultimate side hustle: pet sitting.",
+      "published": "2026-08-21T17:35:43+00:00",
+      "fetched": "2026-08-21T18:18:14.573733+00:00"
+    },
+    {
+      "id": "3c38e0a1e1ba5df0",
+      "title": "EXCLUSIVE: Kennedy Heiress Kathleen Townsend Sells $1.6 Million Hyannis Port Retreat for Full Ask",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kathleen-kennedy-townsend-hyannis-port-house-sold-cape-cod/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kathleen Kennedy Townsend, the oldest living member of the political dynasty, listed the house for sale in May.",
+      "published": "2026-08-21T17:06:42+00:00",
+      "fetched": "2026-08-21T18:18:14.573769+00:00"
+    },
+    {
+      "id": "943e2e36e4b916fe",
+      "title": "Kelly Ripa Reveals Very Intimate Secret About Her Work-From-Home Routine During the Pandemic: ‘I Loved It’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kelly-ripa-work-home-secret-outfit-filming/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Live with Kelly and Mark\" host admitted that she got a little too comfortable while filming from her $27 million NYC townhouse.",
+      "published": "2026-08-21T16:51:42+00:00",
+      "fetched": "2026-08-21T18:18:14.573801+00:00"
+    },
+    {
+      "id": "edf13f6c85e26776",
+      "title": "A Complete Guide to Flock Safety Cameras",
+      "link": "https://www.realtor.com/news/trends/flock-cameras-guide/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "What are Flock's automated license plate readers, and should you be concerned about the use of these cameras in your community?",
+      "published": "2026-08-21T16:50:50+00:00",
+      "fetched": "2026-08-21T18:18:14.573828+00:00"
+    },
+    {
+      "id": "e7749db9e12f5135",
+      "title": "Phoenix Braces for Cuts to Water Supply as Colorado River Fight Continues",
+      "link": "https://www.realtor.com/news/real-estate-news/phoenix-braces-for-cuts-to-water-supply-as-colorado-river-fight-continues/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Restrictions on water use around the Colorado River could have major implications across seven states, especially this fast-growing city.",
+      "published": "2026-08-21T15:45:33+00:00",
+      "fetched": "2026-08-21T18:18:14.573857+00:00"
+    },
+    {
+      "id": "0d0192286936aff4",
+      "title": "Meghan Markle Will Make ‘Significant’ Return to Acting—as Insiders Say Role Prompted Sussexes’ Move Back to the U.K.",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-acting-prince-harry-move-uk/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Meghan, 45, has reportedly secured a \"significant\" new role that is understood to have impacted the family's decision to move to the U.K.",
+      "published": "2026-08-21T14:44:09+00:00",
+      "fetched": "2026-08-21T18:18:14.573888+00:00"
+    },
+    {
+      "id": "88aa12ee40b3ba17",
+      "title": "EXCLUSIVE: Tarek and Heather El Moussa Relist Newport Beach Rental With $7.5K Price Cut",
+      "link": "https://www.realtor.com/news/reality-tv/hgtv-tarek-el-moussa-heather-newport-beach-home-price-cut/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tarek and Heather purchased the dwelling in August 2020 for $3.1 million and quickly set about renovating its stark white interior.",
+      "published": "2026-08-21T14:27:00+00:00",
+      "fetched": "2026-08-21T18:18:14.573916+00:00"
+    },
+    {
+      "id": "ad7c64fe1aa25471",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.65% Rate",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-august-20/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rates took another minor dip this week, yet remain steady at levels not seen in over a year, much to buyers dismay.",
+      "published": "2026-08-21T14:04:00+00:00",
+      "fetched": "2026-08-21T18:18:14.573943+00:00"
+    },
+    {
+      "id": "bd848590569a8209",
+      "title": "Can You Buy a Rental Property With Only $5,000? (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-760",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Feel like your situation doesn t fit the typical real estate investing playbook? Maybe you’re low on cash, your circumstances are unusual, or your timeline feels tighter than everyone else s. You re [ ]",
+      "published": "2026-08-21T11:00:09+00:00",
+      "fetched": "2026-08-21T18:18:14.191659+00:00"
+    },
     {
       "id": "f1250df1cbfd2142",
       "title": "How to Execute the “Slow” BRRRR Strategy in 2026 (Full Walkthrough)",
@@ -1412,96 +1502,6 @@
       "summary": "The average Target or Costco store is the size as 2.5 football fields. Musk's Terafab plant would be equivalent to 2,300 football fields.",
       "published": "2026-08-12T21:55:20+00:00",
       "fetched": "2026-08-13T00:51:42.600999+00:00"
-    },
-    {
-      "id": "5fe354f0500082c9",
-      "title": "Real Estate Agent Stars of ‘The Traitors: New Blood’ Reveal Tactics for Claiming $250K Prize: ‘Go Big or Go Home’",
-      "link": "https://www.realtor.com/news/reality-tv/traitors-new-blood-cast-real-estate-agents/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kriste Lewis, 52, and Logan Smith, 26, join the cast of everyday Americans competing on the newest season of the reality TV series.",
-      "published": "2026-08-12T21:37:04+00:00",
-      "fetched": "2026-08-13T00:51:42.601033+00:00"
-    },
-    {
-      "id": "0aca4482a42dc783",
-      "title": "Travis Barker Reveals Old-School Rule He and Kourtney Kardashian Follow at Home To Keep Their Marriage Alive",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-barker-kourtney-kardashian-marriage-rules-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Barker shared the thing he and Kardashian do before bed to ensure their romance continues to grow from strength to strength.",
-      "published": "2026-08-12T20:38:22+00:00",
-      "fetched": "2026-08-13T00:51:42.601062+00:00"
-    },
-    {
-      "id": "f7a7d75df2bedd2e",
-      "title": "Karoline Leavitt Will Resign as White House Press Secretary To Spend More Time at Home With Her Husband and Their ‘Beautiful Children’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/karoline-leavitt-nicholas-riccio-children-home-white-house-resignation-donald-trump/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "President Donald Trump announced on Aug. 12 that Leavitt will end her run as press secretary at the end of August.",
-      "published": "2026-08-12T20:01:32+00:00",
-      "fetched": "2026-08-13T00:51:42.601094+00:00"
-    },
-    {
-      "id": "d8483d8a605affa6",
-      "title": "Trump May Eye Cuts to Capital Gains Tax for Home Sellers, Official Says",
-      "link": "https://www.realtor.com/news/real-estate-news/capital-gains-tax-home-sales-reform-trump-hassett-kudlow/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "National Economic Council Director Kevin Hassett said on Wednesday afternoon the president is considering the issue.",
-      "published": "2026-08-12T19:47:45+00:00",
-      "fetched": "2026-08-13T00:51:42.601120+00:00"
-    },
-    {
-      "id": "a13a904f504fe6ae",
-      "title": "‘Miss Congeniality’ and ‘Top Gun’ Film Editor Billy Weber Lists $4 Million L.A. Home Where He Brought Movie Magic to Life",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/top-gun-miss-congeniality-billy-weber-los-angeles-home-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Weber has owned the home for 32 years, having moved into the dwelling back in 1994 and has occasionally edited films there.",
-      "published": "2026-08-12T18:57:16+00:00",
-      "fetched": "2026-08-13T00:51:42.601151+00:00"
-    },
-    {
-      "id": "bfb1fa735b6191a5",
-      "title": "They Just Built Their Dream Home on Cape Cod—Now the State Will Tear It Down",
-      "link": "https://www.realtor.com/advice/finance/cape-cod-new-home-eminent-domain/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Massachusetts has now taken 11 of 13 homes for the new Sagamore Bridge, including a couple’s newly built Cape Cod retirement home.",
-      "published": "2026-08-12T16:50:00+00:00",
-      "fetched": "2026-08-12T18:43:06.226505+00:00"
-    },
-    {
-      "id": "2fc0da0b5343be02",
-      "title": "Mortgage Applications Rise After Hope of Iran Peace Deal Drove Brief Dip in Rates",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-today-purchase-refinance-mba-august-12-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Purchase Index, deemed a leading indicator for home sales, rose 3% week over week on a seasonally adjusted basis.",
-      "published": "2026-08-12T16:35:33+00:00",
-      "fetched": "2026-08-12T18:43:06.226540+00:00"
-    },
-    {
-      "id": "8e8a4fc3e35f4959",
-      "title": "Jenna Bush Hager and Sheinelle Jones Reveal Their Favorite At-Home Hacks for Back-to-School Season With Their Kids",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jenna-bush-hager-sheinelle-jones-kids-home-school-hacks-today/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The TV hosts lifted the lid on the simple at-home tricks they rely on to make the back-to-school rush a little less chaotic.",
-      "published": "2026-08-12T16:35:08+00:00",
-      "fetched": "2026-08-12T18:43:06.226569+00:00"
-    },
-    {
-      "id": "f384b293f348b0fb",
-      "title": "Josh Kushner and Bob Iger To Buy L.A. Lakers for $12 Billion—More Than 100 Times Value of Their Combined Property Portfolios",
-      "link": "https://www.realtor.com/news/sports/josh-kushner-bob-iger-buy-los-angeles-lakers-homes-net-worth/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kushner and Iger are understood to have struck a deal with the Lakers' current owner, Mark Warner, to buy the iconic team.",
-      "published": "2026-08-12T14:26:34+00:00",
-      "fetched": "2026-08-12T18:43:06.226599+00:00"
     }
   ]
 }
