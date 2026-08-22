@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-22T12:12:53.831147+00:00",
+  "updated": "2026-08-22T18:10:48.741055+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3ffc1356a3d05b20",
+      "title": "Earth-Sheltered Ohio Home That Is Built Almost Entirely Underground Comes With a Roof You Have to Mow",
+      "link": "https://www.realtor.com/news/unique-homes/earth-sheltered-ohio-house-underground-roof-grass/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The very unique property, which is located in Huron, OH, is built almost entirely under the ground—but is somehow still filled with light.",
+      "published": "2026-08-22T17:19:00+00:00",
+      "fetched": "2026-08-22T18:10:48.740357+00:00"
+    },
+    {
+      "id": "e75da58aa796d4b1",
+      "title": "Beachfront Concrete ‘Ball’ House in Florida Looks Like It’s Been Pulled From a ‘Star Wars’ Movie",
+      "link": "https://www.realtor.com/news/unique-homes/concrete-dome-house-ball-florida-star-wars/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Originally built in 2007 using steel-reinforced concrete, the ocean-adjacent home was never totally finished—but nobody knows why.",
+      "published": "2026-08-22T14:31:00+00:00",
+      "fetched": "2026-08-22T18:10:48.740398+00:00"
+    },
+    {
+      "id": "bb46c6862cb01643",
+      "title": "Fisher Price Co-Founder’s Lakefront Summer Cottage Where He Would Test New Toys Is Listed for Under $400K",
+      "link": "https://www.realtor.com/news/unique-homes/fisher-price-founder-lake-cottage-for-sale-toys/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Perched on the edge of Lake Erie, the property was originally built to serve as a summer retreat for toy maker Irving Price's family.",
+      "published": "2026-08-22T13:17:00+00:00",
+      "fetched": "2026-08-22T18:10:48.740431+00:00"
+    },
     {
       "id": "1c1131b6c0ac25f1",
       "title": "The Ultimate Celebrity Status Symbol: Owning an Exclusive Private Island",
@@ -1472,36 +1502,6 @@
       "summary": "Willis revealed she took a \"leap of faith\" and made a surprise move to Nashville for a chance at a fresh start.",
       "published": "2026-08-13T16:52:00+00:00",
       "fetched": "2026-08-13T18:43:29.700394+00:00"
-    },
-    {
-      "id": "4d4dc1accbfed01d",
-      "title": "HELOC Loan Balances Rise $13 Billion Nationwide as More Homeowners Tap Their Equity",
-      "link": "https://www.realtor.com/news/trends/heloc-loan-balances-equity-ny-fed-q2-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The national balance of home equity lines of credit increased by $13 billion during the second quarter of 2026.",
-      "published": "2026-08-13T16:20:38+00:00",
-      "fetched": "2026-08-13T18:43:29.700421+00:00"
-    },
-    {
-      "id": "75aeac44d55f1894",
-      "title": "Mortgage Rates Dip Slightly to 6.67% as Hopes for Iran Peace Deal Fizzle Out",
-      "link": "https://www.realtor.com/news/trends/mortgage-interest-rates-today-august-13-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage rates eased off their one-year highs this week, as markets continue to await signs of a resolution to the Iran war.",
-      "published": "2026-08-13T16:01:17+00:00",
-      "fetched": "2026-08-13T18:43:29.700449+00:00"
-    },
-    {
-      "id": "e588d3a386079fa5",
-      "title": "Rapper Drake Vows To Buy a House for the Mom of Viral Speed-Dating Contest Winner Pinkchyu: ‘Pick Any Listing’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/drake-pinkchyu-wife-house-mother-youtube/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The rapper met the internet personality in a now-viral video, in which a speed-dating exercise resulted in an agreement to buy a house.",
-      "published": "2026-08-13T12:54:11+00:00",
-      "fetched": "2026-08-13T18:43:29.700480+00:00"
     }
   ]
 }

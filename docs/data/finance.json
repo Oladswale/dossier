@@ -1,8 +1,138 @@
 {
   "category": "finance",
-  "updated": "2026-08-22T12:12:38.988933+00:00",
+  "updated": "2026-08-22T18:10:30.200435+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f8450b3ed5082dca",
+      "title": "What to expect from the Samsung Galaxy event on August 27",
+      "link": "https://techcabal.com/2026/08/22/samsung-galaxy-event-august-2026/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Samsung says the event will bring the core Galaxy S26 experience, from camera to AI, to a wider audience.",
+      "published": "2026-08-22T17:58:58+00:00",
+      "fetched": "2026-08-22T18:10:30.200181+00:00"
+    },
+    {
+      "id": "ba7206555abe8f19",
+      "title": "Samsung Galaxy S26 FE: Release date, price and specs",
+      "link": "https://techcabal.com/2026/08/22/samsung-galaxy-s26-fe-release-date-price-specs/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Samsung is set to unveil a new Galaxy S26 series device on August 27, 2026, and everything points to this being the Galaxy S26 FE.",
+      "published": "2026-08-22T17:56:58+00:00",
+      "fetched": "2026-08-22T18:10:30.200218+00:00"
+    },
+    {
+      "id": "a111e442af5502e6",
+      "title": "Africa’s top 10 airlines account for 8.08 million seats in August",
+      "link": "https://nairametrics.com/2026/08/22/africas-top-10-airlines-account-for-8-08-million-seats-in-august/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The 10 largest carriers operating in Africa accounted for 8.08 million scheduled departing seats in August 2026, highlighting the concentration of airline capacity among the largest operators in the African aviation market. The post Africa’s top 10 airlines account for 8.08 million seats in August appeared first on Nairametrics .",
+      "published": "2026-08-22T17:34:40+00:00",
+      "fetched": "2026-08-22T18:10:29.083126+00:00"
+    },
+    {
+      "id": "f49c79338a9dd01f",
+      "title": "FG approves two new satellites to cut Nigeria’s reliance on foreign infrastructure",
+      "link": "https://nairametrics.com/2026/08/22/fg-approves-two-new-satellites-to-cut-nigerias-reliance-on-foreign-infrastructure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Executive Council has approved the acquisition and deployment of two next-generation High-Throughput Communication Satellites, NIGCOMSAT-2A and NIGCOMSAT-2B. The post FG approves two new satellites to cut Nigeria’s reliance on foreign infrastructure appeared first on Nairametrics .",
+      "published": "2026-08-22T16:33:52+00:00",
+      "fetched": "2026-08-22T18:10:29.083181+00:00"
+    },
+    {
+      "id": "8e46f3f59f4f1ec5",
+      "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“My CPA hasn’t gotten back to me.”",
+      "published": "2026-08-22T16:00:00+00:00",
+      "fetched": "2026-08-22T18:10:28.543840+00:00"
+    },
+    {
+      "id": "43be3493d2314ec5",
+      "title": "FG has invested over N3.8 trillion in IT infrastructure since 2023 — NITDA DG",
+      "link": "https://nairametrics.com/2026/08/22/fg-has-invested-over-n3-8-trillion-in-it-infrastructure-since-2023-nitda-dg/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has invested more than N3.8 trillion in information technology infrastructure since 2023, the Director-General of the National Information Technology Development Agency (NITDA), Kashifu Inuwa, has disclosed. The post FG has invested over N3.8 trillion in IT infrastructure since 2023 — NITDA DG appeared first on Nairametrics .",
+      "published": "2026-08-22T15:48:00+00:00",
+      "fetched": "2026-08-22T18:10:29.083230+00:00"
+    },
+    {
+      "id": "d18336500e464eec",
+      "title": "SBM warns Plateau reprisal attacks could escalate into high-intensity conflict",
+      "link": "https://nairametrics.com/2026/08/22/sbm-warns-plateau-reprisal-attacks-could-escalate-into-high-intensity-conflict/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "SB Morgen Intelligence (SBMI) has warned that continued reprisal attacks between armed Fulani and Berom/Mwaghavul groups in Plateau State could push the conflict into a high-intensity phase, particularly in Mangu Local Government Area. The post SBM warns Plateau reprisal attacks could escalate into high-intensity conflict appeared first on Nairametrics .",
+      "published": "2026-08-22T15:34:25+00:00",
+      "fetched": "2026-08-22T18:10:29.083275+00:00"
+    },
+    {
+      "id": "ae76bb1d1b2a3da5",
+      "title": "SEC proposes N1 million limit per issuer, N10 million annual cap for retail crypto investors",
+      "link": "https://nairametrics.com/2026/08/22/sec-proposes-n1-million-limit-per-issuer-n10-million-annual-cap-for-retail-crypto-investors/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Securities and Exchange Commission (SEC) has proposed limits on the amount retail investors can invest in digital asset offerings, including a N1 million cap per issuer and a N10 million aggregate limit within a 12-month period. The post SEC proposes N1 million limit per issuer, N10 million annual cap for retail crypto investors appeared first on Nairametrics .",
+      "published": "2026-08-22T14:36:09+00:00",
+      "fetched": "2026-08-22T18:10:29.083319+00:00"
+    },
+    {
+      "id": "a432bdc03578ef30",
+      "title": "Nigeria is building more data centres, but power and water could decide who survives",
+      "link": "https://nairametrics.com/2026/08/22/nigeria-is-building-more-data-centres-but-power-and-water-could-decide-who-survives/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's data centre market is rapidly becoming the backbone of West Africa's digital economy, and the growth is accelerating faster than most observers anticipated. The post Nigeria is building more data centres, but power and water could decide who survives appeared first on Nairametrics .",
+      "published": "2026-08-22T13:56:44+00:00",
+      "fetched": "2026-08-22T18:10:29.083360+00:00"
+    },
+    {
+      "id": "338ae2618d0cea12",
+      "title": "Sahara turns 30: What lies ahead",
+      "link": "https://nairametrics.com/2026/08/22/sahara-turns-30-what-lies-ahead/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "When Sahara Energy Resources launched in 1996, its focus was petroleum-product trading. Two years later, it moved its trading operations from Lagos to Geneva, Switzerland, opening a path towards an international business. The post Sahara turns 30: What lies ahead appeared first on Nairametrics .",
+      "published": "2026-08-22T13:44:04+00:00",
+      "fetched": "2026-08-22T18:10:29.083396+00:00"
+    },
+    {
+      "id": "4e8b528578c3cb67",
+      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+      "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
+      "published": "2026-08-22T13:00:00+00:00",
+      "fetched": "2026-08-22T18:10:28.543927+00:00"
+    },
+    {
+      "id": "ef85b7cd09c4e36b",
+      "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
+      "link": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Tap-to-pay is getting a TikTok makeover as shoppers turn checking out into a personalized accessory.",
+      "published": "2026-08-22T12:30:00+00:00",
+      "fetched": "2026-08-22T18:10:28.543955+00:00"
+    },
+    {
+      "id": "06738c81274d76b1",
+      "title": "NITDA: Traditional regulations can no longer guarantee Nigeria’s financial stability",
+      "link": "https://nairametrics.com/2026/08/22/nitda-traditional-regulations-can-no-longer-guarantee-nigerias-financial-stability/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s financial stability can no longer be guaranteed through traditional regulatory approaches, and its ability to maintain the stability and integrity of the financial system increasingly depends on sovereignty over the digital infrastructure that powers it. The post NITDA: Traditional regulations can no longer guarantee Nigeria’s financial stability appeared first on Nairametrics .",
+      "published": "2026-08-22T12:17:13+00:00",
+      "fetched": "2026-08-22T18:10:29.083446+00:00"
+    },
     {
       "id": "2028dd8459c71af4",
       "title": "Here’s some surprisingly good news for the stock market this midterm election year",
@@ -22,6 +152,16 @@
       "summary": "On 29 July 2026, a Federal Capital Territory High Court ordered Stanbic IBTC Bank to pay N15 million in general damages to two former customers, David Ogundipe and Salami Tolulope Ibrahim. The post Stanbic IBTC’s privacy judgment is a warning to every brand holding customer data appeared first on Nairametrics .",
       "published": "2026-08-22T11:30:55+00:00",
       "fetched": "2026-08-22T12:12:38.330422+00:00"
+    },
+    {
+      "id": "033bd12da7bdbb18",
+      "title": "Financial Literacy: EKSU set to graduate pioneer cohort of Securities Trading Diploma Programme",
+      "link": "https://nairametrics.com/2026/08/22/financial-literacy-eksu-set-to-graduate-pioneer-cohort-of-securities-trading-diploma-programme/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "A significant number of finance graduates seeking roles in the financial sector lack the critical and practical skills required to succeed in modern capital markets, the Chancellor of Ekiti State University (EKSU), Dr Tunji Olowolafe, has said. The post Financial Literacy: EKSU set to graduate pioneer cohort of Securities Trading Diploma Programme appeared first on Nairametrics .",
+      "published": "2026-08-22T11:12:02+00:00",
+      "fetched": "2026-08-22T18:10:29.083499+00:00"
     },
     {
       "id": "3f59d65c7ec7f77c",
@@ -1362,146 +1502,6 @@
       "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
       "published": "2026-08-19T23:30:00+00:00",
       "fetched": "2026-08-20T00:27:44.215536+00:00"
-    },
-    {
-      "id": "75c99258902ab88d",
-      "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
-      "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "TIPS yields are at or close to 20-year highs.",
-      "published": "2026-08-19T23:01:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215587+00:00"
-    },
-    {
-      "id": "444d5362bc4b391c",
-      "title": "The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful",
-      "link": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Previous instances of short-term pressure on semiconductor stocks opened up opportunities for investors who bought the dip, according to one analyst.",
-      "published": "2026-08-19T22:02:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215631+00:00"
-    },
-    {
-      "id": "d93dbec9e9661b77",
-      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There’s growing confidence in the idea that traditional software companies will be able to withstand AI disruption.",
-      "published": "2026-08-19T21:50:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215660+00:00"
-    },
-    {
-      "id": "e3ea565ceb4a5ab1",
-      "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
-      "link": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Young Chinese are renting cameras, drones and camping gear instead of buying them. It’s a clever way to save money — but also the latest challenge to Beijing’s effort to get consumers spending.",
-      "published": "2026-08-19T21:44:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215697+00:00"
-    },
-    {
-      "id": "216673ed13f494f7",
-      "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-      "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
-      "published": "2026-08-19T21:26:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215721+00:00"
-    },
-    {
-      "id": "b2603dc062ac7e3f",
-      "title": "Why the Treasury market’s newfound calm could break down in September",
-      "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A brutal summer stretch for the U.S. Treasury market risks getting worse come September, right as many of the world’s largest companies plan to unleash a new wave of bond issuance.",
-      "published": "2026-08-19T21:10:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215754+00:00"
-    },
-    {
-      "id": "8de4b97c21857342",
-      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-      "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
-      "published": "2026-08-19T21:05:31+00:00",
-      "fetched": "2026-08-22T06:16:51.785273+00:00"
-    },
-    {
-      "id": "186e0a7edf40b344",
-      "title": "‘I brought my Super Bowl ring to the open houses’: Seahawks player shares story of getting his real-estate license",
-      "link": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Montorie Foster Jr. of the Seattle Seahawks got his real-estate license before becoming a Super Bowl champion.",
-      "published": "2026-08-19T21:00:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215781+00:00"
-    },
-    {
-      "id": "f4842e2869551c63",
-      "title": "Geregu Power pays N6 billion owed investors on N40.09 billion bond",
-      "link": "https://nairametrics.com/2026/08/19/geregu-power-pays-n6-billion-owed-investors-on-n40-09-billion-bond/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Geregu Power Plc has paid the sum of N6 billion (N6,026,093,363.1) owed to investors on its N40.09 billion Series 1 Senior Unsecured Bond, ending the weeks of controversy over its default. While the company has not officially announced this, sources close to the matter confirmed the development to Nairametrics. The default, which Nairametrics first reported [ ] The post Geregu Power pays N6 billion owed investors on N40.09 billion bond appeared first on Nairametrics .",
-      "published": "2026-08-19T20:50:15+00:00",
-      "fetched": "2026-08-20T06:21:30.404131+00:00"
-    },
-    {
-      "id": "d61eeea93b681737",
-      "title": "BREAKING: Geregu Power pays N6 billion owed investors on N40.09 billion bond",
-      "link": "https://nairametrics.com/2026/08/19/breaking-geregu-power-pays-n6-billion-owed-investors-on-n40-09-billion-bond/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Geregu Power Plc has paid the sum of N6 billion (N6,026,093,363.1) owed to investors on its N40.09 billion Series 1 Senior Unsecured Bond, ending the weeks of controversy over its default. While the company has not officially announced this, sources close to the matter confirmed the development to Nairametrics. The default, which Nairametrics first reported [ ] The post BREAKING: Geregu Power pays N6 billion owed investors on N40.09 billion bond appeared first on Nairametrics .",
-      "published": "2026-08-19T20:50:15+00:00",
-      "fetched": "2026-08-20T00:27:44.514467+00:00"
-    },
-    {
-      "id": "e9091211f471b7e4",
-      "title": "The national debt just hit $40 trillion. Here’s how it can hurt Americans.",
-      "link": "https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A research group looked at the consequences for a student financing college, a family buying a home and a Social Security recipient.",
-      "published": "2026-08-19T20:36:00+00:00",
-      "fetched": "2026-08-20T00:27:44.215806+00:00"
-    },
-    {
-      "id": "86976116d7ffe77b",
-      "title": "Chams makes N7.7 billion from cards, biometrics services as H1 profit rises",
-      "link": "https://nairametrics.com/2026/08/19/chams-makes-n7-7-billion-from-cards-biometrics-services-as-h1-profit-rises/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Chams Holding Company Plc generated N7.7 billion from the supply of cards and biometrics-related services in the first half of 2026, as the company continued to expand its presence in Nigeria's payments and identity infrastructure businesses. The post Chams makes N7.7 billion from cards, biometrics services as H1 profit rises appeared first on Nairametrics .",
-      "published": "2026-08-19T19:43:01+00:00",
-      "fetched": "2026-08-20T00:27:44.514515+00:00"
-    },
-    {
-      "id": "ea4edef5eca8773a",
-      "title": "NGX sheds N555 billion as Aradel plunge deepens seven-day market slide",
-      "link": "https://nairametrics.com/2026/08/19/ngx-sheds-n555-billion-as-aradel-plunge-deepens-seven-day-market-slide/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market extended its decline on Wednesday, August 19, 2026, with the All-Share Index (ASI) falling for a seventh consecutive trading session, as renewed selling pressure in oil and gas heavyweights, particularly Aradel Holdings, deepened the ongoing correction. The post NGX sheds N555 billion as Aradel plunge deepens seven-day market slide appeared first on Nairametrics .",
-      "published": "2026-08-19T19:20:45+00:00",
-      "fetched": "2026-08-20T00:27:44.514558+00:00"
-    },
-    {
-      "id": "d25908ae651c34a3",
-      "title": "Tinubu orders 90-day national security threat assessment, five-year defence plan",
-      "link": "https://nairametrics.com/2026/08/19/tinubu-orders-90-day-national-security-threat-assessment-five-year-defence-plan/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "President Bola Tinubu has directed a nine-man committee of Nigeria's top military and intelligence chiefs to produce a comprehensive National Threat Assessment and a rolling five-year Strategic Defence Operations Plan within 90 days. The post Tinubu orders 90-day national security threat assessment, five-year defence plan appeared first on Nairametrics .",
-      "published": "2026-08-19T19:15:45+00:00",
-      "fetched": "2026-08-20T00:27:44.514596+00:00"
     }
   ]
 }
