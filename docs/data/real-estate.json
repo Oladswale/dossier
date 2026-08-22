@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-22T06:17:08.340829+00:00",
+  "updated": "2026-08-22T12:12:53.831147+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1c1131b6c0ac25f1",
+      "title": "The Ultimate Celebrity Status Symbol: Owning an Exclusive Private Island",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrities-own-private-islands-luxury-status-symbol/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Over the years, A-listers have taken their property portfolios to another level by purchasing entire islands.",
+      "published": "2026-08-22T11:03:00+00:00",
+      "fetched": "2026-08-22T12:12:53.830560+00:00"
+    },
+    {
+      "id": "fa2e42a9522f911d",
+      "title": "Glamping Retreat Offers Job With Free Housing in Geodesic Dome, and Applications Flood In",
+      "link": "https://www.realtor.com/news/trends/glamping-retreat-michigan-job-free-housing-geodesic-dome/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A luxurious glamping retreat in Michigan is seeing a flood of interest for a job that includes free housing in a unique geodesic dome home.",
+      "published": "2026-08-22T10:00:00+00:00",
+      "fetched": "2026-08-22T12:12:53.830592+00:00"
+    },
     {
       "id": "a34b478facbe47a7",
       "title": "Altadena Wildfire Victims Turn to Factory Homes To Speed Rebuilding Process",
@@ -1482,26 +1502,6 @@
       "summary": "The rapper met the internet personality in a now-viral video, in which a speed-dating exercise resulted in an agreement to buy a house.",
       "published": "2026-08-13T12:54:11+00:00",
       "fetched": "2026-08-13T18:43:29.700480+00:00"
-    },
-    {
-      "id": "b6a9c493fa9f8cdf",
-      "title": "Signs That Your Rents Will Slow (or Grow) in 2026/2027",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-451",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "National rent prices are down year-over-year, but that’s not telling the whole story. Different properties in different markets are seeing an opposite reality. Some markets are seeing 3%-5% rent increases, [ ]",
-      "published": "2026-08-13T11:00:57+00:00",
-      "fetched": "2026-08-13T12:38:35.383070+00:00"
-    },
-    {
-      "id": "926af03019d59e34",
-      "title": "A Viral AI Property Tax Hoax Is Targeting Some Homeowners—and It Could Cost Them Real Relief",
-      "link": "https://www.realtor.com/news/trends/ai-property-tax-hoax-videos-senior-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A network of AI-fueled videos is pushing fake property tax relief that could cost seniors real benefits, a Realtor.com investigation found.",
-      "published": "2026-08-13T09:00:00+00:00",
-      "fetched": "2026-08-13T12:38:35.843917+00:00"
     }
   ]
 }
