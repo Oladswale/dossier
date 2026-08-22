@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-08-22T00:27:30.516543+00:00",
+  "updated": "2026-08-22T06:16:52.636307+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d0a834cd7ba27927",
+      "title": "Tinubu’s reform scorecard: More money, same old priorities",
+      "link": "https://nairametrics.com/2026/08/22/tinubus-reform-scorecard-more-money-same-old-priorities/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "According to the Nigerian Ministry of Finance Reform Scorecard published on finance.gov.ng, between June 2023 and December 2025, the Federal Government of Nigeria generated N20.4 trillion in incremental resources. The post Tinubu s reform scorecard: More money, same old priorities appeared first on Nairametrics .",
+      "published": "2026-08-22T06:13:51+00:00",
+      "fetched": "2026-08-22T06:16:51.952619+00:00"
+    },
     {
       "id": "13745575e07aecc6",
       "title": "You can now Venmo your kid’s college tuition. But should you?",
@@ -1274,6 +1284,16 @@
       "fetched": "2026-08-20T00:27:44.215754+00:00"
     },
     {
+      "id": "8de4b97c21857342",
+      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+      "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+      "published": "2026-08-19T21:05:31+00:00",
+      "fetched": "2026-08-22T06:16:51.785273+00:00"
+    },
+    {
       "id": "186e0a7edf40b344",
       "title": "‘I brought my Super Bowl ring to the open houses’: Seahawks player shares story of getting his real-estate license",
       "link": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
@@ -1482,26 +1502,6 @@
       "summary": "Industrial stocks have gotten expensive, but here are some with the most attractive growth prospects.",
       "published": "2026-08-19T16:40:00+00:00",
       "fetched": "2026-08-19T18:14:26.876801+00:00"
-    },
-    {
-      "id": "d340a9498a986671",
-      "title": "Nigeria has taught entrepreneurship for years. Is it actually converting?",
-      "link": "https://techcabal.com/2026/08/19/is-entrepreneurship-education-converting/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria has spent nearly two decades embedding entrepreneurship education in higher education. But with 85% of surveyed institutions supporting it for at least six years, the question is whether that investment is producing economic outcomes.",
-      "published": "2026-08-19T16:19:48+00:00",
-      "fetched": "2026-08-19T18:14:28.031606+00:00"
-    },
-    {
-      "id": "397bac31ab1b7bc3",
-      "title": "Zenith Bank gets NGX approval for six-week extension on H1 2026 results",
-      "link": "https://nairametrics.com/2026/08/19/zenith-bank-gets-ngx-approval-for-six-week-extension-on-h1-2026-results/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zenith Bank Plc has received approval from the Nigerian Exchange Limited (NGX) to extend the deadline for publishing its Half-Year Audited Financial Statements for the period ended June 30, 2026. The post Zenith Bank gets NGX approval for six-week extension on H1 2026 results appeared first on Nairametrics .",
-      "published": "2026-08-19T16:16:01+00:00",
-      "fetched": "2026-08-19T18:14:27.373908+00:00"
     }
   ]
 }
