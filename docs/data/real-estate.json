@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-23T06:18:44.257615+00:00",
+  "updated": "2026-08-23T12:13:35.034670+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "623308198da262dc",
+      "title": "Spheres of Influence: How Geodesic Dome Homes Evolved From Post-War Housing Fix to Disney World Icon",
+      "link": "https://www.realtor.com/news/unique-homes/geodesic-home-architecture-style-history-disney-epcot/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "This quirky architectural style is an excellent choice for homeowners looking to cut costs and increase curb appeal.",
+      "published": "2026-08-23T11:59:00+00:00",
+      "fetched": "2026-08-23T12:13:35.034123+00:00"
+    },
     {
       "id": "3ffc1356a3d05b20",
       "title": "Earth-Sheltered Ohio Home That Is Built Almost Entirely Underground Comes With a Roof You Have to Mow",
@@ -1492,16 +1502,6 @@
       "summary": "When real estate investing seems tougher than ever, and the traditional BRRRR method of recycling cash to accrue fixer-upper rentals is like walking a financial tightrope with no safety net, [ ]",
       "published": "2026-08-13T17:00:18+00:00",
       "fetched": "2026-08-13T18:43:29.432673+00:00"
-    },
-    {
-      "id": "3a47b6d64ec87e83",
-      "title": "Rumer Willis Quits Idaho and Moves to Nashville After Securing Primary Custody of 3-Year-Old Daughter Louetta: ‘Leap of Faith’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/rumer-willis-daughter-custody-moving-idaho-nashville/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Willis revealed she took a \"leap of faith\" and made a surprise move to Nashville for a chance at a fresh start.",
-      "published": "2026-08-13T16:52:00+00:00",
-      "fetched": "2026-08-13T18:43:29.700394+00:00"
     }
   ]
 }
