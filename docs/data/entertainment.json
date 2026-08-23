@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-23T12:13:32.450559+00:00",
+  "updated": "2026-08-23T18:10:36.016091+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9fcdc0c042389433",
+      "title": "Bret Michaels Cancels All 2026 Tour Dates for ‘Rest and Recovery’ After Recent Surgeries",
+      "link": "https://www.rollingstone.com/music/music-news/bret-michaels-cancels-2026-tour-rest-recovery-surgeries-1235613609/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"I may have just chosen to go sooner than I should have,\" singer writes after comeback show following kidney stone removal. \"We will come back better than ever\"",
+      "published": "2026-08-23T18:01:44+00:00",
+      "fetched": "2026-08-23T18:10:35.887400+00:00"
+    },
+    {
+      "id": "b9eeab641996a5a6",
+      "title": "Grace Passô’s ‘Our Secret’ Nabs the Best Film Kikito at the 54th Gramado Film Festival",
+      "link": "https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "GRAMADO, Brazil “Our Secret ( Nosso segredo ), the first feature from Grace Passô, nabbed the best feature film Kikito award at the Aug. 22 closing ceremony of the 54th Gramado Film Festival. The feature also scooped cinematography (Wilssa Esser) and art direction (Lucas Osório) plaudits.",
+      "published": "2026-08-23T16:46:29+00:00",
+      "fetched": "2026-08-23T18:10:35.744572+00:00"
+    },
+    {
+      "id": "773afd7fcbef1c29",
+      "title": "Big Thief Preview New Album Live in Nashville: Five Things We Learned",
+      "link": "https://www.rollingstone.com/music/music-features/big-thief-new-album-horsepower-what-we-know-1235613005/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The trio brought out guests like Iris DeMent, Gillian Welch, and Lucinda Williams to play their forthcoming LP, Horsepower , in its entirety at the Ryman Auditorium",
+      "published": "2026-08-23T16:30:14+00:00",
+      "fetched": "2026-08-23T18:10:35.887440+00:00"
+    },
+    {
+      "id": "2da4a8c70e3571ad",
+      "title": "Martin Short Gets Honest: What It’s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
+      "link": "https://variety.com/2026/tv/awards/martin-short-busy-emmy-race-three-very-different-projects-1236839629/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Martin Short is having quite a unique Emmy season, and he knows it. His name is all over this year’s nominations, via three very distinct projects: As an actor, he’s nominated for outstanding comedy lead via Hulu’s “Only Murders in the Building.” (He also has a comedy series nom for the show as an executive [ ]",
+      "published": "2026-08-23T16:30:00+00:00",
+      "fetched": "2026-08-23T18:10:35.744633+00:00"
+    },
+    {
+      "id": "fa33408edf320638",
+      "title": "‘Sentimental Value’ Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: ‘It Feels Full Circle’",
+      "link": "https://variety.com/2026/awards/awards/sentimental-value-anders-danielsen-lie-anne-marie-ottersen-1236840981/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Norwegian actors Anders Danielsen Lie and Anne Marie Ottersen were inducted into the Haugesund Walk of Fame.. The unveiling taking place during the first weekend of this year s Norwegian Intl. Film Festival Haugesund, Danielsen Lie and Ottersen were recognized for contributing to “building the professionalism and high standards of Norway’s acting community, both on the [ ]",
+      "published": "2026-08-23T16:00:55+00:00",
+      "fetched": "2026-08-23T18:10:35.744692+00:00"
+    },
+    {
+      "id": "c6d37832ad90e6b3",
+      "title": "Box Office: ‘Spider-Man: Brand New Day’ Triumphs Again in Fourth Weekend With $39 Million, ‘Insidious 6’ Launches to $25 Million",
+      "link": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Long may Peter Parker reign! Sony s Marvel adventure Spider-Man: Brand New Day continues to dominate at the box office, collecting $39 million in its fourth weekend of release. Despite a smattering of newcomers, Spidey remained at No.",
+      "published": "2026-08-23T15:41:54+00:00",
+      "fetched": "2026-08-23T18:10:35.744747+00:00"
+    },
+    {
+      "id": "7057349c197dc480",
+      "title": "See Justin Timberlake Make Surprise Appearance at Don Toliver’s Miami Concert",
+      "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-surprise-appearance-don-toliver-concert-1235613574/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Taking the stage for first time in over a year, singer joins rapper for \"Rock Your Body\" and \"Body\"",
+      "published": "2026-08-23T14:52:01+00:00",
+      "fetched": "2026-08-23T18:10:35.887471+00:00"
+    },
+    {
+      "id": "ab37b346792243de",
+      "title": "The Lindsay Clancy Trial Is Sparking a Political Divide on the Right",
+      "link": "https://www.rollingstone.com/politics/politics-features/lindsay-clancy-trial-political-divide-1235613475/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After Matt Walsh dismissed postpartum depression as women acting \"selfish,\" many of them jumped in to correct him",
+      "published": "2026-08-23T14:30:00+00:00",
+      "fetched": "2026-08-23T18:10:35.887498+00:00"
+    },
+    {
+      "id": "3d93d47bfb65bf3e",
+      "title": "Life in the Key of Clive",
+      "link": "https://www.rollingstone.com/music/music-lists/clive-davis-advice-dionne-warwick-gayle-king-1235612370/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The famed label boss was also a world-class adviser on all manner of topics, as friends and fellow music-makers remember",
+      "published": "2026-08-23T14:00:00+00:00",
+      "fetched": "2026-08-23T18:10:35.887523+00:00"
+    },
+    {
+      "id": "d76bae5e330ce719",
+      "title": "‘Seduction,’ Helmed by Zelito Viana and Marcos Palmeira, to Premiere at the Inffinito Fest in Miami (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/seduction-zelito-viana-marcos-palmeira-premiere-miami-h2o-1236840944/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "GRAMADO, Brazil “Seduction” ( Sedução ), a feature set in the Amazon Rainforest region and helmed by Zelito Viana and Marcos Palmeira, will have its world premiere on Sept. 11 at the 30th edition of the Inffinito Brazilian Film Festival in Miami. H2O is also releasing in local theaters Miguel Faria Jr.’s doc, “Tom Jobim [ ]",
+      "published": "2026-08-23T13:39:10+00:00",
+      "fetched": "2026-08-23T18:10:35.744802+00:00"
+    },
+    {
+      "id": "425ca6e2131b1202",
+      "title": "Inside Rush’s Triumphant Return: Our Full Interview with Geddy Lee and Alex Lifeson",
+      "link": "https://www.rollingstone.com/music/music-features/rush-interview-full-cover-story-geddy-alex-1235613154/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "In our complete, 10,000-word cover-story interview, Lee and Lifeson go incredibly deep on what it took to bring Rush back to life",
+      "published": "2026-08-23T13:30:00+00:00",
+      "fetched": "2026-08-23T18:10:35.887552+00:00"
+    },
+    {
+      "id": "e9362d2f04690ae6",
+      "title": "Dr. Dre Says the Only People Who See AI as a Threat Are Those ‘Who Have Trouble Creating’",
+      "link": "https://variety.com/2026/music/news/dr-dre-ai-music-threat-those-who-have-trouble-creating-1236840975/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Dr. Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesizers and asserted that only people who have trouble creating are afraid of AI. Dre, founder of the Aftermath record label and co-founder and CEO of Apple s Beats, said that he doesn t see AI as [ ]",
+      "published": "2026-08-23T13:20:01+00:00",
+      "fetched": "2026-08-23T18:10:35.744874+00:00"
+    },
+    {
+      "id": "ab3ae0cced342657",
+      "title": "ZZ Top Play First Show Since Death of ‘Dear Drummer’ Frank Beard",
+      "link": "https://www.rollingstone.com/music/music-news/zz-top-first-show-since-death-dear-drummer-frank-beard-1235613567/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"We’re all here for a celebration, you know what's going on. So we're gonna have a good time,\" Billy Gibbons told Austin crowd as band returned to stage following Beard's death earlier this week",
+      "published": "2026-08-23T13:10:43+00:00",
+      "fetched": "2026-08-23T18:10:35.887591+00:00"
+    },
     {
       "id": "673d34f22de76286",
       "title": "‘Wicker’ Has the Internet Thirsting: These BookTok-Favorites Will Hold You Over Until Its Theatrical Release",
@@ -1372,136 +1502,6 @@
       "summary": "Iranian director Asghar Farhadi is a man of many accolades, including two Oscars and a Golden Bear, but the filmmaker has also managed one thing very few others have: achieving great box-office success both domestically and internationally. “A Separation,” Iran’s first-ever Oscar-winning film, earned $25 million worldwide, while “The Salesman” earned $4.3 million in Iran, [ ]",
       "published": "2026-08-20T11:55:14+00:00",
       "fetched": "2026-08-20T12:19:55.926410+00:00"
-    },
-    {
-      "id": "520d34b937ec611e",
-      "title": "Karan Johar Hails ‘Unpredictable Nature’ of Show as ‘The Traitors’ India Season 2 Becomes Prime Video’s No. 1 Non-English Title (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/karan-johar-traitors-india-season-2-no-1-1236838899/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Host Karan Johar has hailed the unpredictable nature of The Traitors India Season 2, saying it is what keeps audiences on the edge of their seats, as the Indian reality series became Prime Video s No. 1 non-English title worldwide in its launch week. The series, which premiered Aug.",
-      "published": "2026-08-20T11:51:52+00:00",
-      "fetched": "2026-08-20T12:19:55.926463+00:00"
-    },
-    {
-      "id": "7483fed5dc75831a",
-      "title": "‘Kpop Demon Hunters’ Voices of Jinu and Abby Set One-Off Gig at Outernet in London",
-      "link": "https://variety.com/2026/film/global/kpop-demon-hunters-jinu-abby-saja-boys-london-1236838851/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Saja Boys are set to work their magic on the U.K. Andrew Choi and Neckwav – who play Jinu and Abby in Netflix’s global hit “KPop Demon Hunters” – will play a one-off gig at Outernet Live in London next month. The Sept.",
-      "published": "2026-08-20T11:41:35+00:00",
-      "fetched": "2026-08-20T12:19:55.926514+00:00"
-    },
-    {
-      "id": "cdf7550d169ef17c",
-      "title": "After ‘Burlesque the Musical’ Cancels More Performances, ATG Entertainment Says Show Must Go On",
-      "link": "https://variety.com/2026/theater/global/burlesque-the-musical-atg-entertainment-1236837407/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Following four more canceled performances of the touring production of “Burlesque the Musical” this week, partner ATG Entertainment has said it is “working closely” with producers of the beleaguered musical to ensure the show will go on. “ATG Entertainment is working closely with the producers of the tour of ‘Burlesque the Musical. Following its final [ ]",
-      "published": "2026-08-20T11:25:52+00:00",
-      "fetched": "2026-08-20T12:19:55.926566+00:00"
-    },
-    {
-      "id": "334be7b30bb87fa1",
-      "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "MetFilm Sales has acquired worldwide sales rights to Boatbuilders, Luke Lorentzen’s portrait of a Maine boatbuilding community, which is set to receive its world premiere in the Open Section of the 83rd Venice Intl. Film Festival on Sept. 7.",
-      "published": "2026-08-20T11:18:30+00:00",
-      "fetched": "2026-08-20T12:19:55.926620+00:00"
-    },
-    {
-      "id": "c69ce4306a74e90a",
-      "title": "Gramado Targets Next-Gen Talent as Permanent Growth Engine (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/gramado-residency-young-filmmakers-1236838819/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "GRAMADO, Brazil As the first edition of the Residency for Young Filmmakers wrapped on Aug. 19, the Gramado Film Festival has decided to continue the program with a second edition set to take place at its 2027 edition and that the Residency would become a permanent initiative at Gramado, Rosa Helena Volk, president of [ ]",
-      "published": "2026-08-20T10:56:48+00:00",
-      "fetched": "2026-08-20T12:19:55.926664+00:00"
-    },
-    {
-      "id": "8057f35d9cdded23",
-      "title": "Podcast Giant Goalhanger Hires Tom Miceli to Lead TV and Film Expansion (EXCLUSIVE)",
-      "link": "https://variety.com/2026/digital/global/goalhanger-hires-tom-miceli-tv-and-film-expansion-1236838833/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Goalhanger, the British podcasting giant behind series such as as The Rest is Football, which recently launched as a Netflix show covering the World Cup, is looking to accelerate its growth on screen with the hire of Tom Miceli. Miceli joins from WME in the newly created role of head of IP development and will [ ]",
-      "published": "2026-08-20T10:15:15+00:00",
-      "fetched": "2026-08-20T12:19:55.926707+00:00"
-    },
-    {
-      "id": "37b38393271420a5",
-      "title": "Busan Festival Honors Ahn Sung-ki, Market Names Thailand Country of Honor",
-      "link": "https://variety.com/2026/film/markets-festivals/busan-festival-honor-ahn-sung-ki-market-thailand-country-of-honor-1236838811/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 31st Busan International Film Festival (BIFF) has unveiled a Special Program in Focus honoring the late Korean screen legend Ahn Sung-ki, while the festival s market arm has named Thailand the first-ever recipient of a new top-tier country partnership. Those Beautiful Years, Ahn Sung-ki serves as the grand finale to the nationwide tributes paid to [ ]",
-      "published": "2026-08-20T05:32:22+00:00",
-      "fetched": "2026-08-20T06:21:46.539018+00:00"
-    },
-    {
-      "id": "64daf21ff9cc9dde",
-      "title": "Manoj Bajpayee, Sudhir Mishra, Anubhav Sinha’s Gandhi Film Unveils Plot, Adds Saurabh Shukla, Narendra Hirawat (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/manoj-bajpayee-gandhi-film-plot-cast-producer-1236838081/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Indian thespian Manoj Bajpayee s first screen portrayal of Mahatma Gandhi will focus on a previously undisclosed chapter of India s independence history, according to new details released on the Sudhir Mishra-directed film. Saurabh Shukla has joined the cast, and Narendra Hirawat and NH Studioz have come aboard as producer and presenter, respectively, alongside Anubhav Sinha s Benaras [ ]",
-      "published": "2026-08-20T05:30:00+00:00",
-      "fetched": "2026-08-20T06:21:46.539077+00:00"
-    },
-    {
-      "id": "852ac033989196d9",
-      "title": "Josh Radnor Is ‘Not Even a Little Bit’ Close to His ‘How I Met Your Mother’ Co-Stars: ‘You Just Go Out and Live Your Life’",
-      "link": "https://variety.com/2026/tv/news/josh-radnor-not-close-how-i-met-your-mother-co-stars-1236838802/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Josh Radnor recently told the “Half the Picture” podcast that he is “not even a little bit” close to his “How I Met Your Mother” co-stars, despite filming together for 208 episodes across 9 seasons. When asked if he’s still tight with his “How I Met Your Mother” family, Radnor said, “No. Not even a [ ]",
-      "published": "2026-08-20T04:37:05+00:00",
-      "fetched": "2026-08-20T06:21:46.539135+00:00"
-    },
-    {
-      "id": "ca09e04cc33e8f85",
-      "title": "Naomi Watts to Receive Zurich Film Festival’s Golden Eye Award for ‘The Housewife’",
-      "link": "https://variety.com/2026/film/global/naomi-watts-zurich-the-housewife-1236838419/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Zurich Film Festival is to honor actress Naomi Watts with the Golden Eye Award for her performance in Ben Shirinian’s “The Housewife.” In Zurich, she will present the film, in which she portrays the enigmatic wife of a suspected Nazi. The actress will personally accept the award on Sept. 26 and offer insights into her [ ]",
-      "published": "2026-08-20T04:00:00+00:00",
-      "fetched": "2026-08-20T06:21:46.539185+00:00"
-    },
-    {
-      "id": "d0cad418234d03e8",
-      "title": "DEA Joins Hayden Panettiere’s Death Investigation: Report",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-investigation-dea-1235611899/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Panettiere openly discussed her struggles navigating child stardom and abuse in the entertainment industry",
-      "published": "2026-08-20T03:47:39+00:00",
-      "fetched": "2026-08-20T06:21:46.635659+00:00"
-    },
-    {
-      "id": "e127a57724d56919",
-      "title": "Hayden Panettiere’s ‘Heroes’ Dad Mourns Star and Criticizes Paparazzi That ‘Hunted’ Her",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-heroes-dad-criticizes-paparazzi-media-1235611894/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Everywhere she went, there were photographers with 300 millimeter lenses—the kind that can make even the most innocent activity look sinister,\" said Jack Coleman in his tribute",
-      "published": "2026-08-20T03:09:14+00:00",
-      "fetched": "2026-08-20T06:21:46.635702+00:00"
-    },
-    {
-      "id": "c9fb5e2d3f478d18",
-      "title": "Dane Cook’s Brother Stole $12 Million, Then Disappeared After Prison Release",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/dane-cook-brother-stole-12-million-disappeared-documentary-1235611880/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Funny Money: The Dane Cook Story dives into the family betrayal that consumed the comedian in 2008",
-      "published": "2026-08-20T01:43:11+00:00",
-      "fetched": "2026-08-20T06:21:46.635735+00:00"
     }
   ]
 }

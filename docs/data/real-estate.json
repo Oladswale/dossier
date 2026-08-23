@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-23T12:13:35.034670+00:00",
+  "updated": "2026-08-23T18:10:38.711885+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "52e29a6347eafffa",
+      "title": "Architect’s ‘Upside-Down Wedding Cake’ Home That Was Constructed on ‘Unbuildable’ Land Hits the Market for Very First Time",
+      "link": "https://www.realtor.com/news/unique-homes/architect-ken-neumann-wedding-cake-house-for-sale-michigan/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built to preserve the land around it, the striking Michigan abode sits on a plot of land that many deemed \"unbuildable.\"",
+      "published": "2026-08-23T14:12:00+00:00",
+      "fetched": "2026-08-23T18:10:38.711341+00:00"
+    },
     {
       "id": "623308198da262dc",
       "title": "Spheres of Influence: How Geodesic Dome Homes Evolved From Post-War Housing Fix to Disney World Icon",
@@ -1492,16 +1502,6 @@
       "summary": "You’re about to get schooled on where to invest—literally. Turns out one of the best places to park your real estate investment dollars is near the halls of higher education. [ ]",
       "published": "2026-08-13T17:03:32+00:00",
       "fetched": "2026-08-13T18:43:29.432628+00:00"
-    },
-    {
-      "id": "e415b2b157857a7d",
-      "title": "In a Tough Housing Market, These Low-Risk Strategies Are the Way to Go",
-      "link": "https://www.biggerpockets.com/blog/in-a-tough-housing-market-these-low-risk-strategies-are-the-way-to-go",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "When real estate investing seems tougher than ever, and the traditional BRRRR method of recycling cash to accrue fixer-upper rentals is like walking a financial tightrope with no safety net, [ ]",
-      "published": "2026-08-13T17:00:18+00:00",
-      "fetched": "2026-08-13T18:43:29.432673+00:00"
     }
   ]
 }
