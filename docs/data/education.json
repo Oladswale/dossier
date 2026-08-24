@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-24T06:30:35.494024+00:00",
+  "updated": "2026-08-24T12:20:15.565304+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cf69bab03bd15523",
+      "title": "The Daily Routine of Marcus Aurelius: How to Live Like a Stoic",
+      "link": "https://www.openculture.com/2026/08/the-daily-routine-of-marcus-aurelius-how-to-live-like-a-stoic.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Marcus Aurelius did not have a smartphone. In fact, he didn’t have a phone of any kind, owing to the fact that he lived in the second century, though we can be reasonably certain that he commanded more than enough messengers to keep himself informed around the clock. That’s because he was the Roman emperor [ ]",
+      "published": "2026-08-24T09:00:07+00:00",
+      "fetched": "2026-08-24T12:20:15.565045+00:00"
+    },
+    {
+      "id": "3aaa163fff3dded8",
+      "title": "Language skills stay strong in older adults, even while other cognitive abilities decline",
+      "link": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers find that activity in the brain’s language network is nearly identical in young and old people.",
+      "published": "2026-08-24T09:00:00+00:00",
+      "fetched": "2026-08-24T12:20:14.099080+00:00"
+    },
+    {
+      "id": "a7972b4f3abf2f6b",
+      "title": "The Women of the Bauhaus: See Hip, Avant-Garde Photographs of Female Students & Instructors at the Famous Art School",
+      "link": "https://www.openculture.com/2026/08/women-of-the-bauhaus.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Take a look at photos of Bush Tetras — a three-girl-one-guy No Wave/Post-Punk band from the early 1980s downtown Manhattan scene. Now, look at the photograph above, “Marcel Breuer and His Harem,” by Bauhaus photographer Erich Consemüller, taken sometime around 1927. Except for the fact that Breuer looks more like Ron Mael of Sparks sans [ ]",
+      "published": "2026-08-24T08:00:56+00:00",
+      "fetched": "2026-08-24T12:20:15.565108+00:00"
+    },
     {
       "id": "a75e1ce6d33616b8",
       "title": "The importance of indoor airflow patterns in spreading airborne disease",
@@ -1472,36 +1502,6 @@
       "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.",
       "published": "2026-07-01T20:30:00+00:00",
       "fetched": "2026-07-29T08:14:13.525767+00:00"
-    },
-    {
-      "id": "a40036e6cc1a49b9",
-      "title": "A portable ultrasound system could make reliable breast imaging more accessible",
-      "link": "https://news.mit.edu/2026/portable-ultrasound-system-could-make-reliable-breast-imaging-more-accessible-0701",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The new technology, which generates high-resolution, 3D images of breast tissue, requires no expertise to operate and could be used at home.",
-      "published": "2026-07-01T09:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525789+00:00"
-    },
-    {
-      "id": "6439f3cb09b4d4ba",
-      "title": "How urban design leads to better wellness",
-      "link": "https://news.mit.edu/2026/how-urban-design-leads-to-better-wellness-0701",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An extensive study of U.S. cities identifies walkable neighborhoods, urban greenery, and access to amenities as key contributors to residents’ health.",
-      "published": "2026-07-01T09:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525809+00:00"
-    },
-    {
-      "id": "a78899b8cbadb0c6",
-      "title": "The brain’s language network is more extensive than previously thought",
-      "link": "https://news.mit.edu/2026/brain-language-network-more-extensive-than-previously-thought-0701",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new study reveals that parts of the brain located far from the canonical language-processing centers are also involved in language comprehension.",
-      "published": "2026-07-01T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525827+00:00"
     }
   ]
 }
