@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-23T18:10:38.711885+00:00",
+  "updated": "2026-08-24T00:29:21.255177+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "12482fa74257872a",
+      "title": "Dazzling $9.6 Million Florida Estate With Its Own Baseball Field Comes Complete With a Home Run of a Backstory",
+      "link": "https://www.realtor.com/news/unique-homes/florida-estate-baseball-field-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The extraordinary 100-acre spread has only been home to two families over the years—and is now ready for its next steward.",
+      "published": "2026-08-23T21:29:00+00:00",
+      "fetched": "2026-08-24T00:29:21.254610+00:00"
+    },
+    {
+      "id": "48b94993beadc6f8",
+      "title": "HGTV-Approved Asheville Condo Smashes Local Record After Selling for $3.15 Million",
+      "link": "https://www.realtor.com/news/unique-homes/asheville-condo-hgtv-record-breaking-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The deal marks yet another accolade for the residence, which was previously crowned the winner of HGTV's 2021 \"Ultimate House Hunt.\"",
+      "published": "2026-08-23T19:01:00+00:00",
+      "fetched": "2026-08-24T00:29:21.254649+00:00"
+    },
+    {
+      "id": "86b9df8ebf64e74a",
+      "title": "How ‘Hurricane Resistant’ Babcock Ranch Is Pioneering the Future of Climate-Resilient Living",
+      "link": "https://www.realtor.com/news/trends/babcock-ranch-punta-gorda-florida-hurricane-solar-power/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A community in Southwest Florida famous for being solar-powered and hurricane resistant now wants to be a climate innovation hub.",
+      "published": "2026-08-23T18:37:00+00:00",
+      "fetched": "2026-08-24T00:29:21.254681+00:00"
+    },
     {
       "id": "52e29a6347eafffa",
       "title": "Architect’s ‘Upside-Down Wedding Cake’ Home That Was Constructed on ‘Unbuildable’ Land Hits the Market for Very First Time",
@@ -1472,36 +1502,6 @@
       "summary": "The \"Practical Magic\" actress revealed she's secretly held onto an apartment in England for over 20 years.",
       "published": "2026-08-13T18:28:03+00:00",
       "fetched": "2026-08-13T18:43:29.700286+00:00"
-    },
-    {
-      "id": "a6dff35c693c39ab",
-      "title": "Many Residents of This Atlanta Neighborhood Don’t Shop at This Grocery Store—So Why Are They Rallying To Save it?",
-      "link": "https://www.realtor.com/news/trends/homeowners-atlanta-rally-behind-grocery-store-they-dont-use/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "For elderly residents and those without reliable transportation, the Buy Low isn't optional—it's the only grocery store they can reach.",
-      "published": "2026-08-13T18:18:24+00:00",
-      "fetched": "2026-08-13T18:43:29.700328+00:00"
-    },
-    {
-      "id": "55b8b0dda264854d",
-      "title": "There Could Be a ‘Ticking Time Bomb’ Hiding in Plain Sight in That House You Want To Buy",
-      "link": "https://www.realtor.com/advice/buy/spotting-plumbing-problems-before-buying-a-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Spotting issues with a home before you make a offer is a smart strategy, but buyers could be overlooking a very costly repair.",
-      "published": "2026-08-13T17:31:56+00:00",
-      "fetched": "2026-08-13T18:43:29.700362+00:00"
-    },
-    {
-      "id": "76451c54df5ddcd4",
-      "title": "Why Inland College Towns Are Real Estate’s Hottest Overlooked Sector",
-      "link": "https://www.biggerpockets.com/blog/why-inland-college-towns-are-real-estates-hottest-overlooked-sector",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You’re about to get schooled on where to invest—literally. Turns out one of the best places to park your real estate investment dollars is near the halls of higher education. [ ]",
-      "published": "2026-08-13T17:03:32+00:00",
-      "fetched": "2026-08-13T18:43:29.432628+00:00"
     }
   ]
 }
