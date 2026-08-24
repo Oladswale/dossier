@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-24T12:20:13.832710+00:00",
+  "updated": "2026-08-24T18:20:23.625154+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "037db58d605760fa",
+      "title": "White House Crops Natalie Harp Out of Grand Prix Content",
+      "link": "https://www.rollingstone.com/politics/politics-news/white-house-crops-natalie-harp-trump-melania-video-1235614078/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Things seemed a little awkward between Trump, his wife, and his deeply devoted personal aide during Sunday's IndyCar Freedom250 Grand Prix",
+      "published": "2026-08-24T18:15:22+00:00",
+      "fetched": "2026-08-24T18:20:23.518934+00:00"
+    },
+    {
+      "id": "c9c81845a0eb6520",
+      "title": "How to Buy Harry Styles ‘Together, Together’ MSG Tickets Online",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/how-to-buy-harry-styles-tour-tickets-together-together-deals-discounts-1235503517/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Here’s everything you need to know about scoring the best seats for his Madison Square Garden shows (plus tickets for other cities)",
+      "published": "2026-08-24T18:02:15+00:00",
+      "fetched": "2026-08-24T18:20:23.519006+00:00"
+    },
+    {
+      "id": "20c992464fb867d4",
+      "title": "Ella Langley Ties Lil Nas X and Shaboozey’s Billboard Hot 100 Record",
+      "link": "https://www.rollingstone.com/music/music-news/ella-langley-ties-shaboozey-lil-nas-x-billboard-number-one-1235613980/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"Choosin' Texas\" spends its 19th week at Number One, tying the reign of country tracks \"Old Town Road\" and \"A Bar Song (Tipsy)\"",
+      "published": "2026-08-24T17:49:16+00:00",
+      "fetched": "2026-08-24T18:20:23.519091+00:00"
+    },
+    {
+      "id": "2cc51cdef710da6f",
+      "title": "Disney Offers Executives Voluntary Early Retirement Packages Amid Overall Cost-Cutting Plans",
+      "link": "https://variety.com/2026/tv/news/disney-offers-execs-voluntary-retirement-packages-1236841676/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney is offering longtime executives early retirement packages amid larger cost-cutting efforts and ongoing layoffs. The offer, announced in a memo to staff sent by Senior EVP and Chief People Officer Sonia Coleman on Monday, the time-limited, company-sponsored Voluntary Early Retirement Offer (VERO) program is set to give eligible executives the opportunity to retire now [ ]",
+      "published": "2026-08-24T17:38:45+00:00",
+      "fetched": "2026-08-24T18:20:23.361885+00:00"
+    },
+    {
+      "id": "9b804faed5462ea3",
+      "title": "Former Child Star Raquel Lee Sues Disney Over Alleged Rape at 14 by Ex-Employee",
+      "link": "https://variety.com/2026/film/news/child-star-raquel-lee-sues-disney-1236841598/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Raquel Lee, who appeared on The Amanda Show and The Proud Family as a child star, has sued Disney, alleging that an ex-employee raped her when she was 14 while working on the 2001 movie The Poof Point. In a lawsuit filed Friday, Lee accused Disney of negligence and claimed that a “middle-aged, male employee [ ]",
+      "published": "2026-08-24T17:26:13+00:00",
+      "fetched": "2026-08-24T18:20:23.361945+00:00"
+    },
+    {
+      "id": "a91d510a311ede08",
+      "title": "Paramount Says It Did Not Leak Discussions With California’s Attorney General to the Press",
+      "link": "https://variety.com/2026/film/news/paramount-leak-discussions-california-attorney-general-1236841669/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "David Ellison s Paramount Skydance released a statement Monday after California attorney general Rob Bonta abruptly canceled the two sides planned meeting, alleging Paramount had leaked confidential discussions about the Warner Bros. Discovery case. “We share AG Bonta’s concerns about the public discussions and misreporting that has surrounded this deal, Paramount said in a statement sent [ ]",
+      "published": "2026-08-24T17:21:57+00:00",
+      "fetched": "2026-08-24T18:20:23.362000+00:00"
+    },
+    {
+      "id": "5693029b5421b161",
+      "title": "Pixar’s ‘Cars’ Returns to Theaters for 20th Anniversary",
+      "link": "https://variety.com/2026/film/news/cars-returns-theaters-20th-anniversary-1236841637/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Rev your engines because “Cars” is back in theaters to celebrate its 20th anniversary, starting Sept. 4 The race back to theaters coincides with Lightning McQueen Day on Sept. 5, honoring Owen Wilson s lead character s number, #95.",
+      "published": "2026-08-24T17:03:46+00:00",
+      "fetched": "2026-08-24T18:20:23.362050+00:00"
+    },
+    {
+      "id": "56e2b427b2137e6d",
+      "title": "CNN Blames ‘Technical Issue’ Across Warner Bros. Discovery for Channel Going Dark",
+      "link": "https://variety.com/2026/tv/news/cnn-streaming-technical-issues-channel-loss-1236841649/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "CNN suffered glitches Monday that left the channel unviewable across multiple distribution points, a problem the news network attributed to a technical issue at parent company Warner Bros. Discovery. We are aware of a technical issue across Warner Bros.",
+      "published": "2026-08-24T17:03:39+00:00",
+      "fetched": "2026-08-24T18:20:23.362094+00:00"
+    },
+    {
+      "id": "89ffda5dadbb0fcc",
+      "title": "Emily Compagno Joins Fox News’ ‘The Five’ as Co-Host",
+      "link": "https://variety.com/2026/tv/news/emily-compagno-fox-news-the-five-co-host-1236841577/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Fox News is making a slight change to a program that carries a lot of weight. Emily Compagno, a co-host of the early-afternoon program Outnumbered on the cable outlet, will join its most-watched program, The Five, as a co-host, Fox News CEO Suzanne Scott said Monday. Compagno will fill in a fourth seat that has [ ]",
+      "published": "2026-08-24T17:00:00+00:00",
+      "fetched": "2026-08-24T18:20:23.362134+00:00"
+    },
+    {
+      "id": "24424f6ff5f5fa8d",
+      "title": "No One Trolls MAGA Better Than Kacey Musgraves",
+      "link": "https://www.rollingstone.com/music/music-features/kacey-musgraves-trolls-maga-tour-kickoff-1235613919/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Raising money for immigrant children, descending from disco testicles, and shading Ted Cruz, the Texas-born singer repeatedly drives MAGA crazy while making big bucks for charity",
+      "published": "2026-08-24T16:49:26+00:00",
+      "fetched": "2026-08-24T18:20:23.519118+00:00"
+    },
+    {
+      "id": "bb0dac0e37f8488d",
+      "title": "Kit Harington Joins ‘Harry Potter’ Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult",
+      "link": "https://variety.com/2026/tv/global/kit-harington-harry-potter-gilderoy-lockhart-nicholas-hoult-exit-1236841629/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Kit Harington will now play Gilderoy Lockhart in Season 2 of HBO s Harry Potter series, replacing Nicholas Hoult, who exited the production due to scheduling conflicts. The Game of Thrones star recently voiced Lockhart, who is central to the plot of second book Harry Potter and the Chamber of Secrets, in Audible s Harry Potter audiobooks [ ]",
+      "published": "2026-08-24T16:42:33+00:00",
+      "fetched": "2026-08-24T18:20:23.362178+00:00"
+    },
+    {
+      "id": "0f265e9426da5fa8",
+      "title": "CAA Launches Indie Game Acceleration Fund Frame1Games (EXCLUSIVE)",
+      "link": "https://variety.com/2026/gaming/news/caa-indie-game-fund-frame1games-1236841590/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "CAA has launched Frame1Games, a new venture to fund, accelerate and market independent video games. Per the agency, Frame1Games “pairs multi-million-dollar capital investment with a yearlong accelerator, giving developers mentorship from industry veterans and CAA executives and direct access to the partners and vendors needed to bring a game to market.” CAA s Frame1Games intends to back several [ ]",
+      "published": "2026-08-24T16:32:31+00:00",
+      "fetched": "2026-08-24T18:20:23.362226+00:00"
+    },
+    {
+      "id": "56fa32678844226a",
+      "title": "Former AC/DC Drummer Chris Slade Announces Retirement",
+      "link": "https://www.rollingstone.com/music/music-news/chris-slade-former-ac-dc-drummer-retiring-1235613896/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“I’m near enough 80 years old. I’ve been drumming professionally since I was 16 with Tom Jones. I’ve had a good innings.",
+      "published": "2026-08-24T16:27:53+00:00",
+      "fetched": "2026-08-24T18:20:23.519152+00:00"
+    },
+    {
+      "id": "23d7b593388d0ba3",
+      "title": "Trump Told DOJ to Settle Live Nation Case After Meeting With CEO in Oval Office",
+      "link": "https://www.rollingstone.com/music/music-news/donald-trump-live-nation-ceo-met-antitrust-settlement-1235613900/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president and Michael Rapino reportedly discussed why the antitrust case hadn't settled yet during a Feb. 27 meeting",
+      "published": "2026-08-24T16:09:28+00:00",
+      "fetched": "2026-08-24T18:20:23.519178+00:00"
+    },
+    {
+      "id": "dccb798b05a62f01",
+      "title": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
+      "link": "https://variety.com/2026/biz/news/wildbrain-acquires-kid-safe-ai-platform-personality-ai-1236841595/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "WildBrain, the Canadian children’s media company with the rights to titles such as “Yo Gabba Gabba!” and the “Teletubbies,” has purchased the child-focused generative AI startup Personality AI in a cash-and-stock deal worth up to $69 million in a bid to marry the company’s intellectual property with the startup’s conversational products. Personality AI touts its conversational character [ ]",
+      "published": "2026-08-24T16:08:24+00:00",
+      "fetched": "2026-08-24T18:20:23.362277+00:00"
+    },
+    {
+      "id": "923a781774a3d57f",
+      "title": "John Leguizamo, Inde Navarrette and James Ortiz Among Latino and Hispanic Stars Set for Honors at Critics Choice Celebración Ceremony",
+      "link": "https://variety.com/2026/film/awards/john-leguizamo-inde-navarrette-critics-choice-latino-celebration-1236840299/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Veteran actor John Leguizamo, breakouts James Ortiz and Inde Navarrette and more Latino Hollywood talents are among the Critics Choice Association s slate of honorees for the newly titled Celebración of Cinema Television (formerly called Celebration of Latino Cinema and Television), now in its sixth year, that recognizes and spotlights Latino and Hispanic artistry both [ ]",
+      "published": "2026-08-24T16:00:00+00:00",
+      "fetched": "2026-08-24T18:20:23.362328+00:00"
+    },
+    {
+      "id": "ef5a53a9f0048f67",
+      "title": "Hear Neil Young’s New Recording of a Song He Originally Wrote as a Teenager in 1965",
+      "link": "https://www.rollingstone.com/music/music-news/neil-youngs-new-song-1965-1235613843/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“Casting Me Away From You” will appear on Young’s new LP Second Song , which he recorded with the Chrome Dreams",
+      "published": "2026-08-24T15:50:55+00:00",
+      "fetched": "2026-08-24T18:20:23.519208+00:00"
+    },
+    {
+      "id": "bd0bb2b8602c83f1",
+      "title": "Reggie Watts: Festivals Remove Comedian, ‘Comedy Bang! Bang!’ Drops Theme Song",
+      "link": "https://www.rollingstone.com/music/music-news/reggie-watts-comedy-bang-bang-theme-song-removed-1235612315/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Musician was accused of “reckless” encouragement of drug use and abusive behavior in multiple relationships. One ex died by suicide earlier this year",
+      "published": "2026-08-24T15:27:02+00:00",
+      "fetched": "2026-08-24T18:20:23.519240+00:00"
+    },
+    {
+      "id": "22000d48ecdb9498",
+      "title": "Television Guitarist Richard Lloyd Diagnosed With Bile-Duct Cancer",
+      "link": "https://www.rollingstone.com/music/music-news/television-guitarist-richard-lloyd-cancer-diagnosis-1235613776/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“He has tumors in his liver,” bandmate writes on GoFundMe. “Because of its location, doctors cannot safely operate to remove it at this time”",
+      "published": "2026-08-24T15:12:24+00:00",
+      "fetched": "2026-08-24T18:20:23.519268+00:00"
+    },
+    {
+      "id": "07b5128a4a2b0977",
+      "title": "The Internet Is Getting Meaner. Slushy Noobz Are Keeping It Fun",
+      "link": "https://www.rollingstone.com/culture/culture-features/slushy-noobz-road-trip-tour-irl-1235605374/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Canadian duo, made up of friends Hamzah Al-Emad and Martin Andrijasevic, have become YouTube stars by finding comedy in everyday life",
+      "published": "2026-08-24T14:00:00+00:00",
+      "fetched": "2026-08-24T18:20:23.519354+00:00"
+    },
     {
       "id": "ba8397b517806ef1",
       "title": "Toronto Midnight Madness Title ‘Vintage Violence,’ Starring Cole Sprouse and Kiko Mizuhara, Boarded by Best Friend Forever (EXCLUSIVE)",
@@ -1302,206 +1502,6 @@
       "summary": "The prolific rock critic wrote for Rolling Stone and penned over 25 books",
       "published": "2026-08-21T00:55:15+00:00",
       "fetched": "2026-08-21T06:22:05.066900+00:00"
-    },
-    {
-      "id": "1d5ca62937a8be52",
-      "title": "Ariana Grande Slams Team Trump After It Uses ‘We Can’t Be Friends’ in TikTok Video: ‘Your Truth is False’",
-      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-white-house-music-ice-video-1235576472/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Grammy winner previously criticized the Trump administration after it used her song \"Bye\" in an ICE TikTok video",
-      "published": "2026-08-21T00:18:54+00:00",
-      "fetched": "2026-08-21T06:22:05.066931+00:00"
-    },
-    {
-      "id": "a0d85129a04d5500",
-      "title": "Jaafar Jackson: ‘Michael’ Sequel Will Give ‘More Insight’ Into Child Abuse Allegations and ‘Let His Voice Be Heard’",
-      "link": "https://variety.com/2026/film/news/jaafar-jackson-michael-sequel-insight-child-abuse-allegations-1236839600/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Now that the second “Michael” movie is closer to starting production, star Jaafar Jackson says it will indeed address the criticisms and child abuse allegations Michael Jackson faced in the 90s. Michael Jackson s nephew Jaafar Jackson says that while he doesn t have much say in how the screenplay is written, he tells GQ Middle East [ ]",
-      "published": "2026-08-20T23:55:49+00:00",
-      "fetched": "2026-08-21T00:30:51.353555+00:00"
-    },
-    {
-      "id": "d21a0d6f0d7a9c39",
-      "title": "Ariana Grande Blasts Trump Administration for Using ‘We Can’t Be Friends’ in Social Post: ‘Your Truth Is False’",
-      "link": "https://variety.com/2026/music/news/ariana-grande-slams-trump-we-cant-be-friends-tiktok-post-1236839607/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ariana Grande has once again spoken out against the Trump administration for using one of her songs in a post on social media, this time for setting We Can t Be Friends (Wait For Your Love) as the soundtrack for a post on the Team Trump TikTok account. Team Trump posted a video earlier on Thursday [ ]",
-      "published": "2026-08-20T23:43:10+00:00",
-      "fetched": "2026-08-21T00:30:51.353595+00:00"
-    },
-    {
-      "id": "6e07fab2602aec34",
-      "title": "Here’s Where You Can Still Find Austin City Limits Tickets",
-      "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-austin-city-limits-tickets-2026-1235612051/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The festival returns to Zilker Park over two weekends in October, with some single-day tickets already selling out",
-      "published": "2026-08-20T23:08:06+00:00",
-      "fetched": "2026-08-21T00:30:51.571347+00:00"
-    },
-    {
-      "id": "bf5b716e84347ba6",
-      "title": "Neutrogena Admits It Made Hayden Panettiere Feel ‘Unsupported,’ Stops Short of Apologizing",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-neutrogena-backlash-1235612441/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "In recent interview, Panettiere said that the global skincare brand ended their 10-year partnership after she opened up about postpartum depression",
-      "published": "2026-08-20T22:53:42+00:00",
-      "fetched": "2026-08-21T00:30:51.571376+00:00"
-    },
-    {
-      "id": "432e7a12ae8b9c62",
-      "title": "The Best ‘Widow’s Bay’ Merch, From Tourist Tees to Salty Whale Totes",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-widows-bay-merch-gifts-apparel-online-1235612165/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Already missing New Martha’s Vineyard? We found the best candles, drinkware, gifts, and more to hold you over until the Apple TV series returns",
-      "published": "2026-08-20T22:40:46+00:00",
-      "fetched": "2026-08-21T00:30:51.571402+00:00"
-    },
-    {
-      "id": "6fc2b8c8f881599c",
-      "title": "How ‘Star Trek: Strange New Worlds’ Pulled Off That Madcap Puppet Episode",
-      "link": "https://variety.com/2026/tv/news/star-trek-strange-new-worlds-puppet-episode-1236833011/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This article contains spoilers for “Star Trek: Strange New Worlds” Season 4 Episode 5, titled “Level Five Transporter Accident, now streaming on Paramount+. At long last, the most anticipated event in recent “Star Trek” memory is here. No, not another movie or another series focused on a legacy character.",
-      "published": "2026-08-20T22:30:00+00:00",
-      "fetched": "2026-08-21T00:30:51.353629+00:00"
-    },
-    {
-      "id": "75ad197cba3930b3",
-      "title": "Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment",
-      "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in what is considered the second fastest growing region for streaming in the world, with Netflix the clear frontrunner. At an inaugural showcase event in [ ]",
-      "published": "2026-08-20T22:19:29+00:00",
-      "fetched": "2026-08-21T00:30:51.353657+00:00"
-    },
-    {
-      "id": "7c7fcd7ccb4f3c14",
-      "title": "Dave Bautista Officially Set as Kratos in ‘God of War’ TV Series",
-      "link": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dave Bautista is officially taking up the mantle of the God of War. Variety has learned that the actor is now set to lead the Amazon Prime Video TV series based on the video game franchise in the role of Kratos. It was originally reported earlier this month that Bautista was in talks to play [ ]",
-      "published": "2026-08-20T22:00:00+00:00",
-      "fetched": "2026-08-21T00:30:51.353684+00:00"
-    },
-    {
-      "id": "54786018333a27bd",
-      "title": "Tupac Murder Trial: Jurors Hear ‘Secret’ Police Interview with Keffe D Admitting Role in Shooting",
-      "link": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-shooting-suge-knight-1235612218/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Duane “Keffe D” Davis now says he lied to investigators during the meeting to gain leverage while facing a potential life sentence on drug charges",
-      "published": "2026-08-20T21:59:57+00:00",
-      "fetched": "2026-08-21T00:30:51.571426+00:00"
-    },
-    {
-      "id": "f1b76b0b69add4ff",
-      "title": "The Hollies Officially Call It Quits, as Last Two Members of Classic 1960s Lineup Retire After Being in Band for 63 Years",
-      "link": "https://variety.com/2026/music/news/hollies-retire-original-members-tony-hicks-bobby-elliott-1236839526/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Hollies have officially called it a day. And perhaps, like many, you didn t even realize a version of that classic rock band was still performing. Yet the Rock and Roll Hall of Fame-inducted group had endured in some form and continued to tour since 1962 — including two members who go back virtually to [ ]",
-      "published": "2026-08-20T21:53:02+00:00",
-      "fetched": "2026-08-21T00:30:51.353715+00:00"
-    },
-    {
-      "id": "1fc7827528dd8bcd",
-      "title": "Madonna Is Still Queen of the VMAs",
-      "link": "https://www.rollingstone.com/music/music-features/madonna-queen-of-the-vmas-1235611721/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "She's defined (and redefined) the MTV awards show's standards for more than 40 years. With 11 nominations at this year's show, she still reigns supreme",
-      "published": "2026-08-20T21:42:48+00:00",
-      "fetched": "2026-08-21T00:30:51.571445+00:00"
-    },
-    {
-      "id": "8443abea8ea615a1",
-      "title": "Lawmakers Offer Film Industry a Fix on California Tax Credit Cap",
-      "link": "https://variety.com/2026/film/news/lawmakers-film-industry-tax-fix-1236839543/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Lawmakers in Sacramento introduced a budget fix on Thursday that helps film producers by adjusting a state cap on tax credits. The agreement, first reported by Variety on Tuesday, falls short of a full carveout for film and TV tax credits from a blanket $5 million annual cap, which industry leaders have been seeking since [ ]",
-      "published": "2026-08-20T21:41:23+00:00",
-      "fetched": "2026-08-21T00:30:51.353741+00:00"
-    },
-    {
-      "id": "7fb04a9d8902168b",
-      "title": "Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy",
-      "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Comedy development exec Andy Weil is exiting Netflix after 11 years to join Amazon as its new head of comedy. The exec rejoins his former Netflix boss Peter Friedlander, now head of global TV at Amazon MGM Studios. Weil is a well-known comedy buff who has championed some of Netflix s biggest laffers, including Master of [ ]",
-      "published": "2026-08-20T21:33:09+00:00",
-      "fetched": "2026-08-21T00:30:51.353774+00:00"
-    },
-    {
-      "id": "879ae3f16e3d1bb9",
-      "title": "Diane Warren Adopts West Hollywood’s Runaway Pig: ‘Welcome Wilbur!’",
-      "link": "https://variety.com/2026/music/news/diane-warren-adopts-runaway-pig-wilbur-1236839382/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The viral story of a runaway pig in West Hollywood turned out to have a Hollywood ending. This past weekend, a video showed a piglet running through the streets of West Hollywood. Jamaal Harrison, who filmed the video, is seen chasing the pig as he yells, There s a pig in West Hollywood!",
-      "published": "2026-08-20T21:18:14+00:00",
-      "fetched": "2026-08-21T00:30:51.353802+00:00"
-    },
-    {
-      "id": "f4b53c47ff42585f",
-      "title": "TV Vet Chuck Saftler to Depart Disney and FX After Nearly 33 Years",
-      "link": "https://variety.com/2026/tv/news/chuck-saftler-to-depart-disney-and-fx-1236839456/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Longtime TV exec Chuck Saftler, who helped build FX into the powerhouse it is — having joined the company in 1993, prior to its before its June 1994 launch date — is departing the company after nearly 33 years. The well-regarded Saftler most recently served as head of acquisitions for Disney networks including ABC, Freeform, [ ]",
-      "published": "2026-08-20T21:04:23+00:00",
-      "fetched": "2026-08-21T00:30:51.353833+00:00"
-    },
-    {
-      "id": "5676b80002db95ed",
-      "title": "Hayden Panettiere’s Ex-Boyfriend Brian Hickerson Breaks Silence",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-boyfriend-death-1235611430/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Hayden’s death remains under investigation and it is important to allow that investigation to proceed”",
-      "published": "2026-08-20T20:31:56+00:00",
-      "fetched": "2026-08-21T00:30:51.571464+00:00"
-    },
-    {
-      "id": "047ffccb13d1ecd2",
-      "title": "Jessica Simpson Documentary Headed to Netflix in 2027",
-      "link": "https://www.rollingstone.com/music/music-news/jessica-simpson-documentary-netflix-2027-1235612241/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Joe Pearlman, filmmaker behind recent Robbie Williams doc, will helm the \"dive deep into the pop star’s life and career\"",
-      "published": "2026-08-20T20:20:30+00:00",
-      "fetched": "2026-08-21T00:30:51.571483+00:00"
-    },
-    {
-      "id": "bf23b9091def1ae0",
-      "title": "Wednesday Have a Song Called ‘Townies.’ Townies Have One Called ‘Wednesday.’ This Is a Thing",
-      "link": "https://www.rollingstone.com/music/music-features/songs-titled-after-band-names-wednesday-townies-1235611936/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From Lana Del Rey's \"Paris, Texas\" to Paris Texas's \"Lana Del Rey,\" a head-spinning dive into one very specific type of musical palindrome",
-      "published": "2026-08-20T19:29:49+00:00",
-      "fetched": "2026-08-21T00:30:51.571505+00:00"
-    },
-    {
-      "id": "a6239148646c72fe",
-      "title": "Eric Swalwell’s Home Raided in Federal Sexual Assault Probe",
-      "link": "https://www.rollingstone.com/politics/politics-news/eric-swalwell-devices-seized-fbi-sexual-assault-1235612235/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Things can indeed get worse for the former Democratic congressman",
-      "published": "2026-08-20T18:51:13+00:00",
-      "fetched": "2026-08-21T00:30:51.571520+00:00"
     }
   ]
 }

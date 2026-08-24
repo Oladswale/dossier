@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-24T12:20:15.565304+00:00",
+  "updated": "2026-08-24T18:20:25.463726+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5f2b354a95c1ec46",
+      "title": "Generating scenarios for extreme events, without extreme data",
+      "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
+      "published": "2026-08-24T18:00:00+00:00",
+      "fetched": "2026-08-24T18:20:23.874969+00:00"
+    },
     {
       "id": "cf69bab03bd15523",
       "title": "The Daily Routine of Marcus Aurelius: How to Live Like a Stoic",
@@ -1492,16 +1502,6 @@
       "summary": "New research could help prevent the formation of tiny seeds of lithium metal within the electrolyte, enabling batteries that charge faster and last longer.",
       "published": "2026-07-06T16:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525743+00:00"
-    },
-    {
-      "id": "90cd94400f8666d9",
-      "title": "MIT in the media: Innovating and educating for the next 250 years of America",
-      "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape.",
-      "published": "2026-07-01T20:30:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525767+00:00"
     }
   ]
 }

@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-24T12:20:16.303257+00:00",
+  "updated": "2026-08-24T18:20:26.107307+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7d865203d0d362c2",
+      "title": "3% Mortgage Rate vs. a 3% Down Payment: Which Path Builds More Wealth?",
+      "link": "https://www.realtor.com/news/trends/low-mortgage-rate-vs-down-payment-assistance-prop-37/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If approved, California Proposition 37 would create a down payment assistance program that offers a 3% down payment minimum.",
+      "published": "2026-08-24T17:58:00+00:00",
+      "fetched": "2026-08-24T18:20:26.106495+00:00"
+    },
+    {
+      "id": "376ff2c20969bde5",
+      "title": "Construction of Rental Homes Plunges After Congressional Fight Over Restrictions on the Sector",
+      "link": "https://www.realtor.com/news/trends/single-family-built-to-rent-construction-nahb-q2-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Build-to-rent developers are breathing a sigh of relief after changes were made to a recent housing bill.",
+      "published": "2026-08-24T16:59:16+00:00",
+      "fetched": "2026-08-24T18:20:26.106529+00:00"
+    },
+    {
+      "id": "61dc9cfae2e733d0",
+      "title": "EXCLUSIVE: ‘Remarkable’ $40 Million Full-Floor West Palm Beach Penthouse Hits the Market—2 Years Before It’s Due To Be Completed",
+      "link": "https://www.realtor.com/news/unique-homes/palm-beach-penthouse-for-sale-price-photos/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The incredible unit, when finished, will be perched atop the luxurious Maison D'Or building, one of the most lavish in West Palm Beach.",
+      "published": "2026-08-24T16:15:42+00:00",
+      "fetched": "2026-08-24T18:20:26.106566+00:00"
+    },
+    {
+      "id": "83ae0033e2fbc3cf",
+      "title": "Over 40% of Homeowners Haven’t Reviewed Their Insurance Policy in a Year—but Is Now the Right Time To Audit?",
+      "link": "https://www.realtor.com/news/trends/homeowners-skip-insurance-policy-review-audit/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "You're likely among the millions of homeowners neglecting your insurance—but is now really the time to audit your policy?",
+      "published": "2026-08-24T16:01:00+00:00",
+      "fetched": "2026-08-24T18:20:26.106599+00:00"
+    },
+    {
+      "id": "2711b61c5a6d465f",
+      "title": "EXCLUSIVE: ‘Girls Next Door’ Star Holly Madison Lists ‘Haunted’ Tudor Cottage With ‘Rapunzel Tower’ as $9.5K-a-Month Rental",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/holly-madison-haunted-los-angeles-witch-house-rental/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Girls Next Door\" star is renting out the 'fairytale' home that she previously had investigated for paranormal activity.",
+      "published": "2026-08-24T15:06:14+00:00",
+      "fetched": "2026-08-24T18:20:26.106630+00:00"
+    },
+    {
+      "id": "734dcfebb15edeb8",
+      "title": "Compass Faces Lawsuit From New York Renters as Congressional Scrutiny Mounts",
+      "link": "https://www.realtor.com/news/real-estate-news/compass-lawsuit-new-york-renters-streeteasy-congress/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The two renters say New York City's rent is \"artificially higher\" because one real estate player controls 80% of the city's listings.",
+      "published": "2026-08-24T14:49:39+00:00",
+      "fetched": "2026-08-24T18:20:26.106657+00:00"
+    },
+    {
+      "id": "da8246017b044e11",
+      "title": "Kyle Richards’ Daughter Farrah Reveals ‘Buying Beverly Hills’ Co-Star Is the Father of Her Child",
+      "link": "https://www.realtor.com/news/reality-tv/farrah-aldjufrie-baby-father-zach-goldsmith-kyle-richards-mauricio-umansky/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Aldjufrie revealed the father of her child is her \"Buying Beverly Hills\" co-star, Zach Goldsmith, as she hard-launched their relationship.",
+      "published": "2026-08-24T14:20:34+00:00",
+      "fetched": "2026-08-24T18:20:26.106687+00:00"
+    },
+    {
+      "id": "d340fcd359f05c48",
+      "title": "Pollen Season Will Be Longer and Hit Harder in These States: How Homeowners Should Prepare",
+      "link": "https://www.realtor.com/advice/home-improvement/pollen-season-2026-homeowner-prep/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homeowners prepping for the fall allergy season may want to start prepping early: The forecast calls for longer season in 2026.",
+      "published": "2026-08-24T13:56:00+00:00",
+      "fetched": "2026-08-24T18:20:26.106714+00:00"
+    },
+    {
+      "id": "f954003b41c155f7",
+      "title": "EXCLUSIVE: As Home Sales Slump, RealReports Launches AI Tool To Help Agents Win More Business",
+      "link": "https://www.realtor.com/news/trends/realreports-ai-tool-real-estate-agents-business/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "RealReports is launching a more proactive AI designed to help agents find prospects, serve clients, and generate repeat business.",
+      "published": "2026-08-24T13:00:00+00:00",
+      "fetched": "2026-08-24T18:20:26.106741+00:00"
+    },
     {
       "id": "b96a8cf22a31aa53",
       "title": "From Waiting Tables to $13,000+/Month in Just 3 Years (Thanks to Rentals)",
@@ -1412,96 +1502,6 @@
       "summary": "The three-bedroom property hit the selling block in July, being listed for $1.8 million. Now, the home has entered the contingency phase.",
       "published": "2026-08-14T11:54:41+00:00",
       "fetched": "2026-08-14T12:34:32.089869+00:00"
-    },
-    {
-      "id": "0039fc78a836c4ec",
-      "title": "How to Rent Out Your House (Step-by-Step Guide)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1317",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Want to rent out your house? This is how to do it right: get the best tenants and the highest rent. For most Americans, renting out their previous primary residence [ ]",
-      "published": "2026-08-14T11:00:26+00:00",
-      "fetched": "2026-08-14T12:34:31.785209+00:00"
-    },
-    {
-      "id": "43c9c907d8d9b7eb",
-      "title": "What to Know Before Structuring a Creative Finance Deal (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-757",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You re ready to start investing in real estate, but the next step can look very different depending on your situation. Every rookie’s story is unique, and today, we’re sharing our [ ]",
-      "published": "2026-08-14T11:00:18+00:00",
-      "fetched": "2026-08-14T12:34:31.785274+00:00"
-    },
-    {
-      "id": "f57590445f6cbea2",
-      "title": "Homebuilder Says It’s ‘Incredibly Difficult’ To Profit From a Traditional Starter Home",
-      "link": "https://www.realtor.com/news/real-estate-news/starter-home-homebuilder-profits-lamonte-grulke/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Little Rock, AR, builder Lamonte Grulke says he's cleared as little as $6,000 on starter home projects.",
-      "published": "2026-08-14T09:00:00+00:00",
-      "fetched": "2026-08-14T12:34:32.089909+00:00"
-    },
-    {
-      "id": "d51dc4b424ac7fa7",
-      "title": "EXCLUSIVE: Power Broker Noble Black Takes Us Inside Manhattan’s Most Coveted Penthouses",
-      "link": "https://www.realtor.com/news/unique-homes/noble-black-corcoran-luxury-real-estate-agent/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Step inside a day in the life of NYC luxury agent Noble Black as he tours $45M Manhattan penthouses and reveals how high-end deals get done.",
-      "published": "2026-08-14T08:32:00+00:00",
-      "fetched": "2026-08-14T12:34:32.089941+00:00"
-    },
-    {
-      "id": "6d829dcf986b8619",
-      "title": "Jon Hamm and Anna Osceola Are ‘Ready’ for First Baby—but Will ‘Mad Men’ Star’s Bachelor Pad Serve as Their Family Home?",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jon-hamm-anna-osceola-baby-los-feliz-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Mad Men\" star snagged his L.A. abode before he was linked to his now-wife, Anna Osceloa—but it has since become their marital home.",
-      "published": "2026-08-13T22:56:56+00:00",
-      "fetched": "2026-08-14T00:51:04.974941+00:00"
-    },
-    {
-      "id": "6da750e0d4c6102d",
-      "title": "Reclusive Billionaire Craigslist Founder Reveals Why He Quit San Francisco for New York",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/craigslist-founder-craig-newmark-moving-san-francisco-new-york/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In a recent interview, the internet pioneer, 73, opened up about his decision to relocate to New York five years ago.",
-      "published": "2026-08-13T22:34:30+00:00",
-      "fetched": "2026-08-14T00:51:04.974970+00:00"
-    },
-    {
-      "id": "1b6b879898276534",
-      "title": "In a New Test, AI Mortgage Assistants Got Nearly 1 in 4 Answers Wrong",
-      "link": "https://www.realtor.com/news/trends/top-ai-mortgage-underwriting-test-failure-new-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A new open-source benchmark found AI could misclassify bank transactions and treat deposits differently based on the names attached.",
-      "published": "2026-08-13T22:21:27+00:00",
-      "fetched": "2026-08-14T00:51:04.974991+00:00"
-    },
-    {
-      "id": "7f40237d4caffe73",
-      "title": "77-Year-Old Retired Teacher Wins HGTV’s $1.3 Million 2026 Smart Home—and She Has Big Plans for the Idyllic Florida Retreat",
-      "link": "https://www.realtor.com/news/unique-homes/hgtv-2026-smart-home-winner-revealed-teacher/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Karen Hiers, 77, who hails form Jacksonville, FL, has been unveiled as the winner of the modern Orlando abode, which is newly built.",
-      "published": "2026-08-13T21:49:54+00:00",
-      "fetched": "2026-08-14T00:51:04.975015+00:00"
-    },
-    {
-      "id": "18db98cb3d412832",
-      "title": "The Property Tax System Is Breaking—and Ohio Might Be Ground Zero",
-      "link": "https://www.realtor.com/advice/finance/ohio-property-tax-crisis/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In Youngstown, 1 in 3 homeowners is behind on property taxes. The state, citizens, and auditors all have plans to help—but no fix yet.",
-      "published": "2026-08-13T21:49:00+00:00",
-      "fetched": "2026-08-14T00:51:04.975038+00:00"
     }
   ]
 }
