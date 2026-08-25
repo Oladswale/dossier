@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-25T06:22:30.097464+00:00",
+  "updated": "2026-08-25T12:20:36.901484+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a53893730a9a813c",
+      "title": "California Gov. Gavin Newsom Lists Sacramento Mansion for $7.5 Million as Speculation Swirls About Presidential Run",
+      "link": "https://www.realtor.com/news/trends/gavin-newsom-california-mansion-for-sale-presidential-campaign/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Newsom and his wife purchased the property for $3.7 million in 2019 as a \"more kid-friendly\" alternative to the Governor's mansion.",
+      "published": "2026-08-25T11:47:20+00:00",
+      "fetched": "2026-08-25T12:20:36.900843+00:00"
+    },
+    {
+      "id": "9e3015ca424807e8",
+      "title": "Home Builders Are Bleeding as Sales Run Dry, Workers Vanish",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-454",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Builders are struggling to survive, let alone sell homes, in 2026. Prices aren’t keeping pace, home sales are falling, and nobody can find the labor to build the houses in [ ]",
+      "published": "2026-08-25T11:00:13+00:00",
+      "fetched": "2026-08-25T12:20:36.450568+00:00"
+    },
+    {
+      "id": "ae701ebbec10da9c",
+      "title": "Where ‘Affordability Refugees’ Are Moving as High Prices Push Them Out",
+      "link": "https://www.realtor.com/news/trends/home-prices-affordability-refugees-moving-august-2026-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Driven by surging home prices, over 60% of shoppers searched for properties outside their local markets, targeting more affordable metros.",
+      "published": "2026-08-25T09:00:00+00:00",
+      "fetched": "2026-08-25T12:20:36.900882+00:00"
+    },
+    {
+      "id": "a180113c7c7eb311",
+      "title": "My Mom Is ‘Death Cleaning.’ What She Decided To Leave Me Was a Surprise.",
+      "link": "https://www.realtor.com/news/trends/swedish-death-cleaning-great-wealth-transfer-inheritance/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "My mom is \"Swedish death cleaning\" before I inherit her belongings—and reconsidering what makes an heirloom valuable in the first place.",
+      "published": "2026-08-25T08:37:00+00:00",
+      "fetched": "2026-08-25T12:20:36.900917+00:00"
+    },
     {
       "id": "821f29a700581a7c",
       "title": "HGTV Takes Iconic Child Stars Like Melissa Joan Hart and Jodie Sweetin Back to the ’90s for Retro Home Makeover Show",
@@ -1462,46 +1502,6 @@
       "summary": "The content creator, 26, gave followers a look at the bold aesthetic of the New York City apartment she just moved to.",
       "published": "2026-08-14T20:22:14+00:00",
       "fetched": "2026-08-15T00:28:37.191245+00:00"
-    },
-    {
-      "id": "8038f6b0044fb326",
-      "title": "Rosie O’Donnell Says Trump Made Her ‘Refamous’ After His Presidency Prompted Her Ireland Move",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/rosie-odonnell-president-donald-trump-famous-ireland-move-united-states/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In 2025, the comedian shared that she had quit the U.S. and moved to Ireland, saying she no longer felt safe after Donald Trump was elected.",
-      "published": "2026-08-14T20:17:35+00:00",
-      "fetched": "2026-08-15T00:28:37.191277+00:00"
-    },
-    {
-      "id": "287b8cb5b68c43a6",
-      "title": "When Lawn Care Goes Too Far: What Homeowners Can’t Do To Their Lawns",
-      "link": "https://www.realtor.com/advice/home-improvement/lawn-care-goes-too-far-what-homeowners-cant-do/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If you’re curious what you can do to maintain privacy and your flowerbeds without legal issue, there are some guidelines.",
-      "published": "2026-08-14T19:45:58+00:00",
-      "fetched": "2026-08-15T00:28:37.191305+00:00"
-    },
-    {
-      "id": "2869382906f29f0f",
-      "title": "‘We Love Our Historic Church Home—but Here Are the Honest Drawbacks’",
-      "link": "https://www.realtor.com/news/trends/abandoned-church-residential-conversion-home-costs-pros-cons/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "When Susan Sandler and her husband, Howard Eisenberg, decided to downsize from their 4,000-square-foot single family home with its large yard, garden, and burdensome maintenance, they were not expecting to",
-      "published": "2026-08-14T18:21:00+00:00",
-      "fetched": "2026-08-14T18:37:26.083291+00:00"
-    },
-    {
-      "id": "41c26b0ced5002a7",
-      "title": "Social Security Turns 91 as Its Future Hangs in the Balance—and Housing Costs Squeeze Retirees",
-      "link": "https://www.realtor.com/news/trends/social-security-checks-seniors-housing-costs-retirement/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rising housing costs and mortgage debt are squeezing retirees just as Social Security approaches a projected 2032 funding shortfall.",
-      "published": "2026-08-14T18:15:59+00:00",
-      "fetched": "2026-08-14T18:37:26.083321+00:00"
     }
   ]
 }

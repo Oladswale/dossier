@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-25T06:22:29.065370+00:00",
+  "updated": "2026-08-25T12:20:36.035255+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3323c07726e89a68",
+      "title": "The Wisdom of David Bowie: On Art, Religion, Technology and More",
+      "link": "https://www.openculture.com/2026/08/the-wisdom-of-david-bowie-on-art-religion-technology-and-more.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "It doesn’t quite ring true to call David Bowie a rock star. Ziggy Stardust, the neon synthetic-clad alien alter ego he both created and retired in the early seventies, was, of course, rock stardom outlandishly personified. But then, that was the concept of what turned out to be just one of many personae he deliberately [ ]",
+      "published": "2026-08-25T09:00:33+00:00",
+      "fetched": "2026-08-25T12:20:36.034987+00:00"
+    },
+    {
+      "id": "6c74acd978233405",
+      "title": "The Very First Film Adaptation of Mary Shelley’s Frankenstein, a Thomas Edison Production (1910)",
+      "link": "https://www.openculture.com/2026/08/first-film-adaptation-of-mary-shelleys-frankenstein.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The story of humans creating monstrous beings in their image may have perennial relevance, even if it seems specific to our contemporary cultural moment. What, after all, is Oscar Isaac’s AI inventor in Ex Machina but a 21st-century update of Victor Frankenstein? (Before Isaac went on to portray Victor himself in Guillermo del Toro’s 2025 film [ ]",
+      "published": "2026-08-25T08:00:22+00:00",
+      "fetched": "2026-08-25T12:20:36.035049+00:00"
+    },
     {
       "id": "df0295091a9a0600",
       "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
@@ -1482,26 +1502,6 @@
       "summary": "In this leadership role, Miljački seeks to shepherd a collective commitment to transform the present into a better future.",
       "published": "2026-07-08T20:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525679+00:00"
-    },
-    {
-      "id": "341308ed334759be",
-      "title": "MIT engineers whip up a more breathable hydrogel",
-      "link": "https://news.mit.edu/2026/mit-engineers-whip-up-more-breathable-hydrogel-0708",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The new aerated material could enable longer-lasting bandages, implants, and wearable sensors.",
-      "published": "2026-07-08T15:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525693+00:00"
-    },
-    {
-      "id": "1ac2bd033e3f1f83",
-      "title": "MIT researcher proposes a way to detect nuclear weapons in space",
-      "link": "https://news.mit.edu/2026/mit-researcher-proposes-way-to-detect-nuclear-weapons-in-space-0708",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The 1967 Outer Space Treaty bans nuclear weapons in space, but there’s currently no way to verify that satellites aren’t carrying them.",
-      "published": "2026-07-08T15:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525711+00:00"
     }
   ]
 }
