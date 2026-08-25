@@ -1,8 +1,108 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-25T12:20:34.489509+00:00",
+  "updated": "2026-08-25T18:20:09.172552+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1687acbc7de233e3",
+      "title": "Dolly Parton, Hardscrabble Storyteller Turned Global Entertainer, Dead at 80",
+      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-dead-obit-1234810193/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Country Music Hall of Fame member died Tuesday after battling health issues for the last year",
+      "published": "2026-08-25T17:59:31+00:00",
+      "fetched": "2026-08-25T18:20:09.004051+00:00"
+    },
+    {
+      "id": "9475b79265749139",
+      "title": "Paul Thomas Anderson’s ‘Cameron Winter at Carnegie Hall’ to Tour This Fall",
+      "link": "https://www.rollingstone.com/music/music-news/paul-thomas-anderson-cameron-winter-carnegie-hall-tour-1235614747/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "35-mm prints will screen around North America",
+      "published": "2026-08-25T17:58:27+00:00",
+      "fetched": "2026-08-25T18:20:09.004077+00:00"
+    },
+    {
+      "id": "93f71bee6c72e16a",
+      "title": "Hayden Panettiere Rep Says ‘There Is Much More to This Story’ as Death Investigation Continues",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-rep-slams-death-rumors-investigation-1235614741/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The late actress’ spokesperson also criticized those fueling the “gossip and speculation” around the actress’ sudden death",
+      "published": "2026-08-25T17:48:32+00:00",
+      "fetched": "2026-08-25T18:20:09.004103+00:00"
+    },
+    {
+      "id": "fe40cadedb93e71d",
+      "title": "Amy Winehouse’s ‘Back to Black’ to Get Lavish Reissue for 20th Anniversary",
+      "link": "https://www.rollingstone.com/music/music-news/amy-winehouse-back-to-black-reissue-20th-anniversary-1235614609/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The three-disc set, out this fall, includes demos, rarities, a live album, and rare photos and new liner notes by Mark Ronson and Salaam Remi",
+      "published": "2026-08-25T16:58:13+00:00",
+      "fetched": "2026-08-25T18:20:09.004126+00:00"
+    },
+    {
+      "id": "e0e75f4af164d1de",
+      "title": "Mark the Spot, Episode 1: Art",
+      "link": "https://www.rollingstone.com/music/music-news/mark-the-spot-e1-art-pencil-on-paper-1235584288/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Pencil on Paper",
+      "published": "2026-08-25T16:57:06+00:00",
+      "fetched": "2026-08-25T18:20:09.004139+00:00"
+    },
+    {
+      "id": "bdabc4d8b46312d1",
+      "title": "Trump’s Approval Rating Bottoms Out as Support For the Iran War Disintegrates",
+      "link": "https://www.rollingstone.com/politics/politics-news/trumps-approval-rating-bottoms-out-jack-crosbie-1235614651/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president and his war are wildly unpopular — and there’s no end in sight",
+      "published": "2026-08-25T16:44:59+00:00",
+      "fetched": "2026-08-25T18:20:09.004159+00:00"
+    },
+    {
+      "id": "c72aca40dcfff126",
+      "title": "Txeas Govrenor Gregg Abit Cant Spel Hiz Favortie Musicains",
+      "link": "https://www.rollingstone.com/music/music-features/texas-governor-greg-abbott-playlist-spelling-1235614513/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Greg Abbott tries his best to issue an Obama-like playlist of Texas songs, but the misspellings are even bigger than the state he governs",
+      "published": "2026-08-25T16:22:39+00:00",
+      "fetched": "2026-08-25T18:20:09.004179+00:00"
+    },
+    {
+      "id": "600aada3208ee9bf",
+      "title": "AI Optimism Has a Hold Over Hip-Hop’s Mogul Generation",
+      "link": "https://www.rollingstone.com/music/music-features/dr-dre-raekwon-ai-palantir-hip-hop-1235614549/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From Raekwon’s “return” to Palantir’s offices, to Dr. Dre’s embrace of AI, rap’s pioneers are carrying an old faith in new machines into an era of platform ownership, surveillance, and automated music",
+      "published": "2026-08-25T16:16:51+00:00",
+      "fetched": "2026-08-25T18:20:09.004205+00:00"
+    },
+    {
+      "id": "26157b83ac215dd2",
+      "title": "Trump Threatens to Rename Lake Ontario ‘Lake America’ Amid New Canadian Trade War",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-threatens-to-rename-lake-ontario-lake-america-1235614575/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president has decided to escalate his trade war with our northern neighbor, amidst a real war with Iran and skyrocketing costs at home",
+      "published": "2026-08-25T16:02:21+00:00",
+      "fetched": "2026-08-25T18:20:09.004227+00:00"
+    },
+    {
+      "id": "b8c790c4dc6e036d",
+      "title": "Retailers Are Readying ‘Ms. Rachel’ Vinyl — The Hottest (Children’s) Release of the Year",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/ms-rachel-album-im-so-happy-buy-vinyl-listen-online-stream-1235614250/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The viral children's entertainer is releasing her debut album, with a mix of classic nursery rhymes and original tracks",
+      "published": "2026-08-25T15:12:43+00:00",
+      "fetched": "2026-08-25T18:20:09.004247+00:00"
+    },
     {
       "id": "0847a8ba179c16a0",
       "title": "Oscars: Belgium Picks Lukas Dhont’s Cannes Prizewinning ‘Coward’ for International Feature Race",
@@ -1402,106 +1502,6 @@
       "summary": "A group of Hollywood filmmakers, executives and actors has spent the last three years secretly meeting with Silicon Valley executives to try to address a simmering issue in the industry: how to define where AI is useful in the context of a human-controlled creative process. The meetings were first convened in November 2023 by LucasFilm [ ]",
       "published": "2026-08-21T23:12:39+00:00",
       "fetched": "2026-08-22T00:27:43.468129+00:00"
-    },
-    {
-      "id": "23d8f8e2b6765c20",
-      "title": "Tupac Jurors See Keffe D’s First Public Interview About Killing: ‘I Got Cancer…Nothing Else to Lose’",
-      "link": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-bet-suge-knight-1235613138/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The jury also heard Keffe claim in a 2009 police interview that alleged gunman Orlando Anderson “peed on his hands” after the shooting to wash away gunpowder",
-      "published": "2026-08-21T23:01:54+00:00",
-      "fetched": "2026-08-22T00:27:43.594604+00:00"
-    },
-    {
-      "id": "312e4f8ae7da52d7",
-      "title": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
-      "link": "https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "There’s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as microdramas and other formats proliferate and generate more advertising, subscription and in-app purchase revenue.",
-      "published": "2026-08-21T23:00:42+00:00",
-      "fetched": "2026-08-22T00:27:43.468175+00:00"
-    },
-    {
-      "id": "2455516f67419513",
-      "title": "‘Harry Potter’ Star Jessie Cave Says It Was ‘Embarrassing’ to Join OnlyFans to Pay the Bills but ‘It Has Saved Me’: Lavender Brown ‘Was a Small Part 20 Years Ago’",
-      "link": "https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jessie Cave, the actor who portrayed Lavender Brown in three “Harry Potter” movies, appeared in a recent interview on the U.K. talk show This Morning and spoke openly about her decision to launch an OnlyFans last year to help get her out of debt. Her decision resulted in a Potter fan convention barring her from [ ]",
-      "published": "2026-08-21T21:38:20+00:00",
-      "fetched": "2026-08-22T00:27:43.468225+00:00"
-    },
-    {
-      "id": "e4417efe402c36b5",
-      "title": "Sonic the Hedgehog to Headline Fortnite’s ‘Override’ Season (Gaming News Roundup)",
-      "link": "https://variety.com/2026/gaming/news/sonic-hedhehog-fornite-gaming-news-roundup-week-august-17-1236836647/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sonic the Hedgehog will headline Fortnite’s new “Override” season. Players will be able to play as Sonic and unlock the Tails Sidekick with the purchase of the Battle Pass for the hedgehog’s 35th anniversary. The collaboration will also feature the Tails Sprite, Rings and Sonic Power Sneakers, which allow players to Spin Dash in their [ ]",
-      "published": "2026-08-21T21:33:00+00:00",
-      "fetched": "2026-08-22T00:27:43.468270+00:00"
-    },
-    {
-      "id": "7715caebee12c4da",
-      "title": "Chris Aronson Files $4 Million Age Discrimination Suit Over Ouster at Paramount",
-      "link": "https://variety.com/2026/film/news/chris-aronson-paramount-lawsuit-1236840408/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chris Aronson, who was let go as Paramount s head of domestic distribution last year, has filed a lawsuit accusing the company of reneging on an agreement to pay him $1.3 million. Aronson was fired as part of the executive shakeup that followed the Skydance merger. Shortly before the deal closed, he signed an extension that [ ]",
-      "published": "2026-08-21T21:19:47+00:00",
-      "fetched": "2026-08-22T00:27:43.468309+00:00"
-    },
-    {
-      "id": "77f40a7cdab093d1",
-      "title": "Alex Aster on Writing Barbie World’s First-Ever YA Book, Sending Her ‘Lightlark’ Movie Producers ‘Really Smart’ Fan Casts",
-      "link": "https://variety.com/2026/film/news/alex-aster-barbie-book-lightlark-movie-update-1236840314/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "BookTok sensation Alex Aster stepped away from the worlds of her bestselling “Lightlark” and “Starside” novels this week to celebrate the debut of her new book, which is based on IP that predates her works by more than six decades: Barbie. Author Aster, who has now released 10 titles over the past six years, was [ ]",
-      "published": "2026-08-21T21:17:39+00:00",
-      "fetched": "2026-08-22T00:27:43.468353+00:00"
-    },
-    {
-      "id": "e5e787c8beec1d98",
-      "title": "Miss USA, Miss Teen USA Pageants Pulled From The CW Just a Week Before Air",
-      "link": "https://variety.com/2026/tv/news/miss-usa-miss-teen-usa-pageants-pulled-the-cw-1236840360/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Miss USA and Miss Teen USA pageants have faced several controversies in recent years, and here’s the latest: Just a week before the events were scheduled to air on The CW, they’ve suddenly been pulled from the network. The CW and Miss USA aren t elaborating on the real reasons why, but in a statement, [ ]",
-      "published": "2026-08-21T20:25:38+00:00",
-      "fetched": "2026-08-22T00:27:43.468394+00:00"
-    },
-    {
-      "id": "9205758a2eb3b459",
-      "title": "Chris Hansen and the Film About Chris Hansen Are Now Arguing",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/chris-hansen-primetime-a24-nda-conflict-1235613035/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "To Catch a Predator host said he was asked to “sign away my rights” before viewing Primetime ; source close to film denies his claims",
-      "published": "2026-08-21T18:38:30+00:00",
-      "fetched": "2026-08-22T00:27:43.594635+00:00"
-    },
-    {
-      "id": "6db48547b1607276",
-      "title": "Quality Control Co-Founder Pierre ‘P’ Thomas ‘Alive and Currently Hospitalized’ After Heart Attack",
-      "link": "https://www.rollingstone.com/music/music-news/quality-control-co-founder-pierre-p-thomas-heart-attack-1235613014/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The music executive, whose roster includes Lil Baby, Quavo, and JT, is reportedly being monitored in the ICU",
-      "published": "2026-08-21T18:29:16+00:00",
-      "fetched": "2026-08-22T00:27:43.594663+00:00"
-    },
-    {
-      "id": "5719c7b51d4a2b6e",
-      "title": "Kacey Musgraves Is Selling a Line of Sex Lube",
-      "link": "https://www.rollingstone.com/music/music-country/kacey-musgraves-sex-lubricant-1235612981/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The country singer's, ahem, Drought Drops promise to “keep the dry spells away and the good times coming\"",
-      "published": "2026-08-21T18:05:17+00:00",
-      "fetched": "2026-08-21T18:18:12.461141+00:00"
     }
   ]
 }

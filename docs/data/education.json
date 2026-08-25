@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-25T12:20:36.035255+00:00",
+  "updated": "2026-08-25T18:20:10.487326+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0561d1c9429e7877",
+      "title": "The secret love life of the longfin squid",
+      "link": "https://news.mit.edu/2026/secret-love-life-of-longfin-squid-0825",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT Sea Grant resident artist and acclaimed underwater photographer Keith Ellenbogen captures an intimate look at courtship and communication in a hidden spawning spectacle off Cape Cod.",
+      "published": "2026-08-25T13:35:00+00:00",
+      "fetched": "2026-08-25T18:20:09.361586+00:00"
+    },
     {
       "id": "3323c07726e89a68",
       "title": "The Wisdom of David Bowie: On Art, Religion, Technology and More",
@@ -1492,16 +1502,6 @@
       "summary": "PhD candidate Henry Wang works with FIFA and other organizations to advance the way sports are played, analyzed, and refereed.",
       "published": "2026-07-09T04:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525661+00:00"
-    },
-    {
-      "id": "836a4fbb7fd11cb6",
-      "title": "Ana Miljački named head of the Department of Architecture",
-      "link": "https://news.mit.edu/2026/ana-miljacki-named-head-department-architecture-0708",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In this leadership role, Miljački seeks to shepherd a collective commitment to transform the present into a better future.",
-      "published": "2026-07-08T20:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525679+00:00"
     }
   ]
 }
