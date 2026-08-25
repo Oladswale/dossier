@@ -1,8 +1,58 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-25T00:28:53.548624+00:00",
+  "updated": "2026-08-25T06:22:27.315462+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8a09b1a9048fa2de",
+      "title": "Nandamuri Balakrishna, Sunny Deol, Nayanthara Lead Zee Studios’ Multilingual 2026-27 Slate (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/nandamuri-balakrishna-sunny-deol-nayanthara-zee-studios-slate-1236841553/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "India s Zee Studios has unveiled a diversified multilingual, multi-genre content slate for 2026-27, spanning Hindi, Marathi, Telugu, Tamil, Malayalam, Gujarati and Kannada cinema. The portfolio brings together commercial entertainers, action spectacles, thrillers, mythology-driven epics and regionally rooted stories. On the Hindi-language side, the slate includes Baap, starring Sunny Deol, Sanjay Dutt, Jackie Shroff and Mithun [ ]",
+      "published": "2026-08-25T03:30:00+00:00",
+      "fetched": "2026-08-25T06:22:26.851881+00:00"
+    },
+    {
+      "id": "b55853fc66b5f2fa",
+      "title": "Imagen Awards Red Carpet: Andy Garcia, Karla Souza, Wilmer Valderrama and More Celebrity Photos",
+      "link": "https://variety.com/gallery/41st-imagen-awards-red-carpet-photos/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Andy Garcia, Karla Souza and Wilmer Valderrama were among those on the red carpet Friday night for the 41st annual Imagen Awards at The Beverly Hilton in Beverly Hills. Celebrating Latino talent and creatives across entertainment, the gala honored Andy Garcia with the Lifetime Achievement Award for his four-decade career. In his acceptance speech, the [ ]",
+      "published": "2026-08-25T02:14:02+00:00",
+      "fetched": "2026-08-25T06:22:26.851930+00:00"
+    },
+    {
+      "id": "4ce3b1f380fdba2e",
+      "title": "Hulu Cancels Mindy Kaling-Created Comedy ‘Not Suitable for Work’ After One Season (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/not-suitable-for-work-hulu-canceled-mindy-kaling-one-season-1236842124/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Hulu will not be moving forward on a second season of its recent comedy “Not Suitable for Work, from creator Mindy Kaling. The series, which Kaling executive produced with showrunner Charlie Grandy and 3 Arts Entertainment s Howard Klein, launched in June and ran for nine episodes. Warner Bros.",
+      "published": "2026-08-25T01:48:31+00:00",
+      "fetched": "2026-08-25T06:22:26.851982+00:00"
+    },
+    {
+      "id": "e88299f151570a40",
+      "title": "Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video",
+      "link": "https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Most Taylor Swift fans probably do not think of the sad events of All Too Well and the ultimately happy Toy Story 5 as occurring in the same cinematic or musical universe. But, to the contrary, Swift sees a clear thematic connection between her epic romantic tragedy of 14 years ago and the happily-ever-after saga [ ]",
+      "published": "2026-08-25T01:15:30+00:00",
+      "fetched": "2026-08-25T06:22:26.852027+00:00"
+    },
+    {
+      "id": "8463bf8bc3106a9d",
+      "title": "Taylor Swift Talks Honoring Her Country Roots ‘More and More’ in Rare Interview",
+      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-honor-country-roots-tim-mcgraw-1235614372/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The superstar spoke with Recording Academy CEO Harvey Mason Jr. for the institution's Icon Sessions series",
+      "published": "2026-08-25T00:48:36+00:00",
+      "fetched": "2026-08-25T06:22:27.079994+00:00"
+    },
     {
       "id": "b6519e873a8d8a62",
       "title": "Taylor Swift Recalls How ‘I Knew You Were Trouble’ Was Written As a ‘Really Sad Ballad’ in Grammy Museum Conversation Video",
@@ -162,6 +212,16 @@
       "summary": "J.Crew is giving one of its most recognizable ’80s staples a Gen Z-sized makeover. The retailer has tapped Emma Chamberlain to front the launch of its new Tiny Rollneck, a shrunken, fitted take on the cotton sweater that has been a brand staple since 1988. The new silhouette officially drops Wednesday, Aug.",
       "published": "2026-08-24T19:10:02+00:00",
       "fetched": "2026-08-25T00:28:53.233027+00:00"
+    },
+    {
+      "id": "d423974a006301ca",
+      "title": "Lil Durk Trial Openings: Rapper Falsely Cast as ‘Big Fish,’ Lawyer Says",
+      "link": "https://www.rollingstone.com/music/music-news/lil-durk-trial-opening-statement-1235612620/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“Mr. Banks had nothing to do with it. He was not there,” rapper’s defense lawyer said in her opening statement",
+      "published": "2026-08-24T18:44:21+00:00",
+      "fetched": "2026-08-25T06:22:27.080079+00:00"
     },
     {
       "id": "63c7461c42ca757b",
@@ -1442,66 +1502,6 @@
       "summary": "The close aide to the president lauded Trump as her \"Guardian and Protector in this Life,\" in a pair of deeply emotional and bizarre letters published by The Daily Beast",
       "published": "2026-08-21T17:08:08+00:00",
       "fetched": "2026-08-21T18:18:12.461268+00:00"
-    },
-    {
-      "id": "c13f2e325eec2297",
-      "title": "‘GTA 6’ Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks",
-      "link": "https://variety.com/2026/gaming/news/gta-6-leaks-rockstar-subpoenas-microsoft-discord-1236840176/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Rockstar Games parent company Take-Two Interactive filed requests with a federal court for subpoenas seeking information from Microsoft and Discord regarding gameplay leaks for its eagerly anticipated Grand Theft Auto 6 coming more than three months ahead of the game s release. Per the documents, filed with the U.S. District Court for the Southern District [ ]",
-      "published": "2026-08-21T17:01:47+00:00",
-      "fetched": "2026-08-21T18:18:11.540161+00:00"
-    },
-    {
-      "id": "02f226a674089dfd",
-      "title": "Turnstile Enlist Elton John, Hayley Williams, Slayyyter for ‘Never Enough: Versions’ LP",
-      "link": "https://www.rollingstone.com/music/music-news/turnstile-elton-john-hayley-williams-never-enough-versions-1235612895/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Reimagined\" version of 2025 album, out August 28, also features contributions from Panda Bear, A.G. Cook, Blood Orange, Julien Baker, Faye Webster, and many more",
-      "published": "2026-08-21T16:45:55+00:00",
-      "fetched": "2026-08-21T18:18:12.461298+00:00"
-    },
-    {
-      "id": "33573fcf6cf149f8",
-      "title": "Sean Duffy’s National Vacation Is Peak MAGA Cringe",
-      "link": "https://www.rollingstone.com/politics/politics-features/sean-duffys-national-vacation-peak-maga-cringe-1235612785/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A Catholic reality TV couple taking a cross-country trip with their nine kids would be great TV if it didn't feature the Transportation Secretary selling out his office",
-      "published": "2026-08-21T16:43:31+00:00",
-      "fetched": "2026-08-21T18:18:12.461327+00:00"
-    },
-    {
-      "id": "5fbff0a21f6d5593",
-      "title": "People Can’t Stop Listening to TV on the Radio Thanks to ‘Spider-Man: Brand New Day’",
-      "link": "https://www.rollingstone.com/music/music-features/tv-on-the-radio-spider-man-brand-new-day-tunde-adebimpe-1235612395/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Streams of \"Wolf Like Me\" featured in film are up over 800 percent in the past month. Singer Tunde Adebimpe calls it \"definitely surreal\"",
-      "published": "2026-08-21T16:01:16+00:00",
-      "fetched": "2026-08-21T18:18:12.461356+00:00"
-    },
-    {
-      "id": "62b8de898650e02b",
-      "title": "The Game Takes Aim at Kendrick Lamar — and He Brought Drake With Him",
-      "link": "https://www.rollingstone.com/music/music-news/the-game-kendrick-drake-new-album-1235612820/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "After months of simmering West Coast tension, the veteran MC makes his feelings about Kendrick clear on his new album, with a little help from his biggest rival",
-      "published": "2026-08-21T15:57:58+00:00",
-      "fetched": "2026-08-21T18:18:12.461382+00:00"
-    },
-    {
-      "id": "7cdf0acfa059261a",
-      "title": "Viva the Cramps, Who Played ‘Pure’ Rock & Roll as Though the British Never Invaded",
-      "link": "https://www.rollingstone.com/music/music-features/the-cramps-gravest-gravy-appreciation-1235609505/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "With the release of Gravest Gravy , an archival set featuring an early recording session, it's a good time to celebrate bad music for bad people",
-      "published": "2026-08-21T15:56:24+00:00",
-      "fetched": "2026-08-21T18:18:12.461411+00:00"
     }
   ]
 }
