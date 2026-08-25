@@ -1,8 +1,88 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-24T18:20:26.107307+00:00",
+  "updated": "2026-08-25T00:28:55.934809+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "821f29a700581a7c",
+      "title": "HGTV Takes Iconic Child Stars Like Melissa Joan Hart and Jodie Sweetin Back to the ’90s for Retro Home Makeover Show",
+      "link": "https://www.realtor.com/news/reality-tv/totally-90s-house-renovation-competition-child-stars-hgtv/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Hosted by \"Family Matters\" alum Jaleel White, the competition series seeks to modernize homes stuck in the 1990s.",
+      "published": "2026-08-24T22:12:16+00:00",
+      "fetched": "2026-08-25T00:28:55.934218+00:00"
+    },
+    {
+      "id": "9d3ec72165772220",
+      "title": "Patriots Star Rob Gronkowski and Camille Kostek Unveil Party-Ready Makeover of Backyard at Their New England Mansion",
+      "link": "https://www.realtor.com/news/sports/nfl-player-rob-gronkowski-home-transformation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The couple have kicked off a larger overhaul of their New England mansion with the installation of an expansive outdoor kitchen.",
+      "published": "2026-08-24T22:11:55+00:00",
+      "fetched": "2026-08-25T00:28:55.934244+00:00"
+    },
+    {
+      "id": "44ea378d38a7f210",
+      "title": "Mapped: Where Homeowners Are Seriously Underwater on Their Mortgages",
+      "link": "https://www.realtor.com/news/trends/mapped-homeowners-underwater-mortgages-state-q2-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Minnesota, South Dakota, Iowa, Michigan, and DC all saw increases in the number of seriously underwater homes this year.",
+      "published": "2026-08-24T22:03:20+00:00",
+      "fetched": "2026-08-25T00:28:55.934261+00:00"
+    },
+    {
+      "id": "132c93b68a1952ec",
+      "title": "The ‘Secrets’ of Bihl Manor: Inside Dark History of ‘Tormented’ Ohio Home at Center of Anna Camp’s HGTV Show ‘A Very Haunted Renovation’",
+      "link": "https://www.realtor.com/news/reality-tv/bihl-manor-haunted-house-hgtv-anna-camp/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "HGTV's aptly titled show, \"A Very Haunted Renovation,\" hosted by Anna Camp, will see six designers living and working in the decrepit house.",
+      "published": "2026-08-24T21:10:06+00:00",
+      "fetched": "2026-08-25T00:28:55.934282+00:00"
+    },
+    {
+      "id": "4bc7d35268e5aeb6",
+      "title": "EXCLUSIVE: Former NFL QB Chris Simms Cuts the Price of His Greenwich Estate Again—Dropping His Ask by Nearly $2 Million",
+      "link": "https://www.realtor.com/news/sports/nfl-tampa-bay-buccaneers-chris-simms-estate-price-cut-greenwich/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Simms and his wife, Daniella, initially put their longtime Greenwich abode on the market on Feb. 6 for $8 million.",
+      "published": "2026-08-24T20:14:38+00:00",
+      "fetched": "2026-08-25T00:28:55.934302+00:00"
+    },
+    {
+      "id": "fe9b2ab1bf7e5255",
+      "title": "Is It Worth Buying a Co-Op Apartment in New York City?",
+      "link": "https://www.realtor.com/news/trends/nyc-coop-worth-it-costs-pros-cons/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "NYC co-ops can cost far less than condos, but rising maintenance, strict boards, and weaker price growth can complicate the bargain.",
+      "published": "2026-08-24T19:11:56+00:00",
+      "fetched": "2026-08-25T00:28:55.934319+00:00"
+    },
+    {
+      "id": "f2e5d633e4b8c61a",
+      "title": "Retired MLB Star Cole Hamels’ Former Missouri Estate Goes Up for Auction With a Major Price Cut After Foreclosure",
+      "link": "https://www.realtor.com/news/unique-homes/cole-hamels-missouri-mansion-auction-foreclosure/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 104-acre property will be sold through an online auction beginning on Sept. 17. The bidding will come to an end at 11 a.m.",
+      "published": "2026-08-24T19:06:35+00:00",
+      "fetched": "2026-08-25T00:28:55.934340+00:00"
+    },
+    {
+      "id": "79768bfe5df1a503",
+      "title": "Massive Nevada Wildfire Destroys Homes, Forces 90,000 Evacuations Near Reno",
+      "link": "https://www.realtor.com/news/real-estate-news/nevada-hawk-wildfire-reno-evacuation-homes-destroyed/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nevada Gov. Joe Lombardo called the Hawk Fire an \"active and rapidly evolving situation.\"",
+      "published": "2026-08-24T18:41:26+00:00",
+      "fetched": "2026-08-25T00:28:55.934355+00:00"
+    },
     {
       "id": "7d865203d0d362c2",
       "title": "3% Mortgage Rate vs. a 3% Down Payment: Which Path Builds More Wealth?",
@@ -12,6 +92,26 @@
       "summary": "If approved, California Proposition 37 would create a down payment assistance program that offers a 3% down payment minimum.",
       "published": "2026-08-24T17:58:00+00:00",
       "fetched": "2026-08-24T18:20:26.106495+00:00"
+    },
+    {
+      "id": "462e0f413c6f534d",
+      "title": "The Returns Bell Curve: How I Spread Risk and Returns",
+      "link": "https://www.biggerpockets.com/blog/the-returns-bell-curve-how-i-spread-risk-and-returns",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "In real estate, high minimum investments aren’t just a barrier to entry—they re also a barrier to diversification. Whether you buy investment properties directly or invest passively in syndications, funds, or [ ]",
+      "published": "2026-08-24T17:46:19+00:00",
+      "fetched": "2026-08-25T00:28:55.437059+00:00"
+    },
+    {
+      "id": "8a86d9155ba1ec8b",
+      "title": "The U.S. Has Entered Deep Renter’s Market Territory—Here’s What It Means For Investors",
+      "link": "https://www.biggerpockets.com/blog/the-us-has-entered-deep-renters-market-territory-heres-what-it-means-for-investors",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "“Renters, this is your year,” Zillow senior economist Kara Ng recently told NPR. It s apparently a good time to be a tenant, as nearly 40% of listings on the market [ ]",
+      "published": "2026-08-24T17:34:49+00:00",
+      "fetched": "2026-08-25T00:28:55.437098+00:00"
     },
     {
       "id": "376ff2c20969bde5",
@@ -1402,106 +1502,6 @@
       "summary": "Rising housing costs and mortgage debt are squeezing retirees just as Social Security approaches a projected 2032 funding shortfall.",
       "published": "2026-08-14T18:15:59+00:00",
       "fetched": "2026-08-14T18:37:26.083321+00:00"
-    },
-    {
-      "id": "1389f556c32b605b",
-      "title": "‘Home Town’ Star Erin Napier Reveals Husband Ben Napier’s Weekend Habit That Still ‘Tickles’ Her 20 Years Later",
-      "link": "https://www.realtor.com/news/reality-tv/hgtv-erin-napier-home-life-husband-ben-nap-instagram/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The HGTV star lifted the lid on her spouse's at-home habit that's been making her laugh every week for decades.",
-      "published": "2026-08-14T17:28:21+00:00",
-      "fetched": "2026-08-14T18:37:26.083346+00:00"
-    },
-    {
-      "id": "e00685140b86321f",
-      "title": "Your Electricity Bill Is Skyrocketing. These Are The ‘Energy Hogs’ Driving Up Your Costs",
-      "link": "https://www.realtor.com/advice/home-improvement/electricity-bill-energy-hogs-driving-up-costs/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Unplugging your phone charger won't save much energy. The big power drains are coming from every level of your house.",
-      "published": "2026-08-14T17:01:48+00:00",
-      "fetched": "2026-08-14T18:37:26.083369+00:00"
-    },
-    {
-      "id": "42740fd96371aba0",
-      "title": "Dazzling Glass House With an Indoor Lap Pool and Waterfall Is the Ultimate Mix of Retro and Refined",
-      "link": "https://www.realtor.com/news/unique-homes/glass-house-raleigh-north-carolina-waterfall-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built in 1981, the property features distinctive glass block walls that give it a vintage feel—but the decor is elegant and modern.",
-      "published": "2026-08-14T16:49:00+00:00",
-      "fetched": "2026-08-14T18:37:26.083393+00:00"
-    },
-    {
-      "id": "9bc8c379d67b385c",
-      "title": "Nvidia CEO Says AI Data Center Boom Is Minting a New Class of 6-Figure Jobs—What It Means for Housing",
-      "link": "https://www.realtor.com/news/trends/data-center-new-six-figure-jobs-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Can the U.S. push its workforce toward the trades that help build homes?",
-      "published": "2026-08-14T16:24:34+00:00",
-      "fetched": "2026-08-14T18:37:26.083413+00:00"
-    },
-    {
-      "id": "a35f61c724fa3b8c",
-      "title": "Chris Brown Seeks New Trial After Housekeeper Wins $13 Million in Damages—Claims Rihanna Assault Evidence Swayed Jury",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/chris-brown-seeking-new-trial-housekeeper-dog-attack-rihanna/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Last month, a jury ruled that the singer must pay $12.9 million in damages to Maria Avila, who was brutally attacked by Brown's guard dog.",
-      "published": "2026-08-14T15:49:00+00:00",
-      "fetched": "2026-08-14T18:37:26.083437+00:00"
-    },
-    {
-      "id": "010a687a19cb29b4",
-      "title": "Cozy Intruder in Cocktail Dress Is Busted Lounging on Stranger’s Couch After Conning Doorman for Keys",
-      "link": "https://www.realtor.com/news/trends/new-york-city-halo-luxury-building-break-in-stranger/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "On July 24, Queens residents Bill and Yelim Kim were on vacation when they received a Ring notification on their phones at 10:51 p.m.",
-      "published": "2026-08-14T15:39:04+00:00",
-      "fetched": "2026-08-14T18:37:26.083460+00:00"
-    },
-    {
-      "id": "55e7620707378824",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.67% Rate",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-august-13/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rates stayed high this week, remaining steady at levels not seen in over a year, much to buyers dismay.",
-      "published": "2026-08-14T14:18:00+00:00",
-      "fetched": "2026-08-14T18:37:26.083480+00:00"
-    },
-    {
-      "id": "f9b48557ad042461",
-      "title": "Movie Legend Jeff Daniels Opens Up About Why He Turned His Back on Hollywood To Embrace a Humble Life in Small-Town Michigan",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jeff-daniels-hollywood-michigan-move/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Daniels had already broken into Hollywood when he made a decision that was highly unusual for a successful actor at the time.",
-      "published": "2026-08-14T13:52:00+00:00",
-      "fetched": "2026-08-14T18:37:26.083500+00:00"
-    },
-    {
-      "id": "c1ba09b43717162e",
-      "title": "EXCLUSIVE: California Home of Martin Short’s Late Daughter Katherine Finds a Buyer—1 Month After Hitting the Market for $1.8M",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/martin-short-late-daughter-katherine-hollywood-home-buyer-1-8-million/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The three-bedroom property hit the selling block in July, being listed for $1.8 million. Now, the home has entered the contingency phase.",
-      "published": "2026-08-14T11:54:41+00:00",
-      "fetched": "2026-08-14T18:37:26.083523+00:00"
-    },
-    {
-      "id": "1a7659a0f0b4d1d4",
-      "title": "EXCLUSIVE: California Home of Martin Short’s Late Daughter Katherine Finds a Buyer—One Month After Hitting the Market for $1.8M",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/martin-short-late-daughter-katherine-hollywood-home-buyer-1-8-million/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The three-bedroom property hit the selling block in July, being listed for $1.8 million. Now, the home has entered the contingency phase.",
-      "published": "2026-08-14T11:54:41+00:00",
-      "fetched": "2026-08-14T12:34:32.089869+00:00"
     }
   ]
 }

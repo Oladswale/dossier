@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-24T18:20:25.463726+00:00",
+  "updated": "2026-08-25T00:28:55.081031+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "df0295091a9a0600",
+      "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
+      "link": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it just saw. A new study pinpoints the circuit that provides that service.",
+      "published": "2026-08-24T19:40:00+00:00",
+      "fetched": "2026-08-25T00:28:53.758780+00:00"
+    },
+    {
+      "id": "83d1bf64fafd81be",
+      "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
+      "link": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.",
+      "published": "2026-08-24T19:00:00+00:00",
+      "fetched": "2026-08-25T00:28:53.758806+00:00"
+    },
     {
       "id": "5f2b354a95c1ec46",
       "title": "Generating scenarios for extreme events, without extreme data",
@@ -1482,26 +1502,6 @@
       "summary": "The 1967 Outer Space Treaty bans nuclear weapons in space, but there’s currently no way to verify that satellites aren’t carrying them.",
       "published": "2026-07-08T15:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525711+00:00"
-    },
-    {
-      "id": "0cf17a6ef43843b1",
-      "title": "Many black holes had past lives, new research shows",
-      "link": "https://news.mit.edu/2026/many-black-holes-had-past-lives-new-research-shows-0707",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Physicists have found signs of colliding black holes that are themselves products of previous black hole smash-ups.",
-      "published": "2026-07-07T16:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525726+00:00"
-    },
-    {
-      "id": "a8607abf4b55abf2",
-      "title": "Discovery helps explain why solid-state batteries often fail",
-      "link": "https://news.mit.edu/2026/discovery-helps-explain-why-solid-state-batteries-often-fail-0706",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New research could help prevent the formation of tiny seeds of lithium metal within the electrolyte, enabling batteries that charge faster and last longer.",
-      "published": "2026-07-06T16:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525743+00:00"
     }
   ]
 }
