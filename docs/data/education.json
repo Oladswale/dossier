@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-25T18:20:10.487326+00:00",
+  "updated": "2026-08-26T00:30:18.337877+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0683e97afde02b0e",
+      "title": "Cells use a little-known molecule to protect themselves from iron overload",
+      "link": "https://news.mit.edu/2026/cells-use-little-known-molecule-protect-themselves-iron-overload-0825",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "This discovery points toward new combination strategies against cancer, and may explain the iron buildup seen in disorders such as early-onset Parkinson’s disease.",
+      "published": "2026-08-25T20:40:00+00:00",
+      "fetched": "2026-08-26T00:30:16.428727+00:00"
+    },
+    {
+      "id": "e8044d8cda545f5c",
+      "title": "A new kind of aircraft departs an MIT classroom and arrives at an Ohio factory",
+      "link": "https://news.mit.edu/2026/electra-aircraft-departs-mit-classroom-and-arrives-at-ohio-factory-0825",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Electra’s hybrid, fixed-wing aircraft, which grew out of a class project, could make travel easier for passengers taking shorter trips.",
+      "published": "2026-08-25T20:00:00+00:00",
+      "fetched": "2026-08-26T00:30:16.428766+00:00"
+    },
     {
       "id": "0561d1c9429e7877",
       "title": "The secret love life of the longfin squid",
@@ -1482,26 +1502,6 @@
       "summary": "The “TOSSIT” device, developed at MIT Lincoln Laboratory, can warn service members and first responders of dangerous vapors and aerosols.",
       "published": "2026-07-09T16:10:00+00:00",
       "fetched": "2026-07-29T08:14:13.525629+00:00"
-    },
-    {
-      "id": "f1bef13102fec96b",
-      "title": "Tiny robot boats build floating structures",
-      "link": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.",
-      "published": "2026-07-09T15:50:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525646+00:00"
-    },
-    {
-      "id": "de1433de3fd9fdd4",
-      "title": "Bringing the data to every sideline",
-      "link": "https://news.mit.edu/2026/bringing-data-to-every-sideline-henry-wang-0709",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "PhD candidate Henry Wang works with FIFA and other organizations to advance the way sports are played, analyzed, and refereed.",
-      "published": "2026-07-09T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525661+00:00"
     }
   ]
 }
