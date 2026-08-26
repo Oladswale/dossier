@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-26T00:30:18.337877+00:00",
+  "updated": "2026-08-26T06:24:09.285369+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cc7cdf03d348aadb",
+      "title": "Retooling to help democracy revive",
+      "link": "https://news.mit.edu/2026/retooling-to-help-democracy-revive-daron-acemoglu-book-0826",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Deindustrialization didn’t only hurt some workers, Daron Acemoglu says in a new book; it shrank the coalition supporting democracy, which needs expanding.",
+      "published": "2026-08-26T04:00:00+00:00",
+      "fetched": "2026-08-26T06:24:06.027482+00:00"
+    },
     {
       "id": "0683e97afde02b0e",
       "title": "Cells use a little-known molecule to protect themselves from iron overload",
@@ -1492,16 +1502,6 @@
       "summary": "The Jameel Observatory-CREWSnet project opens a solar-powered “adaptation fortress” in Satkhira, a region facing severe and growing climate threats.",
       "published": "2026-07-09T18:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525611+00:00"
-    },
-    {
-      "id": "1fa34b75440cabc6",
-      "title": "A baseball-sized sensor can detect chemical threats",
-      "link": "https://news.mit.edu/2026/baseball-sized-tossit-sensor-can-detect-chemical-threats-0709",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The “TOSSIT” device, developed at MIT Lincoln Laboratory, can warn service members and first responders of dangerous vapors and aerosols.",
-      "published": "2026-07-09T16:10:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525629+00:00"
     }
   ]
 }

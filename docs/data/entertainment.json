@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-26T00:30:16.131735+00:00",
+  "updated": "2026-08-26T06:24:05.782361+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d2e0bf7323b9c3b7",
+      "title": "Amanda Kernell Is More Interested in ‘Liberation Than a Curse’ as Her Third Feature ‘Brace Your Heart’ Debuts Trailer (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/amanda-kernell-brace-your-heart-1236842342/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In her upcoming third feature “Brace Your Heart,” Amanda Kernell follows a survivor, not a victim. “We’re all different, and some people who experience really difficult things can’t recover. But there are others who survive and find there’s light on the other side,” she told Variety.",
+      "published": "2026-08-26T05:46:31+00:00",
+      "fetched": "2026-08-26T06:24:05.397925+00:00"
+    },
+    {
+      "id": "b563273b834f2aae",
+      "title": "Obama, Bush, Clinton, and Trump Have All Paid Tribute to Dolly Parton",
+      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-president-tributes-obama-bush-clinton-trump-1235615634/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "If there’s one thing we can all come together on, it’s that Dolly is a national treasure",
+      "published": "2026-08-26T04:32:38+00:00",
+      "fetched": "2026-08-26T06:24:05.607524+00:00"
+    },
+    {
+      "id": "5de2d3240b4c2feb",
+      "title": "‘Heroes’ Stars Throw Reunion to ‘Celebrate the Life’ of Hayden Panettiere: ‘So Much Love, Gratitude and Warmth’",
+      "link": "https://variety.com/2026/tv/news/heroes-cast-reunion-celebrate-life-of-hayden-panettiere-1236843535/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The cast of “Heroes” got together to celebrate the life of their co-star Hayden Panettiere, who died on Aug. 16 at 36 years old. A ‘HEROES’ reunion to celebrate the life of HAYDEN was deeply emotional,” series star Jimmy Jean-Louis wrote on X, sharing photos of himself with his former castmates.",
+      "published": "2026-08-26T04:01:01+00:00",
+      "fetched": "2026-08-26T06:24:05.397971+00:00"
+    },
+    {
+      "id": "db0611c520c9496d",
+      "title": "Taylor Swift Celebrates Dolly Parton’s ‘Dazzling’ Legacy",
+      "link": "https://www.rollingstone.com/music/music-country/taylor-swift-dolly-parton-tribute-1235615646/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"She possessed the softest heart when it came to the struggles of others, and a backbone of steel to defend her own self worth as an artist,\" Swift wrote in her tribute",
+      "published": "2026-08-26T03:19:05+00:00",
+      "fetched": "2026-08-26T06:24:05.607554+00:00"
+    },
+    {
+      "id": "7f8e3e8491197f15",
+      "title": "Taylor Swift Pays Tribute to Dolly Parton: ‘She Was True Grace and True Grit, All in One Dazzling Person’",
+      "link": "https://variety.com/2026/music/news/taylor-swift-dolly-parton-tribute-dead-1236842794/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift shared a touching tribute to the late Dolly Parton after the iconic singer-songwriter’s death on Tuesday. “A world without Dolly doesn’t feel possible, real, or right, it reads. But because of the eternally generous way she spent her time on this earth and the countless lives she changed for the better, her legacy [ ]",
+      "published": "2026-08-26T03:00:43+00:00",
+      "fetched": "2026-08-26T06:24:05.398012+00:00"
+    },
+    {
+      "id": "2e5ba8351ae99e56",
+      "title": "Jane Fonda Slams Paramount For Calling Mark Ruffalo’s Comments ‘Antisemitic’: ‘A Smear to Delegitimize Criticism of the Merger’",
+      "link": "https://variety.com/2026/film/news/jane-fonda-paramount-mark-ruffalo-smear-merger-warner-bros-1236843419/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jane Fonda has released a statement in support of Mark Ruffalo after Paramount slammed the four-time Oscar nominee as “antisemitic” for a recent post denouncing Larry Ellison’s ties to Israel and David Ellison’s planned merger with Warner Bros. “Especially as a Jewish American, I find it deeply troubling to see false accusations of antisemitism used [ ]",
+      "published": "2026-08-26T02:42:02+00:00",
+      "fetched": "2026-08-26T06:24:05.398052+00:00"
+    },
+    {
+      "id": "660bc996e6c0f565",
+      "title": "Beyoncé Honors ‘Cowboy Carter’ Collaborator Dolly Parton: ‘You Were the Barometer’",
+      "link": "https://www.rollingstone.com/music/music-country/beyonce-dolly-parton-tribute-cowboy-carter-1235615579/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Beyoncé reimagined Parton's “Jolene” for her 2024 country-inspired album",
+      "published": "2026-08-26T02:17:32+00:00",
+      "fetched": "2026-08-26T06:24:05.607575+00:00"
+    },
+    {
+      "id": "cee70ba5b2bff28c",
+      "title": "Orville Peck Remembers Dolly Parton During Emotional Appearance in London",
+      "link": "https://www.rollingstone.com/music/music-country/orville-peck-remembers-dolly-parton-1235615578/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"Dolly was my hero,\" the masked country singer said, before performing a cover of Parton's \"I Will Always Love You\" during a meet-and-greet at Rough Trade record store",
+      "published": "2026-08-26T01:52:13+00:00",
+      "fetched": "2026-08-26T06:24:05.607596+00:00"
+    },
+    {
+      "id": "b5e8e4ddab236c01",
+      "title": "Iowa Attorney General Says She’s Taking California to the Supreme Court Over Paramount-Warner Bros. Lawsuit",
+      "link": "https://variety.com/2026/film/news/iowa-attorney-general-sue-california-paramount-warner-bros-1236843385/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Iowa Attorney General Brenna Bird wrote in an op-ed for The Daily Wire that she is suing California for leading the charge in the lawsuit against the Paramount-Warner Bros. merger. “California is once again trying to be the country’s regulator.",
+      "published": "2026-08-26T01:34:48+00:00",
+      "fetched": "2026-08-26T06:24:05.398104+00:00"
+    },
+    {
+      "id": "1acd77eb05dd6535",
+      "title": "‘Love Island USA’ Host Ariana Madix on Bringing ‘Sexiness’ and ‘Danger’ to Her Hosting Gig: ‘I Initially Scare the Crap Out of’ Islanders",
+      "link": "https://variety.com/2026/awards/features/ariana-madix-love-island-usa-host-sexiness-island-1236840928/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ariana Madix has had a meteoric rise as a host — one that landed her an Emmy nomination this year. After a guest-hosting gig during the fifth season of the summertime dating show “Love Island USA,” she officially took over the reins for the sixth season in 2024. Two years later, she has wrapped Season [ ]",
+      "published": "2026-08-26T01:32:17+00:00",
+      "fetched": "2026-08-26T06:24:05.398143+00:00"
+    },
+    {
+      "id": "3f4e5c030c28182d",
+      "title": "‘Paranormal Activity’ Review: Spooky Franchise Gets a Hair-Raising Stage Experience",
+      "link": "https://variety.com/2026/legit/reviews/paranormal-activity-review-broadway-stage-experience-1236841925/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taking the spirit of the “Paranormal Activity” films and turning it into a scare-‘em stage experience could have been a terrifying trip for its creators, too. After all, horror isn’t exactly a Broadway staple and producers have mostly given up that particular ghost. But the franchise — Oren Peli’s indie film was originally shot in [ ]",
+      "published": "2026-08-26T01:00:00+00:00",
+      "fetched": "2026-08-26T06:24:05.398179+00:00"
+    },
+    {
+      "id": "00e4b3b17da91478",
+      "title": "Sabrina Carpenter Honors Hero Dolly Parton, Recalls Thinking ‘We Could Be Sisters!’",
+      "link": "https://www.rollingstone.com/music/music-news/sabrina-carpenter-dolly-parton-please-please-please-tribute-1235615500/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The pop star posted several Instagram images from the set of the 'Please Please Please' music video, which they shot together in 2025",
+      "published": "2026-08-26T00:53:26+00:00",
+      "fetched": "2026-08-26T06:24:05.607618+00:00"
+    },
+    {
+      "id": "f8d9f4f490b5f213",
+      "title": "Can Guy Fieri Unite America? Inside His Lifelong Advocacy of Global Cuisine: ‘When You Talk About Food, You Talk About Culture’",
+      "link": "https://variety.com/2026/awards/features/guy-fieri-diners-drive-ins-and-dives-host-unite-america-1236840922/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“I called Taylor Sheridan to ask him just for some meat for the event. Taylor said, ‘I’ll only give you the meat if I can come cook it.’ And Taylor Sheridan shows up to cook.” Guy Fieri is reminiscing about a 2023 fundraiser he held for Maui fire relief that made $1.7 million for restaurants, [ ]",
+      "published": "2026-08-26T00:46:20+00:00",
+      "fetched": "2026-08-26T06:24:05.398217+00:00"
+    },
     {
       "id": "b259b6f81af498ce",
       "title": "How to Watch the 2026 U.S. Open",
@@ -1372,136 +1502,6 @@
       "summary": "Mark Ruffalo has fired back at Paramount after the company slammed the actor as “antisemitic” for accusing David and Larry Ellison of “powering some of the most destructive and inhuman forces in the world.” “The accusation that I am antisemitic is appalling and fundamentally dishonest, Ruffalo wrote on X Saturday morning. “Criticizing the actions of [ ]",
       "published": "2026-08-22T19:22:33+00:00",
       "fetched": "2026-08-23T00:30:00.548376+00:00"
-    },
-    {
-      "id": "dbea0384dac808c8",
-      "title": "How to Watch The Tragically Hip Farewell Show 10th Anniversary Special Online",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-tragically-hip-farewell-show-10th-anniversary-online-stream-1235613354/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Canadian band played their final concert in their hometown of Kingston, Ontario on Aug. 20, 2016 after lead singer Gord Downie announced his terminal brain cancer diagnosis",
-      "published": "2026-08-22T18:30:34+00:00",
-      "fetched": "2026-08-23T00:30:00.778377+00:00"
-    },
-    {
-      "id": "fc28635d6ecd6914",
-      "title": "Janie Bradford, Motown Songwriter Who Co-Wrote ‘Money (That’s What I Want’), Dead at 87",
-      "link": "https://www.rollingstone.com/music/music-news/janie-bradford-motown-songwriter-money-dead-obituary-1235613355/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Janie was there with me from the very beginning, before there was even a Motown,\" Berry Gordy writes in tribute to label's receptionist-turned-hit songwriter",
-      "published": "2026-08-22T18:29:47+00:00",
-      "fetched": "2026-08-23T00:30:00.778408+00:00"
-    },
-    {
-      "id": "79b3d45a854aec88",
-      "title": "Why Do We Love Spider-Man So Much?",
-      "link": "https://variety.com/2026/film/columns/why-do-we-love-spider-man-so-much-tom-holland-1236840784/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Why does everyone love Spider-Man so much? When “Spider-Man: No Way Home” came out at the end of 2021, it made an insane amount of money ($814 million in the U.S. alone), blasting away any vestige of that era’s comic-book-movie fatigue.",
-      "published": "2026-08-22T18:02:17+00:00",
-      "fetched": "2026-08-22T18:10:45.580697+00:00"
-    },
-    {
-      "id": "ba08736e5c3190be",
-      "title": "‘National Treasure 3’ Is ‘Happening,’ Says Franchise Director Jon Turteltaub",
-      "link": "https://variety.com/2026/film/news/national-treasure-3-nicolas-cage-jon-turteltaub-1236840826/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“National Treasure” director Jon Turteltaub says a third film is happening. “I have not said anything before this, but you deserve to have the scoop,” Turteltaub said at a live taping of the “National Treasure Hunt” podcast (via The Philadelphia Inquirer). He added that the audience was “the first people I have said this out [ ]",
-      "published": "2026-08-22T17:53:31+00:00",
-      "fetched": "2026-08-22T18:10:45.580758+00:00"
-    },
-    {
-      "id": "399e4647e02fa820",
-      "title": "How ‘Abbott Elementary’ Pulled Off Its Big Phillies Game Episode",
-      "link": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "They say that every trip to watch a ballgame is a different experience: a chance to see stolen bases and home runs; antics from the bleachers that end up on kiss cams and dance cams; fly balls soaring into the stands; or your daily caloric intake from hot dogs and popcorn. This unpredictability can be [ ]",
-      "published": "2026-08-22T17:05:00+00:00",
-      "fetched": "2026-08-22T18:10:45.580802+00:00"
-    },
-    {
-      "id": "c8548ab3a92457d2",
-      "title": "See King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Queens Show",
-      "link": "https://www.rollingstone.com/music/music-news/king-gizzard-and-the-lizard-wizard-max-weinberg-queens-show-1235613346/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "E Street Band drummer fills in for his son and friend of the band Jay Weinberg at Australian psych-rockers' Forest Hills Stadium concert",
-      "published": "2026-08-22T17:00:38+00:00",
-      "fetched": "2026-08-22T18:10:45.805555+00:00"
-    },
-    {
-      "id": "8c3441b759232ea6",
-      "title": "‘The Magic Faraway Tree’ Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
-      "link": "https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "If the children s books of Enid Blyton have fallen out of fashion in classrooms and libraries — largely due to the racism and regressive gender politics throughout the British author s oeuvre — they remain ripe for rehabilitation through adaptation. The BBC has churned out seven series of Malory Towers since 2020; in 2023, The Famous [ ]",
-      "published": "2026-08-22T16:19:38+00:00",
-      "fetched": "2026-08-22T18:10:45.580855+00:00"
-    },
-    {
-      "id": "ed8163538f3060ae",
-      "title": "Box Office: ‘Insidious: Out of the Further’ Takes First Place on Friday With $10.6 Million, But ‘Spider-Man: Brand New Day’ Will Win the Weekend",
-      "link": "https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Insidious: Out of the Further” leapfrogged “Spider-Man: Brand New Day” and took the No. 1 spot at the domestic box office on Friday, but Marvel’s webslinger is still poised to win the weekend. “Out of the Further,” the sixth installment in the “Insidious” franchise, grossed $10.6 million on Friday from 3,303 North American theaters.",
-      "published": "2026-08-22T16:06:44+00:00",
-      "fetched": "2026-08-22T18:10:45.580922+00:00"
-    },
-    {
-      "id": "738e884e10e9963b",
-      "title": "Where to Stream Tonight’s Rolando ‘Rolly’ Romero vs. Teofimo Lopez Fight Online",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/where-to-stream-rolly-romero-vs-teofimo-lopez-fight-online-1235611844/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Romero’s first WBA welterweight title defense will be against his old friend, Lopez, in a buzzy fight going down in Las Vegas",
-      "published": "2026-08-22T16:00:00+00:00",
-      "fetched": "2026-08-22T18:10:45.805598+00:00"
-    },
-    {
-      "id": "aceb1791593ba9aa",
-      "title": "BigXthaPlug Arrested on Drug and Gun Charges in Texas",
-      "link": "https://www.rollingstone.com/music/music-news/bigxthaplug-arrest-drug-gun-charges-texas-1235613342/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Rapper misses Winnipeg music festival gig due to arrest, but still slated to perform Saturday night at Iowa State fair",
-      "published": "2026-08-22T15:55:02+00:00",
-      "fetched": "2026-08-22T18:10:45.805626+00:00"
-    },
-    {
-      "id": "7be0f2c473a8350a",
-      "title": "Andrew Garfield on His Secret Instagram, Thoughts of Leaving Hollywood and Playing Roy in the ‘Stranger Than Fiction’ Siegfried & Roy Television Series",
-      "link": "https://variety.com/2026/film/columns/andrew-garfield-secret-instagram-siegfried-roy-television-series-1236840510/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Andrew Garfield admits he has a secret Instagram account. “I’m as addicted as anybody. My screen time notifications are horrific to me.",
-      "published": "2026-08-22T15:00:00+00:00",
-      "fetched": "2026-08-22T18:10:45.580978+00:00"
-    },
-    {
-      "id": "4de651de3f9aeb39",
-      "title": "Bruno Mars Is the Greatest Showman Alive on The Romantic Tour",
-      "link": "https://www.rollingstone.com/music/music-live-reviews/bruno-mars-the-romantic-tour-metlife-stadium-live-review-1235613332/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "At a sold-out MetLife Stadium, singer made an undeniable case, nobody does it like him.",
-      "published": "2026-08-22T14:48:11+00:00",
-      "fetched": "2026-08-22T18:10:45.805649+00:00"
-    },
-    {
-      "id": "1e457d70db93fb80",
-      "title": "Farewell to the Last Music Mogul",
-      "link": "https://www.rollingstone.com/music/music-features/clive-davis-last-music-mogul-funeral-influence-1235611942/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Artists, executives, and stars remember how Clive Davis’ golden ear, grand ambition, and show-business force shaped modern pop",
-      "published": "2026-08-22T14:00:00+00:00",
-      "fetched": "2026-08-22T18:10:45.805675+00:00"
     }
   ]
 }
