@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-26T12:22:30.595646+00:00",
+  "updated": "2026-08-26T19:27:49.250740+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "519a95fbfaeb1555",
+      "title": "MIT student leaders: Q&A with McCormick Hall co-president Sydney Baller",
+      "link": "https://news.mit.edu/2026/mit-student-leaders-sydney-baller-mccormick-hall-0826",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The rising senior loves her dorm and its community and wants to serve as a bridge to its next residents as the building heads into renovations.",
+      "published": "2026-08-26T17:35:00+00:00",
+      "fetched": "2026-08-26T19:27:47.916177+00:00"
+    },
     {
       "id": "d4edc610892278e1",
       "title": "Why Reading Egyptian Hieroglyphics Is Easier Than You Think",
@@ -1492,16 +1502,6 @@
       "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
       "published": "2026-07-13T04:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525524+00:00"
-    },
-    {
-      "id": "5b9fee8b7c95deaa",
-      "title": "Tiny infrared chip could improve detection of gases and heat",
-      "link": "https://news.mit.edu/2026/tiny-infrared-chip-could-improve-gas-and-heat-detection-0713",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The tunable device controls mid-infrared light for more precise thermal imaging, chemical sensing, or pollution monitoring.",
-      "published": "2026-07-13T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525560+00:00"
     }
   ]
 }
