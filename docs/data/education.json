@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-26T06:24:09.285369+00:00",
+  "updated": "2026-08-26T12:22:30.595646+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d4edc610892278e1",
+      "title": "Why Reading Egyptian Hieroglyphics Is Easier Than You Think",
+      "link": "https://www.openculture.com/2026/08/why-reading-egyptian-hieroglyphics-is-easier-than-you-think.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "We’ve featured Egyptologist Ilona Regulski here on Open Culture a few times before. Once, she explained how to read ancient Egyptian hieroglyphs; another time, she told us what the Rosetta Stone actually says. It was, perhaps, inevitable that she would cross paths with Rob Watts, creator of the YouTube channel RobWords, whose videos we often post.",
+      "published": "2026-08-26T09:00:51+00:00",
+      "fetched": "2026-08-26T12:22:30.595361+00:00"
+    },
+    {
+      "id": "7819a13e19efeef2",
+      "title": "AI helps design new materials that work in the real world",
+      "link": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The “CrysVCD” tool developed at MIT could cut the huge amounts of time and money spent on screening out chemically unstable designs.",
+      "published": "2026-08-26T09:00:00+00:00",
+      "fetched": "2026-08-26T12:22:29.520736+00:00"
+    },
+    {
+      "id": "9a31e080ea44de07",
+      "title": "Dolly Parton’s “Jolene” Slowed Down to 33 RPM Sounds Great and Takes on New, Unexpected Meanings (RIP)",
+      "link": "https://www.openculture.com/2026/08/dolly-partons-jolene-slowed-down.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Note: We were sad to see the news that Dolly Parton passed away. Today we are bringing back one of our favorite Dolly Parton posts. She will be missed.",
+      "published": "2026-08-26T08:00:43+00:00",
+      "fetched": "2026-08-26T12:22:30.595424+00:00"
+    },
     {
       "id": "cc7cdf03d348aadb",
       "title": "Retooling to help democracy revive",
@@ -1472,36 +1502,6 @@
       "summary": "The tunable device controls mid-infrared light for more precise thermal imaging, chemical sensing, or pollution monitoring.",
       "published": "2026-07-13T04:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525560+00:00"
-    },
-    {
-      "id": "29f2d62db894264f",
-      "title": "Discovery could lead to brighter, more energy-efficient digital displays",
-      "link": "https://news.mit.edu/2026/discovery-could-lead-brighter-more-energy-efficient-digital-displays-0710",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Researchers found a simple solution for extending the lifespans of LEDs made from glowing microscopic particles called quantum dots.",
-      "published": "2026-07-10T18:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525578+00:00"
-    },
-    {
-      "id": "d9b5d2d1d6519962",
-      "title": "New flapping robot swims and flies like a diving bird",
-      "link": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT engineers’ design could lead to a new class of aerial-aquatic vehicles for ocean exploration.",
-      "published": "2026-07-09T18:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525594+00:00"
-    },
-    {
-      "id": "4d5a042880e5bbe9",
-      "title": "MIT-led project opens first climate shelter in Bangladesh",
-      "link": "https://news.mit.edu/2026/mit-led-project-opens-first-climate-shelter-bangladesh-0709",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The Jameel Observatory-CREWSnet project opens a solar-powered “adaptation fortress” in Satkhira, a region facing severe and growing climate threats.",
-      "published": "2026-07-09T18:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525611+00:00"
     }
   ]
 }

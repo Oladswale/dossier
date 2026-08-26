@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-26T06:24:09.826188+00:00",
+  "updated": "2026-08-26T12:22:31.407133+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "73234c22650ddafb",
+      "title": "How Much Should You Put Down on Your First Rental?",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1322",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You’ve saved up some money and are ready to buy your first rental property. Now comes the question: How much do you put down? Do you buy multiple cheaper properties [ ]",
+      "published": "2026-08-26T11:00:25+00:00",
+      "fetched": "2026-08-26T12:22:30.937182+00:00"
+    },
+    {
+      "id": "1f807b1582bf1379",
+      "title": "Starter Homes Are Back. Here’s Exactly Where to Buy One",
+      "link": "https://www.biggerpockets.com/blog/rookie-762",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "For years, rookies have heard the same bad news: starter homes are disappearing, and first-time buyers are getting older. But the newest data shows something very different, and we’re breaking [ ]",
+      "published": "2026-08-26T11:00:00+00:00",
+      "fetched": "2026-08-26T12:22:30.937229+00:00"
+    },
+    {
+      "id": "6124cf610ec36cbc",
+      "title": "Out-of-Towners Are Flocking to New Construction: Here’s Where Demand Is Highest",
+      "link": "https://www.realtor.com/news/trends/out-of-towners-flocking-new-construction-q2-2026-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Out-of-metro buyers generated over 67% of new-construction listing views this spring, driven by builder price cuts.",
+      "published": "2026-08-26T09:00:00+00:00",
+      "fetched": "2026-08-26T12:22:31.406469+00:00"
+    },
     {
       "id": "25877ca5727d9f90",
       "title": "‘Summer House’ Star Danielle Olivera ‘Finally’ Brings Baby Son Aidan Home After He Spent 63 Days in the NICU: ‘Time to Move In’",
@@ -1472,36 +1502,6 @@
       "summary": "Homeowners recently surveyed admitted they are more likely to turn to credit cards than home equity—but that's not always the best strategy.",
       "published": "2026-08-17T08:46:00+00:00",
       "fetched": "2026-08-17T12:16:29.373580+00:00"
-    },
-    {
-      "id": "06a9a59b1ad33f35",
-      "title": "Renting’s Edge Over Buying Is Shrinking as These 7 Markets Turn Buyer-Friendly",
-      "link": "https://www.realtor.com/news/trends/markets-shifting-toward-buyers-july-rent-report-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Renting still wins on monthly cost, but falling home prices and rising wages are improving the math for buyers in seven major metros.",
-      "published": "2026-08-17T08:17:00+00:00",
-      "fetched": "2026-08-17T12:16:29.373615+00:00"
-    },
-    {
-      "id": "de2018be3c2e1d6d",
-      "title": "Housing Week Ahead: New Construction Data, Pending Sales, and Cash Buyer Trends",
-      "link": "https://www.realtor.com/news/trends/weekly-housing-video-economic-data-reports-august-17-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Realtor.com Economics team is tracking a packed calendar of reports and key economic indicators with housing market data.",
-      "published": "2026-08-17T08:09:00+00:00",
-      "fetched": "2026-08-17T12:16:29.373645+00:00"
-    },
-    {
-      "id": "96580e9ed424dc93",
-      "title": "‘Magical’ New York A-Frame With Secret Gardens and ‘Breathtaking’ Walls of Glass Is Listed for $1.7 Million",
-      "link": "https://www.realtor.com/news/unique-homes/aframe-for-sale-new-york-secret-gardens/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The “Woods Home” is a four-bedroom, two-bath property spanning just shy of 5,000 square feet and set on a 6.74-acre lot.",
-      "published": "2026-08-16T21:12:00+00:00",
-      "fetched": "2026-08-17T00:28:02.235698+00:00"
     }
   ]
 }
