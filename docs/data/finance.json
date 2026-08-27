@@ -1,8 +1,118 @@
 {
   "category": "finance",
-  "updated": "2026-08-26T19:27:34.177739+00:00",
+  "updated": "2026-08-27T05:15:03.011580+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a5e2665ea3994a77",
+      "title": "HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
+      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
+      "published": "2026-08-27T03:42:17+00:00",
+      "fetched": "2026-08-27T05:15:02.420148+00:00"
+    },
+    {
+      "id": "8579efd7f5704e54",
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+      "published": "2026-08-27T03:20:14+00:00",
+      "fetched": "2026-08-27T05:15:02.420098+00:00"
+    },
+    {
+      "id": "67b0f111cdb995d6",
+      "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
+      "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus.",
+      "published": "2026-08-27T03:17:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226397+00:00"
+    },
+    {
+      "id": "832de94e15663c21",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "published": "2026-08-27T02:41:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226443+00:00"
+    },
+    {
+      "id": "be52641f8ed1f2b5",
+      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
+      "published": "2026-08-27T00:43:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226478+00:00"
+    },
+    {
+      "id": "a29e720b3ffa2f27",
+      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Cook’s lawyer says she made an inadvertent error listing her apartment in Atlanta as a primary residence",
+      "published": "2026-08-27T00:14:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226508+00:00"
+    },
+    {
+      "id": "c81a37479f927a16",
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic.",
+      "published": "2026-08-26T22:50:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226535+00:00"
+    },
+    {
+      "id": "0410f47b93a43cf0",
+      "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
+      "link": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I really don’t want to miss my baby’s first year.”",
+      "published": "2026-08-26T22:30:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226570+00:00"
+    },
+    {
+      "id": "8962834667c1397a",
+      "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+      "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
+      "published": "2026-08-26T21:09:00+00:00",
+      "fetched": "2026-08-27T05:15:02.226617+00:00"
+    },
+    {
+      "id": "6590163625209504",
+      "title": "Nigerian equities sell-off stretches to 11th straight session, wiping out N260 billion",
+      "link": "https://nairametrics.com/2026/08/26/nigerian-equities-sell-off-stretches-to-11th-straight-session-wiping-out-n260-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Resuming after the Eid-Ul-Mawlid public holiday, the Nigerian equities market extended its bearish run on Wednesday, August 26, 2026, as sustained selling pressure across insurance, banking, consumer goods and oil gas stocks wiped out approximately N259.76 billion, marking the 11th consecutive session of losses. The post Nigerian equities sell-off stretches to 11th straight session, wiping out N260 billion appeared first on Nairametrics .",
+      "published": "2026-08-26T20:40:12+00:00",
+      "fetched": "2026-08-27T05:15:02.524718+00:00"
+    },
+    {
+      "id": "02078c93922b8822",
+      "title": "FG seeks strategic review of Nigeria-Thailand relations, targets agriculture and technology",
+      "link": "https://nairametrics.com/2026/08/26/fg-seeks-strategic-review-of-nigeria-thailand-relations-targets-agriculture-and-technology/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has initiated moves to strengthen and expand its bilateral relationship with Thailand, with plans to deepen cooperation in agriculture, technology, commerce, renewable energy and other strategic sectors. The post FG seeks strategic review of Nigeria-Thailand relations, targets agriculture and technology appeared first on Nairametrics .",
+      "published": "2026-08-26T19:58:19+00:00",
+      "fetched": "2026-08-27T05:15:02.524771+00:00"
+    },
     {
       "id": "bd27aa40955eb661",
       "title": "After the Cell C divorce, Blu Label is making a play for electricity",
@@ -42,6 +152,16 @@
       "summary": "Nigeria's Central Securities Clearing System (CSCS) is set to roll out a fresh round of pricing changes that will cut lien fees for retail investors by half, eliminate charges on securities transfers between immediate family members, and scrap broker code and eligibility fees entirely, Nairametrics can exclusively report. The post CSCS to slash retail lien fees, scrap family transfer charges in fresh pricing review appeared first on Nairametrics .",
       "published": "2026-08-26T18:07:53+00:00",
       "fetched": "2026-08-26T19:27:33.569733+00:00"
+    },
+    {
+      "id": "2b660019c0d7a873",
+      "title": "FAAN denies banning Uber, Bolt amid claims of airport taxi monopoly",
+      "link": "https://nairametrics.com/2026/08/26/faan-denies-banning-uber-bolt-amid-claims-of-airport-taxi-monopoly/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Airports Authority of Nigeria (FAAN) has denied banning Uber, Bolt and other e-hailing platforms from operating at its managed airports, amid claims that a FAAN-linked taxi platform had become the sole option for airport car-hire services. The post FAAN denies banning Uber, Bolt amid claims of airport taxi monopoly appeared first on Nairametrics .",
+      "published": "2026-08-26T17:56:14+00:00",
+      "fetched": "2026-08-27T05:15:02.524830+00:00"
     },
     {
       "id": "402963183969a81d",
@@ -1382,126 +1502,6 @@
       "summary": "The company faces a high bar heading into its upcoming report, but analysts think it can still exceed expectations.",
       "published": "2026-08-24T17:02:00+00:00",
       "fetched": "2026-08-24T18:20:09.604971+00:00"
-    },
-    {
-      "id": "a23551bd91cd794d",
-      "title": "Bessent tapping Treasury’s rainy-day fund for buybacks isn’t a ‘bazooka’ to get markets to move his way",
-      "link": "https://www.marketwatch.com/story/bessent-tapping-treasurys-rainy-day-fund-for-buybacks-isnt-a-bazooka-to-get-markets-to-move-his-way-705ca356?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Bessent’s move “does not change anything. It just reduces the cash that Treasury has on deposit,” one analyst says.",
-      "published": "2026-08-24T16:52:00+00:00",
-      "fetched": "2026-08-24T18:20:09.605002+00:00"
-    },
-    {
-      "id": "f41ef6a902394810",
-      "title": "Make these 7 money moves before taking out a private student loan",
-      "link": "https://www.marketwatch.com/story/make-these-7-money-moves-before-taking-out-a-private-student-loan-09cf3e08?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "After the federal government put new limits on certain types of student-loan borrowing this summer, lending experts expect more students to turn to private loans to help cover tuition costs.",
-      "published": "2026-08-24T16:28:00+00:00",
-      "fetched": "2026-08-24T18:20:09.605031+00:00"
-    },
-    {
-      "id": "37c00a2f194635f5",
-      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
-      "published": "2026-08-24T15:50:50+00:00",
-      "fetched": "2026-08-24T18:20:09.771874+00:00"
-    },
-    {
-      "id": "e7a9b9dba1eb413a",
-      "title": "NCNE says 5.2 million nomadic children shut out of school across Nigeria",
-      "link": "https://nairametrics.com/2026/08/24/ncne-says-5-2-million-nomadic-children-shut-out-of-school-across-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "No fewer than 5.2 million children from nomadic communities are currently out of school across Nigeria, with occupational mobility, climate change, and limited access to conventional schools identified as the primary drivers of the exclusion. The post NCNE says 5.2 million nomadic children shut out of school across Nigeria appeared first on Nairametrics .",
-      "published": "2026-08-24T15:37:00+00:00",
-      "fetched": "2026-08-24T18:20:09.922949+00:00"
-    },
-    {
-      "id": "db9552c83ec33c47",
-      "title": "Prediction market traders doubtful Bessent’s bond interventions will push yields lower",
-      "link": "https://www.cnbc.com/2026/08/24/prediction-market-traders-skeptical-bessent-will-send-yields-lower.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Speculators still see yields hitting new highs in 2026 and ending the year at levels elevated from where they're currently trading.",
-      "published": "2026-08-24T15:34:11+00:00",
-      "fetched": "2026-08-24T18:20:09.771837+00:00"
-    },
-    {
-      "id": "ed080a273ab1d548",
-      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-      "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-      "published": "2026-08-24T15:22:09+00:00",
-      "fetched": "2026-08-26T19:27:33.468292+00:00"
-    },
-    {
-      "id": "47171c0417586ff5",
-      "title": "FirstBank, PAPSS and the race to own Africa’s payment rails",
-      "link": "https://nairametrics.com/2026/08/24/firstbank-papss-and-the-race-to-own-africas-payment-rails/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "PAPSS is a real-time, centralized financial market infrastructure which was officially launched in January 2022 by Afreximbank and the African Continental Free Trade Area (AfCFTA). The post FirstBank, PAPSS and the race to own Africa’s payment rails appeared first on Nairametrics .",
-      "published": "2026-08-24T15:05:24+00:00",
-      "fetched": "2026-08-24T18:20:09.922996+00:00"
-    },
-    {
-      "id": "a6a5652311ea752f",
-      "title": "US Embassy warns Nigerian visa applicants over fake documents, security threats",
-      "link": "https://nairametrics.com/2026/08/24/us-embassy-warns-nigerian-visa-applicants-over-fake-documents-security-threats/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United States Government has warned Nigerian visa applicants that fraudulent documents or information suggesting a potential security threat will lead to immediate action by the authorities, including a ban. The post US Embassy warns Nigerian visa applicants over fake documents, security threats appeared first on Nairametrics .",
-      "published": "2026-08-24T15:03:39+00:00",
-      "fetched": "2026-08-24T18:20:09.923036+00:00"
-    },
-    {
-      "id": "8a26b639d39e4077",
-      "title": "PenCom registers 143,248 new pension accounts as coverage gap persists",
-      "link": "https://nairametrics.com/2026/08/24/pencom-registers-143248-new-pension-accounts-as-coverage-gap-persists/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The number of new Retirement Savings Accounts (RSAs) registered under Nigeria’s Contributory Pension Scheme (CPS) rose by 24.7% to 143,248 in the first quarter of 2026, up from 114,864 recorded in the preceding quarter. The post PenCom registers 143,248 new pension accounts as coverage gap persists appeared first on Nairametrics .",
-      "published": "2026-08-24T14:50:12+00:00",
-      "fetched": "2026-08-24T18:20:09.923080+00:00"
-    },
-    {
-      "id": "3bdc62ae8a0f8458",
-      "title": "Africa’s data sovereignty push is reshaping the AI race, and AWS wants in",
-      "link": "https://techcabal.com/2026/08/24/africas-data-sovereignty-push-is-reshaping-ai-race-aws-wants-in/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Amazon Web Services (AWS) is betting that it can resolve that tension, giving African organisations access to AI and global cloud infrastructure while allowing them to retain control over sensitive data.",
-      "published": "2026-08-24T14:40:19+00:00",
-      "fetched": "2026-08-24T18:20:10.525910+00:00"
-    },
-    {
-      "id": "33b504a2769da33c",
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
-      "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-      "published": "2026-08-24T14:02:54+00:00",
-      "fetched": "2026-08-24T18:20:09.771900+00:00"
-    },
-    {
-      "id": "21675a28a8d1db47",
-      "title": "UBA strengthens Africa’s future leadership pipeline, graduates 374 young professionals",
-      "link": "https://nairametrics.com/2026/08/24/uba-strengthens-africas-future-leadership-pipeline-graduates-374-young-professionals/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Africa s Global Bank, United Bank for Africa (UBA) Plc, has graduated and inducted 374 young professionals into its workforce, marking the completion of Cohort 21 of its Graduate Management Accelerator Programme (GMAP), the Bank s flagship talent development scheme. The ceremony, which was held at Landmark Events Centre in Lagos on Thursday, August 20th, 2025, celebrated [ ] The post UBA strengthens Africa’s future leadership pipeline, graduates 374 young professionals appeared first on Nairametrics .",
-      "published": "2026-08-24T13:40:54+00:00",
-      "fetched": "2026-08-24T18:20:09.923148+00:00"
     }
   ]
 }

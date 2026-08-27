@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-26T19:27:49.952692+00:00",
+  "updated": "2026-08-27T05:15:20.160948+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8639fb5d8e1a6a1f",
+      "title": "Foreclosures Continue To Rise, With Nevada, South Carolina, and Florida Leading the Nation",
+      "link": "https://www.realtor.com/news/trends/foreclosures-nevada-south-carolina-florida-attom-july-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nationwide, foreclosures ticked up 1% month over month and 10% year over year.",
+      "published": "2026-08-27T04:01:00+00:00",
+      "fetched": "2026-08-27T05:15:20.160178+00:00"
+    },
+    {
+      "id": "7a60293cf1b2df12",
+      "title": "‘Property Brothers’ Star Drew Scott Transforms 2-Year-Old Daughter’s Bedroom Into a ‘Whimsical, Playful’ Wonderland",
+      "link": "https://www.realtor.com/news/reality-tv/hgtv-drew-scott-bedroom-makeover-daughter-piper/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Scott shared a glimpse at the bedroom, which was designed to \"grow\" with his daughter, whom he shares with his wife, Linda Phan.",
+      "published": "2026-08-26T22:14:28+00:00",
+      "fetched": "2026-08-27T05:15:20.160221+00:00"
+    },
+    {
+      "id": "4b749262e610542e",
+      "title": "HGTV Launches Tyler Cameron-Led Dating Show That Will See Singles Snooping Through Homes of Potential Partners In Quest for Love",
+      "link": "https://www.realtor.com/news/reality-tv/hgtv-room-raiders-lets-go-back-your-place-tyler-cameron/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The HGTV show \"Let's Go Back to Your Place,\" will see singles rifling through the homes of three potential dates.",
+      "published": "2026-08-26T22:00:09+00:00",
+      "fetched": "2026-08-27T05:15:20.160251+00:00"
+    },
+    {
+      "id": "eed968fce13aa18a",
+      "title": "California Cities Are Evading State Mandates To Build More Housing, Lawsuits Claim",
+      "link": "https://www.realtor.com/news/real-estate-news/california-lawsuits-sb79-transit-housing-enforcement/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "San Diego, San Fransisco and Montebello are trying to skirt a state law mandating more housing near transit, the suits say.",
+      "published": "2026-08-26T21:28:36+00:00",
+      "fetched": "2026-08-27T05:15:20.160279+00:00"
+    },
+    {
+      "id": "3d5ac2be33ca787c",
+      "title": "Will Blackouts Be America’s Next Housing Emergency?",
+      "link": "https://www.realtor.com/news/trends/will-blackouts-be-americas-next-housing-emergency/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Long power outages are forcing millions from their homes, adding housing costs and even affecting property values in some areas.",
+      "published": "2026-08-26T21:04:44+00:00",
+      "fetched": "2026-08-27T05:15:20.160306+00:00"
+    },
+    {
+      "id": "b9850d3eeff4e250",
+      "title": "Homebuilders See Material Costs Jump 6.7% in a Year, Squeezing Profit Margins",
+      "link": "https://www.realtor.com/news/trends/construction-material-price-increase-new-home-nahb-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The cost of materials for building homes has increased by 6.7% over the previous year, according to a new survey.",
+      "published": "2026-08-26T20:33:48+00:00",
+      "fetched": "2026-08-27T05:15:20.160333+00:00"
+    },
+    {
+      "id": "de6054e36a66054a",
+      "title": "Alec and Hilaria Baldwin List Their $19 Million Hamptons Mansion for a 5th Time—as New Agent Touts Its Historic Connections to Marilyn Monroe",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/alec-hilaria-baldwin-hamptons-mansion-sale-marilyn-monroe/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In the most recent attempt to sell the Amagansett estate, the real estate team behind it has marketed a connection to Marilyn Monroe.",
+      "published": "2026-08-26T19:53:50+00:00",
+      "fetched": "2026-08-27T05:15:20.160366+00:00"
+    },
+    {
+      "id": "01d1a0ee6cae48f7",
+      "title": "Dolly Parton Was a Country Music Legend—but She Quietly Worked as a Champion for Housing, Too",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-charity-housing-dollywood-tennessee/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The country music legend, who has died at the age of 80, left a mark with her impactful philanthropic spirit.",
+      "published": "2026-08-26T19:28:56+00:00",
+      "fetched": "2026-08-27T05:15:20.160394+00:00"
+    },
+    {
+      "id": "2c565b6be60c981e",
+      "title": "Junk Fees Are Backfiring on Wall Street Landlords—and Creating Opportunities for Smaller Investors",
+      "link": "https://www.biggerpockets.com/blog/junk-fees-are-backfiring-on-wall-street-landlords-and-creating-opportunities-for-smaller-investors",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "As if the affordability crisis weren’t tough enough for cash-strapped tenants, corporate landlords “junk fees,” heaped on top of “base rents,” have sparked the ire of the FTC, which recently [ ]",
+      "published": "2026-08-26T19:11:24+00:00",
+      "fetched": "2026-08-27T05:15:19.666978+00:00"
+    },
     {
       "id": "10cc08b335043aa5",
       "title": "Busy Philipps Reveals Brain Tumor Diagnosis—and Details Roller-Coaster Recovery at Her $6.5 Million New York Home",
@@ -1412,96 +1502,6 @@
       "summary": "Restrictions around ADUs have eased, but the impact of these new builds on the housing shortage is still \"a drop in the bucket.\"",
       "published": "2026-08-17T20:49:00+00:00",
       "fetched": "2026-08-18T00:27:17.609656+00:00"
-    },
-    {
-      "id": "4fb83ee2f1dcd4aa",
-      "title": "Can You Use a USDA Loan for a Manufactured Home?",
-      "link": "https://www.realtor.com/advice/finance/usda-loans-manufactured-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Manufactured homes offer affordable homeownership. Pairing one with a USDA loan makes buying easier in rural and suburban communities.",
-      "published": "2026-08-17T19:43:09+00:00",
-      "fetched": "2026-08-18T00:27:17.609684+00:00"
-    },
-    {
-      "id": "8b5a0d007c0add95",
-      "title": "What Types of Properties Benefit Most From Cost Segregation?",
-      "link": "https://www.biggerpockets.com/blog/what-types-of-properties-benefit-most-from-cost-segregation",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Cost segregation gets talked about like it s a magic button: run the study, get a huge deduction, and lower your tax bill. And for the right property, that s a pretty [ ]",
-      "published": "2026-08-17T19:05:04+00:00",
-      "fetched": "2026-08-18T00:27:17.331592+00:00"
-    },
-    {
-      "id": "5ac8eafdbdd3714f",
-      "title": "Florida Homeowners Could Win Big Tax Cuts—but Local Hospitals Stand To Lose Millions",
-      "link": "https://www.realtor.com/news/trends/florida-homeowners-tax-cuts-local-hospitals/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A tax cut could deliver some relief to Florida homeowners, at a cost.",
-      "published": "2026-08-17T18:55:10+00:00",
-      "fetched": "2026-08-18T00:27:17.609711+00:00"
-    },
-    {
-      "id": "da422d51d317240d",
-      "title": "Former Ohio Jail With Original Prison Cells Hits the Market as a $400K Home",
-      "link": "https://www.realtor.com/news/unique-homes/former-ohio-jail-original-prison-cells-home-for-sale-400k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The former Wood County Jail in Perrysburg, OH, has hit the market for $400,000, nearly 180 years after the brick building was constructed.",
-      "published": "2026-08-17T18:51:32+00:00",
-      "fetched": "2026-08-18T00:27:17.609739+00:00"
-    },
-    {
-      "id": "4694e606d07725fc",
-      "title": "Joanna Gaines Shares Emotional Advice for Parents Facing College Dorm Move-In Day: ‘Wishing Time Would Slow Down’",
-      "link": "https://www.realtor.com/news/reality-tv/joanna-chip-gaines-advice-college-dorms-move-in-kids/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The HGTV star reflected on the emotional experience of sending kids off to college, penning a sweet piece of advice for her followers.",
-      "published": "2026-08-17T18:13:25+00:00",
-      "fetched": "2026-08-18T00:27:17.609770+00:00"
-    },
-    {
-      "id": "aa1be11535b51b43",
-      "title": "BiggerPockets Selects Mynd as Its Preferred Full-Service Property Management Partner",
-      "link": "https://www.biggerpockets.com/blog/biggerpockets-selects-mynd-as-its-preferred-full-service-property-management-partner",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "BiggerPockets Pro members can save $500 for every home they onboard with Mynd, up to $10,000. Managing rental properties well takes time, systems, and local knowledge that most investors don t [ ]",
-      "published": "2026-08-17T17:11:28+00:00",
-      "fetched": "2026-08-17T18:18:51.594363+00:00"
-    },
-    {
-      "id": "c0ea4507288a5081",
-      "title": "Berkshire Hathaway Boosts Investment in Homebuilders After Buying Taylor Morrison",
-      "link": "https://www.realtor.com/news/real-estate-news/berkshire-hathaway-invest-lennar-horton-homebuilder-warren-buffett/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The company signaled increased confidence in the housing market with additional investment in builders Lennar and DR Horton.",
-      "published": "2026-08-17T16:22:56+00:00",
-      "fetched": "2026-08-17T18:18:51.952349+00:00"
-    },
-    {
-      "id": "e157e0a3a3c75c73",
-      "title": "5 Things You Should Never Say When Renting an Apartment",
-      "link": "https://www.realtor.com/advice/rent/never-say-renting-apartment/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Even if you have the cash, you're not always an automatic lock for that dream rental. You might want to keep your mouth shut with the landlord about these things that could unwittingly sabotage your chances.",
-      "published": "2026-08-17T16:09:00+00:00",
-      "fetched": "2026-08-17T18:18:51.952391+00:00"
-    },
-    {
-      "id": "e622c36ad3e0405c",
-      "title": "Dallas Cowboys Cheerleaders Alum Reece Weaver Shares a Glimpse Inside Her New York City Apartment as She Makes the Move From Alabama—Just Months After Buying a $750K Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dallas-cowboys-cheerleaders-reece-weaver-move-nyc-alabama-netflix/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Weaver, who hails from Florida, shot to fame while appearing in Netflix's hit series \"America's Sweethearts.\"",
-      "published": "2026-08-17T15:57:49+00:00",
-      "fetched": "2026-08-17T18:18:51.952427+00:00"
     }
   ]
 }

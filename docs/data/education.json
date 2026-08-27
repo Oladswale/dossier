@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-26T19:27:49.250740+00:00",
+  "updated": "2026-08-27T05:15:19.411028+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "34c1963bd7f24b47",
+      "title": "MIT engineers create a system for building shape-changing smart devices",
+      "link": "https://news.mit.edu/2026/mit-engineers-create-system-for-building-shape-changing-smart-devices-0827",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Dubbed “bifur-circuits,” these interactive building blocks could be used to develop reconfigurable robotic grippers or customized assistive devices.",
+      "published": "2026-08-27T04:00:00+00:00",
+      "fetched": "2026-08-27T05:15:18.354849+00:00"
+    },
     {
       "id": "519a95fbfaeb1555",
       "title": "MIT student leaders: Q&A with McCormick Hall co-president Sydney Baller",
@@ -1492,16 +1502,6 @@
       "summary": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
       "published": "2026-07-13T19:10:00+00:00",
       "fetched": "2026-07-29T08:14:13.525476+00:00"
-    },
-    {
-      "id": "5800fb9811823842",
-      "title": "New method aims to keep kids safe from illegal AI-generated content",
-      "link": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
-      "published": "2026-07-13T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525524+00:00"
     }
   ]
 }
