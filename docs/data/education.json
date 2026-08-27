@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-08-27T05:15:19.411028+00:00",
+  "updated": "2026-08-27T16:55:07.840563+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "79b771054ff2bc1e",
+      "title": "New type of attack can slip past the defenses in your computer’s processor",
+      "link": "https://news.mit.edu/2026/new-type-of-attack-can-slip-past-computer-processor-defenses-0827",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT CSAIL researchers found a way to exploit a split-second gap in chip security — and used it to acquire a Linux system’s password file.",
+      "published": "2026-08-27T15:40:00+00:00",
+      "fetched": "2026-08-27T16:55:06.508790+00:00"
+    },
+    {
+      "id": "a2e99cceb5dacf16",
+      "title": "The Art of Splendor Solis, the Most Glorious Illuminated Alchemical Manuscript of Them All",
+      "link": "https://www.openculture.com/2026/08/the-art-of-splendor-solis-the-most-glorious-illuminated-alchemical-manuscript-of-them-all.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "When it was published in the United States in 1998, Harry Potter and the Philosopher’s Stone was retitled Harry Potter and the Sorcerer’s Stone. The jokes about the American reading public’s apparent allergy to the very word philosopher write themselves, but the change was also unfortunate for more substantial reasons. A “sorcerer’s stone” had no cultural resonance [ ]",
+      "published": "2026-08-27T09:00:55+00:00",
+      "fetched": "2026-08-27T16:55:07.840271+00:00"
+    },
+    {
+      "id": "89b2934a235a67a1",
+      "title": "Isaac Asimov Explains His Three Laws of Robots: Do No Harm, Follow Orders, Survive, in That Order",
+      "link": "https://www.openculture.com/2026/08/isaac-asimov-explains-his-three-laws-of-robots-do-no-harm-follow-orders-survive-in-that-order.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "A number of futurists, philosophers, and technophiles believe we are approaching what they call the “singularity”: a point in time when smart machines become much smarter, stronger, and faster than their creators, and then become self-conscious. Whatever the chance of this occurring, it’s worthwhile to ponder the consequences. But we do already, all the time—in [ ]",
+      "published": "2026-08-27T08:00:55+00:00",
+      "fetched": "2026-08-27T16:55:07.840334+00:00"
+    },
     {
       "id": "34c1963bd7f24b47",
       "title": "MIT engineers create a system for building shape-changing smart devices",
@@ -1472,36 +1502,6 @@
       "summary": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
       "published": "2026-07-14T18:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525322+00:00"
-    },
-    {
-      "id": "3ed4120f505c3e59",
-      "title": "MIT engineers find a precise way to grow artificial blood vessels",
-      "link": "https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Gently stretching and pulling a “blood vessel on a chip” encourages controlled sprouting of new vessels, for possible use in artificial tissues or organs.",
-      "published": "2026-07-14T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525380+00:00"
-    },
-    {
-      "id": "45870304fc25abde",
-      "title": "Arthur Bahr named head of MIT’s Literature Section",
-      "link": "https://news.mit.edu/2026/arthur-bahr-named-head-mit-literature-section-0713",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A faculty member since 2007, the scholar of medieval literature explores how different parts of physical manuscripts combine to create interest and meaning.",
-      "published": "2026-07-13T20:30:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525431+00:00"
-    },
-    {
-      "id": "c85e6545a9260479",
-      "title": "How MIT students are helping to prevent cyberattacks",
-      "link": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
-      "published": "2026-07-13T19:10:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525476+00:00"
     }
   ]
 }

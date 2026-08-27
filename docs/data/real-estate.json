@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-27T05:15:20.160948+00:00",
+  "updated": "2026-08-27T16:55:08.555297+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1d7daad3766c8bf7",
+      "title": "Mortgage Rates Nudge Up to 6.66% Ahead of Fed’s Jackson Hole Summit",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-federal-reserve-august-27-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed mortgages rose to 6.66% for the week ending Aug. 27, up 1 basis point from last week.",
+      "published": "2026-08-27T16:00:00+00:00",
+      "fetched": "2026-08-27T16:55:08.554263+00:00"
+    },
+    {
+      "id": "4403c9215ff51a83",
+      "title": "EXCLUSIVE: Historic $7.5 Million L.A. Home That Tim Curry Lovingly Restored Finds a Buyer Just Hours After His Death",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/tim-curry-los-angeles-home-sale-buyer/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Curry, who passed away at the age of 80 on Aug. 25, bought the 1922 estate in 1993 and spent years loving restoring it.",
+      "published": "2026-08-27T15:39:35+00:00",
+      "fetched": "2026-08-27T16:55:08.554303+00:00"
+    },
+    {
+      "id": "4fe610063f625277",
+      "title": "Lindsay Clancy’s Murder Trial Reaches Closing Arguments—More Than 3 Years After Her Kids Were Found Dead at Massachusetts Home",
+      "link": "https://www.realtor.com/news/trends/lindsay-clancy-patrick-killed-kids-home-massachusetts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Former nurse Clancy, 36, has been present in the Massachusetts courtroom for each day of the trial but has not testified.",
+      "published": "2026-08-27T14:12:00+00:00",
+      "fetched": "2026-08-27T16:55:08.554338+00:00"
+    },
+    {
+      "id": "8843e4c3dd46eb76",
+      "title": "Karoline Leavitt Says Her Kids Are ‘at Critical Age’ and Need Her Home as She Reveals Heartbreak Over Shock White House Exit",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/karoline-leavitt-white-house-last-day-kids-home-husband-nicholas-riccio/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Leavitt, who shares two children with her husband, Nicholas Riccio, has opened up about her decision to quit the White House.",
+      "published": "2026-08-27T13:09:58+00:00",
+      "fetched": "2026-08-27T16:55:08.554372+00:00"
+    },
+    {
+      "id": "9954b13eb6ad711a",
+      "title": "What Every Home Needs for an Extended Power Outage",
+      "link": "https://www.realtor.com/news/trends/what-every-home-needs-for-power-outage/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Extended power outages can disrupt food, water, cooling, and medical needs. These supplies can help households prepare.",
+      "published": "2026-08-27T13:01:00+00:00",
+      "fetched": "2026-08-27T16:55:08.554399+00:00"
+    },
+    {
+      "id": "afcbf0263e33c4b4",
+      "title": "Capital Calls: What to Know Before You Put In More Cash",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-455",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You invested in a real estate syndication, fund, or partnership. Now, the operator is coming to you asking for more cash. Whether expenses went up, income went down, mortgage rates [ ]",
+      "published": "2026-08-27T11:00:28+00:00",
+      "fetched": "2026-08-27T16:55:08.208725+00:00"
+    },
+    {
+      "id": "81d1fbc75c9ebba2",
+      "title": "The Housing Market Is Moving in Favor of Buyers, but 3 Southern Cities Are Bucking the Trend",
+      "link": "https://www.realtor.com/news/trends/housing-market-buyers-southern-cities-buck-trend-market-clock-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Since April, August, GA, Greenville, SC, and Jacksonville, FL, have shifted from buyer's markets to balanced markets.",
+      "published": "2026-08-27T09:00:00+00:00",
+      "fetched": "2026-08-27T16:55:08.554426+00:00"
+    },
+    {
+      "id": "5be0eb5f822d1ef7",
+      "title": "Wealthy Homebuyers Are Flocking to Louisiana’s ‘Old Money’ Northshore",
+      "link": "https://www.realtor.com/news/trends/louisiana-northshore-covington-mandeville-luxury-homes-prices/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While NOLA has its own luxury story to tell, the Northshore has quietly and steadily been climbing the luxury ranks in the past decade.",
+      "published": "2026-08-27T08:37:00+00:00",
+      "fetched": "2026-08-27T16:55:08.554455+00:00"
+    },
+    {
+      "id": "7a0c688ff612bcee",
+      "title": "‘Love Island USA’ Star TJ Palma Proudly Shows Off First-Ever Home Purchase—and Wild Custom Features He’s Decked It Out With",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/love-island-tj-palma-florida-home-pickleball-court/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Palma, 24, has been renovating the four-bedroom, three-bathroom, 2,000-square-foot residence in Tampa, FL, since he purchased it in March.",
+      "published": "2026-08-27T08:08:00+00:00",
+      "fetched": "2026-08-27T16:55:08.554485+00:00"
+    },
     {
       "id": "8639fb5d8e1a6a1f",
       "title": "Foreclosures Continue To Rise, With Nevada, South Carolina, and Florida Leading the Nation",
@@ -1412,96 +1502,6 @@
       "summary": "The comedian first listed the home for $2.5 million in February but ended up lowering that asking price on three occasions.",
       "published": "2026-08-18T13:33:04+00:00",
       "fetched": "2026-08-18T18:17:43.567763+00:00"
-    },
-    {
-      "id": "2bf347facce7e29e",
-      "title": "Single-Family Home Construction Plunges in July, but Permits Offer Signs of Hope",
-      "link": "https://www.realtor.com/news/trends/housing-starts-single-family-homes-construction-census-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "July brought a sharp decline in construction of new single-family homes across the U.S., but new permits offer some signs of hope.",
-      "published": "2026-08-18T13:27:05+00:00",
-      "fetched": "2026-08-18T18:17:43.567793+00:00"
-    },
-    {
-      "id": "fa7c93ba22dc95e0",
-      "title": "EXCLUSIVE: Chris Evans Finds a Buyer for His $6.4 Million L.A. Home—After Quitting California To Return to East Coast",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/chris-evans-los-angeles-home-sold-buyer-move-east-coast-family/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Evans landed a buyer for the sprawling hilltop home, just two months after relisting the property with a decreased asking price.",
-      "published": "2026-08-18T12:55:35+00:00",
-      "fetched": "2026-08-18T18:17:43.567826+00:00"
-    },
-    {
-      "id": "e2a1c75672a29386",
-      "title": "Finding Discounted Real Estate Just Got Easier",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-452",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This is a game changer for real estate investing. In minutes (or even seconds), you can find every motivated seller in your area, see how desperate they are to sell, [ ]",
-      "published": "2026-08-18T11:00:13+00:00",
-      "fetched": "2026-08-18T12:17:40.413586+00:00"
-    },
-    {
-      "id": "1c844678247b34e0",
-      "title": "Cash Home Sales Are in Decline in Most Cities, but a Handful Show a Surprising Bump",
-      "link": "https://www.realtor.com/news/trends/cash-home-sales-buyers-share-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"That certainty is worth more to sellers today than it was a few years ago, not because competition is fierce, but because it's faded.\"",
-      "published": "2026-08-18T09:00:00+00:00",
-      "fetched": "2026-08-18T12:17:40.754426+00:00"
-    },
-    {
-      "id": "c6bb2c522a274200",
-      "title": "The Hidden Cost of the ‘Great Stuff Transfer’",
-      "link": "https://www.realtor.com/news/trends/inherited-home-organizing-clean-out-costs-fees/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "More than 8 in 10 recent inheritors had to clean out a home before listing it, new data shows—adding time, cost, and emotional strain.",
-      "published": "2026-08-18T08:35:00+00:00",
-      "fetched": "2026-08-18T12:17:40.754459+00:00"
-    },
-    {
-      "id": "0f4cbfdff1de6165",
-      "title": "Esteemed Architect Martin Gelber’s Late Modern Los Angeles Home Hits the Market for $3.75 Million",
-      "link": "https://www.realtor.com/news/unique-homes/architect-martin-gelber-late-modern-los-angeles-home-hits-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Gelber, a pioneer in sustainability, lived in the home until his death in 2019. Now, the modernist gem is ready for a new owner.",
-      "published": "2026-08-17T23:12:06+00:00",
-      "fetched": "2026-08-18T00:27:17.609544+00:00"
-    },
-    {
-      "id": "a136505a02bb9b0a",
-      "title": "‘Real Housewives of Beverly Hills’ Star Kyle Richards Shares Emotional Message From Mauricio Umansky on Their 30th Anniversary Amid Separation",
-      "link": "https://www.realtor.com/news/reality-tv/real-housewives-beverly-hills-kyle-richards-mauricio-umansky-split-30th-wedding-anniversary/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Richards, who separated from Umansky in 2023 after decades of marriage, admitted that the reality of their split hit particularly hard.",
-      "published": "2026-08-17T21:51:03+00:00",
-      "fetched": "2026-08-18T00:27:17.609586+00:00"
-    },
-    {
-      "id": "58678366f63c7dfe",
-      "title": "USDA Loan Advantages and Disadvantages",
-      "link": "https://www.realtor.com/advice/finance/usda-loan-pros-and-cons-list/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "For many homebuyers, especially first-time buyers, affordability is one of the biggest challenges. That’s where USDA loans can help.",
-      "published": "2026-08-17T21:13:03+00:00",
-      "fetched": "2026-08-18T00:27:17.609618+00:00"
-    },
-    {
-      "id": "67b76ab4f0964648",
-      "title": "Backyard Housing Boom: L.A. Sees Record Level of ADU Construction After Easing Restrictions",
-      "link": "https://www.realtor.com/news/trends/los-angeles-accessory-dwelling-unit-construction-adu-zoning/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Restrictions around ADUs have eased, but the impact of these new builds on the housing shortage is still \"a drop in the bucket.\"",
-      "published": "2026-08-17T20:49:00+00:00",
-      "fetched": "2026-08-18T00:27:17.609656+00:00"
     }
   ]
 }
