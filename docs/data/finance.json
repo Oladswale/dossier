@@ -1,8 +1,188 @@
 {
   "category": "finance",
-  "updated": "2026-08-27T16:54:49.914691+00:00",
+  "updated": "2026-08-28T01:48:44.213737+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cb01fd5a8f580eb2",
+      "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+      "link": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "U.S. and Chinese officials met in Beijing this week, despite the White House's tough talk on China.",
+      "published": "2026-08-28T01:35:13+00:00",
+      "fetched": "2026-08-28T01:48:43.515190+00:00"
+    },
+    {
+      "id": "b5c1a7724d8f0acf",
+      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
+      "link": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analysts are crunching the numbers on Marvell’s recently announced Google deal and how much fresh upside it really offers.",
+      "published": "2026-08-28T00:20:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438687+00:00"
+    },
+    {
+      "id": "a74500c8672a6171",
+      "title": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from",
+      "link": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company will need to raise a lot of debt in order to fund its ambitions, according to an analyst.",
+      "published": "2026-08-28T00:02:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438731+00:00"
+    },
+    {
+      "id": "d6867779bc87bdd5",
+      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that’s possible.",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia’s stock soars higher after earnings.",
+      "published": "2026-08-27T23:05:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438757+00:00"
+    },
+    {
+      "id": "94fa8ead02bb0c03",
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+      "published": "2026-08-27T22:58:01+00:00",
+      "fetched": "2026-08-28T01:48:43.515224+00:00"
+    },
+    {
+      "id": "93d5ee0263ba3176",
+      "title": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
+      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A number of Wall Street banks, including Jefferies, raised their price targets for the cybersecurity’s stock following its record-breaking results.",
+      "published": "2026-08-27T22:53:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438799+00:00"
+    },
+    {
+      "id": "9f539f84ca719e45",
+      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+      "link": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male player shoving a female golfer to the ground after she attempts to use his driver.",
+      "published": "2026-08-27T22:17:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438842+00:00"
+    },
+    {
+      "id": "b124dd197ced4ef8",
+      "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Options bets and volatility are sending buy signals, which sets up the stock market for a potential upside breakout.",
+      "published": "2026-08-27T22:12:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438868+00:00"
+    },
+    {
+      "id": "31549712e2e03fb9",
+      "title": "20 stocks likely to lose money even if the bull market continues",
+      "link": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Certain stocks are such poor bets that they are likely to lose ground even in bull markets.",
+      "published": "2026-08-27T20:48:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438891+00:00"
+    },
+    {
+      "id": "25a2a294c923b384",
+      "title": "FG opens 40 million-dose vaccine hub to tackle livestock disease in North-East",
+      "link": "https://nairametrics.com/2026/08/27/fg-opens-40-million-dose-vaccine-hub-to-tackle-livestock-disease-in-north-east/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has inaugurated a 40 million-dose animal vaccine storage facility in Jimeta, Yola North Local Government Area of Adamawa State, as part of efforts to strengthen animal health services and boost livestock development across the country. The post FG opens 40 million-dose vaccine hub to tackle livestock disease in North-East appeared first on Nairametrics .",
+      "published": "2026-08-27T20:26:06+00:00",
+      "fetched": "2026-08-28T01:48:43.619109+00:00"
+    },
+    {
+      "id": "91a73f458d7b8bf2",
+      "title": "Nvidia is getting too big, and that’s a problem",
+      "link": "https://www.marketwatch.com/story/nvidia-is-getting-too-big-and-thats-a-problem-e1edabff?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The chip giant has become the corporate equivalent of the Los Angeles Dodgers as it outspends and outmaneuvers the competition.",
+      "published": "2026-08-27T20:24:00+00:00",
+      "fetched": "2026-08-28T01:48:43.438916+00:00"
+    },
+    {
+      "id": "0c005f09e2249797",
+      "title": "BREAKING: FTSE Russell confirms Nigeria’s Frontier Market status to take effect September 21",
+      "link": "https://nairametrics.com/2026/08/27/ftse-russell-confirms-nigerias-frontier-market-status-to-take-effect-september-21/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Global index provider FTSE Russell has confirmed that Nigeria’s reclassification from Unclassified to Frontier Market status will take effect from the open of trading on September 21, 2026. The organization confirmed this in a market notice published on Thursday, August 27, 2026, marking Nigeria’s return to the global Frontier Market universe and another milestone for [ ] The post BREAKING: FTSE Russell confirms Nigeria’s Frontier Market status to take effect September 21 appeared first on Nairametrics .",
+      "published": "2026-08-27T20:20:04+00:00",
+      "fetched": "2026-08-28T01:48:43.619186+00:00"
+    },
+    {
+      "id": "bdedc94e6209f693",
+      "title": "SBC unveils jochebed angbazo as 16th recipient of 7up harvard business school scholarship",
+      "link": "https://nairametrics.com/2026/08/27/sbc-unveils-jochebed-angbazo-as-16th-recipient-of-7up-harvard-business-school-scholarship/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Seven-Up Bottling Company (SBC) has unveiled Jochebed Angbazo as the 16th recipient of the 7UP Harvard Business School Scholarship (7UP-HBSS), reaffirming its long-standing commitment to developing Nigerian leaders through access to world-class education and leadership development.Speaking at the unveiling in Lagos, SBC s Managing Director, Sari El-Khalil, represented by Chief Finance Officer, Muhammed Ahmad, reaffirmed the [ ] The post SBC unveils jochebed angbazo as 16th recipient of 7up harvard business school scholarship appeared first on Nairametrics .",
+      "published": "2026-08-27T19:24:08+00:00",
+      "fetched": "2026-08-28T01:48:43.619243+00:00"
+    },
+    {
+      "id": "012b3eed6d1d9ab0",
+      "title": "FAAN disowns ongoing recruitment, warns public against scammers",
+      "link": "https://nairametrics.com/2026/08/27/faan-disowns-ongoing-recruitment-warns-public-against-scammers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Airports Authority of Nigeria (FAAN) has disowned reports of an ongoing recruitment exercise and warned members of the public against falling victim to scammers circulating fake employment offers in its name. The post FAAN disowns ongoing recruitment, warns public against scammers appeared first on Nairametrics .",
+      "published": "2026-08-27T19:04:05+00:00",
+      "fetched": "2026-08-28T01:48:43.619284+00:00"
+    },
+    {
+      "id": "da702ed1b8c1f6fa",
+      "title": "NCAA signs new deal to implement advance cargo information system",
+      "link": "https://nairametrics.com/2026/08/27/ncaa-signs-new-deal-to-implement-advance-cargo-information-system/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigeria Civil Aviation Authority (NCAA) has signed a Memorandum of Understanding (MoU) with two firms to implement a Pre-Loading Advance Cargo Information (PLACI) system for air cargo in Nigeria. The post NCAA signs new deal to implement advance cargo information system appeared first on Nairametrics .",
+      "published": "2026-08-27T18:24:14+00:00",
+      "fetched": "2026-08-28T01:48:43.619322+00:00"
+    },
+    {
+      "id": "6111311b7d14963a",
+      "title": "What to know before buying Nigerian Breweries stock",
+      "link": "https://nairametrics.com/2026/08/27/what-to-know-before-buying-nigerian-breweries-stock/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The important question now is no longer simply whether Nigerian Breweries is recovering. It is whether the recovery can be sustained, dividends can return, and stronger shareholder returns can restore investor confidence and support the share price. The post What to know before buying Nigerian Breweries stock appeared first on Nairametrics .",
+      "published": "2026-08-27T18:21:09+00:00",
+      "fetched": "2026-08-28T01:48:43.619361+00:00"
+    },
+    {
+      "id": "4de94e57431e82d2",
+      "title": "LAWMA seals market, targets 24 facilities in Lekki axis over waste violations",
+      "link": "https://nairametrics.com/2026/08/27/lawma-seals-market-targets-24-facilities-in-lekki-axis-over-waste-violations/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Lagos Waste Management Authority (LAWMA) has identified 24 markets, commercial and institutional facilities across the Ajah-Lekki axis for compliance enforcement over persistent violations of waste management requirements and other environmental regulations. The post LAWMA seals market, targets 24 facilities in Lekki axis over waste violations appeared first on Nairametrics .",
+      "published": "2026-08-27T17:09:29+00:00",
+      "fetched": "2026-08-28T01:48:43.619402+00:00"
+    },
+    {
+      "id": "63d831836de366ca",
+      "title": "Africa’s huge population accounts for just 2% of global air traffic – Report",
+      "link": "https://nairametrics.com/2026/08/27/africas-huge-population-accounts-for-just-2-of-global-air-traffic-report/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa’s huge population accounts for just 2% of global air traffic despite representing 18% of the world’s population, according to a report by the Atlantic Council. The post Africa’s huge population accounts for just 2% of global air traffic Report appeared first on Nairametrics .",
+      "published": "2026-08-27T17:00:43+00:00",
+      "fetched": "2026-08-28T01:48:43.619448+00:00"
+    },
     {
       "id": "153fb2eb1722bd29",
       "title": "Anchoria Capital Group Secures SEC Nod to Operate as HoldCo, Opens Abuja Office",
@@ -1322,186 +1502,6 @@
       "summary": "Nigeria's foreign exchange market posted its strongest weekly turnover so far in 2026, with total transactions in the FX Spot and Derivatives markets surging 146.12% to $5.06 billion in the week ended August 21, 2026, up from $2.05 billion in the previous week. The post Nigeria s FX market hits 2026 high of $5.06 billion, Spot trades cross $5 billion mark appeared first on Nairametrics .",
       "published": "2026-08-25T14:06:58+00:00",
       "fetched": "2026-08-25T18:19:55.146682+00:00"
-    },
-    {
-      "id": "33b504a2769da33c",
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
-      "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-      "published": "2026-08-25T13:53:13+00:00",
-      "fetched": "2026-08-27T16:54:49.258508+00:00"
-    },
-    {
-      "id": "da2d50df96f17efc",
-      "title": "These investors own 46% of the entire market value of the NGX",
-      "link": "https://nairametrics.com/2026/08/25/these-investors-own-46-of-the-entire-market-value-of-the-ngx/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Major shareholders in ten of Nigeria’s largest listed companies hold stakes worth an estimated N73.11 trillion, highlighting the significant concentration of ownership among the biggest companies on the Nigerian Exchange (NGX). The post These investors own 46% of the entire market value of the NGX appeared first on Nairametrics .",
-      "published": "2026-08-25T13:38:37+00:00",
-      "fetched": "2026-08-25T18:19:55.146716+00:00"
-    },
-    {
-      "id": "3de981eca083687c",
-      "title": "Lagos Govt says it paid N168.2 Billion to over 48,000 retirees in 19 years",
-      "link": "https://nairametrics.com/2026/08/25/lagos-govt-says-it-paid-n168-2-billion-to-over-48000-retirees-in-19-years/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has paid a cumulative N168.2 billion to over 48,000 retirees under the Contributory Pension Scheme since 2007, including a landmark N5 billion single-batch payment in July 2024 that cleared all outstanding pension backlogs at the time. The post Lagos Govt says it paid N168.2 Billion to over 48,000 retirees in 19 years appeared first on Nairametrics .",
-      "published": "2026-08-25T12:56:16+00:00",
-      "fetched": "2026-08-25T18:19:55.146749+00:00"
-    },
-    {
-      "id": "d4a2010feb8bd2e3",
-      "title": "Fibre is changing Nigeria’s Internet. The hard part is getting everyone connected",
-      "link": "https://techcabal.com/2026/08/25/fibre-is-changing-nigerias-internet-now-comes-the-hard-part/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s fibre boom is reshaping the country’s broadband market, lifting speeds and bringing more users onto faster networks. But the bigger test is no longer just how quickly fibre can be deployed",
-      "published": "2026-08-25T12:55:56+00:00",
-      "fetched": "2026-08-25T18:19:55.769668+00:00"
-    },
-    {
-      "id": "28a61699d3c73d08",
-      "title": "Nigeria’s petrol consumption drops 25% in July — NMDPRA",
-      "link": "https://nairametrics.com/2026/08/25/nigerias-petrol-consumption-drops-25-in-july-nmdpra/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria recorded a sharp drop in domestic petrol supply and consumption in July 2026, even as inventory levels improved across major petroleum products. The post Nigeria’s petrol consumption drops 25% in July — NMDPRA appeared first on Nairametrics .",
-      "published": "2026-08-25T12:36:58+00:00",
-      "fetched": "2026-08-25T18:19:55.146779+00:00"
-    },
-    {
-      "id": "75e38b3a401be80a",
-      "title": "Top 10 African countries with the cheapest diesel prices in August 2026",
-      "link": "https://nairametrics.com/2026/08/25/top-10-african-countries-with-the-cheapest-diesel-prices-in-august-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Diesel prices vary significantly across African countries, reflecting differences in fuel subsidies, taxation, domestic refining capacity, exchange rates and government pricing policies. The post Top 10 African countries with the cheapest diesel prices in August 2026 appeared first on Nairametrics .",
-      "published": "2026-08-25T12:36:36+00:00",
-      "fetched": "2026-08-25T18:19:55.146808+00:00"
-    },
-    {
-      "id": "73455d40743914a0",
-      "title": "Oil prices decline as investors brush aside Bessent’s ‘economic D-Day’ threat against Iran",
-      "link": "https://www.marketwatch.com/story/oil-prices-decline-as-investors-brush-aside-bessents-economic-d-day-for-iran-f318b614?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Oil prices declined on Tuesday as traders shrugged off U.S. threats of an ”economic D-Day” against Iran, while a flurry of headlines helped to renew hopes that the conflict could soon come to an end.",
-      "published": "2026-08-25T12:14:00+00:00",
-      "fetched": "2026-08-25T12:20:20.384276+00:00"
-    },
-    {
-      "id": "dcf837dc9e7affa7",
-      "title": "Why hire a warehouse worker for $30 per hour when a robot costs $10? JPMorgan expects booming humanoid demand.",
-      "link": "https://www.marketwatch.com/story/why-hire-a-warehouse-worker-for-30-per-hour-when-a-robot-costs-10-jpmorgan-expects-booming-humanoid-demand-9cc6ddf4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The U.S. manufacturing industry will turn to robots to fill open jobs, according to JPMorgan research.",
-      "published": "2026-08-25T11:49:00+00:00",
-      "fetched": "2026-08-25T12:20:20.384318+00:00"
-    },
-    {
-      "id": "bb2057429b2d0885",
-      "title": "Stick with value stocks until everyone starts talking about them — and they are still under the radar, this Wall Street firm says",
-      "link": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
-      "published": "2026-08-25T11:43:00+00:00",
-      "fetched": "2026-08-25T12:20:20.384352+00:00"
-    },
-    {
-      "id": "73c43445684a2355",
-      "title": "The debt-fueled AI build-out may already be too big to fail",
-      "link": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The Federal Reserve’s pandemic corporate credit facilities have capped downside risks and remain part of its tool kit, says BofA Global",
-      "published": "2026-08-25T11:12:00+00:00",
-      "fetched": "2026-08-25T12:20:20.384382+00:00"
-    },
-    {
-      "id": "2f837718689822e0",
-      "title": "This Senegalese startup is giving old wardrobes a second life",
-      "link": "https://techcabal.com/2026/08/25/francophone-weekly-by-techcabal-037/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "From the city of Dakar in Senegal, Fatou Dieng is building Maket, a company that sells secondhand clothes.",
-      "published": "2026-08-25T10:57:33+00:00",
-      "fetched": "2026-08-25T12:20:22.311397+00:00"
-    },
-    {
-      "id": "72eb1319f33ff6d6",
-      "title": "NGX correction deepens as investors lock in gains after record run",
-      "link": "https://nairametrics.com/2026/08/25/ngx-correction-deepens-as-investors-lock-in-gains-after-record-run/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The NGX All-Share Index (ASI) settled below the 240K mark, maintaining massive year-to-date (YTD) gains of 54% at present. The post NGX correction deepens as investors lock in gains after record run appeared first on Nairametrics .",
-      "published": "2026-08-25T10:52:45+00:00",
-      "fetched": "2026-08-25T12:20:20.898740+00:00"
-    },
-    {
-      "id": "85336ceff755d25b",
-      "title": "Dangote Refinery drives 767% surge in Nigeria’s petroleum exports to Europe",
-      "link": "https://nairametrics.com/2026/08/25/dangote-refinery-drives-767-surge-in-nigerias-petroleum-exports-to-europe/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s seaborne refined petroleum exports to Europe surged by about 767% to 130,000 barrels per day (b/d) in the second quarter of 2026, from 15,000 b/d in 2023, as increased output from the Dangote refinery reshapes the country’s petroleum trade. The post Dangote Refinery drives 767% surge in Nigeria’s petroleum exports to Europe appeared first on Nairametrics .",
-      "published": "2026-08-25T10:45:26+00:00",
-      "fetched": "2026-08-25T12:20:20.898804+00:00"
-    },
-    {
-      "id": "5e7467c4e45e4ff8",
-      "title": "Nigeria’s businesses are Losing Time – and Money – Moving Cash to the UK",
-      "link": "https://nairametrics.com/2026/08/25/nigerias-businesses-are-losing-time-and-money-moving-cash-to-the-uk/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Trade between Nigeria and the UK hit £7.6 billion in the year to December 2025, up 10.8% from the previous year, according to the UK s Department for Business and Trade. Britain is Nigeria s second-largest African trading partner. And the naira-to-pound corridor is one of the busiest in African commerce.",
-      "published": "2026-08-25T10:41:38+00:00",
-      "fetched": "2026-08-25T12:20:20.898869+00:00"
-    },
-    {
-      "id": "4a7ae21a2c22b70d",
-      "title": "The proof Africa’s boardrooms have been waiting For",
-      "link": "https://nairametrics.com/2026/08/25/the-proof-africas-boardrooms-have-been-waiting-for/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Strategic PR carries an inconvenience most marketing disciplines have been lucky to avoid. A media buy produces a reach figure. A sales campaign produces a revenue line.",
-      "published": "2026-08-25T10:20:22+00:00",
-      "fetched": "2026-08-25T12:20:20.898931+00:00"
-    },
-    {
-      "id": "a7aad59b0fa16b92",
-      "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.",
-      "link": "https://www.marketwatch.com/story/one-wall-street-measure-of-market-fragility-just-hit-its-highest-possible-level-the-last-time-it-did-volatility-spiked-c5441009?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The market turbulence indicator hit 1 on Aug. 19 for the first time since December 2024 following the presidential election.",
-      "published": "2026-08-25T09:49:00+00:00",
-      "fetched": "2026-08-25T12:20:20.384424+00:00"
-    },
-    {
-      "id": "a0571ab841133c69",
-      "title": "FG rallies NIMC, CAC, NIPOST to build Nigeria’s digital address system",
-      "link": "https://nairametrics.com/2026/08/25/fg-rallies-nimc-cac-nipost-to-build-nigerias-digital-address-system/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has taken a major step toward developing a modern, digitised national addressing system, with the National Addressing Council (NAC) ratifying a preliminary framework to coordinate implementation across key public institutions. The post FG rallies NIMC, CAC, NIPOST to build Nigeria’s digital address system appeared first on Nairametrics .",
-      "published": "2026-08-25T09:36:12+00:00",
-      "fetched": "2026-08-25T12:20:20.898993+00:00"
-    },
-    {
-      "id": "3a0bb97560ed42d9",
-      "title": "He once mentored Scott Bessent. Now Stanley Druckenmiller is criticizing the treasury secretary.",
-      "link": "https://www.marketwatch.com/story/he-once-mentored-scott-bessent-now-stanley-druckenmiller-is-criticizing-the-treasury-secretary-c229d410?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Treasury Secretary Scott Bessent’s recent maneuvers in the bond market have come in for some searing criticism from illustrious investor Stanley Druckenmiller — his long-time ally and mentor.",
-      "published": "2026-08-25T09:17:00+00:00",
-      "fetched": "2026-08-25T12:20:20.384457+00:00"
     }
   ]
 }

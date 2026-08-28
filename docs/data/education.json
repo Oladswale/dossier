@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-27T16:55:07.840563+00:00",
+  "updated": "2026-08-28T01:48:59.791703+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5e3ce552268fd32c",
+      "title": "Looking beyond natural sequences",
+      "link": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
+      "published": "2026-08-27T19:20:00+00:00",
+      "fetched": "2026-08-28T01:48:58.289216+00:00"
+    },
     {
       "id": "79b771054ff2bc1e",
       "title": "New type of attack can slip past the defenses in your computer’s processor",
@@ -1492,16 +1502,6 @@
       "summary": "Scientists find that learning to identify a new object subtly reshapes visual processing in the brain.",
       "published": "2026-07-14T18:30:00+00:00",
       "fetched": "2026-07-29T08:14:13.525266+00:00"
-    },
-    {
-      "id": "9c3542d7766e9c13",
-      "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
-      "link": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
-      "published": "2026-07-14T18:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525322+00:00"
     }
   ]
 }

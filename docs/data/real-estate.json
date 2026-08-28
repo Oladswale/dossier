@@ -1,8 +1,138 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-27T16:55:08.555297+00:00",
+  "updated": "2026-08-28T01:49:00.399867+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "610b90e6c5d5535f",
+      "title": "Ryan Reynolds Reveals Rare Glimpse of His and Blake Lively’s Pound Ridge Retreat—and Their Life at Home With Their Kids",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/ryan-reynolds-blake-lively-pound-ridge-new-york-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actor took to Instagram to celebrate his wife on her birthday, as he branded Aug. 25 their family's \"Super Bowl.\"",
+      "published": "2026-08-27T22:45:54+00:00",
+      "fetched": "2026-08-28T01:49:00.398930+00:00"
+    },
+    {
+      "id": "1f25b24110a92029",
+      "title": "13 Million Americans Are Struggling To Keep Their Homes Cool—but the Fix Can Cost Over $2K",
+      "link": "https://www.realtor.com/news/trends/air-conditioner-repair-cost-extreme-heat/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Broken AC is leaving millions of households exposed to extreme heat, while cooling repairs can average about $2,200.",
+      "published": "2026-08-27T22:15:27+00:00",
+      "fetched": "2026-08-28T01:49:00.398970+00:00"
+    },
+    {
+      "id": "fb9794e7f1a8d4d1",
+      "title": "EXCLUSIVE: Axed Miami Dolphins Player Tyreek Hill Takes $7.7 Million Florida Home Off the Market—as He Continues Hunt for New NFL Team",
+      "link": "https://www.realtor.com/news/sports/miami-dolphins-nfl-tyreek-hill-florida-home-off-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Hill, who was released by the Miami Dolphins, put the residence on the market for $7.7 million on March 19.",
+      "published": "2026-08-27T21:53:17+00:00",
+      "fetched": "2026-08-28T01:49:00.399003+00:00"
+    },
+    {
+      "id": "6b8a6bab477cf521",
+      "title": "EXCLUSIVE: Diane Keaton’s Former Beverly Hills Estate Finally Finds a Buyer After Price Was Cut by $6.5 Million",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/diane-keaton-beverly-hills-house-sold/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Keaton lovingly renovated the home, which she bought from Madonna, while retaining its original Spanish-style charm.",
+      "published": "2026-08-27T21:29:39+00:00",
+      "fetched": "2026-08-28T01:49:00.399033+00:00"
+    },
+    {
+      "id": "7105a4778adbeef4",
+      "title": "Sidelined Homebuyers Say Mortgage Rates Need To Hit This ‘Magic Number’ Before They’ll Buy",
+      "link": "https://www.realtor.com/news/trends/homebuyers-mortgage-rates-drop-neighbors-bank-survey-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A new survey found that 72% of potential homebuyers have either delayed or entirely paused their home search until rates improve.",
+      "published": "2026-08-27T19:44:06+00:00",
+      "fetched": "2026-08-28T01:49:00.399064+00:00"
+    },
+    {
+      "id": "de881e001def1867",
+      "title": "What Happened to Lindsay Clancy’s Home? How Duxbury House Was Quietly Sold to Former DA in Off-Market Deal Just a Year After Kids’ Deaths",
+      "link": "https://www.realtor.com/news/trends/lindsay-clancy-house-trial-children-husband-patrick/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Former nurse Clancy, 36, stands accused of murdering her three children in the basement of her family's Duxbury, MA, property.",
+      "published": "2026-08-27T19:43:24+00:00",
+      "fetched": "2026-08-28T01:49:00.399096+00:00"
+    },
+    {
+      "id": "2ad3adea442ff6a1",
+      "title": "Atlanta Rents Are Going Down",
+      "link": "https://www.realtor.com/advice/hyperlocal/atlanta-rents-are-going-down/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As national prices continue a downward streak,the Atlanta and surrounding Sandy Springs and Roswell market is also experiencing a drop.",
+      "published": "2026-08-27T19:36:00+00:00",
+      "fetched": "2026-08-28T01:49:00.399122+00:00"
+    },
+    {
+      "id": "68b33e036c16f6fe",
+      "title": "What Happened to ‘Unabomber’ Ted Kaczynski’s Infamous Cabin and Property",
+      "link": "https://www.realtor.com/news/trends/what-happened-to-unabomber-ted-kaczynskis-infamous-cabin-and-property/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Montana property where \"Unabomber\" Ted Kaczynski lived while sending homemade bombs in the mail has become a \"very Zen\" weekend retreat.",
+      "published": "2026-08-27T19:33:00+00:00",
+      "fetched": "2026-08-28T01:49:00.399150+00:00"
+    },
+    {
+      "id": "24e57561493ed179",
+      "title": "Retirees Get 265% of What They Paid Into Social Security—but Will Young Americans?",
+      "link": "https://www.realtor.com/news/trends/social-security-benefits-generational-wealth-divide/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As Social Security risks insolvency, retirees draw far more than they paid in—leaving younger workers with a steeper path to wealth.",
+      "published": "2026-08-27T19:10:53+00:00",
+      "fetched": "2026-08-28T01:49:00.399183+00:00"
+    },
+    {
+      "id": "f07c7d76a1ae8039",
+      "title": "The Midwest Is Dominating 2026 Real Estate Rankings—But the Drawbacks Matter",
+      "link": "https://www.biggerpockets.com/blog/midwest-markets-are-dominating-2026-but-there-are-drawbacks",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If there were a U.S. championship for the best places to invest, the Midwest would see its cities grab gold, silver, and bronze medals. Not only have cities in the [ ]",
+      "published": "2026-08-27T18:31:58+00:00",
+      "fetched": "2026-08-28T01:49:00.026217+00:00"
+    },
+    {
+      "id": "3ca5d3afc3fe9254",
+      "title": "EXCLUSIVE: Amanda Seyfried Lists Longtime L.A. Home for $3.2 Million—After Moving to a Farm in Upstate New York",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/amanda-seyfried-selling-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actress is parting ways with the charming three-bedroom, 2.5-bathroom residence, which spans 2,738 square feet.",
+      "published": "2026-08-27T17:45:45+00:00",
+      "fetched": "2026-08-28T01:49:00.399212+00:00"
+    },
+    {
+      "id": "627e75a2c7765e67",
+      "title": "Rooftop Solar’s Next Crisis: Why Homeowners Are Losing 20% of Their Energy Output",
+      "link": "https://www.realtor.com/advice/home-improvement/home-solar-output-during-wildfires/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The benefits of having a solar panel roof have been proven, but there is a new pitfall homeowners should be aware of.",
+      "published": "2026-08-27T17:28:56+00:00",
+      "fetched": "2026-08-28T01:49:00.399239+00:00"
+    },
+    {
+      "id": "3e20815f54f6e452",
+      "title": "Saying “Rental” Doesn’t Make It Short-Term Rental Insurance: The Fine Print Between Landlord and STR Insurance Policies",
+      "link": "https://www.biggerpockets.com/blog/the-fine-print-between-landlord-and-str-insurance-policies",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This article is presented by Proper Insurance. You bought a short-term rental, told your insurance agent what you were doing at the property, and they sold you a policy. You [ ]",
+      "published": "2026-08-27T17:07:30+00:00",
+      "fetched": "2026-08-28T01:49:00.026278+00:00"
+    },
     {
       "id": "1d7daad3766c8bf7",
       "title": "Mortgage Rates Nudge Up to 6.66% Ahead of Fed’s Jackson Hole Summit",
@@ -1372,136 +1502,6 @@
       "summary": "\"Our clients aren't planning their next move. They're remodeling so they don't have to make one,\" said one remodeler.",
       "published": "2026-08-18T21:26:34+00:00",
       "fetched": "2026-08-19T00:27:41.544758+00:00"
-    },
-    {
-      "id": "94b4a9ed17e465f9",
-      "title": "Meghan McCain Lifts the Lid on ‘Beautiful Chaos’ of Her Life at Home With 3 Kids",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-mccain-children-husband-home-washington-dc/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 41-year-old and her husband, who welcomed their third child in January, live with their kids in a home just outside Washington, DC.",
-      "published": "2026-08-18T21:07:26+00:00",
-      "fetched": "2026-08-19T00:27:41.544792+00:00"
-    },
-    {
-      "id": "979d19a5d840693b",
-      "title": "Big Bend Wall Paused, but Ranchers Still Face Looming Threat to Land: ‘We Stand to Lose Too Much’",
-      "link": "https://www.realtor.com/news/real-estate-news/big-bend-border-wall-ranchers-eminent-domain/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Trump administration paused construction of a contentious border project in Texas’ Big Bend National Park that homeowners are protesting",
-      "published": "2026-08-18T19:55:42+00:00",
-      "fetched": "2026-08-19T00:27:41.544830+00:00"
-    },
-    {
-      "id": "e37d482f1d8075a7",
-      "title": "The Midyear Portfolio Review Every Rental Property Investor Should Perform",
-      "link": "https://www.biggerpockets.com/blog/the-midyear-portfolio-review-every-rental-property-investor-should-perform",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "I lost $40,000 on a flip once because I stopped opening my own spreadsheet. I built that file myself. Then I closed it, and the deal decided what it was [ ]",
-      "published": "2026-08-18T18:50:01+00:00",
-      "fetched": "2026-08-19T00:27:40.846648+00:00"
-    },
-    {
-      "id": "372205db108453f9",
-      "title": "EXCLUSIVE: Late Actress Diane Keaton’s Beloved ‘Pinterest House’ Sells for Huge Discount—More Than a Year After Listing for $29 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/diane-keaton-pinterest-house-sold-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Keaton, who died in October 2025, purchased the property for $4.7 million in 2011 and spent years building her dream abode on the parcel.",
-      "published": "2026-08-18T18:42:54+00:00",
-      "fetched": "2026-08-19T00:27:41.544861+00:00"
-    },
-    {
-      "id": "d399c930db5049c0",
-      "title": "Ariana Madix Returns to New York City for Another Broadway Gig—Months After Offloading $3.1 Million L.A. Home She Shared With Tom Sandoval",
-      "link": "https://www.realtor.com/news/reality-tv/ariana-madix-new-york-broadway-los-angeles-home-sold-tom-sandoval/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The reality TV star, 41, is trading her Los Angeles lifestyle for a return to New York City as she stars in Broadway's \"Just in Time.\"",
-      "published": "2026-08-18T18:33:54+00:00",
-      "fetched": "2026-08-19T00:27:41.544893+00:00"
-    },
-    {
-      "id": "a25984417867abd2",
-      "title": "The Nationwide Home Insurance Crisis Is About Far More Than Monthly Premiums Skyrocketing",
-      "link": "https://www.realtor.com/news/trends/home-insurance-crisis-nonrenewal-rates/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home insurance premiums are rising, but that's not the only problem. Nonrenewals are surging, leaving some homeowners with fewer options.",
-      "published": "2026-08-18T18:33:27+00:00",
-      "fetched": "2026-08-19T00:27:41.544920+00:00"
-    },
-    {
-      "id": "54ee51f4e1fd0a4f",
-      "title": "This City Is Forcing a Neighborhood HOA To Tear Down Its Flock Cameras—but Will This Be the New Norm?",
-      "link": "https://www.realtor.com/news/trends/brentwood-forcing-hoa-tear-down-flock-cameras/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An HOA in Brentwood, CA, is catching blowback over installing Flock cameras.",
-      "published": "2026-08-18T18:21:53+00:00",
-      "fetched": "2026-08-19T00:27:41.544945+00:00"
-    },
-    {
-      "id": "6e54a8189f508b84",
-      "title": "Inside Marc Jacobs’ $9.2 Million Frank Lloyd Wright-Designed ‘Sanctuary’—as he Details ‘Unexpected’ 4-Year Renovation of the Property",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/inside-marc-jacobs-frank-lloyd-white-fixer-upper/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Jacobs, 63, purchased the upstate New York property on a whim in 2019—but it has since become his own idyllic retreat.",
-      "published": "2026-08-18T17:37:00+00:00",
-      "fetched": "2026-08-18T18:17:43.567635+00:00"
-    },
-    {
-      "id": "41b0589027360edd",
-      "title": "Where Sellers Are Cracking: The Housing Markets Giving Buyers More Leverage",
-      "link": "https://www.biggerpockets.com/blog/housing-markets-where-buyers-have-more-leverage",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "We know the narrative: The housing market is too expensive. That, however, appears to be changing. Data from Parcl Labs shows where the ice is cracking.",
-      "published": "2026-08-18T15:58:32+00:00",
-      "fetched": "2026-08-18T18:17:43.212800+00:00"
-    },
-    {
-      "id": "9ef0c3d000edd49e",
-      "title": "Flock Camera Controversy Spurs Rhode Island Moratorium on Plate-Reading Devices",
-      "link": "https://www.realtor.com/news/real-estate-news/flock-camera-rhode-island-ban-moratorium-governor/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As Flock and other camera companies spur controversy, Rhode Island is pausing installation of new cameras and is studying their effects.",
-      "published": "2026-08-18T15:53:28+00:00",
-      "fetched": "2026-08-18T18:17:43.567673+00:00"
-    },
-    {
-      "id": "4383e063507a933f",
-      "title": "Dramatic Mirror House Designed To Reflect Its Natural Surroundings Is Listed for $15 Million in Star-Studded Enclave of Pound Ridge",
-      "link": "https://www.realtor.com/news/unique-homes/mirror-house-for-sale-pound-ridge-new-york/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The incredible home sits on nearly 20 acres of bucolic land in the star-studded Westchester enclave of Pound Ridge.",
-      "published": "2026-08-18T15:35:50+00:00",
-      "fetched": "2026-08-18T18:17:43.567705+00:00"
-    },
-    {
-      "id": "d116e1718e5a043d",
-      "title": "Pending Home Sales Retreat in July as Mortgage Rates Hit 2026 High",
-      "link": "https://www.realtor.com/news/trends/pending-home-sales-housing-market-nar-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pending home sales continue to lag, with decreases felt across all regions.",
-      "published": "2026-08-18T14:00:43+00:00",
-      "fetched": "2026-08-18T18:17:43.567730+00:00"
-    },
-    {
-      "id": "058e8063122d5490",
-      "title": "EXCLUSIVE: Pete Davidson Takes $1.9 Million Upstate New York Home Off the Market—Just 2 Months After Slashing Asking Price",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/pete-davidson-new-york-home-off-market-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The comedian first listed the home for $2.5 million in February but ended up lowering that asking price on three occasions.",
-      "published": "2026-08-18T13:33:04+00:00",
-      "fetched": "2026-08-18T18:17:43.567763+00:00"
     }
   ]
 }
