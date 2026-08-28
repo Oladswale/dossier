@@ -1,8 +1,138 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-28T01:49:00.399867+00:00",
+  "updated": "2026-08-28T17:45:50.863389+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8284969c76d9aaaa",
+      "title": "Tracking Tropical Storm Dolly: Where It Will Hit and Which Homeowners Should Prepare",
+      "link": "https://www.realtor.com/news/trends/tracking-tropical-storm-dolly-homeowners-prep/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tropical Storm Dolly has formed over the South-Central Atlantic, but its intensity and when it will hit U.S. homeowners seems clear.",
+      "published": "2026-08-28T17:28:19+00:00",
+      "fetched": "2026-08-28T17:45:50.862838+00:00"
+    },
+    {
+      "id": "ab09c5ea472cb238",
+      "title": "Mortgages Now Take 36% of a Typical Family’s Income. Here’s How Financial Experts Say To Prepare",
+      "link": "https://www.realtor.com/news/trends/mortgage-percentage-income-financial-expert-review/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The NAHB/Wells Fargo Cost of Housing Index puts the affordability crisis in context: how much of your income you need for a house now.",
+      "published": "2026-08-28T17:26:40+00:00",
+      "fetched": "2026-08-28T17:45:50.862883+00:00"
+    },
+    {
+      "id": "48d91348414e68ff",
+      "title": "How Nathan Nicholson Cashed Out His 401(k) to Build 23 Rentals",
+      "link": "https://www.biggerpockets.com/blog/deal-diary-nathan-nicholson",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Name Nathan Nicholson Location Louisville, Kentucky Occupation Full-time sales professional and real estate investor Assets 23 single-family rentals, 11 paid off, $311,000 in annual rent, $112,000 in true annual net [ ]",
+      "published": "2026-08-28T17:06:12+00:00",
+      "fetched": "2026-08-28T17:45:50.403105+00:00"
+    },
+    {
+      "id": "db251148884842fd",
+      "title": "A ‘Snowier-Than-Normal Winter’ Is Headed Toward These Homeowners, Warns The Old Farmer’s Almanac",
+      "link": "https://www.realtor.com/news/trends/old-farmers-almanac-winter-2026-27-predictions/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A snowier winter is coming. Find out if your area is in The Old Farmer’s Almanac blast zone and how to winterproof your home.",
+      "published": "2026-08-28T16:59:16+00:00",
+      "fetched": "2026-08-28T17:45:50.862907+00:00"
+    },
+    {
+      "id": "09b7e1df3c11db23",
+      "title": "EXCLUSIVE: Lindsey Vonn Cuts Another $100K Off Price of Beverly Hills Mansion—as She Continues Olympic Crash Recovery in Utah",
+      "link": "https://www.realtor.com/news/sports/lindsey-vonn-beverly-hills-home-price-cut-crash-recovery-utah/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Vonn, who is undergoing treatment after suffering a horrific ski crash, first put her home on the market in November 2025.",
+      "published": "2026-08-28T16:04:15+00:00",
+      "fetched": "2026-08-28T17:45:50.862928+00:00"
+    },
+    {
+      "id": "d0854503b24837e5",
+      "title": "Nearly Half of Middle-Income Renters Make More Than Their Parents but Still Can’t Afford Homes",
+      "link": "https://www.realtor.com/news/trends/renter-affordability-survey-first-home-neighbors-bank-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Neighbors Bank found that 44% percent of middle-income renters earn more than their parents did at the same age.",
+      "published": "2026-08-28T15:57:53+00:00",
+      "fetched": "2026-08-28T17:45:50.862946+00:00"
+    },
+    {
+      "id": "77818f185412f4a0",
+      "title": "Fed Chairman Kevin Warsh Leaves the Door Open for September Rate Hike in Jackson Hole Speech",
+      "link": "https://www.realtor.com/news/real-estate-news/fed-kevin-warsh-jackson-hole-speech-interest-rates/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Warsh spoke for the first time as Fed chairman at the Kansas City Fed's annual economic policy symposium in Jackson Hole on Friday.",
+      "published": "2026-08-28T15:40:02+00:00",
+      "fetched": "2026-08-28T17:45:50.862965+00:00"
+    },
+    {
+      "id": "33dcd6486fabb74b",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.66% Rate",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-august-27/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rates saw minor tick up this week, yet remain steady at levels not seen in over a year, much to buyers dismay.",
+      "published": "2026-08-28T14:57:00+00:00",
+      "fetched": "2026-08-28T17:45:50.862983+00:00"
+    },
+    {
+      "id": "5f90a426b9d18fc1",
+      "title": "Robert De Niro’s Multimillion-Dollar Property Portfolio Features an Inherited Hamptons Retreat—and a Private Ski Slope Estate",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/where-robert-de-niro-live-homes-new-york/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The star has owned properties in some of the country’s most coveted enclaves, from New York City to an estate in the Hudson Valley.",
+      "published": "2026-08-28T14:37:30+00:00",
+      "fetched": "2026-08-28T17:45:50.863003+00:00"
+    },
+    {
+      "id": "e4025a709d4dee5d",
+      "title": "How to Prepare for Your First Rental Property (Beginner Steps) (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-763",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Don’t feel ready to buy your first rental property yet? Maybe you just need a better game plan. Today, we’re covering three different but common situations rookies find themselves in [ ]",
+      "published": "2026-08-28T11:00:35+00:00",
+      "fetched": "2026-08-28T17:45:50.403135+00:00"
+    },
+    {
+      "id": "cebc150593e8ff48",
+      "title": "BRRRR vs. New Construction: Which Makes More Money in 2026 (I Did the Math)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1323",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Is it better to buy an existing property with value-add potential or a new construction home in 2026? For years, there was no debate. The ability to buy a property [ ]",
+      "published": "2026-08-28T11:00:32+00:00",
+      "fetched": "2026-08-28T17:45:50.403156+00:00"
+    },
+    {
+      "id": "6b9b23e017ef5d93",
+      "title": "Inside the ‘Cultlike’ Quest To Find the Rare Wood Needed To Restore Midcentury Modern Homes",
+      "link": "https://www.realtor.com/news/trends/midcentury-eichler-frank-lloyd-wright-homes-rare-wood-lauan/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "These iconic homes, such as those from developer Joseph Eichler or architect Frank Lloyd Wright, often incorporate rare woods.",
+      "published": "2026-08-28T09:00:00+00:00",
+      "fetched": "2026-08-28T17:45:50.863022+00:00"
+    },
+    {
+      "id": "084b74d3196b0896",
+      "title": "Colleges Are Closing Dorms—This Town Wants To Turn Them Into Housing",
+      "link": "https://www.realtor.com/news/trends/college-dorm-closures-campus-land-housing/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Colleges are closing dorms as enrollment shifts. One Wisconsin community hopes a shuttered campus can help ease its housing shortage.",
+      "published": "2026-08-28T08:36:00+00:00",
+      "fetched": "2026-08-28T17:45:50.863039+00:00"
+    },
     {
       "id": "610b90e6c5d5535f",
       "title": "Ryan Reynolds Reveals Rare Glimpse of His and Blake Lively’s Pound Ridge Retreat—and Their Life at Home With Their Kids",
@@ -1372,136 +1502,6 @@
       "summary": "This article is presented by Avail. It s common to want more than one rental property. You close on the first one; it cash flows a couple hundred dollars a month [ ]",
       "published": "2026-08-19T18:37:09+00:00",
       "fetched": "2026-08-20T00:28:00.737931+00:00"
-    },
-    {
-      "id": "d828bad99b56283a",
-      "title": "The Framework Behind a 75-Unit Portfolio: How Aaron Murphy Replaced His Income in 11 Years",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-aaron-murphy",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Aaron Murphy Location Baltimore, Maryland Occupation Full-time real estate investor Assets 75 rental units, in-house construction, maintenance, and property management Investment strategy House hacking, BRRRR, vertically integrated renovation and [ ]",
-      "published": "2026-08-19T18:31:08+00:00",
-      "fetched": "2026-08-20T00:28:00.737972+00:00"
-    },
-    {
-      "id": "119b33ed6cfd0c2a",
-      "title": "How To Cut Moving Costs Without Begging for Free Favors From Friends",
-      "link": "https://www.realtor.com/advice/move/save-money-moving/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Moving can be pricey—so check out these money-saving tips to lower your costs.",
-      "published": "2026-08-19T18:21:00+00:00",
-      "fetched": "2026-08-20T00:28:01.154965+00:00"
-    },
-    {
-      "id": "53945fc24429f87a",
-      "title": "How Families Can Adjust Smart Thermostat Schedules To Save Money as Kids Return to School",
-      "link": "https://www.realtor.com/advice/home-improvement/back-to-school-adjust-your-thermostat-schedule/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As the kids head back to class, take two minutes to reset your thermostat for the new season. It could save you tons of money.",
-      "published": "2026-08-19T17:55:22+00:00",
-      "fetched": "2026-08-20T00:28:01.155001+00:00"
-    },
-    {
-      "id": "6fa038160bf9c35a",
-      "title": "Justin Timberlake and Jessica Biel Soak Up the Sun With Their Kids in Montana as They Spend Summer at Luxurious Yellowstone Club Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/justin-timberlake-yellowstone-club-retreat-photos-instagram/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Timberlake, 45, took to Instagram to share a glimpse at his summer with his wife and their kids in and around their Yellowstone Club home.",
-      "published": "2026-08-19T17:36:16+00:00",
-      "fetched": "2026-08-19T18:14:43.991172+00:00"
-    },
-    {
-      "id": "ddd65c22094a8dd7",
-      "title": "Byron Donalds to Face David Jolly in Florida Governor’s Race: What They Say on Property Taxes",
-      "link": "https://www.realtor.com/news/real-estate-news/florida-governor-primary-election-results-byron-donalds-david-jolly/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Florida will choose between two prospective governors with differing views of the state's housing market.",
-      "published": "2026-08-19T15:51:52+00:00",
-      "fetched": "2026-08-19T18:14:43.991204+00:00"
-    },
-    {
-      "id": "eef8f006a39d18dd",
-      "title": "Bilt Partners With Equinox To Expand Neighborhood Concierge Perks",
-      "link": "https://www.realtor.com/advice/finance/bilt-neighborhood-concierge/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Bilt is releasing a new Neighborhood Concierge perk to its service: integration with your Equinox wellness membership.",
-      "published": "2026-08-19T15:00:00+00:00",
-      "fetched": "2026-08-19T18:14:43.991226+00:00"
-    },
-    {
-      "id": "94220fb1d745e3fc",
-      "title": "Sandra Bullock Shares Rare Glimpse at Her Homes in L.A. and Wyoming as She Enjoys Summer of Fun With Her Kids",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/sandra-bullock-kids-homes-wyoming-beverly-hills/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Bullock, 62, spent some time with her children and loved ones at her home in Jackson, WY, which she has owned for years.",
-      "published": "2026-08-19T14:42:38+00:00",
-      "fetched": "2026-08-19T18:14:43.991250+00:00"
-    },
-    {
-      "id": "05170412fddcd241",
-      "title": "Mortgage Applications Decline as Higher Interest Rates Strain Affordability",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-today-interest-rates-mba-index-august-19-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage rates remained steady from last week, amid concern over rising inflation and the war in Iran.",
-      "published": "2026-08-19T14:18:23+00:00",
-      "fetched": "2026-08-19T18:14:43.991270+00:00"
-    },
-    {
-      "id": "06be5e6d6af210fd",
-      "title": "The Worst Rental Properties to Buy (We’d Never Invest in These)",
-      "link": "https://www.biggerpockets.com/blog/rookie-759",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The best real estate investing advice you ll ever hear is to just get started. But that advice comes with a catch: some rental properties can set you back many years. [ ]",
-      "published": "2026-08-19T11:00:49+00:00",
-      "fetched": "2026-08-19T12:18:04.409374+00:00"
-    },
-    {
-      "id": "adc8da9b778d0552",
-      "title": "The Fastest Way to Get Good at Real Estate Investing (Saves You Years)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1319",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Today, we’re showing you exactly how to learn about real estate investing, so you can get your first property faster. There are thousands of videos, podcasts, books, and forums floating [ ]",
-      "published": "2026-08-19T11:00:46+00:00",
-      "fetched": "2026-08-19T12:18:04.409422+00:00"
-    },
-    {
-      "id": "879f5be29c4c4742",
-      "title": "Starter Homes Vanish as Luxury Thrives: The Reality of the K-Shaped Housing Market Happening Now",
-      "link": "https://www.realtor.com/news/trends/housing-alignment-report-k-shaped-market-starter-homes-luxury/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New data shows entry-level buyers pulling back as starter homes remain scarce, while luxury shoppers stay firmly in the market.",
-      "published": "2026-08-19T09:00:00+00:00",
-      "fetched": "2026-08-19T12:18:05.061225+00:00"
-    },
-    {
-      "id": "41524766a78e6589",
-      "title": "‘Don’t Say Good Luck’ Star Melanie Lynskey Admits She ‘Dreams’ of Buying a Home in Her Native New Zealand—but Can’t Afford It",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/melanie-lynskey-home-los-angeles-new-zealand-expensive/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Lynskey, 49, has been living in Los Angeles for 26 years—but said her greatest \"dream\" is to buy a house in her home country.",
-      "published": "2026-08-18T22:44:44+00:00",
-      "fetched": "2026-08-19T00:27:41.544720+00:00"
-    },
-    {
-      "id": "2b3b8bb00e693feb",
-      "title": "Remodeling Spending Surges in Michigan and Continues To Outpace Construction Nationwide",
-      "link": "https://www.realtor.com/news/trends/remodeling-spending-by-state-q1-2026-nahb/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"Our clients aren't planning their next move. They're remodeling so they don't have to make one,\" said one remodeler.",
-      "published": "2026-08-18T21:26:34+00:00",
-      "fetched": "2026-08-19T00:27:41.544758+00:00"
     }
   ]
 }
