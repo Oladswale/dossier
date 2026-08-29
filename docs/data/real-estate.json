@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-29T01:12:52.519518+00:00",
+  "updated": "2026-08-29T11:50:21.616707+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "dcee1975e3d5fa75",
+      "title": "Texas Is Opening the Door to Cheaper Homes. Some Cities Are Barely Cracking It.",
+      "link": "https://www.realtor.com/news/trends/texas-manufactured-homes-zoning-law-sb785/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Texas is requiring hundreds of cities to allow manufactured homes, but local zoning could still sharply limit where they can go.",
+      "published": "2026-08-29T10:00:00+00:00",
+      "fetched": "2026-08-29T11:50:21.616204+00:00"
+    },
     {
       "id": "770294e9a96eccec",
       "title": "EXCLUSIVE: Chris Evans Sells L.A. Home for Over $1 Million Below Asking Price as He Leaves California for Good",
@@ -1492,16 +1502,6 @@
       "summary": "The coastal paradises of San Diego and the Florida Keys, nestled on opposite shores, tell different stories.",
       "published": "2026-08-20T08:43:00+00:00",
       "fetched": "2026-08-20T12:19:58.393900+00:00"
-    },
-    {
-      "id": "8c505a47eb961daa",
-      "title": "‘Million Dollar Listing’ Star James Harris Opens Up Outdoor Oasis at L.A. Home Where He’s Finding Balance Amid ‘Whirlwind’ New Chapter",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/million-dollar-listing-james-harris-bravo-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Harris, 42, purchased the six-bedroom abode in 2021, the same year he made his final appearance as a main cast member on the hit Bravo show.",
-      "published": "2026-08-20T08:17:00+00:00",
-      "fetched": "2026-08-20T12:19:58.393960+00:00"
     }
   ]
 }
