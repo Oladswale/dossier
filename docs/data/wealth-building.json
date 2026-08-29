@@ -1,7 +1,7 @@
 {
   "category": "wealth-building",
-  "updated": "2026-08-29T15:48:18.962750+00:00",
-  "count": 33,
+  "updated": "2026-08-29T20:03:11.321777+00:00",
+  "count": 49,
   "items": [
     {
       "id": "065474e16903fba6",
@@ -224,6 +224,46 @@
       "fetched": "2026-07-29T08:14:10.694737+00:00"
     },
     {
+      "id": "fb5465dd47484210",
+      "title": "The Shockingly Simple Math Behind Social Security",
+      "link": "https://www.mrmoneymustache.com/2026/04/16/the-shockingly-simple-math-behind-social-security/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "In the world of very early retirement, we tend to ignore one of the most important things for normal retirees: the Social Security program. Don’t get me wrong, it’s a great thing for the 73 million people who currently draw benefits, and it provides an essential safety net for many who don’t have much income [ ]",
+      "published": "2026-04-16T17:25:38+00:00",
+      "fetched": "2026-08-29T20:02:58.348114+00:00"
+    },
+    {
+      "id": "5c302d0d43b34303",
+      "title": "My Unexpected Journey to Hormone Replacement (TRT)",
+      "link": "https://www.mrmoneymustache.com/2025/12/15/my-unexpected-journey-to-hormone-replacement-trt/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "As a man of Science, I’m supposed to hide my enthusiasm about this somewhat controversial subject, and instead direct you only to the peer-reviewed studies. But man, I feel like I’ve stumbled upon the fountain of youth here. And the more I dig into the details and the hype and controversy surrounding the field of [ ]",
+      "published": "2025-12-16T02:14:05+00:00",
+      "fetched": "2026-08-29T20:02:58.348172+00:00"
+    },
+    {
+      "id": "d6f9f96e002b2e8e",
+      "title": "How Unlimited Free Stuff from Amazon Almost Ruined My Retirement",
+      "link": "https://www.mrmoneymustache.com/2025/10/06/amazon-vine-ruins-retirement/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "It all started last winter when I innocently posted a review for a heated vest I had bought on Amazon. I was happy with this fun new way to beat the winter and wanted to share it with others, so I gave it five stars. But soon after I clicked “Submit”, I got an email [ ]",
+      "published": "2025-10-07T01:32:10+00:00",
+      "fetched": "2026-08-29T20:02:58.348237+00:00"
+    },
+    {
+      "id": "109af068e8c270cd",
+      "title": "How to Navigate the Tariff Circus",
+      "link": "https://www.mrmoneymustache.com/2025/06/13/tariffs-and-the-economy/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "Quite accidentally, it looks like we timed our last talk about the stock market pretty darned well. Back in February 2025, the market put the perfect cap on a multi year climb before stepping onto the wild roller coaster we’re currently riding. Since then it has seen some of the steepest drops and recoveries in [ ]",
+      "published": "2025-06-13T20:47:59+00:00",
+      "fetched": "2026-08-29T20:02:58.348288+00:00"
+    },
+    {
       "id": "2e36183cf44c4a6e",
       "title": "Money Moves Smart People Make to Keep More of Their Hard-Earned Cash",
       "link": "https://www.thesimpledollar.com/personal-finance/money-moves-smart-people-make-to-keep-more-of-their-hard-earned-cash/",
@@ -232,6 +272,126 @@
       "summary": "Managing money wisely isn’t just about being frugal, it’s about being strategic. Smart people know how to stretch their dollars further by taking advantage of the right tools and offers that protect wealth and fuel its growth. Here are some savvy financial moves you can make today to keep more of what you earn — Continued",
       "published": "2025-04-09T21:27:38+00:00",
       "fetched": "2026-07-29T08:14:11.451651+00:00"
+    },
+    {
+      "id": "5ac5ce613fe1da08",
+      "title": "Wow, have you seen the stock market lately?",
+      "link": "https://www.mrmoneymustache.com/2025/02/25/stock-market-ai-boom-2025/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "And by lately, I mean the past several years or more. The value of the S P 500 index of stocks, where most of us hopefully have a good chunk of our retirement savings stashed into index funds, is up about fifty seven percent in just the past two years. And it has more than doubled [ ]",
+      "published": "2025-02-25T14:47:42+00:00",
+      "fetched": "2026-08-29T20:02:58.348331+00:00"
+    },
+    {
+      "id": "9e6c6624cdb797e8",
+      "title": "Retired Man Tries to Spend More Money, Mostly Fails",
+      "link": "https://www.mrmoneymustache.com/2025/01/16/mmm-2024-spending/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "A couple of years ago, Mr. Money Mustache lost some credibility among the faithful when he wrote this blog post about actually trying to spend a bit more money, while buying a Tesla as the first step in that program. “Look at me!”, I thought to myself at the time, “I’m such an enlightened middle-aged [ ]",
+      "published": "2025-01-16T22:07:21+00:00",
+      "fetched": "2026-08-29T20:02:58.348377+00:00"
+    },
+    {
+      "id": "2041e7ceb111360c",
+      "title": "Six Dumb Misconceptions About The Economy (that the Politicians Want You To Believe)",
+      "link": "https://www.mrmoneymustache.com/2024/10/13/economics-vs-politics/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "Well, it looks like we’re here in another US election year already. As Advanced Mustachians, we already know that the ongoing battle of Harris vs. Trump should not be consuming much of our time.",
+      "published": "2024-10-13T20:37:49+00:00",
+      "fetched": "2026-08-29T20:02:58.348424+00:00"
+    },
+    {
+      "id": "1046a901dd9068f1",
+      "title": "$656,000 of Frugal Things I Still Love Doing",
+      "link": "https://www.mrmoneymustache.com/2024/07/23/656000-of-frugal-things-i-still-love-doing/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "“I used to read Mr. Money Mustache”, some people say these days, “Until he got all rich and fancy so that he no longer understands the common person’s plight. Stash probably doesn’t even practice any of these money-saving things he preaches any more!” When I read things like this, I can’t help but laugh.",
+      "published": "2024-07-24T02:33:08+00:00",
+      "fetched": "2026-08-29T20:02:58.348471+00:00"
+    },
+    {
+      "id": "38f2e20d385c519b",
+      "title": "The Ultimate Life Coach",
+      "link": "https://www.mrmoneymustache.com/2024/05/18/the-ultimate-life-coach/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "Almost nineteen years into early retirement now, I’ve come to realize that the complete freedom of this lifestyle can be a double-edged sword. You’ve already heard me raving plenty about the upside: having the freedom to raise a son from the day he was born to beyond his eighteenth birthday with no compromises. And then [ ]",
+      "published": "2024-05-18T23:54:52+00:00",
+      "fetched": "2026-08-29T20:02:58.348515+00:00"
+    },
+    {
+      "id": "11d07378231288d9",
+      "title": "How To Afford a House These Days",
+      "link": "https://www.mrmoneymustache.com/2024/02/03/how-to-afford-a-house/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "The other day, an MMM reader stopped by and left the following comment on one of my older posts about the principles of FIRE: As with every critique of our ideas, I thought about this comment for a while. Tried to determine if there were any Principles of Mustachianism that were genuinely going obsolete, versus [ ]",
+      "published": "2024-02-03T21:25:51+00:00",
+      "fetched": "2026-08-29T20:02:58.348555+00:00"
+    },
+    {
+      "id": "804e2250b6889a4d",
+      "title": "The Arizona Experiment!",
+      "link": "https://www.mrmoneymustache.com/2023/11/02/moving-to-culdesac/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "The thing that drew me to early retirement is freedom, and that’s still the best part of it. Back in 2005, the primary reason for this freedom-seeking was being able to devote my best hours to being a Dad I had a feeling my career in tech would be too demanding to sustain once [ ]",
+      "published": "2023-11-02T19:35:34+00:00",
+      "fetched": "2026-08-29T20:02:58.348596+00:00"
+    },
+    {
+      "id": "4a42920ab070b124",
+      "title": "What to Do About These High Interest Rates",
+      "link": "https://www.mrmoneymustache.com/2023/09/04/interest-rates/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "Whoa, have you seen what just happened to interest rates!? Suddenly, after at least fourteen years of our financial world being mostly the same, somebody flipped over the table and now things are quite different. Interest rates, which have been gliding along at close to zero since before the Dawn of Mustachianism in 2011, have [ ]",
+      "published": "2023-09-04T20:46:18+00:00",
+      "fetched": "2026-08-29T20:02:58.348636+00:00"
+    },
+    {
+      "id": "14226322c2a7e504",
+      "title": "The Comfort Crisis",
+      "link": "https://www.mrmoneymustache.com/2023/07/23/the-comfort-crisis/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "As with many things in life these days, it all started with an episode of the Peter Attia podcast. In this edition, our nation’s most Badass Doctor was interviewing a guest I initially dismissed as not overly applicable to my own lifestyle. A young,excessively handsome dude who happened to be a writer with a new [ ]",
+      "published": "2023-07-23T19:43:12+00:00",
+      "fetched": "2026-08-29T20:02:58.348677+00:00"
+    },
+    {
+      "id": "ad00154bdf241db2",
+      "title": "Frugal Man Buys $52,000 Car – Why??",
+      "link": "https://www.mrmoneymustache.com/2023/04/27/why-buy-model-y/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "As I type this, I’m jumping through the various hoops involved in buying a 2023 Tesla Model Y, a rather expensive, luxury “crossover” that is absolutely loaded to the gills with excess: all wheel drive, faster acceleration than a Lamborghini, enough space for seven people and enough computer gadgetry to function as a small Google [ ]",
+      "published": "2023-04-27T19:55:33+00:00",
+      "fetched": "2026-08-29T20:02:58.348719+00:00"
+    },
+    {
+      "id": "aacdd7def513dc27",
+      "title": "Less Cars, More Money: My Visit to the City of the Future",
+      "link": "https://www.mrmoneymustache.com/2023/04/07/car-free-cities/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "In my role as Mr. Money Mustache, I do my best to be your one-stop-shop for Lifestyle Guru ideas. So over the years we’ve covered not just the Money side of life, but also the even more important stuff like health and fitness and the psychology of better, happier living.",
+      "published": "2023-04-07T18:13:37+00:00",
+      "fetched": "2026-08-29T20:02:58.348763+00:00"
+    },
+    {
+      "id": "388e55e20cb4d393",
+      "title": "How to Build a Kitchen (and Why)",
+      "link": "https://www.mrmoneymustache.com/2023/02/26/how-to-build-a-kitchen/",
+      "source": "Mr. Money Mustache",
+      "category": "wealth-building",
+      "summary": "Well, looks like it has happened again. Since the last time we spoke, I got sucked into building my 17th(?) kitchen, and I have finally emerged from its messy yet addictive grasp as I stand here at the new breakfast bar, typing this report to you. Why am I so hooked on this strange pastime?",
+      "published": "2023-02-26T16:35:51+00:00",
+      "fetched": "2026-08-29T20:02:58.348802+00:00"
     },
     {
       "id": "249ca1a3c0e600c7",

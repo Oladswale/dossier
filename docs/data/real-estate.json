@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-29T15:48:21.706259+00:00",
+  "updated": "2026-08-29T20:03:14.048391+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2fe65fdd4056a0df",
+      "title": "Colonial-Era Virginia Farm Compound With Ties to George Washington Is Listed for $8.4 Million",
+      "link": "https://www.realtor.com/news/unique-homes/virginia-wheatland-farm-george-washington-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A historic Virginia farm where George Washington reportedly stayed during the Revolutionary War has been put on the market.",
+      "published": "2026-08-29T17:57:00+00:00",
+      "fetched": "2026-08-29T20:03:14.047816+00:00"
+    },
     {
       "id": "4aa2593b6e275e9a",
       "title": "Concrete Dome Home That Had Been Left To Rot Returns to the Market for $500K After Jaw-Dropping Renovation",
@@ -1492,16 +1502,6 @@
       "summary": "A record-strong super El Niño developing has changed the course of the Atlantic hurricane season, with homeowners impacted severely.",
       "published": "2026-08-20T15:35:06+00:00",
       "fetched": "2026-08-20T18:18:55.869477+00:00"
-    },
-    {
-      "id": "8fa1bb81bc0d3b15",
-      "title": "JPMorgan Makes a $750B Bet on the Housing Market",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-453",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "JPMorgan Chase, America’s largest bank, just made a big bet on housing—a $750B bet to be exact. At a time when most people hope home prices will fall, JPMorgan is [ ]",
-      "published": "2026-08-20T11:00:27+00:00",
-      "fetched": "2026-08-20T12:19:58.115184+00:00"
     }
   ]
 }

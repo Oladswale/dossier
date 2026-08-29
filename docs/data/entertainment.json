@@ -1,8 +1,88 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-29T15:48:19.443039+00:00",
+  "updated": "2026-08-29T20:03:11.803366+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9bb8b3783ac14a3f",
+      "title": "See Kacey Musgrave Cover Dolly Parton’s ‘Here You Come Again’ in Boston",
+      "link": "https://www.rollingstone.com/music/music-news/kacey-musgrave-dolly-parton-here-you-come-again-boston-1235617792/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Singer also dedicated \"Rainbow\" to the late country icon, revealing that Parton was the inspiration behind the song",
+      "published": "2026-08-29T19:55:25+00:00",
+      "fetched": "2026-08-29T20:03:11.612197+00:00"
+    },
+    {
+      "id": "c7bde4ff78c72d0e",
+      "title": "Venice Film Festival Jury Press Conference ‘Probably Not’ Happening Due to Scheduling, Will Replace Event With Welcome Cocktails for Journalists",
+      "link": "https://variety.com/2026/film/global/venice-film-festival-jury-press-conference-canceled-1236846620/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Venice Film Festival is weighing scrapping its traditional opening jury press conference on the Lido. The festival, which kicks off Sept. 2 with the world premiere of Danny Boyle s Ink, told Variety that the presser will probably not take place, citing a scheduling conflict, and said a welcome cocktail hour with the press will [ ]",
+      "published": "2026-08-29T19:48:58+00:00",
+      "fetched": "2026-08-29T20:03:11.471174+00:00"
+    },
+    {
+      "id": "0b42d1b61b3137bb",
+      "title": "Tom Cruise Confirms ‘Days of Thunder’ Sequel With Anne Hathaway",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/tom-cruise-confirms-days-of-thunder-sequel-anne-hathaway-1235617788/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Follow-up to 1990 racing movie roars into theaters in summer 2028",
+      "published": "2026-08-29T18:33:17+00:00",
+      "fetched": "2026-08-29T20:03:11.612254+00:00"
+    },
+    {
+      "id": "b68af1b81fbb9538",
+      "title": "Ray Winstone Told Off a Director Who Was ‘Groping’ His Female Co-Star During Filming: ‘Don’t You Dare Do That’",
+      "link": "https://variety.com/2026/tv/news/ray-winstone-told-off-director-groping-female-co-star-1236846594/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ray Winstone recently recalled to The Times of London that he once told off an unnamed director after he saw them “groping” his female co-star. “I had this director once,” Winstone said. “I was in a scene where I had to pick up this girl, and the director wanted to show me what to do.",
+      "published": "2026-08-29T18:14:22+00:00",
+      "fetched": "2026-08-29T20:03:11.471257+00:00"
+    },
+    {
+      "id": "f3073396f2634672",
+      "title": "‘New Girl’ Reunion Is Not Happening: ‘There Are No Scripts,’ Says Creator Liz Meriwether",
+      "link": "https://variety.com/2026/tv/columns/new-girl-reunion-not-happening-no-scripts-liz-meriwether-britney-spears-1236846563/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“New Girl” isn’t coming back anytime soon. Despite recent claims by Max Greenfield, who played Schmidt on the hit Fox sitcom, that he has read “amazing” scripts for a reunion, show creator Liz Meriwether insists, “There are no scripts.” I caught up with Meriwether at the Season 1 finale screening of her latest hit series [ ]",
+      "published": "2026-08-29T17:45:10+00:00",
+      "fetched": "2026-08-29T20:03:11.471314+00:00"
+    },
+    {
+      "id": "812bc1eb8a81833a",
+      "title": "Anne Hathaway Joins Tom Cruise in ‘Days of Thunder’ Follow-Up; Paramount Sets Release Date (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/anne-hathaway-tom-cruise-days-of-thunder-sequel-1236839347/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Anne Hathaway will star opposite Tom Cruise in the next chapter of “Days of Thunder,” Variety has learned exclusively. Paramount Pictures has dated the feature film sequel for June 2, 2028, when Cruise and Hathaway will hit the road almost 40 years after the original Tony Scott film was released. The project will be shot [ ]",
+      "published": "2026-08-29T16:58:07+00:00",
+      "fetched": "2026-08-29T20:03:11.471365+00:00"
+    },
+    {
+      "id": "1bc0c0c91bb86ee2",
+      "title": "Box Office: ‘The Dog Stars’ Struggles With Just $3 Million on Friday; ‘Spider-Man: Brand New Day’ to Win Weekend Again",
+      "link": "https://variety.com/2026/film/news/box-office-the-dog-stars-spider-man-brand-new-day-1236846559/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "20th Century’s “The Dog Stars” and Keylight Pictures’ “Coyote vs. Acme” both debuted in theaters on Friday, but Sony and Marvel’s “Spider-Man: Brand New Day” will once again win the weekend. “Coyote vs.",
+      "published": "2026-08-29T16:20:00+00:00",
+      "fetched": "2026-08-29T20:03:11.471420+00:00"
+    },
+    {
+      "id": "e4abf37aab69a9ef",
+      "title": "See Ella Langley Pay Tribute to Dolly Parton With ‘Jolene’ Cover at Alabama Concert",
+      "link": "https://www.rollingstone.com/music/music-country/ella-langley-dolly-parton-tribute-jolene-cover-alabama-1235617771/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"Tonight’s show didn’t feel right without doing something like this,\" singer says before her rendition of Dolly's 1974 hit",
+      "published": "2026-08-29T15:59:09+00:00",
+      "fetched": "2026-08-29T20:03:11.612292+00:00"
+    },
     {
       "id": "c27e59f2a1845fe8",
       "title": "Here’s How to Watch Moses Itauma vs. Filip Hrgovic Boxing Pay-Per-View Live Online",
@@ -1422,86 +1502,6 @@
       "summary": "GameSquare is rebranding its gaming and esports-focused livestreaming measurement platform Stream Hatchet into Hatchet, which it describes as “the first full-service creator matching and brand marketing analytics platform built for marketers looking to engage in youth culture with an emphasis on gaming.” As part of the revamp, Hatchet, which counts Electronic Arts and NASCAR among [ ]",
       "published": "2026-08-26T11:30:00+00:00",
       "fetched": "2026-08-26T12:22:28.897952+00:00"
-    },
-    {
-      "id": "d7ea4be4ebd1a859",
-      "title": "COL Group, CP Group Strike 360-Degree Partnership to Grow Thailand’s Short-Form Drama Industry",
-      "link": "https://variety.com/2026/tv/news/col-group-cp-group-partnership-thailand-short-form-drama-1236842870/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "COL Group and CP Group are teaming on a partnership aimed at building up Thailand s short-form drama business, linking creative training, local content production and distribution under a single initiative. The deal centers on a talent incubation program the two firms will run jointly with an academic institution in Thailand, aimed at connecting new creative [ ]",
-      "published": "2026-08-26T11:00:00+00:00",
-      "fetched": "2026-08-26T12:22:28.898002+00:00"
-    },
-    {
-      "id": "6a35414ca63db6d5",
-      "title": "‘Alice and Steve’ Renewed for Season 2 at Disney+ and Hulu",
-      "link": "https://variety.com/2026/tv/global/alice-and-steve-renewed-season-2-disney-hulu-1236843670/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Alice and Steve has been picked up for a second season at Disney+ and Hulu. The comedy — which airs on Disney+ in the U.K. and Ireland and on Disney+ and Hulu in the U.S.",
-      "published": "2026-08-26T10:46:43+00:00",
-      "fetched": "2026-08-26T12:22:28.898052+00:00"
-    },
-    {
-      "id": "bc5d9ba95b133e70",
-      "title": "Mandy Patinkin Named First Honorary Team Captain of USA Fencing",
-      "link": "https://variety.com/2026/sports/news/mandy-patinkin-usa-fencing-princess-bride-team-captain-1236841653/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Inigo Montoya isn’t putting down his sword just yet. Almost 40 years after Mandy Patinkin expertly parried and jousted his way to defeating the six-fingered man in the beloved 1987 film “The Princess Bride,” the actor is returning to the world of foils and sabers after being tapped to serve as USA Fencing’s first-ever honorary [ ]",
-      "published": "2026-08-26T10:01:00+00:00",
-      "fetched": "2026-08-26T12:22:28.898115+00:00"
-    },
-    {
-      "id": "f3d4f9d14758e5be",
-      "title": "‘Under Salt Marsh’ Renewed for Season 2 With Rafe Spall Returning",
-      "link": "https://variety.com/2026/tv/global/under-salt-marsh-renewed-season-2-rafe-spall-returning-1236843637/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Under Salt Marsh is returning for a second season at Sky. The crime drama has been greenlit for an as-yet-untitled second chapter with Rafe Spall reprising his role as Detective Eric Bull, Sky announced on Wednesday. The six-episode season will pick up as Detective Bull moves to a remote Scottish mining village sinking under the [ ]",
-      "published": "2026-08-26T09:51:34+00:00",
-      "fetched": "2026-08-26T12:22:28.898160+00:00"
-    },
-    {
-      "id": "8fab5f43fa34f5bd",
-      "title": "Italy’s RAI Cinema International Boards Edoardo De Angelis’ ‘The Fire Within You’ Ahead of Venice Launch, Reveals First Clip (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/festivals/rai-cinema-international-edoardo-de-angelis-fire-within-you-1236842662/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "RAI Cinema International Distribution has acquired world rights to Italian director Edoardo De Angelis dark tragicomedy The Fire Within You ahead of its Venice competition launch. De Angelis, a native Neapolitan, broke out on the festival circuit at Venice in 2016 with the Naples-set conjoined twins drama Indivisible and subsequently opened the festival in 2023 with [ ]",
-      "published": "2026-08-26T09:11:20+00:00",
-      "fetched": "2026-08-26T12:22:28.898210+00:00"
-    },
-    {
-      "id": "b89ad8ef7a270740",
-      "title": "Stephen Colbert Urges Emmy Voters to Back Jimmy Kimmel: ‘Look How Cute He Is!’",
-      "link": "https://variety.com/2026/tv/news/stephen-colbert-endorses-jimmy-kimmel-emmys-race-1236843615/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With Emmy voting drawing to a close, Stephen Colbert has thrown his support behind Jimmy Kimmel in the newly revamped outstanding cariety series race, even though Colbert’s own late-night show is competing in the same category. In a video posted on social media, a bearded Colbert appears sitting outdoors on a windswept coastline with a [ ]",
-      "published": "2026-08-26T08:52:41+00:00",
-      "fetched": "2026-08-26T12:22:28.898258+00:00"
-    },
-    {
-      "id": "28fd84e50c521c0f",
-      "title": "‘Tall Tales & Murder’ First Look: Ella Lily Hyland and Aidan Gillen Star in Wild Comedic Crime Drama From ‘Veep’ Director and ‘Love/Hate’ Creator (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/tall-tales-murder-first-look-ella-lily-hyland-aidan-gillen-1236843597/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The BBC has lifted the chaotic lid on Tall Tales and Murder, its upcoming dark comedic drama from Love/Hate creator Stuart Carolan and co-created with Emmy and DGA award winning Veep director Chris Addison. First announced last year and shot in Ireland, the wild-sounding six-part series mixes what the synopsis describes as a Bonnie and [ ]",
-      "published": "2026-08-26T08:34:35+00:00",
-      "fetched": "2026-08-26T12:22:28.898305+00:00"
-    },
-    {
-      "id": "6b595055555c224e",
-      "title": "Korea’s DRX Signs Strategic Partnership With Indonesia’s Nuon to Expand Gaming and Entertainment Ties (EXCLUSIVE)",
-      "link": "https://variety.com/2026/gaming/news/drx-nuon-indonesia-korea-partnership-1236843595/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Korea s DRX Corp. and PT Nuon Digital Indonesia signed a strategic partnership in Jakarta to expand gaming and entertainment ties between Indonesia and Korea, starting with an entertainment festival called DRX Homefront Indonesia and a joint game publishing initiative between the two countries. The agreement pairs DRX s esports, content production and fan engagement experience with [ ]",
-      "published": "2026-08-26T08:09:54+00:00",
-      "fetched": "2026-08-26T12:22:28.898349+00:00"
     }
   ]
 }
