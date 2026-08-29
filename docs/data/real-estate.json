@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-29T11:50:21.616707+00:00",
+  "updated": "2026-08-29T15:48:21.706259+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4aa2593b6e275e9a",
+      "title": "Concrete Dome Home That Had Been Left To Rot Returns to the Market for $500K After Jaw-Dropping Renovation",
+      "link": "https://www.realtor.com/news/unique-homes/michigan-concrete-dome-house-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property built in 1979 last changed hands in 2023 for just $87,000. Then a stunning renovation transformed the unique home.",
+      "published": "2026-08-29T14:29:00+00:00",
+      "fetched": "2026-08-29T15:48:21.705618+00:00"
+    },
+    {
+      "id": "d5b6c6441baf650b",
+      "title": "Masterplanned Florida Development Features 170-Acre Community Farm and Nature Preserve",
+      "link": "https://www.realtor.com/news/trends/newfield-florida-palm-city-development-farm-nature/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Newfield, a new masterplanned community in Palm City, FL, will consist of nine villages spanning 3,411 acres.",
+      "published": "2026-08-29T13:01:00+00:00",
+      "fetched": "2026-08-29T15:48:21.705655+00:00"
+    },
     {
       "id": "dcee1975e3d5fa75",
       "title": "Texas Is Opening the Door to Cheaper Homes. Some Cities Are Barely Cracking It.",
@@ -1482,26 +1502,6 @@
       "summary": "JPMorgan Chase, America’s largest bank, just made a big bet on housing—a $750B bet to be exact. At a time when most people hope home prices will fall, JPMorgan is [ ]",
       "published": "2026-08-20T11:00:27+00:00",
       "fetched": "2026-08-20T12:19:58.115184+00:00"
-    },
-    {
-      "id": "8b1a176918437b5e",
-      "title": "Florida’s ‘High-Beta’ Housing Market May Be Poised for a Rebound",
-      "link": "https://www.realtor.com/news/trends/florida-housing-market-rebound-luxury-sales-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Though high interest rates and strained affordability dominate the housing headlines, the Sunshine State could lead the market's rebound.",
-      "published": "2026-08-20T09:00:00+00:00",
-      "fetched": "2026-08-20T12:19:58.393863+00:00"
-    },
-    {
-      "id": "2b9ab2d558ac98a3",
-      "title": "Tale of Two Paradises: What $1 Million Buys in the Florida Keys vs. San Diego",
-      "link": "https://www.realtor.com/news/trends/key-west-san-diego-luxury-market-million-dollar-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The coastal paradises of San Diego and the Florida Keys, nestled on opposite shores, tell different stories.",
-      "published": "2026-08-20T08:43:00+00:00",
-      "fetched": "2026-08-20T12:19:58.393900+00:00"
     }
   ]
 }
