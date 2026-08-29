@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-28T17:45:50.863389+00:00",
+  "updated": "2026-08-29T01:12:52.519518+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "770294e9a96eccec",
+      "title": "EXCLUSIVE: Chris Evans Sells L.A. Home for Over $1 Million Below Asking Price as He Leaves California for Good",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/chris-evans-sells-los-angeles-home-1-million-below-asking-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 45-year-old actor first put the dwelling on the market for $6.99 million in May 2025. The home entered the contingency phase last week.",
+      "published": "2026-08-28T22:47:42+00:00",
+      "fetched": "2026-08-29T01:12:52.518963+00:00"
+    },
+    {
+      "id": "ebe065d057e906ad",
+      "title": "Trump Administration Pursues Plan to Give Slice of Yosemite to Private Developer",
+      "link": "https://www.realtor.com/news/real-estate-news/trump-yosemite-private-developer-land/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The proposal could let a developer swap land elsewhere in California. In exchange, they reportedly want a road to their land.",
+      "published": "2026-08-28T21:38:33+00:00",
+      "fetched": "2026-08-29T01:12:52.518988+00:00"
+    },
+    {
+      "id": "0acdb3dd2e1ea0ec",
+      "title": "Hugh Jackman Wants To Pay Your Rent—Even as His Own $29 Million Apartment Lingers on the Market",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/hugh-jackman-pay-rent-bilt-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 57-year-old \"Wolverine\" star is taking part in a collaboration with Bilt to offer its members free rent for a month.",
+      "published": "2026-08-28T20:49:36+00:00",
+      "fetched": "2026-08-29T01:12:52.519009+00:00"
+    },
+    {
+      "id": "83e43a80a7348899",
+      "title": "Miami Sheriff Says ‘Brazen’ Criminal Ring Scammed HOAs out of $5.8 Million",
+      "link": "https://www.realtor.com/news/real-estate-news/miami-hoa-fraud-scam-juan-awais-arrest/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Juan Awais and five accomplices were charged with money laundering, organized fraud, and a host of other charges.",
+      "published": "2026-08-28T20:42:23+00:00",
+      "fetched": "2026-08-29T01:12:52.519027+00:00"
+    },
+    {
+      "id": "aede727ef7c9c5ce",
+      "title": "Tiny-Home Developer Faces $5 Million Lawsuit Alleging His ‘Zombie HOAs’ Are Mismanaging Funds",
+      "link": "https://www.realtor.com/news/trends/tennessee-developer-chip-hayes-tiny-home-lawsuit/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Residents of the Retreat at Sunset Bluff are suing developer Chip Hayes for control of their HOA.",
+      "published": "2026-08-28T20:27:15+00:00",
+      "fetched": "2026-08-29T01:12:52.519045+00:00"
+    },
+    {
+      "id": "1a3cfa278b1d6a8e",
+      "title": "Guitar Legend Les Paul’s Family Left Devastated After His Historic $990K New Jersey Home Was Demolished by Developers",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/les-paul-musician-new-jersey-home-demolished/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Mahwah home, once the setting for a reality show and musical recordings, had fallen into disrepair since Les Paul's death in 2009.",
+      "published": "2026-08-28T20:25:16+00:00",
+      "fetched": "2026-08-29T01:12:52.519065+00:00"
+    },
+    {
+      "id": "7d2225c044110009",
+      "title": "‘We Bought a Foreclosure in Florida Discounted by Over $220,000—Then Came the Renovations’",
+      "link": "https://www.realtor.com/news/first-person/foreclosure-in-florida-discount-vs-renovation-costs/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "“We got a great house at a great price and the chance to completely make it our own,” he says. He could see it being their forever home.",
+      "published": "2026-08-28T19:01:19+00:00",
+      "fetched": "2026-08-29T01:12:52.519087+00:00"
+    },
+    {
+      "id": "d5b958f914d4f7d2",
+      "title": "Dorit and PK Kemsley Are ‘Ordered To Sell’ Their $7 Million Encino Home Amid ‘Financial Crisis’ and Foreclosure Threat",
+      "link": "https://www.realtor.com/news/reality-tv/dorit-pk-kemsley-mansion-sale-judge-foreclosure-money/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The couple is in the midst of a contentious divorce that has been exacerbated by monetary woes—and the threat of foreclosure.",
+      "published": "2026-08-28T18:18:58+00:00",
+      "fetched": "2026-08-29T01:12:52.519108+00:00"
+    },
+    {
+      "id": "1d03f657c5688994",
+      "title": "Kristin Cavallari Proudly Shows Off Results of 2-Year Renovation at the 130-Acre Nashville Estate Where She Lives With Her Kids",
+      "link": "https://www.realtor.com/news/reality-tv/kristin-cavallari-nashville-tennessee-home-kids-renovation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The reality TV veteran has turned her sprawling Tennessee estate into a true retreat for both herself and her children.",
+      "published": "2026-08-28T18:08:44+00:00",
+      "fetched": "2026-08-29T01:12:52.519125+00:00"
+    },
     {
       "id": "8284969c76d9aaaa",
       "title": "Tracking Tropical Storm Dolly: Where It Will Hit and Which Homeowners Should Prepare",
@@ -1412,96 +1502,6 @@
       "summary": "Harris, 42, purchased the six-bedroom abode in 2021, the same year he made his final appearance as a main cast member on the hit Bravo show.",
       "published": "2026-08-20T08:17:00+00:00",
       "fetched": "2026-08-20T12:19:58.393960+00:00"
-    },
-    {
-      "id": "1047931fcd5e780a",
-      "title": "Share of ‘Equity-Rich’ Homeowners Drops to Lowest in 5 Years as Underwater Mortgages Rise",
-      "link": "https://www.realtor.com/news/trends/homeowner-equity-underwater-mortgages-attom-q2-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Homeowners who purchased homes with little or no money down are now struggling to stay above water.",
-      "published": "2026-08-20T04:01:00+00:00",
-      "fetched": "2026-08-20T06:21:48.779061+00:00"
-    },
-    {
-      "id": "7c2df2830c4216fb",
-      "title": "Alix Earle Offers Glimpse Inside Her Family’s $4.1 Million New Jersey Mansion in Drama-Filled Trailer for Netflix Reality Show",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/alix-earle-netflix-trailer-new-jersey-home-family-drama/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The influencer, who rose to fame by documenting the details of her life online, is pulling back the curtain even further in her new show.",
-      "published": "2026-08-19T23:03:30+00:00",
-      "fetched": "2026-08-20T00:28:01.154767+00:00"
-    },
-    {
-      "id": "e1f759d624b03305",
-      "title": "Prince Harry and Meghan Markle Will ‘Move Back to the U.K. With Their Kids’ This Month—but Will Keep Their $14.65 Million Montecito Mansion",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-kids-move-uk-england-california/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Harry and Meghan are said to have already enrolled their kids at a school in the U.K.—but have no plans to sell their Montecito home.",
-      "published": "2026-08-19T21:55:48+00:00",
-      "fetched": "2026-08-20T00:28:01.154810+00:00"
-    },
-    {
-      "id": "bd9de297cdf557d1",
-      "title": "Novak Djokovic Praises Wife Jelena for Raising the Kids at Home While He Travels the World—as He Lays Bare ‘Pain’ of Leaving His Family",
-      "link": "https://www.realtor.com/news/sports/novak-djokovic-wife-jelena-kids-home-work/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 39-year-old tennis star credits wife Jelena for \"keeping the household together\" and caring for their children amid his busy travels.",
-      "published": "2026-08-19T21:29:52+00:00",
-      "fetched": "2026-08-20T00:28:01.154840+00:00"
-    },
-    {
-      "id": "441db9e86669dbc1",
-      "title": "5 Costly Moving Mistakes Real Estate Experts Warn Homeowners Against",
-      "link": "https://www.realtor.com/advice/move/mistakes-people-make-relocate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Are you relocating? Check out these missteps other people make so you can have the easiest of transitions.",
-      "published": "2026-08-19T19:46:00+00:00",
-      "fetched": "2026-08-20T00:28:01.154864+00:00"
-    },
-    {
-      "id": "e6981786e4c4b321",
-      "title": "Callum Turner Reveals He Wants To ‘Have a Family’ With Wife Dua Lipa—After Newlyweds Relocated to New York for His Latest Role",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/callum-turner-dua-lipa-marriage-kids-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Turner, 36, who tied the knot with Lipa, 30, in May, has admitted that they are already thinking about having kids.",
-      "published": "2026-08-19T19:41:44+00:00",
-      "fetched": "2026-08-20T00:28:01.154892+00:00"
-    },
-    {
-      "id": "3f3f203ac0e8fe05",
-      "title": "8 Smart, Postmove Things You Should Do Before You Start Unpacking",
-      "link": "https://www.realtor.com/advice/move/things-to-do-after-moving-in/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "You moved! Yay! But before you get too comfortable, make sure to do these things soon after moving into your new home to start things off on the right foot.",
-      "published": "2026-08-19T19:03:00+00:00",
-      "fetched": "2026-08-20T00:28:01.154919+00:00"
-    },
-    {
-      "id": "4035113aa828d516",
-      "title": "Fed Officials See Interest Rate Hike as ‘Necessary’ If Inflation Doesn’t Ease Soon",
-      "link": "https://www.realtor.com/news/real-estate-news/fed-meeting-minutes-fomc-july-2026-interest-rate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Federal Reserve policymakers see an interest rate hike as likely if inflation does not ease in the coming months.",
-      "published": "2026-08-19T18:41:53+00:00",
-      "fetched": "2026-08-20T00:28:01.154943+00:00"
-    },
-    {
-      "id": "c24ada73211cc6ac",
-      "title": "The Landlord’s Roadmap to Successfully Scaling From One Rental to Multiple (Without Hiring)",
-      "link": "https://www.biggerpockets.com/blog/the-landlords-roadmap-to-successfully-scaling-from-one-rental-to-multiple-without-hiring",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This article is presented by Avail. It s common to want more than one rental property. You close on the first one; it cash flows a couple hundred dollars a month [ ]",
-      "published": "2026-08-19T18:37:09+00:00",
-      "fetched": "2026-08-20T00:28:00.737931+00:00"
     }
   ]
 }

@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-28T17:45:50.181423+00:00",
+  "updated": "2026-08-29T01:12:51.874190+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8a2a1d548bce59d5",
+      "title": "How an MIT graduate student helped a team of young scientists test their experiment at CERN",
+      "link": "https://news.mit.edu/2026/how-mit-grad-student-helped-young-scientists-test-their-experiment-cern-0828",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Physics PhD student Manu Srivastava helped high school students in India develop a test that could contribute to one of the world’s largest neutrino experiments.",
+      "published": "2026-08-28T20:35:00+00:00",
+      "fetched": "2026-08-29T01:12:50.726532+00:00"
+    },
+    {
+      "id": "36dd3a15d0a0bb3f",
+      "title": "How MIT Sandbox has turned student ideas into $8.7 billion in global impact",
+      "link": "https://news.mit.edu/2026/how-mit-sandbox-turned-student-ideas-into-global-impact-0828",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Through a decade of non-dilutive funding, hands-on mentorship, and a safe space to fail fast, the MIT Sandbox Innovation Fund Program has helped students translate curiosity into real-world impact.",
+      "published": "2026-08-28T20:15:00+00:00",
+      "fetched": "2026-08-29T01:12:50.726564+00:00"
+    },
     {
       "id": "114d57e442514960",
       "title": "Why AI Companies Are Buying—And Then Destroying—Old Books",
@@ -1482,26 +1502,6 @@
       "summary": "MIT researchers developed a framework that folds a printer’s real-world limits into the optimization, while revealing that better hardware could sharply reduce material use.",
       "published": "2026-07-15T17:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.525073+00:00"
-    },
-    {
-      "id": "6b9a68b10e7ff530",
-      "title": "Electric fields help guide neural activity, even from moment to moment",
-      "link": "https://news.mit.edu/2026/electric-fields-help-guide-neural-activity-0715",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new study adds evidence that electric fields in the brain help to organize and shape underlying neural activity via “ephaptic coupling.”",
-      "published": "2026-07-15T16:25:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525127+00:00"
-    },
-    {
-      "id": "df5f181f62f28379",
-      "title": "Ketogenic diets may increase cancer risk in the small intestine",
-      "link": "https://news.mit.edu/2026/ketogenic-diets-may-increase-cancer-risk-small-intestine-0715",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers have found that a ketogenic high-fat, low-carbohydrate diet fuels the growth of intestinal tumors.",
-      "published": "2026-07-15T15:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525173+00:00"
     }
   ]
 }

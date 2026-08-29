@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-28T17:45:48.570385+00:00",
+  "updated": "2026-08-29T01:12:50.449308+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "96e2fcbe0cc68f8b",
+      "title": "Zak Starkey and the Who Have Kissed and Made Up, as Rehearsal Reunion Is Revealed",
+      "link": "https://variety.com/2026/music/news/zak-starkey-the-who-reconcile-rehearsal-1236846409/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Apparently the deep and much-talked-about rift between the Who and former (and future?) drummer Zak Starkey was not quite a hell-freezes-over situation after all. Starkey, who was famously revealed to have been unceremoniously handed his walking orders in April 2025, is now back with Roger Daltrey and Pete Townshend or at least he has [ ]",
+      "published": "2026-08-29T00:43:17+00:00",
+      "fetched": "2026-08-29T01:12:49.933746+00:00"
+    },
+    {
+      "id": "a3d1f8043a9d3d90",
+      "title": "California Lawmakers Settle on Partial Film Carveout From Tax Credit Cap",
+      "link": "https://variety.com/2026/film/news/california-partial-film-carveout-tax-credit-cap-1236845354/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "California lawmakers have agreed on a partial carveout for the film and TV industry from a state cap on tax credits. The bill, AB 186, was unveiled on Friday evening. It addresses concerns raised in June by the Motion Picture Association and a coalition of entertainment unions, who argued that the cap threatened to undermine [ ]",
+      "published": "2026-08-29T00:32:51+00:00",
+      "fetched": "2026-08-29T01:12:49.933779+00:00"
+    },
+    {
+      "id": "5267837028d0094a",
+      "title": "College Football Kickoff: Where to Watch North Carolina vs. TCU in the First Game of the Season",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-north-carolina-tcu-college-football-game-online-free-1235615770/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Taking place in Dublin, Ireland, here’s how you can tune into the NCAA matchup without paying a dime",
+      "published": "2026-08-29T00:00:00+00:00",
+      "fetched": "2026-08-29T01:12:50.171580+00:00"
+    },
+    {
+      "id": "76f24aee6a0820fc",
+      "title": "Nashville Airport Could Be Renamed for Dolly Parton, Tennessee Governor Announces",
+      "link": "https://variety.com/2026/music/news/nashville-airport-could-be-renamed-for-dolly-parton-1236846385/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Country music icon, actress and philanthropist Dolly Parton dedicated her life to giving back to her home state of Tennessee, and now, three days after her death, her state is ready to give back to her, renewing an earlier proposal to rename the Nashville International Airport in her honor. Tennessee Gov. Bill Lee and the [ ]",
+      "published": "2026-08-28T23:36:56+00:00",
+      "fetched": "2026-08-29T01:12:49.933808+00:00"
+    },
+    {
+      "id": "0dd2cbbf54df0cad",
+      "title": "What’s Coming to Disney+ in September 2026",
+      "link": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s officially fall at Disney+, which is entering the month of September with a lineup of beloved spooky classics and all things football. Coraline, ParaNorman and Jennifer s Body are among the titles kicking off the fall season on the streaming platform and Hulu, which will also see the season premieres of familiar favorites like Chad [ ]",
+      "published": "2026-08-28T23:20:00+00:00",
+      "fetched": "2026-08-29T01:12:49.933837+00:00"
+    },
+    {
+      "id": "19186a3f2236c05e",
+      "title": "Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album",
+      "link": "https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "A rep for Lefty confirmed to Rolling Stone that “Summer You Were Mine“ interpolates the Grammy-winning song after fans noticed similarities between the two tracks",
+      "published": "2026-08-28T22:53:29+00:00",
+      "fetched": "2026-08-29T01:12:50.171609+00:00"
+    },
+    {
+      "id": "e6fa795bd2c63079",
+      "title": "Where to Stream the 2026 Little League World Series for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/stream-little-league-world-series-2026-baseball-online-1235610289/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Four teams remain, with Curaçao facing Japan and the Mountain Region taking on the Great Lakes Region",
+      "published": "2026-08-28T22:49:55+00:00",
+      "fetched": "2026-08-29T01:12:50.171627+00:00"
+    },
+    {
+      "id": "50f75cd2cd4c4ceb",
+      "title": "No, Ice Spice Is Not Pregnant",
+      "link": "https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After the rapper appeared to be heavily pregnant in the video for \"Out My Face,\" fans took the imagery literally",
+      "published": "2026-08-28T22:49:53+00:00",
+      "fetched": "2026-08-29T01:12:50.171643+00:00"
+    },
+    {
+      "id": "2c312a52aef47d50",
+      "title": "Daniel Donato’s New Live Album Is a Jam Band Fan’s Dream",
+      "link": "https://www.rollingstone.com/music/music-features/daniel-donato-ryman-to-roberts-live-album-review-1235617485/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The guitar ace and his group Cosmic Country capture a pair of shows played the same night in 2025 in Nashville for the breathless three-hour-plus Ryman to Robert's",
+      "published": "2026-08-28T22:39:11+00:00",
+      "fetched": "2026-08-29T01:12:50.171663+00:00"
+    },
+    {
+      "id": "4c06b99a8864090c",
+      "title": "Lil Durk Murder-for-Hire Trial: Admitted Shooter Grilled on Cross, Confronted With Jail Calls",
+      "link": "https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Defense lawyer Brian Steel asserted that Kasey “OTF Jam” Hester invented claims against the “All My Life” rapper in the hopes of helping himself",
+      "published": "2026-08-28T22:19:49+00:00",
+      "fetched": "2026-08-29T01:12:50.171681+00:00"
+    },
+    {
+      "id": "64b6dc17c40d0654",
+      "title": "How to Watch the 2026 College Football Season",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-college-football-games-online-streaming-2026-1235616887/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The college football season kicks off with North Carolina and TCU facing off in Ireland",
+      "published": "2026-08-28T22:00:00+00:00",
+      "fetched": "2026-08-29T01:12:50.171696+00:00"
+    },
+    {
+      "id": "80a7851c6cb0b500",
+      "title": "Everything We Know About ‘Grand Theft Auto VI’",
+      "link": "https://variety.com/2026/gaming/news/gta-6-release-details-1236846230/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "More than a decade after the last installment of “Grand Theft Auto” released, players are finally getting GTA 6 on Nov. 19. Per the official description for “GTA 6” from publisher Rockstar Games, “Jason and Lucia have always known the deck is stacked against them.",
+      "published": "2026-08-28T21:24:13+00:00",
+      "fetched": "2026-08-29T01:12:49.933871+00:00"
+    },
+    {
+      "id": "6c8f40fc33624a32",
+      "title": "Hooters Restaurant Movie in the Works — Film News in Brief",
+      "link": "https://variety.com/2026/film/news/film-news-in-brief-aug-24-2026-1236841619/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "First the Blackberry and Hot Cheetos got the feature film treatment, and now: “Hooters: The Movie.” Based on real-life events that took place at the restaurant, the founders of Hooters are turning their business into a movie, which is already in the works, first reported by Deadline. The official description for the film reads: “Ted [ ]",
+      "published": "2026-08-28T21:20:30+00:00",
+      "fetched": "2026-08-29T01:12:49.933901+00:00"
+    },
+    {
+      "id": "897e03ef9900206f",
+      "title": "LISTEN: Holywater Tech Chief Bogdan Nesvit on the Explosive Growth of Microdramas: ‘Studios and Creators are Knocking on Our Doors’",
+      "link": "https://variety.com/2026/tv/news/holywater-tech-bogdan-nesvit-microdrama-my-drama-my-muse-1236846046/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On today s episode of Variety s Strictly Business, Bogdan Nesvit, co-CEO and co-founder of Holywater Tech, details the explosive growth of the company’s My Drama and My Muse apps, and he details what he sees as the key to making vertical media more mainstream. “Studios and creators are knocking on our doors right now,” Nesvit says. [ ]",
+      "published": "2026-08-28T21:11:20+00:00",
+      "fetched": "2026-08-29T01:12:49.933935+00:00"
+    },
+    {
+      "id": "0bebf13f9b90b8ca",
+      "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Raises $10 Million for Women and Girls Nonprofits",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Proceeds from the festival will benefit organizations including National Domestic Workers Alliance, Planned Parenthood, National Institute for Reproductive Health, and more",
+      "published": "2026-08-28T21:03:33+00:00",
+      "fetched": "2026-08-29T01:12:50.171714+00:00"
+    },
+    {
+      "id": "ab304c941a320abc",
+      "title": "The Best College Student Discounts For Back-to-School",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-student-discounts-back-to-school-college-1235072787/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Once verified, students can start saving on everything from laptops and software to fashion and food delivery",
+      "published": "2026-08-28T21:02:28+00:00",
+      "fetched": "2026-08-29T01:12:50.171728+00:00"
+    },
+    {
+      "id": "8fedcc86423194aa",
+      "title": "Gladys Knight Cuts Back on Performing as She Transitions to ‘Next Stage’ of Career and Life",
+      "link": "https://variety.com/2026/music/news/gladys-knight-steps-back-performing-1236846273/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After three quarters of a century under the spotlight, Gladys Knight is ready to take things a little slower. Knight announced on Instagram on Thursday that she will be performing less, and will focus on other areas. The official statement reads: “After much soul searching I’ve decided that I will be easing into fewer performances [ ]",
+      "published": "2026-08-28T20:52:59+00:00",
+      "fetched": "2026-08-29T01:12:49.933966+00:00"
+    },
+    {
+      "id": "a32d42233cdbd148",
+      "title": "What’s New on Netflix in September 2026",
+      "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Whether you re looking to settle into September with cozy classics or start a new series, Netflix has a long list of titles joining or returning to the streamer this fall. The long-awaited “Earle Meets World” is available Sept. 4.",
+      "published": "2026-08-28T18:35:00+00:00",
+      "fetched": "2026-08-29T01:12:49.933996+00:00"
+    },
+    {
+      "id": "ccfef6b39ee440ac",
+      "title": "Disney+, Pokemon Company Ink Global Distribution Deal, Including New Stop-Motion Series",
+      "link": "https://variety.com/2026/tv/news/new-pokemon-stop-motion-series-disney-plus-deal-1236846186/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney+ has set a global distribution deal with the Pokémon Company International that will include a new stop-motion series coming in 2027. The announcement comes on the heels of “Pokémon the Series: The Beginning beginning to air on Disney XD earlier this month, marking it as the first title to launch under the new global [ ]",
+      "published": "2026-08-28T18:19:03+00:00",
+      "fetched": "2026-08-29T01:12:49.934024+00:00"
+    },
+    {
+      "id": "d9c36c683fce82c7",
+      "title": "Miguel Calls Out Harassment of Partner and Child: ‘Legal and Ethical Lines Have Been Crossed’",
+      "link": "https://www.rollingstone.com/music/music-news/miguel-calls-out-online-harassment-1235617426/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“Racism, threats, harassment, stalking, invasions of privacy, and targeting of children are abuse. Not opinion,” the singer-songwriter wrote in a lengthy Instagram post",
+      "published": "2026-08-28T18:10:49+00:00",
+      "fetched": "2026-08-29T01:12:50.171749+00:00"
+    },
     {
       "id": "38b6d7a780845789",
       "title": "Tiny Habits Against the World",
@@ -1302,206 +1502,6 @@
       "summary": "From custom hot sauce kits to Shrek crystals, these are the best presents to give your partner",
       "published": "2026-08-26T00:21:55+00:00",
       "fetched": "2026-08-26T00:30:16.011395+00:00"
-    },
-    {
-      "id": "f005049f4645ad89",
-      "title": "Brandi Carlile on Dolly Parton: ‘She Took a Risk and Accepted Me for Being Gay’",
-      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-death-brandi-carlile-tribute-1235615458/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Carlile, who shared the stage with Parton at the 2019 Newport Folk Festival, remembers the country music songwriter, who died Aug. 25 at 80",
-      "published": "2026-08-26T00:17:20+00:00",
-      "fetched": "2026-08-26T00:30:16.011427+00:00"
-    },
-    {
-      "id": "7e46321fdc40ccb8",
-      "title": "Luis Castro, Trish Reilly and Barry Wilkinson Named 2026 MacGuffin Award Honorees",
-      "link": "https://variety.com/2026/artisans/news/property-masters-guild-macguffin-award-honorees-1236841984/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Luis Castro, Trish Reilly and Barry Wilkinson will be honored at the third annual MacGuffin Awards. The Property Masters Guild aims to highlight and elevate the craft of the Property Master by raising awareness, fostering collaboration among craft artisans, educating its members and inspiring future generations of Property Masters. The honorees, recognized for their craftsmanship, [ ]",
-      "published": "2026-08-26T00:15:00+00:00",
-      "fetched": "2026-08-26T00:30:15.827061+00:00"
-    },
-    {
-      "id": "a5b8d79193df0e9a",
-      "title": "What Happens to Dolly Parton’s Pup, Who Inspired the Singer’s Series of Children’s Books?",
-      "link": "https://www.rollingstone.com/product-recommendations/books/dolly-parton-childrens-book-billy-the-kid-read-buy-online-1234725056/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Parton wrote three books following her French bulldog Billy as he pursued doggy dreams of country music stardom",
-      "published": "2026-08-26T00:15:00+00:00",
-      "fetched": "2026-08-26T00:30:16.011455+00:00"
-    },
-    {
-      "id": "4d32f7cda375685a",
-      "title": "Dolly Parton’s Cause of Death Revealed",
-      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-cause-of-death-1235615493/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The beloved country icon died on Tuesday at the age of 80",
-      "published": "2026-08-26T00:07:36+00:00",
-      "fetched": "2026-08-26T00:30:16.011475+00:00"
-    },
-    {
-      "id": "8dac521b4cf9eece",
-      "title": "‘The Dog Stars’ Review: Jacob Elordi’s Sensitive Survivalist Can’t Sustain a Dreary Dystopian Adventure",
-      "link": "https://variety.com/2026/film/reviews/the-dog-stars-review-jacob-elordi-1236839483/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It s the end of the world as we know it in The Dog Stars, and everyone feels — well, not fine exactly, but, you know, fine? Alive, hanging in there, taking it one day at a time. Things could be better, which goes without saying in the aftermath of a flu pandemic that has wiped [ ]",
-      "published": "2026-08-26T00:00:00+00:00",
-      "fetched": "2026-08-26T00:30:15.827121+00:00"
-    },
-    {
-      "id": "774e44b8fbeac87e",
-      "title": "Lee Jung-eun, Kim Moo-yul Board Netflix’s Action-Noir Series ‘The Shooter’",
-      "link": "https://variety.com/2026/tv/news/lee-jung-eun-kim-moo-yul-netflix-the-shooter-1236842363/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Netflix has confirmed production on The Shooter (working title), an action-noir series that pairs Lee Jung-eun with Kim Moo-yul, marking Lee s first outing in an action role. Lee s turn comes on the heels of My Daughter Is a Zombie, one of South Korea s top-grossing films of 2025. Kim joins her fresh off Teach You a [ ]",
-      "published": "2026-08-26T00:00:00+00:00",
-      "fetched": "2026-08-26T00:30:15.827167+00:00"
-    },
-    {
-      "id": "13e20db1fe219ddc",
-      "title": "Shin Mina, Ju Jihoon, Lee Jongsuk, Lee Seyoung’s ‘The Remarried Empress’ Sets November Disney+ Bow",
-      "link": "https://variety.com/2026/tv/news/the-remarried-empress-november-disney-1236842398/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Disney+ has set a November premiere date for The Remarried Empress, a 10-part Korean drama adapted from the Naver Webtoon series of the same name, which has drawn nearly three billion views to date. The show centers on Empress Navier and Emperor Sovieshu of the Eastern Kingdom, whose marriage unravels after Sovieshu falls for a [ ]",
-      "published": "2026-08-26T00:00:00+00:00",
-      "fetched": "2026-08-26T00:30:15.827209+00:00"
-    },
-    {
-      "id": "1172003a805efb15",
-      "title": "UMusic’s First U.S. Hotel Aims to Celebrate the Artistry of Austin",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/u-music-austin-hotel-white-rocks-amphitheater-travel-1235615005/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The crown jewel of the UMusic Hospitality Lifestyle-branded and managed project will be the striking White Rocks Amphitheater",
-      "published": "2026-08-26T00:00:00+00:00",
-      "fetched": "2026-08-26T00:30:16.011502+00:00"
-    },
-    {
-      "id": "f79212398ea6d1ca",
-      "title": "Shania Twain Mourns Dolly Parton, Shares Their Performance of ‘Coat of Many Colors’",
-      "link": "https://www.rollingstone.com/music/music-news/dolly-parton-death-shania-twain-tribute-performance-1235615374/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"My mentor is gone,\" wrote Twain in her tribute alongside footage of their duet on the Oprah Winfrey Show",
-      "published": "2026-08-25T23:55:09+00:00",
-      "fetched": "2026-08-26T00:30:16.011528+00:00"
-    },
-    {
-      "id": "6e6413454ac774a6",
-      "title": "Dolly Parton Died After a ‘Brief Battle’ With Cancer, According to Her Reps",
-      "link": "https://variety.com/2026/music/news/dolly-parton-cause-of-death-cancer-1236843174/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dolly Parton s reps have revealed her cause of death. The iconic singer died after a brief battle with cancer at Vanderbilt-Ingram Cancer Center in Nashville, her reps said Tuesday. “Our beloved Dolly Parton spent her life and career bringing joy, laughter, hope and integrity into everything she touched.",
-      "published": "2026-08-25T23:45:41+00:00",
-      "fetched": "2026-08-26T00:30:15.827259+00:00"
-    },
-    {
-      "id": "a07d7e3fe7b4ee86",
-      "title": "CBS Dolly Parton Special Airs Tonight: Stream ‘Dolly Parton – An American Icon’ Online for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/cbs-dolly-parton-special-aug-25-2026-watch-online-stream-free-1235615356/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The show will feature new reporting and clips from the CBS archives, including Parton's 2023 Person to Person interview with Norah O’Donnell",
-      "published": "2026-08-25T23:28:00+00:00",
-      "fetched": "2026-08-26T00:30:16.011562+00:00"
-    },
-    {
-      "id": "3b5d3b31c0cf2d47",
-      "title": "Beyoncé Pays Tribute to Dolly Parton: ‘You Were the Barometer’",
-      "link": "https://variety.com/2026/music/news/beyonce-pays-tribute-to-dolly-parton-barometer-1236843171/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Beyoncé has paid tribute to country icon Dolly Parton, who died on August 25, calling her the barometer and thanking her for the impact she had on the world. In a statement posted to her website, Beyoncé wrote, Dolly, you were the barometer. The north star.",
-      "published": "2026-08-25T23:21:42+00:00",
-      "fetched": "2026-08-26T00:30:15.827306+00:00"
-    },
-    {
-      "id": "66e72dc00da77eee",
-      "title": "How Modern Appointment Viewing Shows Are Bringing Back ‘Watercooler’ Television",
-      "link": "https://variety.com/2026/tv/news/modern-appointment-viewing-shows-watercooler-television-1236843230/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "There’s nothing better than sitting on the couch to binge your favorite TV show. Or, maybe, there is. In the era of streaming, binge-watching is easier than ever.",
-      "published": "2026-08-25T23:20:00+00:00",
-      "fetched": "2026-08-26T00:30:15.827354+00:00"
-    },
-    {
-      "id": "0c0e18606140c109",
-      "title": "Eminem Shares Touching Letter From Dolly Parton: I Always Felt an ‘Unexplained Connection to You’",
-      "link": "https://www.rollingstone.com/music/music-news/dolly-parton-death-eminem-letter-tribute-1235615331/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The rapper posted a message the country star wrote him after he was inducted into the Rock and Roll Hall of Fame",
-      "published": "2026-08-25T23:07:52+00:00",
-      "fetched": "2026-08-26T00:30:16.011589+00:00"
-    },
-    {
-      "id": "d50edfc4d102f4e3",
-      "title": "Jack Innanen is Perfecting the Charm Offensive",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/jack-innanen-adults-season-two-tiktok-1235614280/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The breakout star of Adults talks TikTok virality, Season Two, and building a career that celebrates the internet without being defined by it",
-      "published": "2026-08-25T23:00:00+00:00",
-      "fetched": "2026-08-26T00:30:16.011615+00:00"
-    },
-    {
-      "id": "74a88e613990b2bc",
-      "title": "How the Muppets Were Brought Back to Life for the Disney Special",
-      "link": "https://variety.com/2026/artisans/news/muppets-brought-back-to-life-for-disney-special-1236843200/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The lights were lit and the music played in the Muppet Theatre once more this year. But before the curtain opened on Kermit the Frog in an episode of television for the first time in 10 years, the show had to be put together — by the humans behind the characters. Simultaneously a nod to [ ]",
-      "published": "2026-08-25T22:55:00+00:00",
-      "fetched": "2026-08-26T00:30:15.827397+00:00"
-    },
-    {
-      "id": "c56d72889127f79f",
-      "title": "Universal’s Snoop Dogg Biopic Adds Camron Jones as Tupac Shakur",
-      "link": "https://variety.com/2026/film/news/snoop-dogg-biopic-cast-camron-jones-tupac-shakur-lauren-london-1236843216/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The cast of Universal s Snoop Dogg biopic is shaping up, with Camron Jones ( P-Valley, Panic ) set to play Tupac Shakur, while Lauren London ( Without Remorse, ATL ) will portray Snoop s late mother, Beverly Tate. Outer Banks alum Jonathan Daviss was previously announced to star as the rap legend in the movie, Snoop, directed by Craig Brewer [ ]",
-      "published": "2026-08-25T22:40:25+00:00",
-      "fetched": "2026-08-26T00:30:15.827440+00:00"
-    },
-    {
-      "id": "c87c33459860e0ac",
-      "title": "Sam Register to Depart as Head of Warner Bros. Animation, Cartoon Network Studios and Hanna-Barbera Studios Europe (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/sam-register-leaving-warner-bros-animation-head-1236843053/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Longtime Warner Bros. animation boss Sam Register is departing the company next week as his contract expires, Warner Bros. TV Group chair Channing Dungey announced in a memo to staffers this afternoon.",
-      "published": "2026-08-25T22:25:45+00:00",
-      "fetched": "2026-08-26T00:30:15.827481+00:00"
-    },
-    {
-      "id": "1687acbc7de233e3",
-      "title": "Dolly Parton, Hardscrabble Storyteller Turned Global Entertainer, Dead at 80",
-      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-dead-obit-1234810193/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Country Music Hall of Fame member died Tuesday after battling health issues for the last year",
-      "published": "2026-08-25T17:59:31+00:00",
-      "fetched": "2026-08-25T18:20:09.004051+00:00"
-    },
-    {
-      "id": "9475b79265749139",
-      "title": "Paul Thomas Anderson’s ‘Cameron Winter at Carnegie Hall’ to Tour This Fall",
-      "link": "https://www.rollingstone.com/music/music-news/paul-thomas-anderson-cameron-winter-carnegie-hall-tour-1235614747/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "35-mm prints will screen around North America",
-      "published": "2026-08-25T17:58:27+00:00",
-      "fetched": "2026-08-25T18:20:09.004077+00:00"
     }
   ]
 }
