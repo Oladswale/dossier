@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-30T15:33:00.450751+00:00",
+  "updated": "2026-08-30T20:09:01.937234+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3eb123135a468449",
+      "title": "8 Deals in One Month: Inside the Relaunch of Manhattan’s Top-Selling Condo",
+      "link": "https://www.realtor.com/news/trends/250-west-96th-street-luxury-building-sales/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 131-unit condominium on the Upper West Side of Manhattan has had a strong sales streak—with 65% of the building's units sold.",
+      "published": "2026-08-30T19:01:00+00:00",
+      "fetched": "2026-08-30T20:09:01.936726+00:00"
+    },
+    {
+      "id": "e2c5699b83e09c7b",
+      "title": "Olsen-Designed Midcentury Modern home Built For Physics Pioneer Is Selling for Only the Second Time in 73 Years",
+      "link": "https://www.realtor.com/news/unique-homes/donald-olsen-midcentury-modern-kip-house-berkeley-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tucked into the slope of Berkeley's Thousand Oaks neighborhood, the home known as the Kip House has been listed for $1,425,000.",
+      "published": "2026-08-30T17:26:00+00:00",
+      "fetched": "2026-08-30T20:09:01.936757+00:00"
+    },
     {
       "id": "e1fcd95279c9db81",
       "title": "How the No-Frills Philosophy Behind Midcentury Modern Homes Spawned a Big-Money Business That Is Continuing To Grow",
@@ -1482,26 +1502,6 @@
       "summary": "In the modern age, the first utility necessary in the home is undoubtably the internet.",
       "published": "2026-08-20T18:39:21+00:00",
       "fetched": "2026-08-21T00:30:54.345315+00:00"
-    },
-    {
-      "id": "1d63eb17f9f29b3a",
-      "title": "Kai Trump Admits She’s ‘Overwhelmed’ About Moving Into College Apartment as She Shops for Essentials for New Pad",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kai-trump-college-apartment-move-miami-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kai is preparing to fly the nest and leave behind the comforts of her parents' Florida homes as she moves into her first college apartment.",
-      "published": "2026-08-20T17:11:50+00:00",
-      "fetched": "2026-08-20T18:18:55.869407+00:00"
-    },
-    {
-      "id": "aaf1e327c2ae1532",
-      "title": "Mortgage Rates Fall Slightly to 6.65% Despite Bond Market Turmoil and Growing Concerns About Federal Debt",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-bond-market-august-20-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed home loans dipped to 6.65% for the week ending Aug. 20, down 2 basis points from last week.",
-      "published": "2026-08-20T16:00:13+00:00",
-      "fetched": "2026-08-20T18:18:55.869445+00:00"
     }
   ]
 }

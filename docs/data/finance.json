@@ -1,8 +1,48 @@
 {
   "category": "finance",
-  "updated": "2026-08-30T15:32:49.436231+00:00",
+  "updated": "2026-08-30T20:08:45.693622+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "67c658ac756e4360",
+      "title": "CPPE urges NMDPRA to restrict fuel imports to verified supply shortfalls",
+      "link": "https://nairametrics.com/2026/08/30/cppe-urges-nmdpra-to-restrict-fuel-imports-to-verified-supply-shortfalls/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Centre for the Promotion of Private Enterprise (CPPE) has urged the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) to restrict petroleum-product import approvals to verified domestic supply shortfalls, warning that indiscriminate imports could undermine investment in local refining. The post CPPE urges NMDPRA to restrict fuel imports to verified supply shortfalls appeared first on Nairametrics .",
+      "published": "2026-08-30T19:58:31+00:00",
+      "fetched": "2026-08-30T20:08:44.484741+00:00"
+    },
+    {
+      "id": "e2f3cbb9e61edbc7",
+      "title": "FG targets 20,000 annual medical admissions, plans simulation centres nationwide",
+      "link": "https://nairametrics.com/2026/08/30/fg-targets-20000-annual-medical-admissions-plans-simulation-centres-nationwide/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government is targeting 20,000 annual admissions into Nigerian medical schools within the next three years and plans to establish medical simulation centres across the country's six geo-political zones. The post FG targets 20,000 annual medical admissions, plans simulation centres nationwide appeared first on Nairametrics .",
+      "published": "2026-08-30T18:43:45+00:00",
+      "fetched": "2026-08-30T20:08:44.484779+00:00"
+    },
+    {
+      "id": "39b3cf9dab0d6780",
+      "title": "Nigeria’s remittances hit record $947 million in July, near CBN’s $1 billion target",
+      "link": "https://nairametrics.com/2026/08/30/nigerias-remittances-hit-record-947-million-in-july-near-cbns-1-billion-target/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria recorded $947 million in remittance inflows through International Money Transfer Operators (IMTOs) in July 2026, the highest monthly inflow ever recorded through formal channels. The post Nigeria’s remittances hit record $947 million in July, near CBN’s $1 billion target appeared first on Nairametrics .",
+      "published": "2026-08-30T16:43:22+00:00",
+      "fetched": "2026-08-30T20:08:44.484821+00:00"
+    },
+    {
+      "id": "6da1167833ac3b28",
+      "title": "Navy deactivates two illegal refining sites in Rivers, recovers 34,000 litres of diesel",
+      "link": "https://nairametrics.com/2026/08/30/navy-deactivates-two-illegal-refining-sites-in-rivers-recovers-34000-litres-of-diesel/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Navy has deactivated two illegal refining sites in Rivers State and recovered approximately 34,000 litres of suspected illegally refined diesel. The post Navy deactivates two illegal refining sites in Rivers, recovers 34,000 litres of diesel appeared first on Nairametrics .",
+      "published": "2026-08-30T15:47:11+00:00",
+      "fetched": "2026-08-30T20:08:44.484852+00:00"
+    },
     {
       "id": "a723487d8c1e7063",
       "title": "NABTEB sets deadline for 2026 November/December exam registration",
@@ -222,6 +262,16 @@
       "summary": "When done right, rollovers can be a great tool.",
       "published": "2026-08-29T13:00:00+00:00",
       "fetched": "2026-08-29T15:48:03.618975+00:00"
+    },
+    {
+      "id": "d384e6c556cf6680",
+      "title": "5 affordable cities to retire in the U.S. right now",
+      "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "You don’t have to leave the country to find an affordable place that matches your retirement vision.",
+      "published": "2026-08-29T12:50:00+00:00",
+      "fetched": "2026-08-30T20:08:44.310110+00:00"
     },
     {
       "id": "8314c653288300b4",
@@ -1452,56 +1502,6 @@
       "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
       "published": "2026-08-27T03:42:17+00:00",
       "fetched": "2026-08-27T05:15:02.420148+00:00"
-    },
-    {
-      "id": "8579efd7f5704e54",
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "link": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
-      "published": "2026-08-27T03:20:14+00:00",
-      "fetched": "2026-08-27T05:15:02.420098+00:00"
-    },
-    {
-      "id": "67b0f111cdb995d6",
-      "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
-      "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "New reports outline deal talks between the two companies as open-source AI technology comes more into focus.",
-      "published": "2026-08-27T03:17:00+00:00",
-      "fetched": "2026-08-27T05:15:02.226397+00:00"
-    },
-    {
-      "id": "832de94e15663c21",
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
-      "published": "2026-08-27T02:41:00+00:00",
-      "fetched": "2026-08-27T05:15:02.226443+00:00"
-    },
-    {
-      "id": "be52641f8ed1f2b5",
-      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
-      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
-      "published": "2026-08-27T00:43:00+00:00",
-      "fetched": "2026-08-27T05:15:02.226478+00:00"
-    },
-    {
-      "id": "a29e720b3ffa2f27",
-      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
-      "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Cook’s lawyer says she made an inadvertent error listing her apartment in Atlanta as a primary residence",
-      "published": "2026-08-27T00:14:00+00:00",
-      "fetched": "2026-08-27T05:15:02.226508+00:00"
     }
   ]
 }
