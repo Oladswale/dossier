@@ -1,8 +1,58 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-30T01:54:06.619668+00:00",
+  "updated": "2026-08-30T10:47:10.042572+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "739a1dc67cf46a82",
+      "title": "’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year",
+      "link": "https://variety.com/2026/film/reviews/17-review-1236846790/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes a violent turn. From here, this nervy teen drama from Macedonia picks up several months later and follows the withdrawn Sara over the [ ]",
+      "published": "2026-08-30T10:13:56+00:00",
+      "fetched": "2026-08-30T10:47:09.715217+00:00"
+    },
+    {
+      "id": "6cd1e183dd29b2ce",
+      "title": "Olivia Rodrigo Delivers Magic With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-stevie-nicks-sarah-mclachlan-alanis-perform-1235614614/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Rodrigo capped her inaugural all-women festival with a stunning headlining set — and invited her heroes to the stage",
+      "published": "2026-08-30T08:48:18+00:00",
+      "fetched": "2026-08-30T10:47:09.954145+00:00"
+    },
+    {
+      "id": "40089115e798f027",
+      "title": "‘Sea of Glass’ Review: A Widow’s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy",
+      "link": "https://variety.com/2026/film/news/sea-of-glass-review-1236846714/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "There are Greek waves aplenty lapping at the forlorn beachside setting of Sea of Glass, though they re not especially weird ones. Amid a national cinema that has become internationally recognized for perverse plotting and deadpan absurdism, writer-director Alexis Alexiou s third feature stands out for its stark storytelling and earnest emotional intensity. There is more than [ ]",
+      "published": "2026-08-30T08:31:55+00:00",
+      "fetched": "2026-08-30T10:47:09.715305+00:00"
+    },
+    {
+      "id": "f58bb2c2b2aeb6fb",
+      "title": "Inside the Global Rise of CJ ENM’s ‘The Legend of Kitchen Soldier’",
+      "link": "https://variety.com/2026/tv/news/legend-of-kitchen-soldier-cj-enm-global-success-1236846772/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When The Legend of Kitchen Soldier was selected as the only K-drama in the Special Screening section at Series Mania in Lille earlier this year, it marked an early signal that something unusual was happening with a show that had started life as a calculated creative gamble. By July 31, when the series took best [ ]",
+      "published": "2026-08-30T07:56:17+00:00",
+      "fetched": "2026-08-30T10:47:09.715365+00:00"
+    },
+    {
+      "id": "c21951c58f5358ed",
+      "title": "Harry Styles Pokes Fun at Ex Taylor Swift’s Wedding During Madison Square Garden Show",
+      "link": "https://variety.com/2026/music/news/harry-styles-shout-out-taylor-swift-wedding-travis-kelce-madison-square-garden-show-1236846748/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On the opening night of his 30-concert residency at Madison Square Garden, pop superstar Harry Styles paid tribute to the late, great Dolly Parton. And at the tail end of Saturday night’s show, he shouted out his ex-girlfriend Taylor Swift’s wedding to Travis Kelce. “We’re at Madison Square Garden, home of the world champion New [ ]",
+      "published": "2026-08-30T01:52:12+00:00",
+      "fetched": "2026-08-30T10:47:09.715421+00:00"
+    },
     {
       "id": "eff79667f70fd7ac",
       "title": "Harry Styles Shouts-Out Ex Taylor Swift’s Wedding During Madison Square Garden Show",
@@ -1452,56 +1502,6 @@
       "summary": "See a trailer for Queen Budapest, filmed in 1986, which will open in cinemas this fall",
       "published": "2026-08-26T17:40:37+00:00",
       "fetched": "2026-08-26T19:27:47.567292+00:00"
-    },
-    {
-      "id": "04a0add4ba7e962d",
-      "title": "Miley Cyrus Honors ‘Aunt’ Dolly Parton: ‘I Have an Angel by My Side’",
-      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-miley-cyrus-tribute-1235616039/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“One of our last conversations was about music and metamorphosis,” Cyrus wrote of her godmother and mentor",
-      "published": "2026-08-26T17:30:15+00:00",
-      "fetched": "2026-08-26T19:27:47.567323+00:00"
-    },
-    {
-      "id": "166f55c72cc2a91b",
-      "title": "Busy Philipps Reveals She Had Brain Tumor Removed: ‘Grateful That I’m Alive’",
-      "link": "https://variety.com/2026/tv/news/busy-philipps-brain-tumor-removed-1236844098/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Busy Philipps revealed she had a malignant brain tumor removed weeks before she was set to start filming her new CBS show “Cupertino.” “I’m grateful that I’m alive,” Philipps told People. What started as an unnecessary, but precautionary full-body MRI that checks for more than 500 conditions ended up saving Philipps life. The “Freaks and [ ]",
-      "published": "2026-08-26T17:22:38+00:00",
-      "fetched": "2026-08-26T19:27:47.432451+00:00"
-    },
-    {
-      "id": "225b275684af1a46",
-      "title": "Wim-Wenders Produced ‘I’ll Be Gone in June’ Bought for North America After Cannes Premiere (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/wim-wenders-ill-be-gone-in-june-north-america-cannes-kimstim-1236844095/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "KimStim has acquired all North American rights to Katharina Rivilis’ debut feature I’ll Be Gone in June, following its world premiere at Cannes Un Certain Regard. Set in Las Cruces, New Mexico, in the months surrounding the Sept. 11 attacks, the coming-of-age drama follows Franny, a 16-year-old German exchange student whose vision of an American [ ]",
-      "published": "2026-08-26T17:16:43+00:00",
-      "fetched": "2026-08-26T19:27:47.432501+00:00"
-    },
-    {
-      "id": "cc346e3dec25c32f",
-      "title": "Tim Curry, ‘Rocky Horror Picture Show,’ ‘Clue,’ and ‘It’ Star, Dead at 80",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/tim-curry-rocky-horror-picture-show-dead-obit-1234810431/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The actor, who starred in films and TV, including portraying Stephen King’s murderous clown Pennywise, died Tuesday night",
-      "published": "2026-08-26T16:05:55+00:00",
-      "fetched": "2026-08-26T19:27:47.567355+00:00"
-    },
-    {
-      "id": "42a4bb8f02c3c5d9",
-      "title": "Jay-Z Reintroduces Himself Once More in New ‘JAŸ-Z in 8’ Trailer",
-      "link": "https://www.rollingstone.com/music/music-news/jay-z-in-8-trailer-rick-rubin-1235615749/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The docuseries, which was directed by and co-stars Rick Rubin, will premiere in September",
-      "published": "2026-08-26T16:01:44+00:00",
-      "fetched": "2026-08-26T19:27:47.567382+00:00"
     }
   ]
 }
