@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-30T10:47:12.107990+00:00",
+  "updated": "2026-08-30T15:33:00.450751+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e1fcd95279c9db81",
+      "title": "How the No-Frills Philosophy Behind Midcentury Modern Homes Spawned a Big-Money Business That Is Continuing To Grow",
+      "link": "https://www.realtor.com/news/unique-homes/midcentury-modern-home-architecture-design-history/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The design style, which started as a postwar housing solution in the 1940s, is increasingly sought after today.",
+      "published": "2026-08-30T11:59:00+00:00",
+      "fetched": "2026-08-30T15:33:00.450076+00:00"
+    },
     {
       "id": "2fe65fdd4056a0df",
       "title": "Colonial-Era Virginia Farm Compound With Ties to George Washington Is Listed for $8.4 Million",
@@ -1492,16 +1502,6 @@
       "summary": "The average rate on 30-year fixed home loans dipped to 6.65% for the week ending Aug. 20, down 2 basis points from last week.",
       "published": "2026-08-20T16:00:13+00:00",
       "fetched": "2026-08-20T18:18:55.869445+00:00"
-    },
-    {
-      "id": "00fd370f694bd420",
-      "title": "New Atlantic Hurricane Forecast Issued as Peak Season Looms—Is Your Property Prepared?",
-      "link": "https://www.realtor.com/news/trends/new-atlantic-hurricane-forecast-2026-home-prep/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A record-strong super El Niño developing has changed the course of the Atlantic hurricane season, with homeowners impacted severely.",
-      "published": "2026-08-20T15:35:06+00:00",
-      "fetched": "2026-08-20T18:18:55.869477+00:00"
     }
   ]
 }

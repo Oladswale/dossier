@@ -1,8 +1,68 @@
 {
   "category": "entertainment",
-  "updated": "2026-08-30T10:47:10.042572+00:00",
+  "updated": "2026-08-30T15:32:57.890527+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "721342db63fc5a84",
+      "title": "See Grand Ole Opry Dedicate Entire Performance to Dolly Parton’s Music",
+      "link": "https://www.rollingstone.com/music/music-country/grand-ole-opry-dedicate-performance-dolly-parton-music-1235617854/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Carly Pearce, Jelly Roll, and more pay tribute to country legend and longtime Opry member",
+      "published": "2026-08-30T15:03:20+00:00",
+      "fetched": "2026-08-30T15:32:57.695529+00:00"
+    },
+    {
+      "id": "efe5cff522b3f4c1",
+      "title": "‘Call My Agent! The Movie’ Review: Love-Hate Energy Keeps the Gang Together in a Fast, Funny Feature-Length Return",
+      "link": "https://variety.com/2026/film/news/call-my-agent-the-movie-review-1236846824/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The rare reboot pitch that that can actually be greeted with this again! rather than this again?, Call My Agent! The Movie makes sense of its rote title in two ways.",
+      "published": "2026-08-30T14:58:03+00:00",
+      "fetched": "2026-08-30T15:32:57.380580+00:00"
+    },
+    {
+      "id": "295bcf8cef944cf3",
+      "title": "Here’s How to Watch the 2026 Little League World Series Championship Game Live Online",
+      "link": "https://variety.com/2026/shopping/news/how-to-watch-little-league-world-series-online-livestream-free-1236487338/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The 2026 Little League World Series Championship Game features Nevada vs. Curaçao on Sunday, Aug. 30 at 3 p.m.",
+      "published": "2026-08-30T14:00:07+00:00",
+      "fetched": "2026-08-30T15:32:57.380643+00:00"
+    },
+    {
+      "id": "f12faceac3fd2476",
+      "title": "Alabama Shakes Say New Album Is About ‘People Being Unified.’ That Includes Them",
+      "link": "https://www.rollingstone.com/music/music-features/alabama-shakes-reunite-new-album-zach-bryan-1235617580/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "I Must Be Dreaming , the rock soul band's first LP in more than a decade, reunites Brittany Howard, Zac Cockrell, and Heath Fogg to cut through the chaos",
+      "published": "2026-08-30T14:00:00+00:00",
+      "fetched": "2026-08-30T15:32:57.695572+00:00"
+    },
+    {
+      "id": "12188b7955afb87f",
+      "title": "Laura Dern to Give George Clooney Venice Golden Lion for Lifetime Achievement",
+      "link": "https://variety.com/2026/film/festivals/laura-dern-george-clooney-venice-golden-lion-lifetime-1236846829/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Laura Dern is set to give the Laudatio speech honoring George Clooney at Venice Film Festival where, as previously announced, he will be honored on Wed., Sept. 2, with a Golden Lion for Lifetime Achievement. Clooney – who is one of only three people to have been nominated in six different Oscar categories throughout his career [ ]",
+      "published": "2026-08-30T13:48:56+00:00",
+      "fetched": "2026-08-30T15:32:57.380693+00:00"
+    },
+    {
+      "id": "3791ed9b02277c55",
+      "title": "Melinda French Gates Doubles Olivia Rodrigo’s Daisy Chain Fields Donation to $20 Million",
+      "link": "https://www.rollingstone.com/music/music-news/melinda-french-gates-doubles-olivia-rodrigo-donation-1235617839/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"What Daisy Chain Fields sets in motion will last far beyond a single night,\" philanthropist says in statement",
+      "published": "2026-08-30T13:15:47+00:00",
+      "fetched": "2026-08-30T15:32:57.695601+00:00"
+    },
     {
       "id": "739a1dc67cf46a82",
       "title": "’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year",
@@ -12,6 +72,16 @@
       "summary": "From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes a violent turn. From here, this nervy teen drama from Macedonia picks up several months later and follows the withdrawn Sara over the [ ]",
       "published": "2026-08-30T10:13:56+00:00",
       "fetched": "2026-08-30T10:47:09.715217+00:00"
+    },
+    {
+      "id": "c3b6d2437b791a9f",
+      "title": "Olivia Rodrigo Shines With Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-stevie-nicks-sarah-mclachlan-alanis-perform-1235614614/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Rodrigo capped her inaugural all-women festival with a stunning headlining set — and invited her heroes to the stage",
+      "published": "2026-08-30T08:48:18+00:00",
+      "fetched": "2026-08-30T15:32:57.695631+00:00"
     },
     {
       "id": "6cd1e183dd29b2ce",
@@ -1432,76 +1502,6 @@
       "summary": "How do we count the ways in which we will always love her — do we go from 9 to 5,000? Here’s a compromise: We’ve selected 30 of Dolly Parton’s greatest songs, from among hundreds. This task is taken on knowing that among the omissions will be cuts that are most meaningful to different fans [ ]",
       "published": "2026-08-26T18:47:13+00:00",
       "fetched": "2026-08-26T19:27:47.432247+00:00"
-    },
-    {
-      "id": "f1b3be9138202763",
-      "title": "‘Not Suitable for Work’: Five Unresolved Cliffhangers From Mindy Kaling’s Canceled Hulu Series",
-      "link": "https://variety.com/lists/not-suitable-for-work-unresolved-cliffhangers-mindy-kaling-canceled/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It’s a golden age for television about teens and twentysomethings right now, and there is no shortage of shows about the epic highs and lows of high school and early adulthood. Yet none of them have nailed believable dialogue, roommate dynamics and new job struggles the way “Not Suitable For Work” has. The nine-episode Hulu [ ]",
-      "published": "2026-08-26T18:30:00+00:00",
-      "fetched": "2026-08-26T19:27:47.432299+00:00"
-    },
-    {
-      "id": "f910f2e746d81807",
-      "title": "‘Survivor 51’: Meet the 21 New Castaways, Including a ‘Grey’s Anatomy’ Actor, the Voice of Strawberry Shortcake, a Pro Wrestler and a Yankees Exec",
-      "link": "https://variety.com/lists/survivor-51-cast-greys-anatomy-strawberry-shortcake/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After its landmark 50th season, explored at length in a Variety cover story, Survivor is back for another round. CBS kicked off a new phase of the popular competition series, titled The Open Era, with a livestream on Wednesday announcing 21 all-new castaways. They range in age from 24 to 49 and come from all [ ]",
-      "published": "2026-08-26T18:22:50+00:00",
-      "fetched": "2026-08-26T19:27:47.432348+00:00"
-    },
-    {
-      "id": "4782e24f875e0eef",
-      "title": "Tim Curry Tributes Pour in From Co-Stars Carol Burnett, Rob Schneider, Michael McKean, More",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/tim-curry-tributes-celebs-react-co-stars-1235615726/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The actor, who starred in The Rocky Horror Picture Show , Clue , and Home Alone 2 , died Tuesday at age 80",
-      "published": "2026-08-26T18:21:36+00:00",
-      "fetched": "2026-08-26T19:27:47.567185+00:00"
-    },
-    {
-      "id": "e8f328f44b70b5d0",
-      "title": "Tim Curry: 9 Essential Movies",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/tim-curry-best-movies-1235615870/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From Transylvania’s corseted doctor-in-residence to the world’s most evil clown — the roles that turned Tom Curry into a genuine pop-culture icon",
-      "published": "2026-08-26T18:15:45+00:00",
-      "fetched": "2026-08-26T19:27:47.567226+00:00"
-    },
-    {
-      "id": "51b3a02d09ccb8dc",
-      "title": "YouTube’s Pedro Pina Says Platform Can Fuel Britain’s Next TV ‘Golden Age,’ Unveils $4 Million Pledge: We’re ‘Not the Villain’",
-      "link": "https://variety.com/2026/tv/global/youtube-pedro-pina-help-uk-tv-4-million-pledge-1236843798/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Pedro Pina, YouTube’s vice president for Europe, Middle East and Africa, used this year’s James MacTaggart Memorial Lecture at the Edinburgh TV Festival to challenge the narrative that the platform is a villain in British television’s decline. Instead, he argued that it is increasingly feeding the sector with talent, audiences and revenue — and backed [ ]",
-      "published": "2026-08-26T18:15:00+00:00",
-      "fetched": "2026-08-26T19:27:47.432402+00:00"
-    },
-    {
-      "id": "15cad3a9e5dda83e",
-      "title": "Trump’s Stock Portfolio Has Moved Up To $1 Billion Since Returning to Office",
-      "link": "https://www.rollingstone.com/politics/politics-news/trumps-stock-trades-1-billion-1000-1235616066/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The president’s investment portfolio is making an unprecedented one thousand or more trades a month, often in companies with business before his administration",
-      "published": "2026-08-26T17:56:39+00:00",
-      "fetched": "2026-08-26T19:27:47.567263+00:00"
-    },
-    {
-      "id": "8896ebbfb3d371ce",
-      "title": "Queen’s Last Filmed Concert With Freddie Mercury Is Headed to IMAX",
-      "link": "https://www.rollingstone.com/music/music-news/queen-freddie-mercury-budapest-imax-trailer-1235615809/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "See a trailer for Queen Budapest, filmed in 1986, which will open in cinemas this fall",
-      "published": "2026-08-26T17:40:37+00:00",
-      "fetched": "2026-08-26T19:27:47.567292+00:00"
     }
   ]
 }
