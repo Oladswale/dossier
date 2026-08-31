@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-31T01:49:11.176093+00:00",
+  "updated": "2026-08-31T11:56:17.950465+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5f5cf886d7bf0e35",
+      "title": "Top 10 Cities for New Construction Revealed: The Carolinas Emerge as a Powerhouse",
+      "link": "https://www.realtor.com/news/trends/carolinas-top-10-cities-new-construction-ranking-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Buyers in Southern boomtowns like Charleston and Greenville, SC, can find affordable new builds, higher inventory, and builder incentives.",
+      "published": "2026-08-31T09:00:00+00:00",
+      "fetched": "2026-08-31T11:56:17.949835+00:00"
+    },
+    {
+      "id": "1f3e9595e7980182",
+      "title": "Adjustable-Rate Mortgages Are on the Rise: Why the Riskier Loan Is Enticing Homebuyers More Than Ever",
+      "link": "https://www.realtor.com/news/trends/adjustable-mortgage-rate-benefits-drawbacks-money-monday/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An ARM might help you snag a lower introductory mortgage rate—but with mortgage rates on the rise, is the risk worth the reward?",
+      "published": "2026-08-31T08:17:00+00:00",
+      "fetched": "2026-08-31T11:56:17.949877+00:00"
+    },
+    {
+      "id": "23171b0cdd80ad95",
+      "title": "Housing Week Ahead: August Inventory Data, Mortgage Rates, and Jobs Report",
+      "link": "https://www.realtor.com/news/trends/housing-week-data-reports-august-31-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As we head into a lighter week for economic releases, the Realtor.com team is tracking critical data points for the housing market.",
+      "published": "2026-08-31T08:03:00+00:00",
+      "fetched": "2026-08-31T11:56:17.949909+00:00"
+    },
     {
       "id": "3eb123135a468449",
       "title": "8 Deals in One Month: Inside the Relaunch of Manhattan’s Top-Selling Condo",
@@ -1472,36 +1502,6 @@
       "summary": "Homeowners are still not ready to put their homes on the market. In the meantime, they're taking better care of their homes.",
       "published": "2026-08-20T19:32:31+00:00",
       "fetched": "2026-08-21T00:30:54.345265+00:00"
-    },
-    {
-      "id": "811bf73b190641f6",
-      "title": "Retired Altadena Couple Break Ground on New Home After Losing Everything in Wildfire",
-      "link": "https://www.realtor.com/news/trends/altadena-alvarado-break-ground-home-wildfire-insurance-claim/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Manuel and Emma Alvarado lost everything in the Eaton fire in January 2025. This week, they broke ground on a new home.",
-      "published": "2026-08-20T19:10:19+00:00",
-      "fetched": "2026-08-21T00:30:54.345282+00:00"
-    },
-    {
-      "id": "040f9beda4bade8a",
-      "title": "How Much Is Prince Harry and Meghan Markle’s Montecito Mansion Really Worth?",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-montecito-mansion-value-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Prince Harry and Meghan's return to the U.K. has raised serious questions about what the future holds for their California mansion.",
-      "published": "2026-08-20T19:08:43+00:00",
-      "fetched": "2026-08-21T00:30:54.345300+00:00"
-    },
-    {
-      "id": "f9d50db568fc8a8e",
-      "title": "Before You Move In: The Smart Homeowner’s Checklist for Fast, Reliable Wi-Fi",
-      "link": "https://www.realtor.com/advice/move/smart-homeowners-checklist-fast-reliable-wi-fi-interent/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In the modern age, the first utility necessary in the home is undoubtably the internet.",
-      "published": "2026-08-20T18:39:21+00:00",
-      "fetched": "2026-08-21T00:30:54.345315+00:00"
     }
   ]
 }

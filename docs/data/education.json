@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-08-31T01:49:10.110230+00:00",
+  "updated": "2026-08-31T11:56:17.328796+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "57b32f5d0f5c8864",
+      "title": "The Periodic Table of Endangered Elements: Visualizing the Chemical Elements That Could Vanish Before You Know It",
+      "link": "https://www.openculture.com/2026/08/periodic-table-of-endangered-elements.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The Periodic Table of Elements lists the 118 chemical elements that make up everything in our world. Some you’re familiar with—Hydrogen, Oxygen, Nitrogen, etc. Others maybe less so—Vanadium, Germanium, and Yttrium.",
+      "published": "2026-08-31T08:00:21+00:00",
+      "fetched": "2026-08-31T11:56:17.328551+00:00"
+    },
+    {
+      "id": "ffa609a209dc3dfa",
+      "title": "How an MIT research project became a global programming language",
+      "link": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
+      "published": "2026-08-31T04:00:00+00:00",
+      "fetched": "2026-08-31T11:56:15.803830+00:00"
+    },
     {
       "id": "8a2a1d548bce59d5",
       "title": "How an MIT graduate student helped a team of young scientists test their experiment at CERN",
@@ -1482,26 +1502,6 @@
       "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
       "published": "2026-07-15T20:25:00+00:00",
       "fetched": "2026-07-29T08:14:13.524967+00:00"
-    },
-    {
-      "id": "0160747af3f7dd5f",
-      "title": "MIT Professor Susumu Tonegawa, renowned molecular biologist and Nobel laureate, dies at 86",
-      "link": "https://news.mit.edu/2026/mit-professor-susumu-tonegawa-renowned-molecular-biologist-nobel-laureate-dies-0715",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Tonegawa made landmark discoveries about how the immune system generates antibody diversity and how the brain forms memories.",
-      "published": "2026-07-15T19:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525016+00:00"
-    },
-    {
-      "id": "f3ede236a71d26bf",
-      "title": "3D-printed bridge points the way to greener construction",
-      "link": "https://news.mit.edu/2026/3d-printed-bridge-points-to-greener-construction-0715",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers developed a framework that folds a printer’s real-world limits into the optimization, while revealing that better hardware could sharply reduce material use.",
-      "published": "2026-07-15T17:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.525073+00:00"
     }
   ]
 }
