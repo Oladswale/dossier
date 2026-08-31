@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-08-30T20:08:45.693622+00:00",
+  "updated": "2026-08-31T01:48:52.028661+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6f7f687f24c1fabd",
+      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "U.S. stock-index futures declined on Sunday, as investors ponder the likelihood of a fresh interest-rate hike and look ahead to fresh labor data and tech earnings this week.",
+      "published": "2026-08-31T01:44:00+00:00",
+      "fetched": "2026-08-31T01:48:50.052955+00:00"
+    },
+    {
+      "id": "7aeb53cca55818ba",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "published": "2026-08-30T22:31:00+00:00",
+      "fetched": "2026-08-31T01:48:50.053003+00:00"
+    },
+    {
+      "id": "832de94e15663c21",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "published": "2026-08-30T22:15:00+00:00",
+      "fetched": "2026-08-31T01:48:50.053037+00:00"
+    },
     {
       "id": "67c658ac756e4360",
       "title": "CPPE urges NMDPRA to restrict fuel imports to verified supply shortfalls",
@@ -1472,36 +1502,6 @@
       "summary": "Where should AI not be allowed to operate without a human being ultimately responsible? Healthcare should be an obvious starting point.",
       "published": "2026-08-27T09:52:10+00:00",
       "fetched": "2026-08-27T16:54:49.914442+00:00"
-    },
-    {
-      "id": "3b5467f238f9f92c",
-      "title": "Bolt backs Mombasa County push to formalise 400 delivery riders with training and licences",
-      "link": "https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Bolt has partnered with the Mombasa County government to launch a programme to help 400 delivery riders in the county obtain formal licences.",
-      "published": "2026-08-27T09:07:26+00:00",
-      "fetched": "2026-08-27T16:54:49.914469+00:00"
-    },
-    {
-      "id": "d83e2e3cdd81e392",
-      "title": "👨🏿‍🚀TechCabal Daily – Pick n Pay, pick n scroll",
-      "link": "https://techcabal.com/2026/08/27/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-pick-n-pay-pick-n-scroll/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Ventures Platform closes $84m fund Kenya’s Musalia Mudavadi wants the country to join global cyber-police Pick n Pay is making grocery shopping feel like scrolling TikTok Cameroon sets deadline to disconnect untaxed mobile phones",
-      "published": "2026-08-27T06:00:07+00:00",
-      "fetched": "2026-08-27T16:54:49.914512+00:00"
-    },
-    {
-      "id": "a5e2665ea3994a77",
-      "title": "HP inks deal with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
-      "link": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "It's a sign of adoption of Huawei technology outside China, despite the U.S. restricting the company from working with American suppliers such as Google.",
-      "published": "2026-08-27T03:42:17+00:00",
-      "fetched": "2026-08-27T05:15:02.420148+00:00"
     }
   ]
 }
