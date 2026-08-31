@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-08-31T11:56:17.328796+00:00",
+  "updated": "2026-08-31T18:23:13.601549+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d1abaa84ce7f0dcc",
+      "title": "Tim Curry (RIP) Breaks Down His Most Iconic Roles: Rocky Horror, Clue, Muppet Treasure Island & More",
+      "link": "https://www.openculture.com/2026/08/tim-curry-rip-breaks-down-his-most-iconic-roles.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Upon hearing of Tim Curry’s death last week, some of us could recall having seen him on stage: in Amadeus or Spamalot on Broadway, perhaps, though he also drew acclaim in the work of Stoppard, Brecht, and Shakespeare. For many more of us — perhaps all of us — it was his most memorable film and television [ ]",
+      "published": "2026-08-31T15:39:34+00:00",
+      "fetched": "2026-08-31T18:23:13.601312+00:00"
+    },
     {
       "id": "57b32f5d0f5c8864",
       "title": "The Periodic Table of Endangered Elements: Visualizing the Chemical Elements That Could Vanish Before You Know It",
@@ -1492,16 +1502,6 @@
       "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
       "published": "2026-07-16T04:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.524915+00:00"
-    },
-    {
-      "id": "c1dd04d4bd3f7793",
-      "title": "3 Questions: Neural transparency and the future of AI design",
-      "link": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
-      "published": "2026-07-15T20:25:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524967+00:00"
     }
   ]
 }

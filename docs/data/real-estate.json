@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-08-31T11:56:17.950465+00:00",
+  "updated": "2026-08-31T18:23:14.336434+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3f159e50d7f161c3",
+      "title": "How to Qualify for a Mortgage: Income, Credit, and Debt Requirements for a Loan",
+      "link": "https://www.realtor.com/advice/finance/what-you-need-to-get-a-mortgage/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Qualifying for a mortgage comes down to three things a lender checks closely when you apply: credit, income, and debt.",
+      "published": "2026-08-31T17:27:00+00:00",
+      "fetched": "2026-08-31T18:23:14.335805+00:00"
+    },
+    {
+      "id": "1f0037ea4c93bd6c",
+      "title": "Scottie Scheffler Dethrones Tiger Woods as Golf’s Money King With $10 Million Win—Inside the Home Where He Celebrates His Success",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/scottie-scheffler-pga-tournament-dallas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Scheffler has officially dethroned golf legend Tiger Woods atop the PGA Tour career money list, cementing his place in the history books.",
+      "published": "2026-08-31T17:11:00+00:00",
+      "fetched": "2026-08-31T18:23:14.335848+00:00"
+    },
+    {
+      "id": "4ff787cd02cd17f0",
+      "title": "How Meghan Markle and Prince Harry Spent Their Final Weekend at Their Montecito Home Before U.K. Move",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-final-weekend-montecito-home-uk-move/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The couple spent their final weekend in California soaking up the sunshine with friends and family before moving across the pond.",
+      "published": "2026-08-31T17:02:22+00:00",
+      "fetched": "2026-08-31T18:23:14.335878+00:00"
+    },
+    {
+      "id": "650966bc028dfd69",
+      "title": "Hawaii’s Housing Fragility: Understanding the Aftermath the Maui Wildfires 3 Years Later—and What’s To Come With Hurricane Karina",
+      "link": "https://www.realtor.com/news/real-estate-news/hawaii-housing-fragility-after-storm-fires/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Hurricane Karina plots its course, while a third of fire-affected households in Maui still don't have permanent housing.",
+      "published": "2026-08-31T16:50:09+00:00",
+      "fetched": "2026-08-31T18:23:14.335909+00:00"
+    },
+    {
+      "id": "2e819381f670e443",
+      "title": "Lionel Messi Bids Farewell to International Soccer—Inside the Luxury Homes He’ll Retreat To",
+      "link": "https://www.realtor.com/news/sports/lionel-messi-world-cup-argentina-homes-miami-florida/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Messi has announced his retirement from international football, bringing an end to his run with Argentina's national team.",
+      "published": "2026-08-31T16:08:00+00:00",
+      "fetched": "2026-08-31T18:23:14.335938+00:00"
+    },
+    {
+      "id": "4cfa08daa156987b",
+      "title": "‘Zombie’ Foreclosures Are Most Common in These Midwestern Cities",
+      "link": "https://www.realtor.com/news/trends/zombie-foreclosures-midwest-cities-ohio-indiana-attom-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Roughly 3.3% of homes in the foreclosure process in Quarter 3 of 2026 were abandoned by their owners, making them zombies.",
+      "published": "2026-08-31T15:37:58+00:00",
+      "fetched": "2026-08-31T18:23:14.335965+00:00"
+    },
+    {
+      "id": "cdbea95f0007d336",
+      "title": "EXCLUSIVE: ‘The View’ Host Joy Behar Offloads Hamptons Home for $5.65 Million—Nearly Half Her Original Asking Price",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/the-view-host-joy-behar-sells-hamptons-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Behar has officially offloaded her longtime Hamptons home for $5.65 million after several dramatic price cuts that totaled over $5 million.",
+      "published": "2026-08-31T14:53:42+00:00",
+      "fetched": "2026-08-31T18:23:14.335995+00:00"
+    },
+    {
+      "id": "3350b7d89b7348b8",
+      "title": "$65,000/Year in Cash Flow From a 100% Remote Real Estate Portfolio",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1324",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "In just under six years, Bryan Field built a 100% remote real estate investment portfolio producing over $65,000 per year in cash flow. He bought properties sight unseen, chose markets [ ]",
+      "published": "2026-08-31T11:00:59+00:00",
+      "fetched": "2026-08-31T18:23:13.921809+00:00"
+    },
+    {
+      "id": "d562e7d1af7188b8",
+      "title": "He Made $60,000 in 2 Months with This “Failed” Real Estate Deal",
+      "link": "https://www.biggerpockets.com/blog/rookie-764",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Every rookie thinks their first deal will go according to plan (it almost never does). Today, we’re bringing on a guest who had a long list of all the worst-case [ ]",
+      "published": "2026-08-31T11:00:23+00:00",
+      "fetched": "2026-08-31T18:23:13.921859+00:00"
+    },
     {
       "id": "5f5cf886d7bf0e35",
       "title": "Top 10 Cities for New Construction Revealed: The Carolinas Emerge as a Powerhouse",
@@ -1412,96 +1502,6 @@
       "summary": "Feel like your situation doesn t fit the typical real estate investing playbook? Maybe you’re low on cash, your circumstances are unusual, or your timeline feels tighter than everyone else s. You re [ ]",
       "published": "2026-08-21T11:00:09+00:00",
       "fetched": "2026-08-21T18:18:14.191659+00:00"
-    },
-    {
-      "id": "f1250df1cbfd2142",
-      "title": "How to Execute the “Slow” BRRRR Strategy in 2026 (Full Walkthrough)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1320",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The BRRRR method is not dead—far from it. In fact, it’s still one of my absolute favorite investing strategies today. But in 2026, you need to change how you use [ ]",
-      "published": "2026-08-21T11:00:03+00:00",
-      "fetched": "2026-08-21T12:19:30.711093+00:00"
-    },
-    {
-      "id": "b5fcf8fefb880640",
-      "title": "Start the Bidding: Lifelong Auctioneer Puts His Family Home on the Auction Block for $1",
-      "link": "https://www.realtor.com/news/trends/sell-home-auction-bernie-brzostek-baldwinsville/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Bernie Brzostek has conducted over 8,700 real estate and personal property auctions. Now, his family home is going on the block.",
-      "published": "2026-08-21T09:00:00+00:00",
-      "fetched": "2026-08-21T12:19:30.987684+00:00"
-    },
-    {
-      "id": "3e4877df2752e574",
-      "title": "Inside Pat McAfee’s $1.2 Million Indiana Mansion That Sits Mere Minutes From Old Church Where He Films His Show",
-      "link": "https://www.realtor.com/news/sports/pat-mcafee-home-studio-church-indiana-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "McAfee may have traded the football field for a seat behind the microphone, but he hasn't strayed far from the city where his career began.",
-      "published": "2026-08-20T23:05:56+00:00",
-      "fetched": "2026-08-21T00:30:54.345144+00:00"
-    },
-    {
-      "id": "fc5655d0603eebe2",
-      "title": "Luxury Broker Tracy Tutor Teases ‘Trouble’ Ahead as She Pivots From Real Estate to ‘Real Housewives of Beverly Hills’",
-      "link": "https://www.realtor.com/news/reality-tv/tracy-tutor-real-housewives-beverly-hills-cast/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The former \"Million Dollar Listing Los Angeles\" broker is headed for the \"Real Housewives\"—and ready to share her life with fans.",
-      "published": "2026-08-20T21:01:34+00:00",
-      "fetched": "2026-08-21T00:30:54.345174+00:00"
-    },
-    {
-      "id": "c9fde9417eaac58e",
-      "title": "EXCLUSIVE: Provincetown Condo Shatters Price Record—After Snagging a Buyer in Just 24 Hours",
-      "link": "https://www.realtor.com/news/unique-homes/provincetown-most-expensive-condo-record-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The $3.9 million unit eclipses the existing record for priciest condo sold in the Cape Cod enclave, having found a buyer in just 24 hours.",
-      "published": "2026-08-20T20:29:38+00:00",
-      "fetched": "2026-08-21T00:30:54.345194+00:00"
-    },
-    {
-      "id": "4d1b3e0f4e1712d0",
-      "title": "The Surprising Things Your Movers Won’t Move For You",
-      "link": "https://www.realtor.com/advice/move/what-your-movers-wont-move/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Movers draw the line on some things, and if you don’t know about them ahead of time, you might end up out of luck on moving day.",
-      "published": "2026-08-20T20:03:00+00:00",
-      "fetched": "2026-08-21T00:30:54.345214+00:00"
-    },
-    {
-      "id": "2b3a25b779119943",
-      "title": "Indianapolis Bans New Data Centers Until 2028 as Backlash Spreads",
-      "link": "https://www.realtor.com/news/real-estate-news/indianapolis-bans-new-data-centers-until-2028-as-backlash-spreads/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Indianapolis has joined several other cities and states in pausing or restricting construction of new data centers.",
-      "published": "2026-08-20T19:38:43+00:00",
-      "fetched": "2026-08-21T00:30:54.345231+00:00"
-    },
-    {
-      "id": "b1a7d1e6575c8e9b",
-      "title": "14 Crucial Items You Need To Purchase Prior to Moving Day",
-      "link": "https://www.realtor.com/advice/move/ultimate-moving-day-checklist/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Moving all your stuff from one house to the next is often grueling, so we've created a list of moving day must-haves.",
-      "published": "2026-08-20T19:33:00+00:00",
-      "fetched": "2026-08-21T00:30:54.345247+00:00"
-    },
-    {
-      "id": "359dd3e891852836",
-      "title": "Homeowners Are Digging In for 5 Years: A Threat to Buyers or a Hidden Lifeline?",
-      "link": "https://www.realtor.com/news/trends/homeowners-5-year-lock-in-hidden-lifeline-to-buyers/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Homeowners are still not ready to put their homes on the market. In the meantime, they're taking better care of their homes.",
-      "published": "2026-08-20T19:32:31+00:00",
-      "fetched": "2026-08-21T00:30:54.345265+00:00"
     }
   ]
 }
