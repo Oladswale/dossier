@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-01T10:35:55.873025+00:00",
+  "updated": "2026-09-01T15:37:44.157836+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d4f05ed971acf902",
+      "title": "Lindsay Clancy Jury Deadlocked in Murder Trial—Inside the Home Where Her 3 Children Died and Its Mysterious Off-Market Sale",
+      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Clancy’s jury says it is deadlocked after 19 hours of deliberations in her trial over the deaths of her three children.",
+      "published": "2026-09-01T15:12:28+00:00",
+      "fetched": "2026-09-01T15:37:44.157238+00:00"
+    },
+    {
+      "id": "28e54a323f1fa2d8",
+      "title": "EXCLUSIVE: Jennifer Aniston’s Partner Jim Curtis Whips $1.5 Million New York City Home Off Market Weeks After Celebrating 1-Year Anniversary",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jennifer-aniston-jim-curtis-new-york-home-sale-update-anniversary/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Curtis, 50, has owned the Manhattan condo since 2015 but put it on the market in January amid rumors he was going to move to L.A.",
+      "published": "2026-09-01T14:50:00+00:00",
+      "fetched": "2026-09-01T15:37:44.157280+00:00"
+    },
+    {
+      "id": "30b1ca2945d9d983",
+      "title": "Meghan Markle Wants To Recreate Her Lavish Montecito Lifestyle in the U.K.—With a 9-Bedroom Mansion and Filming Studio",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-nine-bedroom-home-uk-california-move/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Despite having just touched down in Harry's home country, Markle reportedly already has a wish list for the family's new home base.",
+      "published": "2026-09-01T14:46:45+00:00",
+      "fetched": "2026-09-01T15:37:44.157310+00:00"
+    },
+    {
+      "id": "58ad82db140b97ae",
+      "title": "The Bulletproof BRRRR in 2026 (Buying One Tomorrow!)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-456",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Today’s guest is buying a perfect BRRRR tomorrow. Even with today’s interest rates, even in this housing market, Zach Kepes is still making serious money with the strategy everyone has [ ]",
+      "published": "2026-09-01T11:00:07+00:00",
+      "fetched": "2026-09-01T15:37:43.741626+00:00"
+    },
     {
       "id": "24e54b1edd55186b",
       "title": "The Great Wealth Transfer Could Get Tangled in America’s Property Records",
@@ -1462,46 +1502,6 @@
       "summary": "Originally built in 2007 using steel-reinforced concrete, the ocean-adjacent home was never totally finished—but nobody knows why.",
       "published": "2026-08-22T14:31:00+00:00",
       "fetched": "2026-08-22T18:10:48.740398+00:00"
-    },
-    {
-      "id": "bb46c6862cb01643",
-      "title": "Fisher Price Co-Founder’s Lakefront Summer Cottage Where He Would Test New Toys Is Listed for Under $400K",
-      "link": "https://www.realtor.com/news/unique-homes/fisher-price-founder-lake-cottage-for-sale-toys/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Perched on the edge of Lake Erie, the property was originally built to serve as a summer retreat for toy maker Irving Price's family.",
-      "published": "2026-08-22T13:17:00+00:00",
-      "fetched": "2026-08-22T18:10:48.740431+00:00"
-    },
-    {
-      "id": "1c1131b6c0ac25f1",
-      "title": "The Ultimate Celebrity Status Symbol: Owning an Exclusive Private Island",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrities-own-private-islands-luxury-status-symbol/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Over the years, A-listers have taken their property portfolios to another level by purchasing entire islands.",
-      "published": "2026-08-22T11:03:00+00:00",
-      "fetched": "2026-08-22T12:12:53.830560+00:00"
-    },
-    {
-      "id": "fa2e42a9522f911d",
-      "title": "Glamping Retreat Offers Job With Free Housing in Geodesic Dome, and Applications Flood In",
-      "link": "https://www.realtor.com/news/trends/glamping-retreat-michigan-job-free-housing-geodesic-dome/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A luxurious glamping retreat in Michigan is seeing a flood of interest for a job that includes free housing in a unique geodesic dome home.",
-      "published": "2026-08-22T10:00:00+00:00",
-      "fetched": "2026-08-22T12:12:53.830592+00:00"
-    },
-    {
-      "id": "a34b478facbe47a7",
-      "title": "Altadena Wildfire Victims Turn to Factory Homes To Speed Rebuilding Process",
-      "link": "https://www.realtor.com/news/real-estate-news/altadena-factory-home-manufactured-rebuild-wildfire/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Block by block, brick by brick, devastated Altadena is emerging from the fires. But one home is coming together in just a few months.",
-      "published": "2026-08-21T21:49:20+00:00",
-      "fetched": "2026-08-22T00:27:46.367207+00:00"
     }
   ]
 }

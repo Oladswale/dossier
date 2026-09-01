@@ -1,8 +1,188 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-01T10:35:53.249088+00:00",
+  "updated": "2026-09-01T15:37:41.570483+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a170b67f4b8dfb6b",
+      "title": "Erykah Badu and the Alchemist Want You To Live in the Moment ‘Before the World Blows’",
+      "link": "https://www.rollingstone.com/music/music-album-reviews/erykah-badu-the-alchemist-before-the-world-blows-1235618167/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Their long-promised collaboration, which is also Badu's first proper album in 16 years, plays to both of their strengths and delivers exactly what fans have been waiting for",
+      "published": "2026-09-01T15:35:42+00:00",
+      "fetched": "2026-09-01T15:37:41.322751+00:00"
+    },
+    {
+      "id": "548ebbb5fc0a67f7",
+      "title": "Alex Warren Is Kindly and Earnest Enough to Make You Root For Him",
+      "link": "https://www.rollingstone.com/music/music-album-reviews/alex-warren-wildchild-album-review-1235618769/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The man behind 2025's biggest hit digs deeper into his turbulent past while still honing his voice on Wildchild",
+      "published": "2026-09-01T15:20:20+00:00",
+      "fetched": "2026-09-01T15:37:41.322785+00:00"
+    },
+    {
+      "id": "6b2dcd6399a9a056",
+      "title": "Vancouver Film Festival Reveals 2026 Lineup: Jesse Eisenberg, Cristian Mungiu but Also Local Talent, Indigenous and Nonfiction Cinema",
+      "link": "https://variety.com/2026/film/global/vancouver-film-festival-jesse-eisenberg-cristian-mungiu-1236848169/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The 45th edition of Canada’s Vancouver International Film Festival (VIFF) opens Oct. 1 with “The Debut,” Jesse Eisenberg’s offbeat comedy about community theater starring Julianne Moore and Paul Giamatti. VIFF closing night film is Martin McDonagh’s “Wild Horse Nine,” a black comedy set in the run-up to the 1973 Chilean coup and following CIA operatives [ ]",
+      "published": "2026-09-01T15:15:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072330+00:00"
+    },
+    {
+      "id": "fd14ec4d97ae3cea",
+      "title": "Jay Baruchel Is ‘The Stunt Driver’ in New Stills as IFC Comedy-Drama Heads to World Premiere at Toronto",
+      "link": "https://variety.com/2026/film/news/jay-baruchel-stunt-driver-ifc-toronto-1236844754/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Independent Film Company has unveiled new stills from ”The Stunt Driver,“ which is making its world premiere at the Toronto Intl. Film Festival Sept. 11.",
+      "published": "2026-09-01T15:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072392+00:00"
+    },
+    {
+      "id": "5f3d2f0c3966848c",
+      "title": "See Gracie Abrams Give an Intimate Performance of ‘Broke My Heart’ on Amazon Music’s ‘Songline’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/music/news/gracie-abrams-perform-broke-my-heart-amazon-music-songline-1236847781/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Amazon Music has partnered with Grammy-nominated singer-songwriter Gracie Abrams for a new episode of its docu-performance series “Songline” — and Variety has an exclusive preview of the song “Broke My Heart.” In the episode, recorded at the historic Church Studios in North London, Abrams revisits songs from her recent hit album, “Daughter from Hell,” through [ ]",
+      "published": "2026-09-01T15:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072445+00:00"
+    },
+    {
+      "id": "6fa229307054d8d4",
+      "title": "Variety Power of Women: Los Angeles Event Presented by Lifetime Announces Honorees Jennifer Hudson, Pearlena Igbokwe, Melissa McCarthy, Sharon Stone",
+      "link": "https://variety.com/2026/biz/news/variety-power-of-women-2026-jennifer-hudson-sharon-stone-1236847846/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety is pleased to announce the honorees for their upcoming Power of Women issue on Thursday, Sept. 17, with the event the following Wednesday. Sept.",
+      "published": "2026-09-01T15:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072489+00:00"
+    },
+    {
+      "id": "ad0f58fe1e766c56",
+      "title": "Benedict Cumberbatch-Narrated Doc ‘How to Live on Earth’ Sets September Release (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/how-to-live-on-earth-benedict-cumberbatch-release-date-1236847886/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“How to Live on Earth,” a feature documentary from Open Planet Studios and narrated by Benedict Cumberbatch, is set to premiere Sept. 20 on YouTube. Presented from London’s Natural History Museum, the film consists of segments from different contributors focusing on how humans can work with nature to build a safe and thriving future.",
+      "published": "2026-09-01T15:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072538+00:00"
+    },
+    {
+      "id": "967970d6a9034ca1",
+      "title": "Brazil’s Globo, Turkey’s Ay Yapim Renew Alliance With Three-Format Deal, Readying Turkish Version of Brazil’s ‘Looks & Essence’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/global/globo-ay-yapim-madd-entertainment-omur-usta-1236848089/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Globo, Latin America’s biggest media company, and Turkish telenovela powerhouse Ay Yapim, have renewed their alliance with a fresh three-title deal, including a new Globo format adaptation by Ay Yapim, “Ömür Usta,” set to bow on Turkey’s Now free-to-air channel in September. The new multi-title partnership rolls off the Ay Yapim produced Leyla, the first [ ]",
+      "published": "2026-09-01T15:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072591+00:00"
+    },
+    {
+      "id": "d6adc9c88bb8d586",
+      "title": "WNBA Names Catbird Official Jewelry Partner, Launches Limited-Edition Basketball Collection",
+      "link": "https://variety.com/2026/shopping/news/wnba-catbird-jewelry-partner-collection-shop-online-1236848247/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Catbird is bringing some Brooklyn sparkle to the WNBA. The New York-based jewelry brand has been named the WNBA s official jewelry partner, becoming the league s first-ever demi-fine jewelry partner. To mark the deal and the WNBA s milestone 30th season the two are launching a limited-edition jewelry collection on Sept.",
+      "published": "2026-09-01T14:58:52+00:00",
+      "fetched": "2026-09-01T15:37:41.072640+00:00"
+    },
+    {
+      "id": "dc48a53b19033f5e",
+      "title": "CBS News’ Abdul El-Sayed Post Sparks Digital Backlash",
+      "link": "https://variety.com/2026/tv/news/cbs-news-abdul-el-sayed-digital-backlash-1236848150/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A CBS News headline accompanying a story about Michigan Democratic Senate candidate Abdul El-Sayed has generated significant online scrutiny, and the Paramount Skydance news outlet, once known for its reserve, appears to feel the facts presented in the work outweigh the digital opprobrium. On Monday morning, the CBS News feed on X posted a story [ ]",
+      "published": "2026-09-01T14:45:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072681+00:00"
+    },
+    {
+      "id": "db243fab4114e09c",
+      "title": "Spike Jonze Launches Limited-Edition Eyewear Collection With Warby Parker",
+      "link": "https://variety.com/2026/shopping/news/spike-jonze-warby-parker-eyewear-collection-shop-online-1236848234/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Spike Jonze is putting his director’s eye on a different kind of frame. The Oscar-winning filmmaker has teamed with Warby Parker on a limited-edition eyewear collection launching Sept. 1, reviving four of his favorite discontinued frames from the brand’s archives.",
+      "published": "2026-09-01T14:42:36+00:00",
+      "fetched": "2026-09-01T15:37:41.072728+00:00"
+    },
+    {
+      "id": "40abe9d7b23cc1e7",
+      "title": "Hunter Biden Talks Crack, Family, and the Owl That Saved His Life",
+      "link": "https://www.rollingstone.com/culture/culture-features/hunter-biden-dopey-podcast-addiction-recovery-interview-1235618503/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "In a new interview on the addiction and recovery podcast Dopey , the former first son opens up about his struggles with substances and what pulled him through",
+      "published": "2026-09-01T14:40:25+00:00",
+      "fetched": "2026-09-01T15:37:41.322816+00:00"
+    },
+    {
+      "id": "65d90d582a923aa6",
+      "title": "‘Since It Is a Black Cemetery and Has the Stigma of Slavery, No One Wants to Touch It’",
+      "link": "https://www.rollingstone.com/culture/culture-features/key-west-unmarked-graves-african-burial-ground-1235618534/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "For more than 15 years, officials in Key West have known of the existence of some 100 unmarked graves at Higgs Beach. Yet efforts to honor the site have stalled",
+      "published": "2026-09-01T14:30:31+00:00",
+      "fetched": "2026-09-01T15:37:41.322848+00:00"
+    },
+    {
+      "id": "394930b281a6e29d",
+      "title": "Mark Ruffalo Defended by Hannah Einbinder, Joel Coen and More Than 170 Jewish Figures After Paramount Accuses Him of Using ‘Antisemitic Tropes’ — Read the Open Letter (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/mark-ruffalo-open-letter-antisemitism-claims-paramount-1236848093/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "More than 170 Jewish figures from the entertainment industry and beyond have signed a letter in support of Mark Ruffalo over what it asserts is a smear campaign against the actor. Among those supporting the letter — which claims that Ruffalo has been the subject of spurious charges of antisemitism — are Joel Coen, Todd Haynes, [ ]",
+      "published": "2026-09-01T14:30:00+00:00",
+      "fetched": "2026-09-01T15:37:41.072783+00:00"
+    },
+    {
+      "id": "a4df3769096b1279",
+      "title": "Jury Deadlocked in Lindsay Clancy Murder Trial as Deliberations Continue",
+      "link": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-trial-jury-fourth-day-deliberations-1235618833/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The judge overseeing the case told the jurors to continue deliberating after they said they’d been unable to come to a unanimous decision Tuesday morning",
+      "published": "2026-09-01T14:19:02+00:00",
+      "fetched": "2026-09-01T15:37:41.322879+00:00"
+    },
+    {
+      "id": "903a5edfc01947f4",
+      "title": "Yeah Yeah Yeahs Unveil Live Album Recorded at London’s Royal Albert Hall",
+      "link": "https://www.rollingstone.com/music/music-news/yeah-yeah-yeahs-live-album-short-film-london-1235618795/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The album, Hidden in Pieces Live at the Royal Albert Hall , was recorded last year and arrived alongside a short film",
+      "published": "2026-09-01T14:09:37+00:00",
+      "fetched": "2026-09-01T15:37:41.322906+00:00"
+    },
+    {
+      "id": "9783071dd00287e5",
+      "title": "Peacock Doesn’t Offer a Free Trial, But These 3 Workarounds Let You Stream Without Paying",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-get-a-peacock-free-trial-streaming-hack-1235509718/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Here are three ways to access Peacock content for free",
+      "published": "2026-09-01T13:49:00+00:00",
+      "fetched": "2026-09-01T15:37:41.322929+00:00"
+    },
+    {
+      "id": "dccaadfc441ddc11",
+      "title": "The 50 Most Anticipated Movies of Fall 2026",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/most-anticipated-movies-fall-2026-1235573608/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Fincher directs Tarantino! Downey Jr. rejoins the MCU!",
+      "published": "2026-09-01T13:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.322961+00:00"
+    },
     {
       "id": "0d35cdfe24a68051",
       "title": "London Film Festival Sets Screen Talks With Andrew Scott, Cynthia Erivo, Jesse Eisenberg, Sofia Coppola and More",
@@ -1322,186 +1502,6 @@
       "summary": "The guitar ace and his group Cosmic Country capture a pair of shows played the same night in 2025 in Nashville for the breathless three-hour-plus Ryman to Robert's",
       "published": "2026-08-28T22:39:11+00:00",
       "fetched": "2026-08-29T01:12:50.171663+00:00"
-    },
-    {
-      "id": "4c06b99a8864090c",
-      "title": "Lil Durk Murder-for-Hire Trial: Admitted Shooter Grilled on Cross, Confronted With Jail Calls",
-      "link": "https://www.rollingstone.com/music/music-news/lil-durk-murder-for-hire-trial-shooter-grilled-jail-calls-1235617554/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Defense lawyer Brian Steel asserted that Kasey “OTF Jam” Hester invented claims against the “All My Life” rapper in the hopes of helping himself",
-      "published": "2026-08-28T22:19:49+00:00",
-      "fetched": "2026-08-29T01:12:50.171681+00:00"
-    },
-    {
-      "id": "64b6dc17c40d0654",
-      "title": "How to Watch the 2026 College Football Season",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-college-football-games-online-streaming-2026-1235616887/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The college football season kicks off with North Carolina and TCU facing off in Ireland",
-      "published": "2026-08-28T22:00:00+00:00",
-      "fetched": "2026-08-29T01:12:50.171696+00:00"
-    },
-    {
-      "id": "80a7851c6cb0b500",
-      "title": "Everything We Know About ‘Grand Theft Auto VI’",
-      "link": "https://variety.com/2026/gaming/news/gta-6-release-details-1236846230/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "More than a decade after the last installment of “Grand Theft Auto” released, players are finally getting GTA 6 on Nov. 19. Per the official description for “GTA 6” from publisher Rockstar Games, “Jason and Lucia have always known the deck is stacked against them.",
-      "published": "2026-08-28T21:24:13+00:00",
-      "fetched": "2026-08-29T01:12:49.933871+00:00"
-    },
-    {
-      "id": "6c8f40fc33624a32",
-      "title": "Hooters Restaurant Movie in the Works — Film News in Brief",
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-aug-24-2026-1236841619/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "First the Blackberry and Hot Cheetos got the feature film treatment, and now: “Hooters: The Movie.” Based on real-life events that took place at the restaurant, the founders of Hooters are turning their business into a movie, which is already in the works, first reported by Deadline. The official description for the film reads: “Ted [ ]",
-      "published": "2026-08-28T21:20:30+00:00",
-      "fetched": "2026-08-29T01:12:49.933901+00:00"
-    },
-    {
-      "id": "897e03ef9900206f",
-      "title": "LISTEN: Holywater Tech Chief Bogdan Nesvit on the Explosive Growth of Microdramas: ‘Studios and Creators are Knocking on Our Doors’",
-      "link": "https://variety.com/2026/tv/news/holywater-tech-bogdan-nesvit-microdrama-my-drama-my-muse-1236846046/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "On today s episode of Variety s Strictly Business, Bogdan Nesvit, co-CEO and co-founder of Holywater Tech, details the explosive growth of the company’s My Drama and My Muse apps, and he details what he sees as the key to making vertical media more mainstream. “Studios and creators are knocking on our doors right now,” Nesvit says. [ ]",
-      "published": "2026-08-28T21:11:20+00:00",
-      "fetched": "2026-08-29T01:12:49.933935+00:00"
-    },
-    {
-      "id": "0bebf13f9b90b8ca",
-      "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Raises $10 Million for Women and Girls Nonprofits",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-daisy-chain-festival-donates-10-million-1235617591/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Proceeds from the festival will benefit organizations including National Domestic Workers Alliance, Planned Parenthood, National Institute for Reproductive Health, and more",
-      "published": "2026-08-28T21:03:33+00:00",
-      "fetched": "2026-08-29T01:12:50.171714+00:00"
-    },
-    {
-      "id": "ab304c941a320abc",
-      "title": "The Best College Student Discounts For Back-to-School",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-student-discounts-back-to-school-college-1235072787/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Once verified, students can start saving on everything from laptops and software to fashion and food delivery",
-      "published": "2026-08-28T21:02:28+00:00",
-      "fetched": "2026-08-29T01:12:50.171728+00:00"
-    },
-    {
-      "id": "8fedcc86423194aa",
-      "title": "Gladys Knight Cuts Back on Performing as She Transitions to ‘Next Stage’ of Career and Life",
-      "link": "https://variety.com/2026/music/news/gladys-knight-steps-back-performing-1236846273/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After three quarters of a century under the spotlight, Gladys Knight is ready to take things a little slower. Knight announced on Instagram on Thursday that she will be performing less, and will focus on other areas. The official statement reads: “After much soul searching I’ve decided that I will be easing into fewer performances [ ]",
-      "published": "2026-08-28T20:52:59+00:00",
-      "fetched": "2026-08-29T01:12:49.933966+00:00"
-    },
-    {
-      "id": "a32d42233cdbd148",
-      "title": "What’s New on Netflix in September 2026",
-      "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Whether you re looking to settle into September with cozy classics or start a new series, Netflix has a long list of titles joining or returning to the streamer this fall. The long-awaited “Earle Meets World” is available Sept. 4.",
-      "published": "2026-08-28T18:35:00+00:00",
-      "fetched": "2026-08-29T01:12:49.933996+00:00"
-    },
-    {
-      "id": "ccfef6b39ee440ac",
-      "title": "Disney+, Pokemon Company Ink Global Distribution Deal, Including New Stop-Motion Series",
-      "link": "https://variety.com/2026/tv/news/new-pokemon-stop-motion-series-disney-plus-deal-1236846186/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Disney+ has set a global distribution deal with the Pokémon Company International that will include a new stop-motion series coming in 2027. The announcement comes on the heels of “Pokémon the Series: The Beginning beginning to air on Disney XD earlier this month, marking it as the first title to launch under the new global [ ]",
-      "published": "2026-08-28T18:19:03+00:00",
-      "fetched": "2026-08-29T01:12:49.934024+00:00"
-    },
-    {
-      "id": "d9c36c683fce82c7",
-      "title": "Miguel Calls Out Harassment of Partner and Child: ‘Legal and Ethical Lines Have Been Crossed’",
-      "link": "https://www.rollingstone.com/music/music-news/miguel-calls-out-online-harassment-1235617426/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Racism, threats, harassment, stalking, invasions of privacy, and targeting of children are abuse. Not opinion,” the singer-songwriter wrote in a lengthy Instagram post",
-      "published": "2026-08-28T18:10:49+00:00",
-      "fetched": "2026-08-29T01:12:50.171749+00:00"
-    },
-    {
-      "id": "38b6d7a780845789",
-      "title": "Tiny Habits Against the World",
-      "link": "https://www.rollingstone.com/music/music-features/tiny-habits-keepers-album-interview-1235616230/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The trio discuss their sublime new album, Keepers , friendship, and words of wisdom they got from late rock luminary David Crosby",
-      "published": "2026-08-28T17:35:05+00:00",
-      "fetched": "2026-08-28T17:45:48.380737+00:00"
-    },
-    {
-      "id": "964bc79aa77899de",
-      "title": "The Who Rehearsed For Possible Tour With Zak Starkey Following Bitter Split: ‘It Sounded Great’",
-      "link": "https://www.rollingstone.com/music/music-news/the-who-rehearsed-with-zak-starkey-1235617418/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The wild soap opera of the Who and Zak Starkey's acrimonious split has reached a surprising new chapter, and the drummer might be back for their farewell tour in Europe",
-      "published": "2026-08-28T17:32:24+00:00",
-      "fetched": "2026-08-28T17:45:48.380770+00:00"
-    },
-    {
-      "id": "f27b2664be630bbe",
-      "title": "Tom Hardy Gets X-Rated About Kathy Bates, Raps About Willem Dafoe’s Green Goblin and Recites Shakespeare on His Wild New Album",
-      "link": "https://variety.com/2026/music/news/tom-hardy-raps-comic-book-villains-bane-voice-album-1236846004/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tom Hardy is best known as a movie star who plays rough-and-tumble characters, and he s brought that energy to the mic on his latest project. The actor who records music under the alias Frankie Pulitzer just dropped a collaborative album called “Czarface Meets Frankie Pulitzer” with underground rap supergroup Czarface, which consists of duo 7L [ ]",
-      "published": "2026-08-28T17:25:59+00:00",
-      "fetched": "2026-08-28T17:45:48.145024+00:00"
-    },
-    {
-      "id": "3605c4345e35b4db",
-      "title": "How ‘Idiots’ Director Macon Blair Conjures Big Laughs From the Year’s Cruelest Villain: ‘He’s Actually a Monster That Has to Be Captured Before More People Get Hurt’",
-      "link": "https://variety.com/2026/film/features/idiots-director-villain-1236840296/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“This guy really does need to be contained, because he s got such potential for danger and violence and mayhem.” Macon Blair is describing the antagonist of his latest movie. He s no stranger to menacing genre fare, as evidenced by the two other films he wrote and directed: 2017 s “I Don t Feel at Home in This [ ]",
-      "published": "2026-08-28T17:15:00+00:00",
-      "fetched": "2026-08-28T17:45:48.145066+00:00"
-    },
-    {
-      "id": "4106b8d419399d3a",
-      "title": "SCAD Savannah Film Festival Returns for 29th Year",
-      "link": "https://variety.com/2026/film/festivals/scad-savannah-film-festival-returns-1236846079/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SCAD Savannah Film Festival returns for its 29th year on Oct. 24 through Oct. 31.",
-      "published": "2026-08-28T17:15:00+00:00",
-      "fetched": "2026-08-28T17:45:48.145098+00:00"
-    },
-    {
-      "id": "13f064491391765a",
-      "title": "Halsey Is a Rock Star Rising From the Ashes in ‘The Girl in the Tower’",
-      "link": "https://www.rollingstone.com/music/music-features/halsey-concert-movie-the-girl-in-the-tower-review-1235616614/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Halsey delivers a boundary-pushing performance with a career-spanning set in her first concert film",
-      "published": "2026-08-28T17:12:09+00:00",
-      "fetched": "2026-08-28T17:45:48.380790+00:00"
-    },
-    {
-      "id": "e8def7f130246a47",
-      "title": "Drake Is Letting Fans Sleep With Him for $80 a Pop",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/drake-official-body-pillow-merch-buy-online-price-size-1235616892/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "It's not a recession indicator, but rather an official body pillow that lets fans cuddle up to the rapper every night in bed",
-      "published": "2026-08-28T17:02:55+00:00",
-      "fetched": "2026-08-28T17:45:48.380809+00:00"
     }
   ]
 }

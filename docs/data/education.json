@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-01T10:35:54.802136+00:00",
+  "updated": "2026-09-01T15:37:43.377388+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "89628394214bfc96",
+      "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
+      "link": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new study reveals insights into populations of neurons affected by Huntington’s disease, schizophrenia, addiction, and other disorders.",
+      "published": "2026-09-01T15:00:00+00:00",
+      "fetched": "2026-09-01T15:37:41.927420+00:00"
+    },
     {
       "id": "3ce01e61cbb99863",
       "title": "How Phone Addiction Keeps You from Achieving a Productive “Flow State”",
@@ -1492,16 +1502,6 @@
       "summary": "Norfolk is known for its network of rivers and lakes, its stock of medieval churches, and for being the home county of Alan Partridge. Last year, it quite literally unearthed another mark of distinction in the form of an iron age war trumpet. “The bronze trumpet or carnyx is only the third ever found in Britain, and [ ]",
       "published": "2026-07-21T09:00:44+00:00",
       "fetched": "2026-07-29T08:14:15.095404+00:00"
-    },
-    {
-      "id": "5531eb6469790243",
-      "title": "Getting Dressed During World War I: A Fascinating Look at How Soldiers, Nursers & Others Dressed During the Great War",
-      "link": "https://www.openculture.com/2026/07/getting-dressed-during-wwi.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Not to diminish the nightmare of mortars and shrapnel, but as evidenced by Crow’s Eye Productions’ period-accurate dressing video above, one of the greatest horrors of WWI was wet wool. Decades before the invention of Gore-Tex, Polar Fleece, and other high-performance, all-weather gear, British soldiers relied on their woolies from head to toe. An army [ ]",
-      "published": "2026-07-21T08:00:29+00:00",
-      "fetched": "2026-07-29T08:14:15.095436+00:00"
     }
   ]
 }
