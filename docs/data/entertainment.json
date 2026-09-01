@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-01T15:37:41.570483+00:00",
+  "updated": "2026-09-01T20:12:33.329456+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9bfaeb22c5b724a3",
+      "title": "Producer Urged Trump to Back U.S. Film Incentive Citing Prospect of Shooting Richard Nixon Biopic Overseas",
+      "link": "https://variety.com/2026/film/news/trump-us-film-incentive-white-house-meeting-richard-nixon-biopic-overseas-1236848380/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "President Donald Trump came away from a meeting with actor Jon Voight and two Hollywood producers very supportive of a federal tax incentive for film and TV productions. Something that may have caught Trump s attention was the explanation by one of the producers that he would be forced to shoot a planned biopic of Richard [ ]",
+      "published": "2026-09-01T20:00:00+00:00",
+      "fetched": "2026-09-01T20:12:32.961668+00:00"
+    },
+    {
+      "id": "255fd96b128fac80",
+      "title": "How to Watch Tonight’s ABC Special ‘9/11: United We Stand — 25 Years Later’ Online for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-911-united-we-stand-25-years-later-streaming-free-september-2026-1235619010/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The two-hour event will feature interviews with Michael Strahan, Derek Jeter, Pete Davidson, and more — here's where to tune in",
+      "published": "2026-09-01T20:00:00+00:00",
+      "fetched": "2026-09-01T20:12:33.188678+00:00"
+    },
+    {
+      "id": "e1f7523a0c202584",
+      "title": "Whistleblower Warns of Chaotic Trump Plan to Meddle With USPS Ballot Processing",
+      "link": "https://www.rollingstone.com/politics/politics-news/usps-whistleblower-mail-in-ballots-1235619245/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Just two months before the midterm elections, USPS is preparing to launch an untested mail-in ballot verifcation system that puts eligible voters in jeopardy",
+      "published": "2026-09-01T19:51:47+00:00",
+      "fetched": "2026-09-01T20:12:33.188716+00:00"
+    },
+    {
+      "id": "b0ddfe178fa61158",
+      "title": "Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator ‘Exploits’ Musicians’ Identities in Models",
+      "link": "https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Grammy-winning Americana crooner Jason Isbell is one of several new litigants in a new federal lawsuit against the AI music generator Suno, arguing the company has allowed users to produce tracks based on musicians identities with its models without their consent. The lawsuit — filed Monday in the U.S. District Court in Massachusetts by a group that [ ]",
+      "published": "2026-09-01T19:30:31+00:00",
+      "fetched": "2026-09-01T20:12:32.961733+00:00"
+    },
+    {
+      "id": "e43d379149b7d154",
+      "title": "‘Avengers: Secret Wars’ Adds Noah Jupe to Cast",
+      "link": "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Noah Jupe will be the latest actor to join the Marvel Cinematic Universe, with the Hamnet and A Quiet Place star tapped to play a top-secret role in Avengers: Secret Wars. The superhero team-up movie, directed by Anthony and Joe Russo and produced by Marvel chief Kevin Feige, is the follow-up to Avengers: Doomsday. That [ ]",
+      "published": "2026-09-01T19:18:12+00:00",
+      "fetched": "2026-09-01T20:12:32.961780+00:00"
+    },
+    {
+      "id": "447ce633b9332ee7",
+      "title": "The Best Magnesium Supplements and What to Look For, According to an Expert",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-magnesium-supplements-according-to-expert-shop-online-1235617573/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "We asked a doctor to explain one of the trendiest supplements on the market: magnesium. Here's what she said",
+      "published": "2026-09-01T19:17:38+00:00",
+      "fetched": "2026-09-01T20:12:33.188745+00:00"
+    },
+    {
+      "id": "1ded3891ae4f5e47",
+      "title": "Debi Mazar Says ‘Entourage’ Set Got ‘Toxic’ and ‘They Didn’t Like That I Got Fat’ After Birth of Second Child",
+      "link": "https://variety.com/2026/tv/news/debi-mazar-entourage-toxic-fat-birth-second-child-1236848459/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Debi Mazar says the set of “Entourage” became “toxic” after she gave birth to her second child, claiming “they didn’t like that I got fat.” In an interview with The Times U.K., the actress described being on the HBO show around Season 3 as “complicated” because “I’d had my second baby and they didn’t like [ ]",
+      "published": "2026-09-01T19:13:54+00:00",
+      "fetched": "2026-09-01T20:12:32.961830+00:00"
+    },
+    {
+      "id": "0fc7713d03f048d7",
+      "title": "Spike Jonze Teams Up With Warby Parker to Bring Back His Favorite Sold-Out Styles",
+      "link": "https://www.rollingstone.com/product-recommendations/style/spike-jonze-warby-parker-glasses-styles-buy-online-1235618978/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Oscar-winning director just brought back four discontinued (and very stylish) Warby Parker frames",
+      "published": "2026-09-01T19:07:36+00:00",
+      "fetched": "2026-09-01T20:12:33.188769+00:00"
+    },
+    {
+      "id": "f9ffd8ed8c3557a7",
+      "title": "‘Godzilla Minus Zero’ Named Centerpiece of Tokyo Film Festival as ‘Sukiyaki’ Opens, ‘Colony’ Closes",
+      "link": "https://variety.com/2026/film/festivals/godzilla-minus-zero-tokyo-centerpiece-sukiyaki-colony-1236847173/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Godzilla Minus Zero will screen as the centerpiece of the 39th Tokyo International Film Festival, with Zeze Takahisa s music drama Sukiyaki opening the festival and Yeon Sang-ho s zombie thriller Colony closing it. Director Yamazaki Takashi, who also wrote and oversaw visual effects on the film, returns with Godzilla Minus Zero as a follow-up to Godzilla [ ]",
+      "published": "2026-09-01T19:00:00+00:00",
+      "fetched": "2026-09-01T20:12:32.961880+00:00"
+    },
+    {
+      "id": "a6e9ed93308b1a89",
+      "title": "‘GTA 6’ Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days",
+      "link": "https://variety.com/2026/tv/news/gta-6-netflix-extended-look-views-1236848409/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "With only six hours of exclusivity before it hit YouTube, Netflix s Grand Theft Auto 6 extended look became the streamer s most-viewed title last week. Between its release on Thursday, Aug. 27 at 3 p.m.",
+      "published": "2026-09-01T19:00:00+00:00",
+      "fetched": "2026-09-01T20:12:32.961927+00:00"
+    },
+    {
+      "id": "73126a6470195137",
+      "title": "MasterClass Is Half Off for Labor Day — Here’s How Much You Can Save On Every Plan",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-masterclass-deal-sale-promo-1090815/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The online education platform offers more than 200 courses on everything from fitness to cooking to business. Here's how to get it for as little as $5 right now",
+      "published": "2026-09-01T18:54:00+00:00",
+      "fetched": "2026-09-01T20:12:33.188801+00:00"
+    },
+    {
+      "id": "0a2df35c26016680",
+      "title": "‘Heated Rivalry’ Season 2 Sets François Arnaud, Robbie G.K., Sophie Nélisse and More Returning Cast Members",
+      "link": "https://variety.com/2026/tv/news/heated-rivalry-season-2-returning-cast-francois-arnaud-1236848472/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "François Arnaud and Robbie G.K. will reprise their roles as Scott and Kip for the second season of “Heated Rivalry,” joining Connor Storrie and Hudson Williams for the hockey drama. Returning alongside Arnaud and G.K.",
+      "published": "2026-09-01T18:49:19+00:00",
+      "fetched": "2026-09-01T20:12:32.961982+00:00"
+    },
+    {
+      "id": "6971a77f91436342",
+      "title": "Owner of L.A. Rams and Denver Nuggets Buys Los Angeles Angels Baseball Team",
+      "link": "https://variety.com/2026/tv/news/los-angeles-angels-anaheim-kroenke-rams-denver-nuggets-1236848456/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Kroenke Sports and Entertainment has acquired a majority stake in the Los Angeles Angels, adding a Major League Baseball franchise to a list of sports assets that includes the Los Angeles Rams, Denver Nuggets and Colorado Avalanche. Financial details of the deal were not immediately clear. Kroenke Sports is acquiring a majority interest from longtime [ ]",
+      "published": "2026-09-01T18:46:21+00:00",
+      "fetched": "2026-09-01T20:12:32.962024+00:00"
+    },
+    {
+      "id": "f10fc4b44636a626",
+      "title": "Why Stella Lefty’s ‘Boston’ Became the Biggest Musical Punching Bag of the Decade — and One of the Biggest Songs of the Year",
+      "link": "https://variety.com/2026/music/columns/stella-lefty-boston-punching-bag-controversy-stick-season-1236848388/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "I like it when you re nice to me, Stella Lefty sings in the hook of her breakthrough single, Boston. To which we can only reply right now: Hope you re not reading the comments. Try to recall the last time there was as much mass derision directed at one song as there is currently aimed at [ ]",
+      "published": "2026-09-01T18:44:34+00:00",
+      "fetched": "2026-09-01T20:12:32.962084+00:00"
+    },
+    {
+      "id": "4d5eb9d126d4f019",
+      "title": "Pro-Paramount Group Uses AI to Pressure Rob Bonta to Drop Antitrust Case",
+      "link": "https://variety.com/2026/film/news/paramount-rob-bonta-artificial-intelligence-influent-ai-1236846315/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A group supporting the Paramount-Warner Bros. merger is using artificial intelligence to help pressure California Attorney General Rob Bonta to drop his antitrust lawsuit. The group, which uses the neutral-sounding name Neighbors for Strong Communities, uses AI to craft letters that are sent to Bonta’s office, but says that the senders are all real people.",
+      "published": "2026-09-01T18:41:39+00:00",
+      "fetched": "2026-09-01T20:12:32.962135+00:00"
+    },
+    {
+      "id": "dadf6256853a17be",
+      "title": "Lizzo Stylist’s Lawsuit Against Singer’s Touring Company Shut Down by Judge",
+      "link": "https://www.rollingstone.com/music/music-news/lizzo-stylist-lawsuit-shut-down-1235619054/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Judge rules Asha Daniels failed to identify conduct by employees that demonstrated “general hostility” to women in the workplace",
+      "published": "2026-09-01T18:07:04+00:00",
+      "fetched": "2026-09-01T20:12:33.188830+00:00"
+    },
+    {
+      "id": "1c5593e704f48586",
+      "title": "Jonathan Bailey Drops Out of West End Musical After Ariana Grande’s Departure",
+      "link": "https://www.rollingstone.com/culture/culture-news/jonathan-bailey-ariana-grande-sunday-in-the-park-revival-exit-1235619071/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Can you have a star-studded musical without stars? ‘Bridgerton’ actor exits anticipated ‘Sunday In The Park With George’ revival",
+      "published": "2026-09-01T17:59:20+00:00",
+      "fetched": "2026-09-01T20:12:33.188860+00:00"
+    },
+    {
+      "id": "dde31e51852438bd",
+      "title": "New York’s Paley Center Is Going to Pull Back the Curtain on Country Songwriting",
+      "link": "https://www.rollingstone.com/music/music-country/paley-center-country-music-songwriting-james-otto-1235612461/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Southern Rounds: Bringing Nashville to New York , featuring artists like James Otto, is part of an expanded focus from the organization on music programming",
+      "published": "2026-09-01T17:17:53+00:00",
+      "fetched": "2026-09-01T20:12:33.188891+00:00"
+    },
+    {
+      "id": "c618c6cf964d19bc",
+      "title": "What You Should Be Listening to, According to SZA",
+      "link": "https://www.rollingstone.com/music/music-features/sza-instagram-story-music-recommendations-1235616617/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "SZA has become a trusted music voice for her 23 million Instagram followers by keeping her finger on the pulse and sharing the artists she loves",
+      "published": "2026-09-01T17:14:16+00:00",
+      "fetched": "2026-09-01T20:12:33.188918+00:00"
+    },
+    {
+      "id": "7dfe678ee07987ec",
+      "title": "Miley (No Last Name) Plans 10th Album, ‘Bass Persuades,’ Hollywood Bowl Dates",
+      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-bass-persuades-hollywood-bowl-1235618977/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The artist teased the upcoming release with a 30-second instrumental video of her playing guitar",
+      "published": "2026-09-01T17:04:46+00:00",
+      "fetched": "2026-09-01T20:12:33.188943+00:00"
+    },
     {
       "id": "a170b67f4b8dfb6b",
       "title": "Erykah Badu and the Alchemist Want You To Live in the Moment ‘Before the World Blows’",
@@ -1302,206 +1502,6 @@
       "summary": "The new season is finally here! The 2026-2027 NCAA College Football season officially kicks off with its first big weekend of games starting on Saturday, Aug. 23.",
       "published": "2026-08-29T12:45:16+00:00",
       "fetched": "2026-08-29T15:48:19.100335+00:00"
-    },
-    {
-      "id": "a47ca9291453cd4f",
-      "title": "No One Knows How to End the War with Iran",
-      "link": "https://www.rollingstone.com/politics/political-commentary/no-one-knows-how-to-end-the-war-with-iran-1235617637/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Both Washington and Tehran want to inflict enough pain that the other side buckles. But neither side seems to be living in reality",
-      "published": "2026-08-29T12:37:08+00:00",
-      "fetched": "2026-08-29T15:48:19.331312+00:00"
-    },
-    {
-      "id": "187db2e7188466a4",
-      "title": "Chantelle Cameron vs. Mikaela Mayer Livestream: Here’s Where to Watch the Unification Title Bout Online for Free",
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-chantelle-cameron-vs-mikaela-mayer-boxing-live-online-free-1236846060/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The best boxers in the world travel to England for the Most Valuable Promotions Women (MVPW) boxing event. For the main event, English Chantelle Cameron (22-1-0) takes on American boxer Mikaela Mayer (22-2-0). The unification title bout is scheduled for 10 rounds.",
-      "published": "2026-08-29T12:00:00+00:00",
-      "fetched": "2026-08-29T15:48:19.100387+00:00"
-    },
-    {
-      "id": "70e1926230955d26",
-      "title": "Searches for Dolly Parton T-Shirts Are Up 10,000 Percent in Wake of Singer’s Death",
-      "link": "https://www.rollingstone.com/product-recommendations/style/best-dolly-parton-t-shirts-official-vintage-fan-merch-2026-1235616851/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From vintage tees to official merch, here's what fans are buying to commemorate the music legend",
-      "published": "2026-08-29T07:15:18+00:00",
-      "fetched": "2026-08-29T11:50:19.089094+00:00"
-    },
-    {
-      "id": "87ad0c5fbca1e08e",
-      "title": "‘The Song of Scorpions,’ ‘Qissa’ Director Anup Singh Sets Mumbai Film ‘Lasya: The Gentle Dance’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/anup-singh-lasya-the-gentle-dance-mumbai-film-1236846494/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Anup Singh, director of Qissa and The Song of Scorpions, is directing a new short film, Lasya: The Gentle Dance, shot on Mumbai s streets, produced by Mumbai-based Pretty Pictures. The Gentle Dance follows a father and son, beggars on Mumbai s roadside, over the course of a day in their lives. Monsoon rains repeatedly destroy their [ ]",
-      "published": "2026-08-29T07:06:14+00:00",
-      "fetched": "2026-08-29T11:50:18.947811+00:00"
-    },
-    {
-      "id": "3c67b64825368bb5",
-      "title": "Watch Bruce Springsteen and Bleachers Reunite to Sing ‘Jersey Girl’ and ‘Chinatown’ in Asbury Park",
-      "link": "https://www.rollingstone.com/music/music-news/bruce-springsteen-bleachers-perform-jersey-girl-chinatown-1235617724/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The duo last performed \"Chinatown\" live in 2020",
-      "published": "2026-08-29T05:22:21+00:00",
-      "fetched": "2026-08-29T11:50:19.089120+00:00"
-    },
-    {
-      "id": "5a6156fb6d2f2110",
-      "title": "Shailene Woodley Was Crushed When She Found Out Her Scenes in ‘Amazing Spider-Man 2’ Were Cut: The Role of Mary Jane Was ‘My Dream’",
-      "link": "https://variety.com/2026/film/news/shailene-woodley-amazing-spider-man-2-mary-jane-cut-a-year-after-filming-1236846453/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "More than 12 years later, Shailene Woodley has opened up about her disappointment in finding out that her part in The Amazing Spider-Man 2 opposite Andrew Garfield didn t make the final cut. Woodley, in a recent interview as part of the SAG-AFTRA Foundation Conversations series with actors about their craft, revealed that she found out [ ]",
-      "published": "2026-08-29T04:39:54+00:00",
-      "fetched": "2026-08-29T11:50:18.947858+00:00"
-    },
-    {
-      "id": "ae20a8692dc62b67",
-      "title": "Kartik Aaryan’s ‘Captain India’ Sets September London Shoot (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Captain India, starring Kartik Aaryan, commences principal photography in London this September, with the shoot expected to wrap by the end of October. The film is directed by Shimit Amin, known for Chak De! India, a title that has continued to resonate with audiences years after its 2007 release.",
-      "published": "2026-08-29T04:30:00+00:00",
-      "fetched": "2026-08-29T11:50:18.947898+00:00"
-    },
-    {
-      "id": "7f009e0da964f394",
-      "title": "Naomi Osaka Debuts a Luxury Accessories Brand at Uncharted’s Fame to Fortune Summit in the Hamptons",
-      "link": "https://variety.com/2026/biz/news/naomi-osaka-luxury-brand-uncharted-fame-to-fortune-summit-1236846357/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tennis champion Naomi Osaka has for years made the tennis court a runway, with her Nike outfits often paired with pieces made in collaboration with designers such as Hana Yagi and Robert Wun. Her next staple piece: one she’s designed herself. Such is the brand of luxury leather goods Osaka unveiled Friday at the Fame [ ]",
-      "published": "2026-08-29T02:44:49+00:00",
-      "fetched": "2026-08-29T11:50:18.947940+00:00"
-    },
-    {
-      "id": "a2a6adff20efa55a",
-      "title": "Taylor Swift Donates $50k to Help Mother Struck by Car",
-      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-donates-50k-mother-hit-by-car-1235617716/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The superstar donated to a GoFundMe launched to help Ashley Taunton, who was hit by a vehicle while helping others on the side of a road",
-      "published": "2026-08-29T02:28:58+00:00",
-      "fetched": "2026-08-29T11:50:19.089142+00:00"
-    },
-    {
-      "id": "752ca0078cea3298",
-      "title": "Bill Maher Delivers Lamest Dolly Parton Tribute Yet",
-      "link": "https://variety.com/2026/tv/news/bill-maher-lamest-dolly-parton-tribute-real-time-hbo-1236846445/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Last week, Bill Maher dedicated his long-running HBO show “Real Time” to defending Trump “human printer” Natalie Harp — after admitting he was too afraid to mock her oddly close relationship with President Trump because Laura Loomer sued him for ridiculing theirs (the lawsuit was tossed) — and getting chummy with Hunter Biden during his [ ]",
-      "published": "2026-08-29T02:28:12+00:00",
-      "fetched": "2026-08-29T11:50:18.947979+00:00"
-    },
-    {
-      "id": "ba96b3b8baacb2f4",
-      "title": "Sara Bareilles Sings About Loss — and It’s Our Gain — in the Beautifully Bittersweet ‘Good Grief’: Album Review",
-      "link": "https://variety.com/2026/music/album-reviews/sara-bareilles-album-review-good-grief-1236846038/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Well, just how good can grief be? That s a question raised by Sara Bareilles Good Grief, which, true to its promissory title, deals primarily with loss and death and the kind of tough stuff that folks in a marketing meeting might suggest slightly downplaying when one is releasing one s first studio album in seven years. [ ]",
-      "published": "2026-08-29T01:46:46+00:00",
-      "fetched": "2026-08-29T11:50:18.948017+00:00"
-    },
-    {
-      "id": "96e2fcbe0cc68f8b",
-      "title": "Zak Starkey and the Who Have Kissed and Made Up, as Rehearsal Reunion Is Revealed",
-      "link": "https://variety.com/2026/music/news/zak-starkey-the-who-reconcile-rehearsal-1236846409/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Apparently the deep and much-talked-about rift between the Who and former (and future?) drummer Zak Starkey was not quite a hell-freezes-over situation after all. Starkey, who was famously revealed to have been unceremoniously handed his walking orders in April 2025, is now back with Roger Daltrey and Pete Townshend or at least he has [ ]",
-      "published": "2026-08-29T00:43:17+00:00",
-      "fetched": "2026-08-29T01:12:49.933746+00:00"
-    },
-    {
-      "id": "a3d1f8043a9d3d90",
-      "title": "California Lawmakers Settle on Partial Film Carveout From Tax Credit Cap",
-      "link": "https://variety.com/2026/film/news/california-partial-film-carveout-tax-credit-cap-1236845354/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "California lawmakers have agreed on a partial carveout for the film and TV industry from a state cap on tax credits. The bill, AB 186, was unveiled on Friday evening. It addresses concerns raised in June by the Motion Picture Association and a coalition of entertainment unions, who argued that the cap threatened to undermine [ ]",
-      "published": "2026-08-29T00:32:51+00:00",
-      "fetched": "2026-08-29T01:12:49.933779+00:00"
-    },
-    {
-      "id": "5267837028d0094a",
-      "title": "College Football Kickoff: Where to Watch North Carolina vs. TCU in the First Game of the Season",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-north-carolina-tcu-college-football-game-online-free-1235615770/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Taking place in Dublin, Ireland, here’s how you can tune into the NCAA matchup without paying a dime",
-      "published": "2026-08-29T00:00:00+00:00",
-      "fetched": "2026-08-29T01:12:50.171580+00:00"
-    },
-    {
-      "id": "76f24aee6a0820fc",
-      "title": "Nashville Airport Could Be Renamed for Dolly Parton, Tennessee Governor Announces",
-      "link": "https://variety.com/2026/music/news/nashville-airport-could-be-renamed-for-dolly-parton-1236846385/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Country music icon, actress and philanthropist Dolly Parton dedicated her life to giving back to her home state of Tennessee, and now, three days after her death, her state is ready to give back to her, renewing an earlier proposal to rename the Nashville International Airport in her honor. Tennessee Gov. Bill Lee and the [ ]",
-      "published": "2026-08-28T23:36:56+00:00",
-      "fetched": "2026-08-29T01:12:49.933808+00:00"
-    },
-    {
-      "id": "0dd2cbbf54df0cad",
-      "title": "What’s Coming to Disney+ in September 2026",
-      "link": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It s officially fall at Disney+, which is entering the month of September with a lineup of beloved spooky classics and all things football. Coraline, ParaNorman and Jennifer s Body are among the titles kicking off the fall season on the streaming platform and Hulu, which will also see the season premieres of familiar favorites like Chad [ ]",
-      "published": "2026-08-28T23:20:00+00:00",
-      "fetched": "2026-08-29T01:12:49.933837+00:00"
-    },
-    {
-      "id": "19186a3f2236c05e",
-      "title": "Stella Lefty Interpolates the Chicks’ ‘There‘s Your Trouble’ on New Album",
-      "link": "https://www.rollingstone.com/music/music-news/stella-lefty-credit-the-chicks-summer-you-were-mine-1235616587/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A rep for Lefty confirmed to Rolling Stone that “Summer You Were Mine“ interpolates the Grammy-winning song after fans noticed similarities between the two tracks",
-      "published": "2026-08-28T22:53:29+00:00",
-      "fetched": "2026-08-29T01:12:50.171609+00:00"
-    },
-    {
-      "id": "e6fa795bd2c63079",
-      "title": "Where to Stream the 2026 Little League World Series for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/stream-little-league-world-series-2026-baseball-online-1235610289/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Four teams remain, with Curaçao facing Japan and the Mountain Region taking on the Great Lakes Region",
-      "published": "2026-08-28T22:49:55+00:00",
-      "fetched": "2026-08-29T01:12:50.171627+00:00"
-    },
-    {
-      "id": "50f75cd2cd4c4ceb",
-      "title": "No, Ice Spice Is Not Pregnant",
-      "link": "https://www.rollingstone.com/music/music-news/ice-spice-not-pregnant-out-my-face-music-video-1235617619/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "After the rapper appeared to be heavily pregnant in the video for \"Out My Face,\" fans took the imagery literally",
-      "published": "2026-08-28T22:49:53+00:00",
-      "fetched": "2026-08-29T01:12:50.171643+00:00"
-    },
-    {
-      "id": "2c312a52aef47d50",
-      "title": "Daniel Donato’s New Live Album Is a Jam Band Fan’s Dream",
-      "link": "https://www.rollingstone.com/music/music-features/daniel-donato-ryman-to-roberts-live-album-review-1235617485/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The guitar ace and his group Cosmic Country capture a pair of shows played the same night in 2025 in Nashville for the breathless three-hour-plus Ryman to Robert's",
-      "published": "2026-08-28T22:39:11+00:00",
-      "fetched": "2026-08-29T01:12:50.171663+00:00"
     }
   ]
 }
