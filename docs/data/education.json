@@ -1,8 +1,68 @@
 {
   "category": "education",
-  "updated": "2026-08-31T18:23:13.601549+00:00",
+  "updated": "2026-09-01T02:12:17.137263+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7ba1c746e9cb9253",
+      "title": "Translating economic growth into better lives",
+      "link": "https://news.mit.edu/2026/translating-economic-growth-into-better-lives-lyonel-tanganco-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Graduate student Lyonel Tanganco investigates how to improve public policy interventions and address challenges in nutrition, climate, and development.",
+      "published": "2026-08-31T20:40:00+00:00",
+      "fetched": "2026-09-01T02:12:15.948850+00:00"
+    },
+    {
+      "id": "488e7ac3ed92aa9a",
+      "title": "Gulfstream IV makes its long-awaited return to Lincoln Laboratory",
+      "link": "https://news.mit.edu/2026/gulfstream-iv-makes-long-awaited-return-to-lincoln-laboratory-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The modified aircraft will support an ongoing US Air Force program to assess and enhance the survivability of air and space vehicles.",
+      "published": "2026-08-31T20:00:00+00:00",
+      "fetched": "2026-09-01T02:12:15.948884+00:00"
+    },
+    {
+      "id": "fa7bd5e0a7f7cafc",
+      "title": "At MIT convocation, a warm welcome for the Class of 2030",
+      "link": "https://news.mit.edu/2026/mit-convocation-warm-welcome-class-of-2030-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Institute is “so glad and so grateful” to have this year’s new undergraduates aboard, President Kornbluth said at the annual greeting ceremony.",
+      "published": "2026-08-31T19:30:00+00:00",
+      "fetched": "2026-09-01T02:12:15.948917+00:00"
+    },
+    {
+      "id": "600253f2c95c3450",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
+      "published": "2026-08-31T19:30:00+00:00",
+      "fetched": "2026-09-01T02:12:15.948943+00:00"
+    },
+    {
+      "id": "e41e616af485ac44",
+      "title": "Study: Peptides can form well-defined structures in harsh, Venus-like conditions",
+      "link": "https://news.mit.edu/2026/study-peptides-can-form-well-defined-structures-harsh-venus-conditions-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "New research offers support for the possibility that complex biological molecules could exist in the highly acidic environment of Venus’s cloud layer.",
+      "published": "2026-08-31T19:00:00+00:00",
+      "fetched": "2026-09-01T02:12:15.948974+00:00"
+    },
+    {
+      "id": "1b68be9c4b35ad82",
+      "title": "Playing against climate risk",
+      "link": "https://news.mit.edu/2026/playing-against-climate-risk-0831",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Climate scientist Sai Ravela is using games to help coastal communities find creative adaptations to climate change.",
+      "published": "2026-08-31T19:00:00+00:00",
+      "fetched": "2026-09-01T02:12:15.948998+00:00"
+    },
     {
       "id": "d1abaa84ce7f0dcc",
       "title": "Tim Curry (RIP) Breaks Down His Most Iconic Roles: Rocky Horror, Clue, Muppet Treasure Island & More",
@@ -1442,66 +1502,6 @@
       "summary": "One might assume from a modern viewpoint that the hairstyles worn by monks arose to deal with male pattern baldness anxiety. As in the school uniform approach, you can’t single out one person’s baldness when everyone is bald. But this, again, would be a modern view, full of the vanity the tonsured—those with religiously shaven [ ]",
       "published": "2026-07-20T08:00:22+00:00",
       "fetched": "2026-07-29T08:14:15.095500+00:00"
-    },
-    {
-      "id": "727c4fa1246793f4",
-      "title": "School of Humanities, Arts, and Social Sciences welcomes six new faculty for 2026",
-      "link": "https://news.mit.edu/2026/school-humanities-arts-and-social-sciences-welcomes-six-new-faculty-0717",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New professors join the Comparative Media Studies/Writing, Economics, Linguistics, and Music and Theater Arts departments.",
-      "published": "2026-07-17T17:45:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524667+00:00"
-    },
-    {
-      "id": "bc9b4af47f2b712d",
-      "title": "Following the questions where they lead",
-      "link": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
-      "published": "2026-07-17T17:25:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524711+00:00"
-    },
-    {
-      "id": "27cb048fd9a10987",
-      "title": "How an influx of salt may affect microbial ecosystems",
-      "link": "https://news.mit.edu/2026/how-influx-salt-may-affect-microbial-ecosystems-0717",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "As sea levels rise and saltwater seeps into freshwater, stressed aquatic populations may retain overall growth even as diversity declines, MIT scientists find.",
-      "published": "2026-07-17T09:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524762+00:00"
-    },
-    {
-      "id": "02d6c8f7a6e036af",
-      "title": "Diana Grass: Listening to the body’s language",
-      "link": "https://news.mit.edu/2026/diana-grass-listens-to-bodys-language-0717",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The PhD candidate builds soft bioelectronic technologies to decode signals between the brain and the rest of the body.",
-      "published": "2026-07-17T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524812+00:00"
-    },
-    {
-      "id": "4fedcfe648a7e184",
-      "title": "For energy systems that power a reliable grid, the future is all about location",
-      "link": "https://news.mit.edu/2026/energy-systems-reliable-grid-future-is-about-location-0716",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers find that where new energy projects are built could be key to avoiding blackouts in a future with hotter weather and other challenges.",
-      "published": "2026-07-16T09:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524867+00:00"
-    },
-    {
-      "id": "b1f2c37b5b956a8c",
-      "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
-      "link": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
-      "published": "2026-07-16T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524915+00:00"
     }
   ]
 }
