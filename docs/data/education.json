@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-01T02:12:17.137263+00:00",
+  "updated": "2026-09-01T10:35:54.802136+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3ce01e61cbb99863",
+      "title": "How Phone Addiction Keeps You from Achieving a Productive “Flow State”",
+      "link": "https://www.openculture.com/2026/09/how-phone-addiction-keeps-you-from-achieving-a-productive-flow-state.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "If you have an iPhone, try pushing its side button three times in a row. Just like magic, the screen should turn from color into black-and-white, or rather grayscale. (To do the same on an Android phone, you’ll have to dive into settings, then “accessibility,” “vision enhancements,” and “color correction.”) Why would you want that [ ]",
+      "published": "2026-09-01T09:00:35+00:00",
+      "fetched": "2026-09-01T10:35:54.801862+00:00"
+    },
+    {
+      "id": "8192e435c6dd647f",
+      "title": "Milton Glaser’s 10 Rules for Life & Work: The Celebrated Designer Dispenses Wisdom Gained Over His Long Life & Career",
+      "link": "https://www.openculture.com/2026/09/milton-glasers-10-rules-for-life-and-work.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "“None of us has really the ability to understand our path until it’s over,” the celebrated graphic designer Milton Glaser mused less than a minute into the above video. The late Milton Glaser’s many contributions to pop culture—the I ❤ NY logo, the psychedelic portrait of a rainbow-haired Bob Dylan, DC Comics’ classic bullet logo—conferred [ ]",
+      "published": "2026-09-01T08:00:09+00:00",
+      "fetched": "2026-09-01T10:35:54.801925+00:00"
+    },
+    {
+      "id": "291d57a3e729025a",
+      "title": "Ila Kumar: Innovating with communities",
+      "link": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
+      "published": "2026-09-01T04:00:00+00:00",
+      "fetched": "2026-09-01T10:35:53.484017+00:00"
+    },
     {
       "id": "7ba1c746e9cb9253",
       "title": "Translating economic growth into better lives",
@@ -1472,36 +1502,6 @@
       "summary": "Not to diminish the nightmare of mortars and shrapnel, but as evidenced by Crow’s Eye Productions’ period-accurate dressing video above, one of the greatest horrors of WWI was wet wool. Decades before the invention of Gore-Tex, Polar Fleece, and other high-performance, all-weather gear, British soldiers relied on their woolies from head to toe. An army [ ]",
       "published": "2026-07-21T08:00:29+00:00",
       "fetched": "2026-07-29T08:14:15.095436+00:00"
-    },
-    {
-      "id": "544c761be5c7b529",
-      "title": "Emery Brown, Daniel Hastings, and Douglas Lauffenburger named Institute Professors",
-      "link": "https://news.mit.edu/2026/emery-brown-daniel-hastings-douglas-lauffenburger-named-institute-professors-0720",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Longtime professors and experts in the fields of anesthesiology, aerospace engineering, and biological engineering, respectively, receive MIT’s highest faculty honor.",
-      "published": "2026-07-20T17:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524620+00:00"
-    },
-    {
-      "id": "a74d25aaa9853682",
-      "title": "The World’s Greatest Song That Simply Shouldn’t Exist: The Making of The Beatles’ “A Day in the Life”",
-      "link": "https://www.openculture.com/2026/07/the-making-of-the-beatles-a-day-in-the-life.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Were we to take bets on the single most widely heard alarm clock, the one included on the Beatles’ “A Day in the Life” would surely be a popular choice. It comes, you’ll recall, at the beginning of the song’s middle section, when Paul takes over from John and sings about waking up, combing his [ ]",
-      "published": "2026-07-20T09:00:05+00:00",
-      "fetched": "2026-07-29T08:14:15.095468+00:00"
-    },
-    {
-      "id": "5c97695c62f143cc",
-      "title": "Where Did the Monk’s Haircut Come From? A Look at the Rich and Contentious History of the Tonsure",
-      "link": "https://www.openculture.com/2026/07/where-did-monks-haircut-come-from.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "One might assume from a modern viewpoint that the hairstyles worn by monks arose to deal with male pattern baldness anxiety. As in the school uniform approach, you can’t single out one person’s baldness when everyone is bald. But this, again, would be a modern view, full of the vanity the tonsured—those with religiously shaven [ ]",
-      "published": "2026-07-20T08:00:22+00:00",
-      "fetched": "2026-07-29T08:14:15.095500+00:00"
     }
   ]
 }

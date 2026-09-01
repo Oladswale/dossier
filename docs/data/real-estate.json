@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-01T02:12:17.951183+00:00",
+  "updated": "2026-09-01T10:35:55.873025+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "24e54b1edd55186b",
+      "title": "The Great Wealth Transfer Could Get Tangled in America’s Property Records",
+      "link": "https://www.realtor.com/news/trends/great-wealth-transfer-tangled-home-titles/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nearly 1 in 5 homeowners may lack clear title to their home—a problem that can complicate repairs, benefits, and inheritance.",
+      "published": "2026-09-01T09:00:00+00:00",
+      "fetched": "2026-09-01T10:35:55.872488+00:00"
+    },
+    {
+      "id": "8815927eac176937",
+      "title": "Big Changes Could Be Coming for Manufactured Housing Under Trump Admin, Experts Say",
+      "link": "https://www.realtor.com/news/real-estate-news/manufactured-housing-reform-federal-rules-trump/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The next two years could be transformational for factory-built housing, a niche that could thrive amid the national shortage of homes.",
+      "published": "2026-09-01T08:32:00+00:00",
+      "fetched": "2026-09-01T10:35:55.872527+00:00"
+    },
     {
       "id": "3e6e479deac91f60",
       "title": "Kelley Wolf Pens Apology to Family and Park City Community, Revealing ‘Drug-Induced Mania With Psychosis’ Resulted in Attempt To Enter Family Home",
@@ -1482,26 +1502,6 @@
       "summary": "Block by block, brick by brick, devastated Altadena is emerging from the fires. But one home is coming together in just a few months.",
       "published": "2026-08-21T21:49:20+00:00",
       "fetched": "2026-08-22T00:27:46.367207+00:00"
-    },
-    {
-      "id": "be5ffac437f97843",
-      "title": "Suspected HOA Fraud Leaves Historic 1899 Home at Risk of Demolition",
-      "link": "https://www.realtor.com/news/trends/williams-grove-hoa-fraud-gasser-property-management/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A historical home in Tennessee’s Williamson County is at risk of demolition after alleged misuse of HOA funds by a property manager.",
-      "published": "2026-08-21T20:50:33+00:00",
-      "fetched": "2026-08-22T00:27:46.367246+00:00"
-    },
-    {
-      "id": "c256889a9547eda6",
-      "title": "A Tree-Poisoning Mystery Is Rattling Locals in This Lake Community Surrounded By Luxury Homes",
-      "link": "https://www.realtor.com/news/real-estate-news/tree-poisoning-mystery-lake-tahoe-nevada/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Lake Tahoe, on the border between California and Nevada, is the site of a tree-murder mystery. Will law enforcement uncover a deeper plot?",
-      "published": "2026-08-21T20:12:28+00:00",
-      "fetched": "2026-08-22T00:27:46.367276+00:00"
     }
   ]
 }
