@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-02T01:35:36.450188+00:00",
+  "updated": "2026-09-02T10:01:22.921777+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b24e6b8722faddfd",
+      "title": "How Leonardo da Vinci’s Procrastination Contributed to His Creativity",
+      "link": "https://www.openculture.com/2026/09/how-leonardo-da-vincis-procrastination-contributed-to-his-creativity.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "At the height of their productivity as Beatles, neither Paul McCartney nor John Lennon could read or write music notation. Clearly it didn’t keep them from making a cultural impact, and as with so much else in life, they regarded it humorously. As McCartney has said, they used to liken themselves to ancient Egyptian pharaohs, [ ]",
+      "published": "2026-09-02T09:00:44+00:00",
+      "fetched": "2026-09-02T10:01:22.921411+00:00"
+    },
+    {
+      "id": "0311fdc5a9b6d792",
+      "title": "Watch the Completely Unsafe, Vertigo-Inducing Footage of Workers Building New York’s Iconic Skyscrapers",
+      "link": "https://www.openculture.com/2026/09/watch-the-footage-of-workers-building-new-yorks-iconic-skyscrapers.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Would anyone in their right mind sign up for a job that had a high risk of mortality/disability? Or a job where red hot metal is being hurled directly at your face? Back in the 1920s this was the lot of the men who built New York’s skyline, the men who constructed the Chrysler Building [ ]",
+      "published": "2026-09-02T08:00:15+00:00",
+      "fetched": "2026-09-02T10:01:22.921473+00:00"
+    },
     {
       "id": "80d9cc8b529af519",
       "title": "Walter Torous named executive director of MIT Center for Real Estate",
@@ -1482,26 +1502,6 @@
       "summary": "There are many ways to celebrate a new album from a band you admire. You can have a listening party alone. You can have a listening party with friends.",
       "published": "2026-07-22T08:00:59+00:00",
       "fetched": "2026-07-29T08:14:15.095372+00:00"
-    },
-    {
-      "id": "0dcd391ec86cfc09",
-      "title": "Diffuse puffs of “missing” matter surround most galaxies",
-      "link": "https://news.mit.edu/2026/missing-matter-diffuse-puffs-surround-most-galaxies-0721",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An MIT-led team used bright radio bursts to illuminate a vast source of matter that was previously unaccounted for.",
-      "published": "2026-07-21T15:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524417+00:00"
-    },
-    {
-      "id": "0d9b3aca8063b0b6",
-      "title": "MIT honors employees with 2026 Excellence Awards, Collier Medal, and Staff Award for Distinction in Service",
-      "link": "https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The MIT community celebrated the talent, dedication, and impact of its staff.",
-      "published": "2026-07-21T12:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524463+00:00"
     }
   ]
 }

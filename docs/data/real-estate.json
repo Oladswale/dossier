@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-02T01:35:36.939237+00:00",
+  "updated": "2026-09-02T10:01:23.578865+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2cc82abd3399fdde",
+      "title": "Mortgage Rate Shock Stalls Housing Market as 8-Month Growth Streak Collapses",
+      "link": "https://www.realtor.com/news/trends/high-mortgage-rates-pending-sales-august-2026-housing-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Pending home sales in August dropped for the first time in eight months against a backdrop of surging mortgage rates.",
+      "published": "2026-09-02T09:00:00+00:00",
+      "fetched": "2026-09-02T10:01:23.578175+00:00"
+    },
     {
       "id": "5c75148d5dda678c",
       "title": "Compass Settles Lawsuit With Northwest MLS in Deal To Allow ‘First Look’ Preview Listings",
@@ -1492,16 +1502,6 @@
       "summary": "RealReports is launching a more proactive AI designed to help agents find prospects, serve clients, and generate repeat business.",
       "published": "2026-08-24T13:00:00+00:00",
       "fetched": "2026-08-24T18:20:26.106741+00:00"
-    },
-    {
-      "id": "b96a8cf22a31aa53",
-      "title": "From Waiting Tables to $13,000+/Month in Just 3 Years (Thanks to Rentals)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1321",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Three years ago, Andres Martinez was waiting tables. Today, he owns 10 rental properties, manages another four, and has a rental portfolio that brings in over $13,000 in monthly cash [ ]",
-      "published": "2026-08-24T11:00:49+00:00",
-      "fetched": "2026-08-24T12:20:15.878667+00:00"
     }
   ]
 }
