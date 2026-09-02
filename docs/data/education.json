@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-02T10:01:22.921777+00:00",
+  "updated": "2026-09-02T15:25:57.813826+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "956e3afce488ead3",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
+      "published": "2026-09-02T15:00:00+00:00",
+      "fetched": "2026-09-02T15:25:56.610913+00:00"
+    },
+    {
+      "id": "0e6f757eaedb5dea",
+      "title": "New research shows a neutrino laser is impossible",
+      "link": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be achieved, scientists report.",
+      "published": "2026-09-02T14:00:00+00:00",
+      "fetched": "2026-09-02T15:25:56.610949+00:00"
+    },
     {
       "id": "b24e6b8722faddfd",
       "title": "How Leonardo da Vinci’s Procrastination Contributed to His Creativity",
@@ -1482,26 +1502,6 @@
       "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
       "published": "2026-07-22T17:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.524367+00:00"
-    },
-    {
-      "id": "9d094ca03732f2b3",
-      "title": "Umberto Eco’s Personal Library Opens to the Public: More Than 32,000 Books, Exactly as He Left Them",
-      "link": "https://www.openculture.com/2026/07/umberto-ecos-personal-library-opens-to-the-public.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Umberto Eco’s The Name of the Rose sold so well that its English translator William Weaver could add an extension onto his Tuscan villa, which he called the “Eco Chamber.” The Biblioteca Eco, or Eco Library, whose ribbon-cutting earlier this month you can see in the Italian news clip just above, may not be as wittily [ ]",
-      "published": "2026-07-22T16:44:26+00:00",
-      "fetched": "2026-07-29T08:14:15.095341+00:00"
-    },
-    {
-      "id": "e8f6bd910a13ca73",
-      "title": "Jimi Hendrix Plays “Sgt. Pepper’s Lonely Hearts Club Band” for The Beatles, Just Three Days After the Album’s Release (1967)",
-      "link": "https://www.openculture.com/2026/07/jimi-hendrix-plays-sgt-peppers-lonely-hearts-club-band-for-the-beatles.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "There are many ways to celebrate a new album from a band you admire. You can have a listening party alone. You can have a listening party with friends.",
-      "published": "2026-07-22T08:00:59+00:00",
-      "fetched": "2026-07-29T08:14:15.095372+00:00"
     }
   ]
 }

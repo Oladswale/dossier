@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-02T10:01:23.578865+00:00",
+  "updated": "2026-09-02T15:25:58.667443+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d2c73d9862017440",
+      "title": "Travis Kelce Drops $5.35 Million on Sprawling Lakefront Ohio Estate Near His Childhood Home—Months Before He and Taylor Swift Wed",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-kelce-buys-ohio-lakefront-home-taylor-swift-wedding/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Kansas City Chiefs tight end, 36, snapped up the palatial eight-bedroom, 8.5-bathroom property in March.",
+      "published": "2026-09-02T14:50:14+00:00",
+      "fetched": "2026-09-02T15:25:58.666891+00:00"
+    },
+    {
+      "id": "f417de587ef26f62",
+      "title": "EXCLUSIVE: NBA Star Dwight Howard Relists 12-Bedroom Georgia Megamansion With More Than $3 Million Price Hike",
+      "link": "https://www.realtor.com/news/sports/nba-dwight-howard-georgia-mansion-relisted-price-hike/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 40-year-old basketball legend has relisted his longtime Suwanee, GA, mansion for $14.5 million, marking a $3.25 million increase.",
+      "published": "2026-09-02T14:26:00+00:00",
+      "fetched": "2026-09-02T15:25:58.666930+00:00"
+    },
+    {
+      "id": "8fbdcf9e3f6f477d",
+      "title": "The New (Better) 1% Rule for Real Estate",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1325",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The rules of real estate investing have changed. For years, investors were using the one-percent rule to quickly determine if a real estate deal would cash flow. But the one-percent [ ]",
+      "published": "2026-09-02T11:00:23+00:00",
+      "fetched": "2026-09-02T15:25:58.122380+00:00"
+    },
+    {
+      "id": "a94dad65368f9c39",
+      "title": "Build Your First Rental (DON’T Buy One) in 2026",
+      "link": "https://www.biggerpockets.com/blog/rookie-765",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Builders are currently offering huge incentives on new construction homes, to the point where buying new might be actually cheaper than buying an existing rental property in your market right [ ]",
+      "published": "2026-09-02T11:00:09+00:00",
+      "fetched": "2026-09-02T15:25:58.122426+00:00"
+    },
     {
       "id": "2cc82abd3399fdde",
       "title": "Mortgage Rate Shock Stalls Housing Market as 8-Month Growth Streak Collapses",
@@ -1462,46 +1502,6 @@
       "summary": "The renter says New York City's rent is \"artificially higher\" because one real estate player controls 80% of the city's listings.",
       "published": "2026-08-24T14:49:39+00:00",
       "fetched": "2026-08-25T18:20:10.962419+00:00"
-    },
-    {
-      "id": "734dcfebb15edeb8",
-      "title": "Compass Faces Lawsuit From New York Renters as Congressional Scrutiny Mounts",
-      "link": "https://www.realtor.com/news/real-estate-news/compass-lawsuit-new-york-renters-streeteasy-congress/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The two renters say New York City's rent is \"artificially higher\" because one real estate player controls 80% of the city's listings.",
-      "published": "2026-08-24T14:49:39+00:00",
-      "fetched": "2026-08-24T18:20:26.106657+00:00"
-    },
-    {
-      "id": "da8246017b044e11",
-      "title": "Kyle Richards’ Daughter Farrah Reveals ‘Buying Beverly Hills’ Co-Star Is the Father of Her Child",
-      "link": "https://www.realtor.com/news/reality-tv/farrah-aldjufrie-baby-father-zach-goldsmith-kyle-richards-mauricio-umansky/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Aldjufrie revealed the father of her child is her \"Buying Beverly Hills\" co-star, Zach Goldsmith, as she hard-launched their relationship.",
-      "published": "2026-08-24T14:20:34+00:00",
-      "fetched": "2026-08-24T18:20:26.106687+00:00"
-    },
-    {
-      "id": "d340fcd359f05c48",
-      "title": "Pollen Season Will Be Longer and Hit Harder in These States: How Homeowners Should Prepare",
-      "link": "https://www.realtor.com/advice/home-improvement/pollen-season-2026-homeowner-prep/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Homeowners prepping for the fall allergy season may want to start prepping early: The forecast calls for longer season in 2026.",
-      "published": "2026-08-24T13:56:00+00:00",
-      "fetched": "2026-08-24T18:20:26.106714+00:00"
-    },
-    {
-      "id": "f954003b41c155f7",
-      "title": "EXCLUSIVE: As Home Sales Slump, RealReports Launches AI Tool To Help Agents Win More Business",
-      "link": "https://www.realtor.com/news/trends/realreports-ai-tool-real-estate-agents-business/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "RealReports is launching a more proactive AI designed to help agents find prospects, serve clients, and generate repeat business.",
-      "published": "2026-08-24T13:00:00+00:00",
-      "fetched": "2026-08-24T18:20:26.106741+00:00"
     }
   ]
 }
