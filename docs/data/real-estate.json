@@ -1,8 +1,128 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-02T15:25:58.667443+00:00",
+  "updated": "2026-09-02T20:11:02.241468+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "69a1c99a1950810d",
+      "title": "San Francisco Renter Reveals the Elaborate Scam That Cost Him $18K",
+      "link": "https://www.realtor.com/news/trends/san-francisco-renter-scam-payment-fake-craigslist/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As fraudsters become less detectable, some potential tenants can find themselves in nightmarish situations.",
+      "published": "2026-09-02T19:52:16+00:00",
+      "fetched": "2026-09-02T20:11:02.240646+00:00"
+    },
+    {
+      "id": "aa937932bdfaf774",
+      "title": "Provincetown’s Condo Price Record Shattered by $1 Million-Plus Just 2 Weeks After Previous High",
+      "link": "https://www.realtor.com/news/unique-homes/provincetown-most-expensive-condo-record-broken-again/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Just two weeks after a $3.9 million condo broke the last record, a $5 million unit has found a new buyer in mere days.",
+      "published": "2026-09-02T19:28:25+00:00",
+      "fetched": "2026-09-02T20:11:02.240687+00:00"
+    },
+    {
+      "id": "a61e755815fab843",
+      "title": "When Does Buying an Investment Property With Cash Make Sense?",
+      "link": "https://www.biggerpockets.com/blog/when-does-buying-an-investment-property-with-cash-make-sense",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "It’s a luxury many of us dream about: simply being able to buy investment properties for cash without that pesky mortgage payment complicating things every month. With interest rates showing [ ]",
+      "published": "2026-09-02T19:03:21+00:00",
+      "fetched": "2026-09-02T20:11:01.957678+00:00"
+    },
+    {
+      "id": "3f3dfe2f7e506108",
+      "title": "Lindsay Clancy Jury Fails to Reach Murder Trial Verdict for Second Time—Inside the Home Where Her 3 Children Died and Its Mysterious Sale",
+      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberations",
+      "published": "2026-09-02T19:03:00+00:00",
+      "fetched": "2026-09-02T20:11:02.240720+00:00"
+    },
+    {
+      "id": "380f391400584a73",
+      "title": "‘Dancing With the Stars’ Season 35 Cast Revealed: Inside the Incredible Homes the Celebrities Retreat to After the Ballroom",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dancing-with-the-stars-cast-revealed-inside-their-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"Dancing With the Stars\" has unveiled the 16 celebrities who will battle it out for the Mirrorball Trophy during the show's 35th season.",
+      "published": "2026-09-02T19:01:28+00:00",
+      "fetched": "2026-09-02T20:11:02.240751+00:00"
+    },
+    {
+      "id": "5ada2c9fccc144d6",
+      "title": "How Growing Up Between 2 Santa Cruz Homes Shaped ‘Severance’ Star Adam Scott’s Journey to Hollywood",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/severance-star-adam-scott-santa-cruz-childhood-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Scott has opened up about his childhood growing up in Santa Cruz, CA, revealing how his parents' very different homes helped shape him.",
+      "published": "2026-09-02T18:59:16+00:00",
+      "fetched": "2026-09-02T20:11:02.240782+00:00"
+    },
+    {
+      "id": "7c5ad9c3c812b38f",
+      "title": "SkyMall Founder and Former Arizona State Sen. Bob Worsley Lists Off-Grid Legacy Ranch for $9.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/skymall-founder-bob-worsley-lists-legacy-ranch/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Legacy Lodge anchors a 35-acre ranch featuring multiple structures. The retreat is ideal for extended family and friends to gather.",
+      "published": "2026-09-02T18:44:29+00:00",
+      "fetched": "2026-09-02T20:11:02.240810+00:00"
+    },
+    {
+      "id": "0d7acee614ea0b5e",
+      "title": "Furniture, Appliances, and Construction Among the Hardest Hit by Tariffs, Chicago Fed Says",
+      "link": "https://www.realtor.com/news/real-estate-news/tariff-price-impact-chicago-fed-study-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Chicago Fed also doubted the tariffs counterbalanced those increased costs by bolstering jobs in the short run.",
+      "published": "2026-09-02T18:42:00+00:00",
+      "fetched": "2026-09-02T20:11:02.240837+00:00"
+    },
+    {
+      "id": "cae6a34fc82524ae",
+      "title": "EXCLUSIVE: HGTV’s ‘Totally ’90s House’ Stars Reveal Kept Set Props From ‘Full House’ and ‘The Cosby Show’—and Spill on their Best Home Makeover Tips",
+      "link": "https://www.realtor.com/news/reality-tv/exclusive-totally-90s-house-stars-reveal-cosby-show-and-full-house-set-decor-thats-on-display-in-their-homes-today/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Stars from iconic 1990s sitcoms are removing retro traces of the past on a $200,000 budget in this new HGTV show.",
+      "published": "2026-09-02T18:30:24+00:00",
+      "fetched": "2026-09-02T20:11:02.240868+00:00"
+    },
+    {
+      "id": "df93a9eac34c40e7",
+      "title": "The Unmoving Barrier: Why Renters Must Treat Security Deposits Like a Down Payment",
+      "link": "https://www.realtor.com/advice/rent/security-deposits-down-payment-comparisons/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Like a home down payment, security deposits are a fixed hurdle. Discover why more than 65% of independent landlords refuse to waive them.",
+      "published": "2026-09-02T17:47:35+00:00",
+      "fetched": "2026-09-02T20:11:02.240895+00:00"
+    },
+    {
+      "id": "485461070688473f",
+      "title": "EXCLUSIVE: HGTV’s ‘Botched Homes’ Host Charlie Kawas Reveals the ‘Worst’ Renovations He’s Ever Seen—as He Admits Cancer Battle Has Made Tackling Jobs More Challenging",
+      "link": "https://www.realtor.com/news/reality-tv/hgtv-botched-homes-premiere-charlie-kawas-diagnosis/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The new home renovation series, which premieres Sept. 2, fixes construction dilemmas in South Florida.",
+      "published": "2026-09-02T17:00:26+00:00",
+      "fetched": "2026-09-02T20:11:02.240923+00:00"
+    },
+    {
+      "id": "5734771ecc85b8a2",
+      "title": "California Condo Owners Face Shock $26,000 HOA Fee for Emergency Roof Repair",
+      "link": "https://www.realtor.com/news/trends/san-clemente-hoa-fee-assessment-vilamoura-condo/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Vilamoura homeowners say their HOA board's emergency assessment violated the law.",
+      "published": "2026-09-02T15:35:44+00:00",
+      "fetched": "2026-09-02T20:11:02.240945+00:00"
+    },
     {
       "id": "d2c73d9862017440",
       "title": "Travis Kelce Drops $5.35 Million on Sprawling Lakefront Ohio Estate Near His Childhood Home—Months Before He and Taylor Swift Wed",
@@ -1382,126 +1502,6 @@
       "summary": "HGTV's aptly titled show, \"A Very Haunted Renovation,\" hosted by Anna Camp, will see six designers living and working in the decrepit house.",
       "published": "2026-08-24T21:10:06+00:00",
       "fetched": "2026-08-25T00:28:55.934282+00:00"
-    },
-    {
-      "id": "4bc7d35268e5aeb6",
-      "title": "EXCLUSIVE: Former NFL QB Chris Simms Cuts the Price of His Greenwich Estate Again—Dropping His Ask by Nearly $2 Million",
-      "link": "https://www.realtor.com/news/sports/nfl-tampa-bay-buccaneers-chris-simms-estate-price-cut-greenwich/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Simms and his wife, Daniella, initially put their longtime Greenwich abode on the market on Feb. 6 for $8 million.",
-      "published": "2026-08-24T20:14:38+00:00",
-      "fetched": "2026-08-25T00:28:55.934302+00:00"
-    },
-    {
-      "id": "fe9b2ab1bf7e5255",
-      "title": "Is It Worth Buying a Co-Op Apartment in New York City?",
-      "link": "https://www.realtor.com/news/trends/nyc-coop-worth-it-costs-pros-cons/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "NYC co-ops can cost far less than condos, but rising maintenance, strict boards, and weaker price growth can complicate the bargain.",
-      "published": "2026-08-24T19:11:56+00:00",
-      "fetched": "2026-08-25T00:28:55.934319+00:00"
-    },
-    {
-      "id": "f2e5d633e4b8c61a",
-      "title": "Retired MLB Star Cole Hamels’ Former Missouri Estate Goes Up for Auction With a Major Price Cut After Foreclosure",
-      "link": "https://www.realtor.com/news/unique-homes/cole-hamels-missouri-mansion-auction-foreclosure/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 104-acre property will be sold through an online auction beginning on Sept. 17. The bidding will come to an end at 11 a.m.",
-      "published": "2026-08-24T19:06:35+00:00",
-      "fetched": "2026-08-25T00:28:55.934340+00:00"
-    },
-    {
-      "id": "79768bfe5df1a503",
-      "title": "Massive Nevada Wildfire Destroys Homes, Forces 90,000 Evacuations Near Reno",
-      "link": "https://www.realtor.com/news/real-estate-news/nevada-hawk-wildfire-reno-evacuation-homes-destroyed/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nevada Gov. Joe Lombardo called the Hawk Fire an \"active and rapidly evolving situation.\"",
-      "published": "2026-08-24T18:41:26+00:00",
-      "fetched": "2026-08-25T00:28:55.934355+00:00"
-    },
-    {
-      "id": "7d865203d0d362c2",
-      "title": "3% Mortgage Rate vs. a 3% Down Payment: Which Path Builds More Wealth?",
-      "link": "https://www.realtor.com/news/trends/low-mortgage-rate-vs-down-payment-assistance-prop-37/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If approved, California Proposition 37 would create a down payment assistance program that offers a 3% down payment minimum.",
-      "published": "2026-08-24T17:58:00+00:00",
-      "fetched": "2026-08-24T18:20:26.106495+00:00"
-    },
-    {
-      "id": "462e0f413c6f534d",
-      "title": "The Returns Bell Curve: How I Spread Risk and Returns",
-      "link": "https://www.biggerpockets.com/blog/the-returns-bell-curve-how-i-spread-risk-and-returns",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "In real estate, high minimum investments aren’t just a barrier to entry—they re also a barrier to diversification. Whether you buy investment properties directly or invest passively in syndications, funds, or [ ]",
-      "published": "2026-08-24T17:46:19+00:00",
-      "fetched": "2026-08-25T00:28:55.437059+00:00"
-    },
-    {
-      "id": "8a86d9155ba1ec8b",
-      "title": "The U.S. Has Entered Deep Renter’s Market Territory—Here’s What It Means For Investors",
-      "link": "https://www.biggerpockets.com/blog/the-us-has-entered-deep-renters-market-territory-heres-what-it-means-for-investors",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "“Renters, this is your year,” Zillow senior economist Kara Ng recently told NPR. It s apparently a good time to be a tenant, as nearly 40% of listings on the market [ ]",
-      "published": "2026-08-24T17:34:49+00:00",
-      "fetched": "2026-08-25T00:28:55.437098+00:00"
-    },
-    {
-      "id": "376ff2c20969bde5",
-      "title": "Construction of Rental Homes Plunges After Congressional Fight Over Restrictions on the Sector",
-      "link": "https://www.realtor.com/news/trends/single-family-built-to-rent-construction-nahb-q2-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Build-to-rent developers are breathing a sigh of relief after changes were made to a recent housing bill.",
-      "published": "2026-08-24T16:59:16+00:00",
-      "fetched": "2026-08-24T18:20:26.106529+00:00"
-    },
-    {
-      "id": "61dc9cfae2e733d0",
-      "title": "EXCLUSIVE: ‘Remarkable’ $40 Million Full-Floor West Palm Beach Penthouse Hits the Market—2 Years Before It’s Due To Be Completed",
-      "link": "https://www.realtor.com/news/unique-homes/palm-beach-penthouse-for-sale-price-photos/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The incredible unit, when finished, will be perched atop the luxurious Maison D'Or building, one of the most lavish in West Palm Beach.",
-      "published": "2026-08-24T16:15:42+00:00",
-      "fetched": "2026-08-24T18:20:26.106566+00:00"
-    },
-    {
-      "id": "83ae0033e2fbc3cf",
-      "title": "Over 40% of Homeowners Haven’t Reviewed Their Insurance Policy in a Year—but Is Now the Right Time To Audit?",
-      "link": "https://www.realtor.com/news/trends/homeowners-skip-insurance-policy-review-audit/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "You're likely among the millions of homeowners neglecting your insurance—but is now really the time to audit your policy?",
-      "published": "2026-08-24T16:01:00+00:00",
-      "fetched": "2026-08-24T18:20:26.106599+00:00"
-    },
-    {
-      "id": "2711b61c5a6d465f",
-      "title": "EXCLUSIVE: ‘Girls Next Door’ Star Holly Madison Lists ‘Haunted’ Tudor Cottage With ‘Rapunzel Tower’ as $9.5K-a-Month Rental",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/holly-madison-haunted-los-angeles-witch-house-rental/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Girls Next Door\" star is renting out the 'fairytale' home that she previously had investigated for paranormal activity.",
-      "published": "2026-08-24T15:06:14+00:00",
-      "fetched": "2026-08-24T18:20:26.106630+00:00"
-    },
-    {
-      "id": "af8e82e7377b12ab",
-      "title": "Compass Faces Lawsuit From New York Renter as Congressional Scrutiny Mounts",
-      "link": "https://www.realtor.com/news/real-estate-news/compass-lawsuit-new-york-renters-streeteasy-congress/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The renter says New York City's rent is \"artificially higher\" because one real estate player controls 80% of the city's listings.",
-      "published": "2026-08-24T14:49:39+00:00",
-      "fetched": "2026-08-25T18:20:10.962419+00:00"
     }
   ]
 }
