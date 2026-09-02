@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-01T20:12:34.901607+00:00",
+  "updated": "2026-09-02T01:35:36.450188+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "80d9cc8b529af519",
+      "title": "Walter Torous named executive director of MIT Center for Real Estate",
+      "link": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
+      "published": "2026-09-01T21:25:00+00:00",
+      "fetched": "2026-09-02T01:35:35.564019+00:00"
+    },
+    {
+      "id": "583204af794ebfdd",
+      "title": "Cognition and consciousness arise from analog computations, says new theory",
+      "link": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The brain's ability to generate quick, nimble volitional thought — and a unified awareness of thought and experience — arises from analog computations, MIT neuroscientists argue in a new review.",
+      "published": "2026-09-01T20:35:00+00:00",
+      "fetched": "2026-09-02T01:35:35.564063+00:00"
+    },
     {
       "id": "89628394214bfc96",
       "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
@@ -1482,26 +1502,6 @@
       "summary": "The MIT community celebrated the talent, dedication, and impact of its staff.",
       "published": "2026-07-21T12:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.524463+00:00"
-    },
-    {
-      "id": "13189ea63375e944",
-      "title": "Engineering Design Studio hosts alumni on their fifth, 10th … and 55th reunions",
-      "link": "https://news.mit.edu/2026/engineering-design-studio-hosts-alumni-their-fifth-10th-and-55th-reunions-0721",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A recent reunion activity, taught by EECS Senior Lecturer Gim Hom, doubled as both his “last class” and a chance to reconnect with classmates.",
-      "published": "2026-07-21T12:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524559+00:00"
-    },
-    {
-      "id": "681ee6d480741935",
-      "title": "Hear the Haunting Sound of an Ancient Celtic War Trumpet: Silent for 2,000 Years, It Now Sounds Again",
-      "link": "https://www.openculture.com/2026/07/hear-the-haunting-sound-of-an-ancient-celtic-war-trumpet.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Norfolk is known for its network of rivers and lakes, its stock of medieval churches, and for being the home county of Alan Partridge. Last year, it quite literally unearthed another mark of distinction in the form of an iron age war trumpet. “The bronze trumpet or carnyx is only the third ever found in Britain, and [ ]",
-      "published": "2026-07-21T09:00:44+00:00",
-      "fetched": "2026-07-29T08:14:15.095404+00:00"
     }
   ]
 }

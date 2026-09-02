@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-01T20:12:35.599431+00:00",
+  "updated": "2026-09-02T01:35:36.939237+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5c75148d5dda678c",
+      "title": "Compass Settles Lawsuit With Northwest MLS in Deal To Allow ‘First Look’ Preview Listings",
+      "link": "https://www.realtor.com/news/real-estate-news/compass-lawsuit-nwmls-settlement-preview-listings/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Compass has settled a longstanding legal dispute with the Northwest Multiple Listing Service over private listings.",
+      "published": "2026-09-01T23:08:50+00:00",
+      "fetched": "2026-09-02T01:35:36.938471+00:00"
+    },
+    {
+      "id": "93b17931fe8a1924",
+      "title": "‘Dancing With the Stars’ Pro Gleb Savchenko Lists Peaceful $1.4 Million Desert Home Amid Custody Battle With Ex-Wife Elena Samodanova",
+      "link": "https://www.realtor.com/news/reality-tv/dwts-gleb-savchenko-lists-home-amid-custody-battle/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The professional dancer is looking to offload his desert abode as his ongoing custody battle with ex-wife Elena Samodanova continues.",
+      "published": "2026-09-01T22:49:36+00:00",
+      "fetched": "2026-09-02T01:35:36.938511+00:00"
+    },
+    {
+      "id": "3f8c3d20da23cc2c",
+      "title": "How the Trump Administration’s Pause on Immigrant Visas May Affect Rental Demand",
+      "link": "https://www.realtor.com/news/real-estate-news/trump-pause-on-immigrant-visas-may-affect-rental-demand/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A pause on visa applications, even if it's temporary, could have long-term implications for the U.S. housing market.",
+      "published": "2026-09-01T22:09:59+00:00",
+      "fetched": "2026-09-02T01:35:36.938540+00:00"
+    },
+    {
+      "id": "9030d4991bacbd91",
+      "title": "Inside Travis Kelce and Taylor Swift’s Growing Home Life as NFL Star Confirms Adorable New Addition",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-kelce-taylor-swift-new-dog-home-life/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Kansas City Chiefs tight end introduced the couple's white pup to the world while starring in Tommy Hilfiger's fall 2026 ad campaign.",
+      "published": "2026-09-01T21:16:38+00:00",
+      "fetched": "2026-09-02T01:35:36.938569+00:00"
+    },
+    {
+      "id": "e99491b04e365b59",
+      "title": "Mapped: Where NYC Homeowners Are Most Likely To Be Married",
+      "link": "https://www.realtor.com/news/trends/map-nyc-new-york-homeowners-married/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Among property owners in New York City, 51% are married-couple families. Staten Island is the most popular borough for families.",
+      "published": "2026-09-01T20:58:43+00:00",
+      "fetched": "2026-09-02T01:35:36.938597+00:00"
+    },
+    {
+      "id": "4183b50f2d618b18",
+      "title": "After a Power Outage, Most Homeowners Forget This Hidden Cost—and It’s the Highest It’s Ever Been",
+      "link": "https://www.realtor.com/advice/home-improvement/hidden-cost-power-outages-food-spoilage-generator/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homeowners are in the dark—literally and figuratively—during a power outage, and taking certain precautions can save you hundreds.",
+      "published": "2026-09-01T20:00:34+00:00",
+      "fetched": "2026-09-02T01:35:36.938629+00:00"
+    },
     {
       "id": "98bbec3db1a7d373",
       "title": "What Parents Are Really Willing To Pay for a House Close Enough To Walk Kids to School",
@@ -1442,66 +1502,6 @@
       "summary": "Three years ago, Andres Martinez was waiting tables. Today, he owns 10 rental properties, manages another four, and has a rental portfolio that brings in over $13,000 in monthly cash [ ]",
       "published": "2026-08-24T11:00:49+00:00",
       "fetched": "2026-08-24T12:20:15.878667+00:00"
-    },
-    {
-      "id": "ad642ce2d0cf8af1",
-      "title": "20 Rental Units with a Full-Time Job & 7 Kids: She Did It in 5 Years!",
-      "link": "https://www.biggerpockets.com/blog/rookie-761",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "What if the biggest obstacle to building wealth wasn t your income, your time, or even your circumstances, but simply believing it was possible for someone like you? Today’s guest made [ ]",
-      "published": "2026-08-24T11:00:01+00:00",
-      "fetched": "2026-08-24T12:20:15.878716+00:00"
-    },
-    {
-      "id": "e702a5ec2a35c57d",
-      "title": "Why Big Banks Are Pouring Billions Into Reviving the Housing Market",
-      "link": "https://www.realtor.com/news/real-estate-news/jpmorgan-citi-banks-housing-investment/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Banks are backing zoning reform, building code changes, and new homebuilding in an effort to restore affordability to the housing market.",
-      "published": "2026-08-24T09:00:00+00:00",
-      "fetched": "2026-08-24T12:20:16.302701+00:00"
-    },
-    {
-      "id": "116f2d9d943f170b",
-      "title": "New Escrow Rules May Eliminate Interest Payments: What Homeowners Stand To Lose—and Why Your State May Be Suing To Save Your Money",
-      "link": "https://www.realtor.com/news/trends/escrow-interest-homeowner-money-monday/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New federal mortgage escrow rules issued by the OCC grant national banks and federal savings associations full discretion over interest.",
-      "published": "2026-08-24T08:33:00+00:00",
-      "fetched": "2026-08-24T12:20:16.302742+00:00"
-    },
-    {
-      "id": "41ff3ff4b3834e1b",
-      "title": "‘The Game Is Over’: Sellers Are Facing Reality on Pricing and Backing Off Unrealistic Demands",
-      "link": "https://www.realtor.com/news/trends/home-sellers-price-strategy-housing-update-summer-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"In 2025, it was a game of chicken,\" says one agent. \"This year, the game is over.\"",
-      "published": "2026-08-24T08:15:00+00:00",
-      "fetched": "2026-08-24T12:20:16.302773+00:00"
-    },
-    {
-      "id": "8d9be9bc85991285",
-      "title": "Housing Week Ahead: Home Prices, New Construction Insights, and ‘Affordability Refugees’",
-      "link": "https://www.realtor.com/news/trends/housing-weekly-economics-video-august-24-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Get ready for another busy week in housing data, with several key indicators coming out as well as economic reports from Realtor.com.",
-      "published": "2026-08-24T08:01:00+00:00",
-      "fetched": "2026-08-24T12:20:16.302803+00:00"
-    },
-    {
-      "id": "12482fa74257872a",
-      "title": "Dazzling $9.6 Million Florida Estate With Its Own Baseball Field Comes Complete With a Home Run of a Backstory",
-      "link": "https://www.realtor.com/news/unique-homes/florida-estate-baseball-field-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The extraordinary 100-acre spread has only been home to two families over the years—and is now ready for its next steward.",
-      "published": "2026-08-23T21:29:00+00:00",
-      "fetched": "2026-08-24T00:29:21.254610+00:00"
     }
   ]
 }

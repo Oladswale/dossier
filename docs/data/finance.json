@@ -1,8 +1,48 @@
 {
   "category": "finance",
-  "updated": "2026-09-01T20:12:18.199826+00:00",
+  "updated": "2026-09-02T01:35:20.453341+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9dcc0873f34c16b8",
+      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
+      "published": "2026-09-02T00:18:00+00:00",
+      "fetched": "2026-09-02T01:35:19.613703+00:00"
+    },
+    {
+      "id": "84ce6633a9fbec10",
+      "title": "Dow drops below a key chart level, warning of more trouble ahead",
+      "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point.",
+      "published": "2026-09-01T21:56:00+00:00",
+      "fetched": "2026-09-02T01:35:19.613770+00:00"
+    },
+    {
+      "id": "04d2faeb7bac515c",
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+      "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
+      "published": "2026-09-01T21:02:00+00:00",
+      "fetched": "2026-09-02T01:35:19.613801+00:00"
+    },
+    {
+      "id": "a484cf76f550a115",
+      "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
+      "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil prices on Tuesday settled at their highest levels in nearly six weeks, after the U.S. military said it struck Iranian targets in the Strait of Hormuz in response to Tehran’s overnight attacks on ships transiting the vital waterway.",
+      "published": "2026-09-01T20:13:00+00:00",
+      "fetched": "2026-09-02T01:35:19.613848+00:00"
+    },
     {
       "id": "acb9e82deab65768",
       "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
@@ -1462,46 +1502,6 @@
       "summary": "The Nigerian Navy has deactivated two illegal refining sites in Rivers State and recovered approximately 34,000 litres of suspected illegally refined diesel. The post Navy deactivates two illegal refining sites in Rivers, recovers 34,000 litres of diesel appeared first on Nairametrics .",
       "published": "2026-08-30T15:47:11+00:00",
       "fetched": "2026-08-30T20:08:44.484852+00:00"
-    },
-    {
-      "id": "a723487d8c1e7063",
-      "title": "NABTEB sets deadline for 2026 November/December exam registration",
-      "link": "https://nairametrics.com/2026/08/30/nabteb-sets-deadline-for-2026-november-december-exam-registration/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Business and Technical Examinations Board (NABTEB) has set September 10, 2026, as the deadline for registration for its November/December certificate examinations. The post NABTEB sets deadline for 2026 November/December exam registration appeared first on Nairametrics .",
-      "published": "2026-08-30T14:43:35+00:00",
-      "fetched": "2026-08-30T15:32:48.675534+00:00"
-    },
-    {
-      "id": "69b56b8fbbda6021",
-      "title": "Meet 10 female executives shaping Nigeria’s telecoms industry in 2026",
-      "link": "https://nairametrics.com/2026/08/30/meet-10-female-executives-shaping-nigerias-telecoms-industry-in-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "From technology and enterprise services to finance, marketing, customer experience and corporate governance, these executives are helping shape the next phase of Nigeria’s telecommunications industry. The post Meet 10 female executives shaping Nigeria’s telecoms industry in 2026 appeared first on Nairametrics .",
-      "published": "2026-08-30T14:28:08+00:00",
-      "fetched": "2026-08-30T15:32:48.675594+00:00"
-    },
-    {
-      "id": "ac0e974101a11981",
-      "title": "Lagos, Ikoyi-Obalende LCDA move to tackle illegal space encroachment",
-      "link": "https://nairametrics.com/2026/08/30/lagos-ikoyi-obalende-lcda-move-to-tackle-illegal-space-encroachment/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government, through the Lagos State Informal Space Management Authority (LASISMA) and the Ikoyi-Obalende Local Council Development Area (LCDA), has moved to tackle illegal encroachment of informal and incidental open spaces within the council area. The post Lagos, Ikoyi-Obalende LCDA move to tackle illegal space encroachment appeared first on Nairametrics .",
-      "published": "2026-08-30T14:05:23+00:00",
-      "fetched": "2026-08-30T15:32:48.675640+00:00"
-    },
-    {
-      "id": "23525f3e348ae5d2",
-      "title": "Dangote Sugar, 28% below its high, trades at 493x. Is it cheap?",
-      "link": "https://nairametrics.com/2026/08/30/dangote-sugar-28-below-its-high-trades-at-493x-is-it-cheap/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Sugar Refinery Plc stock closed at N69 as of August 28, 2026, about 28% below its 52-week high of N95.80. For some stocks, a decline of that size leaves them cheaper The post Dangote Sugar, 28% below its high, trades at 493x. Is it cheap?",
-      "published": "2026-08-30T13:42:46+00:00",
-      "fetched": "2026-08-30T15:32:48.675682+00:00"
     }
   ]
 }
