@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-03T01:39:12.124646+00:00",
+  "updated": "2026-09-03T10:11:37.363294+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "29bf9cf95fe2d680",
+      "title": "How the Modern Farmhouse Conquered America—and What It Says About the Economy",
+      "link": "https://www.realtor.com/news/trends/modern-farmhouse-american-home-design-economy/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While modern farmhouse style seems like a matter of taste, its rise was driven by construction costs, mass production, and buyer demand.",
+      "published": "2026-09-03T09:00:00+00:00",
+      "fetched": "2026-09-03T10:11:37.362707+00:00"
+    },
+    {
+      "id": "5b40009541a2e0a5",
+      "title": "‘Next Gen NYC’ Star Emira D’Spain Shows Off the Glam Room Inside Her Manhattan Apartment",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/next-gen-nyc-star-emira-dspain-shows-off-glam-room/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Bravo star, 29, recently remodeled her very \"organized\" glam room in her two-bed, two-bath Manhattan apartment.",
+      "published": "2026-09-03T08:37:00+00:00",
+      "fetched": "2026-09-03T10:11:37.362747+00:00"
+    },
     {
       "id": "ba88854113488253",
       "title": "The Most Expensive Renovation Mistakes Happen Before Construction Starts",
@@ -1482,26 +1502,6 @@
       "summary": "Builders are struggling to survive, let alone sell homes, in 2026. Prices aren’t keeping pace, home sales are falling, and nobody can find the labor to build the houses in [ ]",
       "published": "2026-08-25T11:00:13+00:00",
       "fetched": "2026-08-25T12:20:36.450568+00:00"
-    },
-    {
-      "id": "ae701ebbec10da9c",
-      "title": "Where ‘Affordability Refugees’ Are Moving as High Prices Push Them Out",
-      "link": "https://www.realtor.com/news/trends/home-prices-affordability-refugees-moving-august-2026-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Driven by surging home prices, over 60% of shoppers searched for properties outside their local markets, targeting more affordable metros.",
-      "published": "2026-08-25T09:00:00+00:00",
-      "fetched": "2026-08-25T12:20:36.900882+00:00"
-    },
-    {
-      "id": "a180113c7c7eb311",
-      "title": "My Mom Is ‘Death Cleaning.’ What She Decided To Leave Me Was a Surprise.",
-      "link": "https://www.realtor.com/news/trends/swedish-death-cleaning-great-wealth-transfer-inheritance/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "My mom is \"Swedish death cleaning\" before I inherit her belongings—and reconsidering what makes an heirloom valuable in the first place.",
-      "published": "2026-08-25T08:37:00+00:00",
-      "fetched": "2026-08-25T12:20:36.900917+00:00"
     }
   ]
 }

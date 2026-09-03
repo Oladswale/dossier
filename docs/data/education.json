@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-09-03T01:39:11.510854+00:00",
+  "updated": "2026-09-03T10:11:36.672976+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7a102577935180d9",
+      "title": "Wes Anderson Picks Nine of His Favorite Criterion Films",
+      "link": "https://www.openculture.com/2026/09/wes-anderson-picks-nine-of-his-favorite-criterion-films.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Many an internet cinephile has wondered aloud if the Criterion Closet is a real place, or just a set thrown together to make videos when famous directors like Christopher Nolan, Francis Ford Coppola, or Jim Jarmusch drop by. It turns out indeed to exist, not only at Criterion’s offices in New York, but also elsewhere. [ ]",
+      "published": "2026-09-03T09:00:20+00:00",
+      "fetched": "2026-09-03T10:11:36.672707+00:00"
+    },
+    {
+      "id": "0c43fd1bf440d4ed",
+      "title": "Discover J.R.R. Tolkien’s Personal Book Cover Designs for The Lord of the Rings Trilogy",
+      "link": "https://www.openculture.com/2026/09/j-r-r-tolkiens-personal-book-cover-designs-for-the-lord-of-the-rings.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In some rare cases, adaptations and interpretations of a literary work can surpass the source. Despite hundreds of valiant efforts on the part of fans, filmmakers, game/toy designers, and radio producers, this has never been true of the fully-realized fantasy world in J.R.R. Tolkien’s The Hobbit and The Lord of the Rings trilogy (not that it’s ever [ ]",
+      "published": "2026-09-03T08:00:51+00:00",
+      "fetched": "2026-09-03T10:11:36.672770+00:00"
+    },
+    {
+      "id": "d2bb497c42f1e142",
+      "title": "New qubit architecture enables faster, more accurate operations",
+      "link": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "This advance could be a big step toward developing a scalable, practical quantum computer.",
+      "published": "2026-09-03T04:00:00+00:00",
+      "fetched": "2026-09-03T10:11:34.839043+00:00"
+    },
+    {
+      "id": "69ba213b99074734",
+      "title": "Giving farmers a more sustainable way to protect crops",
+      "link": "https://news.mit.edu/2026/robigo-gives-farmers-more-sustainable-way-protect-crops-0903",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Led by Andee Wallace PhD ’20, Robigo uses cutting-edge biotechnology to engineer microbes to fight pests, reducing the need for harmful chemical pesticides.",
+      "published": "2026-09-03T04:00:00+00:00",
+      "fetched": "2026-09-03T10:11:34.839085+00:00"
+    },
     {
       "id": "a7affe07896ceebc",
       "title": "Building foundations that last",
@@ -1462,46 +1502,6 @@
       "summary": "Folks with a passing knowledge of ukiyo‑e, the Japanese woodblock print art form popular in the 17th through 19th centuries, will be familiar with its landscapes, as well as its portraits of courtesans and kabuki actors. But often these prints were educational, as demonstrated by these very odd anatomical prints that promote good health as [ ]",
       "published": "2026-07-24T08:00:40+00:00",
       "fetched": "2026-07-29T08:14:15.095241+00:00"
-    },
-    {
-      "id": "eaef26daa2bb621e",
-      "title": "Looking beyond research",
-      "link": "https://news.mit.edu/2026/looking-beyond-research-anna-christina-eilers-0723",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Professor Anna-Christina Eilers is “Committed to Caring” for building a culture around attentiveness and community.",
-      "published": "2026-07-23T19:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524201+00:00"
-    },
-    {
-      "id": "f7a270e568a5f5ad",
-      "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
-      "link": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more.",
-      "published": "2026-07-23T12:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524255+00:00"
-    },
-    {
-      "id": "6c8beae6776d3c98",
-      "title": "A Free Online Archive Lets You Explore 5.8 Million Works of Art Spanning 5,000 Years of History",
-      "link": "https://www.openculture.com/2026/07/a-free-online-archive-lets-you-explore-5-8-million-works-of-art-spanning-5000-years-of-history.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Though it’s traditionally meant “last in a progression or series,” as Merriam-Webster puts it, the word ultimate has been more often used in recent decades to mean “the best or most extreme of its kind.” The name of a recently launched digital archive performs a rare inversion, labeling as last a creation marked not by finality but extremity. Billed as “the [ ]",
-      "published": "2026-07-23T09:00:56+00:00",
-      "fetched": "2026-07-29T08:14:15.095276+00:00"
-    },
-    {
-      "id": "22f8c11cc7e3fb26",
-      "title": "How Did Everything Begin?: Animations on the Origins of the Universe Narrated by X‑Files Star Gillian Anderson",
-      "link": "https://www.openculture.com/2026/07/animations-on-the-origins-of-the-universe-narrated-by-gillian-anderson.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "We previously brought you the BBC series of short animated videos, A History of Ideas. Produced in collaboration with the UK’s Open University and narrated by Harry Shearer, these fun introductions to such philosophers as Simone de Beauvoir and Edmund Burke, and such weighty philosophical topics as free will and the problem of evil, make [ ]",
-      "published": "2026-07-23T08:00:13+00:00",
-      "fetched": "2026-07-29T08:14:15.095309+00:00"
     }
   ]
 }
