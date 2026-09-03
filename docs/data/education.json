@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-03T15:18:25.844605+00:00",
+  "updated": "2026-09-03T20:11:41.373789+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2fdd07b56d8a8c19",
+      "title": "3 Questions: The essential role of international engagement",
+      "link": "https://news.mit.edu/2026/3-questions-essential-role-of-international-engagement-0903",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Duane Boning, MIT’s vice provost for international activities, discusses the Institute’s approach to global engagement.",
+      "published": "2026-09-03T19:15:00+00:00",
+      "fetched": "2026-09-03T20:11:39.504200+00:00"
+    },
+    {
+      "id": "455b81b03e3e7416",
+      "title": "Assistant Professor Thomas Rose, an expert in archaeometallurgy, dies at 37",
+      "link": "https://news.mit.edu/2026/mit-assistant-professor-thomas-rose-archaeometallurgy-expert-dies-0903",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Colleagues remember Rose as an enthusiastic and gracious friend who had recently started a promising research track at MIT.",
+      "published": "2026-09-03T17:00:00+00:00",
+      "fetched": "2026-09-03T20:11:39.504237+00:00"
+    },
+    {
+      "id": "67923de5e1ca8598",
+      "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
+      "link": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "This scalable process produces high-performance chips for applications like discreet wearables or pliable augmented-reality displays.",
+      "published": "2026-09-03T15:45:00+00:00",
+      "fetched": "2026-09-03T20:11:39.504263+00:00"
+    },
     {
       "id": "7a102577935180d9",
       "title": "Wes Anderson Picks Nine of His Favorite Criterion Films",
@@ -1472,36 +1502,6 @@
       "summary": "Maybe you’ve already seen Christopher Nolan’s new cinematic interpretation of the Odyssey more than once; maybe you don’t know whether you’ll ever get around to it at all. Either way, you’ve got to admit that the man makes films in a way very few living directors do. His combination of blockbuster-scale spectacle and personal vision, a [ ]",
       "published": "2026-07-27T09:00:51+00:00",
       "fetched": "2026-07-29T08:14:15.095142+00:00"
-    },
-    {
-      "id": "ba777eac7da825d5",
-      "title": "The Essence of Hayao Miyazaki Films: A Short Documentary About the Humanity at the Heart of His Animation",
-      "link": "https://www.openculture.com/2026/07/essence-of-hayao-miyazaki-films.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Filmmaker Hayao Miyazaki detests being referred to as the Japanese Walt Disney. The great animator and storyteller admires the gorgeous animation of classic Disney films, but finds them lacking in emotional complexity, the element he prizes above all else. Miyazaki’s films are celebrated for their mystical, supernatural elements, but they take shape around the human characters [ ]",
-      "published": "2026-07-27T08:00:19+00:00",
-      "fetched": "2026-07-29T08:14:15.095176+00:00"
-    },
-    {
-      "id": "64b731c1d7fae538",
-      "title": "Where Did Europe’s Countries—and the United Kingdom—Get Their Names?",
-      "link": "https://www.openculture.com/2026/07/where-did-europes-countries-and-the-united-kingdom-get-their-names.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The typical student traveling on a Eurail pass will stop in such lands as Österreich, Italia, Česko and Schweiz — also known as Suisse, Svizzera, and Svizra. If that student happens to hail from the English-speaking world, the names Austria, Italy, the Czech Republic (the recent movement for Czechia notwithstanding), and Switzerland will sound more familiar. But [ ]",
-      "published": "2026-07-24T08:05:18+00:00",
-      "fetched": "2026-07-29T08:14:15.095210+00:00"
-    },
-    {
-      "id": "9be5a387e799d62d",
-      "title": "19th Century Japanese Woodblock Prints Creatively Illustrate the Inner Workings of the Human Body",
-      "link": "https://www.openculture.com/2026/07/japanese-woodblock-prints-illustrate-the-human-body.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Folks with a passing knowledge of ukiyo‑e, the Japanese woodblock print art form popular in the 17th through 19th centuries, will be familiar with its landscapes, as well as its portraits of courtesans and kabuki actors. But often these prints were educational, as demonstrated by these very odd anatomical prints that promote good health as [ ]",
-      "published": "2026-07-24T08:00:40+00:00",
-      "fetched": "2026-07-29T08:14:15.095241+00:00"
     }
   ]
 }
