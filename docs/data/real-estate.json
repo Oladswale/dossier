@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-02T20:11:02.241468+00:00",
+  "updated": "2026-09-03T01:39:12.124646+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ba88854113488253",
+      "title": "The Most Expensive Renovation Mistakes Happen Before Construction Starts",
+      "link": "https://www.realtor.com/advice/home-improvement/expensive-renovation-mistakes-happen-before-construction-starts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Remodeling a home costs a lot of money, but it could cost far more if you don't have important conversations with your contractor first.",
+      "published": "2026-09-02T21:01:17+00:00",
+      "fetched": "2026-09-03T01:39:12.124168+00:00"
+    },
+    {
+      "id": "4611326e0259b7d0",
+      "title": "As States Legalize Plug-In Solar, Safety Standards Race To Catch Up",
+      "link": "https://www.realtor.com/news/trends/plug-in-solar-safety-ul-3700-new-jersey-california-new-york-utah/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "States are legalizing plug-in solar, but UL says none of the systems it tested met its new safety standard for fire and shock protection.",
+      "published": "2026-09-02T20:38:10+00:00",
+      "fetched": "2026-09-03T01:39:12.124193+00:00"
+    },
     {
       "id": "69a1c99a1950810d",
       "title": "San Francisco Renter Reveals the Elaborate Scam That Cost Him $18K",
@@ -34,6 +54,16 @@
       "fetched": "2026-09-02T20:11:01.957678+00:00"
     },
     {
+      "id": "d1cce7de77566170",
+      "title": "Lindsay Clancy Jury Fails To Reach Murder Trial Verdict for Second Time—Inside the Home Where Her 3 Children Died and Its Mysterious Sale",
+      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberation.",
+      "published": "2026-09-02T19:03:00+00:00",
+      "fetched": "2026-09-03T01:39:12.124228+00:00"
+    },
+    {
       "id": "3f3dfe2f7e506108",
       "title": "Lindsay Clancy Jury Fails to Reach Murder Trial Verdict for Second Time—Inside the Home Where Her 3 Children Died and Its Mysterious Sale",
       "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
@@ -42,6 +72,16 @@
       "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberations",
       "published": "2026-09-02T19:03:00+00:00",
       "fetched": "2026-09-02T20:11:02.240720+00:00"
+    },
+    {
+      "id": "07c77f1c0ec31852",
+      "title": "‘Dancing With the Stars’ Season 35 Cast Revealed: Inside the Incredible Homes the Celebrities Retreat To After the Ballroom",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dancing-with-the-stars-cast-revealed-inside-their-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"Dancing With the Stars\" has unveiled the 16 celebrities who will battle it out for the Mirrorball Trophy during the show's 35th season.",
+      "published": "2026-09-02T19:01:28+00:00",
+      "fetched": "2026-09-03T01:39:12.124248+00:00"
     },
     {
       "id": "380f391400584a73",
@@ -1462,46 +1502,6 @@
       "summary": "My mom is \"Swedish death cleaning\" before I inherit her belongings—and reconsidering what makes an heirloom valuable in the first place.",
       "published": "2026-08-25T08:37:00+00:00",
       "fetched": "2026-08-25T12:20:36.900917+00:00"
-    },
-    {
-      "id": "821f29a700581a7c",
-      "title": "HGTV Takes Iconic Child Stars Like Melissa Joan Hart and Jodie Sweetin Back to the ’90s for Retro Home Makeover Show",
-      "link": "https://www.realtor.com/news/reality-tv/totally-90s-house-renovation-competition-child-stars-hgtv/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Hosted by \"Family Matters\" alum Jaleel White, the competition series seeks to modernize homes stuck in the 1990s.",
-      "published": "2026-08-24T22:12:16+00:00",
-      "fetched": "2026-08-25T00:28:55.934218+00:00"
-    },
-    {
-      "id": "9d3ec72165772220",
-      "title": "Patriots Star Rob Gronkowski and Camille Kostek Unveil Party-Ready Makeover of Backyard at Their New England Mansion",
-      "link": "https://www.realtor.com/news/sports/nfl-player-rob-gronkowski-home-transformation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The couple have kicked off a larger overhaul of their New England mansion with the installation of an expansive outdoor kitchen.",
-      "published": "2026-08-24T22:11:55+00:00",
-      "fetched": "2026-08-25T00:28:55.934244+00:00"
-    },
-    {
-      "id": "44ea378d38a7f210",
-      "title": "Mapped: Where Homeowners Are Seriously Underwater on Their Mortgages",
-      "link": "https://www.realtor.com/news/trends/mapped-homeowners-underwater-mortgages-state-q2-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Minnesota, South Dakota, Iowa, Michigan, and DC all saw increases in the number of seriously underwater homes this year.",
-      "published": "2026-08-24T22:03:20+00:00",
-      "fetched": "2026-08-25T00:28:55.934261+00:00"
-    },
-    {
-      "id": "132c93b68a1952ec",
-      "title": "The ‘Secrets’ of Bihl Manor: Inside Dark History of ‘Tormented’ Ohio Home at Center of Anna Camp’s HGTV Show ‘A Very Haunted Renovation’",
-      "link": "https://www.realtor.com/news/reality-tv/bihl-manor-haunted-house-hgtv-anna-camp/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "HGTV's aptly titled show, \"A Very Haunted Renovation,\" hosted by Anna Camp, will see six designers living and working in the decrepit house.",
-      "published": "2026-08-24T21:10:06+00:00",
-      "fetched": "2026-08-25T00:28:55.934282+00:00"
     }
   ]
 }

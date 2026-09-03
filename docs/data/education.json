@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-02T20:11:01.470774+00:00",
+  "updated": "2026-09-03T01:39:11.510854+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a7affe07896ceebc",
+      "title": "Building foundations that last",
+      "link": "https://news.mit.edu/2026/building-foundations-that-last-iwnetim-abate-0902",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Assistant Professor Iwnetim Abate creates space for ambitious research and sustainable growth for his graduate students.",
+      "published": "2026-09-02T20:35:00+00:00",
+      "fetched": "2026-09-03T01:39:10.481536+00:00"
+    },
+    {
+      "id": "8f86b204b6a08e39",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "link": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
+      "published": "2026-09-02T20:25:00+00:00",
+      "fetched": "2026-09-03T01:39:10.481563+00:00"
+    },
     {
       "id": "956e3afce488ead3",
       "title": "System helps humans predict when self-driving cars will make mistakes",
@@ -1482,26 +1502,6 @@
       "summary": "We previously brought you the BBC series of short animated videos, A History of Ideas. Produced in collaboration with the UK’s Open University and narrated by Harry Shearer, these fun introductions to such philosophers as Simone de Beauvoir and Edmund Burke, and such weighty philosophical topics as free will and the problem of evil, make [ ]",
       "published": "2026-07-23T08:00:13+00:00",
       "fetched": "2026-07-29T08:14:15.095309+00:00"
-    },
-    {
-      "id": "45f288f5ae7d3336",
-      "title": "MIT student leaders: Q&A with men’s soccer captain Dilin Meloni",
-      "link": "https://news.mit.edu/2026/mit-student-leaders-dilin-meloni-soccer-captain-0722",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The rising senior is passionate about soccer, nuclear fusion, and advocating on behalf of his fellow student-athletes at MIT.",
-      "published": "2026-07-22T17:30:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524312+00:00"
-    },
-    {
-      "id": "7a5fd0e2bc5ebb3c",
-      "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
-      "link": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
-      "published": "2026-07-22T17:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524367+00:00"
     }
   ]
 }
