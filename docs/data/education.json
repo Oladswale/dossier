@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-09-04T01:32:40.764795+00:00",
+  "updated": "2026-09-04T10:01:44.680105+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a7de6cd69841adfe",
+      "title": "Why Inventing Color TV Was So Difficult",
+      "link": "https://www.openculture.com/2026/09/why-inventing-color-tv-was-so-difficult.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Many who read this will remember watching television on a black-and-white set at some point in their lives. Fewer will remember doing so because only black-and-white sets existed. Of course, your own experience will depend upon your country of origin.",
+      "published": "2026-09-04T08:00:05+00:00",
+      "fetched": "2026-09-04T10:01:44.679889+00:00"
+    },
+    {
+      "id": "00112e762c8301fa",
+      "title": "New method allows scientists to follow gene activity over time in the same cells",
+      "link": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the cells.",
+      "published": "2026-09-04T04:00:00+00:00",
+      "fetched": "2026-09-04T10:01:42.968354+00:00"
+    },
+    {
+      "id": "366877d6544c81b5",
+      "title": "Stories from the steel mills: A model for sharing workers’ histories",
+      "link": "https://news.mit.edu/2026/steel-mill-stories-sharing-workers-histories-model-0904",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT anthropologist Chris Walley developed a project for people in Southeast Chicago to tell their histories — an approach any community can adopt.",
+      "published": "2026-09-04T04:00:00+00:00",
+      "fetched": "2026-09-04T10:01:42.968396+00:00"
+    },
+    {
+      "id": "74774f61bd1494ad",
+      "title": "How architects turned a hulking brick box into MIT’s newest academic hub",
+      "link": "https://news.mit.edu/2026/how-architects-turned-hulking-brick-box-newest-academic-hub-0904",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A venerable storage facility has become a 21st-century architectural tour de force. Here are the key decisions that transformed the Met Warehouse.",
+      "published": "2026-09-04T04:00:00+00:00",
+      "fetched": "2026-09-04T10:01:42.968430+00:00"
+    },
     {
       "id": "53d6c7b06e0bb4f3",
       "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
@@ -1462,46 +1502,6 @@
       "summary": "MIT-trained mathematicians earn the honor, one of the most prestigious in the field, for their significant achievements.",
       "published": "2026-07-28T18:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.524038+00:00"
-    },
-    {
-      "id": "56e78206b31eb0bc",
-      "title": "What Miles Davis Taught Herbie Hancock: In Music, as in Life, There Are No Mistakes, Just Chances to Improvise",
-      "link": "https://www.openculture.com/2026/07/what-miles-davis-taught-herbie-hancock-in-music-as-in-life-there-are-no-mistakes.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "One of my favorite Brian Eno quotes, or rather one that became an Oblique Strategy, is “Honor Your Mistake as a Hidden Intention.” (Or to be pedantic, the original version was “Honor Thy Error…”). As a teenager growing up and trying to make art (at that time music and comics) there was no advice more [ ]",
-      "published": "2026-07-28T09:00:08+00:00",
-      "fetched": "2026-07-29T08:14:15.095073+00:00"
-    },
-    {
-      "id": "22afd0d894398954",
-      "title": "Christopher Hitchens Explains Why Homer’s Odyssey Still Matters to Our World (2000)",
-      "link": "https://www.openculture.com/2026/07/christopher-hitchens-explains-why-homers-odyssey-still-matters-to-our-world-2000.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "At the moment, the answer to the question of why we should read Homer’s Odyssey seems rather straightforward: so we can more intelligently voice our opinions on Christopher Nolan’s new blockbuster film adaptation. A quarter-century ago, the matter was somewhat less clear. Still, an occasion had presented itself in the form of a new English translation, [ ]",
-      "published": "2026-07-28T08:00:42+00:00",
-      "fetched": "2026-07-29T08:14:15.095109+00:00"
-    },
-    {
-      "id": "001fc2eb524ef6ea",
-      "title": "Making robots faster by helping them think ahead",
-      "link": "https://news.mit.edu/2026/making-robots-faster-helping-them-think-ahead-0728",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "By planning actions based on the future position of a robot, the VLASH technique streamlines motions and accelerates performance.",
-      "published": "2026-07-28T04:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524097+00:00"
-    },
-    {
-      "id": "4a8726fd7182b8a8",
-      "title": "MIT engineers design recyclable elastic yarn",
-      "link": "https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Melt it, spin it, use it again. This new recyclable yarn is as strong and stretchy as spandex-based yarns.",
-      "published": "2026-07-27T14:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524149+00:00"
     }
   ]
 }

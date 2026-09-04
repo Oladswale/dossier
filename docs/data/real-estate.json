@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-04T01:32:41.611106+00:00",
+  "updated": "2026-09-04T10:01:45.366573+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d2c9bb24c26a46be",
+      "title": "Steep Property Taxes vs. Private Tuition: Which Option Costs Homebuyers More?",
+      "link": "https://www.realtor.com/news/trends/property-taxes-vs-private-tuition-cost-comparison/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Is it cheaper to buy in a top public school district or pay private tuition? We run the numbers over 13 years to see which option wins.",
+      "published": "2026-09-04T09:00:00+00:00",
+      "fetched": "2026-09-04T10:01:45.365975+00:00"
+    },
+    {
+      "id": "0f482aefb2ebfdb1",
+      "title": "Wellness Real Estate Projected To Hit $1.8 Trillion by 2030 as Developers Tout Life-Extending Homes",
+      "link": "https://www.realtor.com/news/trends/wellness-real-estate-market-longevity-developers/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Global Wellness Institute's latest numbers show the wellness real estate sector reached $876 billion in 2025.",
+      "published": "2026-09-04T08:39:00+00:00",
+      "fetched": "2026-09-04T10:01:45.366014+00:00"
+    },
     {
       "id": "5fab47f742ce45f9",
       "title": "Map Shows Where Self-Employed Mortgage Borrowers Are Most Common",
@@ -1482,26 +1502,6 @@
       "summary": "The \"Summer House\" alum and her partner, Eoin Heavey, shared an exciting update, noting it's time for baby Aidan to \"move in.\"",
       "published": "2026-08-25T23:07:51+00:00",
       "fetched": "2026-08-26T00:30:19.080150+00:00"
-    },
-    {
-      "id": "a8fdd4e4a25987ee",
-      "title": "1 in 3 Homebuyers Say They Will Drop Their Mortgage Lender Over This Issue",
-      "link": "https://www.realtor.com/news/real-estate-news/credit-score-standards-experian-survey-mismo/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Old scoring models don't take into account major changes in American earning and spending habits and the gig economy.",
-      "published": "2026-08-25T22:37:07+00:00",
-      "fetched": "2026-08-26T00:30:19.080183+00:00"
-    },
-    {
-      "id": "7601b76e28191bf9",
-      "title": "Joanna Gaines Reveals Peek Inside Her ‘Favorite Day of the Year’ With Her 5 Kids at Family’s Waco Farmhouse",
-      "link": "https://www.realtor.com/news/reality-tv/joanna-chip-gaines-kids-texas-farm-honey/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 48-year-old \"Fixer Upper\" icon took to Instagram to document the family's annual Honey Harvest at their Waco, TX, property.",
-      "published": "2026-08-25T22:10:05+00:00",
-      "fetched": "2026-08-26T00:30:19.080214+00:00"
     }
   ]
 }
