@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-03T20:11:41.373789+00:00",
+  "updated": "2026-09-04T01:32:40.764795+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "53d6c7b06e0bb4f3",
+      "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
+      "link": "https://news.mit.edu/2026/faculty-receive-promotions-school-architecture-and-planning-0903",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The range of faculty disciplines showcases the breadth of research and scholarship across the school.",
+      "published": "2026-09-03T20:50:00+00:00",
+      "fetched": "2026-09-04T01:32:39.547611+00:00"
+    },
     {
       "id": "2fdd07b56d8a8c19",
       "title": "3 Questions: The essential role of international engagement",
@@ -1492,16 +1502,6 @@
       "summary": "Melt it, spin it, use it again. This new recyclable yarn is as strong and stretchy as spandex-based yarns.",
       "published": "2026-07-27T14:00:00+00:00",
       "fetched": "2026-07-29T08:14:13.524149+00:00"
-    },
-    {
-      "id": "4a85be14d600127f",
-      "title": "Christopher Nolan Picks 15 Favorite Films from the Criterion Closet",
-      "link": "https://www.openculture.com/2026/07/christopher-nolan-picks-15-favorite-films-from-the-criterion-closet.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Maybe you’ve already seen Christopher Nolan’s new cinematic interpretation of the Odyssey more than once; maybe you don’t know whether you’ll ever get around to it at all. Either way, you’ve got to admit that the man makes films in a way very few living directors do. His combination of blockbuster-scale spectacle and personal vision, a [ ]",
-      "published": "2026-07-27T09:00:51+00:00",
-      "fetched": "2026-07-29T08:14:15.095142+00:00"
     }
   ]
 }

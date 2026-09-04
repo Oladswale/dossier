@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-03T20:11:42.091993+00:00",
+  "updated": "2026-09-04T01:32:41.611106+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5fab47f742ce45f9",
+      "title": "Map Shows Where Self-Employed Mortgage Borrowers Are Most Common",
+      "link": "https://www.realtor.com/news/trends/map-self-employed-borrowers-most-common-vermont-montana/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As of 2024, the states with the highest percentage of self-employed workers are Vermont at 8.57%, Montana at 8.38%, and Maine at 8.02%.",
+      "published": "2026-09-03T21:47:37+00:00",
+      "fetched": "2026-09-04T01:32:41.610611+00:00"
+    },
+    {
+      "id": "612e24be87ed7ff6",
+      "title": "EXCLUSIVE: Inside a $25 Million AI-Powered Florida Mansion With 150 Feet of Waterfront",
+      "link": "https://www.realtor.com/news/unique-homes/boca-raton-florida-ai-powered-mansion-25-million/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property is taking smart-home living to another level, putting AI in control of everything from its lighting to its climate.",
+      "published": "2026-09-03T20:33:00+00:00",
+      "fetched": "2026-09-04T01:32:41.610636+00:00"
+    },
     {
       "id": "d0131f021090f675",
       "title": "CEO of California Real Estate Investment Fund Is Charged in $100 Million Ponzi Scheme",
@@ -1482,26 +1502,6 @@
       "summary": "The 48-year-old \"Fixer Upper\" icon took to Instagram to document the family's annual Honey Harvest at their Waco, TX, property.",
       "published": "2026-08-25T22:10:05+00:00",
       "fetched": "2026-08-26T00:30:19.080214+00:00"
-    },
-    {
-      "id": "62de22e909d9b1c6",
-      "title": "EXCLUSIVE: $18 Million Hotel-Inspired Miami ‘Sky Villa’ Aims To Woo Wealthy Buyers Away From Megamansions With Jaw-Dropping Amenities",
-      "link": "https://www.realtor.com/news/unique-homes/sky-villa-miami-penthouse-mansions-wealthy-buyers/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The $18 million 6,500-square-foot pad seeks to attract buyers who want to invest in a luxury property without worrying about its upkeep.",
-      "published": "2026-08-25T22:06:57+00:00",
-      "fetched": "2026-08-26T00:30:19.080245+00:00"
-    },
-    {
-      "id": "bb8d55d80bc6b5e1",
-      "title": "Private Island Mansion With Its Own Helipad and 5 Acres of Seabed Hits the Market in Florida Keys for $16 Million",
-      "link": "https://www.realtor.com/news/unique-homes/private-island-for-sale-florida-keys-helipad/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Located about a quarter-mile off the coast of Marathon, FL, the property is accessible only by water or air.",
-      "published": "2026-08-25T20:57:16+00:00",
-      "fetched": "2026-08-26T00:30:19.080273+00:00"
     }
   ]
 }
