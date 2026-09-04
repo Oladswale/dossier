@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-04T15:13:33.989719+00:00",
+  "updated": "2026-09-04T19:57:22.098547+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a304bba786625028",
+      "title": "Abandoned Graffiti-Covered Mansion on Mulholland Drive Has Wealthy Neighbors Up In Arms",
+      "link": "https://www.realtor.com/news/trends/abandoned-mulholland-drive-home-los-angeles/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The home at 7711 Mulholland has the makings of a luxury property, but it appears no one ever moved in.",
+      "published": "2026-09-04T19:34:00+00:00",
+      "fetched": "2026-09-04T19:57:22.097934+00:00"
+    },
+    {
+      "id": "59b70fde2c9fd4d2",
+      "title": "St. Louis Rents Are Going Down",
+      "link": "https://www.realtor.com/advice/hyperlocal/st-louis-rents-are-going-down/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "St. Louis median rent fell 1.9% year-over-year to $1,284 in July 2026, aligning with national trends as costs ease for local renters.",
+      "published": "2026-09-04T18:37:00+00:00",
+      "fetched": "2026-09-04T19:57:22.097964+00:00"
+    },
+    {
+      "id": "d9c547e485f8b693",
+      "title": "Bunnie XO Reveals Heartbreaking Struggle Inside Her Tennessee Home in Wake of Jelly Roll Divorce",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/bunnie-xo-struggle-inside-tennessee-home-jelly-roll-divorce/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Jelly Roll, whose real name is Jason DeFord, filed for divorce from his spouse, whose real name is Alisa DeFord, in May.",
+      "published": "2026-09-04T16:48:58+00:00",
+      "fetched": "2026-09-04T19:57:22.097989+00:00"
+    },
+    {
+      "id": "a7e051d79f0ad4bf",
+      "title": "Congress Seeks Hearing with L.A. Mayor Bass Amid Homelessness Funding Feud",
+      "link": "https://www.realtor.com/news/real-estate-news/los-angeles-mayor-karen-bass-congress-homeless-funding/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Republicans requested Los Angeles Mayor Karen Bass appear at a Capitol Hill hearing amid an ongoing controversy over homelessness funding.",
+      "published": "2026-09-04T16:20:05+00:00",
+      "fetched": "2026-09-04T19:57:22.098011+00:00"
+    },
+    {
+      "id": "1a5e993738aa1e80",
+      "title": "Lindsay Clancy’s Murder Case Ends in Mistrial—More Than 3 Years After Her Kids Were Found Dead at Massachusetts Home",
+      "link": "https://www.realtor.com/news/trends/lindsay-clancy-patrick-killed-kids-home-massachusetts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Following seven days of deliberations, the infamous murder case ended in a mistrial after the 12 jurors could not reach a unanimous verdict.",
+      "published": "2026-09-04T15:49:00+00:00",
+      "fetched": "2026-09-04T19:57:22.098054+00:00"
+    },
+    {
+      "id": "c7142258bbc5fb8e",
+      "title": "Meghan Markle To Make ‘Regular’ Trips Back to California as She and Prince Harry Settle Into New U.K. Life",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-return-to-california-doria-ragland/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Although the couple is settled into the U.K., the \"Suits\" actress is allegedly already looking forward to making trips back to L.A.",
+      "published": "2026-09-04T15:31:37+00:00",
+      "fetched": "2026-09-04T19:57:22.098081+00:00"
+    },
     {
       "id": "8d10913d0291b31a",
       "title": "The Villages Home Prices Drop Again: America’s Largest Retirement Spot Gets More Affordable",
@@ -22,6 +82,16 @@
       "summary": "See the sprawling penthouse featuring 360-degree views, a helipad, and high-end upgrades in one of South Florida's most iconic towers.",
       "published": "2026-09-04T14:51:59+00:00",
       "fetched": "2026-09-04T15:13:33.989153+00:00"
+    },
+    {
+      "id": "3d552e12150cc615",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.71% Rate, the Highest of the Year",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-september-3/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage rates surged to their highest level in more than a year this week, with many buyers concerned that a home is further out of reach.",
+      "published": "2026-09-04T14:41:00+00:00",
+      "fetched": "2026-09-04T19:57:22.098126+00:00"
     },
     {
       "id": "0823349ca64f4ec0",
@@ -1432,76 +1502,6 @@
       "summary": "The cost of materials for building homes has increased by 6.7% over the previous year, according to a new survey.",
       "published": "2026-08-26T20:33:48+00:00",
       "fetched": "2026-08-27T05:15:20.160333+00:00"
-    },
-    {
-      "id": "de6054e36a66054a",
-      "title": "Alec and Hilaria Baldwin List Their $19 Million Hamptons Mansion for a 5th Time—as New Agent Touts Its Historic Connections to Marilyn Monroe",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/alec-hilaria-baldwin-hamptons-mansion-sale-marilyn-monroe/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In the most recent attempt to sell the Amagansett estate, the real estate team behind it has marketed a connection to Marilyn Monroe.",
-      "published": "2026-08-26T19:53:50+00:00",
-      "fetched": "2026-08-27T05:15:20.160366+00:00"
-    },
-    {
-      "id": "01d1a0ee6cae48f7",
-      "title": "Dolly Parton Was a Country Music Legend—but She Quietly Worked as a Champion for Housing, Too",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-charity-housing-dollywood-tennessee/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The country music legend, who has died at the age of 80, left a mark with her impactful philanthropic spirit.",
-      "published": "2026-08-26T19:28:56+00:00",
-      "fetched": "2026-08-27T05:15:20.160394+00:00"
-    },
-    {
-      "id": "2c565b6be60c981e",
-      "title": "Junk Fees Are Backfiring on Wall Street Landlords—and Creating Opportunities for Smaller Investors",
-      "link": "https://www.biggerpockets.com/blog/junk-fees-are-backfiring-on-wall-street-landlords-and-creating-opportunities-for-smaller-investors",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "As if the affordability crisis weren’t tough enough for cash-strapped tenants, corporate landlords “junk fees,” heaped on top of “base rents,” have sparked the ire of the FTC, which recently [ ]",
-      "published": "2026-08-26T19:11:24+00:00",
-      "fetched": "2026-08-27T05:15:19.666978+00:00"
-    },
-    {
-      "id": "10cc08b335043aa5",
-      "title": "Busy Philipps Reveals Brain Tumor Diagnosis—and Details Roller-Coaster Recovery at Her $6.5 Million New York Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/busy-philipps-brain-tumor-health-home-recovery-new-york/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Philipps, 47, revealed in a candid interview that she had been diagnosed with a brain tumor in February and had to undergo major surgery.",
-      "published": "2026-08-26T17:55:20+00:00",
-      "fetched": "2026-08-26T19:27:49.951893+00:00"
-    },
-    {
-      "id": "61f1012d0595bcd0",
-      "title": "Inside Dolly Parton’s Incredibly Eclectic Property Portfolio—From Tiny Childhood Cabin to Idyllic Brentwood Retreat",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-homes-tennessee-brentwood-california-secret/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The singer, who passed away on Aug. 25 following a battle with cancer, quietly amassed an incredible collection of homes in her lifetime.",
-      "published": "2026-08-26T16:46:26+00:00",
-      "fetched": "2026-08-26T19:27:49.951938+00:00"
-    },
-    {
-      "id": "3f3139079ea93a81",
-      "title": "‘Rocky Horror Picture Show’ Star Tim Curry Dies at 80 Inside His Los Angeles Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/tim-curry-dead-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Curry reportedly passed away late on Aug. 25 at the age of 80, after suffering from a series of health issues.",
-      "published": "2026-08-26T15:50:04+00:00",
-      "fetched": "2026-08-26T19:27:49.951972+00:00"
-    },
-    {
-      "id": "6fc90af1f0c82729",
-      "title": "Mortgage Applications Fall as Elevated Rates Discourage Late-Summer Buyers",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-today-mba-august-26-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Buyers remain wary amid elevated mortgage rates, the latest weekly mortgage application data shows.",
-      "published": "2026-08-26T14:46:49+00:00",
-      "fetched": "2026-08-26T19:27:49.952000+00:00"
     }
   ]
 }

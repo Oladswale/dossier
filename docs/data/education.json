@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-04T15:13:33.228137+00:00",
+  "updated": "2026-09-04T19:57:21.397520+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e819780eae6900cd",
+      "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
+      "link": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The work is part of a multiyear effort to develop a distributed sensor network for relaying data collected from this critical region.",
+      "published": "2026-09-04T16:25:00+00:00",
+      "fetched": "2026-09-04T19:57:20.191857+00:00"
+    },
     {
       "id": "a7de6cd69841adfe",
       "title": "Why Inventing Color TV Was So Difficult",
@@ -12,6 +22,16 @@
       "summary": "Many who read this will remember watching television on a black-and-white set at some point in their lives. Fewer will remember doing so because only black-and-white sets existed. Of course, your own experience will depend upon your country of origin.",
       "published": "2026-09-04T08:00:05+00:00",
       "fetched": "2026-09-04T10:01:44.679889+00:00"
+    },
+    {
+      "id": "728e8478b556f28d",
+      "title": "Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest",
+      "link": "https://news.mit.edu/2026/governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The five-day festival will explore the future of science, technology, art and design from Wednesday, Sept. 30 to Sunday, Oct. 4",
+      "published": "2026-09-04T04:00:00+00:00",
+      "fetched": "2026-09-04T19:57:20.191885+00:00"
     },
     {
       "id": "00112e762c8301fa",
@@ -332,6 +352,16 @@
       "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
       "published": "2026-08-31T04:00:00+00:00",
       "fetched": "2026-08-31T11:56:15.803830+00:00"
+    },
+    {
+      "id": "4ab4054e686b3be6",
+      "title": "Archived: Building 18 Updates",
+      "link": "https://news.mit.edu/2026/archived-building-18-updates-0830",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "From Thursday, August 27 th through Sunday, August 30 th , MIT Emergency Management posted the following messages on emergency.mit.net regarding an incident at Building 18. Building 18 - update— Aug. For a campus map, visit https://whereis.mit.edu Building 18 closed— Aug.",
+      "published": "2026-08-30T16:00:00+00:00",
+      "fetched": "2026-09-04T19:57:20.192836+00:00"
     },
     {
       "id": "8a2a1d548bce59d5",
@@ -1472,36 +1502,6 @@
       "summary": "In Jerusalem of the year 1229, there lived a Greek Orthodox monk named Johannes Myronas. Needing some parchment for a prayer book, he grabbed some already-used pages, erased their existing content, and over them wrote down “prayers for the dead, prayers for repentance, blessings for the loaves at Easter, and even a prayer for those [ ]",
       "published": "2026-07-29T09:04:29+00:00",
       "fetched": "2026-07-29T14:33:46.187794+00:00"
-    },
-    {
-      "id": "66d43c1a48ac48cd",
-      "title": "Hear What Homer’s Odyssey Sounded Like When Sung in the Original Ancient Greek",
-      "link": "https://www.openculture.com/2026/07/homers-odyssey-sung-in-ancient-greek.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Image via Wikimedia Commons It’s been a humanist truism for some time to say that Shakespeare speaks to every age, transcending his time and place through the sheer force of his universal genius. But any honest student first encountering the plays will tell you differently, as will many a seasoned scholar who works hard to [ ]",
-      "published": "2026-07-29T08:00:00+00:00",
-      "fetched": "2026-07-29T08:14:15.095032+00:00"
-    },
-    {
-      "id": "30d5e652fa11b13e",
-      "title": "Professor Emeritus Robert Cohen, pioneering polymers researcher and devoted mentor, dies at 79",
-      "link": "https://news.mit.edu/2026/robert-cohen-dies-0728",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Architect of MIT’s interdisciplinary Program in Polymers and Soft Matter and the PhD in chemical engineering practice is remembered for his passion for mentorship and education.",
-      "published": "2026-07-28T20:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.523882+00:00"
-    },
-    {
-      "id": "eb9f77e46ca23fd7",
-      "title": "Yu Deng ’11 and Hong Wang PhD ’19 awarded Fields Medal",
-      "link": "https://news.mit.edu/2026/mit-alumni-awarded-fields-medal-0728",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT-trained mathematicians earn the honor, one of the most prestigious in the field, for their significant achievements.",
-      "published": "2026-07-28T18:00:00+00:00",
-      "fetched": "2026-07-29T08:14:13.524038+00:00"
     }
   ]
 }
