@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-05T09:31:35.205072+00:00",
+  "updated": "2026-09-05T14:03:42.339053+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e82362b5a073ac1e",
+      "title": "EXCLUSIVE: Celebrity Photographer Who Shot Prince Harry and Meghan Markle’s Wedding Drops Price of ‘Ridiculously Idyllic’ 200-Year-Old Farmhouse",
+      "link": "https://www.realtor.com/news/unique-homes/celebrity-photographer-alexi-lubomirski-hudson-valley-farmhouse/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Alexi Lubomirski, who photographed Prince Harry and Meghan Markle's wedding, has listed his idyllic Hudson Valley retreat for $1.9 million.",
+      "published": "2026-09-05T13:09:00+00:00",
+      "fetched": "2026-09-05T14:03:42.338518+00:00"
+    },
+    {
+      "id": "b47bb86c59947eb1",
+      "title": "Home Prices Are Falling the Fastest in These Cities",
+      "link": "https://www.realtor.com/news/trends/home-prices-falling-cities-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The largest price-per-square-foot declines were in Austin, TX (-8.1%); Tampa, FL (-5.6%); and Memphis, TN (-4.1%).",
+      "published": "2026-09-05T10:00:00+00:00",
+      "fetched": "2026-09-05T14:03:42.338543+00:00"
+    },
     {
       "id": "f3cb4d96f4660faa",
       "title": "Joy-Anna Duggar Announces Pregnancy as She and Husband Austin Forsyth Build Their Dream Arkansas Farmhouse",
@@ -1482,26 +1502,6 @@
       "summary": "Scott shared a glimpse at the bedroom, which was designed to \"grow\" with his daughter, whom he shares with his wife, Linda Phan.",
       "published": "2026-08-26T22:14:28+00:00",
       "fetched": "2026-08-27T05:15:20.160221+00:00"
-    },
-    {
-      "id": "4b749262e610542e",
-      "title": "HGTV Launches Tyler Cameron-Led Dating Show That Will See Singles Snooping Through Homes of Potential Partners In Quest for Love",
-      "link": "https://www.realtor.com/news/reality-tv/hgtv-room-raiders-lets-go-back-your-place-tyler-cameron/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The HGTV show \"Let's Go Back to Your Place,\" will see singles rifling through the homes of three potential dates.",
-      "published": "2026-08-26T22:00:09+00:00",
-      "fetched": "2026-08-27T05:15:20.160251+00:00"
-    },
-    {
-      "id": "eed968fce13aa18a",
-      "title": "California Cities Are Evading State Mandates To Build More Housing, Lawsuits Claim",
-      "link": "https://www.realtor.com/news/real-estate-news/california-lawsuits-sb79-transit-housing-enforcement/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "San Diego, San Fransisco and Montebello are trying to skirt a state law mandating more housing near transit, the suits say.",
-      "published": "2026-08-26T21:28:36+00:00",
-      "fetched": "2026-08-27T05:15:20.160279+00:00"
     }
   ]
 }
