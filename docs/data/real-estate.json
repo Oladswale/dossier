@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-04T19:57:22.098547+00:00",
+  "updated": "2026-09-05T01:33:54.046654+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f3cb4d96f4660faa",
+      "title": "Joy-Anna Duggar Announces Pregnancy as She and Husband Austin Forsyth Build Their Dream Arkansas Farmhouse",
+      "link": "https://www.realtor.com/news/reality-tv/joy-anna-duggar-pregnancy-austin-forsyth-arkansas-farmhouse/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 28-year-old reality TV star took to Instagram to share a carousel of snaps announcing her pregnancy alongside her spouse.",
+      "published": "2026-09-04T21:05:19+00:00",
+      "fetched": "2026-09-05T01:33:54.046095+00:00"
+    },
+    {
+      "id": "3331e65fb74b901c",
+      "title": "The Costly Pricing Trap Every Smart Homebuyer Can Avoid",
+      "link": "https://www.realtor.com/news/trends/pricing-trap-wishful-pricing-buyers-sellers/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Pricing strategy has changed for sellers in the past few years, and it's important for buyers to know when they're being taken for a ride.",
+      "published": "2026-09-04T20:37:00+00:00",
+      "fetched": "2026-09-05T01:33:54.046131+00:00"
+    },
     {
       "id": "a304bba786625028",
       "title": "Abandoned Graffiti-Covered Mansion on Mulholland Drive Has Wealthy Neighbors Up In Arms",
@@ -1482,26 +1502,6 @@
       "summary": "San Diego, San Fransisco and Montebello are trying to skirt a state law mandating more housing near transit, the suits say.",
       "published": "2026-08-26T21:28:36+00:00",
       "fetched": "2026-08-27T05:15:20.160279+00:00"
-    },
-    {
-      "id": "3d5ac2be33ca787c",
-      "title": "Will Blackouts Be America’s Next Housing Emergency?",
-      "link": "https://www.realtor.com/news/trends/will-blackouts-be-americas-next-housing-emergency/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Long power outages are forcing millions from their homes, adding housing costs and even affecting property values in some areas.",
-      "published": "2026-08-26T21:04:44+00:00",
-      "fetched": "2026-08-27T05:15:20.160306+00:00"
-    },
-    {
-      "id": "b9850d3eeff4e250",
-      "title": "Homebuilders See Material Costs Jump 6.7% in a Year, Squeezing Profit Margins",
-      "link": "https://www.realtor.com/news/trends/construction-material-price-increase-new-home-nahb-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The cost of materials for building homes has increased by 6.7% over the previous year, according to a new survey.",
-      "published": "2026-08-26T20:33:48+00:00",
-      "fetched": "2026-08-27T05:15:20.160333+00:00"
     }
   ]
 }

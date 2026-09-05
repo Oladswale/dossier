@@ -1,8 +1,58 @@
 {
   "category": "finance",
-  "updated": "2026-09-04T19:57:02.074043+00:00",
+  "updated": "2026-09-05T01:33:37.238637+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "03c6d50c91929780",
+      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Molson Coors Beverage, Builders FirstSource and Trade Desk will be getting the boot from the benchmark index.",
+      "published": "2026-09-04T21:46:00+00:00",
+      "fetched": "2026-09-05T01:33:35.621696+00:00"
+    },
+    {
+      "id": "7ea3b29ba731cfb0",
+      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+      "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Micron is reportedly increasing production capacity of a more profitable memory offering that’s in high demand due to AI.",
+      "published": "2026-09-04T20:12:00+00:00",
+      "fetched": "2026-09-05T01:33:35.621757+00:00"
+    },
+    {
+      "id": "72917aa76dbfd702",
+      "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "In recent months, Americans have gotten more vocal about their concerns over data centers and the effects they could have on home values.",
+      "published": "2026-09-04T20:03:00+00:00",
+      "fetched": "2026-09-05T01:33:35.621793+00:00"
+    },
+    {
+      "id": "eba0418c060ae20b",
+      "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
+      "published": "2026-09-04T20:00:00+00:00",
+      "fetched": "2026-09-05T01:33:35.621832+00:00"
+    },
+    {
+      "id": "a1eaf3bb1bb9cd49",
+      "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
+      "link": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "While there are long-term debates around Oracle’s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week.",
+      "published": "2026-09-04T19:59:00+00:00",
+      "fetched": "2026-09-05T01:33:35.621867+00:00"
+    },
     {
       "id": "7c47c35f369dd729",
       "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
@@ -1434,6 +1484,16 @@
       "fetched": "2026-09-02T20:10:47.454881+00:00"
     },
     {
+      "id": "4f00a8db44a459e2",
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
+      "published": "2026-09-02T17:21:59+00:00",
+      "fetched": "2026-09-05T01:33:35.760039+00:00"
+    },
+    {
       "id": "6902bdf6f4730542",
       "title": "Uber to cut 3,300 jobs globally in major restructuring",
       "link": "https://nairametrics.com/2026/09/02/uber-to-cut-3300-jobs-globally-in-major-restructuring/",
@@ -1442,66 +1502,6 @@
       "summary": "Uber Technologies is set to cut about 3,300 jobs globally, representing roughly 10% of its workforce, as the ride-hailing company restructures its operations to reduce management layers and redirect spending towards growth and autonomous vehicle technology. The post Uber to cut 3,300 jobs globally in major restructuring appeared first on Nairametrics .",
       "published": "2026-09-02T16:45:13+00:00",
       "fetched": "2026-09-02T20:10:47.767179+00:00"
-    },
-    {
-      "id": "2327016c27db71fd",
-      "title": "“Things will become even tougher for us,” Uber drivers say after Nigeria exit",
-      "link": "https://techcabal.com/2026/09/02/things-will-become-even-tougher-for-us-uber-drivers-say-after-nigeria-exit/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "“I have been with Uber for many years,” he told TechCabal. “It is sad they have to go, and it will affect my line of business because they are one of the major apps I use.”",
-      "published": "2026-09-02T16:38:48+00:00",
-      "fetched": "2026-09-02T20:10:48.883728+00:00"
-    },
-    {
-      "id": "24dc74f06b28ae31",
-      "title": "Kenya’s new phone number rules will make recycling costlier for telcos",
-      "link": "https://techcabal.com/2026/09/02/kenyas-new-phone-number-rules-will-make-recycling-costlier-for-telcos/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Kenya’s telecom operators will have to change how they deactivate and recycle inactive phone numbers from September 19, when new rules from the Communications Authority of Kenya (CA) take effect.",
-      "published": "2026-09-02T16:32:04+00:00",
-      "fetched": "2026-09-02T20:10:48.883771+00:00"
-    },
-    {
-      "id": "b9520a4234163af8",
-      "title": "Royal Exchange appoints Geoffrey Ohen as Non-Executive Director",
-      "link": "https://nairametrics.com/2026/09/02/royal-exchange-appoints-geoffrey-ohen-as-non-executive-director/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Royal Exchange Plc has appointed Dr. Geoffrey C. Ohen as a Non-Executive Director of the company, effective July 23, 2026.",
-      "published": "2026-09-02T16:13:58+00:00",
-      "fetched": "2026-09-02T20:10:47.767212+00:00"
-    },
-    {
-      "id": "5b727db3bfcf664c",
-      "title": "Kenyan police arrest FlexPay founders over theft and fraud allegations",
-      "link": "https://techcabal.com/2026/09/02/kenyan-police-arrest-flexpay-founder-theft-fraud/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The founders of Flexitech Group Limited, the company behind the Kenyan save-now-buy-later fintech FlexPay, have been arrested over the alleged theft of KES 31.2 million ($242,000) belonging to an unnamed major retail chain, adding to scrutiny of the startup after months of customer complaints about delayed withdrawals.",
-      "published": "2026-09-02T15:26:07+00:00",
-      "fetched": "2026-09-02T20:10:48.883812+00:00"
-    },
-    {
-      "id": "4d4f24bb130c915d",
-      "title": "Top 10 fastest growing sectors in Nigeria in Q2 2026",
-      "link": "https://nairametrics.com/2026/09/02/top-10-fastest-growing-sectors-in-nigeria-in-q2-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's economy grew 4.43% year-on-year in Q2 2026, its highest quarterly performance in five years, since Q3 2021, according to the Q2 GDP data from the Nigerian Bureau of statistics (NBS). The post Top 10 fastest growing sectors in Nigeria in Q2 2026 appeared first on Nairametrics .",
-      "published": "2026-09-02T15:19:09+00:00",
-      "fetched": "2026-09-02T15:25:01.848279+00:00"
-    },
-    {
-      "id": "52a12b5a6882f92a",
-      "title": "Chevron stock on track for record high as oil giant outlines $7 billion plan to expand in Venezuela",
-      "link": "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Chevron says it will expand its operations in Venezuela, following the Trump administration’s move for a Pentagon-backed plan to develop the country’s oil reserves.",
-      "published": "2026-09-02T15:16:00+00:00",
-      "fetched": "2026-09-02T15:25:01.466142+00:00"
     }
   ]
 }
