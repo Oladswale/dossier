@@ -1,8 +1,88 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-06T09:45:25.551861+00:00",
+  "updated": "2026-09-06T14:28:34.195605+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "847e65a76c21d5d0",
+      "title": "This Texas Country Band Is Trying to Turn a Viral Collab With Luke Combs Into Longevity",
+      "link": "https://www.rollingstone.com/music/music-features/the-wilder-blue-luke-combs-seven-bridges-road-1235621697/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Wilder Blue's version of \"Seven Bridges Road\" put them on the map. Their new album Cinco aims to keep them there",
+      "published": "2026-09-06T13:30:00+00:00",
+      "fetched": "2026-09-06T14:28:33.958668+00:00"
+    },
+    {
+      "id": "4aadd051e35d2ab6",
+      "title": "Bad Bunny’s Super Bowl Halftime Show Wins 7 Emmy Awards",
+      "link": "https://www.rollingstone.com/music/music-news/bad-bunny-super-bowl-halftime-show-wins-7-emmy-awards-1235622294/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Both Bad Bunny and Sabrina Carpenter win their first-ever Emmys Saturday at the Creative Emmy Awards",
+      "published": "2026-09-06T13:17:18+00:00",
+      "fetched": "2026-09-06T14:28:33.958707+00:00"
+    },
+    {
+      "id": "e07ba4befa88ce40",
+      "title": "‘September 5’ Director Tim Fehlbaum Working on a ‘Historical Film’ Set in Berlin as Swiss Filmmakers Take on Challenges and Opportunities of Shooting in English",
+      "link": "https://variety.com/2026/film/global/september-5-tim-fehlbaum-ursula-meier-michael-koch-1236852712/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Some of the main breakouts of Swiss cinema in 2026—and the few years that precede it—share one striking commonality: they are either entirely in English or feature large chunks of English. Think Petra Volpe’s Locarno-winning “Frank Louis,” Damien Hauser’s festival darling “Memory of Princess Mumbi,” Denis Rabaglia’s buzzy “Butterfly Stroke” and, of course, Tim [ ]",
+      "published": "2026-09-06T13:06:13+00:00",
+      "fetched": "2026-09-06T14:28:33.793692+00:00"
+    },
+    {
+      "id": "2b885d19aacaed37",
+      "title": "Trump Is Doing Elite Colleges a Huge Favor",
+      "link": "https://www.rollingstone.com/politics/political-commentary/trump-attacks-elite-colleges-academia-ivys-1235620978/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president's attacks on academia have turned top universities into noble victims",
+      "published": "2026-09-06T13:00:00+00:00",
+      "fetched": "2026-09-06T14:28:33.958734+00:00"
+    },
+    {
+      "id": "2148102ac7322cb1",
+      "title": "Susan Sarandon Says She’s ‘Still Had Movies Taken Away Recently’ Over Palestine Support: ‘There Are Agencies That Are Telling People Not to Hire Me’",
+      "link": "https://variety.com/2026/film/festivals/susan-sarandon-movies-taken-away-palestine-support-1236853245/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Susan Sarandon said she s still had movies taken away recently over her outspoken support of Palestine. At the Venice Film Festival press conference for her new film The Echo Chamber on Sunday, Sarandon was asked if she thinks the narrative is changing in Hollywood when it comes to the conflict in Gaza. In 2023, the [ ]",
+      "published": "2026-09-06T12:26:01+00:00",
+      "fetched": "2026-09-06T14:28:33.793754+00:00"
+    },
+    {
+      "id": "e467a459823f2908",
+      "title": "‘Woman Unknown’ Director May el-Toukhy Talks the Torment of World War II ‘Horizontal Collaborators’ and Venice’s Female Director Snub: ‘It’s a Structural Problem’",
+      "link": "https://variety.com/2026/film/global/woman-unknown-may-el-toukhy-world-war-ii-venice-directors-1236847532/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In “Woman Unknown,” May el-Toukhy takes a closer look at women accused of having relationships with German soldiers during World War II. “When we started to build a story about a ‘horizontal collaborator,’ we realized that, during and after the war, the female body became part of national identity. But in Denmark, it wasn’t really [ ]",
+      "published": "2026-09-06T12:03:05+00:00",
+      "fetched": "2026-09-06T14:28:33.793812+00:00"
+    },
+    {
+      "id": "e375bd661dd36651",
+      "title": "‘From Inside Out – The Architecture of Peter Zumthor’ Review: Wim Wenders’ Latest 3D Documentary Is an Architectural Marvel",
+      "link": "https://variety.com/2026/film/news/from-inside-out-the-architecture-of-peter-zumthor-review-1236853214/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The screen is usually a canvas, but it becomes a window to an enormous room in Wim Wenders’ latest 3D documentary, “From Inside Out – The Architecture of Peter Zumthor.” Within that room unfolds the tale of the Swiss architect of the title, told in occasionally laborious ways. It spends much of its two-hour runtime [ ]",
+      "published": "2026-09-06T12:00:00+00:00",
+      "fetched": "2026-09-06T14:28:33.793863+00:00"
+    },
+    {
+      "id": "7feedb212f0a9b99",
+      "title": "Wim Wenders Clarifies His Stance on Filmmakers’ Role in Politics After Berlin Controversy: ‘We Are the Opposite of Politicians … We Are the Antidote’",
+      "link": "https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Wim Wenders has clarified his much-discussed statement about filmmakers role in politics that kicked off a firestorm at Berlin Film Festival earlier this year. Wenders was at the center of a heated debate at the Berlinale in February after the celebrated German filmmaker, who served as jury president, said during the opening press conference that [ ]",
+      "published": "2026-09-06T10:44:13+00:00",
+      "fetched": "2026-09-06T14:28:33.793914+00:00"
+    },
     {
       "id": "b7d3cda69147514f",
       "title": "French President Emmanuel Macron Calls for a ‘New Multilateralism’ Across Creative Industries: ‘We Built a Civilization of Images. We Should Not Resign Ourselves to Watching It Deteriorate’",
@@ -1422,86 +1502,6 @@
       "summary": "The fashion brand’s Legends Capsule puts a sparkling spin on five Grammy Award-winning acts, including The Rolling Stones, The Who, and Willie Nelson",
       "published": "2026-09-03T21:23:47+00:00",
       "fetched": "2026-09-04T01:32:39.107596+00:00"
-    },
-    {
-      "id": "dffaa8a920cbf643",
-      "title": "Katseye Are Officially on Tour and There Are Ways to Score Discounted Tickets Online",
-      "link": "https://www.rollingstone.com/product-recommendations/tickets/find-katseye-tickets-2026-discount-code-cheap-seats-online-1235568602/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Third-party sites are offering special deals and discount codes to one of the hottest tours of the year",
-      "published": "2026-09-03T21:12:00+00:00",
-      "fetched": "2026-09-04T01:32:39.107610+00:00"
-    },
-    {
-      "id": "3cdbffa1eac66537",
-      "title": "Gloria Steinem’s Farewell Interview to Stream on Netflix",
-      "link": "https://variety.com/2026/tv/news/gloria-steinem-last-interview-netflix-1236850765/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Feminist icon Gloria Steinem is the third subject to now appear on Netflix’s “Famous Last Words,” the series that banks interviews with notable figures meant to be shared only after their death. Steinem died Wednesday at her home in New York City. She was 92.",
-      "published": "2026-09-03T21:00:00+00:00",
-      "fetched": "2026-09-04T01:32:38.925321+00:00"
-    },
-    {
-      "id": "4941b70d231e945e",
-      "title": "This Keepsake Dolly Parton Coin Is a Golden Tribute to the ‘Queen of Country Music’",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/buy-dolly-parton-coin-keepsake-memorabilia-collectible-2026-1235620638/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The coin is surging in popularity online, with fans and collectors alike rushing to pick up the piece of music memorabilia before it sells out",
-      "published": "2026-09-03T20:48:37+00:00",
-      "fetched": "2026-09-04T01:32:39.107626+00:00"
-    },
-    {
-      "id": "5fb493204a7cb5ff",
-      "title": "How to Watch the 2026 FIBA Women’s Basketball World Cup Online",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-fiba-womens-basketball-world-cup-2026-online-free-1235620604/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "16 national women’s basketball teams will clash in Berlin for this year’s tournament. Here’s where to stream every game without cable",
-      "published": "2026-09-03T20:21:00+00:00",
-      "fetched": "2026-09-04T01:32:39.107643+00:00"
-    },
-    {
-      "id": "066778bebafb9a2e",
-      "title": "Radu Jude’s ‘The Diary of a Chambermaid’ Secures U.S. Distribution With Film Movement (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/radu-jude-the-diary-of-a-chambermaid-u-s-distribution-film-movement-1236850922/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Film Movement has acquired U.S. rights to Radu Jude’s “The Diary of a Chambermaid,” the Romanian filmmaker’s first French-language feature, following its world premiere in Cannes Directors’ Fortnight. The deal was announced by Film Movement president Michael Rosenberg and Kevin Chneiweiss of Paris-based SBS International.",
-      "published": "2026-09-03T20:02:04+00:00",
-      "fetched": "2026-09-03T20:11:38.980292+00:00"
-    },
-    {
-      "id": "357db554e85781be",
-      "title": "How to Watch Tonight’s Utah vs. Idaho College Football Game Online for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-utah-idaho-football-game-online-free-stream-1235620097/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Morgan Scalley makes his regular-season debut as Utah’s head coach against the Idaho Vandals. Here’s how to stream the game without cable",
-      "published": "2026-09-03T20:01:00+00:00",
-      "fetched": "2026-09-03T20:11:39.089811+00:00"
-    },
-    {
-      "id": "458df8e7e9b8c8b4",
-      "title": "John Malkovich Fights Back Tears During 13-Minute Venice Standing Ovation as ‘Wild Horse Nine’ Storms Into Oscar Race",
-      "link": "https://variety.com/2026/film/festivals/wild-horse-nine-john-malkovich-sam-rockwell-venice-premiere-1236850074/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In what will surely be one of the biggest standing ovations at Venice Film Festival this year, Martin McDonagh s Wild Horse Nine received a thunderous 13 minutes of applause at its world premiere on Thursday night and stormed into the Oscar race. John Malkovich got emotional and McDonagh looked touched as the cheering raged on, [ ]",
-      "published": "2026-09-03T19:52:17+00:00",
-      "fetched": "2026-09-03T20:11:38.980346+00:00"
-    },
-    {
-      "id": "6e596d71ab20aa25",
-      "title": "‘Soul Train Awards’ Emerge From Limbo, Returning This Fall",
-      "link": "https://www.rollingstone.com/music/music-news/soul-train-awards-return-this-fall-bet-spotify-1235620919/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "BET, CBS, and several other networks will air the ceremony in November",
-      "published": "2026-09-03T19:47:56+00:00",
-      "fetched": "2026-09-03T20:11:39.089842+00:00"
     }
   ]
 }

@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-06T09:45:27.532996+00:00",
+  "updated": "2026-09-06T14:28:36.783163+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "085c0ebf3f775365",
+      "title": "From Postwar Housing Solution to ‘Brady Bunch’ Fame—Is the Split-Level Home Ready for a Comeback?",
+      "link": "https://www.realtor.com/news/unique-homes/split-level-home-architecture-style-history/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A postwar housing solution once celebrated for affordability has fallen out of style, but remote work could spark renewed interest.",
+      "published": "2026-09-06T12:14:00+00:00",
+      "fetched": "2026-09-06T14:28:36.782636+00:00"
+    },
     {
       "id": "b0db597d6243cca8",
       "title": "Dramatic Waterfront Estate Overlooking a Bird Sanctuary Near the Catskills Is Listed for $2.45 Million",
@@ -1492,16 +1502,6 @@
       "summary": "Extended power outages can disrupt food, water, cooling, and medical needs. These supplies can help households prepare.",
       "published": "2026-08-27T13:01:00+00:00",
       "fetched": "2026-08-27T16:55:08.554399+00:00"
-    },
-    {
-      "id": "afcbf0263e33c4b4",
-      "title": "Capital Calls: What to Know Before You Put In More Cash",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-455",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You invested in a real estate syndication, fund, or partnership. Now, the operator is coming to you asking for more cash. Whether expenses went up, income went down, mortgage rates [ ]",
-      "published": "2026-08-27T11:00:28+00:00",
-      "fetched": "2026-08-27T16:55:08.208725+00:00"
     }
   ]
 }

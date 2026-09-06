@@ -1,8 +1,98 @@
 {
   "category": "finance",
-  "updated": "2026-09-06T09:45:10.962440+00:00",
+  "updated": "2026-09-06T14:28:19.496982+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e65950fbd463d621",
+      "title": "Next Wave: Why Uber broke in Nigeria",
+      "link": "https://techcabal.com/2026/09/06/next-wave-why-uber-broke-in-nigeria/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Uber’s departure from Nigeria and Uganda signals the end of Silicon Valley’s unhedged expansion across Africa.",
+      "published": "2026-09-06T13:53:59+00:00",
+      "fetched": "2026-09-06T14:28:19.496729+00:00"
+    },
+    {
+      "id": "0cb491a203b0e15b",
+      "title": "Next Wave: The perfect price discrimination",
+      "link": "https://techcabal.com/2026/09/06/next-wave-perfect-price-discrimination/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Big tech platforms across the continent are quietly deploying predictive software to shape consumer reality. Jumia, the pan-African e-commerce giant, relies heavily on personalised recommendation systems. The software analyses browsing behaviour, purchase history, and user preferences to tailor product suggestions in markets like Lagos, Nigeria.",
+      "published": "2026-09-06T13:50:21+00:00",
+      "fetched": "2026-09-06T14:28:19.496777+00:00"
+    },
+    {
+      "id": "3a6ac6af42553823",
+      "title": "African startups risk losing investors by targeting $1 million pre-seed rounds—Sidebrief COO",
+      "link": "https://nairametrics.com/2026/09/06/african-startups-risk-losing-investors-by-targeting-1-million-pre-seed-rounds-sidebrief-coo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "African startups seeking pre seed funding have been advised to set more realistic fundraising targets and focus on securing their first investor commitments, The post African startups risk losing investors by targeting $1 million pre-seed rounds—Sidebrief COO appeared first on Nairametrics .",
+      "published": "2026-09-06T13:38:44+00:00",
+      "fetched": "2026-09-06T14:28:18.996944+00:00"
+    },
+    {
+      "id": "3f4872519c7f87da",
+      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+      "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook.",
+      "published": "2026-09-06T13:19:01+00:00",
+      "fetched": "2026-09-06T14:28:18.381225+00:00"
+    },
+    {
+      "id": "4a94262ed9bcd963",
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I paid a significant amount into Social Security.”",
+      "published": "2026-09-06T13:15:00+00:00",
+      "fetched": "2026-09-06T14:28:18.266933+00:00"
+    },
+    {
+      "id": "2654b7cb2814082f",
+      "title": "FCCPC to probe Uber over unfulfilled services to customers after exit",
+      "link": "https://nairametrics.com/2026/09/06/fccpc-to-probe-uber-over-unfulfilled-services-to-customers-after-exit/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Competition and Consumer Protection Commission (FCCPC) is looking into Uber’s abrupt exit from Nigeria, with the regulator focusing on whether the ride-hailing company left behind unfulfilled services and obligations to customers. The post FCCPC to probe Uber over unfulfilled services to customers after exit appeared first on Nairametrics .",
+      "published": "2026-09-06T13:02:35+00:00",
+      "fetched": "2026-09-06T14:28:18.997029+00:00"
+    },
+    {
+      "id": "a4f5eabc94b500aa",
+      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+      "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.",
+      "published": "2026-09-06T13:00:00+00:00",
+      "fetched": "2026-09-06T14:28:18.267016+00:00"
+    },
+    {
+      "id": "4c4a5ed4f6690922",
+      "title": "Africa will supply 75% of new global workers by 2050, World Bank projects",
+      "link": "https://nairametrics.com/2026/09/06/africa-will-supply-75-of-new-global-workers-by-2050-world-bank-projects/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sub-Saharan Africa is projected to account for more than three-quarters of the increase in the global working-age population by 2050, adding an additional 625 million people to its working-age population, according to the World Bank. The post Africa will supply 75% of new global workers by 2050, World Bank projects appeared first on Nairametrics .",
+      "published": "2026-09-06T12:45:10+00:00",
+      "fetched": "2026-09-06T14:28:18.997079+00:00"
+    },
+    {
+      "id": "094f949be0ee240f",
+      "title": "The 30% building tax that’s driving up the cost of housing in Lagos",
+      "link": "https://nairametrics.com/2026/09/06/the-30-building-tax-thats-driving-up-the-cost-of-housing-in-lagos/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The cost of getting a building approved is only one part of the wider challenge facing developers trying to increase housing supply in Lagos. The post The 30% building tax that’s driving up the cost of housing in Lagos appeared first on Nairametrics .",
+      "published": "2026-09-06T10:32:40+00:00",
+      "fetched": "2026-09-06T14:28:18.997127+00:00"
+    },
     {
       "id": "f5db0c60d0586245",
       "title": "Six NGX companies list 14.44 billion new shares worth N37.19 billion",
@@ -12,6 +102,16 @@
       "summary": "Sterling Financial Holdings Plc and five other companies listed on the Nigerian Exchange (NGX) a combined 14.44 billion additional shares... The post Six NGX companies list 14.44 billion new shares worth N37.19 billion appeared first on Nairametrics .",
       "published": "2026-09-06T08:55:21+00:00",
       "fetched": "2026-09-06T09:45:10.410210+00:00"
+    },
+    {
+      "id": "e7b67ce46012fe74",
+      "title": "These 10 powerful CEOs lead the largest companies in Africa",
+      "link": "https://nairametrics.com/2026/09/06/these-10-powerful-ceos-lead-the-largest-companies-in-africa/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa’s stock exchanges have grown into a roughly $2 trillion market, bringing together more than 1,100 listed companies across the... The post These 10 powerful CEOs lead the largest companies in Africa appeared first on Nairametrics .",
+      "published": "2026-09-06T08:30:50+00:00",
+      "fetched": "2026-09-06T14:28:18.997177+00:00"
     },
     {
       "id": "86e4c2d7468af47f",
@@ -1402,106 +1502,6 @@
       "summary": "Nomba has raised a $3 million debt facility through CardinalStone Finance Company Limited to expand its cross-border payments infrastructure across Central Africa.",
       "published": "2026-09-03T11:20:04+00:00",
       "fetched": "2026-09-03T15:18:06.846267+00:00"
-    },
-    {
-      "id": "54d27d1568e72646",
-      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
-      "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
-      "published": "2026-09-03T11:12:54+00:00",
-      "fetched": "2026-09-03T15:18:05.722565+00:00"
-    },
-    {
-      "id": "a83bfe2819fa1a4c",
-      "title": "Claude Fable 5.1 price and availability: Everything you need to know",
-      "link": "https://techcabal.com/2026/09/03/claude-fable-5-1-price-and-availability-explained/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Anthropic released Claude Fable 5.1 on Tuesday, September 1, its top AI model for long, complex work like coding, research, computer use, and office work.",
-      "published": "2026-09-03T10:35:54+00:00",
-      "fetched": "2026-09-03T15:18:06.846295+00:00"
-    },
-    {
-      "id": "0c838b431b1bc03c",
-      "title": "What you should know about Claude Mythos 5.1",
-      "link": "https://techcabal.com/2026/09/03/claude-mythos-5-1-price-and-availability-explained/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Claude Mythos 5.1 costs $10 per million input tokens and $50 per million output tokens. It has a one-million-token context window and can return up to 128,000 tokens in one response.",
-      "published": "2026-09-03T10:31:38+00:00",
-      "fetched": "2026-09-03T15:18:06.846323+00:00"
-    },
-    {
-      "id": "776ca8679fa9ad7a",
-      "title": "CBN cuts Nigerian Treasury Bills yield below 17%, lowest since June 3",
-      "link": "https://nairametrics.com/2026/09/03/cbn-cuts-nigerian-treasury-bills-yield-below-17-lowest-since-june-3/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) allotted N865.71 billion at its Wednesday, September 2, 2026, Treasury Bills primary market auction, cutting the stop rate on the one-year bill to 16.84%, its lowest level since the June 3 auction, and the second straight rate cut. The post CBN cuts Nigerian Treasury Bills yield below 17%, lowest since June 3 appeared first on Nairametrics .",
-      "published": "2026-09-03T10:10:56+00:00",
-      "fetched": "2026-09-03T15:18:05.915189+00:00"
-    },
-    {
-      "id": "504b394482bc1b9c",
-      "title": "Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think",
-      "link": "https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There are more important things for investors to be worried about.",
-      "published": "2026-09-03T09:59:00+00:00",
-      "fetched": "2026-09-03T10:11:17.207738+00:00"
-    },
-    {
-      "id": "99434370582c25b6",
-      "title": "Uber exit exposes the pitfalls of Tinubunomics",
-      "link": "https://nairametrics.com/2026/09/03/uber-exit-exposes-the-pitfalls-of-tinubunomics/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Uber’s decision to exit Nigeria adds another prominent multinational to the growing list of foreign businesses that have either left the country, sold their local operations or significantly changed their business models since 2023. The post Uber exit exposes the pitfalls of Tinubunomics appeared first on Nairametrics .",
-      "published": "2026-09-03T09:24:51+00:00",
-      "fetched": "2026-09-03T10:11:17.407176+00:00"
-    },
-    {
-      "id": "0c853f881516503b",
-      "title": "As Nigeria’s capital market surges, Daba and Coronation want global investors in",
-      "link": "https://techcabal.com/2026/09/03/daba-and-coronation-want-to-bring-global-investors-in/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The partnership comes as Nigeria's stock market continues its surge. The NGX ended August with an all-share index year-to-date return of 56.93%.",
-      "published": "2026-09-03T09:21:54+00:00",
-      "fetched": "2026-09-03T10:11:18.884700+00:00"
-    },
-    {
-      "id": "ed8584e0c9375613",
-      "title": "Inside ISWAP’s secret AI units in Northern Nigeria",
-      "link": "https://techcabal.com/2026/09/03/inside-iswap-secret-ai-units-in-nothern-uganda/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Around military bases across northeastern Nigeria, deep defensive trenches serve as a low-tech bulwark against militants from Islamic State West Africa Province (ISWAP), a Boko Haram breakaway faction. Because motorcycles cannot easily cross these ditches, the perimeter defenses give soldiers crucial minutes to react.",
-      "published": "2026-09-03T09:20:15+00:00",
-      "fetched": "2026-09-03T10:11:18.884749+00:00"
-    },
-    {
-      "id": "1c5181642ce9e598",
-      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-      "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”",
-      "published": "2026-09-03T09:15:00+00:00",
-      "fetched": "2026-09-03T10:11:17.207789+00:00"
-    },
-    {
-      "id": "0974752896fa624b",
-      "title": "Why alarming bond yields might drop sooner than investors think",
-      "link": "https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The surge in government bond yields that has alarmed investors may reverse itself has cyclical forces overwhelm fears over the sustainability of debt, one strategist argues on Thursday.",
-      "published": "2026-09-03T09:13:00+00:00",
-      "fetched": "2026-09-03T10:11:17.207825+00:00"
     }
   ]
 }
