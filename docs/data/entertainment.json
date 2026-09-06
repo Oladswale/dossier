@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-06T14:28:34.195605+00:00",
+  "updated": "2026-09-06T19:40:27.703124+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "46b5085fa7d392cf",
+      "title": "Macklemore Calls Out ‘Free Palestine’ Onstage, Spurring Petition Demanding He Leave Ed Sheeran Tour",
+      "link": "https://variety.com/2026/music/news/macklemore-free-palestine-onstage-petition-ed-sheeran-1236853409/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Macklemore opened for Ed Sheeran on Friday night in New Jersey at the MetLife Stadium, and during his set the rapper sang out Free Palestine before launching into a speech, telling the audience he wanted people in Gaza and the occupied West Bank to know they had not been forgotten. “I believe that every human [ ]",
+      "published": "2026-09-06T18:49:17+00:00",
+      "fetched": "2026-09-06T19:40:27.428816+00:00"
+    },
+    {
+      "id": "35d1d94626c00f74",
+      "title": "‘Agata the Writer’ Review: Mia Wasikowska Plays an Author Adrift and Short of Ideas, in a Sly, Witty Film With Plenty",
+      "link": "https://variety.com/2026/film/reviews/agata-the-writer-review-mia-wasikowska-1236853234/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "As anyone who has made a great-author biopic (or even watched one, for that matter) can tell you, writing is among the hardest professions to make cinematic. The slow churn of ideas, the second-guessing and self-editing, and even those rare, exhilarating surges of creative flow are all part of a stubbornly interior, usually static process. [ ]",
+      "published": "2026-09-06T18:39:05+00:00",
+      "fetched": "2026-09-06T19:40:27.428873+00:00"
+    },
+    {
+      "id": "27328ef5390eb7ee",
+      "title": "Podcaster Amanda Hirsch Apologizes for ‘Insensitive, Wrong’ Polymarket Lindsay Clancy Sponsored Content: ‘I Should Have Known Better’",
+      "link": "https://variety.com/2026/digital/news/amanda-hirsch-apologizes-polymarket-lindsay-clancy-controversy-1236852279/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On Sunday, influencer Amanda Hirsch — the creator behind the popular “Not Skinny But Not Fat” podcast, who also hosts Hulu s “Get Real” podcast — addressed the uproar about having posted partner content with the betting platform Polymarket over the Lindsay Clancy verdict. In a since-deleted post from Friday, after the judge in the case had [ ]",
+      "published": "2026-09-06T18:03:47+00:00",
+      "fetched": "2026-09-06T19:40:27.428930+00:00"
+    },
+    {
+      "id": "b38075074b6256b0",
+      "title": "Andy Williams, Every Time I Die Guitarist and Pro Wrestler, Dead at 48",
+      "link": "https://www.rollingstone.com/music/music-news/andy-williams-every-time-i-die-guitarist-wrestler-dead-obit-1235622341/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Founding rhythm guitarist for Buffalo metalcore band successfully segued into wrestling at \"The Butcher\"",
+      "published": "2026-09-06T17:56:53+00:00",
+      "fetched": "2026-09-06T19:40:27.527687+00:00"
+    },
+    {
+      "id": "368f17d17500e899",
+      "title": "‘Possible Love’ Cast Sobs as Lee Chang-dong’s Epic Embraced at Venice With 6-Minute Standing Ovation",
+      "link": "https://variety.com/2026/film/festivals/possible-love-lee-chang-dong-venice-premiere-1236838135/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Acclaimed South Korean director Lee Chang-dong returned after 24 years to the Venice Film Festival, where he was warmly embraced with a six-minute standing ovation for his romantic drama Possible Love. Directed by Lee and co-written by Oh Jung-mi, Possible Love follows the intertwined lives of two married couples a laid-off factory worker and [ ]",
+      "published": "2026-09-06T17:50:47+00:00",
+      "fetched": "2026-09-06T19:40:27.429002+00:00"
+    },
+    {
+      "id": "a0d68a061c4a2675",
+      "title": "‘The Echo Chamber’ Review: Luca Marinelli, Alicia Vikander and Susan Sarandon Reverberate Through a Smoky, Somber Single-Location Love Story",
+      "link": "https://variety.com/2026/film/reviews/the-echo-chamber-review-1236847009/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "If you re ever thinking of attempting a single-location film, choose that location with care. Make it high-ceilinged, light-filled, book-lined, with a reading-nook conservatory area, a gargantuan sofa, a killer sound system and space enough that you don t even have to turn sideways to sidle past the grand piano. If possible, have it overlook a neatly [ ]",
+      "published": "2026-09-06T17:45:00+00:00",
+      "fetched": "2026-09-06T19:40:27.429057+00:00"
+    },
+    {
+      "id": "2fa6341c03b75589",
+      "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record",
+      "link": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Spider-Man: Brand New Day” was No. 1 at the domestic box office for the sixth consecutive weekend, a rare feat that underscores the movie’s remarkable staying power as well as the lack of competition on cinema marquees. “Brand New Day” earned $18 million over the traditional weekend and is estimated to collect $23.3 million through [ ]",
+      "published": "2026-09-06T17:31:59+00:00",
+      "fetched": "2026-09-06T19:40:27.429112+00:00"
+    },
+    {
+      "id": "71bd38e360e92e45",
+      "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘",
+      "link": "https://variety.com/2026/film/news/bill-gates-ai-controls-telluride-film-festival-2001-1236853326/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Plenty of comparisons have been made in recent years between fast-developing artificial intelligence systems and HAL, the rogue computer in Stanley Kubrick s 2001: A Space Odyssey that operated by its own sets of rules, ultimately disregarding human oversight. If that comparison ever seemed overstated, it may be worth knowing that tech mogul Bill Gates is [ ]",
+      "published": "2026-09-06T17:08:46+00:00",
+      "fetched": "2026-09-06T19:40:27.429166+00:00"
+    },
+    {
+      "id": "d0eee0972b4dc33e",
+      "title": "Luc Besson Calls Madonna a ‘Phenomenon,’ Admits He’s Developing Another ‘Crazy’ Sci-Fi Story: ‘You Will Need a Ticket — And an Aspirin’",
+      "link": "https://variety.com/2026/film/global/luc-besson-madonna-sci-fi-venice-father-joe-1236853299/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Luc Besson is writing another sci-fi story right now. “It’s going to be crazy, believe me. Maybe you will need a ticket and an aspirin at the same time.",
+      "published": "2026-09-06T17:07:33+00:00",
+      "fetched": "2026-09-06T19:40:27.429222+00:00"
+    },
+    {
+      "id": "55322fa9ff321d9a",
+      "title": "14 People Hospitalized During the Chainsmokers’ Concert in San Jose",
+      "link": "https://www.rollingstone.com/music/music-news/14-people-hospitalized-the-chainsmokers-concert-san-jose-1235622325/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Over a dozen concertgoers required medical attention for \"suspected alcohol intoxication and drug-related issues,\" authorities say",
+      "published": "2026-09-06T16:08:48+00:00",
+      "fetched": "2026-09-06T19:40:27.527724+00:00"
+    },
+    {
+      "id": "7c3d510d38a7a50e",
+      "title": "Bob Minkin’s Best Photos of New York Music in the Seventies and Eighties",
+      "link": "https://www.rollingstone.com/music/music-pictures/bob-minkin-new-york-photos-springsteen-zappa-1235621060/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Noted music photographer Bob Minkin started going to shows in New York City when he was just 15. Soon after, he was sneaking his camera into venues to document what he saw. The experience led to an assignment to photograph concerts for Relix Magazine while studying graphic design at the School of Visual Arts.",
+      "published": "2026-09-06T15:40:05+00:00",
+      "fetched": "2026-09-06T19:40:27.527773+00:00"
+    },
+    {
+      "id": "ae55152aec48f73b",
+      "title": "In 2016, Colin Kaepernick Became the Face of Athletic Protest. What Happened to the Others?",
+      "link": "https://www.rollingstone.com/culture/culture-features/colin-kaepernick-protest-blm-anniversary-1235619765/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Ten years ago, a wave of protest took over professional sports. While some were remembered for their actions, others had to build new lives",
+      "published": "2026-09-06T15:00:00+00:00",
+      "fetched": "2026-09-06T19:40:27.527804+00:00"
+    },
+    {
+      "id": "96dec9f18ae0709d",
+      "title": "‘Possible Love’ Review: Korean Master Lee Chang-dong Returns With a Beautifully Mature, Quietly Colossal Relationship Drama",
+      "link": "https://variety.com/2026/film/reviews/possible-love-review-1236846877/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "One of the key moments from Lee Chang-dong s last film, 2018 s Burning, still glows bright in the memory. A girl mimes eating a tangerine, and explains the knack for making it convincing: Don t try to pretend there is a tangerine, try to forget there is not. It s a little zen koan that rhymes imperfectly in [ ]",
+      "published": "2026-09-06T14:30:00+00:00",
+      "fetched": "2026-09-06T19:40:27.429270+00:00"
+    },
     {
       "id": "847e65a76c21d5d0",
       "title": "This Texas Country Band Is Trying to Turn a Viral Collab With Luke Combs Into Longevity",
@@ -32,6 +162,16 @@
       "summary": "Some of the main breakouts of Swiss cinema in 2026—and the few years that precede it—share one striking commonality: they are either entirely in English or feature large chunks of English. Think Petra Volpe’s Locarno-winning “Frank Louis,” Damien Hauser’s festival darling “Memory of Princess Mumbi,” Denis Rabaglia’s buzzy “Butterfly Stroke” and, of course, Tim [ ]",
       "published": "2026-09-06T13:06:13+00:00",
       "fetched": "2026-09-06T14:28:33.793692+00:00"
+    },
+    {
+      "id": "1957f96718c04661",
+      "title": "22 Most Anticipated Movies at Toronto International Film Festival 2026",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/toronto-international-film-festival-2026-most-anticipated-movies-1235594517/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From docs on Blackpink's Lisa and Neil Peart to a ton of Oscar hopefuls — what we're excited see at this year's TIFF",
+      "published": "2026-09-06T13:00:00+00:00",
+      "fetched": "2026-09-06T19:40:27.527858+00:00"
     },
     {
       "id": "2b885d19aacaed37",
@@ -1362,146 +1502,6 @@
       "summary": "Pablo Torre is feeling vindicated — sort of. Back in July, Variety spoke with the trailblazing sports journalist about “Pablo Torre Finds Out,” his engrossing podcast, a mélange of chat show and true-crime docuseries wherein Torre breadcrumbs investigative reporting to his pals, and its monthslong, Pulitzer Prize-winning investigation into how the Los Angeles Clippers were [ ]",
       "published": "2026-09-04T00:30:30+00:00",
       "fetched": "2026-09-04T01:32:38.925071+00:00"
-    },
-    {
-      "id": "d94436c7bd38f29f",
-      "title": "Blackpink’s Lisa Returns to Her Rap Roots on Solo Single ‘SaWaDiKa’",
-      "link": "https://www.rollingstone.com/music/music-news/lisa-sawadika-single-press-play-ep-1235620810/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The rapper-singer is ushering a new era ahead of her Press Play EP, which arrives on Oct. 23",
-      "published": "2026-09-04T00:21:24+00:00",
-      "fetched": "2026-09-04T01:32:39.107520+00:00"
-    },
-    {
-      "id": "df93f1df0a56f752",
-      "title": "Drake Gives His Elusive ‘FOMO’ Project a Release Date",
-      "link": "https://www.rollingstone.com/music/music-news/drake-fomo-fear-of-missing-out-release-date-1235621125/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Little is known about the upcoming drop, which the rapper has been teasing for weeks",
-      "published": "2026-09-04T00:01:22+00:00",
-      "fetched": "2026-09-04T01:32:39.107534+00:00"
-    },
-    {
-      "id": "1c4e43b4e8494811",
-      "title": "‘Marriagetoxin’ Creators Joumyaku and Yoda Mizuki Tease Season 2: ‘There Is Plenty of Cool Action We Want You to See’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/marriagetoxin-creators-tease-season-2-1236850772/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A master assassin s toughest job isn t a kill order. It s finding a wife. That premise carried Marriagetoxin from a running Shonen Jump+ series into one of the standout anime of Spring 2026, and creators Joumyaku and Yoda Mizuki are already looking toward a second season set for January 2027.",
-      "published": "2026-09-04T00:00:00+00:00",
-      "fetched": "2026-09-04T01:32:38.925108+00:00"
-    },
-    {
-      "id": "8ecaaf0143a512cb",
-      "title": "Shakira, Romeo Santos, Prince Royce Among Top Winners at Premios Juventud 2026",
-      "link": "https://variety.com/2026/music/news/shakira-romeo-santos-prince-royce-winners-premios-juventud-1236851053/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Shakira, Prince Royce and Romeo Santos were among the top winners at Premios Juventud 2026, broadcast live from the Starlight Amphitheater in Marbella, Spain on Thursday night. Royce and Santos shared three wins on the back of their collaborative project Better Late Than Never, which picked up best tropical album. Their tracks Dardos and Lokita [ ]",
-      "published": "2026-09-04T00:00:00+00:00",
-      "fetched": "2026-09-04T01:32:38.925133+00:00"
-    },
-    {
-      "id": "360fc696e2d4056a",
-      "title": "Beyoncé Releases ‘B’Day 20th Anniversary Deluxe Edition’ Featuring Unreleased Songs, Collaborations With Selena and Maluma",
-      "link": "https://variety.com/2026/music/news/beyonce-bday-20th-anniversary-duets-selena-maluma-1236851153/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "To commemorate the 20th anniversary of her sophomore album, Beyoncé has released a remastered version of B Day featuring Spanish recordings, previously released bonus tracks, and a few unheard songs including Can I Watch You featuring Pharrell and a new Spanish version of Irreplaceable featuring previously released vocals from the late Selena Quintanilla. In a press [ ]",
-      "published": "2026-09-03T23:55:17+00:00",
-      "fetched": "2026-09-04T01:32:38.925164+00:00"
-    },
-    {
-      "id": "30313467f4782ab3",
-      "title": "Miley Cyrus Declares ‘The Kids Don’t Wanna Dance’ on New Single",
-      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-bass-persuades-single-video-1235620020/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Bass Persuades\" is the first glimpse into the singer's tenth studio album of the same name",
-      "published": "2026-09-03T23:44:46+00:00",
-      "fetched": "2026-09-04T01:32:39.107548+00:00"
-    },
-    {
-      "id": "eddc237c1059c96e",
-      "title": "International Oscar Submissions: Romania, South Korea, Chile, Germany and More Join the List",
-      "link": "https://variety.com/lists/international-oscar-submissions-2027/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec.",
-      "published": "2026-09-03T23:38:54+00:00",
-      "fetched": "2026-09-04T01:32:38.925188+00:00"
-    },
-    {
-      "id": "369665a1cebbf0d8",
-      "title": "Miley Cyrus Leads a Steamy Dance Floor Revolution With New Single and Video for ‘Bass Persuades’",
-      "link": "https://variety.com/2026/music/news/miley-cyrus-steamy-dance-floor-bass-persuades-music-video-1236851134/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Miley Cyrus is setting off her new era with the release of the single and video for Bass Persuades, the title track off her upcoming 10th album. Bass Persuades goes full dance-pop with tinges of 80s synths and a spoken-word first verse that recalls the deadpan delivery of Lady Gaga on Poker Face. Step into [ ]",
-      "published": "2026-09-03T23:18:17+00:00",
-      "fetched": "2026-09-04T01:32:38.925213+00:00"
-    },
-    {
-      "id": "3eef58759fd7e0b7",
-      "title": "‘Modern Family’ Duo Sets New Comedy Series ‘Mammoth’ on Fox",
-      "link": "https://variety.com/2026/tv/news/modern-family-duo-new-comedy-show-mammoth-fox-1236851109/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A new live-action comedy series is heading to Fox. From Modern Family co-creator Christopher Lloyd and executive producer and writer Danny Zuker comes Mammoth, which is based on Mike Bubbins British sitcom of the same name. Per the description, Mammoth follows Coach Tony Mammoth, a larger-than-life high school gym teacher whose life is put on ice [ ]",
-      "published": "2026-09-03T22:47:29+00:00",
-      "fetched": "2026-09-04T01:32:38.925239+00:00"
-    },
-    {
-      "id": "b356b6da10a15321",
-      "title": "Barack Obama Honors Gloria Steinem: ‘She Demanded That the World Pay Attention’",
-      "link": "https://www.rollingstone.com/culture/culture-news/barack-obama-gloria-steinem-tribute-1235621052/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The former president praised the trailblazer's work fighting for workplace gender equality, domestic violence prevention, and more",
-      "published": "2026-09-03T22:31:54+00:00",
-      "fetched": "2026-09-04T01:32:39.107563+00:00"
-    },
-    {
-      "id": "c5b41035310a1794",
-      "title": "Leslie Odom, Jr. and Aunjanue Ellis-Taylor Join Storm Reid in Teyana Taylor’s Directorial Debut ‘Get Lite’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/teyana-taylor-get-lite-cast-leslie-odom-jr-aunjanue-ellis-taylor-1236850170/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Golden Globe winner and Oscar and Grammy nominee Teyana Taylor is assembling an all-star cast for her feature directorial debut, “Get Lite,” starring Storm Reid and NFL rookie-turned-actor Ceyair Wright. Tony winner and Oscar nominee Leslie Odom, Jr. (“Hamilton,” “One Night in Miami”) and Oscar nominee Aunjanue Ellis-Taylor (“King Richard,” “Lucky”) have joined the ensemble [ ]",
-      "published": "2026-09-03T22:30:00+00:00",
-      "fetched": "2026-09-04T01:32:38.925270+00:00"
-    },
-    {
-      "id": "83e5e4272bed7388",
-      "title": "Jane Fonda on Paramount-Warner Bros. Merger, Trump and Tech Bros’ Desire for Longevity ‘While They’re Killing the Rest of Us’",
-      "link": "https://variety.com/2026/film/global/jane-fonda-paramount-warner-bros-trump-tech-bros-longevity-1236850300/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A feisty Jane Fonda on Thursday spoke out about her opposition to the Paramount-Warner Bros. merger, her aversion to Donald Trump, and the eerie desire that tech bros, oligarchs and billionaires have for longevity, while they re killing the rest of us, as she put it. Fonda, 88, took questions from a small group of journalists [ ]",
-      "published": "2026-09-03T22:00:00+00:00",
-      "fetched": "2026-09-04T01:32:38.925295+00:00"
-    },
-    {
-      "id": "05fb3255d6c34079",
-      "title": "They Say Their Dog Died From Negligence. They’re Using TikTok to Demand Answers",
-      "link": "https://www.rollingstone.com/culture/culture-features/madeleine-white-andrew-fedyk-dunkin-tiktok-1235620013/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Influencers Andrew Fedyk and Madeleine White were told by their trainer that their dog died of heat exhaustion. They believe there's more to the story",
-      "published": "2026-09-03T21:38:48+00:00",
-      "fetched": "2026-09-04T01:32:39.107579+00:00"
-    },
-    {
-      "id": "8e36807e2656e536",
-      "title": "Alice + Olivia’s New Clothing Collection Is a Love Letter to Music Icons",
-      "link": "https://www.rollingstone.com/product-recommendations/style/shop-alice-and-olivia-legends-capsule-september-2026-1235620805/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The fashion brand’s Legends Capsule puts a sparkling spin on five Grammy Award-winning acts, including The Rolling Stones, The Who, and Willie Nelson",
-      "published": "2026-09-03T21:23:47+00:00",
-      "fetched": "2026-09-04T01:32:39.107596+00:00"
     }
   ]
 }

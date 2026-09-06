@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-06T14:28:36.783163+00:00",
+  "updated": "2026-09-06T19:40:29.866162+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "03db3a69f8098079",
+      "title": "A Condo for Cars? Luxury Vehicle Storage Turns Parking into Big Business",
+      "link": "https://www.realtor.com/news/trends/auto-condo-cars-luxury-vehicle-storage-florida/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "These luxury car residences can start in the low $700,000s and range up to $2 million.",
+      "published": "2026-09-06T18:33:00+00:00",
+      "fetched": "2026-09-06T19:40:29.865561+00:00"
+    },
+    {
+      "id": "6f23f998a0420180",
+      "title": "A Beautifully Modernized Midcentury Marin Home Lists for the First Time in 60 Years",
+      "link": "https://www.realtor.com/news/unique-homes/midcentury-modern-marin-county-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The $3.3M four-bedroom midcentury modern home in Kentfield, CA was completed in 1966 and has been owned by the same owners ever since.",
+      "published": "2026-09-06T17:06:00+00:00",
+      "fetched": "2026-09-06T19:40:29.865599+00:00"
+    },
+    {
+      "id": "e0d2cdbbde587027",
+      "title": "Elvis-Inspired ‘Little Graceland’ Vacation Rental Near Memphis Landmark Finds a Buyer After Listing for $175K",
+      "link": "https://www.realtor.com/news/unique-homes/little-graceland-memphis-elvis-presley-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The owners of iconic Memphis honky-tonk Hernando's Hide-A-Way bought the home in 2017, and embraced its 1950s-style honoring Elvis Presley.",
+      "published": "2026-09-06T15:32:00+00:00",
+      "fetched": "2026-09-06T19:40:29.865634+00:00"
+    },
     {
       "id": "085c0ebf3f775365",
       "title": "From Postwar Housing Solution to ‘Brady Bunch’ Fame—Is the Split-Level Home Ready for a Comeback?",
@@ -1472,36 +1502,6 @@
       "summary": "Curry, who passed away at the age of 80 on Aug. 25, bought the 1922 estate in 1993 and spent years loving restoring it.",
       "published": "2026-08-27T15:39:35+00:00",
       "fetched": "2026-08-27T16:55:08.554303+00:00"
-    },
-    {
-      "id": "4fe610063f625277",
-      "title": "Lindsay Clancy’s Murder Trial Reaches Closing Arguments—More Than 3 Years After Her Kids Were Found Dead at Massachusetts Home",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-patrick-killed-kids-home-massachusetts/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Former nurse Clancy, 36, has been present in the Massachusetts courtroom for each day of the trial but has not testified.",
-      "published": "2026-08-27T14:12:00+00:00",
-      "fetched": "2026-08-27T16:55:08.554338+00:00"
-    },
-    {
-      "id": "8843e4c3dd46eb76",
-      "title": "Karoline Leavitt Says Her Kids Are ‘at Critical Age’ and Need Her Home as She Reveals Heartbreak Over Shock White House Exit",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/karoline-leavitt-white-house-last-day-kids-home-husband-nicholas-riccio/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Leavitt, who shares two children with her husband, Nicholas Riccio, has opened up about her decision to quit the White House.",
-      "published": "2026-08-27T13:09:58+00:00",
-      "fetched": "2026-08-27T16:55:08.554372+00:00"
-    },
-    {
-      "id": "9954b13eb6ad711a",
-      "title": "What Every Home Needs for an Extended Power Outage",
-      "link": "https://www.realtor.com/news/trends/what-every-home-needs-for-power-outage/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Extended power outages can disrupt food, water, cooling, and medical needs. These supplies can help households prepare.",
-      "published": "2026-08-27T13:01:00+00:00",
-      "fetched": "2026-08-27T16:55:08.554399+00:00"
     }
   ]
 }
