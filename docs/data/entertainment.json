@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-07T01:26:50.693753+00:00",
+  "updated": "2026-09-07T10:49:45.364375+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e7faffa949b6ba24",
+      "title": "Pamela Anderson Speaks Out on Overcoming Hepatitis C in Powerful Speech at amfAR Venice: ‘I’m Not a Victim. I’m a Victor’",
+      "link": "https://variety.com/2026/film/festivals/pamela-anderson-hepatitis-c-amfar-venice-not-victim-1236853854/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When Pamela Anderson was diagnosed with hepatitis C in the late 90s, there was no cure. It was a death sentence. That s what my doctor told me — that I probably had around 10 years to live, the Baywatch star recalled in a moving speech at the amfAR Gala in Venice.",
+      "published": "2026-09-07T10:48:40+00:00",
+      "fetched": "2026-09-07T10:49:45.048208+00:00"
+    },
+    {
+      "id": "f6d65c785173d91c",
+      "title": "Female-Driven, Premium Period Dramas Spearhead Latest French Fiction Revolution",
+      "link": "https://variety.com/2026/tv/global/premium-french-period-drama-unifrance-rendezvous-2026-1236849083/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s been almost 240 years since France started its very first Revolution. But fear not, French TV producers still have what it takes to bring yet another one to modern fiction, blending hints of past, present, and future. From Toronto-bound Alice recently boarded by SND to France Télévisions genre-bending thriller Swapped and Wild Bunch s latest [ ]",
+      "published": "2026-09-07T10:00:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048254+00:00"
+    },
+    {
+      "id": "816e9d1d8ac72da9",
+      "title": "Screen Industries Adopt Five Thematic Declarations at Lumiere Summit, Setting Terms on AI, Piracy, Gender, Education and the Environment",
+      "link": "https://variety.com/2026/film/global/lumiere-summit-five-declarations-ai-piracy-gender-education-environment-1236853918/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Countries, screen industry bodies and rights organizations adopted five thematic declarations at the Lumière Summit on Monday at the Fondation Maeght in Saint-Paul-de-Vence, France, establishing shared frameworks across artificial intelligence, piracy, image education, gender equality and environmental sustainability. Among the signatories are France, the Republic of Korea, SACEM — the Société des auteurs, compositeurs et [ ]",
+      "published": "2026-09-07T09:45:24+00:00",
+      "fetched": "2026-09-07T10:49:45.048311+00:00"
+    },
+    {
+      "id": "187341e79810bdaf",
+      "title": "France Launches Global Initiatives to Support Independent Cinema and Establish Framework for Alliance of State Film Commissions: Lumiere Summit",
+      "link": "https://variety.com/2026/film/news/iris-independent-film-france-macron-lumiere-summit-1236853718/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Top filmmakers including Richard Linklater, Rebecca Zlotkowski, Jafar Panahi, Jane Campion, Pedro Almodóvar, Wim Wenders, Tarik Saleh and Jia Zhang-ke have signed on to take part in the International Resilience Initiative for Independent Screens unveiled Monday during the Lumiere Summit in France. The French government has launched what has been dubbed IRIS as a bid [ ]",
+      "published": "2026-09-07T09:05:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048351+00:00"
+    },
+    {
+      "id": "d19be8c3e75da168",
+      "title": "Emmanuel Macron Calls for Global Initiatives to Protect Film and Warns About Dangers of Social Media as Lumiere Summit Opens",
+      "link": "https://variety.com/2026/film/news/emmanuel-macron-social-media-ai-lumiere-summit-1236853824/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Emmanuel Macron called for global initiatives to protect the future of cinema and he sounded the alarm about the threats to artistic expression posed by the endless scroll of social media platforms during his opening speech at the Lumiere Summit on Monday. The French president delivered heartfelt remarks that stressed the urgency of the need [ ]",
+      "published": "2026-09-07T09:04:43+00:00",
+      "fetched": "2026-09-07T10:49:45.048384+00:00"
+    },
+    {
+      "id": "a78a3f4f446657ec",
+      "title": "France TV Distribution Unveils Female-Led Actioners in Le Havre Lineup",
+      "link": "https://variety.com/2026/tv/global/france-tv-distribution-le-havre-unifrance-rendez-vous-1236851929/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "France TV Distribution is presenting four new TV movies, including two female-fronted action thrillers, a light crime drama and a dramedy, at this year’s Unifrance Rendez-Vous in Le Havre, which runs Sept. 7-10. The sales company’s muscular lineup already includes the historical drama “Swapped,” about a young wet nurse in 19th-century Paris forced to secretly [ ]",
+      "published": "2026-09-07T09:00:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048420+00:00"
+    },
+    {
+      "id": "7222bb86bb4eead0",
+      "title": "France and Korea Launch $1.16 Billion Screen Industry Financing Partnership at Lumiere Summit",
+      "link": "https://variety.com/2026/film/news/france-korea-billion-screen-industry-partnership-lumiere-summit-1236853711/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "France and Korea have each pledged €500 million ($581 million) to a joint initiative designed to strengthen the global screen industries, with the first funding instruments deploying from 2027 through 2031. The Lumière Partnership, unveiled Monday at the Lumière Summit in Saint-Paul-de-Vence, is open to additional countries and will prioritize companies with the ambition and [ ]",
+      "published": "2026-09-07T09:00:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048457+00:00"
+    },
+    {
+      "id": "353bca498a8d0474",
+      "title": "Toho Europe, Indonesia Film Fund, Cinepolis Pact Among Deals Unveiled at Lumiere Summit",
+      "link": "https://variety.com/2026/film/news/toho-europe-indonesia-film-fund-cinepolis-pact-lumiere-summit-1236853717/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Monday s Lumière Summit in Saint-Paul-de-Vence generated a cluster of industry announcements alongside its headline declarations, with deals spanning co-production financing, distribution, exhibition and education. Toho Europe, the regional arm of Tokyo-based entertainment group Toho Co., Ltd. – founded in 1932 and best known internationally for the Godzilla franchise – announced a new branch in France.",
+      "published": "2026-09-07T09:00:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048498+00:00"
+    },
+    {
+      "id": "8fff8a6a0102e4da",
+      "title": "Heritage Foundation ALIPH Targets Ukraine, Syria and Indonesia in New Film Rescue Program",
+      "link": "https://variety.com/2026/film/news/aliph-film-heritage-program-ukraine-syria-indonesia-1236853842/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "With only an estimated 20% of the world s film heritage safeguarded, the International Alliance for the Protection of Heritage is making its first move into cinema. Announced Monday at the Lumière Summit in Saint-Paul-de-Vence, France, ALIPH s new Program for the Safeguarding of Cinematographic and Audiovisual Heritage at Risk will bring together emergency intervention, preservation, physical [ ]",
+      "published": "2026-09-07T09:00:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048535+00:00"
+    },
+    {
+      "id": "645351cfa125309e",
+      "title": "Regal Cinemas, IFTA, CNC Launch Pilot to Test Whether Smarter Programming Can Reverse Falling Theater Admissions",
+      "link": "https://variety.com/2026/film/news/regal-cinemas-ifta-cnc-pilot-reverse-falling-theater-admissions-1236853853/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Regal Cinemas and the Independent Film Television Alliance (IFTA), together with the CNC, launched the Future of Distribution pilot on Monday at the Lumière Summit in Saint-Paul-de-Vence, France, a new international initiative that will hand under-used cinema screens to a neutral programmer in a bid to reverse falling theater attendance. The pilot gets [ ]",
+      "published": "2026-09-07T09:00:00+00:00",
+      "fetched": "2026-09-07T10:49:45.048570+00:00"
+    },
+    {
+      "id": "0e387b7454c70367",
+      "title": "Watch Carrie Underwood Cover Limp Bizkit, Papa Roach, Linkin Park at Velocity Festival",
+      "link": "https://www.rollingstone.com/music/music-news/carrie-underwood-limp-bizkit-papa-roach-covers-live-1235622371/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The country singer performed a series of nu-metal covers at the Iowa music festival on Saturday",
+      "published": "2026-09-07T07:37:04+00:00",
+      "fetched": "2026-09-07T10:49:45.166115+00:00"
+    },
+    {
+      "id": "103e9378cd9df750",
+      "title": "Rob Reiner Wins Posthumous Emmy for ‘The Bear’ Guest Role",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-posthumous-emmy-the-bear-guest-star-1235622367/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The filmmaker and actor won Guest Actor in a Comedy Series during the Creative Arts Emmys ceremony on Sunday night",
+      "published": "2026-09-07T07:00:31+00:00",
+      "fetched": "2026-09-07T10:49:45.166144+00:00"
+    },
+    {
+      "id": "37724b02f5a35810",
+      "title": "Nathan Fielder Focuses on Elizabeth Holmes in ‘You Can See Everything’ Documentary Trailer",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/nathan-fielder-elizabeth-holmes-documentary-trailer-a24-1235622362/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The film, co-directed by Lance Oppenheim, premiered at the Telluride Film Festival",
+      "published": "2026-09-07T06:29:05+00:00",
+      "fetched": "2026-09-07T10:49:45.166166+00:00"
+    },
     {
       "id": "e0c26224c6f3a04e",
       "title": "Nathan Fielder Drops Weird Trailer for Secret Elizabeth Holmes Doc ‘You Can See Everything’",
@@ -1372,136 +1502,6 @@
       "summary": "A Place to Heal is an unduly sentimental English-language title title for French writer-director Cédric Kahn s new feature, which goes internationally by the more prosaic (if outwardly cryptic) 15/18 — referring, simply, to the age bracket of the teenage residents in the psychiatric ward where most of the drama is confined. It s a place to [ ]",
       "published": "2026-09-04T15:00:00+00:00",
       "fetched": "2026-09-04T15:13:31.259206+00:00"
-    },
-    {
-      "id": "8fb57b8aa062a1ef",
-      "title": "Ann Hui, Carlo Chatrian to Head Pingyao’s Fei Mu, Rossellini Juries",
-      "link": "https://variety.com/2026/film/festivals/ann-hui-carlo-chatrian-pingyao-juries-1236851660/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Pingyao International Film Festival has named Hong Kong director Ann Hui and Italian critic and programmer Carlo Chatrian as jury presidents of the Fei Mu Awards and the Roberto Rossellini Awards, respectively, ahead of the festival s 10th edition, running Sept. 24–30, in Pingyao, China. The Fei Mu Awards, recognized by Fei Mu s family, aim [ ]",
-      "published": "2026-09-04T14:44:48+00:00",
-      "fetched": "2026-09-04T15:13:31.259245+00:00"
-    },
-    {
-      "id": "aaeb3971cc32592a",
-      "title": "Adria Arjona Details ‘Superman’ Sequel Training Amid Wonder Woman Rumors: 2 Hours of Weightlifting, 6 Rounds of Boxing and More",
-      "link": "https://variety.com/2026/film/news/adria-arjona-superman-sequel-wonder-woman-1236851615/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sadie Sink had to dodge questions for months over whether or not she was playing Jean Grey in the lead-up to Spider-Man: Brand New Day, and now it seems like DC star Adria Arjona may have to do the same for the Superman sequel, Man of Tomorrow. Details about her role have remained shrouded in [ ]",
-      "published": "2026-09-04T14:15:18+00:00",
-      "fetched": "2026-09-04T15:13:31.259278+00:00"
-    },
-    {
-      "id": "ff95edff2b74c4b0",
-      "title": "Donald Trump Sounds Off on Maria Bartiromo’s Shock Exit From Fox News: Her ‘Many’ Fans ‘Will Not Be Happy’",
-      "link": "https://variety.com/2026/tv/news/trump-reacts-maria-bartiromo-firing-fox-news-1236851613/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "President Donald Trump reacted to Fox News surprise announcement Thursday that it has parted ways with Maria Bartiromo, who had been an anchor on Fox News and Fox Business Network for more than 12 years. Fox News did not provide a reason for its dismissal of Bartiromo, a former prominent CNBC anchor who joined Fox [ ]",
-      "published": "2026-09-04T14:07:37+00:00",
-      "fetched": "2026-09-04T15:13:31.259312+00:00"
-    },
-    {
-      "id": "8b50c1a8dcaf6d1b",
-      "title": "Medium Build Is Learning to Say No",
-      "link": "https://www.rollingstone.com/music/music-features/medium-build-sober-king-of-having-fun-album-1235620275/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"I said, ‘Yes’ to every support slot. Halfway through, the drinking caught up with me,\" says songwriter Nick Carpenter, who went through a crisis of conscience to get to new album King of Having Fun",
-      "published": "2026-09-04T13:30:00+00:00",
-      "fetched": "2026-09-04T15:13:31.390056+00:00"
-    },
-    {
-      "id": "576f3675b18e14cb",
-      "title": "Adéla’s Risk-Taking Pays Off on ‘Prima’",
-      "link": "https://www.rollingstone.com/music/music-album-reviews/adela-prima-album-review-1235620983/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The pop phenom wraps stories of sacrifice and surrender with bold confidence on her maximalist debut",
-      "published": "2026-09-04T13:00:00+00:00",
-      "fetched": "2026-09-04T15:13:31.390075+00:00"
-    },
-    {
-      "id": "d498addc2b1ab31f",
-      "title": "‘My Undesirable Friends: Part II – Exile’ Review: An Enormous, Riveting Documentary Sequel Following Reporters on the Run",
-      "link": "https://variety.com/2026/film/news/my-undesirable-friends-part-ii-exile-review-1236848647/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Following her mammoth five-hour odyssey “My Undesirable Friends: Part I — Last Air in Moscow,” Julia Loktev’s sequel remains just as riveting, if not more so, in its continued depiction of journalists escaping the Russian government. Its predecessor’s endpoint (one Loktev could not have foreseen when she began shooting on her iPhone X) was the [ ]",
-      "published": "2026-09-04T09:30:00+00:00",
-      "fetched": "2026-09-04T10:01:42.046118+00:00"
-    },
-    {
-      "id": "ba2045a165b02e58",
-      "title": "Manisha Koirala Attached to Star in ‘Cowgirls & Indians,’ Set for November Texas Shoot (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/manisha-koirala-cowgirls-indians-1236851458/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Manisha Koirala is attached to star in Cowgirls Indians, an indie feature that will start shooting in November around Austin, Texas, and nearby locations. The film was formerly titled Cowboys Indians. Tejal Desai, a Nicholl Fellow, wrote and is directing the film, expanding on her award-winning short Cowboys and Hindus.",
-      "published": "2026-09-04T09:13:56+00:00",
-      "fetched": "2026-09-04T10:01:42.046178+00:00"
-    },
-    {
-      "id": "5185344dc473b8fe",
-      "title": "Busan Market Unveils Doc Square, Launches Impact Asia as Yim Siwan Named Festival Closing Ceremony Host",
-      "link": "https://variety.com/2026/film/news/busan-market-doc-square-impact-asia-1236851450/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Asian Contents Film Market (ACFM), the market of the Busan International Film Festival (BIFF), will present Doc Square 2026 from Oct. 10-13, bringing together eight partner organizations from five countries to connect Asian documentary creators with industry professionals. Launched last year, the program introduces documentary projects still in production across Asia and offers [ ]",
-      "published": "2026-09-04T08:53:12+00:00",
-      "fetched": "2026-09-04T10:01:42.046227+00:00"
-    },
-    {
-      "id": "5f5fdf8834c14632",
-      "title": "Magdalena Koleśnik and Kay Greidanus to Lead Finn Szumlas’ Debut Feature ‘Stairway to Earth’ as Production Starts (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/magdalena-kolesnik-kay-greidanus-stairway-to-earth-1236851412/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dutch filmmaker Finn Szumlas has started principal photography on his debut feature Stairway to Earth, kicking off a 5-week shoot in the Netherlands. Leading the film is Polish star Magdalena Koleśnik ( Sweat ) and Dutch actor Kay Greidanus ( Dit Zijn Wij ), playing two strangers who meet up after a one night stand at at a summer [ ]",
-      "published": "2026-09-04T08:43:05+00:00",
-      "fetched": "2026-09-04T10:01:42.046283+00:00"
-    },
-    {
-      "id": "29331a5d2e798a8f",
-      "title": "Tamar AI’s TapNow Brings AI-Native Filmmaking to Venice Production Bridge With HappyHorse-Backed 10,000 Parallel Universes Films, Unveils Streamer Glanze",
-      "link": "https://variety.com/2026/tv/markets-festivals/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Liu Haonan and Qiao Yuhang have been finishing each other s stories since high school, where they drew together, talked about animation and film, and traded ideas for comics and stories of their own. More than a decade later, they re doing something a two-person team couldn t have pulled off a few years ago: building a science-fiction [ ]",
-      "published": "2026-09-04T08:40:43+00:00",
-      "fetched": "2026-09-04T10:01:42.046334+00:00"
-    },
-    {
-      "id": "67f0303e3ffb1b80",
-      "title": "Anna Foglietta on Working With Alba Rohrwacher on Venice Drama ‘A Common Story’ ‘You Have to Have the Guts to Show Yourself Exactly as You Are’ — Trailer (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/festivals/anna-foglietta-alba-rohrwacher-venice-common-story-trailer-1236845990/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Actor-turned director Anna Foglietta is back in Venice in a different guise this year, after serving as the event s official emcee in 2020. Foglietta — who is best-known to international audiences for her role in Italy’s smash hit “Perfect Strangers” — is on the Lido with her directorial debut, “A Common Story.” It s a marriage [ ]",
-      "published": "2026-09-04T07:38:47+00:00",
-      "fetched": "2026-09-04T10:01:42.046391+00:00"
-    },
-    {
-      "id": "3f1b03a7e250b07d",
-      "title": "Indonesia’s ‘2nd Miracle in Cell No. 7’ Gets Philippine Remake From Viva Communications (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/indonesia-2nd-miracle-cell-no-7-philippine-remake-1236851405/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Philippine studio Viva Communications has acquired the rights to remake Indonesian film 2nd Miracle in Cell No. 7, marking the first time an Indonesian film will be officially remade for the Philippine market. The adaptation is set to premiere Dec.",
-      "published": "2026-09-04T07:38:08+00:00",
-      "fetched": "2026-09-04T10:01:42.046441+00:00"
-    },
-    {
-      "id": "a787c66431ccdd65",
-      "title": "Alix Earle’s Inane Netflix Reality Show ‘Earle Meets World’ Is Like Watching Paint Dry: TV Review",
-      "link": "https://variety.com/2026/tv/reviews/earle-meets-world-review-alix-earle-netflix-1236847616/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "At the start of her eponymous reality show “Earle Meets World,” the influencer Alix Earle promises that while “there’s a whole other side” of the creator economy “people don’t get to see,” her viewers are “gonna see everything in this show.” I hope for Earle’s sake she isn’t telling the truth, because if “Earle Meets [ ]",
-      "published": "2026-09-04T07:01:00+00:00",
-      "fetched": "2026-09-04T10:01:42.046493+00:00"
     }
   ]
 }

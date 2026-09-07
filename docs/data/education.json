@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-07T01:26:52.515505+00:00",
+  "updated": "2026-09-07T10:49:47.202918+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7165cae4d175be75",
+      "title": "Meet Lloyd Kahn, the Counterculture Publisher Who Is Skateboarding at 91",
+      "link": "https://www.openculture.com/2026/09/meet-lloyd-kahn-the-counterculture-publisher-who-is-skateboarding-at-91.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Lloyd Kahn worked as an insurance broker before quitting in 1965. Then, he took a turn into the DIY building movement that emerged with the 1960s counterculture. Soon enough, he found himself editing the influential Whole Earth Catalog and publishing Shelter in 1973, a book still considered the bible of hand-built homes.",
+      "published": "2026-09-07T09:02:06+00:00",
+      "fetched": "2026-09-07T10:49:47.202736+00:00"
+    },
     {
       "id": "e819780eae6900cd",
       "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
@@ -1492,16 +1502,6 @@
       "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
       "published": "2026-07-29T14:00:00+00:00",
       "fetched": "2026-07-29T14:33:45.337892+00:00"
-    },
-    {
-      "id": "85ee5fc611951a57",
-      "title": "How a 13th-Century Monk Created a Prayer Manuscript by Writing Over—and Accidentally Preserving—Archimedes’ Groundbreaking Mathematical Works",
-      "link": "https://www.openculture.com/2026/07/how-a-13th-century-monk-created-a-manuscript-that-erased-archimedes.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "In Jerusalem of the year 1229, there lived a Greek Orthodox monk named Johannes Myronas. Needing some parchment for a prayer book, he grabbed some already-used pages, erased their existing content, and over them wrote down “prayers for the dead, prayers for repentance, blessings for the loaves at Easter, and even a prayer for those [ ]",
-      "published": "2026-07-29T09:04:29+00:00",
-      "fetched": "2026-07-29T14:33:46.187794+00:00"
     }
   ]
 }
