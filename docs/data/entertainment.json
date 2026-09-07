@@ -1,8 +1,108 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-07T16:47:46.411105+00:00",
+  "updated": "2026-09-07T20:50:39.410546+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "03452f4f14544f87",
+      "title": "Billy Joel Announces Death of Early Bandmate Jon Small",
+      "link": "https://www.rollingstone.com/music/music-news/jon-small-billy-joel-early-band-mate-dead-obituary-1235622476/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Small and Joel played together in the Hassles and Attila before the future Piano Man had affair with Small's wife, temporarily ending their friendship",
+      "published": "2026-09-07T20:19:49+00:00",
+      "fetched": "2026-09-07T20:50:39.247745+00:00"
+    },
+    {
+      "id": "a55539a2c96e7f3f",
+      "title": "‘Elsinore’ Director Simon Stone, Basking in Telluride’s Glow, on Making a Movie About Love of the Theater, the Peak AIDS Era, and Being ‘100% in the Service of Andrew Scott’",
+      "link": "https://variety.com/2026/film/news/elsinore-telluride-film-festival-andrew-scott-simon-stone-1236854213/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Telluride Film Festival casts a wide net, as almost all festivals of its ilk do, but if it has had any speciality that stands out among many, it might be the well-earned tearjerker. There is as much crying at Telluride every year as there isn t in baseball, but with the festival s emphasis on top-line [ ]",
+      "published": "2026-09-07T20:18:19+00:00",
+      "fetched": "2026-09-07T20:50:39.179054+00:00"
+    },
+    {
+      "id": "d479b6defbf44e55",
+      "title": "MPA Signs Two Lumiere Summit Declarations, Joins Roundtables With Presidents Macron and Lee",
+      "link": "https://variety.com/2026/film/news/mpa-lumiere-summit-declarations-rivkin-macron-lee-1236854208/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Motion Picture Association signed two declarations at the Lumière Summit on Monday, adding its name alongside those of governments and private sector organizations worldwide to the Lumière Declaration on the Future of Cinema and the Moving Image and the Declaration on Strengthened International Cooperation in the Fight Against Film and Audiovisual Piracy. The summit [ ]",
+      "published": "2026-09-07T18:58:14+00:00",
+      "fetched": "2026-09-07T20:50:39.179112+00:00"
+    },
+    {
+      "id": "545823c94f2021df",
+      "title": "Rosanne Cash Postpones Upcoming Shows Due to ‘Unforeseen Medical Emergency’",
+      "link": "https://www.rollingstone.com/music/music-country/rosanne-cash-postpones-upcoming-shows-medical-emergency-1235622467/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After missing next three concerts, Singer anticipates being back on the road September 19",
+      "published": "2026-09-07T18:42:01+00:00",
+      "fetched": "2026-09-07T20:50:39.247804+00:00"
+    },
+    {
+      "id": "dd80a1a3c22b3810",
+      "title": "‘Look Back’ Review: Once Past the Over- Preciousness of a Child’s World, Hirokazu Kore-eda’s Manga Adaptation Becomes a Moving Tribute to Friendship",
+      "link": "https://variety.com/2026/film/news/look-back-review-1236854197/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "There’s barely an adult in sight in Hirokazu Kore-eda’s “Look Back,” where anyone out of school age is marginalized practically to the point of superfluidity. Like much in the first half of this sweet — at times too sweet — adaptation from Tatsuki Fujimoto’s manga of the same title, also made into an animated film [ ]",
+      "published": "2026-09-07T18:19:55+00:00",
+      "fetched": "2026-09-07T20:50:39.179170+00:00"
+    },
+    {
+      "id": "8188a9306756b630",
+      "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion",
+      "link": "https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Need proof the movies are really, truly back? The summer box office was already the biggest since COVID upended the industry in 2020 — and now the season has become the highest-grossing of all time. Domestic ticket sales from May 1 through Labor Day on Sept.",
+      "published": "2026-09-07T18:10:59+00:00",
+      "fetched": "2026-09-07T20:50:39.179222+00:00"
+    },
+    {
+      "id": "b1aae88fd809e750",
+      "title": "‘Alpha Gang’ Review: Cate Blanchett, Chris Pine and an All-Star Cast Play Space Aliens in David and Nathan Zellner’s Endearingly Goofy Sci-Fi Spoof",
+      "link": "https://variety.com/2026/film/reviews/alpha-gang-review-1236854144/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Among the greatest cinematic mysteries of our time, when it’s harder than ever to make movies, is the fact that David and NathanZellner continue to realize their uncompromisingly DIY, endearingly childlike vision through an indie filmography that only seems to grow in scale and purpose. It’s a welcome miracle that the duo who once captured [ ]",
+      "published": "2026-09-07T17:36:42+00:00",
+      "fetched": "2026-09-07T20:50:39.179275+00:00"
+    },
+    {
+      "id": "19b99f3a192d50a9",
+      "title": "‘The Spiral’ Review: Paolo Strippoli’s Lurid Faustian Tragedy Shores Up His Reputation as Italy’s New Horror Virtuoso",
+      "link": "https://variety.com/2026/film/news/the-spiral-review-1236854031/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "We don t get a close enough look to see if the Devil actually wears Prada, but regardless, in Paolo Strippoli s new horror romp The Spiral, she s very chicly turned out indeed: Cool, crisp and collected in a tightly belted camel trenchcoat, hair pristinely bobbed and lips perfectly rouged, wielding a cigarette like a laser pointer. [ ]",
+      "published": "2026-09-07T17:30:00+00:00",
+      "fetched": "2026-09-07T20:50:39.179324+00:00"
+    },
+    {
+      "id": "39f0dce5fc89f6f2",
+      "title": "Luca Guadagnino on Casting Hollywood A-Listers in Subversive Roles: ‘I Have Worked With Some of the Finest’",
+      "link": "https://variety.com/2026/film/global/luca-guadagnino-hollywood-stars-subversive-roles-1236854036/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Luca Guadagnino discussed his warm rapport with Hollywood movie stars on Monday at the Venice Film Festival, one year after being on the Lido with his Julia Roberts-starrer After the Hunt. During a wide-ranging master class the Italian director, who was born in Palermo, Sicily, to an Algerian mother and a Sicilian father – and [ ]",
+      "published": "2026-09-07T17:27:19+00:00",
+      "fetched": "2026-09-07T20:50:39.179377+00:00"
+    },
+    {
+      "id": "cc02d80fdb5e2deb",
+      "title": "‘South Park’ Mocks Trump While Celebrating Emmy Win for Outstanding Animated Program",
+      "link": "https://variety.com/2026/tv/news/south-park-trump-emmy-win-outstanding-animated-program-1236854156/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“South Park” threw one final jab at President Donald Trump Sunday night as the show celebrated its Emmy win for Outstanding Animated Program. The official “South Park” X account posted a graphic of Trump with his pants and underwear around his ankles, holding an Emmy award triumphantly in the air. The post was captioned, “Congratulations [ ]",
+      "published": "2026-09-07T17:07:28+00:00",
+      "fetched": "2026-09-07T20:50:39.179426+00:00"
+    },
     {
       "id": "981c8c19bfc6fab0",
       "title": "Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Doc ‘You Can See Everything’ Detonates the Oscar Race — and Has A24 Chasing a 90-Year Record",
@@ -1402,106 +1502,6 @@
       "summary": "It was a dark and stormy night for “Spider-Noir.” The Prime Video/MGM+ series, starring Nicolas Cage in his first-ever regular TV role, has been canceled after eight episodes and won’t return for a Season 2. The news comes even as “Spider-Noir” heads into the first weekend of Emmy ceremonies with 11 nominations — the most [ ]",
       "published": "2026-09-04T21:00:00+00:00",
       "fetched": "2026-09-05T01:33:51.357620+00:00"
-    },
-    {
-      "id": "9beadfd9d91524f9",
-      "title": "Beyoncé’s ‘B’Day’ Reissue Samples Selena and Celia Cruz, But It’s Not Her First Latin Tribute",
-      "link": "https://www.rollingstone.com/music/music-latin/beyonces-bday-20th-anniversary-edition-latin-music-history-1235621652/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Queen Bey's newest project honors major Latin stars — and calls back to her history with Latin music",
-      "published": "2026-09-04T20:37:10+00:00",
-      "fetched": "2026-09-05T01:33:51.561049+00:00"
-    },
-    {
-      "id": "3da20067c0a15c01",
-      "title": "Tetris Company Distances Itself From Trump White House’s ‘Build the Wall’ Game, Says ‘We Take Copyright Very Seriously’",
-      "link": "https://variety.com/2026/digital/news/tetris-company-trump-white-house-build-the-wall-game-copyright-1236851993/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Tetris Company wants to be clear that it was not involved in the creation of the White House s Build the Wall game an obvious copy of the famous block-dropping title in which players must prevent zombie-like foreigners from crossing the southern border into the United States. The game company added, We take [ ]",
-      "published": "2026-09-04T19:51:23+00:00",
-      "fetched": "2026-09-04T19:57:19.663774+00:00"
-    },
-    {
-      "id": "f25fdf7e39d7f4db",
-      "title": "‘The Basics of Philosophy’ Review: Paul Schrader Wrestles with Sin and Spinoza in His Latest Tortured-Man Drama",
-      "link": "https://variety.com/2026/film/reviews/the-basics-of-philosophy-review-1236847014/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Another man, another room, another vile past deed in need of expiation. On the one hand you could accuse writer-director Paul Schrader of retreading old ground with his latest unadorned exploration of guilt, transgression and the intellectual work that a sinner must do in order to seek redemption for his sins. On the other hand, [ ]",
-      "published": "2026-09-04T19:45:00+00:00",
-      "fetched": "2026-09-04T19:57:19.663817+00:00"
-    },
-    {
-      "id": "8897e05dd628778e",
-      "title": "Here’s Who We Want to See at Daisy Chain 2027",
-      "link": "https://www.rollingstone.com/music/music-features/daisy-chain-fields-2027-wish-list-1235618439/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A week after Olivia Rodrigo made history with her inaugural Daisy Chain Fields festival, we have some thoughts about our dream lineup if there's a year two",
-      "published": "2026-09-04T19:43:40+00:00",
-      "fetched": "2026-09-04T19:57:19.746333+00:00"
-    },
-    {
-      "id": "ac64b84a27226622",
-      "title": "How to Watch the U.S Open Live Online",
-      "link": "https://variety.com/2026/shopping/news/how-to-stream-us-open-live-online-streaming-1236851970/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The U.S. Open is officially underway in New York. The final Grand Slam of the year kicked off its main draw Aug.",
-      "published": "2026-09-04T19:14:45+00:00",
-      "fetched": "2026-09-04T19:57:19.663850+00:00"
-    },
-    {
-      "id": "ce1f21627c0420ac",
-      "title": "How to Stream F1’s Monza Grand Prix Live Online",
-      "link": "https://variety.com/2026/shopping/news/how-to-stream-f1-monza-italy-grand-prix-live-online-1236851951/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Formula 1 heads to one of its most storied tracks this weekend, as the Italian Grand Prix takes over the Autodromo Nazionale Monza. The 2026 Italian Grand Prix takes place Sunday, Sept. 6, with the race starting at 9 a.m.",
-      "published": "2026-09-04T19:03:35+00:00",
-      "fetched": "2026-09-04T19:57:19.663884+00:00"
-    },
-    {
-      "id": "a8193081d7abcc88",
-      "title": "Big Sean and Kanye West Reunite After Feud With Surprise Appearance in Chicago",
-      "link": "https://www.rollingstone.com/music/music-news/big-sean-kanye-west-end-feud-surprise-performance-chicago-1235621691/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Big Sean joined Kanye West at his Soldier Field homecoming concert to perform \"Clique,\" \"Mercy,\" and \"I Don't Fuck With You\"",
-      "published": "2026-09-04T18:52:45+00:00",
-      "fetched": "2026-09-04T19:57:19.746361+00:00"
-    },
-    {
-      "id": "696b893eb2c53e2e",
-      "title": "‘Criminal’ Lawsuit: Showrunner Ed Brubaker Sued by Production Assistant Claiming Sexual, Racial Harassment on Set of Amazon MGM Series",
-      "link": "https://variety.com/2026/tv/news/criminal-lawsuit-assistant-sues-ed-brubaker-sexual-harassment-1236851708/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A former production assistant on Amazon’s upcoming comic book crime drama “Criminal” has filed a lawsuit against the showrunner and studios involved, alleging a hostile work environment that included racial and sexual harassment. The production assistant, Ijaaz Noohu, is seeking unspecified damages from showrunner Ed Brubaker, Amazon MGM Studios and Big Indie Pictures, citing religious [ ]",
-      "published": "2026-09-04T18:47:54+00:00",
-      "fetched": "2026-09-04T19:57:19.663924+00:00"
-    },
-    {
-      "id": "17414053c8917cce",
-      "title": "Maria Bartiromo vs. Fox News: Anchor’s Pivot Between MAGA Politics and Wall Street Likely Spurred Fallout",
-      "link": "https://variety.com/2026/tv/news/maria-bartiromo-fox-news-pivot-politics-wall-street-fallout-1236851569/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Maria Bartiromo was brought to Fox to cover the ins and outs of Wall Street, and make the company a bigger presence in the world of business-news cable. But her growing interest in punditry and opinion left Fox increasingly uncovered before the law. And that constant back-and-forth likely caused something of which a financial reporter [ ]",
-      "published": "2026-09-04T18:35:00+00:00",
-      "fetched": "2026-09-04T19:57:19.663959+00:00"
-    },
-    {
-      "id": "23e28609dc53c625",
-      "title": "Bravo Parts Ways With ‘Below Deck’ Star Nathan Gallagher After Domestic Violence Charges",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/bravo-parts-ways-with-below-deck-nathan-gallagher-1235620641/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Members of the Below Deck franchise had been frustrated with the network for staying silent and for instructing those affiliated with the show to not speak publicly on the matter, according to a source",
-      "published": "2026-09-04T18:17:41+00:00",
-      "fetched": "2026-09-04T19:57:19.746391+00:00"
     }
   ]
 }

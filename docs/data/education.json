@@ -1,6 +1,6 @@
 {
   "category": "education",
-  "updated": "2026-09-07T16:47:48.082216+00:00",
+  "updated": "2026-09-07T20:50:41.558886+00:00",
   "count": 150,
   "items": [
     {
@@ -12,6 +12,16 @@
       "summary": "Lloyd Kahn worked as an insurance broker before quitting in 1965. Then, he took a turn into the DIY building movement that emerged with the 1960s counterculture. Soon enough, he found himself editing the influential Whole Earth Catalog and publishing Shelter in 1973, a book still considered the bible of hand-built homes.",
       "published": "2026-09-07T09:02:06+00:00",
       "fetched": "2026-09-07T10:49:47.202736+00:00"
+    },
+    {
+      "id": "8de2c363b08f9278",
+      "title": "Bertrand Russell Explains Why Karl Marx’s Philosophy Produced the Disaster of Communism",
+      "link": "https://www.openculture.com/2026/09/bertrand-russell-explains-why-karl-marxs-philosophy-produced-the-disaster-of-communism.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In 1927, Bertrand Russell delivered a lecture titled “Why I Am Not a Christian.” At the time, such a declaration was still fairly bold, as was the reasoning he provided for it. Nearly three decades thereafter, he included in his collection Portraits from Memory another, shorter piece, “Why I Am Not a Communist.” That description [ ]",
+      "published": "2026-09-07T08:00:08+00:00",
+      "fetched": "2026-09-07T20:50:41.558669+00:00"
     },
     {
       "id": "e819780eae6900cd",
@@ -1492,16 +1502,6 @@
       "summary": "New U-STORM imaging technology lets scientists view molecular structures in subatomic detail — about 1,000 times clearer than traditional dyes — while making the microscope process much simpler.",
       "published": "2026-07-29T17:00:00+00:00",
       "fetched": "2026-07-29T18:47:27.615539+00:00"
-    },
-    {
-      "id": "c341b2dc928cfc08",
-      "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
-      "link": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
-      "published": "2026-07-29T14:00:00+00:00",
-      "fetched": "2026-07-29T14:33:45.337892+00:00"
     }
   ]
 }
