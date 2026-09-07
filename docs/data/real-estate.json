@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-07T10:49:47.983012+00:00",
+  "updated": "2026-09-07T16:47:49.026376+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "89eb4fcc81ed743f",
+      "title": "Inside Durham’s Bullish Market: Why Luxury Buyers Are Quietly Flocking to Former Tobacco Capital of the World",
+      "link": "https://www.realtor.com/news/trends/luxury-buyers-flocking-durham-nc-former-tobacco-capital/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Affluent buyers are driving a luxury real estate boom in Durham, NC, fueling demand for upscale, walkable high-rise developments.",
+      "published": "2026-09-07T15:43:00+00:00",
+      "fetched": "2026-09-07T16:47:49.025750+00:00"
+    },
+    {
+      "id": "8fde1cbf13005cb6",
+      "title": "Mountaintop Farmhouse Retreat with Epic NYC Views Lists for $3.7 Million",
+      "link": "https://www.realtor.com/news/unique-homes/watchung-mountains-new-jersey-farmhouse-nyc-views/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Perched on 1.8 acres in the Watchung Mountains, NJ, the farmhouse has four bedrooms and views of the iconic NYC skyline.",
+      "published": "2026-09-07T15:06:00+00:00",
+      "fetched": "2026-09-07T16:47:49.025786+00:00"
+    },
+    {
+      "id": "149012659e3eb09d",
+      "title": "First Town Ever Sold on eBay Is Heading Back to the Market",
+      "link": "https://www.realtor.com/news/unique-homes/first-town-sold-on-ebay-bridgeville-california-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The town was purchased nearly 20 years ago with plans to develop an off-grid community. The current owners wish to see the vision through.",
+      "published": "2026-09-07T14:21:00+00:00",
+      "fetched": "2026-09-07T16:47:49.025816+00:00"
+    },
+    {
+      "id": "cfebcbeaa86a27ad",
+      "title": "Celebrity Home Break-Ins Spark Security Fears—as Expert Warns Overexposed Luxury Listings Could Turn Off Buyers",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrity-home-break-ins-security-risks-luxury-real-estate-sales/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Celebrity home break-ins are raising security concerns as an expert reveals the risks facing high-profile properties.",
+      "published": "2026-09-07T12:32:00+00:00",
+      "fetched": "2026-09-07T16:47:49.025847+00:00"
+    },
+    {
+      "id": "b302e3cc3e9ff30f",
+      "title": "JPMorgan’s $750B Bet on the Housing Market",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1327",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "JPMorgan Chase, America’s largest bank, just made a big bet on housing—a $750B bet to be exact. At a time when most people hope home prices will fall, JPMorgan is [ ]",
+      "published": "2026-09-07T11:00:17+00:00",
+      "fetched": "2026-09-07T16:47:48.448345+00:00"
+    },
     {
       "id": "88284419fa100d60",
       "title": "Utah’s Ultraexclusive Mountain Town Where Hard-Core Skiers and Big-Budget Buyers Converge",
@@ -292,6 +342,26 @@
       "summary": "The U.S. economy surged by 162,000 new jobs in August, defying economists' forecasts for continued hiring growth.",
       "published": "2026-09-04T13:04:24+00:00",
       "fetched": "2026-09-04T15:13:33.989244+00:00"
+    },
+    {
+      "id": "c399ba8a82e22ef4",
+      "title": "How to Buy Your First Multifamily Rental With Low Money (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-766",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You’ve picked an investing strategy, you’ve studied your market, but now you need the money to get started. You’re not alone, as this is perhaps the most common hurdle for [ ]",
+      "published": "2026-09-04T11:00:36+00:00",
+      "fetched": "2026-09-07T16:47:48.448392+00:00"
+    },
+    {
+      "id": "2b53e56d4709b2eb",
+      "title": "9 “Boring” Investing Habits That Will Actually Make You Rich",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1326",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The top 1% of real estate investors don’t have a “secret” market, a “better” investing strategy, or access to “exclusive” resources. They just do nine things better than most other [ ]",
+      "published": "2026-09-04T11:00:15+00:00",
+      "fetched": "2026-09-07T16:47:48.448432+00:00"
     },
     {
       "id": "d2c9bb24c26a46be",
@@ -1432,76 +1502,6 @@
       "summary": "A new survey found that 72% of potential homebuyers have either delayed or entirely paused their home search until rates improve.",
       "published": "2026-08-27T19:44:06+00:00",
       "fetched": "2026-08-28T01:49:00.399064+00:00"
-    },
-    {
-      "id": "de881e001def1867",
-      "title": "What Happened to Lindsay Clancy’s Home? How Duxbury House Was Quietly Sold to Former DA in Off-Market Deal Just a Year After Kids’ Deaths",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-house-trial-children-husband-patrick/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Former nurse Clancy, 36, stands accused of murdering her three children in the basement of her family's Duxbury, MA, property.",
-      "published": "2026-08-27T19:43:24+00:00",
-      "fetched": "2026-08-28T01:49:00.399096+00:00"
-    },
-    {
-      "id": "2ad3adea442ff6a1",
-      "title": "Atlanta Rents Are Going Down",
-      "link": "https://www.realtor.com/advice/hyperlocal/atlanta-rents-are-going-down/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As national prices continue a downward streak,the Atlanta and surrounding Sandy Springs and Roswell market is also experiencing a drop.",
-      "published": "2026-08-27T19:36:00+00:00",
-      "fetched": "2026-08-28T01:49:00.399122+00:00"
-    },
-    {
-      "id": "68b33e036c16f6fe",
-      "title": "What Happened to ‘Unabomber’ Ted Kaczynski’s Infamous Cabin and Property",
-      "link": "https://www.realtor.com/news/trends/what-happened-to-unabomber-ted-kaczynskis-infamous-cabin-and-property/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Montana property where \"Unabomber\" Ted Kaczynski lived while sending homemade bombs in the mail has become a \"very Zen\" weekend retreat.",
-      "published": "2026-08-27T19:33:00+00:00",
-      "fetched": "2026-08-28T01:49:00.399150+00:00"
-    },
-    {
-      "id": "24e57561493ed179",
-      "title": "Retirees Get 265% of What They Paid Into Social Security—but Will Young Americans?",
-      "link": "https://www.realtor.com/news/trends/social-security-benefits-generational-wealth-divide/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As Social Security risks insolvency, retirees draw far more than they paid in—leaving younger workers with a steeper path to wealth.",
-      "published": "2026-08-27T19:10:53+00:00",
-      "fetched": "2026-08-28T01:49:00.399183+00:00"
-    },
-    {
-      "id": "f07c7d76a1ae8039",
-      "title": "The Midwest Is Dominating 2026 Real Estate Rankings—But the Drawbacks Matter",
-      "link": "https://www.biggerpockets.com/blog/midwest-markets-are-dominating-2026-but-there-are-drawbacks",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If there were a U.S. championship for the best places to invest, the Midwest would see its cities grab gold, silver, and bronze medals. Not only have cities in the [ ]",
-      "published": "2026-08-27T18:31:58+00:00",
-      "fetched": "2026-08-28T01:49:00.026217+00:00"
-    },
-    {
-      "id": "3ca5d3afc3fe9254",
-      "title": "EXCLUSIVE: Amanda Seyfried Lists Longtime L.A. Home for $3.2 Million—After Moving to a Farm in Upstate New York",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/amanda-seyfried-selling-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actress is parting ways with the charming three-bedroom, 2.5-bathroom residence, which spans 2,738 square feet.",
-      "published": "2026-08-27T17:45:45+00:00",
-      "fetched": "2026-08-28T01:49:00.399212+00:00"
-    },
-    {
-      "id": "627e75a2c7765e67",
-      "title": "Rooftop Solar’s Next Crisis: Why Homeowners Are Losing 20% of Their Energy Output",
-      "link": "https://www.realtor.com/advice/home-improvement/home-solar-output-during-wildfires/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The benefits of having a solar panel roof have been proven, but there is a new pitfall homeowners should be aware of.",
-      "published": "2026-08-27T17:28:56+00:00",
-      "fetched": "2026-08-28T01:49:00.399239+00:00"
     }
   ]
 }
