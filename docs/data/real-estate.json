@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-08T01:36:11.338915+00:00",
+  "updated": "2026-09-08T10:09:27.191154+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "85943d7f052b523e",
+      "title": "Why Texas’ Property Tax System Can Favor the Rich Twice: ‘This Situation Shifts the Tax Burden’",
+      "link": "https://www.realtor.com/news/trends/texas-property-taxes-wealthy-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Texas property taxes already take a larger share of lower incomes. Gaps in high-end home valuations can make that imbalance worse.",
+      "published": "2026-09-08T09:00:00+00:00",
+      "fetched": "2026-09-08T10:09:27.190449+00:00"
+    },
+    {
+      "id": "1f8e05bf95934ba9",
+      "title": "Affordable Midwest Commuter Towns Dominate the Hottest Markets List in August",
+      "link": "https://www.realtor.com/news/trends/hottest-markets-list-affordability-midwest-towns-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As an affordable and commuter-friendly alternative to neighboring Chicago and Madison, Rockford has all the access with far less cost.",
+      "published": "2026-09-08T08:33:00+00:00",
+      "fetched": "2026-09-08T10:09:27.190489+00:00"
+    },
+    {
+      "id": "2b04f2a857a87450",
+      "title": "Data Centers Emerge as Midterms Flashpoint as Trump Declares ‘Let Data Reign’",
+      "link": "https://www.realtor.com/news/real-estate-news/data-centers-midterm-election-democrats-republicans-trump/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A broad national revolt against data center development as surged to the top of voters' minds this year, leaving Washington scrambling.",
+      "published": "2026-09-08T08:19:00+00:00",
+      "fetched": "2026-09-08T10:09:27.190522+00:00"
+    },
+    {
+      "id": "35c3c71cdca43abb",
+      "title": "Nearly 60% of the Great Wealth Transfer Is Concentrated in Just 10 States",
+      "link": "https://www.realtor.com/news/trends/great-wealth-transfer-by-state-inherited-wealth/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nearly 60% of projected wealth transfers are concentrated in 10 states, potentially reshaping who can afford to buy a home—and where.",
+      "published": "2026-09-08T08:13:00+00:00",
+      "fetched": "2026-09-08T10:09:27.190554+00:00"
+    },
     {
       "id": "89eb4fcc81ed743f",
       "title": "Inside Durham’s Bullish Market: Why Luxury Buyers Are Quietly Flocking to Former Tobacco Capital of the World",
@@ -1462,46 +1502,6 @@
       "summary": "Colleges are closing dorms as enrollment shifts. One Wisconsin community hopes a shuttered campus can help ease its housing shortage.",
       "published": "2026-08-28T08:36:00+00:00",
       "fetched": "2026-08-28T17:45:50.863039+00:00"
-    },
-    {
-      "id": "610b90e6c5d5535f",
-      "title": "Ryan Reynolds Reveals Rare Glimpse of His and Blake Lively’s Pound Ridge Retreat—and Their Life at Home With Their Kids",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/ryan-reynolds-blake-lively-pound-ridge-new-york-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor took to Instagram to celebrate his wife on her birthday, as he branded Aug. 25 their family's \"Super Bowl.\"",
-      "published": "2026-08-27T22:45:54+00:00",
-      "fetched": "2026-08-28T01:49:00.398930+00:00"
-    },
-    {
-      "id": "1f25b24110a92029",
-      "title": "13 Million Americans Are Struggling To Keep Their Homes Cool—but the Fix Can Cost Over $2K",
-      "link": "https://www.realtor.com/news/trends/air-conditioner-repair-cost-extreme-heat/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Broken AC is leaving millions of households exposed to extreme heat, while cooling repairs can average about $2,200.",
-      "published": "2026-08-27T22:15:27+00:00",
-      "fetched": "2026-08-28T01:49:00.398970+00:00"
-    },
-    {
-      "id": "fb9794e7f1a8d4d1",
-      "title": "EXCLUSIVE: Axed Miami Dolphins Player Tyreek Hill Takes $7.7 Million Florida Home Off the Market—as He Continues Hunt for New NFL Team",
-      "link": "https://www.realtor.com/news/sports/miami-dolphins-nfl-tyreek-hill-florida-home-off-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Hill, who was released by the Miami Dolphins, put the residence on the market for $7.7 million on March 19.",
-      "published": "2026-08-27T21:53:17+00:00",
-      "fetched": "2026-08-28T01:49:00.399003+00:00"
-    },
-    {
-      "id": "6b8a6bab477cf521",
-      "title": "EXCLUSIVE: Diane Keaton’s Former Beverly Hills Estate Finally Finds a Buyer After Price Was Cut by $6.5 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/diane-keaton-beverly-hills-house-sold/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Keaton lovingly renovated the home, which she bought from Madonna, while retaining its original Spanish-style charm.",
-      "published": "2026-08-27T21:29:39+00:00",
-      "fetched": "2026-08-28T01:49:00.399033+00:00"
     }
   ]
 }

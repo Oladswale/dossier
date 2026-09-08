@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-08T01:36:10.645965+00:00",
+  "updated": "2026-09-08T10:09:26.239863+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cca519601fce9ea7",
+      "title": "How the Japanese Practice of “Forest Bathing”—Or Just Hanging Out in the Woods—Can Lower Stress Levels and Fight Disease",
+      "link": "https://www.openculture.com/2026/09/japanese-practice-of-forest-bathing.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "When the U.S. media began reporting on the phenomenon of “forest bathing” as a therapy for mental and physical health, the online commentariat—as it will—mocked the concept relentlessly as yet another pretentious, bourgeois repackaging of something thoroughly mundane. Didn’t we just used to call it “going outside”?",
+      "published": "2026-09-08T07:10:03+00:00",
+      "fetched": "2026-09-08T10:09:26.239626+00:00"
+    },
+    {
+      "id": "cee90f2d537b8253",
+      "title": "Study predicts large disparities in access to food, water, and energy in 2050",
+      "link": "https://news.mit.edu/2026/study-predicts-large-disparities-access-food-water-energy-2050-0908",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In some regions of the world, the poorest people may spend about 50 percent of their income on food, while the richest spend about 5 percent.",
+      "published": "2026-09-08T04:00:00+00:00",
+      "fetched": "2026-09-08T10:09:25.226242+00:00"
+    },
     {
       "id": "7165cae4d175be75",
       "title": "Meet Lloyd Kahn, the Counterculture Publisher Who Is Skateboarding at 91",
@@ -1482,26 +1502,6 @@
       "summary": "If you plan on shooting your own adaptation of Homer’s Odyssey, bear in mind how much rests on your choice of leading man. In order to play Odysseus, an actor must summon a real gravitas, but also a still-smoldering vitality: here is a man who led the Greek army to defeat Troy, but still has [ ]",
       "published": "2026-07-30T09:00:22+00:00",
       "fetched": "2026-07-30T13:20:14.381568+00:00"
-    },
-    {
-      "id": "aa2bc4058ddf4367",
-      "title": "The Visionary Mystical Art of Carl Jung: See Illustrated Pages from The Red Book",
-      "link": "https://www.openculture.com/2026/07/visionary-mystical-art-of-carl-jung.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Carl Jung’s Liber Novus, better known as The Red Book, has come to light in a complete English translation, published by Norton in a 2009 facsimile edition and a smaller “reader’s edition” in 2012. The years since have seen several exhibitions of the book, which “could pass for a Bible rendered by a medieval monk,” [ ]",
-      "published": "2026-07-30T08:00:02+00:00",
-      "fetched": "2026-07-30T13:20:14.381626+00:00"
-    },
-    {
-      "id": "0461f8ed9ceab992",
-      "title": "MIT and Broad Institute researchers break diffraction barrier in super-resolution microscopy",
-      "link": "https://news.mit.edu/2026/researchers-break-diffraction-barrier-super-resolution-microscopy-0729",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New U-STORM imaging technology lets scientists view molecular structures in subatomic detail — about 1,000 times clearer than traditional dyes — while making the microscope process much simpler.",
-      "published": "2026-07-29T17:00:00+00:00",
-      "fetched": "2026-07-29T18:47:27.615539+00:00"
     }
   ]
 }
