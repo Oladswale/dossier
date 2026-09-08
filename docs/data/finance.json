@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-09-07T20:50:24.444350+00:00",
+  "updated": "2026-09-08T01:35:54.566046+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b4c564c862c6c10d",
+      "title": "FirstHoldCo joins FTSE Frontier 50 Index, strengthening global investor access and market visibility",
+      "link": "https://nairametrics.com/2026/09/07/firstholdco-joins-ftse-frontier-50-index-strengthening-global-investor-access-and-market-visibility/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "FirstHoldCo Plc, Nigeria’s leading financial services holding company, has been included in the FTSE Frontier 50 Index, effective 21 September 2026. Interestingly, this is bigger than the FTSE Rusell Index. The inclusion of FirstHoldCo places it along with five other companies from Nigeria among the most liquid and investable companies across frontier markets, affirming its [ ] The post FirstHoldCo joins FTSE Frontier 50 Index, strengthening global investor access and market visibility appeared first on Nairametrics .",
+      "published": "2026-09-07T21:26:25+00:00",
+      "fetched": "2026-09-08T01:35:53.941044+00:00"
+    },
     {
       "id": "455b82c1ddd02b39",
       "title": "NGX crosses N160 trillion again as market moves to reclaim August 10 highs",
@@ -262,6 +272,16 @@
       "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
       "published": "2026-09-07T11:54:00+00:00",
       "fetched": "2026-09-07T16:47:29.286277+00:00"
+    },
+    {
+      "id": "b1bc9c18190cf74a",
+      "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
+      "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
+      "published": "2026-09-07T11:36:00+00:00",
+      "fetched": "2026-09-08T01:35:53.288292+00:00"
     },
     {
       "id": "3d3cfb15396967dd",
@@ -1482,26 +1502,6 @@
       "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
       "published": "2026-09-04T09:45:00+00:00",
       "fetched": "2026-09-04T10:01:25.435424+00:00"
-    },
-    {
-      "id": "f0865d1f8d376e73",
-      "title": "Africa Finance Corporation says Dangote investments critical to Africa’s economic growth",
-      "link": "https://nairametrics.com/2026/09/04/africa-finance-corporation-says-dangote-investments-critical-to-africas-economic-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Africa Finance Corporation (AFC) has described the Dangote Group’s sustained investments across Africa as critical to unlocking the continent’s economic potential and driving industrial growth. The post Africa Finance Corporation says Dangote investments critical to Africa’s economic growth appeared first on Nairametrics .",
-      "published": "2026-09-04T09:39:52+00:00",
-      "fetched": "2026-09-04T10:01:25.995903+00:00"
-    },
-    {
-      "id": "22c1ef9f8d0588d5",
-      "title": "From 70 million to 317 million: How Serigne Dioum plans to turn every MTN subscriber into a MoMo user",
-      "link": "https://techcabal.com/2026/09/04/serigne-dioums-mtn-fintech-vision-goes-beyond-mobile-money/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN Group Fintech CEO Serigne Dioum, in this edition of Coffee With…, tells PHATHISANI MOYO how he plans to convert MTN’s 317 million telecom subscribers into a single, closed-loop financial ecosystem.",
-      "published": "2026-09-04T09:30:44+00:00",
-      "fetched": "2026-09-04T10:01:27.591032+00:00"
     }
   ]
 }
