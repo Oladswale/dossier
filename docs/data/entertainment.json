@@ -1,8 +1,198 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-08T15:27:06.177491+00:00",
+  "updated": "2026-09-08T20:22:32.499339+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "66b1c16808461ece",
+      "title": "Suno and Believe Music Announce Strategic Partnership",
+      "link": "https://variety.com/2026/digital/news/suno-believe-strategic-partnership-1236855137/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Suno, the controversial AI music generating platform, continues to make moves toward legitimacy in the music industry: After striking licensing deals with Warner Music and BMG (arguably the third and fourth largest music companies in the world), on Tuesday it has announced a deal with France-based independent music company Believe. The deal also covers TuneCore, [ ]",
+      "published": "2026-09-08T20:21:07+00:00",
+      "fetched": "2026-09-08T20:22:32.130702+00:00"
+    },
+    {
+      "id": "7742eb7e304dc56b",
+      "title": "Jim Geoghan, ‘Suite Life of Zack & Cody’ Co-Creator, Dies at 79",
+      "link": "https://variety.com/2026/tv/people-news/jim-geoghan-dead-dies-suite-life-zack-cody-1236855101/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jim Geoghan, the creator of “Suite Life of Zack Cody,” died on Sept. 6 at 79 in Los Angeles, his daughter Genevieve Geoghan confirmed to Variety. He was 79.",
+      "published": "2026-09-08T20:00:42+00:00",
+      "fetched": "2026-09-08T20:22:32.130767+00:00"
+    },
+    {
+      "id": "ca27020ef381879a",
+      "title": "Prime Video Orders Australian Originals ‘Free Spirits: The Backpacker Poisonings,’ ‘Madness of Three’ and ‘The Test’ Season 4",
+      "link": "https://variety.com/2026/tv/news/prime-video-australian-originals-the-test-season-4-1236854836/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Prime Video has ordered three new Australian original titles, growing its local slate to 34 commissions since 2019. The new titles include two true-crime docuseries and a fourth season of the sports documentary The Test, all launching from 2027. Free Spirits: The Backpacker Poisonings (w/t) follows eight backpackers, including two Australians, who traveled through Southeast [ ]",
+      "published": "2026-09-08T20:00:00+00:00",
+      "fetched": "2026-09-08T20:22:32.130824+00:00"
+    },
+    {
+      "id": "864075de97c6d620",
+      "title": "Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation",
+      "link": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Penelope Cruz broke out into uncontrollable sobs as she kissed her husband and co-star Javier Bardem during the incredibly long 15.5-minute standing ovation at the premiere of Bunker at the Venice Film Festival Tuesday night. That made Bunker the winner of Venice 2026 (so far) for the most enthusiastic reception, and it fell just shy [ ]",
+      "published": "2026-09-08T19:49:32+00:00",
+      "fetched": "2026-09-08T20:22:32.130875+00:00"
+    },
+    {
+      "id": "52a1d294962800c9",
+      "title": "San Sebastián Festival Gets Spanish Government Industry Boost",
+      "link": "https://variety.com/2026/film/global/san-sebastian-festival-spanish-government-industry-boost-1236855099/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The San Sebastián Film Festival will receive a key economic boost from Spain’s Ministry of Digital Transformation and Civil Service to consolidate its industry events, which include the Creative Investors’ Conference, co-organized with CAA Media Finance. Moneys involved may not seem large. Under the terms of the agreement, the Ministry will become the sole [ ]",
+      "published": "2026-09-08T19:45:52+00:00",
+      "fetched": "2026-09-08T20:22:32.130927+00:00"
+    },
+    {
+      "id": "c011021f00ea7806",
+      "title": "‘Walking Dead’ Producers to Collect $120 Million After 9-Year Legal Battle Over Show Profits",
+      "link": "https://variety.com/2026/tv/news/walking-dead-producers-120-million-profits-settlement-1236855040/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Nine years after first suing AMC Networks over unpaid profits, five producers of “The Walking Dead” have scored a $120 million settlement. The producers — Robert Kirkman, Gale Anne Hurd, David Alpert, Charles Eglee, and Glen Mazzara — reached a deal with the cable network on Friday, avoiding a federal trial that was set to [ ]",
+      "published": "2026-09-08T19:27:41+00:00",
+      "fetched": "2026-09-08T20:22:32.130978+00:00"
+    },
+    {
+      "id": "c5fd6a25584c8d1b",
+      "title": "D’Angelo and Angie Stone’s Son Will Play the Notorious B.I.G. in the Snoop Dogg Biopic",
+      "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-biopic-dangelo-son-notorious-big-1235622984/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "This will be the first major acting role for Michael D'Angelo Archer II, who's also been releasing music as SwayvoTwain",
+      "published": "2026-09-08T19:26:53+00:00",
+      "fetched": "2026-09-08T20:22:32.272626+00:00"
+    },
+    {
+      "id": "9ff6e6e5753df052",
+      "title": "The ‘Witch’ From Black Sabbath’s Classic Album Cover Is Now a Musician",
+      "link": "https://www.rollingstone.com/music/music-features/louisa-livingstone-black-sabbath-indreba-alice-wonderland-1235619242/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"I still find it a little bizarre at times being the Black Sabbath 'witch woman' since of course I'm also a lot of other things,\" Louisa Livingstone says",
+      "published": "2026-09-08T19:09:22+00:00",
+      "fetched": "2026-09-08T20:22:32.272669+00:00"
+    },
+    {
+      "id": "1ec3065e6880bbff",
+      "title": "Colombian Hit Artist Feid Brings Short Film ‘El Green Print’ to Regal Theaters for One-Night Screenings (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/feid-short-film-el-green-print-us-1236830352/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Latin music artist Feid is bringing his short film “El Green Print” to the United States Sept. 13 for a one-night-only event. Ferxxo, the musician’s alter ego, explores the streets of Japan in the final chapter for the persona.",
+      "published": "2026-09-08T19:00:00+00:00",
+      "fetched": "2026-09-08T20:22:32.131030+00:00"
+    },
+    {
+      "id": "75c572db1716dc6d",
+      "title": "‘Drunk History’ Returns With New Short-Form Episodes 7 Years After Comedy Central Finale",
+      "link": "https://variety.com/2026/tv/news/drunk-history-returns-new-episodes-1236851906/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After a long hangover, Drunk History is back. The Emmy-winning comedy show is returning with three new short-form episodes, seven years after it last aired on Comedy Central. From Derek Waters and Jeremy Konner, Drunk History pairs inebriated storytellers with scrappy historical reenactments.",
+      "published": "2026-09-08T18:51:11+00:00",
+      "fetched": "2026-09-08T20:22:32.131081+00:00"
+    },
+    {
+      "id": "7f86741ee11e7d75",
+      "title": "Trump’s Bizarre History With 9/11",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-9-11-story-722430/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president has spent the past 25 years using the tragedy to fluff his ego and score political points",
+      "published": "2026-09-08T18:45:00+00:00",
+      "fetched": "2026-09-08T20:22:32.272696+00:00"
+    },
+    {
+      "id": "20986f29b6d50920",
+      "title": "Celebrities Who Have Died in 2026",
+      "link": "https://variety.com/gallery/celebrities-who-died-2026/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s been a year of heavy losses in Hollywood, after fans said goodbye to numerous beloved names in film, television and music. Dolly Parton s death on Aug. 25 caused an outpouring of grief across the country for the beloved singer, actress and philanthropist.",
+      "published": "2026-09-08T18:11:36+00:00",
+      "fetched": "2026-09-08T20:22:32.131127+00:00"
+    },
+    {
+      "id": "7d55071146429c79",
+      "title": "Netflix to Report Box Office Numbers for 6 Upcoming Movies as Streamer Escalates Theatrical Plans (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/netflix-report-box-office-theatrical-releases-1236854834/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“La Bola Negra” has mucho heat. The generational queer drama swept the Cannes Film Festival off its feet in May, nabbing a $5 million sale to Netflix and earning helmers Javier Ambrossi and Javier Calvo the jury prize for best director. After lighting up last weekend’s Telluride Film Festival, the Penélope Cruz-starrer is on its [ ]",
+      "published": "2026-09-08T18:06:14+00:00",
+      "fetched": "2026-09-08T20:22:32.131177+00:00"
+    },
+    {
+      "id": "68b079b8230c8a10",
+      "title": "Here’s How DoorDash Is Rewarding Football Fans Who Order In on Saturdays",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/doordash-streaks-deals-giveaway-sweepstakes-rewards-1235621846/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "With deals and prizes like a Dodge Charger SRT Hellcat, DoorDash is showing up for the football fans who do the same",
+      "published": "2026-09-08T18:03:03+00:00",
+      "fetched": "2026-09-08T20:22:32.272726+00:00"
+    },
+    {
+      "id": "8ba989e8f968e3e2",
+      "title": "This Sling Package Delivers Live TV for Just $20 a Month — Here’s What You Get",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/sling-essentials-package-review-channels-price-1235622750/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Streaming cable channels doesn’t have to be expensive. Sling’s Essentials package is here to prove it",
+      "published": "2026-09-08T17:55:40+00:00",
+      "fetched": "2026-09-08T20:22:32.272757+00:00"
+    },
+    {
+      "id": "c5c4c873ff68e516",
+      "title": "Abbey Road Music Photography Awards Announce 2026 Finalists",
+      "link": "https://www.rollingstone.com/music/music-news/abbey-road-music-photography-awards-2026-finalists-1235622602/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Photos of Oasis, Charli XCX, and more are nominated for this month’s annual awards at the legendary London studios",
+      "published": "2026-09-08T17:36:49+00:00",
+      "fetched": "2026-09-08T20:22:32.272785+00:00"
+    },
+    {
+      "id": "f1017fb859318b95",
+      "title": "Allow Karrahbooo to Reintroduce Herself",
+      "link": "https://www.rollingstone.com/music/music-features/karrahbooo-yachty-new-album-not-da-2-1235622142/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After a public split with Lil Yachty and years without new music, the Atlanta rapper returns with Not Da 2 and starts figuring out what comes next",
+      "published": "2026-09-08T16:55:12+00:00",
+      "fetched": "2026-09-08T20:22:32.272816+00:00"
+    },
+    {
+      "id": "e19f1476817668a0",
+      "title": "Hear Elton John Dig Out Sixties Deep Cut ‘Skyline Pigeon’ at Rock in Rio",
+      "link": "https://www.rollingstone.com/music/music-news/elton-john-dig-skyline-pigeon-rock-in-rio-1235622664/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“This next song is the first good song I wrote with Bernie [Taupin],” John said. “And Brazil is the only place it’s ever been popular, so here we go”",
+      "published": "2026-09-08T16:52:42+00:00",
+      "fetched": "2026-09-08T20:22:32.272852+00:00"
+    },
+    {
+      "id": "dcb43bae2763fc3c",
+      "title": "Lindsay Clancy’s Lawyer Asks Trump to ‘Consider’ Pardon After Mistrial",
+      "link": "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-lawyer-trump-pardon-1235622604/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Kevin Reddington also spoke about the possibility of reaching a plea deal with prosecutors that’s “acceptable to both sides”",
+      "published": "2026-09-08T16:48:43+00:00",
+      "fetched": "2026-09-08T20:22:32.272881+00:00"
+    },
     {
       "id": "2e62acfd177eb0dc",
       "title": "‘Artificial’ Trailer: Andrew Garfield Is Sam Altman in Luca Guadagnino’s OpenAI Movie as Neon Sets Christmas Day Release",
@@ -1312,196 +1502,6 @@
       "summary": "Andrew Haigh has built a career watching people at the precise moment their lives come apart — and finding, in the wreckage, something close to grace. At the 53rd Telluride Film Festival, the British writer-director received the Silver Medallion, the festival s career tribute, alongside Sandra Hüller and John Malkovich. The honor recognizes a sensibility built [ ]",
       "published": "2026-09-05T18:34:34+00:00",
       "fetched": "2026-09-05T19:36:50.833571+00:00"
-    },
-    {
-      "id": "da97dfd48d0c8441",
-      "title": "Kid Cudi Defends Kanye West After Ending Feud: Kanye ‘Apologized and It Was Sincere’ After Antisemitic Outbursts",
-      "link": "https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After feuding for the past few years, Kanye West and Kid Cudi have made up and reunited during West s Chicago concert on Friday night. West performed the past two nights in his hometown of Chicago to promote his latest album, Bully, and welcomed several surprise guests to the stage. Cudi joined his longtime collaborator for [ ]",
-      "published": "2026-09-05T18:18:34+00:00",
-      "fetched": "2026-09-05T19:36:50.833621+00:00"
-    },
-    {
-      "id": "2a271a71a7dca52e",
-      "title": "The Jamaican Riddim That’s Shown Up Across 2000s Hits, Arab Pop, and Now, ‘BbY WOW’",
-      "link": "https://www.rollingstone.com/music/music-features/bby-wow-karol-g-sample-jamaican-riddim-nina-sky-1235622147/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Karol G collab is Number One on Spotify's Global charts, and many listeners will recognize its drum pattern from hits by Nina Sky, Sean Paul, and more",
-      "published": "2026-09-05T18:17:09+00:00",
-      "fetched": "2026-09-05T19:36:51.081340+00:00"
-    },
-    {
-      "id": "53c57a492022c485",
-      "title": "‘Evil Dead’ Star Bruce Campbell Says He Has 5 Years to Live After Incurable Cancer Diagnosis: I’m ‘Dying’ but ‘I’m Moving On’",
-      "link": "https://variety.com/2026/film/news/bruce-campbell-cancer-5-years-live-1236852722/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Evil Dead star Bruce Campbell is opening up about his battle with cancer, revealing that he s been given about five years to live. Back in March, Campbell revealed he had been diagnosed with a cancer that was treatable but not curable. These days, when someone is having a health issue, it s referred to as an [ ]",
-      "published": "2026-09-05T17:19:53+00:00",
-      "fetched": "2026-09-05T19:36:50.833673+00:00"
-    },
-    {
-      "id": "c5095aa631fd5e58",
-      "title": "Robert Pattinson Kisses Suki Waterhouse as ‘Primetime’ Rocks Venice With 7-Minute Standing Ovation",
-      "link": "https://variety.com/2026/film/festivals/robert-pattinson-primetime-venice-premiere-1236837079/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Primetime, a thriller starring Robert Pattinson as To Catch a Predator host Chris Hansen, made its debut at the Venice Film Festival on Saturday to an enthusiastic seven-minute ovation. Venice went fully in for Pattinson s immersive performance as Hansen, the Dateline journalist and host who sets out to make television history with To Catch a [ ]",
-      "published": "2026-09-05T17:17:20+00:00",
-      "fetched": "2026-09-05T19:36:50.833721+00:00"
-    },
-    {
-      "id": "448ebf3dd86d512d",
-      "title": "‘It Will Happen Tonight’ Review: Louis Garrel and Jasmine Trinca Follow Each Other Through the Years In a Light and Predictable Romcom",
-      "link": "https://variety.com/2026/film/reviews/it-will-happen-tonight-review-1236852720/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Not everything labeled “old-fashioned” needs to carry negative connotations. A handwritten letter, your grandma’s rice pudding, the cocktail — all nice old-fashioned things. But the moment Alberto Iglesias’ sweet music flows out of the speakers at the start of “It Will Happen Tonight,” “old-fashioned” starts veering perilously into dowdy territory.",
-      "published": "2026-09-05T17:15:00+00:00",
-      "fetched": "2026-09-05T19:36:50.833803+00:00"
-    },
-    {
-      "id": "83f430ab58abdefb",
-      "title": "Mexico’s Venice Queer Lion Contender ‘Tijuana, Todavía’ Trains a Spotlight on the Plight of Gay Refugees Fleeing Persecution",
-      "link": "https://variety.com/2026/film/global/venice-queer-lion-tijuana-todavia-spotlight-gays-fleeing-1236850825/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Nothing sharpens the mind like working within constraints. Made on a shoestring production grant of €200,000 ($234,000) and given three weeks to write a screenplay and outline a production schedule, ‘Tijuana, Todavía’ by Mexico’s Gabriel Gutiérrez Morales has been rewarded with a slot at the 83rd Venice Film Festival where it vies for the Queer [ ]",
-      "published": "2026-09-05T17:00:55+00:00",
-      "fetched": "2026-09-05T19:36:50.833862+00:00"
-    },
-    {
-      "id": "e7c6d60fb403cbda",
-      "title": "Lainey Wilson to Return as Host of 2026 CMA Awards",
-      "link": "https://www.rollingstone.com/music/music-country/lainey-wilson-host-2026-cma-awards-1235622140/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "60th anniversary award show marks singer's third straight year leading Country Music's Biggest Night",
-      "published": "2026-09-05T16:46:42+00:00",
-      "fetched": "2026-09-05T19:36:51.081366+00:00"
-    },
-    {
-      "id": "5d8e02aca45176c3",
-      "title": "‘Spider-Man: Brand New Day’ Is Fastest Film to Cross $900 Million at Domestic Box Office",
-      "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-900-million-1236849789/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Two action flicks, Paramount s By Any Means and A24 s Onslaught, arrived in theaters on Friday. But neither could dethrone Spider-Man: Brand New Day, which remains No. 1 in its sixth weekend in theaters.",
-      "published": "2026-09-05T16:31:43+00:00",
-      "fetched": "2026-09-05T19:36:50.833912+00:00"
-    },
-    {
-      "id": "0788e16af87a1409",
-      "title": "How Maggie Gyllenhaal Used Dakota Johnson and Ellen Burstyn to Reimagine Marilyn Monroe at 100 in Venice Short ‘Flesh Impact’",
-      "link": "https://variety.com/2026/film/awards/gyllenhaal-flesh-impact-marilyn-monroe-dakota-johnson-venice-1236852103/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Marilyn Monroe would have turned 100 this year. So when Maggie Gyllenhaal was approached to make a movie about her, she asked for a weekend to daydream about what that milestone might look like. What came back was “Flesh Impact,” a 17-minute short that hands the most consumed movie star of the 20th century something [ ]",
-      "published": "2026-09-05T16:00:00+00:00",
-      "fetched": "2026-09-05T19:36:50.833962+00:00"
-    },
-    {
-      "id": "3eb11576b1594b63",
-      "title": "Teens Seek to Heal Wounds Through Macabre Rituals in Jannis Lenz’s ‘Oasis,’ With Hints of the Influence of Jessica Hausner, Michael Haneke",
-      "link": "https://variety.com/2026/film/global/jannis-lenz-oasis-venice-1236852578/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Three teenagers, unclothed, stand close to one another in a forest, gently caressing the wounds they have inflicted on one another. This is the climactic moment in “Oasis,” a film that at times feels like a Grimms Brothers fairytale, and, at others, an all-too-real vision of modern-day youth in crisis. If you were told that [ ]",
-      "published": "2026-09-05T15:13:44+00:00",
-      "fetched": "2026-09-05T19:36:50.834013+00:00"
-    },
-    {
-      "id": "4c303331a7a887db",
-      "title": "How to Watch Today’s Texas vs. Texas State Football Game Online for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-texas-vs-texas-state-football-game-online-free-stream-1235622109/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "This is the first time the two teams have faced off in nearly 100 years. Here’s how to stream the game without cable",
-      "published": "2026-09-05T15:12:00+00:00",
-      "fetched": "2026-09-05T19:36:51.081400+00:00"
-    },
-    {
-      "id": "1d70faa83a60f6bf",
-      "title": "Phoebe Bridgers Talks ‘Super Intimidating’ Acting Debut at ‘Primetime’ Venice Premiere",
-      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-talks-acting-debut-primetime-venice-premiere-1235622112/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“She’s unbelievable,” Robert Pattinson said of his musician co-star. \"Even on the first day, she was so relaxed\"",
-      "published": "2026-09-05T15:04:58+00:00",
-      "fetched": "2026-09-05T19:36:51.081432+00:00"
-    },
-    {
-      "id": "16fd7128fefb35b5",
-      "title": "CDs Are Back, and We Think We Know Why",
-      "link": "https://www.rollingstone.com/music/music-features/cds-revival-gen-z-compact-discs-1235614874/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Data shows that Gen Z fans are listening to music from the Nineties and earlier on those shiny round discs",
-      "published": "2026-09-05T15:00:00+00:00",
-      "fetched": "2026-09-05T19:36:51.081458+00:00"
-    },
-    {
-      "id": "7ce4a72423e9a7c0",
-      "title": "Retirement Match: Here’s How to Watch Katie Taylor vs. Flora Pili Boxing Live Online",
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-katie-taylor-vs-flora-pili-boxing-live-sept-2026-online-1236850092/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Set as Katie Taylor s final fight, one of the greatest fighters in boxing is going for the undisputed title. Irish boxer Katie Taylor defense her WBO, IBF and WBA women s super lightweight (junior welterweight) championship belts against French fighter Flora Pili. Additionally, the vacant WBC women s super lightweight title is on the line, so the [ ]",
-      "published": "2026-09-05T14:00:00+00:00",
-      "fetched": "2026-09-05T14:03:40.307550+00:00"
-    },
-    {
-      "id": "d6ff47a261c3d56d",
-      "title": "50 Years Ago Today: The Clash Battled With Angry Hecklers at One of Their First Concerts",
-      "link": "https://www.rollingstone.com/music/music-features/50-years-ago-clash-angry-hecklers-1235621702/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Just months after they formed, the Clash played at London's Roundhouse, where they unveiled classics like \"London's Burning\" and \"1977,\" even if many in the crowd couldn't have cared less",
-      "published": "2026-09-05T14:00:00+00:00",
-      "fetched": "2026-09-05T14:03:40.503558+00:00"
-    },
-    {
-      "id": "c5a3e2bbb6b0d192",
-      "title": "Louis Garrel Jokes About ‘Moretti Method’ Acting at Press Conference for Nanni Moretti’s ‘It Will Happen Tonight’",
-      "link": "https://variety.com/2026/film/festivals/louis-garrel-moretti-method-acting-nanni-it-will-tonight-1236843635/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Veteran auteur Nanni Moretti – who has had nine movies in competition at Cannes — is back in Venice after 37 years with It Will Happen Tonight,” a romantic drama toplining French star Louis Garrel and Italian A-lister Jasmine Trinca (“La Storia,” “Supersex”). Years ago I had coined this slightly stupid phrase that I used to [ ]",
-      "published": "2026-09-05T13:43:09+00:00",
-      "fetched": "2026-09-05T14:03:40.307617+00:00"
-    },
-    {
-      "id": "95bbe9d8fbe62258",
-      "title": "Watch 24 Different Versions of ‘Go Your Own Way’ by Fleetwood Mac and Their Offshoots",
-      "link": "https://www.rollingstone.com/music/music-lists/fleetwood-mac-go-your-own-way-all-the-versions-1235618399/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Ever since Lindsey Buckingham wrote one of rock's greatest breakup songs, Fleetwood Mac have been unable to leave a concert stage without playing it",
-      "published": "2026-09-05T13:30:00+00:00",
-      "fetched": "2026-09-05T14:03:40.503600+00:00"
-    },
-    {
-      "id": "a8e03afbb153bd6d",
-      "title": "Liam and Noel Gallagher Skip Oasis Documentary Press Conference at Venice Film Festival",
-      "link": "https://variety.com/2026/film/festivals/liam-noel-gallagher-skip-oasis-doc-press-conference-venice-1236852403/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In news that might not surprise anyone, Liam and Noel Gallagher skipped the Venice Film Festival press conference for their upcoming Disney+ documentary Oasis: Don t Look Back in Anger on Saturday. The two brothers — who reunited last year for their massive Live 25 tour after a 15-year feud — arrived on the Lido in [ ]",
-      "published": "2026-09-05T13:28:18+00:00",
-      "fetched": "2026-09-05T14:03:40.307659+00:00"
-    },
-    {
-      "id": "fe121f1bb5a531d8",
-      "title": "Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction",
-      "link": "https://www.rollingstone.com/music/music-news/duane-keffe-d-davis-first-interview-tupac-murder-conviction-1235622106/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Man, they lied about me so much. I don’t even know where to begin. All those cops in there was lying like a motherfucker,\" Davis says of witness testimony",
-      "published": "2026-09-05T13:14:51+00:00",
-      "fetched": "2026-09-05T14:03:40.503629+00:00"
     }
   ]
 }

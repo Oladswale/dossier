@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-08T15:27:07.568900+00:00",
+  "updated": "2026-09-08T20:22:33.793393+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b7a20b8c0964c9be",
+      "title": "Frank Lloyd Wright’s Secret Career as a Japanese Art Dealer & How It Shaped His Architecture",
+      "link": "https://www.openculture.com/2026/09/frank-lloyd-wrights-secret-career-as-a-japanese-art-dealer.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Frank Lloyd Wright was often strapped for cash. In that respect, he had something in common with Vincent van Gogh, who passed most of his much shorter life in more dire circumstances. Unlike Wright, who enjoyed decades of fame at the pinnacle of the American architectural profession, van Gogh remained practically unknown until after his [ ]",
+      "published": "2026-09-08T16:00:43+00:00",
+      "fetched": "2026-09-08T20:22:33.793179+00:00"
+    },
     {
       "id": "cca519601fce9ea7",
       "title": "How the Japanese Practice of “Forest Bathing”—Or Just Hanging Out in the Woods—Can Lower Stress Levels and Fight Disease",
@@ -1492,16 +1502,6 @@
       "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer production.",
       "published": "2026-07-30T15:00:00+00:00",
       "fetched": "2026-07-30T19:05:02.830009+00:00"
-    },
-    {
-      "id": "b9989e3bf85a92cc",
-      "title": "A Guide to Every Major Film Adaptation of Homer’s Odyssey Before Christopher Nolan’s Movie",
-      "link": "https://www.openculture.com/2026/07/a-guide-to-every-major-film-adaptation-of-homers-odyssey-before-christopher-nolans-movie.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "If you plan on shooting your own adaptation of Homer’s Odyssey, bear in mind how much rests on your choice of leading man. In order to play Odysseus, an actor must summon a real gravitas, but also a still-smoldering vitality: here is a man who led the Greek army to defeat Troy, but still has [ ]",
-      "published": "2026-07-30T09:00:22+00:00",
-      "fetched": "2026-07-30T13:20:14.381568+00:00"
     }
   ]
 }
