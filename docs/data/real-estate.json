@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-08T10:09:27.191154+00:00",
+  "updated": "2026-09-08T15:27:08.389542+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9a63a0a7fb269b3c",
+      "title": "The Best Short-Term Rental Market in Every State Ranked by Gross Yield",
+      "link": "https://www.biggerpockets.com/blog/best-short-term-rental-market-in-every-state-ranked-by-gross-yield",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Every best cities for Airbnb list has the same markets: Gatlinburg, Joshua Tree, Scottsdale, and the Smokies. We looked at things differently to show you what the data is actually [ ]",
+      "published": "2026-09-08T15:05:48+00:00",
+      "fetched": "2026-09-08T15:27:07.907988+00:00"
+    },
+    {
+      "id": "1c0ebbba3becb19d",
+      "title": "Miss America Winner Regan Hutsell Takes Home the Crown—And the Keys to a Luxury High Rise Apartment in NYC",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/miss-america-winner-nyc-apartment/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Regan Hutsell has been crowned the 99th Miss America, taking home the crown as well as keys to a luxury New York City apartment.",
+      "published": "2026-09-08T15:03:00+00:00",
+      "fetched": "2026-09-08T15:27:08.388960+00:00"
+    },
+    {
+      "id": "24c6dc2bfc2a5810",
+      "title": "Aubrey Plaza Sells Los Angeles Home Where Late Husband Jeff Baena Died, for $4.4 Million—After Welcoming Her First Baby",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/aubrey-plaza-sells-los-angeles-home-jeff-baena-baby/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Plaza originally purchased the home for $4.7 million in October 2022, when it became a marital home for the onscreen star and Baena.",
+      "published": "2026-09-08T13:12:27+00:00",
+      "fetched": "2026-09-08T15:27:08.389002+00:00"
+    },
+    {
+      "id": "f2c00caa50f5d5cb",
+      "title": "Fewer Investors Are Buying Homes as the Housing Market Shifts (Again)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-458",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The housing market is sending mixed signals—or so it seems. Foreclosures are rising, yet many investors are pulling back. Cash buyers are retreating, competition is cooling in many markets, and [ ]",
+      "published": "2026-09-08T11:00:02+00:00",
+      "fetched": "2026-09-08T15:27:07.908036+00:00"
+    },
     {
       "id": "85943d7f052b523e",
       "title": "Why Texas’ Property Tax System Can Favor the Rich Twice: ‘This Situation Shifts the Tax Burden’",
@@ -1462,46 +1502,6 @@
       "summary": "The star has owned properties in some of the country’s most coveted enclaves, from New York City to an estate in the Hudson Valley.",
       "published": "2026-08-28T14:37:30+00:00",
       "fetched": "2026-08-28T17:45:50.863003+00:00"
-    },
-    {
-      "id": "e4025a709d4dee5d",
-      "title": "How to Prepare for Your First Rental Property (Beginner Steps) (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-763",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Don’t feel ready to buy your first rental property yet? Maybe you just need a better game plan. Today, we’re covering three different but common situations rookies find themselves in [ ]",
-      "published": "2026-08-28T11:00:35+00:00",
-      "fetched": "2026-08-28T17:45:50.403135+00:00"
-    },
-    {
-      "id": "cebc150593e8ff48",
-      "title": "BRRRR vs. New Construction: Which Makes More Money in 2026 (I Did the Math)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1323",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Is it better to buy an existing property with value-add potential or a new construction home in 2026? For years, there was no debate. The ability to buy a property [ ]",
-      "published": "2026-08-28T11:00:32+00:00",
-      "fetched": "2026-08-28T17:45:50.403156+00:00"
-    },
-    {
-      "id": "6b9b23e017ef5d93",
-      "title": "Inside the ‘Cultlike’ Quest To Find the Rare Wood Needed To Restore Midcentury Modern Homes",
-      "link": "https://www.realtor.com/news/trends/midcentury-eichler-frank-lloyd-wright-homes-rare-wood-lauan/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "These iconic homes, such as those from developer Joseph Eichler or architect Frank Lloyd Wright, often incorporate rare woods.",
-      "published": "2026-08-28T09:00:00+00:00",
-      "fetched": "2026-08-28T17:45:50.863022+00:00"
-    },
-    {
-      "id": "084b74d3196b0896",
-      "title": "Colleges Are Closing Dorms—This Town Wants To Turn Them Into Housing",
-      "link": "https://www.realtor.com/news/trends/college-dorm-closures-campus-land-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Colleges are closing dorms as enrollment shifts. One Wisconsin community hopes a shuttered campus can help ease its housing shortage.",
-      "published": "2026-08-28T08:36:00+00:00",
-      "fetched": "2026-08-28T17:45:50.863039+00:00"
     }
   ]
 }

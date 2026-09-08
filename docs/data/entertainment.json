@@ -1,8 +1,158 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-08T10:09:24.980919+00:00",
+  "updated": "2026-09-08T15:27:06.177491+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2e62acfd177eb0dc",
+      "title": "‘Artificial’ Trailer: Andrew Garfield Is Sam Altman in Luca Guadagnino’s OpenAI Movie as Neon Sets Christmas Day Release",
+      "link": "https://variety.com/2026/film/news/artificial-trailer-andrew-garfield-openai-biopic-1236802616/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Chat, what s the latest Artificial news? Neon has released the trailer for Luca Guadagnino s “Artificial,” which will open in theaters on Christmas Day. The movie stars Andrew Garfield as OpenAI founder Sam Altman and centers on the scandal that erupted when he was suddenly fired in 2023 and then reinstated only five days later.",
+      "published": "2026-09-08T15:22:30+00:00",
+      "fetched": "2026-09-08T15:27:05.823291+00:00"
+    },
+    {
+      "id": "0efc967e8b32289f",
+      "title": "Sir Tom Jones Reveals He Was Fired From ‘The Voice UK’",
+      "link": "https://www.rollingstone.com/music/music-news/tom-jones-fired-from-the-voice-uk-1235622537/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"They now say in the press they wanted to 'refresh' the show, and with a new coaching line-up there wouldn't be a chair for me,\" he wrote on X",
+      "published": "2026-09-08T15:08:33+00:00",
+      "fetched": "2026-09-08T15:27:05.957843+00:00"
+    },
+    {
+      "id": "6fca6a69b09d0f64",
+      "title": "‘Littermates’ Sets Theatrical Release Via Alamo Exclusives; Comic Dystopian Film Also Sets Fantastic Fest Screening (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/littermates-theatrical-release-alamo-exclusives-1236849930/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Scott Tinkham and Michael Woloson s indie feature “Littermates” is headed to the big screen. The comic dystopian feature is set to open at over 30 Alamo Drafthouse locations on Nov. 6 via Alamo Exclusives.",
+      "published": "2026-09-08T15:00:00+00:00",
+      "fetched": "2026-09-08T15:27:05.823352+00:00"
+    },
+    {
+      "id": "4177ac108ee81423",
+      "title": "The New Chris Rock: The Comedy Icon on Directing ‘Misty Green’ and Not Returning to the Oscars Unless He’s Nominated",
+      "link": "https://variety.com/2026/film/features/chris-rock-interview-misty-green-oscar-buzz-will-smith-slap-1236852060/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Chris Rock isn’t exactly who you remember him to be. He likes to take his time. “What am I trying to say?” he asks himself repeatedly in conversation, pausing to truly consider that question before continuing to speak.",
+      "published": "2026-09-08T15:00:00+00:00",
+      "fetched": "2026-09-08T15:27:05.823408+00:00"
+    },
+    {
+      "id": "cfb7d77bcf718ffd",
+      "title": "FKA Twigs Begins Shoot as Josephine Baker in Studiocanal Biopic (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/fka-twigs-josephine-baker-biopic-shoot-studiocanal-1236854113/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Grammy-winning artist FKA Twigs has begun principal photography as the legendary entertainer and activist Josephine Baker. Production on Josephine Baker has kicked off in France and will run through Nov. 13, with additional shooting in Sofia, Bulgaria.",
+      "published": "2026-09-08T15:00:00+00:00",
+      "fetched": "2026-09-08T15:27:05.823463+00:00"
+    },
+    {
+      "id": "65caeb5862a7f361",
+      "title": "‘The Sixty-Year Mission: How Star Trek Changed Television and the World’ Trailer: New Documentary Goes Deep on the History of the Iconic Sci-Fi Franchise (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/the-sixty-year-mission-trailer-star-trek-documentary-1236854307/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Altman2 Entertainment, Vital Signs Entertainment and Galaxie Productions have released the trailer for “The Sixty-Year Mission: How Star Trek Changed Television and the World,” a new documentary about the history and cultural impact of the iconic sci-fi franchise. The film’s official logline reads, “Drawing on exclusive interviews, never-before-seen archival material and first-hand accounts from the [ ]",
+      "published": "2026-09-08T15:00:00+00:00",
+      "fetched": "2026-09-08T15:27:05.823521+00:00"
+    },
+    {
+      "id": "decb0376c6709f2d",
+      "title": "India’s Gubbara Launches Distribution Arm as ‘Termite’ Heads to Toronto (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/termite-toronto-gubbara-distribution-arm-1236854764/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "India s Gubbara Entertainment is launching a distribution arm, timed to the world premiere of its short film Termite at the Toronto Film Festival and a chapter of its Kashmir feature anthology Muhabbat Se at the inaugural International Film Festival of Jammu and Kashmir. The distribution push marks the next phase for Gubbara Entertainment, which is [ ]",
+      "published": "2026-09-08T14:51:09+00:00",
+      "fetched": "2026-09-08T15:27:05.823569+00:00"
+    },
+    {
+      "id": "f395e4adc8ef0d9f",
+      "title": "‘Godzilla Minus Zero’ Unveils New Trailer, Cast Members",
+      "link": "https://variety.com/2026/film/news/godzilla-minus-zero-new-trailer-cast-members-1236854751/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Toho and Gkids have released a new trailer and cast additions for Godzilla Minus Zero, the sequel to Yamazaki Takashi s Oscar-winning Godzilla Minus One. The trailer opens with confirmation that Godzilla was not fully destroyed and offers a first look at a new kaiju extermination operation, alongside a mix of new and returning characters. Nagasawa [ ]",
+      "published": "2026-09-08T14:38:12+00:00",
+      "fetched": "2026-09-08T15:27:05.823613+00:00"
+    },
+    {
+      "id": "29f7cdc93871eaab",
+      "title": "Stevie Wonder to Play All of ‘Songs In the Key of Life’ on 50th Anniversary Tour",
+      "link": "https://www.rollingstone.com/music/music-news/stevie-wonder-songs-in-the-key-of-life-tour-dates-1235622542/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The musician will celebrate his landmark 1976 album on a fall trek that will hit the U.S. in November and December",
+      "published": "2026-09-08T14:35:18+00:00",
+      "fetched": "2026-09-08T15:27:05.957882+00:00"
+    },
+    {
+      "id": "7323a25763881714",
+      "title": "‘Dexter: Resurrection’ Season 2 Sets October Premiere Date, Drops Mysterious Teaser",
+      "link": "https://variety.com/2026/tv/news/dexter-resurrection-season-2-release-date-1236851973/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Dexter: Resurrection” is making its bloody return on Friday, Oct. 30. Paramount+ released a 40-second teaser showing Dexter in between getting an eye exam and sharpening weapons: “He’s back and sharper than ever.” Per the official longline for Season 2, Dexter is “caught between two killers – one notorious and the other terrorizing New York [ ]",
+      "published": "2026-09-08T14:35:00+00:00",
+      "fetched": "2026-09-08T15:27:05.823664+00:00"
+    },
+    {
+      "id": "898be12f964a8eb6",
+      "title": "‘Heat 2’: Stephen Graham Confirmed for Michael Mann’s Sequel (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/heat-2-stephen-graham-confirmed-michael-manns-sequel-1236852165/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Stephen Graham has officially joined the cast of Michael Mann s long-awaited sequel Heat 2, Variety can confirm. If other reported deals close, the Emmy-winning Adolescence star and British acting icon would join the Amazon MGM Studios feature alongside Leonardo DiCaprio, Christian Bale, Adam Driver, Jason Clarke and Odessa Young. While roles haven t been confirmed, Graham [ ]",
+      "published": "2026-09-08T14:30:00+00:00",
+      "fetched": "2026-09-08T15:27:05.823711+00:00"
+    },
+    {
+      "id": "4055789829400959",
+      "title": "Cage the Elephant Will Play the Halftime Show at NFL’s Munich Game",
+      "link": "https://www.rollingstone.com/music/music-news/cage-the-elephant-halftime-nfl-munich-game-1235622560/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"We are going to bring the same energy we bring to our own shows and we cannot wait,\" says Cage the Elephant's Matt Shultz of the Nov. 15 Germany matchup between the Patriots and Lions",
+      "published": "2026-09-08T14:29:42+00:00",
+      "fetched": "2026-09-08T15:27:05.957919+00:00"
+    },
+    {
+      "id": "5c9805147d0eb5c8",
+      "title": "Kirk Franklin Signs With Uptown Records (EXCLUSIVE)",
+      "link": "https://variety.com/2026/music/news/kirk-franklin-signs-with-uptown-records-1236854254/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The recently relaunched Uptown Records has entered into a partnership with 20-time Grammy-winning artist-songwriter-producer and gospel music superstar Kirk Franklin, in conjunction with Fo Yo Soul Entertainment and TRIBL Music Group, the companies announced on Monday. (Pictured above, L-R: Brandon Amie, Ron Hill, Natina Nimene, Kirk Franklin, Danielle Price Sanders, Phil Thornton.) To celebrate the [ ]",
+      "published": "2026-09-08T14:17:08+00:00",
+      "fetched": "2026-09-08T15:27:05.823755+00:00"
+    },
+    {
+      "id": "61615040c21a0c2b",
+      "title": "Joy Division’s Stephen Morris on New ‘Eternal’ Box Set, Stepping Away From New Order",
+      "link": "https://www.rollingstone.com/music/music-features/joy-division-stephen-morris-interview-rock-hall-health-1235622483/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "It’s unlikely he’ll be at New Order's Hall of Fame induction due to health problems that also prevent him from touring. “I really don’t want to dwell on what this illness is,” he says, “but it’s pretty serious”",
+      "published": "2026-09-08T14:02:01+00:00",
+      "fetched": "2026-09-08T15:27:05.957961+00:00"
+    },
+    {
+      "id": "70c3e02df8d6bef7",
+      "title": "The Tallest Man on Earth Rediscovers His Heritage on a Cathartic New Album",
+      "link": "https://www.rollingstone.com/music/music-features/the-tallest-man-on-earth-interview-new-album-1235621403/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Kristian Matsson returned to his native Sweden to make Just Beyond Endless Mountain , a record rooted in nature: “I get more cynical, but I search for the moments you get to be in awe of how cool a tree is\"",
+      "published": "2026-09-08T13:18:13+00:00",
+      "fetched": "2026-09-08T15:27:05.958003+00:00"
+    },
     {
       "id": "9a237a98997118d3",
       "title": "‘Elite’ Star Ester Expósito Circles ‘Stink Eye,’ an Iberseries Co-Production & Financing Forum Title (EXCLUSIVE)",
@@ -1352,156 +1502,6 @@
       "summary": "\"Man, they lied about me so much. I don’t even know where to begin. All those cops in there was lying like a motherfucker,\" Davis says of witness testimony",
       "published": "2026-09-05T13:14:51+00:00",
       "fetched": "2026-09-05T14:03:40.503629+00:00"
-    },
-    {
-      "id": "f45bf7fa66bff17c",
-      "title": "Aflac Taps Affleck for Commercials to Keep Insurance Customers Quacking",
-      "link": "https://variety.com/2026/tv/news/aflac-ben-affleck-commercials-artists-equity-duck-insurance-1236852321/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It seems as simple as moving a few letters around, but a new collaboration between Aflac, the provider of supplemental insurance and Ben Affleck, the actor and director, has been years in the making. Pairing Aflac, which has thrived with commercials featuring an anthropomorphic duck squawking out its name, and Affleck. the star of Good [ ]",
-      "published": "2026-09-05T12:30:00+00:00",
-      "fetched": "2026-09-05T14:03:40.307693+00:00"
-    },
-    {
-      "id": "98c108894f74f087",
-      "title": "‘Our Share of Sand’ Review: A Brooding Indian Social Drama Told Through the Eyes of a Young Girl",
-      "link": "https://variety.com/2026/film/news/our-share-of-sand-review-1236847383/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A keenly observed class drama shown through the eyes of a child, Shalini Adnani’s “Our Share of Sand” overcomes its characters’ narrow construction through its brooding intensity. Set against a sand-mining crisis in modern India, it tells of a 12-year-old British Asian girl, Maya (Maya Mehta), who returns to the country to join her industrialist [ ]",
-      "published": "2026-09-05T11:45:00+00:00",
-      "fetched": "2026-09-05T14:03:40.307732+00:00"
-    },
-    {
-      "id": "6ca4b2ed3878384a",
-      "title": "‘Tom and Jerry: Forbidden Compass’ Review: The Famous Cat-and-Mouse Duo Are Not Themselves In a Chaotic Chinese Cartoon",
-      "link": "https://variety.com/2026/film/reviews/tom-and-jerry-forbidden-compass-review-1236852490/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "That title gives a first clue towards how misbegotten and compromised this new Tom and Jerry joint is. Everybody knows that Tom and Jerry shouldn’t be searching for a forbidden compass, whatever that might be: If the perma-warring pair are on a quest for something, it ought to be, say, some pickles for a big [ ]",
-      "published": "2026-09-05T11:32:24+00:00",
-      "fetched": "2026-09-05T14:03:40.307769+00:00"
-    },
-    {
-      "id": "b5a80f96ec8faa00",
-      "title": "Robert Pattinson Wants Chris Hansen to Like ‘Primetime’ Despite His Criticisms: ‘I Hope the Inspiration His Character Has Given Is Some Kind of Compliment’",
-      "link": "https://variety.com/2026/film/festivals/robert-pattinson-primetime-chris-hansen-criticism-1236852400/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Robert Pattinson thinks Chris Hansen could come around on Primetime, a tense thriller about the television journalist and To Catch a Predator host, which premieres on Saturday afternoon at the Venice Film Festival. The real-life Hansen has been vocal in his skepticism of the movie, which he said he hasn t seen because he declined to [ ]",
-      "published": "2026-09-05T11:28:45+00:00",
-      "fetched": "2026-09-05T14:03:40.307807+00:00"
-    },
-    {
-      "id": "3b8cffc698145493",
-      "title": "Marion Cotillard Praises Venice Biennale College Cinema Workshop: ‘Not all Films Are Destined to Draw Millions of Viewers and Turn a Profit’",
-      "link": "https://variety.com/2026/film/global/marion-cotillard-venice-biennale-college-cinema-1236852398/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Oscar-winner Marion Cotillard (“La Vie en Rose ) is at the Venice Film Festival in a new guise, as tutor of Biennale College Cinema, the workshop allowing emerging filmmakers to develop and produce micro-budget feature-length films, which is sponsored by Chanel. Biennale College Cinemas was conceived 15 years ago by Venice chief Alberto Barbera in tandem [ ]",
-      "published": "2026-09-05T11:06:28+00:00",
-      "fetched": "2026-09-05T14:03:40.307847+00:00"
-    },
-    {
-      "id": "309edbf2209a5ad6",
-      "title": "‘Mr Nelson, Did You Kill People?’ Review: An Assaultive Yet Turgid and Outdated Vietnam PTSD Drama",
-      "link": "https://variety.com/2026/film/reviews/mr-nelson-did-you-kill-people-review-1236846997/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "If Shinya Tsukamoto s Mr Nelson, Did You Kill People? were the first, or even the 51st, movie to litigate the atrocities committed by U.S. troops during the Vietnam War, perhaps on a purely informational level some justification would exist for its crudely simplistic approach.",
-      "published": "2026-09-05T10:54:01+00:00",
-      "fetched": "2026-09-05T14:03:40.307883+00:00"
-    },
-    {
-      "id": "da478dba15a00f3c",
-      "title": "‘Everest: The Other Side’ Review: The ‘Free Solo’ Directors Return With Another Extreme Sports Doc, This Time Tainted by Tragedy",
-      "link": "https://variety.com/2026/film/reviews/everest-the-other-side-review-1236852376/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Because it s there is the famous, possibly apocryphal, reply attributed to British mountaineer George Mallory when asked why he wanted to climb Mount Everest. Unlike present-day climber Jim Morrison, Mallory didn t also want to ski down it. But doesn t the same non-answer apply?",
-      "published": "2026-09-05T10:35:43+00:00",
-      "fetched": "2026-09-05T14:03:40.307920+00:00"
-    },
-    {
-      "id": "c1c9601f37d87e8d",
-      "title": "‘The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film",
-      "link": "https://variety.com/2026/film/reviews/the-liberation-review-1236851030/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething protagonist Rita Cooper. Based on Nattiv’s own grandmother (alongside various cult survivors) and played by Carrie Coon with extraordinary emotional presence and pent-up energy privately [ ]",
-      "published": "2026-09-05T09:00:00+00:00",
-      "fetched": "2026-09-05T09:31:32.313483+00:00"
-    },
-    {
-      "id": "b99af91228005f9c",
-      "title": "Swiss Projects at the Venice Gap-Financing Market: Natural Disaster, Complicated Romance, Exploited Migrants, Murder Mystery in Montana",
-      "link": "https://variety.com/2026/film/global/switzerland-venice-film-festival-gap-financing-market-1236841524/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Both well-established and up-and-coming Swiss filmmakers are taking part in the Venice Film Festival’s Production Bridge industry strand, where Switzerland will be one of the country’s in focus at the Gap-Financing Market. Seven Swiss projects and co-productions are among the total of 38 fiction and documentary works featured in the Venice Production Bridge’s Gap-Financing Market [ ]",
-      "published": "2026-09-05T08:57:55+00:00",
-      "fetched": "2026-09-05T09:31:32.313551+00:00"
-    },
-    {
-      "id": "330205f066a19ee7",
-      "title": "Rubaiyat Hossain on Bodies, Beauty and Venice, Toronto and London-Bound ‘The Difficult Bride,’ Clip Unveiled (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/festivals/rubaiyat-hossain-difficult-bride-1236851501/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The idea for The Difficult Bride traces back to a story Rubaiyat Hossain heard as a 7 year old, visiting a Dhaka beauty parlor with her mother. There was a bride who died there, Hossain says. Everyone knew this story from our generation, and I remember being seven, and even at that time, I had [ ]",
-      "published": "2026-09-05T07:57:49+00:00",
-      "fetched": "2026-09-05T09:31:32.313604+00:00"
-    },
-    {
-      "id": "33dfd036bda5f36c",
-      "title": "Mad Solutions and Haitham Dabbour’s Irth Platform Announce Strategic Pan-Arab Content Partnership in Venice",
-      "link": "https://variety.com/2026/film/festivals/mad-solutions-haitham-dabbours-irth-pan-arab-partnership-1236852377/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Pan-Arab distributor Mad Solutions and Egyptian multihyphenate Haitham Dabbour s Irth platform dedicated to supporting standout writers across the Arab world announced a strategic partnership on Saturday at the Venice Film Festival that aims to boost quality content output from the region. Under the pact, Mad Solutions and Irth will jointly develop, package and support film, television and [ ]",
-      "published": "2026-09-05T06:07:02+00:00",
-      "fetched": "2026-09-05T09:31:32.313659+00:00"
-    },
-    {
-      "id": "be450e5a0323accb",
-      "title": "Lav Diaz Preps False Prophets Film and Jose Rizal’s ‘Noli Me Tangere’ Adaptation, Unpacks Venice Title ‘Let Us Through, Dear Ancestors’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/festivals/lav-diaz-venice-film-ancestors-new-projects-1236851519/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Lav Diaz is developing a film about false prophets and a screen adaptation of José Rizal s Noli Me Tangere, the Filipino auteur reveals, alongside details on Let Us Through, Dear Ancestors ( Makikiraan Po ), his Spanish colonization drama premiering in the Venice Open section of the Venice Film Festival. Diaz tells Variety, Right now, I m working [ ]",
-      "published": "2026-09-05T05:35:00+00:00",
-      "fetched": "2026-09-05T09:31:32.313717+00:00"
-    },
-    {
-      "id": "87ad930a604a1fd4",
-      "title": "As Swiss Films Expand International Reach, English-Language Works Are on the Rise",
-      "link": "https://variety.com/2026/film/global/swiss-films-venice-film-festival-late-shift-petra-volpe-1236838164/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Swiss cinema is resonating domestically and abroad as homegrown films and international co-productions continue to entice local audiences and festival goers around the globe. At Venice this year, Swiss titles and co-productions boasting high-profile talent unspool throughout the festival. Switzerland is also a country of focus at the Venice Production Bridge industry strand with seven [ ]",
-      "published": "2026-09-05T05:15:00+00:00",
-      "fetched": "2026-09-05T09:31:32.313764+00:00"
-    },
-    {
-      "id": "81d6d9b8241c767f",
-      "title": "‘Elsinore’ Review: Andrew Scott Is Powerfully Moving as Ian Charleson, the ‘Chariots of Fire’ Star Who Played Hamlet While Ravaged by AIDS",
-      "link": "https://variety.com/2026/film/reviews/elsinore-review-andrew-scott-1236852070/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The tender power of \"Elsinore\" is the way Scott’s performance takes us right inside Ian’s state-of-mind — his belief that what’s left of his life needs to mean something, and that playing Hamlet will give it that meaning.",
-      "published": "2026-09-05T05:00:33+00:00",
-      "fetched": "2026-09-05T09:31:32.313808+00:00"
-    },
-    {
-      "id": "8ed5884fe7fcd406",
-      "title": "Spain’s Impulse Cinema and Italy’s Fandango Forge Strategic Partnership to Boost Co-Production and Sales Opportunities (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/impulse-cinema-fandango-partnership-production-1236851343/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spanish indie studio Impulse Cinema and Italy’s Fandango have forged a strategic partnership to boost Spanish and Italian productions through co-production, financing, distribution and global sales. The agreement was announced on Saturday at the Venice Production Bridge, the Venice Film Festival s market focused on film production. Impulse Cinema, which is headed by Andrés Sánchez Pajares [ ]",
-      "published": "2026-09-05T05:00:00+00:00",
-      "fetched": "2026-09-05T09:31:32.313864+00:00"
     }
   ]
 }
