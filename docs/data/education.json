@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-09T01:43:55.411724+00:00",
+  "updated": "2026-09-09T10:12:59.931565+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6da39802fdb40511",
+      "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
+      "link": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Today, we’re surrounded by technologies we could justifiably describe as time thieves. In ancient Greece, those who wanted to know where their time was going consulted a device they called a “water thief.” The roots of the clepsydra, or water clock, go back as far as the sixteenth century BC, with evidence of such devices [ ]",
+      "published": "2026-09-09T09:00:26+00:00",
+      "fetched": "2026-09-09T10:12:59.931398+00:00"
+    },
+    {
+      "id": "99cf309bac44f94b",
+      "title": "Historian Timothy Snyder Teaches a Free Course on Hitler, Stalin & How “It” Can Happen Here",
+      "link": "https://www.openculture.com/2026/09/historian-timothy-snyder-teaches-a-free-course-on-hitler-stalin-how-it-can-happen-here.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "When the historian Timothy Snyder left Yale for the University of Toronto in 2024, he took with him the practice of occasionally putting his course lectures online, making them available to anyone who cares to learn from them. Above, you can watch ten lectures from his recent course Hitler and Stalin Today. In this course: [ ]",
+      "published": "2026-09-09T08:00:10+00:00",
+      "fetched": "2026-09-09T10:12:59.931430+00:00"
+    },
     {
       "id": "b7a20b8c0964c9be",
       "title": "Frank Lloyd Wright’s Secret Career as a Japanese Art Dealer & How It Shaped His Architecture",
@@ -1482,26 +1502,6 @@
       "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
       "published": "2026-07-30T21:00:00+00:00",
       "fetched": "2026-07-31T01:23:16.593972+00:00"
-    },
-    {
-      "id": "527a33e63b28cbae",
-      "title": "Connecting research to policy on Capitol Hill",
-      "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
-      "published": "2026-07-30T20:35:00+00:00",
-      "fetched": "2026-07-31T01:23:16.594016+00:00"
-    },
-    {
-      "id": "17e651ac77f40d4b",
-      "title": "Why some nitrogen-processing enzymes are more efficient than others",
-      "link": "https://news.mit.edu/2026/why-some-nitrogen-processing-enzymes-are-more-efficient-0730",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New findings could help researchers design synthetic catalysts that convert nitrogen gas to ammonia, a key step in fertilizer production.",
-      "published": "2026-07-30T15:00:00+00:00",
-      "fetched": "2026-07-30T19:05:02.830009+00:00"
     }
   ]
 }

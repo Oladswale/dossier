@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-09T01:43:56.162384+00:00",
+  "updated": "2026-09-09T10:13:00.576714+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "88ad746cccdeed04",
+      "title": "America’s Most Affordable College Towns Revealed",
+      "link": "https://www.realtor.com/news/trends/most-affordable-division-i-college-towns-revealed/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Realtor.com ranks America's top college towns for affordable housing, with Detroit leading as the most budget-friendly market.",
+      "published": "2026-09-09T09:00:00+00:00",
+      "fetched": "2026-09-09T10:13:00.576332+00:00"
+    },
     {
       "id": "9fc42b1bc6fcfd90",
       "title": "Lowe’s, GM, and Nvidia Launch Coalition To Train Skilled Workers Amid Labor Shortage in Trades",
@@ -212,6 +222,16 @@
       "summary": "Celebrity home break-ins are raising security concerns as an expert reveals the risks facing high-profile properties.",
       "published": "2026-09-07T12:32:00+00:00",
       "fetched": "2026-09-07T16:47:49.025847+00:00"
+    },
+    {
+      "id": "adfd63b35f740ffc",
+      "title": "He Started 8 Months Ago. He Already Has 4 Rentals ($6,000 Cash Flow!)",
+      "link": "https://www.biggerpockets.com/blog/rookie-767",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "People say it’s just too hard to find real estate deals in 2026, but today’s guest is proving them all wrong. He’s already bought four rental properties that make over [ ]",
+      "published": "2026-09-07T11:00:48+00:00",
+      "fetched": "2026-09-09T10:13:00.208833+00:00"
     },
     {
       "id": "b302e3cc3e9ff30f",
@@ -1482,26 +1502,6 @@
       "summary": "“We got a great house at a great price and the chance to completely make it our own,” he says. He could see it being their forever home.",
       "published": "2026-08-28T19:01:19+00:00",
       "fetched": "2026-08-29T01:12:52.519087+00:00"
-    },
-    {
-      "id": "d5b958f914d4f7d2",
-      "title": "Dorit and PK Kemsley Are ‘Ordered To Sell’ Their $7 Million Encino Home Amid ‘Financial Crisis’ and Foreclosure Threat",
-      "link": "https://www.realtor.com/news/reality-tv/dorit-pk-kemsley-mansion-sale-judge-foreclosure-money/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The couple is in the midst of a contentious divorce that has been exacerbated by monetary woes—and the threat of foreclosure.",
-      "published": "2026-08-28T18:18:58+00:00",
-      "fetched": "2026-08-29T01:12:52.519108+00:00"
-    },
-    {
-      "id": "1d03f657c5688994",
-      "title": "Kristin Cavallari Proudly Shows Off Results of 2-Year Renovation at the 130-Acre Nashville Estate Where She Lives With Her Kids",
-      "link": "https://www.realtor.com/news/reality-tv/kristin-cavallari-nashville-tennessee-home-kids-renovation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The reality TV veteran has turned her sprawling Tennessee estate into a true retreat for both herself and her children.",
-      "published": "2026-08-28T18:08:44+00:00",
-      "fetched": "2026-08-29T01:12:52.519125+00:00"
     }
   ]
 }
