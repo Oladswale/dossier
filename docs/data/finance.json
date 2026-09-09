@@ -1,8 +1,168 @@
 {
   "category": "finance",
-  "updated": "2026-09-09T10:12:42.769300+00:00",
+  "updated": "2026-09-09T15:23:20.885058+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "05b29e2dad01af94",
+      "title": "Treasury to buy back more government bonds than previously announced",
+      "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "First operation goes from $4 billion to $6 billion",
+      "published": "2026-09-09T15:18:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031504+00:00"
+    },
+    {
+      "id": "bc571cdbfe7a2b91",
+      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks prepare to make key interest-rate decisions later this month.",
+      "published": "2026-09-09T15:14:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031562+00:00"
+    },
+    {
+      "id": "5ecf2f278fc5677f",
+      "title": "MTN Nigeria becomes first telco to cross 100 million subscribers",
+      "link": "https://techcabal.com/2026/09/09/mtn-nigeria-hits-100-million-subscribers/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The addition of more than 2.2 million subscribers was MTN’s strongest monthly growth so far this year and its biggest since November 2024.",
+      "published": "2026-09-09T15:12:26+00:00",
+      "fetched": "2026-09-09T15:23:20.884770+00:00"
+    },
+    {
+      "id": "76bea227865f0f3e",
+      "title": "Kenya’s first locally domiciled ETF get securities exchange approval",
+      "link": "https://techcabal.com/2026/09/09/kenyas-first-locally-domiciled-etf-get-securities-exchange-approval/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Wall Street Africa (WSA) has received conditional approval from the Nairobi Securities Exchange (NSE) to list its banking exchange-traded fund (ETF) on its Main Investment Market Segment.",
+      "published": "2026-09-09T14:18:05+00:00",
+      "fetched": "2026-09-09T15:23:20.884813+00:00"
+    },
+    {
+      "id": "60f9dddf9fdf313b",
+      "title": "US-based Pigee to acquire 55% stake in Nigerian logistics startup ShipAfrica",
+      "link": "https://techcabal.com/2026/09/09/pigee-to-acquire-shipafrica-nigerian-logistics-startup/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The acquisition will occur in three stages over the next 18 months and will be funded through a combination of cash and equity, according to Pigee CEO Leroy Lawrence.",
+      "published": "2026-09-09T13:54:06+00:00",
+      "fetched": "2026-09-09T15:23:20.884845+00:00"
+    },
+    {
+      "id": "e7d6dbc7437c3df3",
+      "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
+      "link": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "American drivers just paid the highest Labor Day gasoline prices ever. Dwindling global refinery capacity is threatening to push prices higher.",
+      "published": "2026-09-09T13:46:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031615+00:00"
+    },
+    {
+      "id": "8c28833509f8161c",
+      "title": "Bessent says, ‘I am the house now.’ What that means for the yen — and U.S. stocks.",
+      "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Treasury Secretary Scott Bessent has never been accused of being a wallflower, but speaking in front of Southern Methodist University’s business school on Tuesday night, he made perhaps the most strident comment of his government career.",
+      "published": "2026-09-09T13:24:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031660+00:00"
+    },
+    {
+      "id": "966e7d9e922fc938",
+      "title": "Why UBS is telling investors to forget Europe’s ‘tired caricature’ and buy its stocks",
+      "link": "https://www.marketwatch.com/story/why-ubs-is-telling-investors-to-forget-europes-tired-caricature-and-buy-its-stocks-9787b780?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Value trap no more, European stocks are of high quality and underowned, say UBS strategists.",
+      "published": "2026-09-09T12:55:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031690+00:00"
+    },
+    {
+      "id": "35e1993d71348732",
+      "title": "NAFDAC DG links Nigeria’s counterfeit medicine crisis to regulatory gaps",
+      "link": "https://nairametrics.com/2026/09/09/nafdac-dg-links-nigerias-counterfeit-medicine-crisis-to-regulatory-gaps/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s counterfeit medicine crisis is rooted in longstanding weaknesses in the country’s pharmaceutical regulatory system, the Director-General of the National Agency for Food and Drug Administration and Control (NAFDAC), Professor Mojisola Adeyeye, has said. The post NAFDAC DG links Nigeria’s counterfeit medicine crisis to regulatory gaps appeared first on Nairametrics .",
+      "published": "2026-09-09T12:53:21+00:00",
+      "fetched": "2026-09-09T15:23:19.766689+00:00"
+    },
+    {
+      "id": "3b39a2b50549d824",
+      "title": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern",
+      "link": "https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Meta’s Muse could be the beginning of a product cycle that the market has not yet priced into the stock, an analyst says.",
+      "published": "2026-09-09T12:43:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031723+00:00"
+    },
+    {
+      "id": "aaf4e418e2d28a14",
+      "title": "I did everything ‘right’ with my health insurance — and still got a surprise bill. Here’s what I learned.",
+      "link": "https://www.marketwatch.com/story/i-did-everything-right-with-my-health-insurance-and-still-got-a-surprise-bill-heres-what-i-learned-51121f3f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "It’s hard even for a healthcare insider to navigate the system, let alone appeal a denial with amorphous reasoning behind it.",
+      "published": "2026-09-09T12:17:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031757+00:00"
+    },
+    {
+      "id": "f8c0b7a5ae669064",
+      "title": "Lagos begins arrest of buyers patronising illegal roadside traders next week",
+      "link": "https://nairametrics.com/2026/09/09/lagos-begins-arrest-of-buyers-patronising-illegal-roadside-traders-next-week/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Lagos State Government, through the Lagos Waste Management Authority (LAWMA), will begin arresting and prosecuting people who buy goods from illegal roadside traders next week. The post Lagos begins arrest of buyers patronising illegal roadside traders next week appeared first on Nairametrics .",
+      "published": "2026-09-09T12:08:09+00:00",
+      "fetched": "2026-09-09T15:23:19.766747+00:00"
+    },
+    {
+      "id": "c6799a0d8ad4e5e8",
+      "title": "Instant loans dry up as FCCPC rules force lenders toward safer borrowers",
+      "link": "https://nairametrics.com/2026/09/09/instant-loans-dry-up-as-fccpc-rules-force-lenders-toward-safer-borrowers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s digital lending industry is undergoing a significant shift as lenders scale back unsecured instant loans and increasingly target borrowers with verifiable income, established credit histories and predictable cash flows. The post Instant loans dry up as FCCPC rules force lenders toward safer borrowers appeared first on Nairametrics .",
+      "published": "2026-09-09T12:05:43+00:00",
+      "fetched": "2026-09-09T15:23:19.766800+00:00"
+    },
+    {
+      "id": "d6ca8aaa71cb94e1",
+      "title": "What to expect from the Apple Surprise and Shine event today",
+      "link": "https://techcabal.com/2026/09/09/apple-surprise-and-shine-event/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "This is Apple's first big event under a new boss, John Ternus, who resumed as CEO on September 1, eight days before this keynote.",
+      "published": "2026-09-09T11:40:41+00:00",
+      "fetched": "2026-09-09T15:23:20.884872+00:00"
+    },
+    {
+      "id": "94cbb27f60bba0d3",
+      "title": "Strategists say S&P 500 could top 8,000 — but risks of a pullback are mounting",
+      "link": "https://www.marketwatch.com/story/strategists-say-s-p-500-could-top-8-000-but-risks-of-a-pullback-are-mounting-e1629564?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "While RBC Capital Markets, HSBC and Barclays all have price targets for the stock index around 8,000, they outline risks the market is facing.",
+      "published": "2026-09-09T11:24:00+00:00",
+      "fetched": "2026-09-09T15:23:19.031788+00:00"
+    },
+    {
+      "id": "f34bd294efbcf075",
+      "title": "She gave up her childhood dream of becoming a doctor to fix what doctors cannot",
+      "link": "https://techcabal.com/2026/09/09/damilola-oyenekan-life-in-tech/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "At 14, Dami Oyenekan watched a patient die at LASUTH, an experience that changed her dream of becoming a doctor and led her to healthtech.",
+      "published": "2026-09-09T10:47:16+00:00",
+      "fetched": "2026-09-09T15:23:20.884900+00:00"
+    },
     {
       "id": "009a7fd0387cbbae",
       "title": "GameStop now generates more revenue from collectibles than video games",
@@ -1342,166 +1502,6 @@
       "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
       "published": "2026-09-07T09:26:54+00:00",
       "fetched": "2026-09-07T10:49:27.318873+00:00"
-    },
-    {
-      "id": "7059cba62abc62d1",
-      "title": "From Backlog to Breakthrough: How Ondo Pay Delivered ₦9.7 Billion in Pensions and Gratuities",
-      "link": "https://nairametrics.com/2026/09/07/from-backlog-to-breakthrough-how-ondo-pay-delivered-%e2%82%a69-7-billion-in-pensions-and-gratuities/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Ondo State Ministry of Finance, the Ondo State Pension Transition Office and SmartApps Limited have confirmed that Ondo Pay, the State’s AI-enabled Human Resources and Payroll Platform, has processed the payment of ₦9,699,505,353.53 in pensions and gratuities to 2,802 beneficiaries since its deployment; one of the clearest demonstrations yet of the dividends of Ondo [ ] The post From Backlog to Breakthrough: How Ondo Pay Delivered ₦9.7 Billion in Pensions and Gratuities appeared first on Nairametrics .",
-      "published": "2026-09-07T09:19:52+00:00",
-      "fetched": "2026-09-07T10:49:29.877778+00:00"
-    },
-    {
-      "id": "4eb16c5ad4d21b5d",
-      "title": "GSMA warns 6GHz spectrum delay is stalling mobile network infrastructure",
-      "link": "https://nairametrics.com/2026/09/07/gsma-warns-6ghz-spectrum-delay-is-stalling-mobile-network-infrastructure/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Global System for Mobile Communications Association (GSMA) has warned that delays in decisions on the 6GHz spectrum band are stalling essential mobile network infrastructure as the world transitions from 5G to early 6G networks. The post GSMA warns 6GHz spectrum delay is stalling mobile network infrastructure appeared first on Nairametrics .",
-      "published": "2026-09-07T09:05:04+00:00",
-      "fetched": "2026-09-07T10:49:29.877809+00:00"
-    },
-    {
-      "id": "3ad22081e2872a45",
-      "title": "Travis Kelce bought a $5.35 million estate on Lake Erie months before marrying Taylor Swift",
-      "link": "https://www.marketwatch.com/story/travis-kelce-bought-a-5-35-million-estate-on-lake-erie-months-before-marrying-taylor-swift-4ce6761f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Travis Kelce forked over $5.35 million for a sprawling lakefront Ohio estate just months before he and Taylor Swift said “I do” at New York City’s iconic Madison Square Garden.",
-      "published": "2026-09-07T09:03:00+00:00",
-      "fetched": "2026-09-07T10:49:27.040932+00:00"
-    },
-    {
-      "id": "f4ca1c97020a17cd",
-      "title": "Oil prices hit near seven-week highs, before edging lower, as Iran plans to increase control of Hormuz",
-      "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The West Texas Intermediate and Brent crude contracts for October and November delivery, respectively, are steady after rising earlier in the session.",
-      "published": "2026-09-07T08:52:00+00:00",
-      "fetched": "2026-09-07T10:49:27.040958+00:00"
-    },
-    {
-      "id": "0396853cea2e4ceb",
-      "title": "LAMATA’s Quality Bus Corridor Project is Transforming Lagos Commutes",
-      "link": "https://nairametrics.com/2026/09/07/lamatas-quality-bus-corridor-project-is-transforming-lagos-commutes/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos, Nigeria's bustling megacity, is synonymous with traffic gridlock, chaotic danfo buses, and endless hours lost in congestion. The post LAMATA’s Quality Bus Corridor Project is Transforming Lagos Commutes appeared first on Nairametrics .",
-      "published": "2026-09-07T08:38:28+00:00",
-      "fetched": "2026-09-07T10:49:29.877840+00:00"
-    },
-    {
-      "id": "4e907712585c0ebf",
-      "title": "NISO rejects DisCos’ debt repayment proposals, warns of sanctions",
-      "link": "https://nairametrics.com/2026/09/07/niso-rejects-discos-debt-repayment-proposals-warns-of-sanctions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Independent System Operator (NISO) has rejected payment proposals submitted by some electricity distribution companies (DisCos) to settle their outstanding obligations to the Nigerian Electricity Market and service providers. NISO disclosed this in a statement issued by its management in Abuja on Sunday, following a four-day public hearing with the DisCos on their outstanding [ ] The post NISO rejects DisCos’ debt repayment proposals, warns of sanctions appeared first on Nairametrics .",
-      "published": "2026-09-07T07:57:33+00:00",
-      "fetched": "2026-09-07T10:49:29.877885+00:00"
-    },
-    {
-      "id": "6ca8629388424bb7",
-      "title": "Nigeria’s police Vigilant app raises questions about cycle of duplicate fraud reporting platforms",
-      "link": "https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "With several existing reporting channels already in place, what role would the Nigeria Police latest Vigilant app play in helping fight cybercrime? Will this new app bridges the gap in fraud recovery or repeat the history of past, underutilised police tech initiatives?",
-      "published": "2026-09-07T06:36:27+00:00",
-      "fetched": "2026-09-07T10:49:30.415428+00:00"
-    },
-    {
-      "id": "eca1c275edab16fe",
-      "title": "👨🏿‍🚀TechCabal Daily – Nigeria probes Uber exit",
-      "link": "https://techcabal.com/2026/09/07/techcabal-daily-nigeria-probes-uber-exit/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Nigerian antitrust watchdog investigates Uber exit ICASA reviews impact of digital platforms FSCA fines Altvest executives Sun King introduces smartphone financing",
-      "published": "2026-09-07T06:25:54+00:00",
-      "fetched": "2026-09-07T10:49:30.415457+00:00"
-    },
-    {
-      "id": "c865a759cbc65f88",
-      "title": "IMF: Trade payment restrictions strengthen current accounts, capital controls sway exchange rates",
-      "link": "https://nairametrics.com/2026/09/07/imf-trade-payment-restrictions-strengthen-current-accounts-capital-controls-sway-exchange-rates/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Trade payment restrictions can strengthen countries’ current account positions, while capital controls influence exchange rate movements differently depending on whether they target capital inflows or outflows, according to a new IMF paper. The post IMF: Trade payment restrictions strengthen current accounts, capital controls sway exchange rates appeared first on Nairametrics .",
-      "published": "2026-09-07T06:22:07+00:00",
-      "fetched": "2026-09-07T10:49:29.877922+00:00"
-    },
-    {
-      "id": "1a7df4d91fb5d941",
-      "title": "MMIA posts fastest growth in Africa in September with 470,000 seats",
-      "link": "https://nairametrics.com/2026/09/07/mmia-posts-fastest-growth-in-africa-in-september-with-470000-seats/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos’ Murtala Muhammed International Airport (MMIA) recorded the fastest growth in scheduled seat capacity among Africa’s 10 largest airports in September, with 470,000 scheduled seats. The post MMIA posts fastest growth in Africa in September with 470,000 seats appeared first on Nairametrics .",
-      "published": "2026-09-07T06:04:15+00:00",
-      "fetched": "2026-09-07T10:49:29.877954+00:00"
-    },
-    {
-      "id": "3386c8f02d128aee",
-      "title": "MEGACAPS: These are the only NIGERIAN STOCKS worth over $5 billion",
-      "link": "https://nairametrics.com/2026/09/07/megacaps-these-are-the-only-nigerian-stocks-worth-over-5-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Just eight companies listed on the Nigerian Exchange had market capitalizations of at least $5 billion as of September 2, 2026, with the group commanding a combined valuation of approximately N103.12 trillion ($77.86 billion). The post MEGACAPS: These are the only NIGERIAN STOCKS worth over $5 billion appeared first on Nairametrics .",
-      "published": "2026-09-07T05:56:37+00:00",
-      "fetched": "2026-09-07T10:49:29.877985+00:00"
-    },
-    {
-      "id": "05e27a8969d8fd84",
-      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into these properties.”",
-      "published": "2026-09-06T21:00:00+00:00",
-      "fetched": "2026-09-07T01:26:32.632806+00:00"
-    },
-    {
-      "id": "e6605e1e117e275c",
-      "title": "NMDPRA explains why petrol price volatility persists",
-      "link": "https://nairametrics.com/2026/09/06/nmdpra-explains-why-petrol-price-volatility-persists/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The NMDPRA has attributed persistent volatility in petrol prices to crude oil sourcing, single-source domestic refining, logistics and transportation costs. The post NMDPRA explains why petrol price volatility persists appeared first on Nairametrics .",
-      "published": "2026-09-06T19:12:12+00:00",
-      "fetched": "2026-09-07T01:26:33.514287+00:00"
-    },
-    {
-      "id": "f4f5d541576038dc",
-      "title": "NDLEA busts hidden drug compartment in fuel tanker, arrests cocaine convict",
-      "link": "https://nairametrics.com/2026/09/06/ndlea-busts-hidden-drug-compartment-in-fuel-tanker-arrests-cocaine-convict/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Operatives of the National Drug Law Enforcement Agency (NDLEA) have uncovered a concealed compartment designed for illicit drugs in a 20,000-litre fuel tanker and arrested a previously convicted cocaine trafficker during coordinated operations across several states. The post NDLEA busts hidden drug compartment in fuel tanker, arrests cocaine convict appeared first on Nairametrics .",
-      "published": "2026-09-06T19:00:38+00:00",
-      "fetched": "2026-09-07T10:49:29.878023+00:00"
-    },
-    {
-      "id": "dae127030421e920",
-      "title": "Tinubu orders release of Nigeria’s ship fund after 20 years",
-      "link": "https://nairametrics.com/2026/09/06/tinubu-orders-release-of-nigerias-ship-fund-after-20-years/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "President Bola Tinubu has approved the disbursement of the Cabotage Vessel Financing Fund (CVFF), more than two decades after the fund was established without being accessed by Nigerian shipowners. The post Tinubu orders release of Nigeria s ship fund after 20 years appeared first on Nairametrics .",
-      "published": "2026-09-06T18:52:57+00:00",
-      "fetched": "2026-09-07T01:26:33.514343+00:00"
-    },
-    {
-      "id": "0da13cb44a85022b",
-      "title": "OPEC+ pauses oil output hikes after four straight monthly increases",
-      "link": "https://nairametrics.com/2026/09/06/opec-pauses-oil-output-hikes-after-four-straight-monthly-increases/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Organization of the Petroleum Exporting Countries and its allies (OPEC+) has paused its recent oil production increases, keeping output levels unchanged for October after four consecutive monthly hikes. The post OPEC+ pauses oil output hikes after four straight monthly increases appeared first on Nairametrics .",
-      "published": "2026-09-06T17:05:52+00:00",
-      "fetched": "2026-09-07T01:26:33.514389+00:00"
     }
   ]
 }

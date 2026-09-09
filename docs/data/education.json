@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-09T10:12:59.931565+00:00",
+  "updated": "2026-09-09T15:24:04.050533+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7c81218c8b9960c7",
+      "title": "An electrochemical approach turns ammonia into pure hydrogen",
+      "link": "https://news.mit.edu/2026/electrochemical-approach-turns-ammonia-into-pure-hydrogen-0909",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "An MIT team has demonstrated a more efficient way to extract pure hydrogen gas from hydrogen carrier molecules.",
+      "published": "2026-09-09T15:00:00+00:00",
+      "fetched": "2026-09-09T15:23:33.422133+00:00"
+    },
     {
       "id": "6da39802fdb40511",
       "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
@@ -1492,16 +1502,6 @@
       "summary": "PhD student Hugh Smith works to develop sodium-ion batteries, whose components are more abundant and accessible than those of conventional lithium-ion technology.",
       "published": "2026-07-31T04:00:00+00:00",
       "fetched": "2026-07-31T08:26:59.377395+00:00"
-    },
-    {
-      "id": "93f62dd0504f500a",
-      "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
-      "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
-      "published": "2026-07-30T21:00:00+00:00",
-      "fetched": "2026-07-31T01:23:16.593972+00:00"
     }
   ]
 }
