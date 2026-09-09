@@ -1,8 +1,98 @@
 {
   "category": "finance",
-  "updated": "2026-09-09T15:23:20.885058+00:00",
+  "updated": "2026-09-09T20:06:00.246674+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6099040f248a0ad8",
+      "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.",
+      "link": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Canada’s top liquor brand looks on track for a reprieve because it’s bottled in the U.S. for American customers.",
+      "published": "2026-09-09T19:40:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324535+00:00"
+    },
+    {
+      "id": "ac1f5967664ed634",
+      "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
+      "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
+      "published": "2026-09-09T19:27:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324588+00:00"
+    },
+    {
+      "id": "cc2b1f42b0c35042",
+      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
+      "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
+      "published": "2026-09-09T17:30:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324626+00:00"
+    },
+    {
+      "id": "38c55cb78b9539fd",
+      "title": "FG offers N1 trillion bonds in September auction at N50 million minimum subscription",
+      "link": "https://nairametrics.com/2026/09/09/fg-offers-n1-trillion-bonds-in-september-auction-at-n50-million-minimum-subscription/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government of Nigeria is seeking to raise N1 trillion in its September 2026 bond auction, with the Debt Management Office (DMO) setting a minimum entry threshold of N50.001 million for participating investors. The post FG offers N1 trillion bonds in September auction at N50 million minimum subscription appeared first on Nairametrics .",
+      "published": "2026-09-09T17:22:41+00:00",
+      "fetched": "2026-09-09T20:05:59.612160+00:00"
+    },
+    {
+      "id": "8be95784ba73fcb6",
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "No amount of wealth can erase retirement worries.",
+      "published": "2026-09-09T16:38:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324665+00:00"
+    },
+    {
+      "id": "1bd5a04a327b14b7",
+      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+      "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Energy and resource stocks have zigged while the market has zagged.",
+      "published": "2026-09-09T16:19:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324689+00:00"
+    },
+    {
+      "id": "b0f30e408f36e00f",
+      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
+      "published": "2026-09-09T16:18:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324717+00:00"
+    },
+    {
+      "id": "2eea8eabf804157f",
+      "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
+      "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
+      "published": "2026-09-09T16:09:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324754+00:00"
+    },
+    {
+      "id": "59d4e55a7d2ba61b",
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "published": "2026-09-09T16:00:00+00:00",
+      "fetched": "2026-09-09T20:05:59.324786+00:00"
+    },
     {
       "id": "05b29e2dad01af94",
       "title": "Treasury to buy back more government bonds than previously announced",
@@ -12,6 +102,16 @@
       "summary": "First operation goes from $4 billion to $6 billion",
       "published": "2026-09-09T15:18:00+00:00",
       "fetched": "2026-09-09T15:23:19.031504+00:00"
+    },
+    {
+      "id": "a3a23865775e8074",
+      "title": "N941 million forfeiture: 70 Nigerians accuse ICPC of mixing up bank accounts",
+      "link": "https://nairametrics.com/2026/09/09/n941-million-forfeiture-70-nigerians-accuse-icpc-of-mixing-up-bank-accounts/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "About 70 Nigerians have urged the Federal High Court in Abuja to set aside its N941 million final forfeiture order made on July 13, 2026, over an alleged bank account “mistake” made by the Independent Corrupt Practices and Other Related Offences Commission (ICPC). The post N941 million forfeiture: 70 Nigerians accuse ICPC of mixing up bank accounts appeared first on Nairametrics .",
+      "published": "2026-09-09T15:15:35+00:00",
+      "fetched": "2026-09-09T20:05:59.612228+00:00"
     },
     {
       "id": "bc571cdbfe7a2b91",
@@ -32,6 +132,16 @@
       "summary": "The addition of more than 2.2 million subscribers was MTN’s strongest monthly growth so far this year and its biggest since November 2024.",
       "published": "2026-09-09T15:12:26+00:00",
       "fetched": "2026-09-09T15:23:20.884770+00:00"
+    },
+    {
+      "id": "657c42f8b9b39ed1",
+      "title": "Device importers, OEMs raise concerns over NCC’s October 6 DMS deadline",
+      "link": "https://nairametrics.com/2026/09/09/device-importers-oems-raise-concerns-over-nccs-october-6-dms-deadline/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Device importers, Original Equipment Manufacturers (OEMs), dealers and vendors have raised concerns over the October 6, 2026 deadline set by the Nigerian Communications Commission (NCC) for the onboarding of existing devices in stock onto its Device Management System (DMS). The post Device importers, OEMs raise concerns over NCC’s October 6 DMS deadline appeared first on Nairametrics .",
+      "published": "2026-09-09T14:53:13+00:00",
+      "fetched": "2026-09-09T20:05:59.612287+00:00"
     },
     {
       "id": "76bea227865f0f3e",
@@ -1392,116 +1502,6 @@
       "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
       "published": "2026-09-07T11:36:00+00:00",
       "fetched": "2026-09-07T16:47:29.286312+00:00"
-    },
-    {
-      "id": "b700f44ae6acc682",
-      "title": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Here’s how trading hours and other services are affected by the Labor Day holiday on Monday, Sept. 7.",
-      "published": "2026-09-07T11:16:00+00:00",
-      "fetched": "2026-09-07T16:47:29.286351+00:00"
-    },
-    {
-      "id": "0f7aab7d0068dc20",
-      "title": "Nigeria’s GDP growth is coming from sectors that don’t create enough jobs",
-      "link": "https://techcabal.com/2026/09/07/nigeria-gdp-growth-jobs-telecoms/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s economy is growing faster than it has since the second quarter of 2021. But beyond the headline growth rate, Nigeria’s economy is not growing evenly.",
-      "published": "2026-09-07T11:12:15+00:00",
-      "fetched": "2026-09-07T16:47:31.755903+00:00"
-    },
-    {
-      "id": "3a21e613d2eb5b5d",
-      "title": "PremiumTrust Bank receives Dual Credit Rating Upgrades from Agusto & Co. and DataPro.",
-      "link": "https://nairametrics.com/2026/09/07/premiumtrust-bank-receives-dual-credit-rating-upgrades-from-agusto-co-and-datapro/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "PremiumTrust Bank has received dual credit rating upgrades from two of Nigeria’s leading rating agencies, Agusto Co. and DataPro Limited, underscoring the Bank’s financial strength, sound risk management and consistent growth trajectory. While Agusto Co.",
-      "published": "2026-09-07T10:57:36+00:00",
-      "fetched": "2026-09-07T16:47:30.046758+00:00"
-    },
-    {
-      "id": "c4d445d27f28ebf5",
-      "title": "Just like for SpaceX, investors may look to ‘make room’ for AI lab IPOs. These stocks could pay the price.",
-      "link": "https://www.marketwatch.com/story/just-like-for-spacex-investors-may-look-to-make-room-for-ai-lab-ipos-these-stocks-could-pay-the-price-c97947c6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "OpenAI and Anthropic’s listings may dovetail with a seasonal tax plan, further hurting some poor performers",
-      "published": "2026-09-07T10:37:00+00:00",
-      "fetched": "2026-09-07T10:49:27.040892+00:00"
-    },
-    {
-      "id": "05b24e964b20d6ab",
-      "title": "STL Trustees unveils Holding Group, consolidates Trusteeship, Asset Management, Advisory Businesses",
-      "link": "https://nairametrics.com/2026/09/07/stl-trustees-unveils-holding-group-consolidates-trusteeship-asset-management-advisory-businesses/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "STL Trustees Limited (STL) has formally unveiled its new group structure, bringing together its trusteeship, asset management, and capital advisory businesses under one umbrella as the financial services firm moves to deepen its presence across Nigeria s capital market. Speaking at the formal unveiling of STL Capital Group, the Managing Director, STL Trustees Limited, Funmi [ ] The post STL Trustees unveils Holding Group, consolidates Trusteeship, Asset Management, Advisory Businesses appeared first on Nairametrics .",
-      "published": "2026-09-07T10:29:46+00:00",
-      "fetched": "2026-09-07T10:49:29.877563+00:00"
-    },
-    {
-      "id": "e197d0c92fa6f170",
-      "title": "Hackers breach Bitcoin-based Liquid Network, withdraw $320 million",
-      "link": "https://nairametrics.com/2026/09/07/hackers-breach-bitcoin-based-liquid-network-withdraw-320-million/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Liquid Network, a Bitcoin-based payments and settlement network, has reported a security incident after purported white-hat hackers withdrew about $320 million worth of Bitcoin from its federation wallet. The post Hackers breach Bitcoin-based Liquid Network, withdraw $320 million appeared first on Nairametrics .",
-      "published": "2026-09-07T10:18:30+00:00",
-      "fetched": "2026-09-07T10:49:29.877602+00:00"
-    },
-    {
-      "id": "d44de9bfeb3734e2",
-      "title": "The Future of Retail Investment is Social-First – Check Retail Investment Report 2026",
-      "link": "https://nairametrics.com/2026/09/07/the-future-of-retail-investment-is-social-first-check-retail-investment-report-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria s retail investment market has changed dramatically over the past decade. What once required physical forms, branch visits, brokers and lengthy processes can increasingly be done from a smartphone.Investors can move between naira funds, dollar funds, equities, savings products and other investment options with considerably less friction than before.But on Tuesday, August 25, 2026, at [ ] The post The Future of Retail Investment is Social-First Check Retail Investment Report 2026 appeared first on Nairametrics .",
-      "published": "2026-09-07T09:51:46+00:00",
-      "fetched": "2026-09-07T10:49:29.877652+00:00"
-    },
-    {
-      "id": "766d084b24a8dbb5",
-      "title": "African startups hit $2.10 billion in 8 months",
-      "link": "https://techcabal.com/2026/09/07/african-startups-hit-2-10-billion-in-8-months/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "African startups hit $2.10 billion in 8 months. Read our analysis of August's $438M surge, mega-deals, and early-stage grants.",
-      "published": "2026-09-07T09:43:31+00:00",
-      "fetched": "2026-09-07T10:49:30.415388+00:00"
-    },
-    {
-      "id": "a80a98642a29defe",
-      "title": "Governor Soludo and Afor Nnobi: When development destroys the people it is supposed to serve",
-      "link": "https://nairametrics.com/2026/09/07/governor-soludo-and-afor-nnobi-when-development-destroys-the-people-it-is-supposed-to-serve/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "I have watched with disbelief as the economic nerve centre of my hometown has been demolished in the name of development, first with the destruction of a significant portion of the market and adjoining properties for road dualisation, and now with the complete destruction of the market for a proposed flyover at Nnobi Junction. The post Governor Soludo and Afor Nnobi: When development destroys the people it is supposed to serve appeared first on Nairametrics .",
-      "published": "2026-09-07T09:42:25+00:00",
-      "fetched": "2026-09-07T10:49:29.877691+00:00"
-    },
-    {
-      "id": "e3ca5f14741a1eae",
-      "title": "Naira gains ground as CBN war chest hits $54 billion",
-      "link": "https://nairametrics.com/2026/09/07/naira-gains-ground-as-cbn-war-chest-hits-54-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Naira showed resilience this past week, testing the N1,302/$–N1,315/$ range at the official exchange window, thereby establishing a definitive breakout above the psychological N1,300 level, which is within reach. The post Naira gains ground as CBN war chest hits $54 billion appeared first on Nairametrics .",
-      "published": "2026-09-07T09:34:43+00:00",
-      "fetched": "2026-09-07T10:49:29.877728+00:00"
-    },
-    {
-      "id": "0932fad0afb84320",
-      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-      "link": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
-      "published": "2026-09-07T09:26:54+00:00",
-      "fetched": "2026-09-07T10:49:27.318873+00:00"
     }
   ]
 }

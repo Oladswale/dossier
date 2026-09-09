@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-09T15:24:04.050533+00:00",
+  "updated": "2026-09-09T20:06:14.906616+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e73469c45ceea5a3",
+      "title": "A burst of “pink noise” may lead to more restorative sleep",
+      "link": "https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debris from the brain and keeps it healthy.",
+      "published": "2026-09-09T18:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.826124+00:00"
+    },
     {
       "id": "7c81218c8b9960c7",
       "title": "An electrochemical approach turns ammonia into pure hydrogen",
@@ -1492,16 +1502,6 @@
       "summary": "Open Culture readers may know John Green best for Crash Course, the YouTube channel that teaches everything you need to know about subjects like world history, U.S. history, big history, literature, and philosophy. Or at least it teaches everything a teenage student facing down the prospect of Advanced Placement subject exams needs to know.",
       "published": "2026-07-31T08:00:45+00:00",
       "fetched": "2026-07-31T08:27:00.630319+00:00"
-    },
-    {
-      "id": "56cc4306053fb77d",
-      "title": "Building energy security through more sustainable batteries",
-      "link": "https://news.mit.edu/2026/building-energy-security-through-more-sustainable-batteries-hugh-smith-0731",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "PhD student Hugh Smith works to develop sodium-ion batteries, whose components are more abundant and accessible than those of conventional lithium-ion technology.",
-      "published": "2026-07-31T04:00:00+00:00",
-      "fetched": "2026-07-31T08:26:59.377395+00:00"
     }
   ]
 }

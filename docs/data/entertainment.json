@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-09T15:23:33.102061+00:00",
+  "updated": "2026-09-09T20:06:13.575358+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ac29880d26e4c1a9",
+      "title": "‘Charlie’s Angels’ Reunion, Zendaya and ‘Buffy’ Alums Sarah Michelle Gellar, David Boreanaz Among Confirmed Emmys Presenters",
+      "link": "https://variety.com/2026/tv/news/charlies-angels-reunion-zendaya-buffy-emmys-presenters-1236856284/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Charlie s Angels and Angel are among the first round of names announced Wednesday to serve as presenters at Monday night s 78th Emmys on NBC and Peacock. Charlie s Angels stars Kate Jackson, Cheryl Ladd and Jaclyn Smith — who are celebrating the 50th anniversary this year of the iconic ABC series — were included in the [ ]",
+      "published": "2026-09-09T20:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.081332+00:00"
+    },
+    {
+      "id": "5a2c960f1c27d3c9",
+      "title": "How to Watch Tonight’s Patriots vs. Seahawks Game Online for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-patriots-seahawks-football-game-free-2026-1235623135/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The NFL is back tonight with a Super Bowl LX rematch. Here’s where to livestream the game without cable (and how to watch for free)",
+      "published": "2026-09-09T19:35:00+00:00",
+      "fetched": "2026-09-09T20:06:13.344094+00:00"
+    },
+    {
+      "id": "0332fd4c9f92e724",
+      "title": "Channing Dungey on Warner Bros. TV Group’s Big Year of Pickups, Renewals and New Deals — Despite Industry Distractions and Ownership Uncertainty",
+      "link": "https://variety.com/2026/tv/news/warner-bros-tv-group-pickups-renewals-deals-channing-dungey-1236856102/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Warner Bros. TV Group isn’t acting like a studio with an uncertain future. Even as the fate of Warner Bros.",
+      "published": "2026-09-09T19:30:00+00:00",
+      "fetched": "2026-09-09T20:06:13.081398+00:00"
+    },
+    {
+      "id": "fa80079017319a49",
+      "title": "N.O.R.E. Sued for Sexual Assault by Carmen Bryan",
+      "link": "https://www.rollingstone.com/music/music-news/nore-accused-sexual-assault-carmen-bryan-lawsuit-1235621684/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Bryan, who shares a child with Nas, claimed she pleaded with Jay-Z not to get involved after telling him about the alleged assault at a nightclub in 1999",
+      "published": "2026-09-09T19:26:26+00:00",
+      "fetched": "2026-09-09T20:06:13.344132+00:00"
+    },
+    {
+      "id": "2d8b89e08c27ac3d",
+      "title": "Taylor Swift Has Never Won a Grammy for Record or Song of the Year. With Three No. 1 Hits Eligible for 2027, Which Will She Choose for Victory?",
+      "link": "https://variety.com/2026/music/columns/taylor-swift-grammy-chances-i-knew-it-i-knew-you-fate-ophelia-1236849929/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "There are two points of view you could take on Taylor Swift and her Grammys history: (a) Swift has been a Grammys hoarder. (b) Swift has gotten robbed by the Recording Academy regularly. Which of these contradictory statements is true?",
+      "published": "2026-09-09T19:04:05+00:00",
+      "fetched": "2026-09-09T20:06:13.081454+00:00"
+    },
+    {
+      "id": "65df58d6810e5f9a",
+      "title": "The Best Tech at IFA 2026: From 4K Projectors and Wearables to Headphones and TV Smart Lighting",
+      "link": "https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "While CES is the biggest tech industry showcase in the United States, IFA is the largest consumer electronics trade show in Europe. For more than 100 years, some of the best and biggest communication and tech companies from around the world have gathered in the heart of Berlin, Germany at the Messe Berlin exhibition grounds, [ ]",
+      "published": "2026-09-09T19:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.081501+00:00"
+    },
+    {
+      "id": "98e1ad28ce67c9d7",
+      "title": "Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre’s Starry 2027 Slate",
+      "link": "https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "London s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebecca Frecknall s staging of Arthur Miller s [ ]",
+      "published": "2026-09-09T19:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.081551+00:00"
+    },
+    {
+      "id": "dab83807b4d8fa13",
+      "title": "Playoff State of Mind: Yankees Tap Billy Joel for Merch Collection, Just In Time for the Postseason",
+      "link": "https://variety.com/2026/shopping/news/billy-joel-new-york-yankees-sportiqe-merch-collection-2026-1236856062/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The New York Yankees are heading towards another (likely) postseason run and the team has tapped one of New York s most famous faces (and voices) to help root them on. Athleticwear brand Sportiqe has released a Billy Joel x New York Yankees collection, that pairs the brand s T-shirts, sweatshirts and hoodies with Joel s lyrics and [ ]",
+      "published": "2026-09-09T18:55:18+00:00",
+      "fetched": "2026-09-09T20:06:13.081595+00:00"
+    },
+    {
+      "id": "a76060684b93e85c",
+      "title": "Amber Mark’s Road to Lollapalooza",
+      "link": "https://www.rollingstone.com/music/music-news/amber-marks-road-lollapalooza-1235617552/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "At one of the largest music festivals in The US, it would seem difficult to create a sense of intimacy amidst such a massive crowd, yet somehow, Amber Mark’s smooth, sultry vocals, strong connection to her fans and undeniable stage presence did just that at Lollapalooza 2026. Her set was a shining example of the [ ]",
+      "published": "2026-09-09T18:22:06+00:00",
+      "fetched": "2026-09-09T20:06:13.344182+00:00"
+    },
+    {
+      "id": "ddedee2ae0e36b21",
+      "title": "‘RuPaul’s Drag Race UK: All Stars’ Set to Premiere on WOW Presents Plus (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/global/rupauls-drag-race-uk-all-stars-wow-presents-plus-2027-1236854337/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "RuPaul’s Drag Race UK is moving from the BBC and headed to World of Wonder s streaming platform WOW Presents Plus. The news comes after The Sun reported that the show would be leaving the BBC as part of its cuts. However, Variety can confirm that in Fall 2027, the franchise will return with the first [ ]",
+      "published": "2026-09-09T18:13:45+00:00",
+      "fetched": "2026-09-09T20:06:13.081648+00:00"
+    },
+    {
+      "id": "dc4f3ba95b6fbf05",
+      "title": "Newly Discovered Plant-Eating Insects Named After Taylor Swift",
+      "link": "https://variety.com/2026/music/news/taylor-swift-plant-eating-insects-names-1236856051/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift, the award-winning billionaire singer and songwriter, is getting a new honor: The megastar is the namesake of several recently discovered species of plant-feeding insects from Australia. Researchers at the University of California, Riverside have named the new species of insect after Swift. A paper describing the 12 new species was published in the [ ]",
+      "published": "2026-09-09T18:09:49+00:00",
+      "fetched": "2026-09-09T20:06:13.081693+00:00"
+    },
+    {
+      "id": "047e7dc40eb848d5",
+      "title": "Fall TV Preview: 55 Most Anticipated New and Returning Shows of 2026",
+      "link": "https://variety.com/lists/fall-tv-shows-2026-preview/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Yes, peak TV is over — but we challenge you even to begin watching all the great shows that will premiere in the coming weeks, or even catch up with the new good ones that came out this summer. Are you all caught up on Furious on Hulu and Sterling Point on Prime Video and HBO s [ ]",
+      "published": "2026-09-09T18:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.081741+00:00"
+    },
+    {
+      "id": "cbeb18670f204b0b",
+      "title": "Jaafar Jackson, Inde Navarrette and Ray Nicholson Among Variety’s 10 Actors to Watch for 2026",
+      "link": "https://variety.com/2026/film/awards/variety-10-actors-to-watch-2026-announcement-1236848865/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety has unveiled its 2026 class of 10 Actors to Watch. Since 1998, the franchise has singled out breakout performers on the cusp of the industry s front ranks and the track record speaks for itself. Past honorees include more than 35 Oscar winners and nominees, among them Mahershala Ali, Timothée Chalamet and Brie Larson.",
+      "published": "2026-09-09T18:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.081791+00:00"
+    },
+    {
+      "id": "d3d2025316708bb5",
+      "title": "‘SNL’ Season 52 Lineup Recruits Katseye, Turnstile, Jalen Brunson, Inde Navarrette",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-season-52-katseye-turnstile-dakota-johnson-1235623765/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The series returns on Sept. 26 with Brunson and Kasteye, followed by appearances from Dakota Johnson, Shane Gillis, Rosalía, and Gracie Abrams",
+      "published": "2026-09-09T17:58:54+00:00",
+      "fetched": "2026-09-09T20:06:13.344217+00:00"
+    },
+    {
+      "id": "a1de0f933b2c67d8",
+      "title": "Bob Weir Was Working on ‘Psychedelic Rock Opera’ About His Life",
+      "link": "https://www.rollingstone.com/music/music-country/bob-weir-rock-opera-about-his-life-aaron-raitiere-1235623672/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Nashville songwriter Aaron Raitiere, who was collaborating with the Grateful Dead co-founder on the project, says they had 17 songs in progress",
+      "published": "2026-09-09T17:19:16+00:00",
+      "fetched": "2026-09-09T20:06:13.344248+00:00"
+    },
+    {
+      "id": "1ad501b3925ec7dc",
+      "title": "Nirvana to Receive Video Vanguard Award at VMAs",
+      "link": "https://www.rollingstone.com/music/music-news/nirvana-mtv-vmas-video-vanguard-award-1235623655/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "MTV made announcement on anniversary of trio’s censor-baiting performance of “Lithium” at the 1992 VMAs",
+      "published": "2026-09-09T17:08:20+00:00",
+      "fetched": "2026-09-09T20:06:13.344275+00:00"
+    },
+    {
+      "id": "bbb87ffc9925f265",
+      "title": "Hear Dolly Parton’s First Posthumous Song — From a New Stanley Brothers Tribute Album",
+      "link": "https://www.rollingstone.com/music/music-news/dolly-parton-posthumous-song-stanley-brothers-tribute-1235623533/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The all-star tribute to the Stanleys also features Willie Nelson, Sierra Ferrell, Jamey Johnson, Dierks Bentley, and many more",
+      "published": "2026-09-09T17:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.344305+00:00"
+    },
+    {
+      "id": "e06bc8c2a4d7ed30",
+      "title": "Thirsty for Role Model? The Singer Is Here to Hydrate You With a New Drinkware Line",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-role-model-hydro-flask-drinkware-collection-online-2026-1235623405/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "In partnership with Hydro Flask and UMG, this special drop is inspired by his recent album, Chuck Timely the Hourglass",
+      "published": "2026-09-09T16:00:00+00:00",
+      "fetched": "2026-09-09T20:06:13.344334+00:00"
+    },
+    {
+      "id": "527a3d3b149811e5",
+      "title": "Bootsy Collins Is About to Reveal All in Upcoming Memoir",
+      "link": "https://www.rollingstone.com/music/music-news/bootsy-collins-funked-around-found-out-memoir-autobiography-1235623095/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“If I’m lyin’, I’m dyin’,” bassist says of new book Funked Around, Found Out out next spring",
+      "published": "2026-09-09T15:59:24+00:00",
+      "fetched": "2026-09-09T20:06:13.344364+00:00"
+    },
+    {
+      "id": "4ad678ea81d0580e",
+      "title": "‘Wicked’ Will Get the Orchestra Treatment on Live-to-Film Concert Tour",
+      "link": "https://www.rollingstone.com/music/music-news/wicked-movies-tour-orchestra-concert-screenings-1235623554/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "For now, the scheduled events (which don’t include the film cast) account for screenings of Wicked: Part One only, while separate showings will be hosted for Wicked: For Good",
+      "published": "2026-09-09T15:54:53+00:00",
+      "fetched": "2026-09-09T20:06:13.344400+00:00"
+    },
     {
       "id": "5f01946417f84bd6",
       "title": "Beehiiv Expands Roster of Creators With Dana Harris-Bridson, David Covucci and Peter Greenberg",
@@ -1302,206 +1502,6 @@
       "summary": "It s been almost 240 years since France started its very first Revolution. But fear not, French TV producers still have what it takes to bring yet another one to modern fiction, blending hints of past, present, and future. From Toronto-bound Alice recently boarded by SND to France Télévisions genre-bending thriller Swapped and Wild Bunch s latest [ ]",
       "published": "2026-09-07T10:00:00+00:00",
       "fetched": "2026-09-07T10:49:45.048254+00:00"
-    },
-    {
-      "id": "816e9d1d8ac72da9",
-      "title": "Screen Industries Adopt Five Thematic Declarations at Lumiere Summit, Setting Terms on AI, Piracy, Gender, Education and the Environment",
-      "link": "https://variety.com/2026/film/global/lumiere-summit-five-declarations-ai-piracy-gender-education-environment-1236853918/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Countries, screen industry bodies and rights organizations adopted five thematic declarations at the Lumière Summit on Monday at the Fondation Maeght in Saint-Paul-de-Vence, France, establishing shared frameworks across artificial intelligence, piracy, image education, gender equality and environmental sustainability. Among the signatories are France, the Republic of Korea, SACEM — the Société des auteurs, compositeurs et [ ]",
-      "published": "2026-09-07T09:45:24+00:00",
-      "fetched": "2026-09-07T10:49:45.048311+00:00"
-    },
-    {
-      "id": "187341e79810bdaf",
-      "title": "France Launches Global Initiatives to Support Independent Cinema and Establish Framework for Alliance of State Film Commissions: Lumiere Summit",
-      "link": "https://variety.com/2026/film/news/iris-independent-film-france-macron-lumiere-summit-1236853718/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Top filmmakers including Richard Linklater, Rebecca Zlotkowski, Jafar Panahi, Jane Campion, Pedro Almodóvar, Wim Wenders, Tarik Saleh and Jia Zhang-ke have signed on to take part in the International Resilience Initiative for Independent Screens unveiled Monday during the Lumiere Summit in France. The French government has launched what has been dubbed IRIS as a bid [ ]",
-      "published": "2026-09-07T09:05:00+00:00",
-      "fetched": "2026-09-07T10:49:45.048351+00:00"
-    },
-    {
-      "id": "d19be8c3e75da168",
-      "title": "Emmanuel Macron Calls for Global Initiatives to Protect Film and Warns About Dangers of Social Media as Lumiere Summit Opens",
-      "link": "https://variety.com/2026/film/news/emmanuel-macron-social-media-ai-lumiere-summit-1236853824/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Emmanuel Macron called for global initiatives to protect the future of cinema and he sounded the alarm about the threats to artistic expression posed by the endless scroll of social media platforms during his opening speech at the Lumiere Summit on Monday. The French president delivered heartfelt remarks that stressed the urgency of the need [ ]",
-      "published": "2026-09-07T09:04:43+00:00",
-      "fetched": "2026-09-07T10:49:45.048384+00:00"
-    },
-    {
-      "id": "a78a3f4f446657ec",
-      "title": "France TV Distribution Unveils Female-Led Actioners in Le Havre Lineup",
-      "link": "https://variety.com/2026/tv/global/france-tv-distribution-le-havre-unifrance-rendez-vous-1236851929/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "France TV Distribution is presenting four new TV movies, including two female-fronted action thrillers, a light crime drama and a dramedy, at this year’s Unifrance Rendez-Vous in Le Havre, which runs Sept. 7-10. The sales company’s muscular lineup already includes the historical drama “Swapped,” about a young wet nurse in 19th-century Paris forced to secretly [ ]",
-      "published": "2026-09-07T09:00:00+00:00",
-      "fetched": "2026-09-07T10:49:45.048420+00:00"
-    },
-    {
-      "id": "7222bb86bb4eead0",
-      "title": "France and Korea Launch $1.16 Billion Screen Industry Financing Partnership at Lumiere Summit",
-      "link": "https://variety.com/2026/film/news/france-korea-billion-screen-industry-partnership-lumiere-summit-1236853711/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "France and Korea have each pledged €500 million ($581 million) to a joint initiative designed to strengthen the global screen industries, with the first funding instruments deploying from 2027 through 2031. The Lumière Partnership, unveiled Monday at the Lumière Summit in Saint-Paul-de-Vence, is open to additional countries and will prioritize companies with the ambition and [ ]",
-      "published": "2026-09-07T09:00:00+00:00",
-      "fetched": "2026-09-07T10:49:45.048457+00:00"
-    },
-    {
-      "id": "353bca498a8d0474",
-      "title": "Toho Europe, Indonesia Film Fund, Cinepolis Pact Among Deals Unveiled at Lumiere Summit",
-      "link": "https://variety.com/2026/film/news/toho-europe-indonesia-film-fund-cinepolis-pact-lumiere-summit-1236853717/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Monday s Lumière Summit in Saint-Paul-de-Vence generated a cluster of industry announcements alongside its headline declarations, with deals spanning co-production financing, distribution, exhibition and education. Toho Europe, the regional arm of Tokyo-based entertainment group Toho Co., Ltd. – founded in 1932 and best known internationally for the Godzilla franchise – announced a new branch in France.",
-      "published": "2026-09-07T09:00:00+00:00",
-      "fetched": "2026-09-07T10:49:45.048498+00:00"
-    },
-    {
-      "id": "8fff8a6a0102e4da",
-      "title": "Heritage Foundation ALIPH Targets Ukraine, Syria and Indonesia in New Film Rescue Program",
-      "link": "https://variety.com/2026/film/news/aliph-film-heritage-program-ukraine-syria-indonesia-1236853842/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With only an estimated 20% of the world s film heritage safeguarded, the International Alliance for the Protection of Heritage is making its first move into cinema. Announced Monday at the Lumière Summit in Saint-Paul-de-Vence, France, ALIPH s new Program for the Safeguarding of Cinematographic and Audiovisual Heritage at Risk will bring together emergency intervention, preservation, physical [ ]",
-      "published": "2026-09-07T09:00:00+00:00",
-      "fetched": "2026-09-07T10:49:45.048535+00:00"
-    },
-    {
-      "id": "645351cfa125309e",
-      "title": "Regal Cinemas, IFTA, CNC Launch Pilot to Test Whether Smarter Programming Can Reverse Falling Theater Admissions",
-      "link": "https://variety.com/2026/film/news/regal-cinemas-ifta-cnc-pilot-reverse-falling-theater-admissions-1236853853/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Regal Cinemas and the Independent Film Television Alliance (IFTA), together with the CNC, launched the Future of Distribution pilot on Monday at the Lumière Summit in Saint-Paul-de-Vence, France, a new international initiative that will hand under-used cinema screens to a neutral programmer in a bid to reverse falling theater attendance. The pilot gets [ ]",
-      "published": "2026-09-07T09:00:00+00:00",
-      "fetched": "2026-09-07T10:49:45.048570+00:00"
-    },
-    {
-      "id": "0e387b7454c70367",
-      "title": "Watch Carrie Underwood Cover Limp Bizkit, Papa Roach, Linkin Park at Velocity Festival",
-      "link": "https://www.rollingstone.com/music/music-news/carrie-underwood-limp-bizkit-papa-roach-covers-live-1235622371/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The country singer performed a series of nu-metal covers at the Iowa music festival on Saturday",
-      "published": "2026-09-07T07:37:04+00:00",
-      "fetched": "2026-09-07T10:49:45.166115+00:00"
-    },
-    {
-      "id": "103e9378cd9df750",
-      "title": "Rob Reiner Wins Posthumous Emmy for ‘The Bear’ Guest Role",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-posthumous-emmy-the-bear-guest-star-1235622367/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The filmmaker and actor won Guest Actor in a Comedy Series during the Creative Arts Emmys ceremony on Sunday night",
-      "published": "2026-09-07T07:00:31+00:00",
-      "fetched": "2026-09-07T10:49:45.166144+00:00"
-    },
-    {
-      "id": "37724b02f5a35810",
-      "title": "Nathan Fielder Focuses on Elizabeth Holmes in ‘You Can See Everything’ Documentary Trailer",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/nathan-fielder-elizabeth-holmes-documentary-trailer-a24-1235622362/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The film, co-directed by Lance Oppenheim, premiered at the Telluride Film Festival",
-      "published": "2026-09-07T06:29:05+00:00",
-      "fetched": "2026-09-07T10:49:45.166166+00:00"
-    },
-    {
-      "id": "e0c26224c6f3a04e",
-      "title": "Nathan Fielder Drops Weird Trailer for Secret Elizabeth Holmes Doc ‘You Can See Everything’",
-      "link": "https://variety.com/2026/film/news/nathan-fielder-secret-elizabeth-holmes-doc-you-can-see-everything-a24-telluride-1236853584/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "For years, it’s been rumored that Nathan Fielder had been interviewing Theranos founder (and certified huckster) Elizabeth Holmes — including visiting her in prison — for a top-secret documentary. And on Sunday night, that documentary premiered at the Telluride Film Festival. Titled “You Can See Everything,” the film is billed as follows: Thirty-four days before [ ]",
-      "published": "2026-09-07T01:11:45+00:00",
-      "fetched": "2026-09-07T01:26:50.251772+00:00"
-    },
-    {
-      "id": "18b6c8a8b89623d9",
-      "title": "Tokyo Film Festival Adds Nippon Cinema Now Competition, Crosscut Asia+ Section, New Award Honoring Women in Film",
-      "link": "https://variety.com/2026/film/festivals/tokyo-film-festival-new-competition-award-honoring-women-1236852405/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Tokyo International Film Festival will introduce two new competitive awards, a Southeast Asia-focused section and a prize honoring women in cinema. The Nippon Cinema Now section will award a Best Film prize and a Special Jury Prize this year, with a jury combining Japanese and international industry figures. TIFF said the awards are meant [ ]",
-      "published": "2026-09-07T00:00:00+00:00",
-      "fetched": "2026-09-07T01:26:50.251828+00:00"
-    },
-    {
-      "id": "6dcbc24e9150f04c",
-      "title": "Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Anchors Wave of Sales Deals for Finecut Ahead of Toronto",
-      "link": "https://variety.com/2026/film/news/hong-sangsoonowhere-to-lay-my-eyes-finecut-sales-1236853161/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Korean sales house Finecut has closed a string of international deals for three festival titles, including Hong Sangsoo s Locarno prizewinner Nowhere to Lay My Eyes, ahead of the Toronto Film Festival. The film marks Hong s 35th feature. It competed in the Concorso Internazionale at the 79th Locarno Film Festival and picked up three awards: the [ ]",
-      "published": "2026-09-07T00:00:00+00:00",
-      "fetched": "2026-09-07T01:26:50.251880+00:00"
-    },
-    {
-      "id": "dcced0555dcf2121",
-      "title": "Creative Arts Emmy Awards Night 2: Winners List (Updating Live)",
-      "link": "https://variety.com/2026/tv/news/emmy-awards-winners-list-night-two-creative-arts-1236853165/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 78th Emmys Night 2 was set to kick off on Sunday night with an opening monologue by The Pitt star Noah Wyle, whose series is this year s most nominated — at 25 total. This is a very special industry and I am so blessed to be a part of it, he said. Awards and [ ]",
-      "published": "2026-09-06T23:51:05+00:00",
-      "fetched": "2026-09-07T01:26:50.251929+00:00"
-    },
-    {
-      "id": "de80567dd20d7647",
-      "title": "Andy ‘The Butcher’ Williams, Musician and Wrestler, Dies After Match",
-      "link": "https://variety.com/2026/music/news/andy-butcher-williams-dead-guitar-wrestler-1236853498/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Andy The Butcher Williams, a professional wrestler who played guitar with the bands Every Time I Die and Atomic Rule, died Saturday night after collapsing at the end of his match in Millvale, Pennsylvania. He was 48. Williams was rushed to the hospital but did not survive.",
-      "published": "2026-09-06T22:25:32+00:00",
-      "fetched": "2026-09-07T01:26:50.251975+00:00"
-    },
-    {
-      "id": "a754f74fde5f1bfd",
-      "title": "Netflix Bets ‘Ink’ and Its Timely Rupert Murdoch Story Can Win Oscars for Danny Boyle and Guy Pearce",
-      "link": "https://variety.com/2026/film/awards/danny-boyle-ink-oscars-guy-pearce-telluride-netflix-1236847562/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Netflix wants the “ink” to dry on its Oscar prospects. Danny Boyle made his first trip to Venice with “Ink,” his adaptation of James Graham s stage sensation, which opened the 83rd edition in competition before moving through Telluride and Toronto, with the streamer giving it a December theatrical release and a January streaming date. The [ ]",
-      "published": "2026-09-06T21:45:00+00:00",
-      "fetched": "2026-09-07T01:26:50.252027+00:00"
-    },
-    {
-      "id": "204c64a2734939b0",
-      "title": "John Turturro Has Waited 40 Years for an Oscar Nomination. ‘The Only Living Pickpocket in New York’ Makes the Case",
-      "link": "https://variety.com/2026/film/awards/john-turturro-oscars-only-living-pickpocket-telluride-1236847544/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Forty years into a career that has made him one of American cinema’s most recognizable character actors, John Turturro has a Cannes best actor prize, an enviable résumé and exactly zero Oscar mornings when his name was read aloud with the words “and the nominees are.” Sony Pictures Classics is determined to end the drought [ ]",
-      "published": "2026-09-06T21:40:00+00:00",
-      "fetched": "2026-09-07T01:26:50.252078+00:00"
-    },
-    {
-      "id": "6104b2a819725917",
-      "title": "How to Watch ‘The Real Housewives of London’ Season 2 Online In the U.S.",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-the-real-housewives-of-london-season-2-online-in-us-1235621033/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Get your caviar and diamonds: It’s time to go back to Paddington",
-      "published": "2026-09-06T21:39:14+00:00",
-      "fetched": "2026-09-07T01:26:50.522888+00:00"
-    },
-    {
-      "id": "d3c2216296645a4f",
-      "title": "‘B’Day’ at 20: Behind the Album That Helped Beyoncé Define Her Career",
-      "link": "https://www.rollingstone.com/music/music-features/beyonce-bday-20-anniversary-legacy-1235622160/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Hundreds of people packed into sweaty clubs 20 years after its release date to celebrate the legacy of an album meant to be played as loud as possible for as long as possible",
-      "published": "2026-09-06T21:15:02+00:00",
-      "fetched": "2026-09-07T01:26:50.522929+00:00"
     }
   ]
 }
