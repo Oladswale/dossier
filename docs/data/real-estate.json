@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-08T20:22:34.585262+00:00",
+  "updated": "2026-09-09T01:43:56.162384+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9fc42b1bc6fcfd90",
+      "title": "Lowe’s, GM, and Nvidia Launch Coalition To Train Skilled Workers Amid Labor Shortage in Trades",
+      "link": "https://www.realtor.com/news/trends/lowes-nvidia-launch-coalition-train-skilled-tradespeople/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "More than 75 organizations have come together to address a major issue: a national shortage of skilled tradespeople.",
+      "published": "2026-09-08T21:41:29+00:00",
+      "fetched": "2026-09-09T01:43:56.161750+00:00"
+    },
+    {
+      "id": "dce8dc6c3c31bc1a",
+      "title": "Lori Loughlin Files for Divorce From Mossimo Giannulli—Months After Offloading Their $17 Million L.A. Mansion",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/lori-loughlin-files-for-divorce-mossimo-giannulli-after-selling-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The couple revealed that they had separated and were living apart in 2025, weeks before selling their lavish dwelling.",
+      "published": "2026-09-08T21:06:40+00:00",
+      "fetched": "2026-09-09T01:43:56.161790+00:00"
+    },
+    {
+      "id": "d3a06d0097b5eaea",
+      "title": "Abandoned Property for Sale: How To Buy an Abandoned Home",
+      "link": "https://www.realtor.com/advice/buy/find-buy-abandoned-properties/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Buying an abandoned property can be a bargain for homebuyers. So, if you're looking for abandoned homes for sale, where can you find them?",
+      "published": "2026-09-08T20:23:00+00:00",
+      "fetched": "2026-09-09T01:43:56.161822+00:00"
+    },
     {
       "id": "6a8c584df808336e",
       "title": "Husband and Wife Get Prison for Elaborate Scheme To Sell Homes They Didn’t Own",
@@ -1472,36 +1502,6 @@
       "summary": "The reality TV veteran has turned her sprawling Tennessee estate into a true retreat for both herself and her children.",
       "published": "2026-08-28T18:08:44+00:00",
       "fetched": "2026-08-29T01:12:52.519125+00:00"
-    },
-    {
-      "id": "8284969c76d9aaaa",
-      "title": "Tracking Tropical Storm Dolly: Where It Will Hit and Which Homeowners Should Prepare",
-      "link": "https://www.realtor.com/news/trends/tracking-tropical-storm-dolly-homeowners-prep/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tropical Storm Dolly has formed over the South-Central Atlantic, but its intensity and when it will hit U.S. homeowners seems clear.",
-      "published": "2026-08-28T17:28:19+00:00",
-      "fetched": "2026-08-28T17:45:50.862838+00:00"
-    },
-    {
-      "id": "ab09c5ea472cb238",
-      "title": "Mortgages Now Take 36% of a Typical Family’s Income. Here’s How Financial Experts Say To Prepare",
-      "link": "https://www.realtor.com/news/trends/mortgage-percentage-income-financial-expert-review/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The NAHB/Wells Fargo Cost of Housing Index puts the affordability crisis in context: how much of your income you need for a house now.",
-      "published": "2026-08-28T17:26:40+00:00",
-      "fetched": "2026-08-28T17:45:50.862883+00:00"
-    },
-    {
-      "id": "48d91348414e68ff",
-      "title": "How Nathan Nicholson Cashed Out His 401(k) to Build 23 Rentals",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-nathan-nicholson",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Nathan Nicholson Location Louisville, Kentucky Occupation Full-time sales professional and real estate investor Assets 23 single-family rentals, 11 paid off, $311,000 in annual rent, $112,000 in true annual net [ ]",
-      "published": "2026-08-28T17:06:12+00:00",
-      "fetched": "2026-08-28T17:45:50.403105+00:00"
     }
   ]
 }
