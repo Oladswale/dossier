@@ -1,8 +1,188 @@
 {
   "category": "finance",
-  "updated": "2026-09-10T15:17:27.341652+00:00",
+  "updated": "2026-09-10T20:08:24.418526+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fc7013a0f69dcfc7",
+      "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I specifically rejected Contractor A because of his reputation.”",
+      "published": "2026-09-10T20:00:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878143+00:00"
+    },
+    {
+      "id": "2988ca019b5341b4",
+      "title": "It’s not just Hormuz. Another war is providing fresh price shocks to fuel and food.",
+      "link": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Middle East conflict overshadows outages in Russia and a ‘massive impact’ on diesel supplies",
+      "published": "2026-09-10T19:38:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878181+00:00"
+    },
+    {
+      "id": "080cf6ed83fe0130",
+      "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+      "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Estate-planning crises usually come down to small oversights.",
+      "published": "2026-09-10T19:21:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878205+00:00"
+    },
+    {
+      "id": "4bb15352f1ebe9d1",
+      "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
+      "link": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A former Anthropic employee said he was quitting this week and that AI companies are “gambling with our lives.”",
+      "published": "2026-09-10T19:07:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878229+00:00"
+    },
+    {
+      "id": "08e4ea88b0525296",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "published": "2026-09-10T19:02:58+00:00",
+      "fetched": "2026-09-10T20:08:22.040602+00:00"
+    },
+    {
+      "id": "ffa6031f47c725ed",
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "published": "2026-09-10T19:00:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878252+00:00"
+    },
+    {
+      "id": "8aee83e936e4df94",
+      "title": "FG launches zero-rated education platforms initiative to expand digital learning",
+      "link": "https://nairametrics.com/2026/09/10/fg-launches-zero-rated-education-platforms-initiative-to-expand-digital-learning/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has launched the Zero-Rated Access to Education Platforms initiative to expand access to digital learning resources for students across Nigeria. The post FG launches zero-rated education platforms initiative to expand digital learning appeared first on Nairametrics .",
+      "published": "2026-09-10T18:37:08+00:00",
+      "fetched": "2026-09-10T20:08:22.947543+00:00"
+    },
+    {
+      "id": "5c4c56f987c6a6b1",
+      "title": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
+      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil prices were at their highest levels since late May, while rising wholesale inflation data sent benchmark 10-year yields closer to the key 5% level.",
+      "published": "2026-09-10T18:37:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878275+00:00"
+    },
+    {
+      "id": "585c4b4395863b15",
+      "title": "The 30-year mortgage rate just crossed 7% for the first time in over a year",
+      "link": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Mortgage rates reached a new high in 2026, making it even more expensive to buy a home with a loan today.",
+      "published": "2026-09-10T18:18:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878295+00:00"
+    },
+    {
+      "id": "1ab3d587df06720b",
+      "title": "Elon Musk is pulling in even more cash. Meet his $23 billion underground venture.",
+      "link": "https://www.marketwatch.com/story/elon-musk-is-pulling-in-even-more-cash-meet-his-23-billion-underground-venture-b7e1a24f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Boring Company, a tunneling startup that works closely with Tesla, just raised $3 billion through a private funding round.",
+      "published": "2026-09-10T18:16:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878314+00:00"
+    },
+    {
+      "id": "dcd45cfe6c4e7f09",
+      "title": "Airlines were servicing TSC debts before union action – Prof. Obiora Okonkwo",
+      "link": "https://nairametrics.com/2026/09/10/airlines-were-servicing-tsc-debts-before-union-action-prof-obiora-okonkwo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Airlines were servicing outstanding Ticket Sales Charge (TSC) debts under repayment plans agreed with the Nigeria Civil Aviation Authority (NCAA) before union action disrupted the process, United Nigeria Airlines Executive Chairman, Prof. Obiora Okonkwo, has said. The post Airlines were servicing TSC debts before union action – Prof.",
+      "published": "2026-09-10T18:11:11+00:00",
+      "fetched": "2026-09-10T20:08:22.947597+00:00"
+    },
+    {
+      "id": "73e97e53b085e018",
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+      "published": "2026-09-10T18:00:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878337+00:00"
+    },
+    {
+      "id": "b3042264bf9584f0",
+      "title": "The future of retirement: Work until you die",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+      "published": "2026-09-10T17:41:00+00:00",
+      "fetched": "2026-09-10T20:08:21.878356+00:00"
+    },
+    {
+      "id": "bc03d0abc22fcb47",
+      "title": "MFB acquisitions could leave fintechs with costly regulatory baggage—Sycamore founder",
+      "link": "https://nairametrics.com/2026/09/10/mfb-acquisitions-could-leave-fintechs-with-costly-regulatory-baggage-sycamore-founder/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Fintech companies looking to expand into deposit-taking through microfinance bank acquisitions need to look beyond the licence and commercial opportunity, as the transaction can also bring a history of regulatory, governance and operational obligations. The post MFB acquisitions could leave fintechs with costly regulatory baggage—Sycamore founder appeared first on Nairametrics .",
+      "published": "2026-09-10T17:20:43+00:00",
+      "fetched": "2026-09-10T20:08:22.947638+00:00"
+    },
+    {
+      "id": "06bbf462a7d787d6",
+      "title": "After 3,000 catfish died overnight, she turned to AI to protect her mother’s farm",
+      "link": "https://techcabal.com/2026/09/10/after-3000-catfish-died-overnight-she-turned-to-ai-to-protect-her-mothers-farm/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Ukachi Benita built Aquamanne, a fish-pond monitoring tool designed to track water conditions and alert farmers when something changed.",
+      "published": "2026-09-10T16:47:48+00:00",
+      "fetched": "2026-09-10T20:08:24.418335+00:00"
+    },
+    {
+      "id": "134e2ada20ebc550",
+      "title": "Keyamo pushes EgyptAir to replace ageing aircraft on Nigerian routes",
+      "link": "https://nairametrics.com/2026/09/10/keyamo-pushes-egyptair-to-replace-ageing-aircraft-on-nigerian-routes/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Minister of Aviation and Aerospace Development, Festus Keyamo, has urged EgyptAir to replace its ageing aircraft serving Nigerian routes with newer-generation aircraft. The post Keyamo pushes EgyptAir to replace ageing aircraft on Nigerian routes appeared first on Nairametrics .",
+      "published": "2026-09-10T16:45:19+00:00",
+      "fetched": "2026-09-10T20:08:22.947670+00:00"
+    },
+    {
+      "id": "69f434e1836cd300",
+      "title": "Nigeria’s top 10 foreign trade partners in Q2 2026",
+      "link": "https://nairametrics.com/2026/09/10/nigerias-top-10-foreign-trade-partners-in-q2-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s foreign trade landscape recorded notable shifts in the second quarter of 2026, with China retaining its long-held position as the country’s largest trading partner, while regional trade within West Africa strengthened significantly, propelling ECOWAS into the third spot among Nigeria’s biggest trading partners. The ranking combines individual countries with the ECOWAS bloc. The post Nigeria’s top 10 foreign trade partners in Q2 2026 appeared first on Nairametrics .",
+      "published": "2026-09-10T15:58:22+00:00",
+      "fetched": "2026-09-10T20:08:22.947716+00:00"
+    },
+    {
+      "id": "02e74482b7a9ee28",
+      "title": "NAICOM fires back at NICON, Nigeria Re over N100 billion fraud claims",
+      "link": "https://nairametrics.com/2026/09/10/naicom-fires-back-at-nicon-nigeria-re-over-n100-billion-fraud-claims/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Insurance Commission (NAICOM) has accused the promoters of NICON Insurance Plc and Nigeria Reinsurance Corporation of sponsoring what it described as a false and malicious publication alleging fraud in the recently concluded insurance industry recapitalisation exercise. The post NAICOM fires back at NICON, Nigeria Re over N100 billion fraud claims appeared first on Nairametrics .",
+      "published": "2026-09-10T15:55:15+00:00",
+      "fetched": "2026-09-10T20:08:22.947752+00:00"
+    },
     {
       "id": "ae549659b65d0026",
       "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
@@ -1322,186 +1502,6 @@
       "summary": "In a profoundly incisive review of Dr Eghosa Imasuen s new narrative non-fiction work, THE CHALLENGERS: The Disruptive Nigerian Entrepreneurs Creating a Billion-Naira Company, veteran media scholar and policy strategist Dr Richard Ikiebe has issued a sobering verdict on Nigeria s corporate landscape: the nation does not suffer from a lack of personal brilliance, but rather a [ ] The post Trust capital over venture capital: Dr Richard Ikiebe’s review hails VFD founders in the challengers appeared first on Nairametrics .",
       "published": "2026-09-08T16:02:19+00:00",
       "fetched": "2026-09-08T20:22:21.185067+00:00"
-    },
-    {
-      "id": "bccf786f9e3f8237",
-      "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
-      "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The chip maker is reportedly set to further lift prices on its PC chips as costs rise across the supply chain.",
-      "published": "2026-09-08T15:20:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569577+00:00"
-    },
-    {
-      "id": "46a7131507a2004f",
-      "title": "FG automates academic certificate verification, authentication process",
-      "link": "https://nairametrics.com/2026/09/08/fg-automates-academic-certificate-verification-authentication-process/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has fully automated the evaluation and authentication of academic certificates, eliminating the need for applicants to visit the Federal Ministry of Education physically. The post FG automates academic certificate verification, authentication process appeared first on Nairametrics .",
-      "published": "2026-09-08T15:02:21+00:00",
-      "fetched": "2026-09-08T15:26:49.177246+00:00"
-    },
-    {
-      "id": "ea338c282d0004a0",
-      "title": "I have two sons. Should I allow one son to build a $400,000 house on my property? I’m not permitted to subdivide the land.",
-      "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“The cost of building the house is expected to be about 30% of the property’s current value.”",
-      "published": "2026-09-08T15:00:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569629+00:00"
-    },
-    {
-      "id": "15a6965d245b205b",
-      "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
-      "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“It looks like OpenAI is turning things around,” and that’s seen as good news for Oracle, which has a lot riding on the ChatGPT creator’s success.",
-      "published": "2026-09-08T14:53:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569668+00:00"
-    },
-    {
-      "id": "e2eeea9bb639b647",
-      "title": "Novartis’s failed trial for cholesterol drug leads to broad biopharma stock selloff",
-      "link": "https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Along with several other drugmakers, Novartis has bet that lowering Lp(a) will cut the risk of sometimes fatal cardiovascular events.",
-      "published": "2026-09-08T14:37:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569700+00:00"
-    },
-    {
-      "id": "ccd0e034f330211a",
-      "title": "WHO warns DR Congo needs 5,000 additional health workers to fight Ebola",
-      "link": "https://nairametrics.com/2026/09/08/who-warns-congo-needs-5000-additional-health-workers-to-fight-ebola/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The World Health organization(WHO) has said that the Democratic Republic of Congo’s Ebola outbreak needs about 5000 trained health workers, international organizations or funding to keep pace with the virus as it spreads across the country. The post WHO warns DR Congo needs 5,000 additional health workers to fight Ebola appeared first on Nairametrics .",
-      "published": "2026-09-08T14:23:12+00:00",
-      "fetched": "2026-09-08T15:26:49.177309+00:00"
-    },
-    {
-      "id": "2b17775787068aa2",
-      "title": "The missing piece of your investment journey: Discovering your risk personality – First Asset Management",
-      "link": "https://nairametrics.com/2026/09/08/the-missing-piece-of-your-investment-journey-discovering-your-risk-personality-first-asset-management/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Imagine opening your investment app after a particularly volatile week in the market. You discover that your portfolio is worth less than it was just a few days ago. What is your first reaction?",
-      "published": "2026-09-08T14:15:52+00:00",
-      "fetched": "2026-09-08T15:26:49.177380+00:00"
-    },
-    {
-      "id": "be8a44f7d54a6b5d",
-      "title": "Prenups aren’t just for the rich. Here’s what they can cover.",
-      "link": "https://www.marketwatch.com/story/prenups-arent-just-for-the-rich-heres-what-they-can-cover-ac59f5f4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Plus: Introducing the ‘New American Playbook’",
-      "published": "2026-09-08T14:11:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569734+00:00"
-    },
-    {
-      "id": "44537ccf46f7cbe9",
-      "title": "Qualcomm’s stock climbs as Amazon chip deal offers investors much-needed good news",
-      "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Qualcomm shares have missed out on the chip sector’s big rally this year. The company is now working on various chip projects with Amazon.",
-      "published": "2026-09-08T14:10:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569768+00:00"
-    },
-    {
-      "id": "bbcd77215d179c35",
-      "title": "The courage to innovate: BluDive CEO challenges businesses to embrace the future",
-      "link": "https://nairametrics.com/2026/09/08/the-courage-to-innovate-bludive-ceo-challenges-businesses-to-embrace-the-future/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The general expectation from technology leaders is often that they are the first to adopt innovation. But for the most part, they are reluctant to embrace new technology that could affect mission-critical systems. The instinctive caution in adopting new technology can be as strong as the pressure to transform.That tension was palpable at the recently [ ] The post The courage to innovate: BluDive CEO challenges businesses to embrace the future appeared first on Nairametrics .",
-      "published": "2026-09-08T14:05:13+00:00",
-      "fetched": "2026-09-08T15:26:49.177437+00:00"
-    },
-    {
-      "id": "071e86809f22c061",
-      "title": "The traditional paths to building wealth are becoming less accessible for young Americans",
-      "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
-      "published": "2026-09-08T14:00:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569835+00:00"
-    },
-    {
-      "id": "834a71deec6cf73e",
-      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
-      "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Jean Chatzky’s new book lays out several strategies for creating steady retirement income.",
-      "published": "2026-09-08T13:50:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569866+00:00"
-    },
-    {
-      "id": "da94cac90f0d0264",
-      "title": "The investment lessons from the Vanguard 500 Index fund’s 50-year history",
-      "link": "https://www.marketwatch.com/story/the-investment-lessons-from-the-vanguard-500-index-funds-50-year-history-81fd384a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "If you had shifted your entire equity portfolio into the Vanguard 500 Index Fund, and then did nothing else for the next few decades, your performance rank would almost certainly be above the 80th percentile. Where else in life can you perform that well by sitting on your hands?",
-      "published": "2026-09-08T13:45:00+00:00",
-      "fetched": "2026-09-08T15:26:48.569907+00:00"
-    },
-    {
-      "id": "51ab44adc37944d7",
-      "title": "Africa’s last-mile electricity problem cannot be solved by markets alone",
-      "link": "https://techcabal.com/2026/09/08/africa-last-mile-electricity-cannot-be-markets-alone/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Kenya illustrates the problem. Successive governments have spent years extending the national grid, including through the Last Mile Connectivity and rural electrification programmes. But Gitonga points to populations whose lifestyles make it particularly difficult to implement conventional electrical infrastructure.",
-      "published": "2026-09-08T13:42:11+00:00",
-      "fetched": "2026-09-08T15:26:51.128765+00:00"
-    },
-    {
-      "id": "2834206cd4b4f904",
-      "title": "Power Brunch: Nigeria’s data sovereignty push goes beyond local servers",
-      "link": "https://techcabal.com/2026/09/08/localising-nigerias-data-is-easy-building-sovereignty-is-harder/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "With Nigeria’s financial sector facing a January 1, 2027, deadline to comply with the Central Bank of Nigeria’s data-localisation rules, the country’s debate over data sovereignty is moving beyond a simple question of where servers are located.",
-      "published": "2026-09-08T13:38:59+00:00",
-      "fetched": "2026-09-08T15:26:51.128835+00:00"
-    },
-    {
-      "id": "d5feba99e6f728aa",
-      "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
-      "link": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.",
-      "published": "2026-09-08T12:32:19+00:00",
-      "fetched": "2026-09-08T20:22:20.663178+00:00"
-    },
-    {
-      "id": "cc8e37d3e86886f8",
-      "title": "CBN to auction N500 billion in Treasury Bills September 10, lowest offer size of Q3 2026",
-      "link": "https://nairametrics.com/2026/09/08/cbn-to-auction-n500-billion-in-treasury-bills-september-10-lowest-offer-size-of-q3-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN), on behalf of the Debt Management Office (DMO), has issued an Invitation to Tender for Nigerian Treasury Bills (NTB) of 91-day, 182-day and 364-day tenors, totalling N500 billion, to be auctioned by Dutch auction on Wednesday, September 9, 2026. The post CBN to auction N500 billion in Treasury Bills September 10, lowest offer size of Q3 2026 appeared first on Nairametrics .",
-      "published": "2026-09-08T12:28:10+00:00",
-      "fetched": "2026-09-08T15:26:49.177489+00:00"
-    },
-    {
-      "id": "ce888a6b13a0a5b9",
-      "title": "Kenya’s Flowt raises $550,000 as it targets a $1 million loan book",
-      "link": "https://techcabal.com/2026/09/08/flowt-raises-pre-seed-targets-1mn-loan-nook/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The Nairobi-based company uses artificial intelligence (AI) to analyse financial records, including bank and M-Pesa statements and accounting data, to assess small businesses’ creditworthiness. It says that many companies are locked out of traditional lending because banks lack reliable financial history.",
-      "published": "2026-09-08T12:17:42+00:00",
-      "fetched": "2026-09-08T15:26:51.128881+00:00"
     }
   ]
 }

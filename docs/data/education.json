@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-10T15:17:39.803551+00:00",
+  "updated": "2026-09-10T20:08:40.539017+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fb97c0bb18b517ff",
+      "title": "Route 66 Turns 100 This Year: Take a Tour of America’s Most Famous Highway",
+      "link": "https://www.openculture.com/2026/09/route-66-turns-100-this-year-take-a-tour-of-americas-most-famous-highway.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "This past summer, the United States of America celebrated 250 years of independence. But for a great many Americana-lovers around the world, this year also brings another, even more resonant date: the 100th anniversary of the establishment of Route 66. In the months leading up to November 11th, the official birthday of what John Steinbeck [ ]",
+      "published": "2026-09-10T15:35:12+00:00",
+      "fetched": "2026-09-10T20:08:40.538810+00:00"
+    },
     {
       "id": "cf4000484ee80c71",
       "title": "Download Hundreds of Issues of Jugend, Germany’s Pioneering Art Nouveau Magazine (1896–1940)",
@@ -1492,16 +1502,6 @@
       "summary": "A Manhattan without skyscrapers sounds difficult, if not impossible, to imagine today. But such a place really did exist, at least up until the turn of the twentieth century. While the title of the very first skyscraper ever built may go to the Home Insurance Building in Chicago, New York City caught up so aggressively [ ]",
       "published": "2026-08-03T09:00:03+00:00",
       "fetched": "2026-08-03T14:08:34.125958+00:00"
-    },
-    {
-      "id": "db663b20d766199a",
-      "title": "Turning molecules into reliable electronic devices",
-      "link": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.",
-      "published": "2026-08-03T09:00:00+00:00",
-      "fetched": "2026-08-03T14:08:32.927523+00:00"
     }
   ]
 }
