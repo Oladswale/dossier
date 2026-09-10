@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-09T20:06:14.906616+00:00",
+  "updated": "2026-09-10T01:38:50.105504+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d3f95ceac43cf989",
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
+      "published": "2026-09-09T20:40:00+00:00",
+      "fetched": "2026-09-10T01:38:48.836393+00:00"
+    },
+    {
+      "id": "104c3a0ccabc73f2",
+      "title": "Injectable nanodevices could provide effective treatment for drug-resistant glioblastoma",
+      "link": "https://news.mit.edu/2026/injectable-nanodevices-could-provide-effective-treatment-drug-resistant-glioblastoma-0909",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers show implanted nanoantennas can be activated wirelessly to kill brain cancer cells without damage to healthy tissue.",
+      "published": "2026-09-09T20:00:00+00:00",
+      "fetched": "2026-09-10T01:38:48.836429+00:00"
+    },
     {
       "id": "e73469c45ceea5a3",
       "title": "A burst of “pink noise” may lead to more restorative sleep",
@@ -1482,26 +1502,6 @@
       "summary": "It’s common to feel like we know our artists, writers, musicians, actors… we want so badly to touch their lives in some way, as their lives touch ours. This overwhelming desire is responsible for a huge market share of our mass media, from the most tasteless tabloid hit jobs to the most respectful longform essays. [ ]",
       "published": "2026-08-03T08:00:16+00:00",
       "fetched": "2026-08-03T19:13:50.009110+00:00"
-    },
-    {
-      "id": "2ffd856393628cc0",
-      "title": "Using reason, again and again",
-      "link": "https://news.mit.edu/2026/using-reason-again-and-again-brian-hedden-0802",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Philosopher Brian Hedden studies decision-making over time — and recently chose to return to alma mater MIT, where he is now connecting ethics and computing.",
-      "published": "2026-08-02T04:00:00+00:00",
-      "fetched": "2026-08-02T07:58:33.633933+00:00"
-    },
-    {
-      "id": "174e3f6a47902c22",
-      "title": "Why Mapmakers Put Fake Towns on Their Maps in the 1920s — and the One That Became Real",
-      "link": "https://www.openculture.com/2026/07/why-mapmakers-put-fake-towns-on-their-maps-in-the-1920s-and-the-one-that-became-real.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Open Culture readers may know John Green best for Crash Course, the YouTube channel that teaches everything you need to know about subjects like world history, U.S. history, big history, literature, and philosophy. Or at least it teaches everything a teenage student facing down the prospect of Advanced Placement subject exams needs to know.",
-      "published": "2026-07-31T08:00:45+00:00",
-      "fetched": "2026-07-31T08:27:00.630319+00:00"
     }
   ]
 }
