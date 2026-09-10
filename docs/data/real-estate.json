@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-10T01:38:50.860586+00:00",
+  "updated": "2026-09-10T10:07:03.574350+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "50a69061b5ecf110",
+      "title": "See What Your Housing Budget Buys in Every ZIP Code",
+      "link": "https://www.realtor.com/news/trends/home-budget-in-every-zip-code/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A new tool from Realtor.com breaks down what share of homes located in each ZIP code would be affordable at your price point.",
+      "published": "2026-09-10T09:00:00+00:00",
+      "fetched": "2026-09-10T10:07:03.573662+00:00"
+    },
+    {
+      "id": "9d170f08318b2058",
+      "title": "Inside Retired MLB Star David Eckstein and Actress Ashley Eckstein’s Fantasy Florida Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/inside-retired-mlb-star-david-eckstein-fantasy-florida-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The retired MLB star, 51, and his wife, 44, bought the five-bedroom, five-bathroom Orlando, FL, home in 2020.",
+      "published": "2026-09-10T08:16:00+00:00",
+      "fetched": "2026-09-10T10:07:03.573704+00:00"
+    },
     {
       "id": "7882d114dfc97db2",
       "title": "Massachusetts Requires Data Centers To Get Local Approvals in Latest Clampdown",
@@ -1482,26 +1502,6 @@
       "summary": "In just under six years, Bryan Field built a 100% remote real estate investment portfolio producing over $65,000 per year in cash flow. He bought properties sight unseen, chose markets [ ]",
       "published": "2026-08-31T11:00:59+00:00",
       "fetched": "2026-08-31T18:23:13.921809+00:00"
-    },
-    {
-      "id": "d562e7d1af7188b8",
-      "title": "He Made $60,000 in 2 Months with This “Failed” Real Estate Deal",
-      "link": "https://www.biggerpockets.com/blog/rookie-764",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Every rookie thinks their first deal will go according to plan (it almost never does). Today, we’re bringing on a guest who had a long list of all the worst-case [ ]",
-      "published": "2026-08-31T11:00:23+00:00",
-      "fetched": "2026-08-31T18:23:13.921859+00:00"
-    },
-    {
-      "id": "5f5cf886d7bf0e35",
-      "title": "Top 10 Cities for New Construction Revealed: The Carolinas Emerge as a Powerhouse",
-      "link": "https://www.realtor.com/news/trends/carolinas-top-10-cities-new-construction-ranking-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Buyers in Southern boomtowns like Charleston and Greenville, SC, can find affordable new builds, higher inventory, and builder incentives.",
-      "published": "2026-08-31T09:00:00+00:00",
-      "fetched": "2026-08-31T11:56:17.949835+00:00"
     }
   ]
 }

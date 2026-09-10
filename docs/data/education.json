@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-10T01:38:50.105504+00:00",
+  "updated": "2026-09-10T10:07:03.010811+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cf4000484ee80c71",
+      "title": "Download Hundreds of Issues of Jugend, Germany’s Pioneering Art Nouveau Magazine (1896–1940)",
+      "link": "https://www.openculture.com/2026/09/download-hundreds-of-issues-of-jugend-germanys-pioneering-art-nouveau-magazine.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "It’s an ungainly word for English speakers, which is maybe why we do not hear it often: Gleichschaltung. Yet the concept remains central for a clear view of what happened to Germany in the 1930s. In 1933, the nation completely transformed, seemingly overnight, through “a concerted policy of ‘coordination’ (Gleichschaltung),” the U.S.",
+      "published": "2026-09-10T08:00:12+00:00",
+      "fetched": "2026-09-10T10:07:03.010582+00:00"
+    },
     {
       "id": "d3f95ceac43cf989",
       "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
@@ -1492,16 +1502,6 @@
       "summary": "A new fabrication platform integrates molecules into electronic devices, opening the door to emerging computing technologies.",
       "published": "2026-08-03T09:00:00+00:00",
       "fetched": "2026-08-03T14:08:32.927523+00:00"
-    },
-    {
-      "id": "3456d1a2a444cf00",
-      "title": "Watch David Bowie & Annie Lennox in Rehearsal, Singing “Under Pressure,” with Queen (1992)",
-      "link": "https://www.openculture.com/2026/08/david-bowie-annie-lennox-singing-under-pressure-with-queen.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "It’s common to feel like we know our artists, writers, musicians, actors… we want so badly to touch their lives in some way, as their lives touch ours. This overwhelming desire is responsible for a huge market share of our mass media, from the most tasteless tabloid hit jobs to the most respectful longform essays. [ ]",
-      "published": "2026-08-03T08:00:16+00:00",
-      "fetched": "2026-08-03T19:13:50.009110+00:00"
     }
   ]
 }
