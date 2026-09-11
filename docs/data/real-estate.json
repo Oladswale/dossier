@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-11T01:38:13.111342+00:00",
+  "updated": "2026-09-11T10:04:23.910461+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "117a0496e4f7c133",
+      "title": "Mortgage Rates Just Hit a 15-Month High. Is It Worth Paying Thousands To Lower Yours?",
+      "link": "https://www.realtor.com/news/trends/mortgage-points-worth-it-high-interest-rates/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage points surged as rates rose. New data shows when paying thousands upfront for a lower mortgage rate can actually pay off.",
+      "published": "2026-09-11T09:00:00+00:00",
+      "fetched": "2026-09-11T10:04:23.909874+00:00"
+    },
     {
       "id": "383807500fba5f3b",
       "title": "NIMBYs and YIMBYs Both File Lawsuits Over San Francisco’s New Housing Plans",
@@ -1492,16 +1502,6 @@
       "summary": "A year after a dramatic situation resulting in a restraining order, the \"Real World: New Orleans\" alum opened up about her mental health.",
       "published": "2026-08-31T21:58:11+00:00",
       "fetched": "2026-09-01T02:12:17.950412+00:00"
-    },
-    {
-      "id": "c79e49dabe135a31",
-      "title": "The True Carrying Cost of Vacation Homes: How Insurance Is Eating Second-Home Yields",
-      "link": "https://www.realtor.com/news/trends/vacation-home-insurance-costs-second-home-rental-yields/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rising premiums and insurer nonrenewals are making vacation homes more expensive to carry—and threatening short-term rental returns.",
-      "published": "2026-08-31T21:32:06+00:00",
-      "fetched": "2026-09-01T02:12:17.950450+00:00"
     }
   ]
 }
