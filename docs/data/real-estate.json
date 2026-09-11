@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-11T15:19:55.871196+00:00",
+  "updated": "2026-09-11T20:07:56.045916+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "12142f127c4db376",
+      "title": "Soaring Home Prices Leave 91% of Renters Unable To Buy in This Western State",
+      "link": "https://www.realtor.com/news/trends/utah-home-prices-renter-affordability-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Home prices in Utah continue to increase, putting 91% of renters out of the running.",
+      "published": "2026-09-11T20:02:00+00:00",
+      "fetched": "2026-09-11T20:07:56.045059+00:00"
+    },
+    {
+      "id": "1ce16ce1a4cbea30",
+      "title": "EXCLUSIVE: Kylie Jenner Sells Longtime Hidden Hills Mansion for $15.3 Million—$5 Million Below Original Asking Price",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jenner-sells-longtime-hidden-hills-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kylie purchased the 13,200-square-foot Hidden Hills dwelling for $12.05 million in late 2016, and listed it for nearly double that price.",
+      "published": "2026-09-11T19:19:06+00:00",
+      "fetched": "2026-09-11T20:07:56.045105+00:00"
+    },
+    {
+      "id": "65e1da31261311b4",
+      "title": "7 Ways To Refresh Your Home This Fall Without a Full-Blown Remodel",
+      "link": "https://www.realtor.com/advice/home-improvement/fall-home-refresh-without-a-remodel/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If money is tight but you want to change up your home to sell or even feel better staying put, there are some easy ways to refresh.",
+      "published": "2026-09-11T19:14:42+00:00",
+      "fetched": "2026-09-11T20:07:56.045137+00:00"
+    },
+    {
+      "id": "3c8cc05f4a7750be",
+      "title": "HGTV Star Erin Napier Fiercely Defends Decision To Homeschool Her 2 Daughters: ‘You Know Nothing’",
+      "link": "https://www.realtor.com/news/reality-tv/erin-napier-homeschool-daughters-criticism-home-town/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "HGTV star Erin Napier fired back at criticism over her decision to homeschool the two daughters she shares with husband Ben.",
+      "published": "2026-09-11T19:08:42+00:00",
+      "fetched": "2026-09-11T20:07:56.045170+00:00"
+    },
+    {
+      "id": "7f1b7ff76584fc26",
+      "title": "BookTok Is Inspiring a New Home Design Trend: The Cozy Reading Retreat",
+      "link": "https://www.realtor.com/news/trends/booktok-home-design-cozy-reading-retreat/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "BookTok reading nooks are winning over homebuyers and, of all the remodels right now, it's the easiest to pull off.",
+      "published": "2026-09-11T18:27:34+00:00",
+      "fetched": "2026-09-11T20:07:56.045197+00:00"
+    },
+    {
+      "id": "c1fbc7e2c367a914",
+      "title": "Basketball Icon Steph Curry Sells $11 Million San Francisco Building to AI Company",
+      "link": "https://www.realtor.com/news/sports/steph-curry-sells-san-francisco-building-ai-company/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The commercial site was originally slated to host Curry's Thirty Ink headquarters, but plans were halted after a union dispute.",
+      "published": "2026-09-11T17:33:48+00:00",
+      "fetched": "2026-09-11T20:07:56.045224+00:00"
+    },
+    {
+      "id": "0b394e5f2ff9ccaa",
+      "title": "Modular Homes Could Help Solve the Housing Crisis—but They Need To Fix Their Image Problem First",
+      "link": "https://www.realtor.com/news/trends/modular-homes-keller-williams-scott-malouff/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Modular homes currently make up just 4% of the U.S. housing market, but their speed and affordability could be a game changer.",
+      "published": "2026-09-11T16:50:12+00:00",
+      "fetched": "2026-09-11T20:07:56.045254+00:00"
+    },
+    {
+      "id": "b9e2144d96e319bf",
+      "title": "Malcolm-Jamal Warner’s Widow Claims His Mother Sold $1.6 Million Family Home He Intended for His Wife and Daughter",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/malcolm-jamal-warner-widow-tenisha-mother-pamela-sold-family-home-daughter/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "More than a year after his sudden death, his widow and his mother remain embroiled in an increasingly contentious dispute over his estate.",
+      "published": "2026-09-11T15:57:38+00:00",
+      "fetched": "2026-09-11T20:07:56.045286+00:00"
+    },
+    {
+      "id": "1409d29f473454da",
+      "title": "How the Government Pays You to Buy a Short-Term Rental",
+      "link": "https://www.biggerpockets.com/blog/how-the-government-pays-you-to-buy-a-short-term-rental",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "I spent eight years touring as a producer, with platinum records on the wall and almost nothing in the bank, which sounds like the setup to a country song but [ ]",
+      "published": "2026-09-11T14:56:15+00:00",
+      "fetched": "2026-09-11T20:07:55.786523+00:00"
+    },
     {
       "id": "cfdd7e9baaeb8fcb",
       "title": "5 Stylish A-Frame Homes for Every Budget—Starting at $325K",
@@ -24,6 +114,16 @@
       "fetched": "2026-09-11T15:19:55.870548+00:00"
     },
     {
+      "id": "c4dfdcd14e5de6c0",
+      "title": "EXCLUSIVE: Santa Monica Penthouse Above the Iconic California Incline Lists for $9 Million",
+      "link": "https://www.realtor.com/news/unique-homes/santa-monica-penthouse-above-california-incline-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The residence sits atop a building positioned at the corner of Ocean and California avenues, directly above the California Incline.",
+      "published": "2026-09-11T13:32:05+00:00",
+      "fetched": "2026-09-11T20:07:56.045333+00:00"
+    },
+    {
       "id": "4ea9e07e2e5f4adc",
       "title": "EXCLUSIVE: Santa Monica’s Only Penthouse Above the Iconic California Incline Lists for $9 Million",
       "link": "https://www.realtor.com/news/unique-homes/santa-monica-penthouse-above-california-incline-for-sale/",
@@ -32,6 +132,16 @@
       "summary": "The residence sits atop a building positioned at the corner of Ocean and California avenues, directly above the California Incline.",
       "published": "2026-09-11T13:32:05+00:00",
       "fetched": "2026-09-11T15:19:55.870578+00:00"
+    },
+    {
+      "id": "c1897b6d35a88a6b",
+      "title": "Fed Expected To Hike Rates Next Week as Inflation Remains Hot at 3.4%",
+      "link": "https://www.realtor.com/news/trends/cpi-inflation-report-august-2026-fed-interest-rate-decision/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Federal Reserve is now seen as extremely likely to raise its benchmark interest rate next week, as new inflation data runs hot.",
+      "published": "2026-09-11T12:44:24+00:00",
+      "fetched": "2026-09-11T20:07:56.045378+00:00"
     },
     {
       "id": "1b27d37b87b2e7d5",
@@ -1392,116 +1502,6 @@
       "summary": "The professional dancer is looking to offload his desert abode as his ongoing custody battle with ex-wife Elena Samodanova continues.",
       "published": "2026-09-01T22:49:36+00:00",
       "fetched": "2026-09-02T01:35:36.938511+00:00"
-    },
-    {
-      "id": "3f8c3d20da23cc2c",
-      "title": "How the Trump Administration’s Pause on Immigrant Visas May Affect Rental Demand",
-      "link": "https://www.realtor.com/news/real-estate-news/trump-pause-on-immigrant-visas-may-affect-rental-demand/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A pause on visa applications, even if it's temporary, could have long-term implications for the U.S. housing market.",
-      "published": "2026-09-01T22:09:59+00:00",
-      "fetched": "2026-09-02T01:35:36.938540+00:00"
-    },
-    {
-      "id": "9030d4991bacbd91",
-      "title": "Inside Travis Kelce and Taylor Swift’s Growing Home Life as NFL Star Confirms Adorable New Addition",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-kelce-taylor-swift-new-dog-home-life/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Kansas City Chiefs tight end introduced the couple's white pup to the world while starring in Tommy Hilfiger's fall 2026 ad campaign.",
-      "published": "2026-09-01T21:16:38+00:00",
-      "fetched": "2026-09-02T01:35:36.938569+00:00"
-    },
-    {
-      "id": "e99491b04e365b59",
-      "title": "Mapped: Where NYC Homeowners Are Most Likely To Be Married",
-      "link": "https://www.realtor.com/news/trends/map-nyc-new-york-homeowners-married/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Among property owners in New York City, 51% are married-couple families. Staten Island is the most popular borough for families.",
-      "published": "2026-09-01T20:58:43+00:00",
-      "fetched": "2026-09-02T01:35:36.938597+00:00"
-    },
-    {
-      "id": "4183b50f2d618b18",
-      "title": "After a Power Outage, Most Homeowners Forget This Hidden Cost—and It’s the Highest It’s Ever Been",
-      "link": "https://www.realtor.com/advice/home-improvement/hidden-cost-power-outages-food-spoilage-generator/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Homeowners are in the dark—literally and figuratively—during a power outage, and taking certain precautions can save you hundreds.",
-      "published": "2026-09-01T20:00:34+00:00",
-      "fetched": "2026-09-02T01:35:36.938629+00:00"
-    },
-    {
-      "id": "98bbec3db1a7d373",
-      "title": "What Parents Are Really Willing To Pay for a House Close Enough To Walk Kids to School",
-      "link": "https://www.realtor.com/news/trends/house-walkable-to-schools-pricing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Walkability is a major perk of quiet living—and why parents pay a premium to get their kids to school faster.",
-      "published": "2026-09-01T19:23:46+00:00",
-      "fetched": "2026-09-01T20:12:35.598717+00:00"
-    },
-    {
-      "id": "12c4c2871c41b4dc",
-      "title": "Kelly Osbourne Reveals Why She Fled Los Angeles for the U.K. After Nearly 30 Years: ‘I’ve Never Been a California Girl’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kelly-osbourne-leaves-los-angeles-moves-uk/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kelly, 41, shed new light on her major move following the death of her father, Ozzy Osbourne, during a wide-ranging interview.",
-      "published": "2026-09-01T18:51:36+00:00",
-      "fetched": "2026-09-01T20:12:35.598759+00:00"
-    },
-    {
-      "id": "f0d8f8e260d2226b",
-      "title": "Investors Beware: HOA Foreclosures Are on the Rise and Increasingly Difficult to Stop",
-      "link": "https://www.biggerpockets.com/blog/investors-beware-hoa-foreclosures-are-on-the-rise-and-increasingly-difficult-to-stop",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "If you own a rental condo in a development overseen by a homeowners association (HOA), be on your guard. One missed bill could land you in a heap of trouble. [ ]",
-      "published": "2026-09-01T15:36:54+00:00",
-      "fetched": "2026-09-01T20:12:35.245675+00:00"
-    },
-    {
-      "id": "31aee297f6446722",
-      "title": "Strengthening Tropical Storm Edouard Tracks Toward U.S.: Where It Will Hit and Which Homeowners Should Prepare",
-      "link": "https://www.realtor.com/news/trends/tropical-storm-edouard-tracker-homeowners-texas/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The National Hurricane Center see Edouard is strengthening significantly before it reaches the northwestern Gulf Coast today.",
-      "published": "2026-09-01T15:35:11+00:00",
-      "fetched": "2026-09-01T20:12:35.598790+00:00"
-    },
-    {
-      "id": "d7e098b394462568",
-      "title": "Mortgage Pre-Approval Guide: What First-Time Buyers Need To Know",
-      "link": "https://www.realtor.com/advice/finance/why-mortgage-pre-approval-matters/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage pre-approval is a lender's conditional commitment to a buyer, based on a review of verified income, assets, credit, and debt.",
-      "published": "2026-09-01T15:30:00+00:00",
-      "fetched": "2026-09-01T20:12:35.598817+00:00"
-    },
-    {
-      "id": "29358b5964904e4c",
-      "title": "How Martin Castro-Silva Flipped His Way to 11 Deals",
-      "link": "https://www.biggerpockets.com/blog/deal-diary-martin-castro",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Name Martin Castro-Silva Location Vero Beach and Sebastian, Florida Occupation Full-time real estate investor (former private client banker at Chase) Assets 11 properties transacted in 2025 (seven flipped, two rentals [ ]",
-      "published": "2026-09-01T15:15:16+00:00",
-      "fetched": "2026-09-01T20:12:35.245717+00:00"
-    },
-    {
-      "id": "d4f05ed971acf902",
-      "title": "Lindsay Clancy Jury Deadlocked in Murder Trial—Inside the Home Where Her 3 Children Died and Its Mysterious Off-Market Sale",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Clancy’s jury says it is deadlocked after 19 hours of deliberations in her trial over the deaths of her three children.",
-      "published": "2026-09-01T15:12:28+00:00",
-      "fetched": "2026-09-01T15:37:44.157238+00:00"
     }
   ]
 }
