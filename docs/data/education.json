@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-11T10:04:22.965059+00:00",
+  "updated": "2026-09-11T15:19:55.136743+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7bc0a326e8a3e95e",
+      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "link": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
+      "published": "2026-09-11T13:45:00+00:00",
+      "fetched": "2026-09-11T15:19:53.780858+00:00"
+    },
     {
       "id": "fb518c3475434532",
       "title": "Scientists Discover the Earliest Evidence of Drug Use in 25,000-Year-Old Teeth",
@@ -1492,16 +1502,6 @@
       "summary": "Like digging for fossils or panning for gold, the research process can be a tedious affair. But for any researcher, long days of searching and reading will eventually result in discovery. These are the moments scholars cherish.",
       "published": "2026-08-04T07:02:20+00:00",
       "fetched": "2026-08-04T08:12:39.059411+00:00"
-    },
-    {
-      "id": "7e16a80753a52223",
-      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
-      "link": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
-      "published": "2026-08-03T19:50:00+00:00",
-      "fetched": "2026-08-04T01:14:12.184455+00:00"
     }
   ]
 }
