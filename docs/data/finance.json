@@ -1,8 +1,118 @@
 {
   "category": "finance",
-  "updated": "2026-09-10T20:08:24.418526+00:00",
+  "updated": "2026-09-11T01:37:56.390504+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c41f0f1222998f43",
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+      "published": "2026-09-11T00:19:54+00:00",
+      "fetched": "2026-09-11T01:37:54.532406+00:00"
+    },
+    {
+      "id": "f726de4543d807e1",
+      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company saw its backlog grow even more in the latest quarter.",
+      "published": "2026-09-11T00:19:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430037+00:00"
+    },
+    {
+      "id": "19fc88d0d5a141a5",
+      "title": "Adobe’s latest earnings leave Wall Street wanting more",
+      "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“In this environment you can’t just meet” expectations, an analyst says",
+      "published": "2026-09-11T00:17:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430113+00:00"
+    },
+    {
+      "id": "14ed9f841f4fd007",
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Diesel touches everything in the economy,” one analyst says.",
+      "published": "2026-09-10T22:54:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430148+00:00"
+    },
+    {
+      "id": "d1f06ac3cc6bf646",
+      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+      "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Wireless carriers are rolling out their initial iPhone promotions, but analysts say there’s no price war just yet.",
+      "published": "2026-09-10T22:25:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430182+00:00"
+    },
+    {
+      "id": "1876de27f59eb508",
+      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
+      "link": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "SpaceX has set an ambitious revenue target and a newly disclosed computing-power deal could get the company a bit nearer to its goal.",
+      "published": "2026-09-10T22:19:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430212+00:00"
+    },
+    {
+      "id": "e1a4ed490f612d07",
+      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
+      "link": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Large caps tend to outperform small caps as year’s end approaches.",
+      "published": "2026-09-10T22:02:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430240+00:00"
+    },
+    {
+      "id": "dbf9791b756fa969",
+      "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
+      "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
+      "published": "2026-09-10T20:40:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430268+00:00"
+    },
+    {
+      "id": "9e9a0f3ae9b88fdb",
+      "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
+      "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Rising healthcare costs have been a major issue for lawmakers and patients in recent years.",
+      "published": "2026-09-10T20:26:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430307+00:00"
+    },
+    {
+      "id": "4c464cd4a883938b",
+      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
+      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Treasury market’s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent’s first beefed-up buyback operation.",
+      "published": "2026-09-10T20:24:00+00:00",
+      "fetched": "2026-09-11T01:37:54.430342+00:00"
+    },
+    {
+      "id": "0f4eb767e891979a",
+      "title": "NGX rebounds as Seplat, Transcorp, GTCO lift index, but breadth stays negative",
+      "link": "https://nairametrics.com/2026/09/10/ngx-rebounds-as-seplat-transcorp-gtco-lift-index-but-breadth-stays-negative/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market snapped a two-day losing streak on Thursday, September 10, 2026, as the benchmark All-Share Index (ASI) rose modestly by 0.06% to close at 242,378.13 points, adding approximately N100 billion to market capitalisation. The post NGX rebounds as Seplat, Transcorp, GTCO lift index, but breadth stays negative appeared first on Nairametrics .",
+      "published": "2026-09-10T20:19:12+00:00",
+      "fetched": "2026-09-11T01:37:55.257983+00:00"
+    },
     {
       "id": "fc7013a0f69dcfc7",
       "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
@@ -1392,116 +1502,6 @@
       "summary": "A rapid unwind of the Japanese yen ‘carry trade’ could trigger a stock selloff, particularly hurting high-valuation U.S. tech names.",
       "published": "2026-09-08T18:33:00+00:00",
       "fetched": "2026-09-08T20:22:20.342803+00:00"
-    },
-    {
-      "id": "7d46182a4ec0b091",
-      "title": "Nigerian equities swing to N1.88 trillion losses ahead of Dangote Refinery IPO",
-      "link": "https://nairametrics.com/2026/09/08/nigerian-equities-swing-to-n1-88-trillion-losses-ahead-of-dangote-refinery-ipo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market reversed Monday's bullish momentum in dramatic fashion on Tuesday, September 8, 2026, as the benchmark All-Share Index (ASI) declined 1.17% to close at 244,802.11 points, erasing approximately N1.88 trillion in market capitalisation in a single session. The post Nigerian equities swing to N1.88 trillion losses ahead of Dangote Refinery IPO appeared first on Nairametrics .",
-      "published": "2026-09-08T18:19:59+00:00",
-      "fetched": "2026-09-08T20:22:21.184800+00:00"
-    },
-    {
-      "id": "04d7b8bbc1028004",
-      "title": "Why you shouldn’t stake your entire retirement plan on getting an inheritance",
-      "link": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "When it comes to the so-called Great Wealth Transfer, “I don’t think people should count on it,” one financial adviser says.",
-      "published": "2026-09-08T18:17:00+00:00",
-      "fetched": "2026-09-08T20:22:20.342852+00:00"
-    },
-    {
-      "id": "85bb44bc104e6916",
-      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
-      "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The trade battle — featuring steep import taxes and possible bans — could escalate further as soon as today.",
-      "published": "2026-09-08T18:16:00+00:00",
-      "fetched": "2026-09-08T20:22:20.342884+00:00"
-    },
-    {
-      "id": "4282b8b345719834",
-      "title": "NMDPRA denies AGF report of under-remitted gas flare penalties",
-      "link": "https://nairametrics.com/2026/09/08/nmdpra-denies-agf-report-of-under-remitted-gas-flare-penalties/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has denied the report of alleged under-remitted gas flare penalties contained in the Office of the Auditor-General of the Federation’s 2023/2024 Annual Report on Non-Compliance and Internal Control Weaknesses in Ministries, Departments and Agencies. The post NMDPRA denies AGF report of under-remitted gas flare penalties appeared first on Nairametrics .",
-      "published": "2026-09-08T18:00:44+00:00",
-      "fetched": "2026-09-08T20:22:21.184859+00:00"
-    },
-    {
-      "id": "bcd997c604da33dc",
-      "title": "This AI research company wants to put 1,000 African languages into AI",
-      "link": "https://techcabal.com/2026/09/08/mansa-ai-african-languages/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "African Languages Lab has spent years building data for underrepresented African languages. Now, its Mansa AI platform brings 30 languages into production, with plans to reach 1,000.",
-      "published": "2026-09-08T17:57:49+00:00",
-      "fetched": "2026-09-08T20:22:21.871434+00:00"
-    },
-    {
-      "id": "57d1cb29deca050f",
-      "title": "FG begins talks with APM Terminals on Badagry deep seaport development",
-      "link": "https://nairametrics.com/2026/09/08/fg-begins-talks-with-apm-terminals-on-badagry-deep-seaport-development/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has begun exclusive talks with APM Terminals on the development of the proposed Badagry Deep-Seaport in Lagos State. The post FG begins talks with APM Terminals on Badagry deep seaport development appeared first on Nairametrics .",
-      "published": "2026-09-08T17:35:03+00:00",
-      "fetched": "2026-09-08T20:22:21.184898+00:00"
-    },
-    {
-      "id": "c9859787eec2bcb5",
-      "title": "A contrarian case for stock-market gains through the midterm election",
-      "link": "https://www.marketwatch.com/story/a-contrarian-case-for-further-stock-market-gains-through-the-midterm-election-6f1bf8a9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Yet another lease on life for the bull market, observes Mark Hulbert.",
-      "published": "2026-09-08T17:29:00+00:00",
-      "fetched": "2026-09-08T20:22:20.342928+00:00"
-    },
-    {
-      "id": "44d724dc19ba5144",
-      "title": "Is IBM’s selloff an opportunity? Here’s one case for the beaten-down stock.",
-      "link": "https://www.marketwatch.com/story/is-ibms-selloff-an-opportunity-heres-one-case-for-the-beaten-down-stock-a3ca92ed?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "An Evercore ISI analyst thinks investors are getting exposure to IBM’s various quantum-computing initiatives essentially for free.",
-      "published": "2026-09-08T17:19:00+00:00",
-      "fetched": "2026-09-08T20:22:20.342959+00:00"
-    },
-    {
-      "id": "c932cd8b5b837bd1",
-      "title": "Nigerian scientist wins $100,000 NLNG prize for AI MRI breakthrough",
-      "link": "https://nairametrics.com/2026/09/08/nigerian-scientist-wins-100000-nlng-prize-for-ai-mri-breakthrough/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian scientist and artificial intelligence researcher, Mary Brenda Akoda, has won the 2026 Nigeria Prize for Science and Innovation (NPSI) with GenScan AI, an AI-powered technology designed to significantly reduce the time required for Magnetic Resonance Imaging (MRI) scans. The post Nigerian scientist wins $100,000 NLNG prize for AI MRI breakthrough appeared first on Nairametrics .",
-      "published": "2026-09-08T16:55:45+00:00",
-      "fetched": "2026-09-08T20:22:21.184942+00:00"
-    },
-    {
-      "id": "6c2a683531c55024",
-      "title": "CIBN: MSMEs still squeezed by high costs despite FG’s macroeconomic progress",
-      "link": "https://nairametrics.com/2026/09/08/cibn-msmes-still-squeezed-by-high-costs-despite-fgs-macroeconomic-progress/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Chartered Institute of Bankers of Nigeria (CIBN) has said that micro, small and medium-sized enterprises (MSMEs) are still being constrained by high operating costs and other factors despite the macroeconomic progress recorded under the current Federal Government. The post CIBN: MSMEs still squeezed by high costs despite FG’s macroeconomic progress appeared first on Nairametrics .",
-      "published": "2026-09-08T16:34:05+00:00",
-      "fetched": "2026-09-08T20:22:21.184998+00:00"
-    },
-    {
-      "id": "8ca3a7c287e88edf",
-      "title": "Trust capital over venture capital: Dr Richard Ikiebe’s review hails VFD founders in ‘the challengers’",
-      "link": "https://nairametrics.com/2026/09/08/trust-capital-over-venture-capital-dr-richard-ikiebes-review-hails-vfd-founders-in-the-challengers/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In a profoundly incisive review of Dr Eghosa Imasuen s new narrative non-fiction work, THE CHALLENGERS: The Disruptive Nigerian Entrepreneurs Creating a Billion-Naira Company, veteran media scholar and policy strategist Dr Richard Ikiebe has issued a sobering verdict on Nigeria s corporate landscape: the nation does not suffer from a lack of personal brilliance, but rather a [ ] The post Trust capital over venture capital: Dr Richard Ikiebe’s review hails VFD founders in the challengers appeared first on Nairametrics .",
-      "published": "2026-09-08T16:02:19+00:00",
-      "fetched": "2026-09-08T20:22:21.185067+00:00"
     }
   ]
 }

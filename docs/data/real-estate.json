@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-10T20:08:41.278188+00:00",
+  "updated": "2026-09-11T01:38:13.111342+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "383807500fba5f3b",
+      "title": "NIMBYs and YIMBYs Both File Lawsuits Over San Francisco’s New Housing Plans",
+      "link": "https://www.realtor.com/news/trends/san-francisco-family-zoning-plan-yimby-ceqa-lawsuits/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "San Francisco is facing dueling suits that its up-zoning plans go too far, or not far enough, to build more housing.",
+      "published": "2026-09-10T22:08:05+00:00",
+      "fetched": "2026-09-11T01:38:13.110596+00:00"
+    },
+    {
+      "id": "8fa875b224d97ace",
+      "title": "Barbara Corcoran Says Kylie Jenner’s 6-Year Home Build Is ‘Not Worth It’ and Her Own $16M Penthouse Is ‘Much Nicer’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/barbara-corcoran-kylie-jenner-home-renovation-advice/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The real estate tycoon thinks the makeup mogul's six-year-long project is taking too long and claims her own home is \"much nicer.\"",
+      "published": "2026-09-10T20:35:04+00:00",
+      "fetched": "2026-09-11T01:38:13.110641+00:00"
+    },
+    {
+      "id": "bb70eacce140dd17",
+      "title": "The ‘Practical Magic’ Mansion: What This Cult-Classic Home Would Actually Cost You Today",
+      "link": "https://www.realtor.com/news/trends/practical-magic-house-cost-location/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Ever wonder how much it would cost to buy a historical mansion like the one in \"Practical Magic\"? Here's the mortgage payment to expect.",
+      "published": "2026-09-10T20:18:46+00:00",
+      "fetched": "2026-09-11T01:38:13.110674+00:00"
+    },
+    {
+      "id": "22185eb55f437862",
+      "title": "EXCLUSIVE: Perez Hilton Trims $350K From Price of Las Vegas Mansion—As Family Begs Fans to Vacate Miami Home Where Health Incident Occurred",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/perez-hilton-reduces-price-of-las-vegas-home-family-begs-fans-vacate-miami-residence/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 48-year-old media personality initially listed the six-bedroom, 6.5-bathroom property for $4.25 million in June.",
+      "published": "2026-09-10T20:15:36+00:00",
+      "fetched": "2026-09-11T01:38:13.110707+00:00"
+    },
     {
       "id": "e4c118ed14374523",
       "title": "‘Selling Sunset’ Star Christine Quinn’s Ex Lists $5.5 Million L.A. Home as Bitter Divorce Battle Rages On",
@@ -12,6 +52,16 @@
       "summary": "The tech entrepreneur purchased the home for $5 million in 2019, the same year he and Quinn tied the knot.",
       "published": "2026-09-10T19:40:32+00:00",
       "fetched": "2026-09-10T20:08:41.277532+00:00"
+    },
+    {
+      "id": "e3d5f1923a70d5f1",
+      "title": "This $1.25M Mulholland Drive ‘Mansion’ Has No Kitchen, No Sewer—and a Squatter Problem",
+      "link": "https://www.realtor.com/news/trends/abandoned-mulholland-drive-home-los-angeles/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The home at 7711 Mulholland has the makings of a luxury property, but it appears no one ever moved in.",
+      "published": "2026-09-10T19:34:00+00:00",
+      "fetched": "2026-09-11T01:38:13.110747+00:00"
     },
     {
       "id": "8482d059fda8bc20",
@@ -1452,56 +1502,6 @@
       "summary": "Rising premiums and insurer nonrenewals are making vacation homes more expensive to carry—and threatening short-term rental returns.",
       "published": "2026-08-31T21:32:06+00:00",
       "fetched": "2026-09-01T02:12:17.950450+00:00"
-    },
-    {
-      "id": "361094d56cbb6bf9",
-      "title": "How to Shop for a Mortgage: A Home Buyer’s Guide to the Right Type of Loan",
-      "link": "https://www.realtor.com/advice/finance/how-to-shop-for-a-mortgage/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Comparing offers from more than one lender is one of the most effective ways a buyer can lower the total cost of a mortgage.",
-      "published": "2026-08-31T21:28:00+00:00",
-      "fetched": "2026-09-01T02:12:17.950513+00:00"
-    },
-    {
-      "id": "12e3cae1b65b2674",
-      "title": "Miami Man Gets Prison for Posing as Elderly Woman’s Son To Steal Her Home",
-      "link": "https://www.realtor.com/news/real-estate-news/miami-home-title-fraud-alejandro-diaz-torriente-sentencing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A Miami man has been sentenced to 20 years in prison after scheming to exploit a 94-year-old woman.",
-      "published": "2026-08-31T21:02:57+00:00",
-      "fetched": "2026-09-01T02:12:17.950547+00:00"
-    },
-    {
-      "id": "7b0ea63499e5bbd7",
-      "title": "Data Center Developer Leans On Kentucky Law Meant To Promote Housing Development",
-      "link": "https://www.realtor.com/news/trends/data-center-simpson-county-franklin-kentucky-lawsuit/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kentucky legislation limits who can appeal zoning or planning board decisions. A data center developer is using that to its advantage.",
-      "published": "2026-08-31T20:40:03+00:00",
-      "fetched": "2026-09-01T02:12:17.950575+00:00"
-    },
-    {
-      "id": "706616709eadb208",
-      "title": "Dennis Quaid Reveals Why He Ditched Hollywood for Tennessee—Months After Listing $5.2 Million L.A. Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dennis-quaid-nashville-tennessee-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Quaid relocated from L.A. to Music City with his wife, Laura Savoie, in 2020, leaving behind the city where he built his career.",
-      "published": "2026-08-31T20:20:55+00:00",
-      "fetched": "2026-09-01T02:12:17.950606+00:00"
-    },
-    {
-      "id": "3332ce2a4c8a8ad1",
-      "title": "Kylie Jenner Reveals How She’s Changed Since Buying the ‘Craziest House’ She Could in Beverly Hills When She Was Younger",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jenner-bought-craziest-house-beverly-hills-younger/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The reality TV superstar is making life a little less \"enormous\" these days and currently has two mansions on the market.",
-      "published": "2026-08-31T19:54:34+00:00",
-      "fetched": "2026-09-01T02:12:17.950636+00:00"
     }
   ]
 }
