@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-12T14:27:47.569469+00:00",
+  "updated": "2026-09-12T19:43:50.004072+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "80131a227abe98fc",
+      "title": "Rare $18M Salmon-Pink 1938 Colonial Listing Hits the Palm Beach Market",
+      "link": "https://www.realtor.com/news/unique-homes/198-via-marina-palm-beach-pink-colonial/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A rare 1938 salmon-pink Colonial in Palm Beach lists for $18M. Take a look inside this eccentric estate featuring Barbie-pink interiors.",
+      "published": "2026-09-12T19:01:00+00:00",
+      "fetched": "2026-09-12T19:43:50.003420+00:00"
+    },
+    {
+      "id": "86d9a98fc2da2782",
+      "title": "Rare 1962 Hillside Midcentury Modern Gem Has Ties to Deep ‘Architectural Lore’ in Glendale",
+      "link": "https://www.realtor.com/news/unique-homes/hillside-modernist-gem-glendale-architectural-lore/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The $1.3 million home expertly blends indoor and outdoor living and has an interesting history thanks to architect Charles W. Walton.",
+      "published": "2026-09-12T18:47:00+00:00",
+      "fetched": "2026-09-12T19:43:50.003461+00:00"
+    },
+    {
+      "id": "90701eb64a1f9b62",
+      "title": "Rare 2-Acre Private Island Retreat on Minnesota’s Lake Minnetonka Is Listed for the First Time in 50 Years",
+      "link": "https://www.realtor.com/news/unique-homes/rare-gale-island-lake-minnetonka-estate-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 2-acre legacy compound on Gale Island, surrounded by 1,841 feet of luxurious lakeshore, comes with several structures.",
+      "published": "2026-09-12T15:32:00+00:00",
+      "fetched": "2026-09-12T19:43:50.003490+00:00"
+    },
+    {
+      "id": "4c5ff9872f005726",
+      "title": "EXCLUSIVE: Konya Hendricks Schuh Has ‘Bigger’ Renovations in Store for ‘Betting on Beloit’ Season 2",
+      "link": "https://www.realtor.com/news/reality-tv/konya-hendricks-schuh-betting-on-beloit-season-2/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The A E reality series is back for another season of flipping homes in Beloit, once voted the \"worst city\" in Wisconsin to live in.",
+      "published": "2026-09-12T14:59:00+00:00",
+      "fetched": "2026-09-12T19:43:50.003520+00:00"
+    },
     {
       "id": "b73a150dfd288bae",
       "title": "Sausalito’s Highest-Priced Home Hits the Market for $10 Million With a Dedicated Wellness Floor",
@@ -1462,46 +1502,6 @@
       "summary": "Like a home down payment, security deposits are a fixed hurdle. Discover why more than 65% of independent landlords refuse to waive them.",
       "published": "2026-09-02T17:47:35+00:00",
       "fetched": "2026-09-02T20:11:02.240895+00:00"
-    },
-    {
-      "id": "485461070688473f",
-      "title": "EXCLUSIVE: HGTV’s ‘Botched Homes’ Host Charlie Kawas Reveals the ‘Worst’ Renovations He’s Ever Seen—as He Admits Cancer Battle Has Made Tackling Jobs More Challenging",
-      "link": "https://www.realtor.com/news/reality-tv/hgtv-botched-homes-premiere-charlie-kawas-diagnosis/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The new home renovation series, which premieres Sept. 2, fixes construction dilemmas in South Florida.",
-      "published": "2026-09-02T17:00:26+00:00",
-      "fetched": "2026-09-02T20:11:02.240923+00:00"
-    },
-    {
-      "id": "5734771ecc85b8a2",
-      "title": "California Condo Owners Face Shock $26,000 HOA Fee for Emergency Roof Repair",
-      "link": "https://www.realtor.com/news/trends/san-clemente-hoa-fee-assessment-vilamoura-condo/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Vilamoura homeowners say their HOA board's emergency assessment violated the law.",
-      "published": "2026-09-02T15:35:44+00:00",
-      "fetched": "2026-09-02T20:11:02.240945+00:00"
-    },
-    {
-      "id": "d2c73d9862017440",
-      "title": "Travis Kelce Drops $5.35 Million on Sprawling Lakefront Ohio Estate Near His Childhood Home—Months Before He and Taylor Swift Wed",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-kelce-buys-ohio-lakefront-home-taylor-swift-wedding/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Kansas City Chiefs tight end, 36, snapped up the palatial eight-bedroom, 8.5-bathroom property in March.",
-      "published": "2026-09-02T14:50:14+00:00",
-      "fetched": "2026-09-02T15:25:58.666891+00:00"
-    },
-    {
-      "id": "f417de587ef26f62",
-      "title": "EXCLUSIVE: NBA Star Dwight Howard Relists 12-Bedroom Georgia Megamansion With More Than $3 Million Price Hike",
-      "link": "https://www.realtor.com/news/sports/nba-dwight-howard-georgia-mansion-relisted-price-hike/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 40-year-old basketball legend has relisted his longtime Suwanee, GA, mansion for $14.5 million, marking a $3.25 million increase.",
-      "published": "2026-09-02T14:26:00+00:00",
-      "fetched": "2026-09-02T15:25:58.666930+00:00"
     }
   ]
 }
