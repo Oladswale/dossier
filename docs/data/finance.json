@@ -1,8 +1,58 @@
 {
   "category": "finance",
-  "updated": "2026-09-11T20:07:39.269072+00:00",
+  "updated": "2026-09-12T01:44:00.633655+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3ba6e1c01c38d5cc",
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There’s a safe haven hiding in plain sight.",
+      "published": "2026-09-11T22:06:00+00:00",
+      "fetched": "2026-09-12T01:43:58.553832+00:00"
+    },
+    {
+      "id": "9f28c8c8d30447bc",
+      "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+      "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
+      "published": "2026-09-11T21:16:00+00:00",
+      "fetched": "2026-09-12T01:43:58.553881+00:00"
+    },
+    {
+      "id": "935ce11a7c2c520b",
+      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
+      "published": "2026-09-11T20:45:00+00:00",
+      "fetched": "2026-09-12T01:43:58.553936+00:00"
+    },
+    {
+      "id": "15a21ee7ea8a1af1",
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+      "published": "2026-09-11T20:30:00+00:00",
+      "fetched": "2026-09-12T01:43:58.553995+00:00"
+    },
+    {
+      "id": "78cd366e93fc6af6",
+      "title": "Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.",
+      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+      "published": "2026-09-11T20:08:00+00:00",
+      "fetched": "2026-09-12T01:43:58.554024+00:00"
+    },
     {
       "id": "250f7a1a53f35df8",
       "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
@@ -1452,56 +1502,6 @@
       "summary": "No amount of wealth can erase retirement worries.",
       "published": "2026-09-09T16:38:00+00:00",
       "fetched": "2026-09-09T20:05:59.324665+00:00"
-    },
-    {
-      "id": "1bd5a04a327b14b7",
-      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
-      "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Energy and resource stocks have zigged while the market has zagged.",
-      "published": "2026-09-09T16:19:00+00:00",
-      "fetched": "2026-09-09T20:05:59.324689+00:00"
-    },
-    {
-      "id": "b0f30e408f36e00f",
-      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-      "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
-      "published": "2026-09-09T16:18:00+00:00",
-      "fetched": "2026-09-09T20:05:59.324717+00:00"
-    },
-    {
-      "id": "2eea8eabf804157f",
-      "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
-      "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
-      "published": "2026-09-09T16:09:00+00:00",
-      "fetched": "2026-09-09T20:05:59.324754+00:00"
-    },
-    {
-      "id": "59d4e55a7d2ba61b",
-      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-      "published": "2026-09-09T16:00:00+00:00",
-      "fetched": "2026-09-09T20:05:59.324786+00:00"
-    },
-    {
-      "id": "05b29e2dad01af94",
-      "title": "Treasury to buy back more government bonds than previously announced",
-      "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "First operation goes from $4 billion to $6 billion",
-      "published": "2026-09-09T15:18:00+00:00",
-      "fetched": "2026-09-09T15:23:19.031504+00:00"
     }
   ]
 }

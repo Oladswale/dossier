@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-11T20:07:56.045916+00:00",
+  "updated": "2026-09-12T01:44:17.311013+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5e789b65bdf11c46",
+      "title": "EXCLUSIVE: L.A. Home That Made $1.5 Million as a Hollywood Filming Location Hits the Market for $3.2 Million",
+      "link": "https://www.realtor.com/news/unique-homes/los-angeles-hollywood-filming-location-home-hits-the-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Known as the Rum Punch House, the five-bedroom, four-bathroom Woodland Hills property has welcomed 173 productions since 2021.",
+      "published": "2026-09-11T21:32:06+00:00",
+      "fetched": "2026-09-12T01:44:17.310458+00:00"
+    },
     {
       "id": "12142f127c4db376",
       "title": "Soaring Home Prices Leave 91% of Renters Unable To Buy in This Western State",
@@ -1492,16 +1502,6 @@
       "summary": "Compass has settled a longstanding legal dispute with the Northwest Multiple Listing Service over private listings.",
       "published": "2026-09-01T23:08:50+00:00",
       "fetched": "2026-09-02T01:35:36.938471+00:00"
-    },
-    {
-      "id": "93b17931fe8a1924",
-      "title": "‘Dancing With the Stars’ Pro Gleb Savchenko Lists Peaceful $1.4 Million Desert Home Amid Custody Battle With Ex-Wife Elena Samodanova",
-      "link": "https://www.realtor.com/news/reality-tv/dwts-gleb-savchenko-lists-home-amid-custody-battle/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The professional dancer is looking to offload his desert abode as his ongoing custody battle with ex-wife Elena Samodanova continues.",
-      "published": "2026-09-01T22:49:36+00:00",
-      "fetched": "2026-09-02T01:35:36.938511+00:00"
     }
   ]
 }

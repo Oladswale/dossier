@@ -1,8 +1,188 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-11T20:07:53.771473+00:00",
+  "updated": "2026-09-12T01:44:15.205068+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "edf010af2e53a694",
+      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
+      "link": "https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s cousin, according to the Los Angeles Times. Prosecutors alleged that rapper (real name: Durk Banks) directed hit men to target rapper Quando Rondo, born [ ]",
+      "published": "2026-09-12T00:48:11+00:00",
+      "fetched": "2026-09-12T01:44:14.993137+00:00"
+    },
+    {
+      "id": "d7756c20c4d2e38b",
+      "title": "Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie",
+      "link": "https://www.rollingstone.com/music/music-news/ocean-way-festival-cancels-inaugural-event-hurricane-marie-1235625706/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Organizers said that storm surf and runoff caused significant beach erosion, making it no longer safe for the fest to continue",
+      "published": "2026-09-12T00:46:24+00:00",
+      "fetched": "2026-09-12T01:44:15.104526+00:00"
+    },
+    {
+      "id": "648e5884c3bf82fe",
+      "title": "‘The Uprising’ Star Woody Norman on the ‘Power Trip’ Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix",
+      "link": "https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Filming “The Uprising” gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use during the shoot got damaged the first day of filming. “So it didn t fit my head,” Norman, 17, tells me over [ ]",
+      "published": "2026-09-12T00:36:21+00:00",
+      "fetched": "2026-09-12T01:44:14.993231+00:00"
+    },
+    {
+      "id": "18e509d5d658ec77",
+      "title": "Lil Durk Acquitted of All Charges at Trial Over Shooting That Killed Quando Rondo’s Cousin",
+      "link": "https://www.rollingstone.com/music/music-news/lil-durk-verdict-quando-rondo-conspiracy-trial-akademiks-1235622493/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Grammy-winning rapper was found not guilty of conspiracy, stalking resulting in death, and murder for hire and broke down crying as the verdict was read",
+      "published": "2026-09-12T00:26:56+00:00",
+      "fetched": "2026-09-12T01:44:15.104567+00:00"
+    },
+    {
+      "id": "6ddd518cbf0b1083",
+      "title": "Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces",
+      "link": "https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ocean Way is going away, at least for a year. Goldenvoice s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with city officials saying the culprit is erosion along the shore caused by recent hurricane-level forces off the coast.",
+      "published": "2026-09-12T00:16:18+00:00",
+      "fetched": "2026-09-12T01:44:14.993286+00:00"
+    },
+    {
+      "id": "1a1a68d2a6ab47b0",
+      "title": "Sam Smith, Normani Copyright Case Likely Headed for Trial As Judge Signals No Dismissal",
+      "link": "https://www.rollingstone.com/music/music-news/sam-smith-normani-copyright-case-judge-signals-no-dismissal-1235625637/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "A federal judge said Friday he was leaning toward denying a summary judgment bid and sending the copyright battle over the multi-platinum hit “Dancing With a Stranger” to trial",
+      "published": "2026-09-11T23:24:07+00:00",
+      "fetched": "2026-09-12T01:44:15.104604+00:00"
+    },
+    {
+      "id": "ef289d4bd41d4788",
+      "title": "Pink Explains Slamming Macklemore’s Pro-Palestine Performances, Acknowledges Heavy Backlash: ‘I’m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It’s Lonelier Than That’",
+      "link": "https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Pink had fallen silent in the face of backlash from many quarters following her reposting a call for Macklemore to be dropped from the Ed Sheeran tour in the wake of his nightly pro-Palestinian songs and statements. Now she has spoken up about the controversy and her part in it in a big way, with [ ]",
+      "published": "2026-09-11T23:15:42+00:00",
+      "fetched": "2026-09-12T01:44:14.993339+00:00"
+    },
+    {
+      "id": "0ff5358a8b588f2e",
+      "title": "Sebastian Stan on Why ‘Fjord’ Is Being Called a ‘MAGA Movie’ and How Making ‘The Batman 2’ Feels Like ‘F—ing Godfather Part 2’",
+      "link": "https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sebastian Stan has been running around the city of Toronto. We’re sitting in a restaurant, having lunch between his multiple studio visits for various publications. It’s busy and bustling around us, the way TIFF tends to transform every hotel and restaurant over its 11-day period.",
+      "published": "2026-09-11T22:08:15+00:00",
+      "fetched": "2026-09-12T01:44:14.993395+00:00"
+    },
+    {
+      "id": "5ec1c1f557a5c46f",
+      "title": "‘Onwards and Sideways’ Director John Madden on Returning to TIFF After 16 Years With His Parkinson’s Romantic Drama Starring Laura Linney and Rhys Ifans",
+      "link": "https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When director John Madden first read Paul Mayhew-Archer’s script that was based on his experience living with Parkinson’s disease, he knew it had a ways to go. But he recognized its potential. Now nearly a decade later, Madden is ready to show “Onwards and Sideways” to buyers at the Toronto Intl.",
+      "published": "2026-09-11T22:05:00+00:00",
+      "fetched": "2026-09-12T01:44:14.993449+00:00"
+    },
+    {
+      "id": "12aba7315948281c",
+      "title": "I Was at Ground Zero on 9/11. We Deserve Answers About the Government’s Air Quality Lies",
+      "link": "https://www.rollingstone.com/politics/political-commentary/911-air-quality-lies-1235625642/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Why did the Environmental Protection Agency claim the air was safe to breathe following the attacks?",
+      "published": "2026-09-11T22:00:00+00:00",
+      "fetched": "2026-09-12T01:44:15.104634+00:00"
+    },
+    {
+      "id": "83b7f62437b25383",
+      "title": "Samsung Asks Judge to Dismiss Dua Lipa’s $15 Million Lawsuit Over Unauthorized Image Usage",
+      "link": "https://www.rollingstone.com/music/music-news/dua-lipa-samsung-lawsuit-request-dismiss-case-1235625545/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Lawyers for the company argued the appearance of the singer's image on a television box contains \"nothing suggesting plaintiff endorses the televisions\"",
+      "published": "2026-09-11T21:59:58+00:00",
+      "fetched": "2026-09-12T01:44:15.104664+00:00"
+    },
+    {
+      "id": "cd6f731362ac3350",
+      "title": "Selena Quintanilla Family Legal Dispute Intensifies: A.B. Officially Sues Sister Suzette",
+      "link": "https://www.rollingstone.com/music/music-latin/selena-quintanilla-family-lawsuit-1235625412/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The lawsuit comes after the Quintanilla siblings were embroiled in a public dispute on social media",
+      "published": "2026-09-11T21:53:44+00:00",
+      "fetched": "2026-09-12T01:44:15.104689+00:00"
+    },
+    {
+      "id": "25ed5b20344f3ae8",
+      "title": "The Best iPhone 18 Pro Deals From T-Mobile",
+      "link": "https://www.rollingstone.com/product-recommendations/tech/apple-iphone-18-pro-smartphone-deal-t-mobile-1235625483/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Apple’s iPhone 18 Pro includes better cameras and battery life — here’s how to upgrade",
+      "published": "2026-09-11T21:27:34+00:00",
+      "fetched": "2026-09-12T01:44:15.104714+00:00"
+    },
+    {
+      "id": "f74e9dd7c0d56550",
+      "title": "‘Obsession’ One Year Later: Inde Navarrette and Curry Barker Dish on Memes, How Nikki Became More ‘Flirty’ and Their Wild Ride at TIFF",
+      "link": "https://variety.com/2026/film/news/inde-navarrette-obsession-nikki-memes-curry-barker-tiff-talk-1236859203/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Obsession’s” origin story is the stuff of legend. On Sept. 7, 2025, just two days after its rapturously received premiere in the Midnight Madness section of the Toronto International Film Festival, distributor Focus Features offered to acquire its rights for $14-$15 million.",
+      "published": "2026-09-11T21:11:46+00:00",
+      "fetched": "2026-09-12T01:44:14.993503+00:00"
+    },
+    {
+      "id": "101d88c84c70e1b1",
+      "title": "Watch Brandi Carlile and Bonnie Raitt Duet on ‘Love Me Like a Man’ for ‘Austin City Limits’ Premiere, Plus a Web-Only Bonus, ‘Angel From Montgomery’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/music/news/brandi-carlile-bonnie-raitt-duet-austin-city-limits-premiere-1236859141/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "For the season premiere of Austin City Limits, Brandi Carlile is officially the one being feted, as the episode finds her formally inducted into the Austin City Limits Hall of Fame. But who s honoring who is an open question, as the 2026-27 kickoff episode finds Carlile joined by Bonnie Raitt, bringing together two of the [ ]",
+      "published": "2026-09-11T21:08:55+00:00",
+      "fetched": "2026-09-12T01:44:14.993554+00:00"
+    },
+    {
+      "id": "e31063e35f8a4fe0",
+      "title": "‘It: Welcome to Derry’ Creators Andy and Barbara Muschietti on Late Tim Curry: ‘His Legacy Is Incredible’",
+      "link": "https://variety.com/2026/film/news/andy-and-barbara-muschietti-on-tim-curry-1236859145/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "More than three decades after Tim Curry originated the role of Pennywise in “It,” his impact is still felt across the franchise and horror fans alike. “His legacy is incredible, and we’re very thankful that sometimes our name pops up somewhere close to his,” Barbara Muschietti, the co-creator of the “It” prequel series “Welcome to [ ]",
+      "published": "2026-09-11T21:03:56+00:00",
+      "fetched": "2026-09-12T01:44:14.993606+00:00"
+    },
+    {
+      "id": "cb21f76f7df7698b",
+      "title": "Russell Crowe Wipes Away Tears at Venice Premiere of Music Documentary ‘What Love Builds’ as Fans Yell ‘We Love You!’",
+      "link": "https://variety.com/2026/film/festivals/russell-crowe-music-documentary-what-love-builds-venice-premiere-1236858501/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Despite his acclaimed acting career, Russell Crowe has always really wanted to be a rock star. That dream appeared to come true on Friday night — at least for 99 minutes — as he premiered his self-directed documentary “What Love Builds,” about his lesser-known music career, at the Venice Film Festival. As Crowe entered the [ ]",
+      "published": "2026-09-11T20:52:09+00:00",
+      "fetched": "2026-09-12T01:44:14.993656+00:00"
+    },
+    {
+      "id": "230ce560609768da",
+      "title": "Here’s Where You Can Still Grab Last-Minute iHeartRadio Music Festival Tickets",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-iheartradio-music-festival-tickets-1235625352/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "BTS and Cardi B will take the stage on Friday, while Saturday's lineup sees Benson Boone, Ciara, and Lainey Wilson perform",
+      "published": "2026-09-11T20:08:19+00:00",
+      "fetched": "2026-09-12T01:44:15.104743+00:00"
+    },
     {
       "id": "c425986df5793f4f",
       "title": "Sandra Bullock Rejected ‘Every Pervert’ in Auditions ‘Asking Me to Drop My Pants’ and Stopped Acting in Rom-Coms When ‘I Was Getting So Much S— For Them’",
@@ -1322,186 +1502,6 @@
       "summary": "Doomsday typically indicates disaster, but for Marvel Studios that term is forecasting a booming box office. Disney reports that the next entry in the sprawling Marvel Cinematic Universe, “Avengers: Doomsday,” has already made $50 million in domestic pre-sales, three months before the movie’s Dec. 18 release date.",
       "published": "2026-09-09T22:16:17+00:00",
       "fetched": "2026-09-10T01:38:48.250607+00:00"
-    },
-    {
-      "id": "f9f17e59936dd13d",
-      "title": "How to Watch ‘The Secret Lives of Mormon Wives’ Season 5 Online Without Cable",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-the-secret-lives-of-mormon-wives-season-5-free-stream-1235622768/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here’s how to watch the #MomTok group, including Taylor Frankie Paul, on Hulu without paying",
-      "published": "2026-09-09T22:00:00+00:00",
-      "fetched": "2026-09-10T01:38:48.429479+00:00"
-    },
-    {
-      "id": "69631b1f0d6741fd",
-      "title": "‘Entourage’ Creator Slams ‘God-Awful’ Ad Reuniting Jeremy Piven and Adrian Grenier: A ‘S—ty Imitation’ That ‘Makes Me Puke’",
-      "link": "https://variety.com/2026/tv/news/entourage-creator-slams-ad-jeremy-piven-adrian-grenier-1236856363/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Entourage creator Doug Ellin has spoken out against an ad reuniting Jeremy Piven and Adrian Grenier, calling it a cheap, shitty imitation of his beloved HBO comedy. While Piven and Grenier are technically playing themselves in the ad — not super agent Ari Gold and movie star Vincent Chase — their performances, dialogue and dynamic [ ]",
-      "published": "2026-09-09T21:43:22+00:00",
-      "fetched": "2026-09-10T01:38:48.250657+00:00"
-    },
-    {
-      "id": "61396918119e37bc",
-      "title": "NFL Season 2026-2027 Livestream: Here’s Where to Watch Pro Football Games Online",
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-2026-2027-nfl-season-football-online-free-1236855738/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With the end of preseason, the 2026-2027 NFL regular season officially kicks off with its first week of games starting on Wednesday, Sept. 9. The first game of the season is New England Patriots vs.",
-      "published": "2026-09-09T21:20:00+00:00",
-      "fetched": "2026-09-10T01:38:48.250702+00:00"
-    },
-    {
-      "id": "a78900db75436206",
-      "title": "Chernin Entertainment Expands Film Team With Key Hire, Promotions (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/chernin-entertainment-expands-film-team-promotions-1236855746/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chernin Entertainment, the prolific independent film and TV producer founded by former News Corp. chairman Peter Chernin, has expanded its in-house film team. Under movies chief David Ready, the film unit has had big wins this year in theaters (“Backrooms”) and on streaming (Netflix’s “Apex”), and will continue to scale its slate.",
-      "published": "2026-09-09T21:08:01+00:00",
-      "fetched": "2026-09-10T01:38:48.250750+00:00"
-    },
-    {
-      "id": "edb043639fe0c845",
-      "title": "The Best of IFA Berlin 2026, From 4K Projectors to Apartment-Friendly Pizza Makers",
-      "link": "https://www.rollingstone.com/product-recommendations/tech/best-of-ifa-berlin-tech-2026-1235623229/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Buzzy startups and major manufacturers alike touched down in Berlin last week to showcase the latest in tech — here's what we saw",
-      "published": "2026-09-09T21:01:51+00:00",
-      "fetched": "2026-09-10T01:38:48.429507+00:00"
-    },
-    {
-      "id": "a0e131d7bd5cf3c3",
-      "title": "See Slipknot’s Spooky Video for ‘Arsenal,’ Their First Song Since Sid Wilson Departure",
-      "link": "https://www.rollingstone.com/music/music-news/slipknot-new-song-arsenal-1235623937/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"I got a lot to fuckin' say,\" Corey Taylor bellows on the track. \"And if you didn't listen, you didn't hear me anyway\"",
-      "published": "2026-09-09T20:57:36+00:00",
-      "fetched": "2026-09-10T01:38:48.429532+00:00"
-    },
-    {
-      "id": "a50bbe6865886a3d",
-      "title": "The Ultimate At-Home Tailgate Starts with These 18 Game-Day Must-Haves",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-at-home-tailgate-essentials-shop-online-1235405099/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From streaming the big plays to grilling the perfect game day feast, we've got your at-home tailgate covered",
-      "published": "2026-09-09T20:35:38+00:00",
-      "fetched": "2026-09-10T01:38:48.429555+00:00"
-    },
-    {
-      "id": "5b6d0fb220db2cd4",
-      "title": "Elon Musk Rages Over Alex Gibney’s ‘Hit Piece’ Documentary ‘Musk’: ‘Horrible Human’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/elon-musk-alex-gibney-documentary-musk-venice-premiere-1235623906/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The four-hour documentary premiered at the Venice Film Festival on Tuesday, and while it’s unclear whether Musk actually watched it, he walked away with strong feelings towards its director",
-      "published": "2026-09-09T20:29:47+00:00",
-      "fetched": "2026-09-10T01:38:48.429587+00:00"
-    },
-    {
-      "id": "eb85824edddcdae4",
-      "title": "Billy Joel Says Concerts Were ‘Causing Damage To My Brain Nerves’ Whenever He Played Live",
-      "link": "https://www.rollingstone.com/music/music-news/billy-joel-concerts-damage-brain-nerves-1235623880/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "In an new interview, Joel reveals that he initially refused surgical intervention after being diagnosed with normal pressure hydrocephalus, and isn't sure when he'll tour again",
-      "published": "2026-09-09T20:21:16+00:00",
-      "fetched": "2026-09-10T01:38:48.429615+00:00"
-    },
-    {
-      "id": "ac29880d26e4c1a9",
-      "title": "‘Charlie’s Angels’ Reunion, Zendaya and ‘Buffy’ Alums Sarah Michelle Gellar, David Boreanaz Among Confirmed Emmys Presenters",
-      "link": "https://variety.com/2026/tv/news/charlies-angels-reunion-zendaya-buffy-emmys-presenters-1236856284/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Charlie s Angels and Angel are among the first round of names announced Wednesday to serve as presenters at Monday night s 78th Emmys on NBC and Peacock. Charlie s Angels stars Kate Jackson, Cheryl Ladd and Jaclyn Smith — who are celebrating the 50th anniversary this year of the iconic ABC series — were included in the [ ]",
-      "published": "2026-09-09T20:00:00+00:00",
-      "fetched": "2026-09-09T20:06:13.081332+00:00"
-    },
-    {
-      "id": "5a2c960f1c27d3c9",
-      "title": "How to Watch Tonight’s Patriots vs. Seahawks Game Online for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-patriots-seahawks-football-game-free-2026-1235623135/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The NFL is back tonight with a Super Bowl LX rematch. Here’s where to livestream the game without cable (and how to watch for free)",
-      "published": "2026-09-09T19:35:00+00:00",
-      "fetched": "2026-09-09T20:06:13.344094+00:00"
-    },
-    {
-      "id": "0332fd4c9f92e724",
-      "title": "Channing Dungey on Warner Bros. TV Group’s Big Year of Pickups, Renewals and New Deals — Despite Industry Distractions and Ownership Uncertainty",
-      "link": "https://variety.com/2026/tv/news/warner-bros-tv-group-pickups-renewals-deals-channing-dungey-1236856102/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Warner Bros. TV Group isn’t acting like a studio with an uncertain future. Even as the fate of Warner Bros.",
-      "published": "2026-09-09T19:30:00+00:00",
-      "fetched": "2026-09-09T20:06:13.081398+00:00"
-    },
-    {
-      "id": "fa80079017319a49",
-      "title": "N.O.R.E. Sued for Sexual Assault by Carmen Bryan",
-      "link": "https://www.rollingstone.com/music/music-news/nore-accused-sexual-assault-carmen-bryan-lawsuit-1235621684/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Bryan, who shares a child with Nas, claimed she pleaded with Jay-Z not to get involved after telling him about the alleged assault at a nightclub in 1999",
-      "published": "2026-09-09T19:26:26+00:00",
-      "fetched": "2026-09-09T20:06:13.344132+00:00"
-    },
-    {
-      "id": "2d8b89e08c27ac3d",
-      "title": "Taylor Swift Has Never Won a Grammy for Record or Song of the Year. With Three No. 1 Hits Eligible for 2027, Which Will She Choose for Victory?",
-      "link": "https://variety.com/2026/music/columns/taylor-swift-grammy-chances-i-knew-it-i-knew-you-fate-ophelia-1236849929/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "There are two points of view you could take on Taylor Swift and her Grammys history: (a) Swift has been a Grammys hoarder. (b) Swift has gotten robbed by the Recording Academy regularly. Which of these contradictory statements is true?",
-      "published": "2026-09-09T19:04:05+00:00",
-      "fetched": "2026-09-09T20:06:13.081454+00:00"
-    },
-    {
-      "id": "65df58d6810e5f9a",
-      "title": "The Best Tech at IFA 2026: From 4K Projectors and Wearables to Headphones and TV Smart Lighting",
-      "link": "https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "While CES is the biggest tech industry showcase in the United States, IFA is the largest consumer electronics trade show in Europe. For more than 100 years, some of the best and biggest communication and tech companies from around the world have gathered in the heart of Berlin, Germany at the Messe Berlin exhibition grounds, [ ]",
-      "published": "2026-09-09T19:00:00+00:00",
-      "fetched": "2026-09-09T20:06:13.081501+00:00"
-    },
-    {
-      "id": "98e1ad28ce67c9d7",
-      "title": "Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre’s Starry 2027 Slate",
-      "link": "https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "London s National Theatre has unveiled its 2027 program, with Paul Mescal, Emma Corrin and Emilia Clarke topping a star-heavy slate of 18 productions, eight of them world premieres, spanning the venue s three stages and beyond. Mescal returns to the Lyttelton theater for a repertory season, playing Biff Loman in Rebecca Frecknall s staging of Arthur Miller s [ ]",
-      "published": "2026-09-09T19:00:00+00:00",
-      "fetched": "2026-09-09T20:06:13.081551+00:00"
-    },
-    {
-      "id": "dab83807b4d8fa13",
-      "title": "Playoff State of Mind: Yankees Tap Billy Joel for Merch Collection, Just In Time for the Postseason",
-      "link": "https://variety.com/2026/shopping/news/billy-joel-new-york-yankees-sportiqe-merch-collection-2026-1236856062/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The New York Yankees are heading towards another (likely) postseason run and the team has tapped one of New York s most famous faces (and voices) to help root them on. Athleticwear brand Sportiqe has released a Billy Joel x New York Yankees collection, that pairs the brand s T-shirts, sweatshirts and hoodies with Joel s lyrics and [ ]",
-      "published": "2026-09-09T18:55:18+00:00",
-      "fetched": "2026-09-09T20:06:13.081595+00:00"
-    },
-    {
-      "id": "a76060684b93e85c",
-      "title": "Amber Mark’s Road to Lollapalooza",
-      "link": "https://www.rollingstone.com/music/music-news/amber-marks-road-lollapalooza-1235617552/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "At one of the largest music festivals in The US, it would seem difficult to create a sense of intimacy amidst such a massive crowd, yet somehow, Amber Mark’s smooth, sultry vocals, strong connection to her fans and undeniable stage presence did just that at Lollapalooza 2026. Her set was a shining example of the [ ]",
-      "published": "2026-09-09T18:22:06+00:00",
-      "fetched": "2026-09-09T20:06:13.344182+00:00"
     }
   ]
 }
