@@ -1,8 +1,188 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-12T09:40:10.564232+00:00",
+  "updated": "2026-09-12T14:27:45.370638+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1e18cd2cfb89e2ff",
+      "title": "‘Family Stone 2’ Gets Official Title ‘The Families Stone’ and Sets Cast: Rachel McAdams, Sarah Jessica Parker and More Returning",
+      "link": "https://variety.com/2026/film/news/family-stone-2-title-cast-rachel-mcadams-sarah-jessica-parker-1236856900/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Searchlight has officially announced The Family Stone 2, a sequel to the 2005 holiday classic from returning writer and director Tom Bezucha. The follow-up is officially titled The Families Stones and will feature the returns of many of the original s main cast members, including Rachel McAdams as Amy Stone and Sarah Jessica Parker as Meredith [ ]",
+      "published": "2026-09-12T14:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093635+00:00"
+    },
+    {
+      "id": "577492b998663a5c",
+      "title": "Sarah Paulson Has Waited Forever for a Movie Like ‘Closing Night’: ‘I Wasn’t This Hot, Young Nubile Thing’",
+      "link": "https://variety.com/2026/film/features/sarah-paulson-closing-night-tiff-oscar-ryan-murphy-pedro-pascal-american-horror-story-1236859369/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It didn’t make sense. For her spellbinding portrait of Marcia Clark in “The People v. O.J.",
+      "published": "2026-09-12T14:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093700+00:00"
+    },
+    {
+      "id": "836ab5452db6058e",
+      "title": "How the World Learned to Embrace Tupac Shakur",
+      "link": "https://www.rollingstone.com/music/music-features/tupac-shakur-death-30-years-later-1235625052/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Three decades after his death, he remains a magnetic presence in absentia — perhaps more than ever",
+      "published": "2026-09-12T14:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206241+00:00"
+    },
+    {
+      "id": "f58911390a9d7fc5",
+      "title": "Here’s Where You Can Find Tickets to Stevie Wonder’s ‘Songs in the Key of Life’ Tour",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-stevie-wonder-tickets-songs-in-the-key-of-life-1235625534/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Wonder will perform his classic album in full this fall, with U.S. tour dates starting in November",
+      "published": "2026-09-12T14:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206287+00:00"
+    },
+    {
+      "id": "b6dc203c552e8aec",
+      "title": "Taiwan Strengthens Global Co-Production Presence at Toronto Film Festival With ‘Happily Ever After,’ ‘The Age of Goodbyes’ and ‘Arrested Memory‘",
+      "link": "https://variety.com/2026/film/focus/taiwan-co-production-tiff-1236844426/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A strong lineup from Taiwan hits the Toronto Intl. Film Festival, with two world premieres in the special presentations strand, a Taiwan-Japan genre title in Midnight Madness, virtual reality, market projects and an international Oscar contender. Feng-I Fiona Roan’s “Happily Ever After” will make its world premiere in special presentations.",
+      "published": "2026-09-12T13:45:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093760+00:00"
+    },
+    {
+      "id": "cd83844bf320e385",
+      "title": "Nishikawa Miwa Confronts Japan’s Failure to Protect Its War Orphans in Toronto Platform Opener ‘Children Untold’",
+      "link": "https://variety.com/2026/film/festivals/nishikawa-miwa-children-untold-toronto-war-orphans-1236858495/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In the rubble left by the firebombing of Tokyo in WWII, a 12-year-old girl who once dreamed of a life in music learns to shine shoes, fall in with a band of orphaned boys sheltering under a local yakuza clan and, eventually, erase every trace of the person she used to be. That girl, Kotoko, [ ]",
+      "published": "2026-09-12T13:30:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093807+00:00"
+    },
+    {
+      "id": "b71d8611abfa229c",
+      "title": "Sci-Fi Franchise ‘Kri8 Universe’ Launches at Toronto Market (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/markets-festivals/sci-fi-franchise-kri8-universe-toronto-market-1236858647/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Kri8 Universe, a five-world science-fiction IP ecosystem from production designer and filmmaker Uzair Merchant, will launch at TIFF: The Market, looking for global licensing, studio and strategic partnerships following 14 years of independent development. The universe consists of five interconnected worlds — Elixir of Life, Black Rose, the 8th Sin, Skye and Vault X — [ ]",
+      "published": "2026-09-12T13:30:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093862+00:00"
+    },
+    {
+      "id": "4c0ea889fa054b25",
+      "title": "Fear and Delusion in Dallas: Inside Trump’s Midterm Convention Flop",
+      "link": "https://www.rollingstone.com/politics/politics-features/republican-midterm-convention-delusional-trump-1235625553/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Republicans spent two days celebrating the president in Texas. It's unlikely to have helped the party's chances in November",
+      "published": "2026-09-12T13:30:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206320+00:00"
+    },
+    {
+      "id": "d32804de35c6ddbf",
+      "title": "Female Bucking Bronc Riders Take Center Stage in ‘Cheyenne,’ TIFF-Bound Doc Produced by Jenna Bush Hager (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/jenna-bush-hager-cheyenne-documentary-cowgirls-broncs-1236859187/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The TIFF-bound documentary Cheyenne follows a quartet of fearless cowgirls who compete at riding wild broncos on the rodeo circuit after nearly a century of being excluded because of their gender. Variety has a first look at the film, in which director Taimi Arvidson profiles four cowgirls when the American rodeo circuit opens up a [ ]",
+      "published": "2026-09-12T13:15:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093910+00:00"
+    },
+    {
+      "id": "e5fbe20ebb5519b2",
+      "title": "From ‘American Hostage’ to Podcasts, Hollywood Digs Deeper Into Digital IP — But Will the Same Stories Told on Different Platforms Hurt Business?",
+      "link": "https://variety.com/2026/film/news/hollywood-ip-competing-projects-1236859296/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Watching the MGM+ limited anthology series American Hostage with exec producer and star Jon Hamm at its Sept. 12 Toronto fest premiere, you might be reminded of last year s Sept. 7 Toronto premiere, Gus Van Sant s thriller Dead Man s Wire, about the same 1977 Indianapolis hostage crisis.",
+      "published": "2026-09-12T13:05:00+00:00",
+      "fetched": "2026-09-12T14:27:45.093962+00:00"
+    },
+    {
+      "id": "d67204b41bbe0a32",
+      "title": "A Kansas Cold Case Was a True-Crime Hit. Did True-Crime Media Change Its Ending ?",
+      "link": "https://www.rollingstone.com/culture/culture-features/killer-story-dana-chandler-true-crime-hbo-docuseries-1235619040/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "HBO's new three-part docuseries 'A Killer Story' unpacks one of the state's most notorious cold cases and the woman serving time for a murder she says she didn't commit",
+      "published": "2026-09-12T13:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206353+00:00"
+    },
+    {
+      "id": "d4904355c512d55e",
+      "title": "‘The Uprising’ Follows a 14th Century Populist Revolution. It Couldn’t Feel More Relevant",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/the-uprising-review-andrew-garfield-1235623035/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Paul Greengrass revisit a moment when the poor were mad as hell, could not take it any more, and fought the powers that be. It will seem eerily familiar",
+      "published": "2026-09-12T13:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206388+00:00"
+    },
+    {
+      "id": "8687b03f751afedb",
+      "title": "Jeremy Thomas, Legendary British Producer and Oscar Winner, Dies at 77",
+      "link": "https://variety.com/2026/film/global/jeremy-thomas-dead-british-producer-oscar-winner-1236859473/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jeremy Thomas, one of the film industry s most highly respected independent producers with a body of work spanning more than half a century, has died. He was 77 years old. In a statement, his team said that Thomas died peacefully at his British country home in Oxfordshire late on Friday Sep 11, surrounded by his [ ]",
+      "published": "2026-09-12T12:42:35+00:00",
+      "fetched": "2026-09-12T14:27:45.094011+00:00"
+    },
+    {
+      "id": "ad5749e2435378b7",
+      "title": "Liam Neeson on the ‘Rage’ Behind ‘The Lost Children of Tuam’ and Turning Producer for First Time to Tell Story of Irish Scandal",
+      "link": "https://variety.com/2026/film/global/liam-neeson-rage-the-lost-children-of-tuam-producer-1236858532/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Liam Neeson was in his home in upstate New York in late 2017 when he was sent a link to a New York Times article about a shameful episode in Ireland s history. Almost a decade on and he tells Variety he s still coming to terms with my reaction to it. The piece, written by Dan [ ]",
+      "published": "2026-09-12T12:25:00+00:00",
+      "fetched": "2026-09-12T14:27:45.094060+00:00"
+    },
+    {
+      "id": "70ee7e6287a8a3a9",
+      "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ignition, the upcoming high-concept thriller led by Emmy-nominated Game of Thrones star Maisie Williams, has been acquired for North America. WestEnd Films — which launched the film in Cannes — has closed a domestic deal with Saban on the film, directed by Emmy-nominated filmmaker James Erskine ( Copa 71, Billie, Sachin: A Billion Dreams ). The deal comes following [ ]",
+      "published": "2026-09-12T12:15:00+00:00",
+      "fetched": "2026-09-12T14:27:45.094115+00:00"
+    },
+    {
+      "id": "f89175b7dbca0dc9",
+      "title": "I’m a Princeton Student. The Story of Its Ties to Slavery and Exploitation Must Be Remembered",
+      "link": "https://www.rollingstone.com/culture/culture-features/princeton-slavery-ties-firestone-exploitation-liberia-1235623888/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "A journalism class opened my eyes to the school’s complicated history with slave owners and plantation labor. Now, I want to spread the truth and find a path to reconciliation",
+      "published": "2026-09-12T12:00:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206426+00:00"
+    },
+    {
+      "id": "1fbf3fe4c39f4b5e",
+      "title": "‘Buffy the Vampire Slayer’ Gets Killer Monster High Doll Release",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/monster-high-buffy-vampire-slayer-collector-doll-buy-online-1235623202/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Buffy and Angel two-pack recreates the iconic duo with character-inspired looks and accessories from the series",
+      "published": "2026-09-12T11:50:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206454+00:00"
+    },
+    {
+      "id": "f067cf413e71c2d7",
+      "title": "How to Watch Today’s Oklahoma vs. Michigan Football Game Online for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-oklahoma-michigan-football-game-online-free-2026-1235625292/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Here’s where to livestream today’s Oklahoma vs. Michigan matchup without cable",
+      "published": "2026-09-12T11:12:00+00:00",
+      "fetched": "2026-09-12T14:27:45.206482+00:00"
+    },
     {
       "id": "e3b6503b81c7d5d0",
       "title": "Gary Oldman Predicts HBO’s ‘Harry Potter’ Series Will Be ‘More Satisfying’ for Fans Than the Movies",
@@ -1322,186 +1502,6 @@
       "summary": "Sold-out shows, psyop rumors, and secret sessions: New York’s most talked-about band has a lot on its mind",
       "published": "2026-09-10T13:00:00+00:00",
       "fetched": "2026-09-10T15:17:38.469268+00:00"
-    },
-    {
-      "id": "de53e42f48d095b0",
-      "title": "Woody Norman, Malachi Kirby, Tuppence Middleton, Conrad Khan, Kola Bokinni to Star in Urban Horror Thriller ‘Skag & Bone’; Featuristic Produces, UTA on Board (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/urban-horror-thriller-skag-bone-cast-1236856168/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Woody Norman (“C’mon C’mon”), Malachi Kirby (“Small Axe”), Tuppence Middleton (“Downton Abbey”), Conrad Khan (“Sunny Dancer”) and Kola Bokinni (“Ted Lasso”) are set to star in the British urban horror thriller “Skag Bone.” The film, which is described as “Top Boy” meets “Talk to Me,” “blends the propulsive energy of a youth-infused crime thriller [ ]",
-      "published": "2026-09-10T09:00:00+00:00",
-      "fetched": "2026-09-10T10:07:01.283590+00:00"
-    },
-    {
-      "id": "dd9a4566a3ffb28a",
-      "title": "Telekom Srbija’s Content Head on Blueprint for Turning Serbian Production Powerhouse Into Global Player",
-      "link": "https://variety.com/2026/tv/global/telekom-srbija-content-head-serbian-production-powerhouse-1236851472/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Telecommunications giant Telekom Srbija is looking to position itself as not only the leading production hub in Serbia but a regional juggernaut for the countries of the former Yugoslavia, exporting local content while attracting international productions to the Balkan nation. “Our next chapter is a deeper connection with our international partners, and presenting not only [ ]",
-      "published": "2026-09-10T07:33:35+00:00",
-      "fetched": "2026-09-10T10:07:01.283653+00:00"
-    },
-    {
-      "id": "e3f359b32bcc7aa7",
-      "title": "Serbian Sci-Fi Epic ‘Sanctuary,’ Starring ‘The Handmaid’s Tale’s’ Nina Kiri, Acquired for U.S. Distribution (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/serbia-sci-fi-sanctuary-nina-kiri-us-distribution-1236851443/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Vertical has acquired U.S. distribution rights to “Sanctuary,” an English-language, post-apocalyptic thriller starring “The Handmaid’s Tale’s” Nina Kiri. According to the synopsis, “Sanctuary” is set on a post-apocalyptic Earth, where the discovery of a cryogenically suspended woman provokes fear in a desperate village, sending a young warrior and the mysterious woman on a quest for [ ]",
-      "published": "2026-09-10T07:24:49+00:00",
-      "fetched": "2026-09-10T10:07:01.283709+00:00"
-    },
-    {
-      "id": "7f3a116d127c30b5",
-      "title": "‘DJ Ahmet’ Leads Adriatic Awards Contest, Followed by ‘Yugo Florida’",
-      "link": "https://variety.com/2026/film/global/dj-ahmet-yugo-florida-adriatic-awards-1236855711/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Georgi M. Unkovski s DJ Ahmet leads the contest in the cinema categories for the Adriatic Film and TV Awards, which honor the top films and series from Bosnia and Herzegovina, Montenegro, Croatia, Kosovo, North Macedonia, Slovenia and Serbia. “DJ Ahmet premiered at the Sundance Film Festival in the World Cinema Dramatic category, and won the [ ]",
-      "published": "2026-09-10T07:10:40+00:00",
-      "fetched": "2026-09-10T10:07:01.283762+00:00"
-    },
-    {
-      "id": "d39345c9fbb88c94",
-      "title": "‘South Park’ Creators Apologize for Delay on Long-Awaited Kendrick Lamar Movie",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/south-park-creators-kendrick-lamar-movie-delay-apology-1235624350/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The musical comedy, titled Whitney Springs , reportedly features new songs by the rapper",
-      "published": "2026-09-10T07:03:05+00:00",
-      "fetched": "2026-09-10T10:07:01.392959+00:00"
-    },
-    {
-      "id": "4cb34c2faaf0827d",
-      "title": "Netflix’s YA Rowing Drama ‘Crew Girl’ Capsizes and Sinks: TV Review",
-      "link": "https://variety.com/2026/tv/reviews/crew-girl-review-netflix-1236848333/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Created by Vivian Lin, Netflix’s latest YA series “Crew Girl” brings audiences into the competitive world of rowing. The show follows 16-year-old Teagan Tao (Miku Martineau), a single sculler whose entire life is derailed after her father, David (Byron Lawson), a wealthy hotelier, is caught stealing money from his clients. When David flees before the [ ]",
-      "published": "2026-09-10T07:01:00+00:00",
-      "fetched": "2026-09-10T10:07:01.283812+00:00"
-    },
-    {
-      "id": "78fc5251c6b7db08",
-      "title": "Former Telepool Chief Yoko Higuchi-Zitzmann, Filmmaker Mark Wachholz Launch AI Production Company Dreamkite Studios (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/yoko-higuchi-zitzmann-mark-wachholz-dreamkite-studios-1236855876/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "International media executive and producer Yoko Higuchi-Zitzmann and AI filmmaker Mark Wachholz have launched Dreamkite Studios, a Munich- and Berlin-based AI-native film studio, developing premium films, high-end TV series and IP-based short-form content. Dreamkite will combine generative AI with traditional filmmaking, employing professional directors and actors to create AI-first and hybrid productions. The company said [ ]",
-      "published": "2026-09-10T07:00:00+00:00",
-      "fetched": "2026-09-10T10:07:01.283864+00:00"
-    },
-    {
-      "id": "4b516478e73691af",
-      "title": "Okada Junichi-Hosted ‘The Floor’ Quiz Format Returns to Nippon TV for Season 2 in Japan (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/okada-junichi-the-floor-nippon-tv-season-2-1236856898/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Nippon TV has ordered a second season of Talpa Studios game show The Floor in Japan, building on the format s first full adaptation in Asia. The new season will premiere Oct. 21 across its national network.",
-      "published": "2026-09-10T07:00:00+00:00",
-      "fetched": "2026-09-10T10:07:01.283913+00:00"
-    },
-    {
-      "id": "525bee19a8fcc04d",
-      "title": "Yehuda Levi to Star in Cross-Border Action Thriller ‘The Escape’ for Keshet (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/global/yehuda-levi-the-escape-keshet-1236855808/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Yehuda Levi (“A Body that Works”) stars in a new international action-thriller “The Escape” for Keshet International. Set deep in the Colombian jungle, the eight-episode series, titled “Ha’Bricha” in Hebrew, centers around the scion of a religious cult leader who manages to flee but is forced to leave behind his wife and child. Once on [ ]",
-      "published": "2026-09-10T06:59:00+00:00",
-      "fetched": "2026-09-10T10:07:01.283965+00:00"
-    },
-    {
-      "id": "f829d1d3f05f728e",
-      "title": "Yami Gautam Dhar’s Amazon MGM Studios, Colour Yellow Film ‘Nayyi Navelli’ Unveils Teaser (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/yami-gautam-dhar-nayyi-navelli-teaser-1236856929/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Amazon MGM Studios and Colour Yellow have unveiled the teaser for Nayyi Navelli, a fantasy family entertainer starring Yami Gautam Dhar, ahead of its October theatrical release in India. The teaser opens on what looks like an ordinary household before the brother-in-law levels an accusation at the family s newest addition: bhabhi daayan hai ( sister-in-law is [ ]",
-      "published": "2026-09-10T06:42:00+00:00",
-      "fetched": "2026-09-10T10:07:01.284013+00:00"
-    },
-    {
-      "id": "3cd15368756ab100",
-      "title": "Underwater Life Breaks New Comedy Ground in ‘Submarine Jim,’ Xilam’s Latest Animated IP",
-      "link": "https://variety.com/2026/tv/markets-festivals/submarine-jim-xilam-animation-unifrance-rendez-vous-sales-1236856484/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "France may in general have suffered last year a sales decline and export slow-down but Submarine Jim s characters don t seem to be bothered as they weather this storm with a smile on their face. Xilam s latest production, in which a naive young dolphin (Jim) takes charge of an inverted submarine full of fish and sea [ ]",
-      "published": "2026-09-10T06:38:40+00:00",
-      "fetched": "2026-09-10T10:07:01.284060+00:00"
-    },
-    {
-      "id": "2ac65a48b5acf3fb",
-      "title": "Jimmy Kimmel Says James Talarico Interview Won’t Air on TV After Trump’s FCC Threatened His Show",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-james-talarico-interview-wont-air-fcc-threats-1235624321/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The late night host announced that his interview with the Texas Senate candidate will only air on YouTube",
-      "published": "2026-09-10T05:05:07+00:00",
-      "fetched": "2026-09-10T10:07:01.393001+00:00"
-    },
-    {
-      "id": "b9daf7bbd9cea2c8",
-      "title": "Harry Styles Announces 2027 Together, Together Tour Dates Are Coming: ‘I Hope to See You There’",
-      "link": "https://www.rollingstone.com/music/music-news/harry-styles-2027-together-together-tour-dates-coming-1235624191/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"I can't wait for us to keep dancing with all our friends,\" the star wrote in a letter to fans",
-      "published": "2026-09-10T01:18:33+00:00",
-      "fetched": "2026-09-10T01:38:48.429362+00:00"
-    },
-    {
-      "id": "a3004847cb1f8466",
-      "title": "Ken Paxton Isn’t Ready For Prime Time. Republicans Know It",
-      "link": "https://www.rollingstone.com/politics/politics-news/ken-paxton-prime-time-gop-midterm-convention-1235624195/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The candidate who should have been the star of the midterm convention was given five minutes to speak during rush hour",
-      "published": "2026-09-10T00:59:25+00:00",
-      "fetched": "2026-09-10T01:38:48.429396+00:00"
-    },
-    {
-      "id": "f7afc6341bf5de4b",
-      "title": "‘South Park’ Creators Apologize for the Years-Long Delay of Their Kendrick Lamar Movie: ‘We Still Believe in the Project’",
-      "link": "https://variety.com/2026/film/news/south-park-creators-apology-delay-kendrick-lamar-movie-1236856745/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“South Park” co-creators Trey Parker and Matt Stone have released an official apology for delaying their mysterious film collaboration with Kendrick Lamar. “We take full responsibility for the schedule delay of this movie,” Parker and Stone said in a statement to The Ankler. “We apologize to our partners at pgLang and Paramount, and we appreciate [ ]",
-      "published": "2026-09-10T00:44:43+00:00",
-      "fetched": "2026-09-10T01:38:48.250293+00:00"
-    },
-    {
-      "id": "3ff7b8a94db28104",
-      "title": "Trump White House Pulls Down Tetris-Like Game, in Which You Had to Stop a ‘Zombie Siege’ at Mexican Border, After Company’s Copyright Threat",
-      "link": "https://variety.com/2026/digital/news/trump-white-house-removes-tetris-game-copyright-threat-1236856740/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The White House has removed the Build the Wall game a Tetris knockoff in which players were tasked with fortifying the southern U.S. border to keep out illegal immigrants after the company that owns the rights to the popular title issued a statement saying it take[s] copyright infringement very seriously. Trump s White House [ ]",
-      "published": "2026-09-10T00:39:32+00:00",
-      "fetched": "2026-09-10T01:38:48.250352+00:00"
-    },
-    {
-      "id": "1f2d89aa00d515b6",
-      "title": "‘The Fire Within You’ Review: An Insufferable Christmas Eve Family Drama in Which the Corrosive Rants Are as Noxious as the Dyspeptic Images",
-      "link": "https://variety.com/2026/film/reviews/the-fire-within-you-review-1236856736/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Let’s hope there was a giant extractor fan on the set of “The Fire Within You,” because the stench of burnt oil must have been overwhelming. It’s not only food that gets blistered in Edoardo De Angelis’ overwrought screaming match, which makes one envious of the wax Odysseus had handy to plug up his sailors [ ]",
-      "published": "2026-09-10T00:29:07+00:00",
-      "fetched": "2026-09-10T01:38:48.250406+00:00"
-    },
-    {
-      "id": "aaa0a1f9d2921deb",
-      "title": "Billy Joel Says He Had Brain Surgery After His Diagnosis: ‘Don’t Worry About Me’",
-      "link": "https://variety.com/2026/music/news/billy-joel-brain-surgery-after-diagnosis-1236856601/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Billy Joel says he is doing better after brain surgery helped relieve some of the symptoms of normal pressure hydrocephalus, a disorder he was diagnosed with in 2025. On SiriusXM s Billy Joel channel Wednesday, the singer talked about the surgery he agreed to after noticing “my balance was not good, I had this sensation of [ ]",
-      "published": "2026-09-09T23:05:29+00:00",
-      "fetched": "2026-09-10T01:38:48.250454+00:00"
     }
   ]
 }

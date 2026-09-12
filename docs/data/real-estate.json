@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-12T09:40:13.262338+00:00",
+  "updated": "2026-09-12T14:27:47.569469+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b73a150dfd288bae",
+      "title": "Sausalito’s Highest-Priced Home Hits the Market for $10 Million With a Dedicated Wellness Floor",
+      "link": "https://www.realtor.com/news/unique-homes/highest-priced-sausalito-home-wellness-floor/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The $10 million abode is the town's most expensive, boasting bay views and an entire level dedicated to health and wellness.",
+      "published": "2026-09-12T14:17:00+00:00",
+      "fetched": "2026-09-12T14:27:47.568758+00:00"
+    },
+    {
+      "id": "9004c0ec222cb28c",
+      "title": "Jules Gregory’s Iconic Midcentury ‘Wave House’ Hits the Market for $2.6 Million",
+      "link": "https://www.realtor.com/news/unique-homes/jules-gregory-wave-house-for-sale-west-amwell-nj/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore Jules Gregory's $2.6M Wave House in NJ featuring $1.25M in architectural upgrades, a sunken lounge, and a separate studio.",
+      "published": "2026-09-12T13:32:00+00:00",
+      "fetched": "2026-09-12T14:27:47.568800+00:00"
+    },
+    {
+      "id": "6d76499edca84388",
+      "title": "Instagram Killed the HGTV Star, But the Hustle Might Be Even Tougher for Influencers",
+      "link": "https://www.realtor.com/news/reality-tv/instagram-home-influencers-entertain-beyond-hgtv/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Less viewers are watching TV, turning the spotlight on home influencers who reveal what the hustle is like behind-the-scenes.",
+      "published": "2026-09-12T11:44:00+00:00",
+      "fetched": "2026-09-12T14:27:47.568832+00:00"
+    },
+    {
+      "id": "c07955f3ae3e8d39",
+      "title": "The Real Reason Why Home Prices in The Villages Are Falling",
+      "link": "https://www.realtor.com/news/trends/the-villages-florida-home-prices-falling-reason/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While listing prices have fallen, another important number has been on the rise: number of homes on the market.",
+      "published": "2026-09-12T10:00:00+00:00",
+      "fetched": "2026-09-12T14:27:47.568860+00:00"
+    },
     {
       "id": "5e789b65bdf11c46",
       "title": "EXCLUSIVE: L.A. Home That Made $1.5 Million as a Hollywood Filming Location Hits the Market for $3.2 Million",
@@ -1462,46 +1502,6 @@
       "summary": "The 40-year-old basketball legend has relisted his longtime Suwanee, GA, mansion for $14.5 million, marking a $3.25 million increase.",
       "published": "2026-09-02T14:26:00+00:00",
       "fetched": "2026-09-02T15:25:58.666930+00:00"
-    },
-    {
-      "id": "8fbdcf9e3f6f477d",
-      "title": "The New (Better) 1% Rule for Real Estate",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1325",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The rules of real estate investing have changed. For years, investors were using the one-percent rule to quickly determine if a real estate deal would cash flow. But the one-percent [ ]",
-      "published": "2026-09-02T11:00:23+00:00",
-      "fetched": "2026-09-02T15:25:58.122380+00:00"
-    },
-    {
-      "id": "a94dad65368f9c39",
-      "title": "Build Your First Rental (DON’T Buy One) in 2026",
-      "link": "https://www.biggerpockets.com/blog/rookie-765",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Builders are currently offering huge incentives on new construction homes, to the point where buying new might be actually cheaper than buying an existing rental property in your market right [ ]",
-      "published": "2026-09-02T11:00:09+00:00",
-      "fetched": "2026-09-02T15:25:58.122426+00:00"
-    },
-    {
-      "id": "2cc82abd3399fdde",
-      "title": "Mortgage Rate Shock Stalls Housing Market as 8-Month Growth Streak Collapses",
-      "link": "https://www.realtor.com/news/trends/high-mortgage-rates-pending-sales-august-2026-housing-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pending home sales in August dropped for the first time in eight months against a backdrop of surging mortgage rates.",
-      "published": "2026-09-02T09:00:00+00:00",
-      "fetched": "2026-09-02T10:01:23.578175+00:00"
-    },
-    {
-      "id": "5c75148d5dda678c",
-      "title": "Compass Settles Lawsuit With Northwest MLS in Deal To Allow ‘First Look’ Preview Listings",
-      "link": "https://www.realtor.com/news/real-estate-news/compass-lawsuit-nwmls-settlement-preview-listings/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Compass has settled a longstanding legal dispute with the Northwest Multiple Listing Service over private listings.",
-      "published": "2026-09-01T23:08:50+00:00",
-      "fetched": "2026-09-02T01:35:36.938471+00:00"
     }
   ]
 }
