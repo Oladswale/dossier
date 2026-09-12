@@ -1,8 +1,58 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-12T01:44:15.205068+00:00",
+  "updated": "2026-09-12T09:40:10.564232+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e3b6503b81c7d5d0",
+      "title": "Gary Oldman Predicts HBO’s ‘Harry Potter’ Series Will Be ‘More Satisfying’ for Fans Than the Movies",
+      "link": "https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Gary Oldman, who played Sirius Black in four Harry Potter movies, said he believes HBO s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser than the Warner Bros. films. That s because the movies were significantly abridged from J.K.",
+      "published": "2026-09-12T05:54:51+00:00",
+      "fetched": "2026-09-12T09:40:10.154622+00:00"
+    },
+    {
+      "id": "1c7dedb961e35358",
+      "title": "Paramount Argues States’ Antitrust Suit Will ‘Collapse Under Scrutiny’",
+      "link": "https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Paramount s lawyers filed a legal response to the states antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial next March. Among other defenses, Paramount s lawyers said they may claim that the coalition of 12 states lacks the authority to regulate the merger, which [ ]",
+      "published": "2026-09-12T04:16:38+00:00",
+      "fetched": "2026-09-12T09:40:10.154672+00:00"
+    },
+    {
+      "id": "88448cd202f27e9a",
+      "title": "Jimmy Kimmel’s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube",
+      "link": "https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jimmy Kimmel s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was revealed during Wednesday night s episode of Jimmy Kimmel Live!",
+      "published": "2026-09-12T03:15:43+00:00",
+      "fetched": "2026-09-12T09:40:10.154715+00:00"
+    },
+    {
+      "id": "a506f8fb0dd2d70c",
+      "title": "‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance",
+      "link": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In \"The Julia Set,\" she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it is). But she also makes Julia a highly focused and mature young woman who is still, by virtue of age and inexperience, just naïve enough to be poised between assertion and following the lead of a dude she should have steered clear of.",
+      "published": "2026-09-12T02:54:48+00:00",
+      "fetched": "2026-09-12T09:40:10.154768+00:00"
+    },
+    {
+      "id": "a0851728b12f1a28",
+      "title": "Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine",
+      "link": "https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Pink addressed the backlash she received after reposting a call for Macklemore to apologize following his statements on stage",
+      "published": "2026-09-12T02:03:10+00:00",
+      "fetched": "2026-09-12T09:40:10.318746+00:00"
+    },
     {
       "id": "edf010af2e53a694",
       "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
@@ -1452,56 +1502,6 @@
       "summary": "Billy Joel says he is doing better after brain surgery helped relieve some of the symptoms of normal pressure hydrocephalus, a disorder he was diagnosed with in 2025. On SiriusXM s Billy Joel channel Wednesday, the singer talked about the surgery he agreed to after noticing “my balance was not good, I had this sensation of [ ]",
       "published": "2026-09-09T23:05:29+00:00",
       "fetched": "2026-09-10T01:38:48.250454+00:00"
-    },
-    {
-      "id": "4ff5c06f75895710",
-      "title": "How ‘The Shards’ Made Music the Star of the Show",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-shards-music-supervisor-interview-1235622562/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The show's music supervisor talks about crafting those perfect Eighties vibes — and series co-creator Brett Easton Ellis' crazy-long playlist",
-      "published": "2026-09-09T23:00:00+00:00",
-      "fetched": "2026-09-10T01:38:48.429427+00:00"
-    },
-    {
-      "id": "0e19e5f2a9ecbdd9",
-      "title": "How Mark Carney Became Leader of the Free World by Standing Up to Trump",
-      "link": "https://www.rollingstone.com/politics/political-commentary/mark-carney-stands-up-trump-trade-war-canada-1235623647/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The president is trying to strong-arm America's neighbor to the north. It isn't working",
-      "published": "2026-09-09T23:00:00+00:00",
-      "fetched": "2026-09-10T01:38:48.429452+00:00"
-    },
-    {
-      "id": "db4341c2ce62b23e",
-      "title": "‘Jupiter’ Review: A Claustrophobic Study of a Nuclear-Escalation Nightmare That Feels Too Small for the Big Screen",
-      "link": "https://variety.com/2026/film/reviews/jupiter-review-1236847030/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Fictional French President Paul Archambault, as played with gimlet-eyed resolve by Denis Menochet in Alexandre Smia s Jupiter is, we re cued to believe, a good man. Thrust suddenly into a lurching nuclear crisis, he gathers ministers and advisers around him and listens intently to their staunchly opposing views on escalation vs appeasement. They are also good [ ]",
-      "published": "2026-09-09T22:46:34+00:00",
-      "fetched": "2026-09-10T01:38:48.250503+00:00"
-    },
-    {
-      "id": "41f6c8bfc1a79afe",
-      "title": "‘Diarra From Detroit’ Creator Diarra Kilpatrick on the Season 2 Finale, Moving to Paramount+ and Why Centering Black Women’s Stories Is ‘Inherently Political’",
-      "link": "https://variety.com/2026/tv/features/diarra-from-detroit-creator-diarra-kilpatrick-season-2-finale-season-3-plans-1236855012/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: The following story contains plot details from the Season 2 finale of “Diarra From Detroit” now streaming on Paramount+. With the Paramount-Warner Bros. merger hanging in the balance and a presidential administration that is persistently hostile to diversity, Black-led series like Natasha Rothwell’s well-reviewed Hulu comedy “How to Die Alone,” Issa Rae’s HBO [ ]",
-      "published": "2026-09-09T22:30:00+00:00",
-      "fetched": "2026-09-10T01:38:48.250557+00:00"
-    },
-    {
-      "id": "06c3b5b0cd77b082",
-      "title": "‘Avengers: Doomsday’ Has Already Made $50 Million in Pre-Sales, Three Months Before Release",
-      "link": "https://variety.com/2026/film/news/avengers-doomsday-pre-sales-50-million-1236856525/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Doomsday typically indicates disaster, but for Marvel Studios that term is forecasting a booming box office. Disney reports that the next entry in the sprawling Marvel Cinematic Universe, “Avengers: Doomsday,” has already made $50 million in domestic pre-sales, three months before the movie’s Dec. 18 release date.",
-      "published": "2026-09-09T22:16:17+00:00",
-      "fetched": "2026-09-10T01:38:48.250607+00:00"
     }
   ]
 }
