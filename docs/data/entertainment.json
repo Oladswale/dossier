@@ -1,8 +1,108 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-12T19:43:47.745404+00:00",
+  "updated": "2026-09-13T01:34:49.022290+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "73d0cba446d8b330",
+      "title": "‘I Play Rocky’ Premieres at TIFF: A Movie About a Best Picture Winner That’s a Best Picture Contender?",
+      "link": "https://variety.com/2026/film/awards/i-play-rocky-tiff-premiere-peter-farrelly-stallone-oscars-1236859905/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Yo Adrian, Rocky did it … again! Only this time, the famed character is at TIFF in biopic form, thanks to director Peter Farrelly, screenwriter Peter Gamble and a star-making turn from Anthony Ippolito, who portrays actor Sylvester Stallone in the story of his relentless determination to bring “Rocky” to the big screen. This has [ ]",
+      "published": "2026-09-13T01:10:02+00:00",
+      "fetched": "2026-09-13T01:34:48.670552+00:00"
+    },
+    {
+      "id": "f04d425ddf2be4b3",
+      "title": "Paramount Leaving California Would Devastate Los Angeles Economy, Leaked Report Finds",
+      "link": "https://variety.com/2026/film/news/paramount-leaving-california-los-angeles-economy-job-loss-1236860125/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A leaked report from the Los Angeles Economic Development Corporation outlines devastating aftershocks that would follow if David Ellison pulled Paramount Skydance out of California. A copy of the report published by Politico reads, “At a minimum, relocating Paramount’s headquarters and other operations out of California would result in losses of 2,750 and 5,550 job-years [ ]",
+      "published": "2026-09-12T23:41:31+00:00",
+      "fetched": "2026-09-13T01:34:48.670613+00:00"
+    },
+    {
+      "id": "0258f4f58a27863d",
+      "title": "‘Everybody Wants to F— Me’ Review: Giddily Genre-Crossing Comedy Sees Right Through Taron Egerton’s Nice-Guy Act",
+      "link": "https://variety.com/2026/film/reviews/everybody-wants-to-fuck-me-review-taron-egerton-1236859572/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Just when the victim/villain discourse about sleeper smash Obsession was finally beginning to die down, along comes Everybody Wants to Fuck Me — another story of a young man s desires getting violently over-satisfied — to start it all up again. Merging romantic comedy, body horror and gender-war satire as casually as its handsome, outwardly affable [ ]",
+      "published": "2026-09-12T22:58:09+00:00",
+      "fetched": "2026-09-13T01:34:48.670670+00:00"
+    },
+    {
+      "id": "b751cd6163172bad",
+      "title": "‘SNL U.K.’ Weekend Update Takes Aim at Trump’s New Hair — and Paddy Young Says the Punchline Was ‘Taken From Me by Our Legal Team’",
+      "link": "https://variety.com/2026/tv/global/snl-uk-weekend-update-trump-new-hair-1236860013/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "U.S. President Donald Trump’s new hairstyle was heavily mocked in “Saturday Night Live U.K. s Weekend Update segment.",
+      "published": "2026-09-12T22:20:51+00:00",
+      "fetched": "2026-09-13T01:34:48.670728+00:00"
+    },
+    {
+      "id": "ade49577c494b088",
+      "title": "Jeff Goldblum Performs a Jazz Number to Open ‘SNL U.K.’ Season 2: ‘Hoping You’ll Like Me More Than Nando’s or Marmite’",
+      "link": "https://variety.com/2026/tv/global/jeff-goldblum-snl-uk-host-jazz-song-1236859923/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jeff Goldblum kicked off his hosting duties on Saturday Night Live U.K. by employing his musical skills in a jazzy number about spending time in London. Can you believe this is Saturday night, first of all?",
+      "published": "2026-09-12T21:37:12+00:00",
+      "fetched": "2026-09-13T01:34:48.670786+00:00"
+    },
+    {
+      "id": "ccf83c08b538668e",
+      "title": "Camera-Shy Chrissie Hynde on Finally Allowing a Definitive Doc to Be Made About ‘The Pretenders,’ Bowing in Toronto: ‘I Just Wanted to Be in a Band. I’ve Never Graduated Beyond That Initial Interest in It’",
+      "link": "https://variety.com/2026/music/news/pretenders-documentary-chrissie-hynde-toronto-film-festival-1236859953/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "At this late date, what the Pretenders accomplished is no mystery achievement. But it s also a story that has never been extensively chronicled on film until The Pretenders, a Joss Crowley-directed doc that premieres Sunday at the Toronto International Film Festival. The band released what might rightly be considered the best rock n roll debut [ ]",
+      "published": "2026-09-12T21:27:37+00:00",
+      "fetched": "2026-09-13T01:34:48.670843+00:00"
+    },
+    {
+      "id": "4f003ee1e3d9c0ab",
+      "title": "‘SNL U.K.’ Mocks Prince Harry and Meghan Markle’s British Return in Cold Open: ‘Don’t Tell Me You’ve Spent All Your Netflix Money Already!’",
+      "link": "https://variety.com/2026/tv/global/snl-uk-mocks-prince-harry-meghan-markle-british-return-1236859945/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Prince Harry and Meghan Markle’s recent much-publicized return to England was mocked in the cold open of the first episode of Saturday Night Live U.K. Season 2. The cold open began with Larry Dean as King Charles II and Emma Sidi as Queen Camilla relaxing at Balmoral Castle in Scotland (“I do love our weekends [ ]",
+      "published": "2026-09-12T21:25:08+00:00",
+      "fetched": "2026-09-13T01:34:48.670896+00:00"
+    },
+    {
+      "id": "121fed57312d8cda",
+      "title": "‘Letters From the Silenced Country’ Wins Golden Globes Impact Prize for Documentary Presented During Venice Film Festival (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/festivals/letters-from-silenced-country-golden-globes-impact-prize-1236858484/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Belarusian director Andrei Kutsila s Letters from the Silenced Country, a portrayal of contemporary Belarus seen through the lives of five individuals whose existence has been upended by state violence and political repression, is the winner of The Golden Globes Impact Prize for Documentary awarded in partnership with Artemis Rising Foundation at the Venice Film Festival. The [ ]",
+      "published": "2026-09-12T21:00:00+00:00",
+      "fetched": "2026-09-13T01:34:48.670947+00:00"
+    },
+    {
+      "id": "5492c7c399298045",
+      "title": "Mia Wasikowska Fills Out the Screen As ‘Agata the Writer’ in Kuba Dorabialski’s Venice Drama: ‘It’s Our Responsibility to Understand Each Other’",
+      "link": "https://variety.com/2026/film/global/mia-wasikowska-agata-the-writer-kuba-dorabialski-venice-1236859514/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Mia Wasikowska fills out the screen in Kuba Dorabialski’s “Agata the Writer.” Metaphorically and figuratively, as one especially arresting sequence shows her in close-up looking directly at the audience and recounting the rest of the story. “I was so curious about it,” she says. “Luckily, when I’m doing something, I don’t think too much about [ ]",
+      "published": "2026-09-12T20:56:32+00:00",
+      "fetched": "2026-09-13T01:34:48.671002+00:00"
+    },
+    {
+      "id": "40bb026a18232c70",
+      "title": "Maggie Gyllenhaal’s Venice Jury Didn’t Award ‘Woman Unknown’ the Golden Lion Just Because It Was Directed by a Woman: It ‘Was Like a Laser Beam’",
+      "link": "https://variety.com/2026/film/festivals/maggie-gyllenhaal-woman-unknown-venice-win-not-statement-1236859872/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Maggie Gyllenhaal kicked off her term as Venice jury president by calling out the lack of women filmmakers in the running for the prestigious Golden Lion. And on Saturday night, she concluded it by awarding the prize to the only film solely directed by a woman: May el-Toukhy s Woman Unknown. But at a press conference [ ]",
+      "published": "2026-09-12T20:55:35+00:00",
+      "fetched": "2026-09-13T01:34:48.671051+00:00"
+    },
     {
       "id": "36a6079331a85af0",
       "title": "Pierce Brosnan Thinks the Next James Bond Will Be ‘Someone That None of Us Know About’: ‘There Are Lots of Good Hats in the Ring’",
@@ -1402,106 +1502,6 @@
       "summary": "Sherri Shepherd is stepping back into the spotlight this weekend with a new film that tells the true story of a 9/11 survivor. The actress stars in Angel in the Rubble: The Genelle Guzman Story, which premieres on Lifetime this Saturday, Sept. 12 at 8 p.m.",
       "published": "2026-09-10T18:26:21+00:00",
       "fetched": "2026-09-10T20:08:38.456193+00:00"
-    },
-    {
-      "id": "a3b01a2c34e92746",
-      "title": "Billy Joel Pays Tribute to ‘Best Friend’ Jon Small: ‘Like a Brother to Me’",
-      "link": "https://www.rollingstone.com/music/music-news/billy-joel-pays-tribute-jon-small-1235624727/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Losing Jon has hit me in a way I have never experienced. It is difficult to imagine this world without him in it,” singer writes of former bandmate and longtime friend",
-      "published": "2026-09-10T17:51:47+00:00",
-      "fetched": "2026-09-10T20:08:38.605190+00:00"
-    },
-    {
-      "id": "16535bb9eb493daa",
-      "title": "Nice as Fuck — Featuring Jenny Lewis and Members of Au Revoir Simone and the Like — Are Back for a Tour",
-      "link": "https://www.rollingstone.com/music/music-news/nice-as-fuck-10-anniversary-reunion-tour-1235624710/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Group will embark on a 10th-anniversary tour this fall",
-      "published": "2026-09-10T17:26:39+00:00",
-      "fetched": "2026-09-10T20:08:38.605210+00:00"
-    },
-    {
-      "id": "ac9320cfedb90456",
-      "title": "Snoop Dogg to Host VMAs as Show Returns to West Coast",
-      "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-host-vmas-show-returns-to-west-coast-1235624264/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Some of the biggest moments of my career happened on that stage and on MTV,” said the rap mogul",
-      "published": "2026-09-10T17:00:00+00:00",
-      "fetched": "2026-09-10T20:08:38.605230+00:00"
-    },
-    {
-      "id": "db68f58651bd199e",
-      "title": "Julien Baker Returns to the Road With Rock Club Residency Tour This Fall",
-      "link": "https://www.rollingstone.com/music/music-news/julien-baker-rock-club-residency-tour-1235624445/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Singer will stage three-night stands in six cities, performing tracks from throughout her catalog as well as new music",
-      "published": "2026-09-10T17:00:00+00:00",
-      "fetched": "2026-09-10T20:08:38.605251+00:00"
-    },
-    {
-      "id": "6451b459f038c921",
-      "title": "Willy Chavarria Drops Biker-Inspired Ugg Collab and Campaign Starring Ivan Cornejo and Becky G",
-      "link": "https://www.rollingstone.com/product-recommendations/style/willy-chavarria-ugg-shoes-collaboration-buy-online-1235623954/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The collection, announced in August and available now, features the musicians alongside Danny Trejo and Eva Longoria",
-      "published": "2026-09-10T16:00:00+00:00",
-      "fetched": "2026-09-10T20:08:38.605270+00:00"
-    },
-    {
-      "id": "eb77cbb36ba3562f",
-      "title": "U2 to Be Honored as MusiCares’ 2027 Persons of the Year",
-      "link": "https://www.rollingstone.com/music/music-news/u2-musicares-2027-persons-of-the-year-1235624168/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The 36th annual benefit gala will highlight the work of Bono, the Edge, Adam Clayton, and Larry Mullen Jr.",
-      "published": "2026-09-10T16:00:00+00:00",
-      "fetched": "2026-09-10T20:08:38.605290+00:00"
-    },
-    {
-      "id": "87922a084a53f0ec",
-      "title": "Cinema Guild Takes North American Rights on Ted Fendt’s ‘Foreign Travel’ Ahead of New York Film Festival Launch (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/cinema-guild-ted-fendt-foreign-travel-new-york-festival-1236857239/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Indie distributor Cinema Guild has acquired North American distribution rights for Berlin-based U.S. director and literary translator Ted Fendt s Foreign Travel that will have its North American premiere at the New York Film Festival next month. Foreign Travel, which launched from Berlin s Forum section in February, is a portrait of a group of people linked [ ]",
-      "published": "2026-09-10T15:02:17+00:00",
-      "fetched": "2026-09-10T15:17:38.373992+00:00"
-    },
-    {
-      "id": "85595ec7b23ddccd",
-      "title": "Lee Pace on Romancing Sandra Bullock in ‘Practical Magic 2,’ Life as a Gay Leading Man and His 6-Foot-Five Star Power: ‘I’m a Monster!’",
-      "link": "https://variety.com/2026/film/features/lee-pace-practical-magic-2-nude-scene-gay-movie-star-1236851593/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The first scene Lee Pace shot in “Practical Magic 2” required plenty of prosthetic tattoos — and zero wardrobe. “I’m lying on this bed, naked,” Pace says with a laugh, “and the two of them come into the room and do some magic.” In the sequel to 1998’s beloved fantasy film, Sandra Bullock and Nicole [ ]",
-      "published": "2026-09-10T15:00:00+00:00",
-      "fetched": "2026-09-10T15:17:38.374052+00:00"
-    },
-    {
-      "id": "57f96cbd5e47fa2c",
-      "title": "Amalie Næsby Fick on Toronto-Bound ‘What Lies Between Us’ and Challenging Viewers: Would You Defend Your Child, No Matter What? (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/toronto-amalie-naesby-fick-what-lies-between-us-1236855537/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety has been given exclusive access “What Lies Between Us” (“Dobbeltfejl ), selected for Toronto’s Discovery section and one of three short-listed Danish pics to become Denmark s Oscar entry. The feature (formerly known as “Good Mothers”) reunites some of Denmark’s finest talents on both sides of the camera: the stars of the cult series “Borgen” — [ ]",
-      "published": "2026-09-10T15:00:00+00:00",
-      "fetched": "2026-09-10T15:17:38.374107+00:00"
-    },
-    {
-      "id": "a389216103b9350b",
-      "title": "Emmys 2026 Party Guide With Katherine LaNasa, Quinta Brunson and Richard Gadd",
-      "link": "https://variety.com/2026/tv/columns/emmys-2026-party-guide-1236856662/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Television’s biggest night of the year is almost here. In other words, let the partying begin. The festivities kick off with Gold House’s One House Toast to the Emmys as well as the Creative Coalition’s Humanitarian Awards dinner.",
-      "published": "2026-09-10T15:00:00+00:00",
-      "fetched": "2026-09-10T15:17:38.374158+00:00"
     }
   ]
 }

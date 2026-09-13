@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-09-12T19:43:32.644155+00:00",
+  "updated": "2026-09-13T01:34:34.314251+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "34efebd98ad09243",
+      "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+      "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Concerns about AI safety have ramped up, and OpenAI’s CEO says now would be an ‘ill-advised’ time for the ChatGPT creator to go public",
+      "published": "2026-09-12T21:50:00+00:00",
+      "fetched": "2026-09-13T01:34:32.422801+00:00"
+    },
+    {
+      "id": "0ec20c936428ed7c",
+      "title": "NELFUND funding for nursing students jumps 14-fold to N812 million",
+      "link": "https://nairametrics.com/2026/09/12/nelfund-funding-for-nursing-students-jumps-14-fold-to-n812-million/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Education Loan Fund (NELFUND) has increased funding for nursing and midwifery education nearly 14-fold to N811.9 million in the 2025/2026 academic session from N59.4 million in 2023/2024. The latest figure was disclosed in a statement issued by NELFUND’s Director of Strategic Communications, Oseyemi Oluwatuyi, on Saturday. The increase brings NELFUND’s total disbursement for [ ] The post NELFUND funding for nursing students jumps 14-fold to N812 million appeared first on Nairametrics .",
+      "published": "2026-09-12T20:15:47+00:00",
+      "fetched": "2026-09-13T01:34:33.065711+00:00"
+    },
     {
       "id": "092378d2aa1b6130",
       "title": "INEC releases final list of 18 Presidential candidates for 2027 elections",
@@ -1482,26 +1502,6 @@
       "summary": "Nigeria spent N3.30 trillion on food and beverage imports in the first half of 2026, with import expenditure rising sharply in the second quarter. The post Nigeria Spends N3.3 trillion on food imports as food security pressure mounts appeared first on Nairametrics .",
       "published": "2026-09-10T06:52:35+00:00",
       "fetched": "2026-09-10T10:06:50.826114+00:00"
-    },
-    {
-      "id": "64f80087607b30b4",
-      "title": "NCX, Bank of Agriculture launch price guarantee scheme to protect 500,000 farmers",
-      "link": "https://nairametrics.com/2026/09/10/ncx-bank-of-agriculture-launch-price-guarantee-scheme-to-protect-500000-farmers/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Commodity Exchange (NCX), in partnership with the Bank of Agriculture (BOA) and the All Farmers Association of Nigeria (AFAN), has launched the Guaranteed Minimum Price (GMP) Programme aimed at protecting farmers from price volatility and improving food security across the country. The post NCX, Bank of Agriculture launch price guarantee scheme to protect 500,000 farmers appeared first on Nairametrics .",
-      "published": "2026-09-10T06:25:09+00:00",
-      "fetched": "2026-09-10T10:06:50.826161+00:00"
-    },
-    {
-      "id": "fe8a4de26f440e1a",
-      "title": "Can PAPSS overcome regulatory hurdles to transform intra-African payments?",
-      "link": "https://techcabal.com/2026/09/10/papss-payment-network-africans-use/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Since launching in January 2022, PAPSS says it currently connects 30 African countries, 24 central banks, about 200 financial institutions and more than 16 payment switches.",
-      "published": "2026-09-10T06:12:55+00:00",
-      "fetched": "2026-09-10T10:06:51.494602+00:00"
     }
   ]
 }
