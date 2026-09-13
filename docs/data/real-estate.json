@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-13T15:08:46.598783+00:00",
+  "updated": "2026-09-13T19:55:20.332128+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "27c463c94612e6d8",
+      "title": "Iconic Luxury Brand Cipriani Unveils Two Miami Penthouses at $53 Million",
+      "link": "https://www.realtor.com/news/trends/cipriani-residences-miami-penthouse-1931-collection/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The iconic Cipriani hospitality brand has unveiled its two crown jewel penthouses atop its only residence tower in the U.S.",
+      "published": "2026-09-13T19:46:00+00:00",
+      "fetched": "2026-09-13T19:55:20.331505+00:00"
+    },
+    {
+      "id": "9271c521a4871798",
+      "title": "1975 Illinois Time Capsule House Featuring Bold Shag Carpet and Sunken Living Room Sells in Days",
+      "link": "https://www.realtor.com/news/unique-homes/1975-time-capsule-house-east-dubuque-illinois-shag-carpet/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nostalgia is hot right now and multiple offers came quickly for one house with a lot of it. The home in East Dubuque, IL was built in 1975 and hasn’t",
+      "published": "2026-09-13T18:01:00+00:00",
+      "fetched": "2026-09-13T19:55:20.331543+00:00"
+    },
+    {
+      "id": "de8caa75f6fe4eaf",
+      "title": "This $27 Million Upper West Side Triplex Penthouse Comes With Dual Terraces and NYC’s First Residential Pickleball Court",
+      "link": "https://www.realtor.com/news/unique-homes/the-henry-upper-west-side-27m-triplex-penthouse/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Listed for $27M, Penthouse East at The Henry offers 5 bedrooms, Central Park views, and Manhattan's first residential pickleball court.",
+      "published": "2026-09-13T17:13:00+00:00",
+      "fetched": "2026-09-13T19:55:20.331569+00:00"
+    },
+    {
+      "id": "3ec64bd7d7837f95",
+      "title": "The ‘Ghost Condos’ of L.A.: Why Is a Chinese State-Backed Company Holding Hundreds of Empty Units?",
+      "link": "https://www.realtor.com/news/trends/metropolis-greenland-chinese-developer-ghost-condo-los-angeles/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A review of records of the Metropolis condo complex found that around a third of the units are still owned by the developer.",
+      "published": "2026-09-13T16:16:00+00:00",
+      "fetched": "2026-09-13T19:55:20.331594+00:00"
+    },
+    {
+      "id": "71c806aed09083d0",
+      "title": "Former 1847 Ohio Jail Goes Under Offer for $400K: How One Family Turned Inmate Cells Into Pantries and Closets",
+      "link": "https://www.realtor.com/news/unique-homes/former-ohio-jail-home-perrysburg-owner-interview/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Listing agent Caroline Hoffmann shares what it was like growing up with 19th-century inmate cells in the dining room.",
+      "published": "2026-09-13T15:30:00+00:00",
+      "fetched": "2026-09-13T19:55:20.331616+00:00"
+    },
     {
       "id": "1e1b099d7a55585a",
       "title": "Midcentury Modern Hobart Wagener Home Near Boulder Relists After $1 Million Price Cut",
@@ -1452,56 +1502,6 @@
       "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberations",
       "published": "2026-09-02T19:03:00+00:00",
       "fetched": "2026-09-02T20:11:02.240720+00:00"
-    },
-    {
-      "id": "07c77f1c0ec31852",
-      "title": "‘Dancing With the Stars’ Season 35 Cast Revealed: Inside the Incredible Homes the Celebrities Retreat To After the Ballroom",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dancing-with-the-stars-cast-revealed-inside-their-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"Dancing With the Stars\" has unveiled the 16 celebrities who will battle it out for the Mirrorball Trophy during the show's 35th season.",
-      "published": "2026-09-02T19:01:28+00:00",
-      "fetched": "2026-09-03T01:39:12.124248+00:00"
-    },
-    {
-      "id": "380f391400584a73",
-      "title": "‘Dancing With the Stars’ Season 35 Cast Revealed: Inside the Incredible Homes the Celebrities Retreat to After the Ballroom",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dancing-with-the-stars-cast-revealed-inside-their-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"Dancing With the Stars\" has unveiled the 16 celebrities who will battle it out for the Mirrorball Trophy during the show's 35th season.",
-      "published": "2026-09-02T19:01:28+00:00",
-      "fetched": "2026-09-02T20:11:02.240751+00:00"
-    },
-    {
-      "id": "5ada2c9fccc144d6",
-      "title": "How Growing Up Between 2 Santa Cruz Homes Shaped ‘Severance’ Star Adam Scott’s Journey to Hollywood",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/severance-star-adam-scott-santa-cruz-childhood-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Scott has opened up about his childhood growing up in Santa Cruz, CA, revealing how his parents' very different homes helped shape him.",
-      "published": "2026-09-02T18:59:16+00:00",
-      "fetched": "2026-09-02T20:11:02.240782+00:00"
-    },
-    {
-      "id": "7c5ad9c3c812b38f",
-      "title": "SkyMall Founder and Former Arizona State Sen. Bob Worsley Lists Off-Grid Legacy Ranch for $9.5 Million",
-      "link": "https://www.realtor.com/news/unique-homes/skymall-founder-bob-worsley-lists-legacy-ranch/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Legacy Lodge anchors a 35-acre ranch featuring multiple structures. The retreat is ideal for extended family and friends to gather.",
-      "published": "2026-09-02T18:44:29+00:00",
-      "fetched": "2026-09-02T20:11:02.240810+00:00"
-    },
-    {
-      "id": "0d7acee614ea0b5e",
-      "title": "Furniture, Appliances, and Construction Among the Hardest Hit by Tariffs, Chicago Fed Says",
-      "link": "https://www.realtor.com/news/real-estate-news/tariff-price-impact-chicago-fed-study-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Chicago Fed also doubted the tariffs counterbalanced those increased costs by bolstering jobs in the short run.",
-      "published": "2026-09-02T18:42:00+00:00",
-      "fetched": "2026-09-02T20:11:02.240837+00:00"
     }
   ]
 }

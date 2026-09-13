@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-09-13T15:08:28.720422+00:00",
+  "updated": "2026-09-13T19:55:02.780934+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "546cc18a78ffc07f",
+      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
+      "published": "2026-09-13T19:00:00+00:00",
+      "fetched": "2026-09-13T19:55:01.811851+00:00"
+    },
+    {
+      "id": "24ee5e9d9cee1749",
+      "title": "CPPE urges targeted relief as higher petrol prices squeeze Nigerians",
+      "link": "https://nairametrics.com/2026/09/13/cppe-urges-targeted-relief-as-higher-petrol-prices-squeeze-nigerians/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Centre for the Promotion of Private Enterprise (CPPE) has called on the Federal Government to urgently implement socially sensitive measures to cushion the impact of rising petrol prices on households and businesses across the country. The post CPPE urges targeted relief as higher petrol prices squeeze Nigerians appeared first on Nairametrics .",
+      "published": "2026-09-13T15:30:52+00:00",
+      "fetched": "2026-09-13T19:55:02.210812+00:00"
+    },
+    {
+      "id": "32cf8544b31f209d",
+      "title": "Why cheap land won’t make Lagos, Abuja homes affordable—Developer",
+      "link": "https://nairametrics.com/2026/09/13/why-cheap-land-wont-make-lagos-abuja-homes-affordable-developer/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Cheap land on the outskirts of Lagos and Abuja will not necessarily translate to affordable homes because developers still have to absorb infrastructure, construction and financing costs, according to Michael Onyeachor, co-founder of Besitz Group Limited. The post Why cheap land won’t make Lagos, Abuja homes affordable—Developer appeared first on Nairametrics .",
+      "published": "2026-09-13T15:16:09+00:00",
+      "fetched": "2026-09-13T19:55:02.210862+00:00"
+    },
     {
       "id": "583c2754b980c63b",
       "title": "Petrol rises above N1,400/litre as crude oil climbs past $100 per barrel",
@@ -1472,36 +1502,6 @@
       "summary": "You know we all like to get emotional and jump on the bandwagon without really looking closely at the opportunity. The post Dangote Refinery IPO look before you leap appeared first on Nairametrics .",
       "published": "2026-09-10T11:55:00+00:00",
       "fetched": "2026-09-10T15:17:26.672106+00:00"
-    },
-    {
-      "id": "1ab283446c7c891e",
-      "title": "Brent crude surges above $100 after US, Iran’s biggest tanker attacks",
-      "link": "https://nairametrics.com/2026/09/10/brent-crude-surges-above-100-after-us-irans-biggest-tanker-attacks/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Global oil prices continue above the $100 mark after Wednesday's increase of $101.20 for the first time since July 24, 2026, amid an escalating Middle East crisis. The post Brent crude surges above $100 after US, Iran’s biggest tanker attacks appeared first on Nairametrics .",
-      "published": "2026-09-10T10:04:29+00:00",
-      "fetched": "2026-09-10T10:06:50.825608+00:00"
-    },
-    {
-      "id": "f2e3f0db661f2ca4",
-      "title": "Why NGX postponed launch of new Shares Pricing Methodology",
-      "link": "https://nairametrics.com/2026/09/10/why-ngx-postponed-launch-of-new-shares-pricing-methodology/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Exchange (NGX) postponed the scheduled August launch of its new pricing methodology as market participants called for more time to absorb the impact of recent reforms, particularly the transition to T+1 settlement cycle, while investors prepare for the Dangote Refinery’s planned N2.15 trillion initial public offering (IPO). The post Why NGX postponed launch of new Shares Pricing Methodology appeared first on Nairametrics .",
-      "published": "2026-09-10T10:00:20+00:00",
-      "fetched": "2026-09-10T10:06:50.825673+00:00"
-    },
-    {
-      "id": "0043e4f4bd384320",
-      "title": "Police arrest suspect behind fake OPay shutdown report",
-      "link": "https://nairametrics.com/2026/09/10/police-arrest-suspect-behind-fake-opay-shutdown-report/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Police Force National Cybercrime Centre (NPF-NCCC) has arrested a 27-year-old woman, Hafsat Abubakar, over her alleged role in the creation and circulation of a forged document falsely claiming that fintech company OPay was shutting down operations. The post Police arrest suspect behind fake OPay shutdown report appeared first on Nairametrics .",
-      "published": "2026-09-10T09:45:12+00:00",
-      "fetched": "2026-09-10T10:06:50.825721+00:00"
     }
   ]
 }
