@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-13T10:41:33.276794+00:00",
+  "updated": "2026-09-13T15:08:46.598783+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1e1b099d7a55585a",
+      "title": "Midcentury Modern Hobart Wagener Home Near Boulder Relists After $1 Million Price Cut",
+      "link": "https://www.realtor.com/news/unique-homes/hobart-wagener-midcentury-boulder-estate-1530-timber-lane/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Designed by architect Hobart Wagener, this 10-acre midcentury modern Boulder estate relists for $9.95M following a $1M price cut.",
+      "published": "2026-09-13T13:13:00+00:00",
+      "fetched": "2026-09-13T15:08:46.598223+00:00"
+    },
+    {
+      "id": "7365ba7694f7c006",
+      "title": "From the Painted Ladies to the ‘Practical Magic’ House, Queen Anne Victorians Are Pop Culture’s Darling",
+      "link": "https://www.realtor.com/news/unique-homes/queen-anne-victorian-architectural-style-history/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "From \"Practical Magic\" to \"Full House,\" some of entertainment's most memorable homes have leveraged this classic architectural style.",
+      "published": "2026-09-13T12:08:00+00:00",
+      "fetched": "2026-09-13T15:08:46.598260+00:00"
+    },
     {
       "id": "80131a227abe98fc",
       "title": "Rare $18M Salmon-Pink 1938 Colonial Listing Hits the Palm Beach Market",
@@ -1482,26 +1502,6 @@
       "summary": "The Chicago Fed also doubted the tariffs counterbalanced those increased costs by bolstering jobs in the short run.",
       "published": "2026-09-02T18:42:00+00:00",
       "fetched": "2026-09-02T20:11:02.240837+00:00"
-    },
-    {
-      "id": "cae6a34fc82524ae",
-      "title": "EXCLUSIVE: HGTV’s ‘Totally ’90s House’ Stars Reveal Kept Set Props From ‘Full House’ and ‘The Cosby Show’—and Spill on their Best Home Makeover Tips",
-      "link": "https://www.realtor.com/news/reality-tv/exclusive-totally-90s-house-stars-reveal-cosby-show-and-full-house-set-decor-thats-on-display-in-their-homes-today/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Stars from iconic 1990s sitcoms are removing retro traces of the past on a $200,000 budget in this new HGTV show.",
-      "published": "2026-09-02T18:30:24+00:00",
-      "fetched": "2026-09-02T20:11:02.240868+00:00"
-    },
-    {
-      "id": "df93a9eac34c40e7",
-      "title": "The Unmoving Barrier: Why Renters Must Treat Security Deposits Like a Down Payment",
-      "link": "https://www.realtor.com/advice/rent/security-deposits-down-payment-comparisons/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Like a home down payment, security deposits are a fixed hurdle. Discover why more than 65% of independent landlords refuse to waive them.",
-      "published": "2026-09-02T17:47:35+00:00",
-      "fetched": "2026-09-02T20:11:02.240895+00:00"
     }
   ]
 }
