@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-13T19:55:20.332128+00:00",
+  "updated": "2026-09-14T01:52:49.648309+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bd9c535957908db2",
+      "title": "$9.5 Million Jazz Age ‘Scottish Castle’ Built by Massachusetts Royalty Hits the Market",
+      "link": "https://www.realtor.com/news/unique-homes/jazz-age-scottish-castle-the-ledges-hopedale-massachusetts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore The Ledges, a $9.5M Jazz Age estate modeled after a Scottish castle in Hopedale, MA. Features 12 bedrooms and 17 acres.",
+      "published": "2026-09-13T20:51:00+00:00",
+      "fetched": "2026-09-14T01:52:49.647757+00:00"
+    },
     {
       "id": "27c463c94612e6d8",
       "title": "Iconic Luxury Brand Cipriani Unveils Two Miami Penthouses at $53 Million",
@@ -1492,16 +1502,6 @@
       "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberation.",
       "published": "2026-09-02T19:03:00+00:00",
       "fetched": "2026-09-03T01:39:12.124228+00:00"
-    },
-    {
-      "id": "3f3dfe2f7e506108",
-      "title": "Lindsay Clancy Jury Fails to Reach Murder Trial Verdict for Second Time—Inside the Home Where Her 3 Children Died and Its Mysterious Sale",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberations",
-      "published": "2026-09-02T19:03:00+00:00",
-      "fetched": "2026-09-02T20:11:02.240720+00:00"
     }
   ]
 }
