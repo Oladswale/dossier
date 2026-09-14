@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-14T11:02:44.009786+00:00",
+  "updated": "2026-09-14T17:06:16.873594+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "32bd512151ad490e",
+      "title": "Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign",
+      "link": "https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and \"rallied\" other stadium owners",
+      "published": "2026-09-14T17:05:15+00:00",
+      "fetched": "2026-09-14T17:06:16.691106+00:00"
+    },
+    {
+      "id": "cc5a36e0b419410c",
+      "title": "Ziwe on YouTube as the ‘Great Equalizer’ and Her Only Interview That Went South",
+      "link": "https://variety.com/2026/film/news/ziwe-youtube-the-great-equalizer-interview-that-went-south-1236859078/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ziwe Fumudoh has built her career in comedy and as an interview host who can handle any guest, from political figures to drag queens. The podcast star and creator screened two episodes from the upcoming season of her podcast You d Be an Iconic Guest — one with comedian and actress Wanda Sykes and the other [ ]",
+      "published": "2026-09-14T17:00:00+00:00",
+      "fetched": "2026-09-14T17:06:16.479317+00:00"
+    },
+    {
+      "id": "31509c50d15c091f",
+      "title": "‘This Summer Will Be Different’ Netflix Series Casts Malin Akerman, Megan Follows, Nadine Bhabha, Matias Lucas",
+      "link": "https://variety.com/2026/tv/news/this-summer-will-be-different-series-cast-malin-akerman-1236861257/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Netflix s series adaptation of This Summer Will Be Different has added four new cast members, Variety has learned. Malin Akerman ( The Hunting Wives, Billions ), Megan Follows ( Buried in Barstow, Anne of Green Gables, ), Nadine Bhabha ( Heated Rivalry, Slo Pitch ), and Matias Lucas ( The Order ) have all joined the drama based on the Carley Fortune novel [ ]",
+      "published": "2026-09-14T17:00:00+00:00",
+      "fetched": "2026-09-14T17:06:16.479377+00:00"
+    },
+    {
+      "id": "411bedfe4760064c",
+      "title": "‘The Nature of Invisible Things’ Director Rafaela Camelo Lines Up Luciana Paes and Sundance-Winner Camila Márdila For ‘The Favorite Daughter’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/rafaela-camelo-luciana-paes-camila-mardila-1236861059/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Luciana Paes (“Friendly Beast”) and Camila Márdila (“I’m Still Here”) have been cast in “The Favorite Daughter” (“A Filha Favorita”), the new film by rising Brazilian director Rafaela Camelo. The filmmaker is gearing up to shoot the follow-up to “The Nature of Invisible Things,” which premiered to acclaim at the Berlin Film Festival in 2025 [ ]",
+      "published": "2026-09-14T16:56:58+00:00",
+      "fetched": "2026-09-14T17:06:16.479434+00:00"
+    },
+    {
+      "id": "90b86a0b2b98a076",
+      "title": "Heartfelt, Rare Animated Belgian Feature ‘Juul’ Headlines Studio 100 Film’s Expanding Slate at TIFF Market",
+      "link": "https://variety.com/2026/film/markets-festivals/juul-tiff-market-studio-100-animated-feature-1236855784/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "How far would you go to keep a love one close? Belgian studio Fabrique Fantastique s debut animated feature Juul comes to TIFF Market a few days after Studio 100 Film announced having picked up this young adult animated drama, marking a significant expansion in the otherwise family-driven catalogue of the independent sales agency, a subsidiary [ ]",
+      "published": "2026-09-14T16:43:42+00:00",
+      "fetched": "2026-09-14T17:06:16.479481+00:00"
+    },
+    {
+      "id": "275fa0757f4c47ba",
+      "title": "Vimeo Doubles Short Film Grant Program Prize to $300,000 (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/vimeo-doubles-short-film-grant-program-1236861332/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Vimeo is launching its second annual Short Film Grant Program, doubling last year’s prize pool to $300,000 to be split among five emerging filmmakers. In addition to receiving funding to create an original short film, the five selected filmmakers will also receive mentorship and resources to aid their filmmaking process and accelerate their careers. So [ ]",
+      "published": "2026-09-14T16:38:09+00:00",
+      "fetched": "2026-09-14T17:06:16.479533+00:00"
+    },
+    {
+      "id": "463b8ecbdf3df242",
+      "title": "From Youtube to TIFF: ‘Brave Wilderness’ Host Mark Vins Debuts First Feature Film ‘Reef to Ridge’",
+      "link": "https://variety.com/2026/film/festivals/brave-wilderness-mark-vins-first-feature-film-1236859090/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "With almost 22 million subscribers on his Youtube channel, “Brave Wilderness” host Mark Vins is no stranger to making and sharing outdoor content with a global audience. Now, 14 years later, Vins has expanded from short form videos to debuting his first full-length documentary at the Toronto International Film Festival. Vins end goal as a [ ]",
+      "published": "2026-09-14T16:30:00+00:00",
+      "fetched": "2026-09-14T17:06:16.479585+00:00"
+    },
+    {
+      "id": "d2a8b1b2a2e85996",
+      "title": "Salma Hayek Pinault to Make Theatrical Directorial Debut With ‘Arena,’ Co-Starring Yura Borisov and Cara Delevingne (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/awards/salma-hayek-pinault-arena-directorial-debut-yura-borisov-cara-delevingne-1236860801/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Oscar nominee Salma Hayek Pinault is stepping behind the camera. Variety can exclusively reveal that the Oscar-nominated actor of “Frida” and Emmy-nominated actress and producer of “Ugly Betty” will make her theatrical directorial debut with “Arena,” an epic romantic adventure she also wrote. The independently financed film pairs her with Yura Borisov, who earned an [ ]",
+      "published": "2026-09-14T16:30:00+00:00",
+      "fetched": "2026-09-14T17:06:16.479639+00:00"
+    },
+    {
+      "id": "13b794ac8c8a7fbe",
+      "title": "Creator Economy Dynamo Steven Bartlett Partners With Authentic Brands to Launch OBSN Brand Development Venture",
+      "link": "https://variety.com/2026/digital/news/steven-bartlett-obsn-steven-com-authentic-brands-creators-1236860849/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Rising entrepreneur Steven Bartlett has teamed with Authentic Brands to launch OBSN, a business venture designed to support creators and facilitate the development of consumer products and services built around top creators. The deal calls for the partners to create a platform devoted to providing news, analysis and live experiences for the creator economy in [ ]",
+      "published": "2026-09-14T16:30:00+00:00",
+      "fetched": "2026-09-14T17:06:16.479684+00:00"
+    },
+    {
+      "id": "b0abc638ac5cf14b",
+      "title": "Screen Brasil Launches Second Edition of Film Distribution Grant Initiative",
+      "link": "https://variety.com/2026/film/global/screen-brasil-embratur-projeto-paradiso-lucky-number-1236861012/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Distribution, by common consent, has become the weakest link in the whole of the film industry. If it weren’t for public-sector aid, it would hardly exist. Split right deals, replacing minimum guarantees, has eased the financial stress on distributors.",
+      "published": "2026-09-14T16:28:01+00:00",
+      "fetched": "2026-09-14T17:06:16.479735+00:00"
+    },
+    {
+      "id": "095a11a5a93a05ff",
+      "title": "Creator Kat Sandler on Yaga.’ With ‘Heated Rivalry’ Star Hudson Williams: ‘People Are Ready for a Witchy Wave’",
+      "link": "https://variety.com/2026/global/markets-festivals/hudson-williams-carrie-anne-moss-yaga-series-premiere-tiff-1236860858/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On the heels of global sensation “Heated Rivalry,” Canadian streamer Crave is bringing witchy back with “Yaga,” writer and showrunner Kat Sandler’s horror mystery series in which the ancient lore of Baba Yaga haunts the search for a missing local in a small coastal town. Greenlit in spring 2025, “Yaga” gained global buzz earlier this [ ]",
+      "published": "2026-09-14T16:22:53+00:00",
+      "fetched": "2026-09-14T17:06:16.479787+00:00"
+    },
+    {
+      "id": "3749a735096fb0d4",
+      "title": "Dave Chappelle Is Going Back Out on the Road This Fall",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/dave-chappelle-2026-tour-1235626009/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The comedian will perform Karmageddon across seven dates, including a headlining set at New York's Comedy Festival",
+      "published": "2026-09-14T16:02:32+00:00",
+      "fetched": "2026-09-14T17:06:16.691139+00:00"
+    },
+    {
+      "id": "34256704b72b3de6",
+      "title": "Everybody Likes Drake Again. That Means We’re Healing",
+      "link": "https://www.rollingstone.com/music/music-features/drake-comeback-shifting-public-opinion-1235625478/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "For a while, playing Drake’s music felt like taking a moral position. Now, with his chart comeback and Fear of Missing Out on the way, it’s time to rethink his downfall",
+      "published": "2026-09-14T15:23:38+00:00",
+      "fetched": "2026-09-14T17:06:16.691204+00:00"
+    },
+    {
+      "id": "022b12592b6a14a5",
+      "title": "Garth Brooks, Kelly Clarkson, Willie Nelson Set for Stagecoach 2027",
+      "link": "https://www.rollingstone.com/music/music-country/stagecoach-2027-lineup-garth-brooks-1235625849/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Brooks, Riley Green, and Zach Top will headline the California country festival, which also features Stella Lefty, Stephen Wilson Jr., and a Florida Georgia Line reunion",
+      "published": "2026-09-14T15:08:02+00:00",
+      "fetched": "2026-09-14T17:06:16.691237+00:00"
+    },
+    {
+      "id": "fc508faf8d11b413",
+      "title": "Oasis Announce 2027 Global Tour Dates",
+      "link": "https://www.rollingstone.com/music/music-news/oasis-2027-tour-dates-liam-noel-gallagher-1235625948/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The North American leg will bring the Manchester band to Boston and Las Vegas",
+      "published": "2026-09-14T15:02:22+00:00",
+      "fetched": "2026-09-14T17:06:16.691260+00:00"
+    },
+    {
+      "id": "f89231c6214fb4b2",
+      "title": "‘Sunday in the Park With George’ Revival Axed Following Ariana Grande and Jonathan Bailey Exits",
+      "link": "https://www.rollingstone.com/culture/culture-news/sunday-in-the-park-with-george-revival-canceled-1235625973/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Grande previously said she would take a “step back” from public life and reports the Empire Street Productions were actively searching for replacements",
+      "published": "2026-09-14T14:47:49+00:00",
+      "fetched": "2026-09-14T17:06:16.691294+00:00"
+    },
+    {
+      "id": "1b3200e02abb374a",
+      "title": "Carly Rae Jepsen’s ‘Day and Night’ Is a Double-Album Dissertation on Love",
+      "link": "https://www.rollingstone.com/music/music-album-reviews/carly-rae-jepsen-day-and-night-album-review-1235622766/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Across 24 tracks, the prolific pop star traverses styles and continents while tracing the dazzling highs and devastating lows romance can bring",
+      "published": "2026-09-14T14:46:32+00:00",
+      "fetched": "2026-09-14T17:06:16.691324+00:00"
+    },
+    {
+      "id": "a77af9c7989b375b",
+      "title": "Kai Cenat’s Runway Show Felt Like 2016 New York in the Best Way",
+      "link": "https://www.rollingstone.com/culture/culture-features/kai-cenat-runway-show-vivet-review-1235625918/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "With Vivet’s runway debut, the Twitch star brought his world to Fashion Week and gave skeptics reason to take his ambitions seriously",
+      "published": "2026-09-14T14:24:45+00:00",
+      "fetched": "2026-09-14T17:06:16.691354+00:00"
+    },
+    {
+      "id": "13d98464b7975b1b",
+      "title": "Macklemore Dropped From Ed Sheeran Tour After Onstage ‘Free Palestine’ Statements",
+      "link": "https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-pro-palestine-statements-1235625967/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“We have been notified by venues on the upcoming U.S. tour dates that they will not allow a concert to take place with Macklemore on the lineup,” promoter says",
+      "published": "2026-09-14T14:01:27+00:00",
+      "fetched": "2026-09-14T17:06:16.691389+00:00"
+    },
+    {
+      "id": "7980a7c8d93c9413",
+      "title": "‘Pretenders’ Doc Is Anything But Precious",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/pretenders-documentary-review-chrissie-hynde-tiff-1235618813/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "This surprisingly candid portrait of Chrissie Hynde and her band’s formation, rise, near flameout, and rise again was worth the wait",
+      "published": "2026-09-14T14:00:00+00:00",
+      "fetched": "2026-09-14T17:06:16.691418+00:00"
+    },
     {
       "id": "ebd1e2f8d886e5ac",
       "title": "‘Sunday in the Park With George’ London Revival Canceled After Ariana Grande, Jonathan Bailey Exit",
@@ -1302,206 +1502,6 @@
       "summary": "The event will celebrate 50 years of She-Punk with artwork, photography, fashion, and archival material from pioneers",
       "published": "2026-09-11T18:39:29+00:00",
       "fetched": "2026-09-11T20:07:53.656989+00:00"
-    },
-    {
-      "id": "cbb3fdef046ec860",
-      "title": "Stephanie Ahn’s Seven-Year Road to ‘Bedford Park’: ‘You Never Know What Can Make Your Film Better’",
-      "link": "https://variety.com/2026/film/festivals/stephanie-ahn-bedford-park-toronto-1236857340/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After winning the U.S. Dramatic Special Jury Award for Debut Feature at Sundance this year, Bedford Park has its international premiere at the Toronto Film Festival, ahead of a U.S. theatrical release by Sony Pictures Classics.",
-      "published": "2026-09-11T18:35:00+00:00",
-      "fetched": "2026-09-11T20:07:53.538324+00:00"
-    },
-    {
-      "id": "47b6f6f3b42b49d2",
-      "title": "Jimmy Kimmel in Talks to Renew Late-Night Show at ABC",
-      "link": "https://variety.com/2026/tv/news/jimmy-kimmel-talks-renew-late-night-show-abc-1236858990/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jimmy Kimmel and Disney s ABC have entered into negotiations about keeping the host in late-night after the new TV season, a process that might ordinarily be the most normal of business practices, but in the current climate is exceedingly fraught. Kimmel and executives at the Disney network are having talks about whether he might continue [ ]",
-      "published": "2026-09-11T18:33:20+00:00",
-      "fetched": "2026-09-11T20:07:53.538390+00:00"
-    },
-    {
-      "id": "57d9533722071d29",
-      "title": "‘Point Break’ TV Series Greenlit at AMC, Canal+",
-      "link": "https://variety.com/2026/tv/news/point-break-tv-series-amc-greenlight-1236858832/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Point Break followup series has officially been ordered at AMC and AMC+, Variety has learned. The modern update of the beloved 1991 action film was first reported to be in the works at the network back in December 2025. As reported at the time, the show hails from lead studio Alcon Television Group as [ ]",
-      "published": "2026-09-11T18:30:00+00:00",
-      "fetched": "2026-09-11T20:07:53.538438+00:00"
-    },
-    {
-      "id": "f940717cf97a7a8a",
-      "title": "Vote to Rename Nashville International Airport After Dolly Parton Passes Unanimously",
-      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-nashville-airport-rename-unanimous-vote-1235625362/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Metropolitan Nashville Airport Authority is still deciding on a final new title for the Nashville International Airport that will incorporate the country icon's name and legacy",
-      "published": "2026-09-11T18:24:29+00:00",
-      "fetched": "2026-09-11T20:07:53.657029+00:00"
-    },
-    {
-      "id": "0d10bea936bc926e",
-      "title": "David Foster Wallace on 9/11, as Seen from the Midwest",
-      "link": "https://www.rollingstone.com/feature/david-foster-wallace-9-11-midwest-242422/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Suddenly everybody has flags out — big flags, small flags, regular flag-size flags",
-      "published": "2026-09-11T18:18:39+00:00",
-      "fetched": "2026-09-11T20:07:53.657061+00:00"
-    },
-    {
-      "id": "ccb35f9e9f21daa1",
-      "title": "Ben Shelton vs. Frances Tiafoe Livestream: How to Watch the U.S. Open Men’s Semifinal Online Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-shelton-tiafoe-us-open-tennis-livestream-online-free-1235625335/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Both American men will be looking to advance to their first-ever Grand Slam final",
-      "published": "2026-09-11T18:06:17+00:00",
-      "fetched": "2026-09-11T20:07:53.657094+00:00"
-    },
-    {
-      "id": "c87576b8468b3038",
-      "title": "Brent Hinds’ Estate Sues Mastodon Over Late Guitarist’s Share of Band",
-      "link": "https://www.rollingstone.com/music/music-news/brent-hinds-estate-lawsuit-mastodon-1235625314/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Lawsuit claims band offered $80,000 to buy out Hinds’ stake, and that new album Marrow Deep ’s cover features illustration of Hinds without permission",
-      "published": "2026-09-11T17:37:13+00:00",
-      "fetched": "2026-09-11T20:07:53.657131+00:00"
-    },
-    {
-      "id": "38a419c732fa488e",
-      "title": "The War on Drugs, Slayyyter, This is Lorelei, and All the Songs You Need to Know This Week",
-      "link": "https://www.rollingstone.com/music/music-features/slayyyter-war-on-drugs-this-is-lorelei-songs-you-need-to-know-1235624990/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
-      "published": "2026-09-11T16:59:24+00:00",
-      "fetched": "2026-09-11T20:07:53.657160+00:00"
-    },
-    {
-      "id": "002b11bac49fef34",
-      "title": "Under Armour Honors First Responders and Military Members With UA ‘Freedom’ Hoodie",
-      "link": "https://www.rollingstone.com/product-recommendations/style/under-armour-freedom-shirt-hoodie-collection-2026-price-buy-1235625262/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The brand recently tapped country music star Parker McCollum as an ambassador for the collection",
-      "published": "2026-09-11T16:53:32+00:00",
-      "fetched": "2026-09-11T20:07:53.657190+00:00"
-    },
-    {
-      "id": "d136f3942dfc53ba",
-      "title": "Volunteers at the Gates of Hell",
-      "link": "https://www.rollingstone.com/culture/culture-news/volunteers-at-the-gates-of-hell-80097/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Among all the people who came to help at Ground Zero after 9/11, the question always was the same: “How close did you get?”",
-      "published": "2026-09-11T16:00:00+00:00",
-      "fetched": "2026-09-11T20:07:53.657219+00:00"
-    },
-    {
-      "id": "26f911bfcbdc8700",
-      "title": "‘A Bit of Light’ Review: A Life-Affirming Drama About a Suicidal Iranian Doctor",
-      "link": "https://variety.com/2026/film/reviews/a-bit-of-light-review-1236841903/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Although its story unspools on the precipice of the U.S.-Iran war, Ali Asgari’s gentle family drama “A Bit of Light” was filmed in the conflict’s wake, under shellfire in Tehran. The production was eventually forced to relocate to Turkey, where Asgari and his team staged the numerous interior spaces that would serve as points of [ ]",
-      "published": "2026-09-11T15:15:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212573+00:00"
-    },
-    {
-      "id": "571d86a3ac8d9558",
-      "title": "How Variety Covered 9/11 Attack and Its Aftermath 25 Years Ago",
-      "link": "https://variety.com/2026/biz/news/how-variety-covered-9-11-terrorist-attacks-1236857523/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "On Sept. 11, 2001, after the deadliest terrorist attack on the U.S. in history, Variety reporters and editors swung into action to put out the daily paper.",
-      "published": "2026-09-11T15:15:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212625+00:00"
-    },
-    {
-      "id": "f4538ab0e280e54b",
-      "title": "Venice Days Winners: Argentinian Director Maria Aparicio’s ‘Sadness Sometimes, Sometimes Rebellion’ Claims Top Prize",
-      "link": "https://variety.com/2026/film/festivals/venice-days-sadness-sometimes-rebellion-top-prize-1236858639/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Argentinian director Maria Aparicio s drama Sometimes Sadness, Sometimes Rebellion — which mixes personal and political elements — has scored the Venice Days director s award, the section s top prize. Sometimes Sadness, Sometimes Rebellion, which marks Aparicio s fourth feature, follows a woman named Eva who is passing through Madrid. She spends her days there alone: she doesn t know anyone [ ]",
-      "published": "2026-09-11T15:15:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212685+00:00"
-    },
-    {
-      "id": "ec9a5d0f88389127",
-      "title": "‘Uptown Prep and Downtown Weirdness’ Meld in J. Crew and Ekhaus Latta’s New Limited-Edition Collection",
-      "link": "https://variety.com/2026/shopping/news/j-crew-ekhaus-latta-collection-nyfw-party-shop-online-1236858734/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "J.Crew is heading downtown. The American retailer has teamed up with New York label Eckhaus Latta on a limited-edition collection that puts a downtown spin on some of its most recognizable prep-school staples — barn jackets, chinos, rugby shirts and Rollneck sweaters included. Launching Sept.",
-      "published": "2026-09-11T15:10:40+00:00",
-      "fetched": "2026-09-11T15:19:53.212740+00:00"
-    },
-    {
-      "id": "afab49a44f602b70",
-      "title": "The Winners of the 2026 Rolling Stone College Journalism Awards Are …",
-      "link": "https://www.rollingstone.com/culture/culture-news/rolling-stone-college-journalism-awards-2026-winners-1235622763/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Three students from the University of Pennsylvania, Duke University, and Texas A M shined at this year’s awards",
-      "published": "2026-09-11T15:09:22+00:00",
-      "fetched": "2026-09-11T15:19:53.385362+00:00"
-    },
-    {
-      "id": "162490b243335b00",
-      "title": "‘He Likes the Attention’: Stephen Miller, Through the Memories of His Duke Classmates",
-      "link": "https://www.rollingstone.com/politics/politics-features/stephen-miller-duke-classmates-1235623164/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A student journalist interviewed Duke alumni to paint a portrait of Miller before he was a Trump staffer",
-      "published": "2026-09-11T15:08:57+00:00",
-      "fetched": "2026-09-11T15:19:53.385398+00:00"
-    },
-    {
-      "id": "3580e818eb344e2c",
-      "title": "‘A Two-Hour Escape’: Inside Savannah Bananas’ Record-Breaking Night at Kyle Field",
-      "link": "https://www.rollingstone.com/culture/culture-features/savannah-bananas-kyle-field-report-1235623184/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "In front of crowd of 102,000, Banana Ball sets new milestones while featuring plenty of Texas flair",
-      "published": "2026-09-11T15:08:32+00:00",
-      "fetched": "2026-09-11T15:19:53.385425+00:00"
-    },
-    {
-      "id": "9b90cb1a721cd6e9",
-      "title": "‘The Bear’ and the End of Prestige TV",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-bear-prestige-tv-college-journalism-winner-1235623150/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "FX’s acclaimed series captures what prestige TV looks like after its grand ambitions collapsed",
-      "published": "2026-09-11T15:08:10+00:00",
-      "fetched": "2026-09-11T15:19:53.385451+00:00"
-    },
-    {
-      "id": "03f87174b1867fa7",
-      "title": "Box Office: ‘Practical Magic 2’ Makes $4.7 Million in Previews",
-      "link": "https://variety.com/2026/film/box-office/practical-magic-2-box-office-previews-1236857703/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After a record-breaking run at the box office, it turns out Spider-Man: Brand New Day is no match for the witchy powers of Practical Magic 2 stars Nicole Kidman and Sandra Bullock. The Warner Bros. fantasy sequel has made $4.7 million in Thursday previews at the box office, and it s expected to end Spider-Man s six-week [ ]",
-      "published": "2026-09-11T15:02:51+00:00",
-      "fetched": "2026-09-11T15:19:53.212790+00:00"
-    },
-    {
-      "id": "dc7ce36829b16f77",
-      "title": "David Turpin’s TIFF Premiere ‘Ancestors’ Revisits the AIDS Crisis Through Love, Found Family and Movie Stars: ‘I Think a Lot of People of My Generation Feel This Absence of Our Elders’",
-      "link": "https://variety.com/2026/film/news/david-turpin-tiff-ancestors-1236855317/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With TIFF premiere “Ancestors,” Irish filmmaker David Turpin creates a story about the simple acts of human connection, love and how our dreams and fantasies can boost our spirits when everything else fails. Set in the late 1980s in London, when the HIV-AIDS crisis was killing off generations of primarily gay men, “Ancestors” asks the [ ]",
-      "published": "2026-09-11T14:55:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212857+00:00"
     }
   ]
 }
