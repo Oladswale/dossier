@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-14T17:06:18.594870+00:00",
+  "updated": "2026-09-14T21:05:28.378660+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5fb930dee60a5d27",
+      "title": "Marine bacteria team up to break down one of the ocean's toughest carbon-storing molecules",
+      "link": "https://news.mit.edu/2026/marine-bacteria-team-up-to-break-down-carbon-storing-molecules-0914",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Researchers reveal how communities of marine bacteria divide the task of degrading fucoidan, a key player in ocean carbon storage.",
+      "published": "2026-09-14T20:30:00+00:00",
+      "fetched": "2026-09-14T21:05:27.173594+00:00"
+    },
     {
       "id": "d5c43fc89426dd3b",
       "title": "How the Silk Road Actually Worked (and What Could Go Terribly Wrong On It)",
@@ -1492,16 +1502,6 @@
       "summary": "DUSP Associate Professor Jason Jackson’s latest book compares how two countries chose radically different paths to economic independence.",
       "published": "2026-08-04T20:25:00+00:00",
       "fetched": "2026-08-05T01:15:56.934544+00:00"
-    },
-    {
-      "id": "7f81bb4f33277914",
-      "title": "Reframing leadership as a design problem",
-      "link": "https://news.mit.edu/2026/reframing-leadership-design-problem-nicholas-de-monchaux-0804",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Nicholas de Monchaux reflects on guiding the MIT Department of Architecture through a period of dramatic change for the profession.",
-      "published": "2026-08-04T20:00:00+00:00",
-      "fetched": "2026-08-05T01:15:56.934581+00:00"
     }
   ]
 }
