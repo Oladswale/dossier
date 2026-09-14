@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-14T01:52:49.648309+00:00",
+  "updated": "2026-09-14T11:02:46.420307+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "dba25869a8eedf6f",
+      "title": "Best Week To Buy Is Almost Here—and It Could Save Home Shoppers $14K",
+      "link": "https://www.realtor.com/news/trends/best-time-to-buy-week-of-september-27-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The week of Sept. 27-Oct. 3 offers buyers the most favorable market conditions, including more inventory and less competition.",
+      "published": "2026-09-14T09:00:00+00:00",
+      "fetched": "2026-09-14T11:02:46.419500+00:00"
+    },
+    {
+      "id": "d9e2fe1cab0ccffc",
+      "title": "Can the Housing Market Survive More Fed Rate Hikes?",
+      "link": "https://www.realtor.com/news/real-estate-news/fed-meeting-interest-rate-housing-market-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Federal Reserve policymakers are set to vote this week on interest rate policy, and markets are anticipating that they will raise rates.",
+      "published": "2026-09-14T08:47:00+00:00",
+      "fetched": "2026-09-14T11:02:46.419543+00:00"
+    },
+    {
+      "id": "aae2455a9d757738",
+      "title": "Homeowners Are More Financially Satisfied Than Renters—but Most Are Overspending",
+      "link": "https://www.realtor.com/news/trends/homeowners-financially-satisfied-than-renters-overspending-money-monday/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homeowners report higher financial satisfaction than renters, but overspending on housing and lifestyle still harms long-term wealth.",
+      "published": "2026-09-14T08:19:00+00:00",
+      "fetched": "2026-09-14T11:02:46.419579+00:00"
+    },
+    {
+      "id": "dd28abce5843bf50",
+      "title": "Housing Week Ahead: Fed Rate Decision, Top Construction Metros, and Pending Home Sales",
+      "link": "https://www.realtor.com/news/trends/weekly-housing-video-economic-data-september-14-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The upcoming week brings a packed slate of housing data from the Realtor.com economics team and key economic indicators.",
+      "published": "2026-09-14T08:06:00+00:00",
+      "fetched": "2026-09-14T11:02:46.419609+00:00"
+    },
     {
       "id": "bd9c535957908db2",
       "title": "$9.5 Million Jazz Age ‘Scottish Castle’ Built by Massachusetts Royalty Hits the Market",
@@ -1462,46 +1502,6 @@
       "summary": "States are legalizing plug-in solar, but UL says none of the systems it tested met its new safety standard for fire and shock protection.",
       "published": "2026-09-02T20:38:10+00:00",
       "fetched": "2026-09-03T01:39:12.124193+00:00"
-    },
-    {
-      "id": "69a1c99a1950810d",
-      "title": "San Francisco Renter Reveals the Elaborate Scam That Cost Him $18K",
-      "link": "https://www.realtor.com/news/trends/san-francisco-renter-scam-payment-fake-craigslist/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As fraudsters become less detectable, some potential tenants can find themselves in nightmarish situations.",
-      "published": "2026-09-02T19:52:16+00:00",
-      "fetched": "2026-09-02T20:11:02.240646+00:00"
-    },
-    {
-      "id": "aa937932bdfaf774",
-      "title": "Provincetown’s Condo Price Record Shattered by $1 Million-Plus Just 2 Weeks After Previous High",
-      "link": "https://www.realtor.com/news/unique-homes/provincetown-most-expensive-condo-record-broken-again/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Just two weeks after a $3.9 million condo broke the last record, a $5 million unit has found a new buyer in mere days.",
-      "published": "2026-09-02T19:28:25+00:00",
-      "fetched": "2026-09-02T20:11:02.240687+00:00"
-    },
-    {
-      "id": "a61e755815fab843",
-      "title": "When Does Buying an Investment Property With Cash Make Sense?",
-      "link": "https://www.biggerpockets.com/blog/when-does-buying-an-investment-property-with-cash-make-sense",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "It’s a luxury many of us dream about: simply being able to buy investment properties for cash without that pesky mortgage payment complicating things every month. With interest rates showing [ ]",
-      "published": "2026-09-02T19:03:21+00:00",
-      "fetched": "2026-09-02T20:11:01.957678+00:00"
-    },
-    {
-      "id": "d1cce7de77566170",
-      "title": "Lindsay Clancy Jury Fails To Reach Murder Trial Verdict for Second Time—Inside the Home Where Her 3 Children Died and Its Mysterious Sale",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The jury in the trial of former nurse Lindsay Clancy remains unable to reach a unanimous verdict after five days of deliberation.",
-      "published": "2026-09-02T19:03:00+00:00",
-      "fetched": "2026-09-03T01:39:12.124228+00:00"
     }
   ]
 }

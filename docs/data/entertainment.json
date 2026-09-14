@@ -1,8 +1,98 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-14T01:52:47.406873+00:00",
+  "updated": "2026-09-14T11:02:44.009786+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ebd1e2f8d886e5ac",
+      "title": "‘Sunday in the Park With George’ London Revival Canceled After Ariana Grande, Jonathan Bailey Exit",
+      "link": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-canceled-ariana-grande-exit-1236861022/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The London revival of “Sunday in the Park With George” has been canceled following the exits of stars Ariana Grande and Jonathan Bailey. “The planned 2027 production of ‘Sunday in the Park with George’ at the Barbican will no longer proceed as scheduled,” a rep for producers Empire Street Productions tells Variety. “Empire Street Productions [ ]",
+      "published": "2026-09-14T10:59:24+00:00",
+      "fetched": "2026-09-14T11:02:43.720405+00:00"
+    },
+    {
+      "id": "fbb19468368f9f71",
+      "title": "Hyun Bin, Lee Min-ho, Jung Woo-sung, Isabelle Huppert Headline Busan Open Talk and Outdoor Stage Greeting Lineup",
+      "link": "https://variety.com/2026/film/festivals/hyun-bin-lee-min-ho-isabelle-huppert-busan-talks-1236860985/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The 31st Busan International Film Festival (BIFF) has unveiled the lineup and schedule for three of its fan-facing programs: Open Talk, Outdoor Stage Greeting and Talk-to-Talk. Held at the Busan Cinema Center Roof Theater and the HANMAC Smooooth Lounge, the sessions give audiences a chance to meet directors and cast members from a wide range [ ]",
+      "published": "2026-09-14T08:41:08+00:00",
+      "fetched": "2026-09-14T11:02:43.720471+00:00"
+    },
+    {
+      "id": "9d9dc9dc85ce4930",
+      "title": "Lee Chang-dong’s Films Head to Netflix Worldwide After ‘Possible Love’ Wins Silver Lion at Venice",
+      "link": "https://variety.com/2026/tv/festivals/lee-chang-dong-netflix-films-possible-love-venice-1236860979/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Netflix will expand its lineup of Lee Chang-dong films worldwide, following the Silver Lion (Grand Jury Prize) win for Possible Love at the Venice Film Festival. The expansion will let viewers everywhere explore titles including Secret Sunshine and Peppermint Candy. Possible Love, Lee s first film in eight years, opens in South Korean theaters Sept.",
+      "published": "2026-09-14T08:16:51+00:00",
+      "fetched": "2026-09-14T11:02:43.720550+00:00"
+    },
+    {
+      "id": "46c86e94be732127",
+      "title": "Cheetah Chrome, Guitarist for the Dead Boys and Rocket From the Tombs, Dead at 71",
+      "link": "https://www.rollingstone.com/music/music-news/cheetah-chrome-dead-boys-guitarist-obituary-1235625943/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The prolific musician, who also played with Syl Sylvain and Ronnie Spector, was remembered as an \"an architect of the punk rock movement\"",
+      "published": "2026-09-14T07:21:23+00:00",
+      "fetched": "2026-09-14T11:02:43.829511+00:00"
+    },
+    {
+      "id": "6d016f11b33c6e10",
+      "title": "Korea Box Office: ‘The Odyssey’ Secures Sixth Weekend Crown as ‘Obsession’ Ascends",
+      "link": "https://variety.com/2026/film/box-office/korea-box-office-the-odyssey-obsession-1236860949/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Odyssey continued its voyage at the summit of the South Korean box office during the weekend of Sept. 11–13. According to data from KOBIS, the tracking service operated by the Korean Film Council, the Christopher Nolan-directed tentpole generated $3.9 million from 449,474 admissions over the three-day frame across 1,648 screens, capturing 51.4% of the [ ]",
+      "published": "2026-09-14T06:38:53+00:00",
+      "fetched": "2026-09-14T11:02:43.720605+00:00"
+    },
+    {
+      "id": "a9252e153b14ae1e",
+      "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘The Odyssey’ Crosses $100 Million",
+      "link": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-the-odyssey-100-million-1236860945/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle East held the number one spot at the mainland China box office for the fifth straight frame, collecting RMB52.9 million ($7.8 million) over the Sept. 11–13 weekend, according to data from Artisan Gateway. Directed by Wen Muye ( Dying to Survive ) and starring Shen Teng, [ ]",
+      "published": "2026-09-14T06:20:42+00:00",
+      "fetched": "2026-09-14T11:02:43.720661+00:00"
+    },
+    {
+      "id": "30ca29a096a4ea6b",
+      "title": "‘Pretenders’ Review: A Superb Portrait of Chrissie Hynde and Her Legendary Band Captures Their Incandescence…and Tragedy",
+      "link": "https://variety.com/2026/film/reviews/pretenders-review-chrissie-hynde-tiff-1236860631/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Hynde, though she had the feelings of punk in her bones, was the most romantic songwriter of that entire scene. I don’t mean romantic as in \"love songs,\" but as in conjuring the majestic romanticism of life. Just listen to \"Kid,\" a song so happy and sad at the same time that it’s worthy of the Beatles.",
+      "published": "2026-09-14T05:42:48+00:00",
+      "fetched": "2026-09-14T11:02:43.720712+00:00"
+    },
+    {
+      "id": "808e6aa10b1960ca",
+      "title": "‘All That She Wants’ Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom",
+      "link": "https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask your doctor about perimenopause.",
+      "published": "2026-09-14T03:30:00+00:00",
+      "fetched": "2026-09-14T11:02:43.720765+00:00"
+    },
+    {
+      "id": "3899ee182372d6a8",
+      "title": "‘Lanterns’ Star Poorna Jagannathan Breaks Down Zoe’s Brutal Episode 5: ‘It’s a Faustian Play She Makes’",
+      "link": "https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This article contains spoilers for “Lanterns” Episode 5, titled “Lights Out,” now streaming on HBO Max. This week s episode of Lanterns finally unmasks the Manhunter, who s been at the heart of the mystery in Rushville throughout the season. As revealed at the end of Episode 4, the Manhunter is in fact Zoe Macon, [ ]",
+      "published": "2026-09-14T02:00:00+00:00",
+      "fetched": "2026-09-14T11:02:43.720818+00:00"
+    },
     {
       "id": "fadbeb8cee0ba09e",
       "title": "’60 Minutes’ Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks",
@@ -1412,96 +1502,6 @@
       "summary": "With TIFF premiere “Ancestors,” Irish filmmaker David Turpin creates a story about the simple acts of human connection, love and how our dreams and fantasies can boost our spirits when everything else fails. Set in the late 1980s in London, when the HIV-AIDS crisis was killing off generations of primarily gay men, “Ancestors” asks the [ ]",
       "published": "2026-09-11T14:55:00+00:00",
       "fetched": "2026-09-11T15:19:53.212857+00:00"
-    },
-    {
-      "id": "ff30aa264e01f572",
-      "title": "Filmax Takes Javier Giner’s Feature Debut ‘This Solitude’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/filmax-this-solitude-javier-giner-i-addict-1236857066/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Filmax has taken international rights to “This Solitude,” the feature debut of “I, Addict” creator Javier Giner. The Spanish sales company will introduce the drama to buyers at TIFF before its premiere in San Sebastián’s New Directors section. The pickup gives Filmax the first feature from a filmmaker whose profile rose with 2024 Disney+ series [ ]",
-      "published": "2026-09-11T14:55:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212904+00:00"
-    },
-    {
-      "id": "c346c457c881d184",
-      "title": "TIFF Premiere ‘Julián’ Finds Joy, Identity and Family in a Colorful Animated World",
-      "link": "https://variety.com/2026/film/news/tiff-julian-louise-bagnall-cartoon-saloon-1236856616/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Cartoon Saloon animator Louise Bagnall makes her feature directorial debut with “Julián,” based on the children’s book “Julián Is a Mermaid” by Jessica Love. It tells the story of a 7-year-old boy who spends the summer with his abuela in Brooklyn. He digs into her colorful past in the Dominican Republic and follows his dream [ ]",
-      "published": "2026-09-11T14:45:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212951+00:00"
-    },
-    {
-      "id": "51b842ae51c6bfda",
-      "title": "Quavo Previews New Album ‘Qrömelife’ With T.I.-Assisted Single ‘Backwards’",
-      "link": "https://www.rollingstone.com/music/music-news/quavo-announces-new-album-qromelife-1235625210/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The record, out Oct. 2, is executive produced by Pharrell Williams, who helmed the recent single \"Haavin\"",
-      "published": "2026-09-11T14:43:54+00:00",
-      "fetched": "2026-09-11T15:19:53.385475+00:00"
-    },
-    {
-      "id": "cb09fa6952eacd0b",
-      "title": "Water Crisis Documentary ‘Every Living Thing’ Sets Toronto Market Debut, Adds VIBE as Strategic Partner (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/water-crisis-doc-every-living-thing-toronto-market-vibe-1236857799/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Every Living Thing, a Canada-India-U.A.E. documentary feature about the global water crisis, is making its international market debut at the Toronto Film Festival market, with VIBE (Visually Innovative Bold Entertainment) joining as strategic partner to the production. Directed by Uzair Merchant, the film is produced by BKreativ Prods.",
-      "published": "2026-09-11T14:40:00+00:00",
-      "fetched": "2026-09-11T15:19:53.212998+00:00"
-    },
-    {
-      "id": "33adf0cb65d60b5f",
-      "title": "Hear My Morning Jacket, Preservation Hall Jazz Band Cover Neil Young’s ‘Like a Hurricane’",
-      "link": "https://www.rollingstone.com/music/music-news/my-morning-jacket-neil-young-like-a-hurricane-1235620798/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Song appears on Heart of Gold: The Songs of Neil Young, Vol. 2 - Out of the Blue, out this fall with Vol. 3",
-      "published": "2026-09-11T14:32:18+00:00",
-      "fetched": "2026-09-11T15:19:53.385506+00:00"
-    },
-    {
-      "id": "03aeb7b239f1e621",
-      "title": "Prediction Markets Are Buying Their Way Onto the Internet’s Front Page",
-      "link": "https://www.rollingstone.com/culture/culture-features/kalshi-polymarket-viral-moments-1235625058/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Services like Kalshi and Polymarket are manufacturing cultural moments that will live on, no matter what kind of regulation the platforms face",
-      "published": "2026-09-11T14:31:14+00:00",
-      "fetched": "2026-09-11T15:19:53.385533+00:00"
-    },
-    {
-      "id": "07bb1234d57d0a0a",
-      "title": "French WWII Blockbuster ‘De Gaulle’ Lands U.S. Distribution With Samuel Goldwyn Films (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/french-wwii-de-gaulle-u-s-distribution-with-samuel-goldwyn-films-1236858666/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Samuel Goldwyn Films has acquired U.S. distribution rights to “De Gaulle,” Antonin Baudry’s sprawling two-part historical epic that premiered out of competition at Cannes and was just shortlisted to represent France in the Oscar race. The distributor is planning a U.S.",
-      "published": "2026-09-11T14:25:00+00:00",
-      "fetched": "2026-09-11T15:19:53.213047+00:00"
-    },
-    {
-      "id": "43b70481d3cbd478",
-      "title": "Def Leppard Is Getting an Authorized Documentary Next Year",
-      "link": "https://www.rollingstone.com/music/music-news/long-live-def-leppard-authorized-documentary-2027-1235625190/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Band’s journey from Sheffield, England schoolmates to Rock and Roll Hall of Fame inductees will be focus of ‘Long Live Def Leppard’",
-      "published": "2026-09-11T13:56:15+00:00",
-      "fetched": "2026-09-11T15:19:53.385560+00:00"
-    },
-    {
-      "id": "980ae4bae38dff27",
-      "title": "N.O.R.E. Calls Carmen Bryan’s Sexual Assault Claims ‘Entirely False’",
-      "link": "https://www.rollingstone.com/music/music-news/nore-denied-carmen-bryans-sexual-assault-claims-1235623438/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Bryan claimed the rapper assaulted her at a nightclub in 1999. He calls the claims “invented interactions”",
-      "published": "2026-09-11T13:53:13+00:00",
-      "fetched": "2026-09-11T15:19:53.385587+00:00"
     }
   ]
 }
