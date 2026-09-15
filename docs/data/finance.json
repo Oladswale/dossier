@@ -1,8 +1,58 @@
 {
   "category": "finance",
-  "updated": "2026-09-14T21:05:11.482904+00:00",
+  "updated": "2026-09-15T02:01:43.873265+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2b4181a320fd9b87",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+      "published": "2026-09-14T23:19:00+00:00",
+      "fetched": "2026-09-15T02:01:42.136257+00:00"
+    },
+    {
+      "id": "6216e0819a84f847",
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
+      "published": "2026-09-14T21:57:00+00:00",
+      "fetched": "2026-09-15T02:01:42.136295+00:00"
+    },
+    {
+      "id": "548e819aee9f66c6",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil buyers are paying much more to get a barrel of crude oil immediately as the Iran conflict threatens global supplies.",
+      "published": "2026-09-14T21:31:00+00:00",
+      "fetched": "2026-09-15T02:01:42.136318+00:00"
+    },
+    {
+      "id": "91c85b12356e49a2",
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears.",
+      "published": "2026-09-14T21:11:00+00:00",
+      "fetched": "2026-09-15T02:01:42.136336+00:00"
+    },
+    {
+      "id": "9ff5e41ee2b20946",
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A slowdown in the pace of AI development wouldn’t necessary dent spending, but there are other reasons semiconductor investors may want to take a measured approach.",
+      "published": "2026-09-14T21:11:00+00:00",
+      "fetched": "2026-09-15T02:01:42.136362+00:00"
+    },
     {
       "id": "921fb5d42574cd8a",
       "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
@@ -1452,56 +1502,6 @@
       "summary": "Ten listed Nigerian insurance companies collectively paid out N188.19 billion in claims in the first half of 2026, a 4.44% decline from N196.93 billion paid in the same period of 2025. The post Top 10 Nigerian insurers that paid the most claims in H1 2026 appeared first on Nairametrics .",
       "published": "2026-09-11T12:49:29+00:00",
       "fetched": "2026-09-11T15:19:35.991291+00:00"
-    },
-    {
-      "id": "f5d1db512c8c30cc",
-      "title": "Manufactured goods imports hit N18 trillion as Nigeria’s import dependence grows",
-      "link": "https://nairametrics.com/2026/09/11/manufactured-goods-imports-hit-n18-trillion-as-nigerias-import-dependence-grows/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s imports of manufactured goods rose to N18 trillion in the first half of 2026, representing a 16.9% increase from the N15.40 trillion recorded in the corresponding period of 2025. The post Manufactured goods imports hit N18 trillion as Nigeria’s import dependence grows appeared first on Nairametrics .",
-      "published": "2026-09-11T12:43:47+00:00",
-      "fetched": "2026-09-11T15:19:35.991340+00:00"
-    },
-    {
-      "id": "7abaa5154dcfad33",
-      "title": "NIS extends UK passport intervention exercise to October 3",
-      "link": "https://nairametrics.com/2026/09/11/nis-extends-uk-passport-intervention-exercise-to-october-3/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Immigration Service (NIS) has extended its special passport intervention exercise in the United Kingdom to October 3, 2026, following the high turnout of Nigerians seeking passport services. The post NIS extends UK passport intervention exercise to October 3 appeared first on Nairametrics .",
-      "published": "2026-09-11T12:12:00+00:00",
-      "fetched": "2026-09-11T15:19:35.991377+00:00"
-    },
-    {
-      "id": "007a9a2909f3c4fa",
-      "title": "Access Bank empowers over 1,000 women entrepreneurs, catalysing business growth through training and Funding.",
-      "link": "https://nairametrics.com/2026/09/11/access-bank-empowers-over-1000-women-entrepreneurs-catalysing-business-growth-through-training-and-funding/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Launches season 8 with 7 million grant to accelerate women-owned businesses Access Bank Plc has launched the eighth season of its flagship Womenpreneur Pitch-A-Ton initiative, strengthening its commitment to helping women entrepreneurs turn business ideas and seed capital into sustainable, scalable enterprises.Since its inception, the programme has supported more than 1,000 women entrepreneurs across 10 [ ] The post Access Bank empowers over 1,000 women entrepreneurs, catalysing business growth through training and Funding. appeared first on Nairametrics .",
-      "published": "2026-09-11T11:59:29+00:00",
-      "fetched": "2026-09-11T15:19:35.991461+00:00"
-    },
-    {
-      "id": "16a72cac218236a8",
-      "title": "Oxygen X takes loans to local markets, meeting traders right where they are",
-      "link": "https://nairametrics.com/2026/09/11/oxygen-x-takes-loans-to-local-markets-meeting-traders-right-where-they-are/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Oxygen X Finance Company took its Right Where You Are campaign to the heart of Lagos, storming CMS and Obalende markets to meet traders, small business owners and everyday Nigerians where they work and do business.The market activation brought the Oxygen X team directly to traders, creating an opportunity to have real conversations about credit, [ ] The post Oxygen X takes loans to local markets, meeting traders right where they are appeared first on Nairametrics .",
-      "published": "2026-09-11T11:56:24+00:00",
-      "fetched": "2026-09-11T15:19:35.991514+00:00"
-    },
-    {
-      "id": "93f641fa5335b0e8",
-      "title": "Why you shouldn’t miss FirstBank’s agric and export expo 2026",
-      "link": "https://nairametrics.com/2026/09/11/why-you-shouldnt-miss-firstbanks-agric-and-export-expo-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "As Nigeria continues to diversify its economy beyond oil, agriculture and non-oil exports are emerging as powerful drivers of growth, job creation, food security, and foreign exchange earnings. To advance this conversation, FirstBank will host the 5th edition of its Agric and Export Expo on 16 and 17 September 2026 under the theme: From Farm [ ] The post Why you shouldn’t miss FirstBank’s agric and export expo 2026 appeared first on Nairametrics .",
-      "published": "2026-09-11T11:49:07+00:00",
-      "fetched": "2026-09-11T15:19:35.991575+00:00"
     }
   ]
 }

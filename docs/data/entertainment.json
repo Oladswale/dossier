@@ -1,8 +1,178 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-14T21:05:26.801195+00:00",
+  "updated": "2026-09-15T02:01:59.098550+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1fef16533f2081e4",
+      "title": "Emmy Executive Arrivals: Top TV Leaders Keep Their Cool on an Indigo Carpet",
+      "link": "https://variety.com/lists/emmy-executive-arrivals-top-tv-leaders/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The heat wave that has blanketed Los Angeles for more than a week broke Monday afternoon just in time for TV movers and shakers to gather on an indigo-colored carpet outside the Peacock Theater in downtown Los Angeles for the 78th annual Emmy Awards. The assembly of top leaders this time included some fresh faces, [ ]",
+      "published": "2026-09-15T01:59:26+00:00",
+      "fetched": "2026-09-15T02:01:58.575653+00:00"
+    },
+    {
+      "id": "a7d0713a2ebc4ea9",
+      "title": "Zendaya and Tom Holland Make Emmys Debut After Wedding",
+      "link": "https://variety.com/2026/awards/actors/zendaya-tom-holland-emmys-spider-man-the-odyssey-1236861849/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tom Holland is swinging through the Emmys for the first time ever to join Zendaya, his wife and co-star on Spider-Man: Brand New Day and The Odyssey. While SNL star Marcello Hernández was introducing the best director for a comedy award, he did a bit about all the stars he was most excited to see. [ ]",
+      "published": "2026-09-15T01:51:17+00:00",
+      "fetched": "2026-09-15T02:01:58.575695+00:00"
+    },
+    {
+      "id": "c0c005d1f3a61220",
+      "title": "Taylor Swift Chats With Tom Cruise as She Cheers on Travis Kelce at First Chiefs Game Since Wedding",
+      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-first-chiefs-game-travis-kelce-wedding-1235626496/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The superstar skipped the Emmys to support Kelce during the season-opening game in Kansas City",
+      "published": "2026-09-15T01:50:17+00:00",
+      "fetched": "2026-09-15T02:01:58.839360+00:00"
+    },
+    {
+      "id": "a4b1098ac22d4cb1",
+      "title": "Hiro Murai Becomes First Asian Director to Win Emmy for Comedy Directing With ‘Widow’s Bay’",
+      "link": "https://variety.com/2026/tv/news/hiro-murai-comedy-directing-asian-emmys-history-1236858124/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Hiro Murai has made Emmy history. Murai on Monday won outstanding directing for a comedy series for the “Widow’s Bay” premiere, “Welcome to Widow’s Bay!,” becoming the first Asian director ever to win the category — and only the third Asian director to win in any Emmy category. He prevailed over a deep field that [ ]",
+      "published": "2026-09-15T01:50:00+00:00",
+      "fetched": "2026-09-15T02:01:58.575737+00:00"
+    },
+    {
+      "id": "5fd69a6a3e4154cc",
+      "title": "John Mulaney Quotes DJ Khaled at Emmys, Gets Bleeped Out While Giving Advice About Being a Man’s Man",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/john-mulaney-quotes-dj-khaled-gets-bleeped-out-emmys-1235625251/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"But these nominees know that that is BS,” John Mulaney said. “They know there's often less pressure on them if they do that first”",
+      "published": "2026-09-15T01:45:46+00:00",
+      "fetched": "2026-09-15T02:01:58.839394+00:00"
+    },
+    {
+      "id": "5b2a6ae55df361ec",
+      "title": "Stephen Colbert Wins Emmy After ‘Late Show’ Canceled by CBS and Tells Industry to Hire His Crew: ‘They Will Make Your Show Better!’",
+      "link": "https://variety.com/2026/tv/news/the-late-show-with-stephen-colbert-emmy-win-final-season-1236860942/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“The Late Show With Stephen Colbert” is the sole Emmy winner of this year s outstanding variety series category, via the canceled CBS late-night series final season, which ended in May. I want to thank so many people in this room, he said. Over the last 21 years, I ve interviewed at least a thousand of you.",
+      "published": "2026-09-15T01:43:08+00:00",
+      "fetched": "2026-09-15T02:01:58.575779+00:00"
+    },
+    {
+      "id": "45e3ed45500817e2",
+      "title": "Taylor Swift and Her Cat, Olivia Benson, Meet ‘Law & Order’ Olivia Benson in Clue-Filled Emmys Sketch",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/taylor-swift-emmys-law-order-mariska-hargitay-olivia-benson-1235626589/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"Well, if [Taylor's] not there, I'm not watching,\" Ice-T says in the bit",
+      "published": "2026-09-15T01:34:57+00:00",
+      "fetched": "2026-09-15T02:01:58.839416+00:00"
+    },
+    {
+      "id": "089ed3d6a5ce24bb",
+      "title": "Perez Hilton Enters Residential Treatment Program, Family Addresses ‘False Reports’ About His Condition",
+      "link": "https://www.rollingstone.com/culture/culture-news/perez-hilton-enters-residential-treatment-program-1235626566/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Hilton's family said that they expect him to remain in treatment for several weeks",
+      "published": "2026-09-15T01:33:03+00:00",
+      "fetched": "2026-09-15T02:01:58.839435+00:00"
+    },
+    {
+      "id": "ebae5893b1a4ed27",
+      "title": "Sally Field Becomes Oldest Emmy Winner in Her Category and Shades Paramount-Warner Bros. Merger: ‘Our Voices Matter’",
+      "link": "https://variety.com/2026/tv/news/sally-field-wins-emmy-lead-actress-tv-movie-1236858911/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sally Field won the Emmy for lead actress in a limited or anthology series or TV movie on Sunday, recognizing her portrayal of Tova Sullivan in the Netflix film Remarkably Bright Creatures. At 79, she is the oldest actress to win in this category, edging out Jessica Tandy ( Foxfire in 1987) by months. This is [ ]",
+      "published": "2026-09-15T01:22:23+00:00",
+      "fetched": "2026-09-15T02:01:58.575815+00:00"
+    },
+    {
+      "id": "7d04d4d5ed45a68d",
+      "title": "Matthew Rhys Makes Emmy History as First Person to Win Two Lead Acting Emmys in One Night and First Man to Win All Three Top Acting Prizes",
+      "link": "https://variety.com/2026/tv/awards/matthew-rhys-emmy-history-two-lead-acting-wins-1236858123/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Matthew Rhys did something no actor had done in 78 years of the Emmy Awards. Rhys won two lead acting Emmys on the same night at Monday s ceremony. Earlier in the night he shockingly took home the lead actor (limited) for his work in Netflix s The Beast in Me.",
+      "published": "2026-09-15T01:17:17+00:00",
+      "fetched": "2026-09-15T02:01:58.575849+00:00"
+    },
+    {
+      "id": "7e917affc9fac01b",
+      "title": "Taylor Swift Surprises Emmys in ‘SVU’ Parody but Skips Show to Attend Chiefs Game With Tom Cruise",
+      "link": "https://variety.com/2026/music/news/taylor-swift-emmys-svu-parody-chiefs-game-tom-cruise-1236861124/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift and Travis Kelce’s love story is still blooming, even after their wedding. The music superstar appeared at Kelce’s first game of the season, where he laced up to play tight end for another season for the Kansas City Chiefs on Sept. 14.",
+      "published": "2026-09-15T01:16:18+00:00",
+      "fetched": "2026-09-15T02:01:58.575885+00:00"
+    },
+    {
+      "id": "02e1c95f7e22d461",
+      "title": "Tom Pelphrey Wins Supporting Emmy for ‘Task,’ Shouts Out ‘Very Pregnant’ Fiancée Kaley Cuoco: ‘Our Family Is the Crown Jewel of My Life’",
+      "link": "https://variety.com/2026/tv/news/tom-pelphrey-wins-emmy-task-pregnant-fiancee-kaley-cuoco-1236856127/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tom Pelphrey has won his first Emmy. The actor, who played Robbie Prendergrast on Task Season 1, took home the gold for best supporting actor in a drama series. In an impassioned speech, Pelphrey said, I thank god for my life and my sobriety.",
+      "published": "2026-09-15T01:14:37+00:00",
+      "fetched": "2026-09-15T02:01:58.575947+00:00"
+    },
+    {
+      "id": "9d8b435eba55ae1e",
+      "title": "Noah Wyle Wins Second Lead Actor Emmy for ‘The Pitt’: ‘This Is All I’ve Ever Wanted to Do’",
+      "link": "https://variety.com/2026/tv/news/noah-wyle-wins-emmy-lead-actor-in-a-drama-1236856072/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Dr. Robby has done it again. Noah Wyle took home the Emmy for best actor in a drama series for The Pitt Season 2.",
+      "published": "2026-09-15T01:01:59+00:00",
+      "fetched": "2026-09-15T02:01:58.575984+00:00"
+    },
+    {
+      "id": "992e00363567be21",
+      "title": "Fifty Fifty’s ‘After-School Exorcism Club,’ The Boyz’s ‘Wi-Fi Love in the Palace’ and NCT’s ‘Wind Up: The Movie’ Score New Asia Sales for Finecut",
+      "link": "https://variety.com/2026/film/news/fifty-fifty-the-boyz-nct-new-asia-deals-finecut-1236860960/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "South Korean sales company Finecut has landed new territorial deals for two K-pop idol-fronted theatrical titles, After-School Exorcism Club: Girls Night and Wi-Fi Love in the Palace, while also adding fresh markets for the previously sold Wind Up: The Movie. After-School Exorcism Club: Girls Night has gone to Indonesia (Catchplay+), Singapore (Shaw Organisation) and Taiwan [ ]",
+      "published": "2026-09-15T01:00:00+00:00",
+      "fetched": "2026-09-15T02:01:58.576021+00:00"
+    },
+    {
+      "id": "2049353a95368a3e",
+      "title": "Mariska Hargitay’s Emmys Monologue Gets a Necessary Assist From Nicole Kidman",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/mariska-hargitay-emmys-opening-monologue-1235625269/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "It's the first time the Law Order: SVU star has helmed an awards show",
+      "published": "2026-09-15T00:29:53+00:00",
+      "fetched": "2026-09-15T02:01:58.839455+00:00"
+    },
+    {
+      "id": "fff289aa98c09888",
+      "title": "Parke’s Fall Collection Gives Fans Who Missed Viral Collegiate Drop a Second Chance to Score a Sweatshirt",
+      "link": "https://www.rollingstone.com/product-recommendations/style/parke-fall-collection-sept-2026-colors-buy-sweatshirt-online-1235626498/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Mark your calendar for Sept. 15, when Parke drops new varsity mocknecks, striped separates, and fall-ready shades from matcha to mulled wine",
+      "published": "2026-09-14T23:47:55+00:00",
+      "fetched": "2026-09-15T02:01:58.839478+00:00"
+    },
+    {
+      "id": "693d3bd1938c335b",
+      "title": "Emmy Awards 2026: See the Complete Winners List",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/2026-emmy-awards-winners-1235625913/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Television Academy handed out trophies at the 2026 Emmy Awards on Monday night",
+      "published": "2026-09-14T23:30:11+00:00",
+      "fetched": "2026-09-15T02:01:58.839494+00:00"
+    },
     {
       "id": "4d6325f312b20fd9",
       "title": "Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records",
@@ -1332,176 +1502,6 @@
       "summary": "Liam Neeson was in his home in upstate New York in late 2017 when he was sent a link to a New York Times article about a shameful episode in Ireland s history. Almost a decade on and he tells Variety he s still coming to terms with my reaction to it. The piece, written by Dan [ ]",
       "published": "2026-09-12T12:25:00+00:00",
       "fetched": "2026-09-12T14:27:45.094060+00:00"
-    },
-    {
-      "id": "70ee7e6287a8a3a9",
-      "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ignition, the upcoming high-concept thriller led by Emmy-nominated Game of Thrones star Maisie Williams, has been acquired for North America. WestEnd Films — which launched the film in Cannes — has closed a domestic deal with Saban on the film, directed by Emmy-nominated filmmaker James Erskine ( Copa 71, Billie, Sachin: A Billion Dreams ). The deal comes following [ ]",
-      "published": "2026-09-12T12:15:00+00:00",
-      "fetched": "2026-09-12T14:27:45.094115+00:00"
-    },
-    {
-      "id": "f89175b7dbca0dc9",
-      "title": "I’m a Princeton Student. The Story of Its Ties to Slavery and Exploitation Must Be Remembered",
-      "link": "https://www.rollingstone.com/culture/culture-features/princeton-slavery-ties-firestone-exploitation-liberia-1235623888/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A journalism class opened my eyes to the school’s complicated history with slave owners and plantation labor. Now, I want to spread the truth and find a path to reconciliation",
-      "published": "2026-09-12T12:00:00+00:00",
-      "fetched": "2026-09-12T14:27:45.206426+00:00"
-    },
-    {
-      "id": "1fbf3fe4c39f4b5e",
-      "title": "‘Buffy the Vampire Slayer’ Gets Killer Monster High Doll Release",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/monster-high-buffy-vampire-slayer-collector-doll-buy-online-1235623202/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Buffy and Angel two-pack recreates the iconic duo with character-inspired looks and accessories from the series",
-      "published": "2026-09-12T11:50:00+00:00",
-      "fetched": "2026-09-12T14:27:45.206454+00:00"
-    },
-    {
-      "id": "f067cf413e71c2d7",
-      "title": "How to Watch Today’s Oklahoma vs. Michigan Football Game Online for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-oklahoma-michigan-football-game-online-free-2026-1235625292/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here’s where to livestream today’s Oklahoma vs. Michigan matchup without cable",
-      "published": "2026-09-12T11:12:00+00:00",
-      "fetched": "2026-09-12T14:27:45.206482+00:00"
-    },
-    {
-      "id": "e3b6503b81c7d5d0",
-      "title": "Gary Oldman Predicts HBO’s ‘Harry Potter’ Series Will Be ‘More Satisfying’ for Fans Than the Movies",
-      "link": "https://variety.com/2026/tv/news/gary-oldman-hbo-harry-potter-series-more-satisfying-than-movies-1236859390/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Gary Oldman, who played Sirius Black in four Harry Potter movies, said he believes HBO s forthcoming TV series adaptation set in the Wizarding World will be a bigger crowd-pleaser than the Warner Bros. films. That s because the movies were significantly abridged from J.K.",
-      "published": "2026-09-12T05:54:51+00:00",
-      "fetched": "2026-09-12T09:40:10.154622+00:00"
-    },
-    {
-      "id": "1c7dedb961e35358",
-      "title": "Paramount Argues States’ Antitrust Suit Will ‘Collapse Under Scrutiny’",
-      "link": "https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Paramount s lawyers filed a legal response to the states antitrust lawsuit against the Warner Bros. Discovery merger on Friday, sketching out arguments and defenses it may use at a trial next March. Among other defenses, Paramount s lawyers said they may claim that the coalition of 12 states lacks the authority to regulate the merger, which [ ]",
-      "published": "2026-09-12T04:16:38+00:00",
-      "fetched": "2026-09-12T09:40:10.154672+00:00"
-    },
-    {
-      "id": "88448cd202f27e9a",
-      "title": "Jimmy Kimmel’s Pulled TV Interview With James Talarico Hits 5 Million Views in 24 Hours on YouTube",
-      "link": "https://variety.com/2026/tv/news/jimmy-kimmel-james-talarico-interview-youtube-views-1236857569/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jimmy Kimmel s pulled TV interview with James Talarico, the Texan Democrat running for the U.S. Senate, has crossed 5 million views in the 24 hours since it was posted to YouTube. It was revealed during Wednesday night s episode of Jimmy Kimmel Live!",
-      "published": "2026-09-12T03:15:43+00:00",
-      "fetched": "2026-09-12T09:40:10.154715+00:00"
-    },
-    {
-      "id": "a506f8fb0dd2d70c",
-      "title": "‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance",
-      "link": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In \"The Julia Set,\" she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it is). But she also makes Julia a highly focused and mature young woman who is still, by virtue of age and inexperience, just naïve enough to be poised between assertion and following the lead of a dude she should have steered clear of.",
-      "published": "2026-09-12T02:54:48+00:00",
-      "fetched": "2026-09-12T09:40:10.154768+00:00"
-    },
-    {
-      "id": "a0851728b12f1a28",
-      "title": "Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine",
-      "link": "https://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Pink addressed the backlash she received after reposting a call for Macklemore to apologize following his statements on stage",
-      "published": "2026-09-12T02:03:10+00:00",
-      "fetched": "2026-09-12T09:40:10.318746+00:00"
-    },
-    {
-      "id": "edf010af2e53a694",
-      "title": "Lil Durk Acquitted in Murder-for-Hire Trial",
-      "link": "https://variety.com/2026/music/news/lil-durk-acquitted-murder-for-hire-trial-1236859311/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A Los Angeles federal jury on Friday found Grammy-winning rapper Lil Durk not guilty of murder-for-hire, conspiracy and stalking resulting in death charges in the 2022 killing of rapper Quando Rondo’s cousin, according to the Los Angeles Times. Prosecutors alleged that rapper (real name: Durk Banks) directed hit men to target rapper Quando Rondo, born [ ]",
-      "published": "2026-09-12T00:48:11+00:00",
-      "fetched": "2026-09-12T01:44:14.993137+00:00"
-    },
-    {
-      "id": "d7756c20c4d2e38b",
-      "title": "Ocean Way Festival in Santa Monica Cancels Inaugural Event Due to Hurricane Marie",
-      "link": "https://www.rollingstone.com/music/music-news/ocean-way-festival-cancels-inaugural-event-hurricane-marie-1235625706/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Organizers said that storm surf and runoff caused significant beach erosion, making it no longer safe for the fest to continue",
-      "published": "2026-09-12T00:46:24+00:00",
-      "fetched": "2026-09-12T01:44:15.104526+00:00"
-    },
-    {
-      "id": "648e5884c3bf82fe",
-      "title": "‘The Uprising’ Star Woody Norman on the ‘Power Trip’ Playing King Richard II and Going Meatless at Age 10 After Working With Joaquin Phoenix",
-      "link": "https://variety.com/2026/film/global/the-uprising-star-norman-playing-king-richard-ii-going-meatless-age-10-joaquin-phoenix-1236857404/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Filming “The Uprising” gave British actor Woody Norman, who plays 14-year-old King Richard II in the historical fiction drama, a massive headache. It turns out the only crown they had for him to use during the shoot got damaged the first day of filming. “So it didn t fit my head,” Norman, 17, tells me over [ ]",
-      "published": "2026-09-12T00:36:21+00:00",
-      "fetched": "2026-09-12T01:44:14.993231+00:00"
-    },
-    {
-      "id": "18e509d5d658ec77",
-      "title": "Lil Durk Acquitted of All Charges at Trial Over Shooting That Killed Quando Rondo’s Cousin",
-      "link": "https://www.rollingstone.com/music/music-news/lil-durk-verdict-quando-rondo-conspiracy-trial-akademiks-1235622493/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Grammy-winning rapper was found not guilty of conspiracy, stalking resulting in death, and murder for hire and broke down crying as the verdict was read",
-      "published": "2026-09-12T00:26:56+00:00",
-      "fetched": "2026-09-12T01:44:15.104567+00:00"
-    },
-    {
-      "id": "6ddd518cbf0b1083",
-      "title": "Ocean Way Festival Featuring Killers, Olivia Dean and Jack White Is Canceled, as Santa Monica Blames Beach Damage From Hurricane Forces",
-      "link": "https://variety.com/2026/music/news/ocean-way-festival-canceled-beach-killers-olivia-dean-1236859293/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ocean Way is going away, at least for a year. Goldenvoice s inaugural Ocean Way Festival, which was scheduled to take place on the beach in Santa Monica Sept. 26-27, has been called off, with city officials saying the culprit is erosion along the shore caused by recent hurricane-level forces off the coast.",
-      "published": "2026-09-12T00:16:18+00:00",
-      "fetched": "2026-09-12T01:44:14.993286+00:00"
-    },
-    {
-      "id": "1a1a68d2a6ab47b0",
-      "title": "Sam Smith, Normani Copyright Case Likely Headed for Trial As Judge Signals No Dismissal",
-      "link": "https://www.rollingstone.com/music/music-news/sam-smith-normani-copyright-case-judge-signals-no-dismissal-1235625637/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A federal judge said Friday he was leaning toward denying a summary judgment bid and sending the copyright battle over the multi-platinum hit “Dancing With a Stranger” to trial",
-      "published": "2026-09-11T23:24:07+00:00",
-      "fetched": "2026-09-12T01:44:15.104604+00:00"
-    },
-    {
-      "id": "ef289d4bd41d4788",
-      "title": "Pink Explains Slamming Macklemore’s Pro-Palestine Performances, Acknowledges Heavy Backlash: ‘I’m Standing Up for My Own People, and I Thought I Knew How Lonely That Would Be. It’s Lonelier Than That’",
-      "link": "https://variety.com/2026/music/news/pink-explains-macklemore-social-media-post-palestine-jewish-1236859273/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Pink had fallen silent in the face of backlash from many quarters following her reposting a call for Macklemore to be dropped from the Ed Sheeran tour in the wake of his nightly pro-Palestinian songs and statements. Now she has spoken up about the controversy and her part in it in a big way, with [ ]",
-      "published": "2026-09-11T23:15:42+00:00",
-      "fetched": "2026-09-12T01:44:14.993339+00:00"
-    },
-    {
-      "id": "0ff5358a8b588f2e",
-      "title": "Sebastian Stan on Why ‘Fjord’ Is Being Called a ‘MAGA Movie’ and How Making ‘The Batman 2’ Feels Like ‘F—ing Godfather Part 2’",
-      "link": "https://variety.com/2026/film/awards/sebastian-stan-fjord-maga-the-batman-2-godfather-1236859214/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sebastian Stan has been running around the city of Toronto. We’re sitting in a restaurant, having lunch between his multiple studio visits for various publications. It’s busy and bustling around us, the way TIFF tends to transform every hotel and restaurant over its 11-day period.",
-      "published": "2026-09-11T22:08:15+00:00",
-      "fetched": "2026-09-12T01:44:14.993395+00:00"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-14T21:05:29.323244+00:00",
+  "updated": "2026-09-15T02:02:01.262278+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f5104bb5bc73540c",
+      "title": "Arizona HOA Forecloses on Ailing Couple’s Home Over $977 in Unpaid Fees",
+      "link": "https://www.realtor.com/news/trends/mesa-arizona-hoa-foreclosure-unpaid-fees/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Toby Newton and his partner, Sherrie Patten, fell behind on their HOA fees after a job loss and a cancer scare.",
+      "published": "2026-09-14T22:07:19+00:00",
+      "fetched": "2026-09-15T02:02:01.261748+00:00"
+    },
+    {
+      "id": "a1cc5f8c82b78150",
+      "title": "Sinkhole Growing Under Nicolas Cage’s Home Triggers Evacuation Orders in Malibu",
+      "link": "https://www.realtor.com/news/trends/malibu-evacuations-sinkhole-nicolas-cage-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Now 31 homes are under evacuation orders after coastal erosion caused the driveway of Nicolas Cage's home to collapse.",
+      "published": "2026-09-14T21:54:23+00:00",
+      "fetched": "2026-09-15T02:02:01.261777+00:00"
+    },
+    {
+      "id": "236e9332498323d4",
+      "title": "Philadelphia ‘House of Horrors’ Where Police Found ‘Dark’ Videos Is Linked to Multiple Missing Women",
+      "link": "https://www.realtor.com/news/real-estate-news/philadelphia-raymond-eugene-horsch-videos-missing-women/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The run-down Philadelphia home of late pornographer R.C. Horsch is at the center of a criminal investigation linked to five missing women.",
+      "published": "2026-09-14T21:39:38+00:00",
+      "fetched": "2026-09-15T02:02:01.261802+00:00"
+    },
+    {
+      "id": "250196379b6564c9",
+      "title": "EXCLUSIVE: Los Angeles Lakers Legend Elgin Baylor’s Longtime Home Hits the Market for $5.4 Million",
+      "link": "https://www.realtor.com/news/sports/los-angeles-lakers-elgin-baylor-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The basketball icon remained with the Lakers for his entire playing career before retiring in 1971. He died in 2021 at the age of 86.",
+      "published": "2026-09-14T21:33:58+00:00",
+      "fetched": "2026-09-15T02:02:01.261825+00:00"
+    },
     {
       "id": "f152f689e18b767e",
       "title": "EXCLUSIVE: ‘Fresh Prince of Bel-Air’ Mansion Relists With Dramatic $7 Million Price Cut",
@@ -1462,46 +1502,6 @@
       "summary": "The Global Wellness Institute's latest numbers show the wellness real estate sector reached $876 billion in 2025.",
       "published": "2026-09-04T08:39:00+00:00",
       "fetched": "2026-09-04T10:01:45.366014+00:00"
-    },
-    {
-      "id": "5fab47f742ce45f9",
-      "title": "Map Shows Where Self-Employed Mortgage Borrowers Are Most Common",
-      "link": "https://www.realtor.com/news/trends/map-self-employed-borrowers-most-common-vermont-montana/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As of 2024, the states with the highest percentage of self-employed workers are Vermont at 8.57%, Montana at 8.38%, and Maine at 8.02%.",
-      "published": "2026-09-03T21:47:37+00:00",
-      "fetched": "2026-09-04T01:32:41.610611+00:00"
-    },
-    {
-      "id": "612e24be87ed7ff6",
-      "title": "EXCLUSIVE: Inside a $25 Million AI-Powered Florida Mansion With 150 Feet of Waterfront",
-      "link": "https://www.realtor.com/news/unique-homes/boca-raton-florida-ai-powered-mansion-25-million/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The property is taking smart-home living to another level, putting AI in control of everything from its lighting to its climate.",
-      "published": "2026-09-03T20:33:00+00:00",
-      "fetched": "2026-09-04T01:32:41.610636+00:00"
-    },
-    {
-      "id": "d0131f021090f675",
-      "title": "CEO of California Real Estate Investment Fund Is Charged in $100 Million Ponzi Scheme",
-      "link": "https://www.realtor.com/news/real-estate-news/mark-hanf-pacific-private-money-fraud-arrested/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pacific Private Money Group's CEO and COO are accused of knowingly engaging in a Ponzi scheme to defraud investors out of millions.",
-      "published": "2026-09-03T20:01:15+00:00",
-      "fetched": "2026-09-03T20:11:42.091249+00:00"
-    },
-    {
-      "id": "dccd7a7d4e33f664",
-      "title": "Tiffany Haddish Explains the Unexpected Advice Behind Her Expansive 17-Property Real Estate Portfolio",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/tiffany-haddish-real-estate-portfolio-advice/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The comedian has a very specific tactic for acquiring wealth, and it all came from an unlikely stranger she met while traveling.",
-      "published": "2026-09-03T19:43:56+00:00",
-      "fetched": "2026-09-03T20:11:42.091285+00:00"
     }
   ]
 }
