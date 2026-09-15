@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-15T15:46:20.934658+00:00",
+  "updated": "2026-09-15T20:30:49.409211+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e782c6c11cf30546",
+      "title": "Meghan Markle Shares Intimate Tribute to Prince Harry as Couple Settles Into New Life in the U.K.",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-birthday-move-uk-california/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Duke and Duchess of Sussex, who put down roots in Montecito in 2020, arrived in the U.K. on Aug. 26 with their children.",
+      "published": "2026-09-15T19:09:13+00:00",
+      "fetched": "2026-09-15T20:30:49.408714+00:00"
+    },
+    {
+      "id": "3afc017bde8360d3",
+      "title": "Diane Keaton’s Final Laguna Beach Design Project To Hit the Market for $10.3 Million",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/diane-keaton-final-home-renovation-laguna-beach/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The late actress, who was also a prolific home designer, renovated the Laguna Beach dwelling in 2021. Many of her choices are still present.",
+      "published": "2026-09-15T17:41:22+00:00",
+      "fetched": "2026-09-15T20:30:49.408741+00:00"
+    },
+    {
+      "id": "f872f8b1212b36dc",
+      "title": "EXCLUSIVE: 2028 L.A. Olympics Chairman Casey Wasserman Sells Futuristic Mansion for $18.5 Million After Dramatic Price Cuts",
+      "link": "https://www.realtor.com/news/sports/2028-olympic-chairman-casey-wasserman-sells-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Wasserman has found a buyer for his sprawling Los Angeles estate, selling the home for $18.5 million—after multiple price cuts.",
+      "published": "2026-09-15T16:34:54+00:00",
+      "fetched": "2026-09-15T20:30:49.408761+00:00"
+    },
     {
       "id": "7f06f8b753a6785b",
       "title": "Savannah Guthrie Makes Heartbreaking Plea To Bring Missing Mom Nancy ‘Home’ for a ‘Proper Goodbye’",
@@ -1472,36 +1502,6 @@
       "summary": "Following seven days of deliberations, the infamous murder case ended in a mistrial after the 12 jurors could not reach a unanimous verdict.",
       "published": "2026-09-04T15:49:00+00:00",
       "fetched": "2026-09-04T19:57:22.098054+00:00"
-    },
-    {
-      "id": "c7142258bbc5fb8e",
-      "title": "Meghan Markle To Make ‘Regular’ Trips Back to California as She and Prince Harry Settle Into New U.K. Life",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-return-to-california-doria-ragland/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Although the couple is settled into the U.K., the \"Suits\" actress is allegedly already looking forward to making trips back to L.A.",
-      "published": "2026-09-04T15:31:37+00:00",
-      "fetched": "2026-09-04T19:57:22.098081+00:00"
-    },
-    {
-      "id": "8d10913d0291b31a",
-      "title": "The Villages Home Prices Drop Again: America’s Largest Retirement Spot Gets More Affordable",
-      "link": "https://www.realtor.com/news/trends/the-villages-florida-home-prices-dropping-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As of August 2026, the median listing price in The Villages is $377,784, a nearly 2% decrease from August 2025.",
-      "published": "2026-09-04T15:02:00+00:00",
-      "fetched": "2026-09-04T15:13:33.989120+00:00"
-    },
-    {
-      "id": "8df2ecd77a9ff4fd",
-      "title": "A ‘Mansion in the Sky’: $22 Million Penthouse Deal in Zaha Hadid-Designed Building Highlights Miami’s Booming Luxury Market",
-      "link": "https://www.realtor.com/news/unique-homes/penthouse-zaha-hadid-one-thousand-museum-miami/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "See the sprawling penthouse featuring 360-degree views, a helipad, and high-end upgrades in one of South Florida's most iconic towers.",
-      "published": "2026-09-04T14:51:59+00:00",
-      "fetched": "2026-09-04T15:13:33.989153+00:00"
     }
   ]
 }

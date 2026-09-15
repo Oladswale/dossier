@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-15T15:46:20.369641+00:00",
+  "updated": "2026-09-15T20:30:48.704071+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d3b219bb3b1a477f",
+      "title": "MIT makes progress on campus climate goals",
+      "link": "https://news.mit.edu/2026/mit-makes-progress-campus-climate-goals-0915",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Innovative strategies, technologies, and collaborations are helping MIT advance solutions on campus and beyond.",
+      "published": "2026-09-15T19:55:00+00:00",
+      "fetched": "2026-09-15T20:30:47.348220+00:00"
+    },
+    {
+      "id": "9654c43573e0297e",
+      "title": "3 Questions: Putting nuclear waste into perspective",
+      "link": "https://news.mit.edu/2026/3-questions-putting-nuclear-waste-into-perspective-0915",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Haruko Wainwright believes the risks posed by radioactive wastes cannot be properly assessed without also considering the hazards of chemical wastes.",
+      "published": "2026-09-15T19:30:00+00:00",
+      "fetched": "2026-09-15T20:30:47.348245+00:00"
+    },
     {
       "id": "3c529966ca186997",
       "title": "The Radical Ideas of Plato’s Republic: An In-Depth Introduction",
@@ -1482,26 +1502,6 @@
       "summary": "Derived from patient tumor samples and available to researchers around the world, the cells will aid the development of new cancer treatments.",
       "published": "2026-08-05T15:00:00+00:00",
       "fetched": "2026-08-05T19:08:31.139192+00:00"
-    },
-    {
-      "id": "c3b681d0615cc147",
-      "title": "Read 20,000+ Golden Age Comic Books Free Online: Superheroes, Westerns, Romance, Horror, and More",
-      "link": "https://www.openculture.com/2026/08/read-20000-golden-age-comic-books-free-online.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "For generations of kids in the twentieth century, few pleasures were as intoxicating as a trip to the comic-book shop with the week’s allowance fresh in hand. Those of us who grew up in the nineties had any number of high-production-value paper superhero spectacles from major publishers on which to blow our money. Personally, I [ ]",
-      "published": "2026-08-05T14:34:12+00:00",
-      "fetched": "2026-08-05T19:08:33.003797+00:00"
-    },
-    {
-      "id": "beec89759255f8b8",
-      "title": "How Ada Lovelace, Daughter of Lord Byron, Wrote the First Computer Program in 1842–a Century Before the First Computer",
-      "link": "https://www.openculture.com/2026/08/how-ada-lovelace-wrote-the-first-computer-program-in-1842.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "I’ve never quite understood why the phrase “revisionist history” became purely pejorative. Of course, it has its Orwellian dark side, but all knowledge has to be revised periodically, as we acquire new information and, ideally, discard old prejudices and narrow frames of reference. A failure to do so seems fundamentally regressive, not only in political [ ]",
-      "published": "2026-08-05T08:00:13+00:00",
-      "fetched": "2026-08-05T08:11:16.371692+00:00"
     }
   ]
 }
