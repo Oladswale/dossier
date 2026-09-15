@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-15T02:02:01.262278+00:00",
+  "updated": "2026-09-15T10:33:26.863290+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5a8d9a61d61e3a25",
+      "title": "The 4% Mortgage Is Back. Is It Keeping New-Home Prices From Falling?",
+      "link": "https://www.realtor.com/news/trends/builder-mortgage-rates-new-home-incentives-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Builders are advertising mortgage rates near 4%, giving buyers more purchasing power—but raising new questions about prices and risk.",
+      "published": "2026-09-15T09:00:00+00:00",
+      "fetched": "2026-09-15T10:33:26.862767+00:00"
+    },
+    {
+      "id": "85d5af1b9afb3284",
+      "title": "The 30-Day Clock That Can Start When You Inherit a Home",
+      "link": "https://www.realtor.com/news/trends/reverse-mortgage-inheritance-30-day-clock/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Heirs to homes with reverse mortgages can face a 30-day clock—and may need new financing to keep the family home.",
+      "published": "2026-09-15T08:32:00+00:00",
+      "fetched": "2026-09-15T10:33:26.862796+00:00"
+    },
+    {
+      "id": "cea9c03d0cf2515e",
+      "title": "Inside a Stunning $88 Million Estate With a 1,000-Bottle Wine Gallery and 9-Car Garage Overlooking Bel-Air Country Club",
+      "link": "https://www.realtor.com/news/unique-homes/bel-air-saota-estate-most-expensive-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore the week's most expensive homes list, led by an $88 million Bel-Air megamansion with ocean views and a 50-foot water wall.",
+      "published": "2026-09-15T08:17:00+00:00",
+      "fetched": "2026-09-15T10:33:26.862830+00:00"
+    },
     {
       "id": "f5104bb5bc73540c",
       "title": "Arizona HOA Forecloses on Ailing Couple’s Home Over $977 in Unpaid Fees",
@@ -1472,36 +1502,6 @@
       "summary": "You’ve picked an investing strategy, you’ve studied your market, but now you need the money to get started. You’re not alone, as this is perhaps the most common hurdle for [ ]",
       "published": "2026-09-04T11:00:36+00:00",
       "fetched": "2026-09-07T16:47:48.448392+00:00"
-    },
-    {
-      "id": "2b53e56d4709b2eb",
-      "title": "9 “Boring” Investing Habits That Will Actually Make You Rich",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1326",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The top 1% of real estate investors don’t have a “secret” market, a “better” investing strategy, or access to “exclusive” resources. They just do nine things better than most other [ ]",
-      "published": "2026-09-04T11:00:15+00:00",
-      "fetched": "2026-09-07T16:47:48.448432+00:00"
-    },
-    {
-      "id": "d2c9bb24c26a46be",
-      "title": "Steep Property Taxes vs. Private Tuition: Which Option Costs Homebuyers More?",
-      "link": "https://www.realtor.com/news/trends/property-taxes-vs-private-tuition-cost-comparison/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Is it cheaper to buy in a top public school district or pay private tuition? We run the numbers over 13 years to see which option wins.",
-      "published": "2026-09-04T09:00:00+00:00",
-      "fetched": "2026-09-04T10:01:45.365975+00:00"
-    },
-    {
-      "id": "0f482aefb2ebfdb1",
-      "title": "Wellness Real Estate Projected To Hit $1.8 Trillion by 2030 as Developers Tout Life-Extending Homes",
-      "link": "https://www.realtor.com/news/trends/wellness-real-estate-market-longevity-developers/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Global Wellness Institute's latest numbers show the wellness real estate sector reached $876 billion in 2025.",
-      "published": "2026-09-04T08:39:00+00:00",
-      "fetched": "2026-09-04T10:01:45.366014+00:00"
     }
   ]
 }
