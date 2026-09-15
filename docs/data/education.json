@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-15T10:33:26.117826+00:00",
+  "updated": "2026-09-15T15:46:20.369641+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3c529966ca186997",
+      "title": "The Radical Ideas of Plato’s Republic: An In-Depth Introduction",
+      "link": "https://www.openculture.com/2026/09/the-radical-ideas-of-platos-republic-an-in-depth-introduction.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "We no longer live in a time when college freshmen get shocked by much of the reading material assigned to them. Counterintuitively, the texts that do retain their power to disturb young minds (presuming they can read texts in the first place) tend to skew old — and in one prominent case, about 2,400 years [ ]",
+      "published": "2026-09-15T15:08:01+00:00",
+      "fetched": "2026-09-15T15:46:20.369360+00:00"
+    },
+    {
+      "id": "27fd466d0ac41565",
+      "title": "Why Incompetent People Think They’re Amazing: An Animated Lesson from David Dunning (of the Famous “Dunning-Kruger Effect”)",
+      "link": "https://www.openculture.com/2026/09/why-incompetent-people-think-theyre-amazing-an-animated-lesson-from-david-dunning.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The business world has long had special jargon for the Kafkaesque incompetence bedeviling the ranks of upper management. There is “the Peter principle,” first described in a satirical book of the same name in 1968. More recently, we have the positive notion of “failing upward.” The concept has inspired a mantra, “fail harder, fail faster,” [ ]",
+      "published": "2026-09-15T08:00:39+00:00",
+      "fetched": "2026-09-15T15:46:20.369425+00:00"
+    },
     {
       "id": "5fb930dee60a5d27",
       "title": "Marine bacteria team up to break down one of the ocean's toughest carbon-storing molecules",
@@ -1482,26 +1502,6 @@
       "summary": "I’ve never quite understood why the phrase “revisionist history” became purely pejorative. Of course, it has its Orwellian dark side, but all knowledge has to be revised periodically, as we acquire new information and, ideally, discard old prejudices and narrow frames of reference. A failure to do so seems fundamentally regressive, not only in political [ ]",
       "published": "2026-08-05T08:00:13+00:00",
       "fetched": "2026-08-05T08:11:16.371692+00:00"
-    },
-    {
-      "id": "fa2d51f8575993d8",
-      "title": "These 3D-printed objects can tell you if they’re being used properly",
-      "link": "https://news.mit.edu/2026/shiftlens-3d-printed-objects-can-tell-you-if-used-properly-0805",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The “ShiftLens” design and fabrication system creates objects that change their surface appearance based on user interactions, without any electronics.",
-      "published": "2026-08-05T04:00:00+00:00",
-      "fetched": "2026-08-05T08:11:15.287140+00:00"
-    },
-    {
-      "id": "bc6c775753cc0291",
-      "title": "Past is prologue for geopolitical developments",
-      "link": "https://news.mit.edu/2026/past-prologue-geopolitical-developments-0804",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "DUSP Associate Professor Jason Jackson’s latest book compares how two countries chose radically different paths to economic independence.",
-      "published": "2026-08-04T20:25:00+00:00",
-      "fetched": "2026-08-05T01:15:56.934544+00:00"
     }
   ]
 }
