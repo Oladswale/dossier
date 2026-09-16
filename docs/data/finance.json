@@ -1,8 +1,278 @@
 {
   "category": "finance",
-  "updated": "2026-09-16T10:21:27.185866+00:00",
+  "updated": "2026-09-16T15:37:55.401553+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "44acffa1a2f55e88",
+      "title": "Senate is still a tossup, but Democrats now have slight edge, prediction market traders think",
+      "link": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.",
+      "published": "2026-09-16T15:34:59+00:00",
+      "fetched": "2026-09-16T15:37:46.293670+00:00"
+    },
+    {
+      "id": "edc92245573be9ed",
+      "title": "World Bank appoints Nobel laureate Michael Kremer as Chief Economist",
+      "link": "https://nairametrics.com/2026/09/16/world-bank-appoints-nobel-laureate-michael-kremer-as-chief-economist/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The World Bank Group President, Ajay Banga, has announced that Nobel laureate Michael Kremer has been appointed as the bank’s Chief Economist and Senior Vice President for Development Economics. The post World Bank appoints Nobel laureate Michael Kremer as Chief Economist appeared first on Nairametrics .",
+      "published": "2026-09-16T15:14:05+00:00",
+      "fetched": "2026-09-16T15:37:54.684694+00:00"
+    },
+    {
+      "id": "c9bc64d33b67753b",
+      "title": "The push to connect Africa’s startups is getting $63 million and an AI platform",
+      "link": "https://techcabal.com/2026/09/16/22-on-sloane-launches-kumii/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "22 on Sloane wants to solve the challenge of fragmented capital, markets and support for African businesses.",
+      "published": "2026-09-16T14:51:39+00:00",
+      "fetched": "2026-09-16T15:37:55.401176+00:00"
+    },
+    {
+      "id": "868f3e3137cc566f",
+      "title": "Xiaomi 18 Fold: What to know about Xiaomi’s new foldable",
+      "link": "https://techcabal.com/2026/09/16/xiaomi-18-fold-price-release-date-specs-features/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Xiaomi unveiled the 18 Fold on September 7, 2026. Sales in China began on September 10, with the entry model starting at CNY 10,999.",
+      "published": "2026-09-16T14:49:05+00:00",
+      "fetched": "2026-09-16T15:37:55.401216+00:00"
+    },
+    {
+      "id": "7887af65aac99f00",
+      "title": "FG commissions 3.3MW solar mini-grid, 2MWh battery storage at Yakubu Gowon University",
+      "link": "https://nairametrics.com/2026/09/16/fg-commissions-3-3mw-solar-mini-grid-2mwh-battery-storage-at-yakubu-gowon-university/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has commissioned a 3.3MWp solar hybrid mini-grid with 2MWh battery storage at Yakubu Gowon University, formerly the University of Abuja, as part of efforts to improve reliable electricity supply to federal tertiary institutions. The post FG commissions 3.3MW solar mini-grid, 2MWh battery storage at Yakubu Gowon University appeared first on Nairametrics .",
+      "published": "2026-09-16T14:44:13+00:00",
+      "fetched": "2026-09-16T15:37:54.684752+00:00"
+    },
+    {
+      "id": "db3a36d5f020c31b",
+      "title": "Midea Hosts 2026 Dealers Conference in Lagos",
+      "link": "https://nairametrics.com/2026/09/16/midea-hosts-2026-dealers-conference-in-lagos/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Midea held its 2026 Dealers Conference at the Ikeja Marriott Hotel, bringing together dealers, distribution partners, installers and other trade stakeholders to review the company s business direction, explore product innovations and align on growth opportunities in Nigeria.Held under the theme Innovation Collaboration Growth, the conference covered the four key pillars supporting Midea s growth [ ] The post Midea Hosts 2026 Dealers Conference in Lagos appeared first on Nairametrics .",
+      "published": "2026-09-16T14:32:05+00:00",
+      "fetched": "2026-09-16T15:37:54.684810+00:00"
+    },
+    {
+      "id": "a9f2ee667c23d738",
+      "title": "Sterling Bank appoints Laoye Jaiyeola, Chinedu Ikwudinma as independent directors",
+      "link": "https://nairametrics.com/2026/09/16/sterling-bank-appoints-laoye-jaiyeola-chinedu-ikwudinma-as-independent-directors/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sterling Financial Holdings Company Plc has announced the appointment of Laoye Jaiyeola and Chinedu Ikwudinma as Independent Non-Executive Directors of Sterling Bank Limited. The post Sterling Bank appoints Laoye Jaiyeola, Chinedu Ikwudinma as independent directors appeared first on Nairametrics .",
+      "published": "2026-09-16T14:27:58+00:00",
+      "fetched": "2026-09-16T15:37:54.684853+00:00"
+    },
+    {
+      "id": "0f4e405ee741a95f",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
+      "published": "2026-09-16T14:18:00+00:00",
+      "fetched": "2026-09-16T15:37:42.141513+00:00"
+    },
+    {
+      "id": "bc51ee4d586bbe71",
+      "title": "Nigeria’s trillion dollar economy has a complexity problem",
+      "link": "https://nairametrics.com/2026/09/16/nigerias-trillion-dollar-economy-has-a-complexity-problem/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s economy is already broad, and its exports are shifting. But diverse is not the same as diversified, and for anyone deploying capital the difference is where both the risk and the opportunity sit. The post Nigeria’s trillion dollar economy has a complexity problem appeared first on Nairametrics .",
+      "published": "2026-09-16T14:13:45+00:00",
+      "fetched": "2026-09-16T15:37:54.684903+00:00"
+    },
+    {
+      "id": "fd5fbd070c87f402",
+      "title": "More home builders cut prices as buyers get spooked",
+      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A rising share of builders are slashing prices on newly built homes despite increasing construction costs, as buyers get spooked by high mortgage rates.",
+      "published": "2026-09-16T14:10:00+00:00",
+      "fetched": "2026-09-16T15:37:42.141574+00:00"
+    },
+    {
+      "id": "30252c6506d137b4",
+      "title": "Amodei wants to slow the AI frontier. Africa is still trying to reach it",
+      "link": "https://techcabal.com/2026/09/16/amodei-wants-to-slow-the-ai-frontier-africa-is-still-trying-to-reach-it/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Anthropic CEO Dario Amodei is pushing to halt AI development long enough for safety research and governance to catch up",
+      "published": "2026-09-16T14:08:26+00:00",
+      "fetched": "2026-09-16T15:37:55.401245+00:00"
+    },
+    {
+      "id": "6f2d8e34854abb7d",
+      "title": "Why liquid cooling is the new benchmark: A closer look at the Infinix GT 50 Pro",
+      "link": "https://nairametrics.com/2026/09/16/why-liquid-cooling-is-the-new-benchmark-a-closer-look-at-the-infinix-gt-50-pro/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The rapid adoption of AI has brought a new tech dilemma into the spotlight. The data centers that power everyday AI use are running into a thermal wall that traditional air cooling can no longer service. Without top-tier cooling systems in place, performance and stability suffer.",
+      "published": "2026-09-16T13:54:42+00:00",
+      "fetched": "2026-09-16T15:37:54.684960+00:00"
+    },
+    {
+      "id": "dd6056b89e729590",
+      "title": "Dangote Commends NGX Group Leadership for Transforming Nigeria’s Bourse",
+      "link": "https://nairametrics.com/2026/09/16/dangote-commends-ngx-group-leadership-for-transforming-nigerias-bourse/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President and Chief Executive Officer of Dangote Industries Limited, Aliko Dangote, has commended the leadership of Nigerian Exchange Group (NGX Group) for transforming Nigeria’s capital market. He spoke at the Facts Behind the Offer presentation and Opening Gong Ceremony for the Initial Public Offering of Dangote Petroleum Refinery and Petrochemicals FZE, held on Monday, September [ ] The post Dangote Commends NGX Group Leadership for Transforming Nigeria’s Bourse appeared first on Nairametrics .",
+      "published": "2026-09-16T13:33:09+00:00",
+      "fetched": "2026-09-16T15:37:54.685021+00:00"
+    },
+    {
+      "id": "5b19ce9ecf0792fc",
+      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
+      "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Sebastien Mallet is on the verge of his best one-year performance ever as portfolio manager of T. Rowe Price Global Value Equity Fund. Here’s what he’s buying.",
+      "published": "2026-09-16T13:33:00+00:00",
+      "fetched": "2026-09-16T15:37:42.141637+00:00"
+    },
+    {
+      "id": "7b462a9eefc82434",
+      "title": "DHL Express Launches Domestic Select to Support Growing Businesses and Domestic Trade in Nigeria",
+      "link": "https://nairametrics.com/2026/09/16/dhl-express-launches-domestic-select-to-support-growing-businesses-and-domestic-trade-in-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Offers customers greater flexibility for less urgent shipments. Affordable domestic shipping designed to support business growth and operational efficiency. Access to a trusted network that connects customers and businesses across Nigeria.",
+      "published": "2026-09-16T13:31:03+00:00",
+      "fetched": "2026-09-16T15:37:54.685082+00:00"
+    },
+    {
+      "id": "b1e83c0011b9e1a5",
+      "title": "What history says about longer-term bond yields after an initial Fed hike",
+      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "If the Federal Reserve hikes interest rates in an effort to slow down the rapid rise in longer-term yields, history shows it probably won’t be a success.",
+      "published": "2026-09-16T13:30:00+00:00",
+      "fetched": "2026-09-16T15:37:42.141671+00:00"
+    },
+    {
+      "id": "01e173460f179383",
+      "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
+      "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Sales at U.S. retailers surged in August and posted the biggest increase in five months, offering another piece of evidence suggesting the economy sped up toward the end of summer.",
+      "published": "2026-09-16T13:22:00+00:00",
+      "fetched": "2026-09-16T15:37:42.141705+00:00"
+    },
+    {
+      "id": "a5b557ddd8ea40c0",
+      "title": "Nigerian Blue-Chip stocks hold sway amid Dangote’s refinery IPO",
+      "link": "https://nairametrics.com/2026/09/16/nigerian-blue-chip-stocks-hold-sway-amid-dangotes-refinery-ipo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian capital market is at a pivotal juncture with the Dangote Refinery IPO, amidst a bullish trend across the Nigerian Exchange (NGX). The post Nigerian Blue-Chip stocks hold sway amid Dangote s refinery IPO appeared first on Nairametrics .",
+      "published": "2026-09-16T13:18:57+00:00",
+      "fetched": "2026-09-16T15:37:54.685122+00:00"
+    },
+    {
+      "id": "ace8e963bb899c73",
+      "title": "5% Treasury yields mean America’s debt bill just got a lot bigger",
+      "link": "https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Treasury yields haven’t been this high in years — and the fiscal math gets uglier the longer they stay there.",
+      "published": "2026-09-16T13:03:00+00:00",
+      "fetched": "2026-09-16T15:37:42.141746+00:00"
+    },
+    {
+      "id": "a4a0bdef7c1d2f24",
+      "title": "Forget Terminator. This Nigerian philosopher is worried about the AI we already use",
+      "link": "https://techcabal.com/2026/09/16/life-in-tech-segun-samuel/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "From building robots in his head as a child to studying philosophy, researching AI safety, advising the UN, and building industrial AI, Samuel Segun’s career has followed one question: how should AI work in the real world?",
+      "published": "2026-09-16T12:35:26+00:00",
+      "fetched": "2026-09-16T15:37:55.401285+00:00"
+    },
+    {
+      "id": "b41354d504398d68",
+      "title": "Sub-Saharan Africa projected to take 102 years to close gender gap, WEF",
+      "link": "https://nairametrics.com/2026/09/16/sub-saharan-africa-projected-to-take-102-years-to-close-gender-gap-wef/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sub-Saharan Africa has closed 68.8% of its overall gender gap, but at the current pace, the region is projected to take another 102 years to achieve full gender parity. The post Sub-Saharan Africa projected to take 102 years to close gender gap, WEF appeared first on Nairametrics .",
+      "published": "2026-09-16T12:16:19+00:00",
+      "fetched": "2026-09-16T15:37:54.685163+00:00"
+    },
+    {
+      "id": "380103ebad5bcecf",
+      "title": "Botswana shows why financial inclusion no longer has to start with a bank account",
+      "link": "https://techcabal.com/2026/09/16/botswana-future-of-banking-not-start-with-bank/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Traditional banking works best when the customer fits a relatively predictable profile. A salaried worker receives a regular income, has proof of address, can maintain an account and can absorb transaction or monthly fees. That model becomes less useful when income is irregular, employment is informal, or a customer lives far from a branch.",
+      "published": "2026-09-16T12:15:38+00:00",
+      "fetched": "2026-09-16T15:37:55.401327+00:00"
+    },
+    {
+      "id": "d232b1476d87d41d",
+      "title": "YC-backed Bujeti launches AI agents to automate routine finance work",
+      "link": "https://techcabal.com/2026/09/16/bujeti-launches-ai-agents-to-handle-finance-work/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The launch comes as African businesses move beyond experimenting with AI to embedding it in daily operations.",
+      "published": "2026-09-16T11:47:44+00:00",
+      "fetched": "2026-09-16T15:37:55.401353+00:00"
+    },
+    {
+      "id": "e48e349dc22f8723",
+      "title": "Veteran actor Olu Jacobs dies at 84",
+      "link": "https://nairametrics.com/2026/09/16/veteran-actor-olu-jacobs-dies-at-84/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Veteran Nigerian actor and film executive Oludotun Jacobs, popularly known as Olu Jacobs, has died at the age of 84. The post Veteran actor Olu Jacobs dies at 84 appeared first on Nairametrics .",
+      "published": "2026-09-16T11:40:02+00:00",
+      "fetched": "2026-09-16T15:37:54.685197+00:00"
+    },
+    {
+      "id": "be4d988fb37a7e50",
+      "title": "Pula and S2E want to solve Africa’s startup problem with British aid money",
+      "link": "https://techcabal.com/2026/09/16/pula-s2e/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Pula wants to buy African startups as it prepares for an exit. FSD, backed by British aid money, and S2E Africa, a consultancy, are helping find sellers.",
+      "published": "2026-09-16T11:03:54+00:00",
+      "fetched": "2026-09-16T15:37:55.401383+00:00"
+    },
+    {
+      "id": "88d4f96cb728e411",
+      "title": "Court rejects AHS Ltd appeal against PAHCOL aviation dispute",
+      "link": "https://nairametrics.com/2026/09/16/court-rejects-ahs-ltd-appeal-against-pahcol-aviation-dispute/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Court of Appeal has dismissed an appeal filed by British aviation company, Aviation Services International Ltd (AHS), against Precision Aviation Handling Company Ltd (PAHCOL), now AHS Aviation Handling Services Nig. Ltd, and others over a Joint Venture Agreement. The post Court rejects AHS Ltd appeal against PAHCOL aviation dispute appeared first on Nairametrics .",
+      "published": "2026-09-16T10:29:25+00:00",
+      "fetched": "2026-09-16T15:37:54.685239+00:00"
+    },
+    {
+      "id": "6dc2a60652f61091",
+      "title": "Nigeria’s Portfolio inflows surge 14.4% to US$6.03 billion in Q1 2026",
+      "link": "https://nairametrics.com/2026/09/16/nigerias-portfolio-inflows-surge-14-4-to-us6-03-billion-in-q1-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's financial account recorded portfolio investment inflows of $6.03 billion in the first quarter of 2026, the dominant component of a $7.22 billion gross incurrence of financial liabilities during the period and represents a surge of 14.4%. The post Nigeria s Portfolio inflows surge 14.4% to US$6.03 billion in Q1 2026 appeared first on Nairametrics .",
+      "published": "2026-09-16T10:10:47+00:00",
+      "fetched": "2026-09-16T15:37:54.685285+00:00"
+    },
     {
       "id": "a647da331404e1de",
       "title": "Africhange vs LemFi vs NALA: which UK remittance app should you switch to?",
@@ -1232,276 +1502,6 @@
       "summary": "Nigerian Oil and other major oil contracts moved higher after an attack on Saudi Arabia's closure of a key crude oil pipeline hit the market, disrupting a crucial route for avoiding the Strait of Hormuz during the US-Iran war. The post Nigerian Crude Oil strikes past $115 per Barrel amid Saudi Pipeline Disruption appeared first on Nairametrics .",
       "published": "2026-09-14T14:16:43+00:00",
       "fetched": "2026-09-14T17:05:57.519569+00:00"
-    },
-    {
-      "id": "9d3deb3fba2da869",
-      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
-      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "These are the biggest issues to consider when there’s more than a 10-year age difference.",
-      "published": "2026-09-14T14:15:00+00:00",
-      "fetched": "2026-09-14T17:05:56.481088+00:00"
-    },
-    {
-      "id": "a356f170b46428fc",
-      "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
-      "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
-      "published": "2026-09-14T14:05:00+00:00",
-      "fetched": "2026-09-14T17:05:56.481117+00:00"
-    },
-    {
-      "id": "256d3d76436279de",
-      "title": "Dangote to begin construction of $17 billion Kenya refinery by end of September",
-      "link": "https://nairametrics.com/2026/09/14/dangote-to-begin-construction-of-17-billion-kenya-refinery-by-end-of-september/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Group will begin work on its proposed $17 billion oil refinery in Kenya by the end of September, with the facility expected to be completed within three years. The post Dangote to begin construction of $17 billion Kenya refinery by end of September appeared first on Nairametrics .",
-      "published": "2026-09-14T13:58:48+00:00",
-      "fetched": "2026-09-14T17:05:57.519609+00:00"
-    },
-    {
-      "id": "bea390cb262bf98f",
-      "title": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
-      "link": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "History suggests the bull market in stocks will continue if the Fed raises interest rates this week, but there are things investors can do to take some precaution if hikes continue.",
-      "published": "2026-09-14T13:45:00+00:00",
-      "fetched": "2026-09-14T17:05:56.481192+00:00"
-    },
-    {
-      "id": "1c5f745e8e5be7b3",
-      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Analysts don’t expect the push for more responsible AI development to derail data-center spending.",
-      "published": "2026-09-14T13:37:00+00:00",
-      "fetched": "2026-09-14T17:05:56.481232+00:00"
-    },
-    {
-      "id": "7502aa86f3292585",
-      "title": "Alawuba: Improvement In Economic Indicators Point To Nigeria’s Growth Path",
-      "link": "https://nairametrics.com/2026/09/14/alawuba-improvement-in-economic-indicators-point-to-nigerias-growth-path/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Group Managing Director of United Bank for Africa and Chairman of the Body of Bank CEOs in Nigeria, Oliver Alawuba, has outlined a blueprint for building a resilient Nigerian economy, calling for deliberate policies and stronger collaboration across the public and private sectors to transform economic stability into inclusive prosperity. Alawuba made the call while [ ] The post Alawuba: Improvement In Economic Indicators Point To Nigeria s Growth Path appeared first on Nairametrics .",
-      "published": "2026-09-14T13:02:43+00:00",
-      "fetched": "2026-09-14T17:05:57.519664+00:00"
-    },
-    {
-      "id": "2edb6e265b10baa1",
-      "title": "Iran postpones Hormuz talks, sanctions 77 vessels amid rising tensions",
-      "link": "https://nairametrics.com/2026/09/14/iran-postpones-hormuz-talks-sanctions-77-vessels-amid-rising-tensions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Iran has postponed a planned meeting with other Gulf powers to discuss shipping through the Strait of Hormuz, while its Persian Gulf Strait Authority has sanctioned 77 vessels for allegedly violating its protocols amid rising tensions in the region. The post Iran postpones Hormuz talks, sanctions 77 vessels amid rising tensions appeared first on Nairametrics .",
-      "published": "2026-09-14T12:25:15+00:00",
-      "fetched": "2026-09-14T17:05:57.519708+00:00"
-    },
-    {
-      "id": "b5d460a5348e5fda",
-      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-      "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-      "published": "2026-09-14T12:16:52+00:00",
-      "fetched": "2026-09-16T01:52:45.301847+00:00"
-    },
-    {
-      "id": "a47cf16568c90545",
-      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
-      "published": "2026-09-14T12:11:00+00:00",
-      "fetched": "2026-09-14T17:05:56.481265+00:00"
-    },
-    {
-      "id": "bc8173df633c229c",
-      "title": "Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround",
-      "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
-      "published": "2026-09-14T11:59:00+00:00",
-      "fetched": "2026-09-14T17:05:56.481298+00:00"
-    },
-    {
-      "id": "30fc8606b8be674b",
-      "title": "Bamboo app crashes under traffic surge as investors rush to access Dangote Refinery IPO",
-      "link": "https://nairametrics.com/2026/09/14/bamboo-app-crashes-under-traffic-surge-as-investors-rush-to-access-dangote-refinery-ipo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Investment platform Bamboo experienced login failures on Monday after a surge of users flooded the app to participate in the Dangote Refinery and Petrochemicals FZE public offer. The post Bamboo app crashes under traffic surge as investors rush to access Dangote Refinery IPO appeared first on Nairametrics .",
-      "published": "2026-09-14T11:36:47+00:00",
-      "fetched": "2026-09-14T17:05:57.519749+00:00"
-    },
-    {
-      "id": "cf21187cf64905ae",
-      "title": "J.P. Morgan includes Nigeria in new emerging-market bond index with 7.4% weight",
-      "link": "https://nairametrics.com/2026/09/14/j-p-morgan-includes-nigeria-in-new-emerging-market-bond-index-with-7-4-weight/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "J.P. Morgan has included Nigeria in its newly introduced Government Bond Index–Emerging Markets Edge (GBI-EM Edge), assigning the country a 7.4% weighting in the benchmark designed to track local-currency government debt across frontier emerging markets. The post J.P.",
-      "published": "2026-09-14T11:29:42+00:00",
-      "fetched": "2026-09-14T17:05:57.519801+00:00"
-    },
-    {
-      "id": "e75fb79b342c97ea",
-      "title": "MTN controls 55% of Nigeria’s fibre market, but the overall sector remains tiny",
-      "link": "https://techcabal.com/2026/09/14/mtn-controls-55-of-nigerias-tiny-fibre-market/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN Nigeria has emerged as the dominant player in Nigeria’s fibre internet market, but its growing lead masks a bigger problem: fixed broadband remains a tiny part of the country’s internet market.",
-      "published": "2026-09-14T11:01:31+00:00",
-      "fetched": "2026-09-14T11:02:26.987118+00:00"
-    },
-    {
-      "id": "8cd4917ce4c1ff2a",
-      "title": "The 1.19% real return: Is investing ₦100,000 in Nigerian Treasury bills still worth it?",
-      "link": "https://techcabal.com/2026/09/14/follow-the-money-nigerian-t-bills/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "At the recent September 9 auction, total investor demand reached ₦2.64 trillion ($1.99 billion). The Debt Management Office (DMO) ultimately allotted ₦1.05 trillion ($792.8 million)—more than double its initial planned offer—with 364-day bills accounting for 91% of total subscription volume.",
-      "published": "2026-09-14T10:56:26+00:00",
-      "fetched": "2026-09-14T11:02:26.987175+00:00"
-    },
-    {
-      "id": "ed74954eac8614e1",
-      "title": "EFCC warns Nigerian lawyers against charging clients in foreign currencies",
-      "link": "https://nairametrics.com/2026/09/14/efcc-warns-nigerian-lawyers-against-charging-clients-in-foreign-currencies/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Economic and Financial Crimes Commission (EFCC) has warned Nigerian lawyers against charging clients in foreign currencies, describing the practice as illegal and unethical. The post EFCC warns Nigerian lawyers against charging clients in foreign currencies appeared first on Nairametrics .",
-      "published": "2026-09-14T10:19:19+00:00",
-      "fetched": "2026-09-14T11:02:26.089986+00:00"
-    },
-    {
-      "id": "22704793bbbc7fad",
-      "title": "TrustBanc Capital reports overwhelming interest across Africa in Dangote Refinery IPO",
-      "link": "https://nairametrics.com/2026/09/14/trustbanc-capital-reports-overwhelming-interest-across-africa-in-dangote-refinery-ipo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "TrustBanc Capital Management Limited has reported overwhelming expressions of interest from people across Africa in the Dangote Refinery Initial Public Offering (IPO), following its investor sensitisation and awareness sessions.According to the Managing Director, TrustBanc Capital Management, Ayinde Akinsola, FCS, the response reflects growing interest in owning a stake in Africa s industrial development and the importance [ ] The post TrustBanc Capital reports overwhelming interest across Africa in Dangote Refinery IPO appeared first on Nairametrics .",
-      "published": "2026-09-14T10:18:08+00:00",
-      "fetched": "2026-09-14T11:02:26.090053+00:00"
-    },
-    {
-      "id": "24b9933673f7e311",
-      "title": "Nigeria’s agricultural imports fall 8.5% to N2.03 trillion in H1 2026",
-      "link": "https://nairametrics.com/2026/09/14/nigerias-agricultural-imports-fall-8-5-to-n2-03-trillion-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s agricultural imports fell by 8.5% year-on-year to N2.03 trillion in the first half of 2026, as the value of inbound agricultural products declined across the two quarters. The post Nigeria’s agricultural imports fall 8.5% to N2.03 trillion in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-09-14T10:06:26+00:00",
-      "fetched": "2026-09-14T11:02:26.090106+00:00"
-    },
-    {
-      "id": "7fd6a20dc998dde3",
-      "title": "RMB Nigeria advises on BOI’s ₦274.18 billion domestic bond issuance",
-      "link": "https://nairametrics.com/2026/09/14/rmb-nigeria-advises-on-bois-%e2%82%a6274-18-billion-domestic-bond-issuance/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Rand Merchant Bank (RMB) Nigeria acted as Joint Issuing House on the successful issuance of the Bank of Industry’s (BOI) inaugural domestic Naira-denominated ₦274.18 billion 5-Year Fixed Rate Bond due 2031, marking the largest debt capital markets issuance by a Development Finance Institution (DFI) in Nigeria, based on publicly available market data. The transaction was [ ] The post RMB Nigeria advises on BOI’s ₦274.18 billion domestic bond issuance appeared first on Nairametrics .",
-      "published": "2026-09-14T10:06:11+00:00",
-      "fetched": "2026-09-14T11:02:26.090172+00:00"
-    },
-    {
-      "id": "0e5ed285a5ac7127",
-      "title": "South Africa’s GoTyme says instant payments don’t have to come with fees",
-      "link": "https://techcabal.com/2026/09/14/go-tyme-bank-instant-payment-fees/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "PayShap, South Africa’s instant-payment rail, has been available to bank customers since 2023.",
-      "published": "2026-09-14T10:03:41+00:00",
-      "fetched": "2026-09-14T11:02:26.987207+00:00"
-    },
-    {
-      "id": "df26e93e749b0187",
-      "title": "Subscribe to Dangote Refinery shares seamlessly through Zenith Bank",
-      "link": "https://nairametrics.com/2026/09/14/subscribe-to-dangote-refinery-shares-seamlessly-through-zenith-bank/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerians at home and in the diaspora seeking to participate in the landmark Initial Public Offering (IPO) of Dangote Petroleum Refinery and Petrochemicals can subscribe conveniently through Zenith Bank, a receiving bank for the historic transaction and a designated electronic application channel for the offer. Subscription is open through the Zenith Bank website, the Zenith [ ] The post Subscribe to Dangote Refinery shares seamlessly through Zenith Bank appeared first on Nairametrics .",
-      "published": "2026-09-14T10:01:51+00:00",
-      "fetched": "2026-09-14T11:02:26.090229+00:00"
-    },
-    {
-      "id": "b1acfb6277f32b3f",
-      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“He is also the sole beneficiary of my 403(b) accounts.”",
-      "published": "2026-09-14T09:45:00+00:00",
-      "fetched": "2026-09-14T11:02:22.978446+00:00"
-    },
-    {
-      "id": "7787d15fbc108b2a",
-      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-      "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
-      "published": "2026-09-14T09:36:27+00:00",
-      "fetched": "2026-09-14T11:02:23.230176+00:00"
-    },
-    {
-      "id": "31db95f312c012aa",
-      "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
-      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The investor response to the calls by Anthropic CEO Dario Amodei to slow down frontier artificial-intelligence development was greeted negatively, albeit not catastrophically, by investors on Monday.",
-      "published": "2026-09-14T09:29:00+00:00",
-      "fetched": "2026-09-14T11:02:22.978518+00:00"
-    },
-    {
-      "id": "2daf81155fb1162d",
-      "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
-      "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A published report that frontier artificial-intelligence lab Anthropic was profitable for a second quarter in a row contains a very important caveat.",
-      "published": "2026-09-14T09:04:00+00:00",
-      "fetched": "2026-09-14T11:02:22.978554+00:00"
-    },
-    {
-      "id": "7c54f09ea5d8440e",
-      "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
-      "link": "https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Actor Nicolas Cage’s lavish Malibu mansion is facing a dramatic threat after a massive hole opened up where part of the property’s driveway once stood.",
-      "published": "2026-09-14T09:03:00+00:00",
-      "fetched": "2026-09-14T11:02:22.978591+00:00"
-    },
-    {
-      "id": "97f30e95c46beb95",
-      "title": "FX Derivatives surge over 500% as Nigeria’s weekly FX turnover improves 40.45% to $3.39 billion",
-      "link": "https://nairametrics.com/2026/09/14/fx-derivatives-surge-over-500-as-nigerias-weekly-fx-turnover-improves-40-45-to-3-39-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's foreign exchange market recorded a strong rebound in trading activity in the week ended September 11, 2026, with total turnover rising to $3.39 billion, jointly driven by a rebound in spot transactions and a sharp surge in derivatives trading. The post FX Derivatives surge over 500% as Nigeria s weekly FX turnover improves 40.45% to $3.39 billion appeared first on Nairametrics .",
-      "published": "2026-09-14T08:56:49+00:00",
-      "fetched": "2026-09-14T11:02:26.090282+00:00"
-    },
-    {
-      "id": "f2a9624fcb5f9c74",
-      "title": "India seeks more Nigerian crude as Shettima, Modi push stronger trade ties",
-      "link": "https://nairametrics.com/2026/09/14/india-seeks-more-nigerian-crude-as-shettima-modi-push-stronger-trade-ties/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "India is pushing for more crude from Nigeria as Vice President Kashim Shettima and Indian Prime Minister Narendra Modi have pledged to strengthen bilateral trade and investment relations between the two countries following high-level discussions on the sidelines of the BRICS Summit in New Delhi. The post India seeks more Nigerian crude as Shettima, Modi push stronger trade ties appeared first on Nairametrics .",
-      "published": "2026-09-14T08:44:33+00:00",
-      "fetched": "2026-09-14T11:02:26.090330+00:00"
     }
   ]
 }

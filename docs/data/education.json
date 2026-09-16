@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-16T10:21:43.807639+00:00",
+  "updated": "2026-09-16T15:38:10.597691+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "26f4fa5b3a3bf362",
+      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+      "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+      "published": "2026-09-16T15:00:00+00:00",
+      "fetched": "2026-09-16T15:38:08.672412+00:00"
+    },
     {
       "id": "fb4eef26f9dafe8c",
       "title": "The Genius Logic of the NATO Phonetic Alphabet: How It Was Created & How It Works",
@@ -1492,16 +1502,6 @@
       "summary": "An experienced student affairs leader is joining MIT to oversee the next chapter for the Division of Student Life.",
       "published": "2026-08-06T20:55:00+00:00",
       "fetched": "2026-08-06T23:46:21.964078+00:00"
-    },
-    {
-      "id": "64ce88d208f9c828",
-      "title": "How Ancient Greek Warships Worked: The Engineering of the Trireme Explained in 3D Animation",
-      "link": "https://www.openculture.com/2026/08/how-ancient-greek-warships-worked-the-engineering-of-the-trireme-explained-in-3d-animation.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Recall, if you will, the first time you read Book 2 of Homer’s Iliad. The section likely to have given you the most trouble — unless, of course, you’re blessed with an obsessive interest in ancient naval warfare — is the much-remarked-upon Catalogue of Ships, a rundown of not just the contingents of the Achaean [ ]",
-      "published": "2026-08-06T16:46:01+00:00",
-      "fetched": "2026-08-06T23:46:22.994035+00:00"
     }
   ]
 }

@@ -1,8 +1,108 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-16T10:21:44.471450+00:00",
+  "updated": "2026-09-16T15:38:11.679567+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "06b849debcf10be8",
+      "title": "Inside Lena Dunham’s London ‘Home Base’ and Connecticut ‘Forever Home’ as She Welcomes First Baby",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/lena-dunham-family-home-first-baby-luis-felber/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Girls\" creator, 40, revealed in an op-ed for Vogue that she and Felber had welcomed a daughter via surrogate.",
+      "published": "2026-09-16T15:23:05+00:00",
+      "fetched": "2026-09-16T15:38:11.678819+00:00"
+    },
+    {
+      "id": "245f58d6d12a7959",
+      "title": "Homebuilder Sentiment Slumps to One-Year Low as Mortgage Rates Surge",
+      "link": "https://www.realtor.com/news/trends/homebuilder-sentiment-index-nahb-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homebuilder sentiment took a hit in September, the byproduct of surging mortgage rates and material costs.",
+      "published": "2026-09-16T15:11:07+00:00",
+      "fetched": "2026-09-16T15:38:11.678854+00:00"
+    },
+    {
+      "id": "5e13553ac7c88028",
+      "title": "Trump Nominates New Head for Federal Housing Administration",
+      "link": "https://www.realtor.com/news/real-estate-news/trump-matt-jones-nomination-federal-housing-administration/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Jones has advocated for reducing regulatory burdens in order to encourage more financial institutions into the housing space.",
+      "published": "2026-09-16T14:17:17+00:00",
+      "fetched": "2026-09-16T15:38:11.678881+00:00"
+    },
+    {
+      "id": "f7c16d53231ccaa0",
+      "title": "Mortgage Applications Plunge as Rates Rise and Fed Prepares To Hike",
+      "link": "https://www.realtor.com/news/trends/mortgage-applications-mba-rates-september-16-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage applications fell 4.1% on a seasonally adjusted basis this past week as interest rates continue to climb.",
+      "published": "2026-09-16T14:16:15+00:00",
+      "fetched": "2026-09-16T15:38:11.678907+00:00"
+    },
+    {
+      "id": "eebbe2b4101af091",
+      "title": "Mormon Church Expands Its Real Estate Empire With 1,000-Acre Development Near Denver",
+      "link": "https://www.realtor.com/news/trends/mormon-church-master-planned-community-denver-colorado-real-estate-portfolio/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The master-planned Tributary community being built on church-owned land in Aurora, CO, will include housing for 12,000 residents.",
+      "published": "2026-09-16T13:37:45+00:00",
+      "fetched": "2026-09-16T15:38:11.678933+00:00"
+    },
+    {
+      "id": "132c93b68a1952ec",
+      "title": "The ‘Secrets’ of Bihl Manor: Inside Dark History of ‘Tormented’ Ohio Home at Center of Anna Camp’s HGTV Show ‘A Very Haunted Renovation’",
+      "link": "https://www.realtor.com/news/reality-tv/bihl-manor-haunted-house-hgtv-anna-camp/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "HGTV's aptly titled show, \"A Very Haunted Renovation,\" hosted by Anna Camp, will see six designers living and working in the decrepit house.",
+      "published": "2026-09-16T13:30:00+00:00",
+      "fetched": "2026-09-16T15:38:11.678968+00:00"
+    },
+    {
+      "id": "c2a2fe66f47366bf",
+      "title": "EXCLUSIVE: Hollywood Home of Martin Short’s Late Daughter Sells for $1.7 Million—Months After Her Death",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/martin-short-late-daughter-katherine-los-angeles-home-sells/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The three-bedroom property first hit the selling block in July, being listed for $1.795 million.",
+      "published": "2026-09-16T12:36:46+00:00",
+      "fetched": "2026-09-16T15:38:11.678996+00:00"
+    },
+    {
+      "id": "c69c6123f101f5df",
+      "title": "Amanda Seyfried and Husband Thomas Sadoski Split After 9 Years of Marriage—Weeks After She Lists Longtime L.A. Home for $3.2M",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/amanda-seyfried-thomas-sadoski-marriage-divorce-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actors confirmed their separation in a joint statement to People, revealing that they had already been living apart for \"a while.\"",
+      "published": "2026-09-16T12:19:18+00:00",
+      "fetched": "2026-09-16T15:38:11.679027+00:00"
+    },
+    {
+      "id": "63b787938047c43b",
+      "title": "8+ Ways to Find Your First or Next Rental Property in 2027",
+      "link": "https://www.biggerpockets.com/blog/rookie-771",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Finding real estate deals is a challenge for many rookies. Trying to tell the difference between a great deal and a property that is merely disguised as one is something [ ]",
+      "published": "2026-09-16T11:00:28+00:00",
+      "fetched": "2026-09-16T15:38:11.077112+00:00"
+    },
+    {
+      "id": "18b6e0c3e5198b4b",
+      "title": "Skip Single-Family? Why You Don’t Need to Start Small",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1331",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Most investors follow the same path—buy a single-family rental, learn the ropes, and upgrade to small multifamily, slowly snowballing the portfolio. But what if you could take the leap from [ ]",
+      "published": "2026-09-16T11:00:11+00:00",
+      "fetched": "2026-09-16T15:38:11.077161+00:00"
+    },
     {
       "id": "a302d6b0d2c5ee4b",
       "title": "Midwest City Known as ‘Niceville USA’ Leads the Nation in Homebuilding and Affordability",
@@ -52,6 +152,16 @@
       "summary": "Perry has revealed that he plans to move to Puerto Rico at the beginning of 2027—and hopes to \"slow down\" when it comes to work.",
       "published": "2026-09-15T21:23:50+00:00",
       "fetched": "2026-09-16T01:53:00.649238+00:00"
+    },
+    {
+      "id": "bc6003067f3bf0d3",
+      "title": "EXCLUSIVE: $4 Million Idaho Waterfront Estate Hits No-Reserve Auction—With 100% of Proceeds Going to Charity",
+      "link": "https://www.realtor.com/news/unique-homes/idaho-waterfront-estate-no-reserve-charity-auction/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The luxe waterfront estate in American Falls, ID, hits the auction block this week, with all proceeds going to St. Jude and the Mayo Clinic.",
+      "published": "2026-09-15T21:10:11+00:00",
+      "fetched": "2026-09-16T15:38:11.679105+00:00"
     },
     {
       "id": "6ea6bbf4efe26301",
@@ -1392,116 +1502,6 @@
       "summary": "A lighter economic calendar this week still yields crucial insights for the housing market, led by key reports and vital inflation data.",
       "published": "2026-09-07T08:13:00+00:00",
       "fetched": "2026-09-07T10:49:47.982562+00:00"
-    },
-    {
-      "id": "03db3a69f8098079",
-      "title": "A Condo for Cars? Luxury Vehicle Storage Turns Parking into Big Business",
-      "link": "https://www.realtor.com/news/trends/auto-condo-cars-luxury-vehicle-storage-florida/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "These luxury car residences can start in the low $700,000s and range up to $2 million.",
-      "published": "2026-09-06T18:33:00+00:00",
-      "fetched": "2026-09-06T19:40:29.865561+00:00"
-    },
-    {
-      "id": "6f23f998a0420180",
-      "title": "A Beautifully Modernized Midcentury Marin Home Lists for the First Time in 60 Years",
-      "link": "https://www.realtor.com/news/unique-homes/midcentury-modern-marin-county-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The $3.3M four-bedroom midcentury modern home in Kentfield, CA was completed in 1966 and has been owned by the same owners ever since.",
-      "published": "2026-09-06T17:06:00+00:00",
-      "fetched": "2026-09-06T19:40:29.865599+00:00"
-    },
-    {
-      "id": "e0d2cdbbde587027",
-      "title": "Elvis-Inspired ‘Little Graceland’ Vacation Rental Near Memphis Landmark Finds a Buyer After Listing for $175K",
-      "link": "https://www.realtor.com/news/unique-homes/little-graceland-memphis-elvis-presley-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The owners of iconic Memphis honky-tonk Hernando's Hide-A-Way bought the home in 2017, and embraced its 1950s-style honoring Elvis Presley.",
-      "published": "2026-09-06T15:32:00+00:00",
-      "fetched": "2026-09-06T19:40:29.865634+00:00"
-    },
-    {
-      "id": "085c0ebf3f775365",
-      "title": "From Postwar Housing Solution to ‘Brady Bunch’ Fame—Is the Split-Level Home Ready for a Comeback?",
-      "link": "https://www.realtor.com/news/unique-homes/split-level-home-architecture-style-history/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A postwar housing solution once celebrated for affordability has fallen out of style, but remote work could spark renewed interest.",
-      "published": "2026-09-06T12:14:00+00:00",
-      "fetched": "2026-09-06T14:28:36.782636+00:00"
-    },
-    {
-      "id": "b0db597d6243cca8",
-      "title": "Dramatic Waterfront Estate Overlooking a Bird Sanctuary Near the Catskills Is Listed for $2.45 Million",
-      "link": "https://www.realtor.com/news/unique-homes/four-mile-river-house-stone-athens-ny-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The stunning home sits on 1.62 acres in Athens, NY, overlooking the Hudson River and abutting the Four-Mile Point Preserve bird sanctuary.",
-      "published": "2026-09-05T19:10:00+00:00",
-      "fetched": "2026-09-05T19:36:53.097077+00:00"
-    },
-    {
-      "id": "bb62a24835a64c1d",
-      "title": "Nashville’s ‘Laid-Back Luxury’ Attracts Homebuyers Far Beyond the Music Industry",
-      "link": "https://www.realtor.com/news/trends/nashville-luxury-real-estate-branded-residences-gulch/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Long known for its music scene, Nashville now attracts high earners in the corporate world willing to pay for branded luxury.",
-      "published": "2026-09-05T17:12:00+00:00",
-      "fetched": "2026-09-05T19:36:53.097118+00:00"
-    },
-    {
-      "id": "0c38efc497d363d0",
-      "title": "Miss America Winner Won’t Just Take Home a Crown—She’ll Win the Keys to a Luxury High Rise Apartment in NYC",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/miss-america-winner-nyc-apartment/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Miss America organization will crown its 99th winner, who will take home scholarship money and get a New York City apartment.",
-      "published": "2026-09-05T16:09:00+00:00",
-      "fetched": "2026-09-05T19:36:53.097152+00:00"
-    },
-    {
-      "id": "beb630263840a7bc",
-      "title": "Spectacular Glass Estate Could Become the Most Expensive Sale in Fire Island’s Cherry Grove—Even With a Price Cut",
-      "link": "https://www.realtor.com/news/unique-homes/crest-house-cherry-grove-fire-island-most-expensive-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The modernist, four-bedroom estate known as Crest House is being offered fully furnished—providing a turnkey opportunity for the next buyer.",
-      "published": "2026-09-05T15:32:00+00:00",
-      "fetched": "2026-09-05T19:36:53.097186+00:00"
-    },
-    {
-      "id": "20ff1a276db9ba28",
-      "title": "Inside the Kennedy Family’s Labor Day Traditions at Their Iconic Hyannis Port Compound—Where JFK Spent His Final Holiday Weekend",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/inside-kennedy-family-hyannis-port-labor-day-traditions/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Inside the Kennedy family's iconic Hyannis Port compound, where generations spent summers swimming, sailing and playing touch football.",
-      "published": "2026-09-05T14:19:00+00:00",
-      "fetched": "2026-09-05T19:36:53.097217+00:00"
-    },
-    {
-      "id": "e82362b5a073ac1e",
-      "title": "EXCLUSIVE: Celebrity Photographer Who Shot Prince Harry and Meghan Markle’s Wedding Drops Price of ‘Ridiculously Idyllic’ 200-Year-Old Farmhouse",
-      "link": "https://www.realtor.com/news/unique-homes/celebrity-photographer-alexi-lubomirski-hudson-valley-farmhouse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Alexi Lubomirski, who photographed Prince Harry and Meghan Markle's wedding, has listed his idyllic Hudson Valley retreat for $1.9 million.",
-      "published": "2026-09-05T13:09:00+00:00",
-      "fetched": "2026-09-05T14:03:42.338518+00:00"
-    },
-    {
-      "id": "b47bb86c59947eb1",
-      "title": "Home Prices Are Falling the Fastest in These Cities",
-      "link": "https://www.realtor.com/news/trends/home-prices-falling-cities-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The largest price-per-square-foot declines were in Austin, TX (-8.1%); Tampa, FL (-5.6%); and Memphis, TN (-4.1%).",
-      "published": "2026-09-05T10:00:00+00:00",
-      "fetched": "2026-09-05T14:03:42.338543+00:00"
     }
   ]
 }
