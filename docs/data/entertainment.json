@@ -1,8 +1,158 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-15T20:30:47.127279+00:00",
+  "updated": "2026-09-16T01:52:58.177031+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ac0fcd58504fcf75",
+      "title": "As ‘American Idol’ Leaves Los Angeles for Atlanta, More Concerns Emerge About the State of Local Production",
+      "link": "https://variety.com/2026/tv/news/american-idol-leaves-los-angeles-for-atlanta-production-1236863758/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Forget Hollywood. “American Idol” is heading to Georgia, dawg. In news that felt all too depressingly common in production-starved Los Angeles, word emerged Tuesday that “American Idol” — which has been broadcast live from Los Angeles since it originated in 2002 — would move production to Georgia.",
+      "published": "2026-09-16T01:38:41+00:00",
+      "fetched": "2026-09-16T01:52:57.772164+00:00"
+    },
+    {
+      "id": "d245843849beedf7",
+      "title": "‘Love of Your Life’ Review: Margaret Qualley Goes on a Pretty but Surface-Level Healing Journey",
+      "link": "https://variety.com/2026/film/reviews/love-of-your-life-review-margaret-qualley-1236863581/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It would probably be glib to refer to Love of Your Life as Grieve Pray Love. Rachel Morrison s film about COVID-era loss, recovery and renewal is serious in intent and earnest in execution, grounded by a performance of intelligence and emotional transparency by Margaret Qualley, and doesn t deserve that kind of easy dismissal. But the [ ]",
+      "published": "2026-09-16T01:34:30+00:00",
+      "fetched": "2026-09-16T01:52:57.772208+00:00"
+    },
+    {
+      "id": "e3bd91d10b2a190f",
+      "title": "AOC Says Robert Kraft Lined Up Stadiums to Censor Macklemore’s ‘Free Palestine’ Comments",
+      "link": "https://www.rollingstone.com/music/music-news/aoc-robert-kraft-macklemore-free-palestine-speech-1235627408/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Macklemore was dropped from Ed Sheeran's tour following a pressure campaign over his speech in support of Palestinians",
+      "published": "2026-09-16T01:22:41+00:00",
+      "fetched": "2026-09-16T01:52:57.960224+00:00"
+    },
+    {
+      "id": "ad7890a0ea0a9a7c",
+      "title": "Chase Infiniti on TIFF Breakout ‘The Julia Set,’ Love Bombing and Music Video Stardom",
+      "link": "https://variety.com/2026/film/news/chase-infiniti-tiff-the-julia-set-interview-1236863701/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“The Julia Set” has emerged as one of the biggest surprises of the 2026 Toronto International Film Festival. In her feature debut, writer-director Niki Byrne crafted a perfect showcase for the talents of “One Battle After Another” breakout Chase Infiniti. The latter has earned raves for her turn as a math genius stuck under the [ ]",
+      "published": "2026-09-16T01:11:22+00:00",
+      "fetched": "2026-09-16T01:52:57.772248+00:00"
+    },
+    {
+      "id": "67e90efa73367159",
+      "title": "‘Dancing With the Stars’ Season 35 Kicks Off With Voting Glitch During Premiere",
+      "link": "https://variety.com/2026/tv/news/dancing-with-the-stars-voting-glitch-season-35-premiere-1236863608/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Dancing With the Stars may have had too many voters than it could handle. After the second dance of the Sept. 15 Season 35 premiere, hosts Julianne Hough and Alfonso Ribeiro revealed that online voting is down and audiences could only vote via text.",
+      "published": "2026-09-16T01:01:38+00:00",
+      "fetched": "2026-09-16T01:52:57.772284+00:00"
+    },
+    {
+      "id": "192a0d0a7da63b81",
+      "title": "‘American Idol’ Shakeup Will See Show Move From Hollywood to Georgia",
+      "link": "https://www.rollingstone.com/music/music-news/american-idol-shakeup-moving-hollywood-to-georgia-1235627339/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After more than two decades, the long-running singing competition will produce its upcoming Season 25 in a new home",
+      "published": "2026-09-16T00:09:10+00:00",
+      "fetched": "2026-09-16T01:52:57.960251+00:00"
+    },
+    {
+      "id": "f2dd371bab1d1725",
+      "title": "Steven Tyler Sexual Assault Case Judge Mysteriously Recuses Herself Two Weeks Before Trial",
+      "link": "https://www.rollingstone.com/music/music-news/steven-tyler-sexual-assault-case-judge-recuses-before-trial-1235627301/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Sept. 28 trial date was vacated Tuesday as the judge said she recently discovered the basis for her disqualification and couldn't take further action",
+      "published": "2026-09-15T23:28:56+00:00",
+      "fetched": "2026-09-16T01:52:57.960274+00:00"
+    },
+    {
+      "id": "ba0dde06e1a4ce31",
+      "title": "Emmys Hit 6.7 Million Viewers, Down 9% From Last Year",
+      "link": "https://variety.com/2026/tv/news/emmys-2026-ratings-viewers-1236863148/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "NBC s telecast of the 78th Emmy Awards hit 6.7 million viewers on Monday night, per Nielsen. That total marks a 9% decrease from last year s ceremony on CBS, which brought in 7.4 million viewers — the award show s best performance since 2021. It should be noted, though, that the 2025 ceremony took place on a [ ]",
+      "published": "2026-09-15T23:00:00+00:00",
+      "fetched": "2026-09-16T01:52:57.772320+00:00"
+    },
+    {
+      "id": "034c61c8142ed2fa",
+      "title": "Taylor Frankie Paul Sets Return to ‘The Secret Lives of Mormon Wives’ Following Chaotic Season 5 and Ongoing Legal Battle",
+      "link": "https://variety.com/2026/tv/news/taylor-frankie-paul-returns-secret-lives-mormon-wives-season-6-1236863427/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Frankie Paul is returning to production on The Secret Lives of Mormon Wives. Though Hulu declined to comment on Paul s involvement in Season 6, Variety confirmed the news with multiple sources after it was implied in social media posts from cast member Mikayla Matthews, who announced she was quitting the show on Sept. 14.",
+      "published": "2026-09-15T22:03:21+00:00",
+      "fetched": "2026-09-16T01:52:57.772357+00:00"
+    },
+    {
+      "id": "467219f62835185c",
+      "title": "How Competitive ‘Pokémon’ Inspired Author Ava Reid’s New Dystopian YA Series ‘Winterveil’",
+      "link": "https://variety.com/2026/gaming/news/winterveil-pokemon-new-ava-reid-book-1236863483/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s the start of another dark academia season and fantasy author Ava Reid (“A Study in Drowning,” “Innamorata”) is celebrating with the release of her new YA dystopian novel, “Winterveil.” The first book in a planned duology, “Winterveil” is set at Valeran Academy, which boasts the brightest – and precociously criminal – students in the [ ]",
+      "published": "2026-09-15T22:00:00+00:00",
+      "fetched": "2026-09-16T01:52:57.772394+00:00"
+    },
+    {
+      "id": "8bc8dde1fbe7b851",
+      "title": "‘Salvation’ Review: A Pin-Sharp Portrait of an Aspiring Life Coach in Personal Freefall",
+      "link": "https://variety.com/2026/film/news/salvation-review-2-1236863013/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Our first impression of Danny Carlton, the callow protagonist of Salvation, is that he doesn t look like a man you d trust with your life. He s young, but that s not the issue. It s more the palpable air of uncertainty around him, evident in his shallow, darting gaze, his chummy but hesitant speech, his slightly gormless affect; [ ]",
+      "published": "2026-09-15T21:57:32+00:00",
+      "fetched": "2026-09-16T01:52:57.772428+00:00"
+    },
+    {
+      "id": "f1b342d3062ec0c2",
+      "title": "DOJ Takes Paramount’s Side Against States in Fight Over $1.9 Billion Bond",
+      "link": "https://variety.com/2026/film/news/doj-paramount-warner-bros-bond-1236863479/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Department of Justice sided with Paramount on Tuesday, arguing that a coalition of 12 states should be forced to post a bond as the price of continuing to block the Warner Bros. merger. Paramount has argued that it stands to lose at least $1.88 billion due to the delay resulting from the states antitrust [ ]",
+      "published": "2026-09-15T21:52:18+00:00",
+      "fetched": "2026-09-16T01:52:57.772459+00:00"
+    },
+    {
+      "id": "02fa762b3db29da2",
+      "title": "Viola Davis to Receive San Diego International Film Fest’s Gregory Peck Award for Cinematic Excellence – Film News in Brief",
+      "link": "https://variety.com/2026/film/news/film-news-in-brief-sept-15-2026-1236862951/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Viola Davis will be this year’s recipient of the Gregory Peck Award for Cinematic Excellence at the San Diego International Film Festival. Davis, an EGOT winner, is being honored for her work as an artist, activist, producer, philanthropist and New York Times bestselling author. “Viola Davis is one of the most extraordinary artists of our [ ]",
+      "published": "2026-09-15T21:33:32+00:00",
+      "fetched": "2026-09-16T01:52:57.772498+00:00"
+    },
+    {
+      "id": "ea0b8c1ff739bbe5",
+      "title": "Trump Is Reportedly Sending Israel $2.8 Billion in Bombs. You’re Paying for Them",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-supply-bombs-israel-1235627183/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "It’s described as a sale, but the U.S. is giving Israel taxpayer money to buy over 40,000 bombs, The Washington Post reports",
+      "published": "2026-09-15T20:47:33+00:00",
+      "fetched": "2026-09-16T01:52:57.960299+00:00"
+    },
+    {
+      "id": "b4c0b6f1b6ba7425",
+      "title": "All of Ed Sheeran’s Openers Abandon Tour After Macklemore Debacle",
+      "link": "https://www.rollingstone.com/music/music-news/finneas-lukas-graham-leave-ed-sheeran-tour-macklemore-1235627181/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Finneas, Lukas Graham, and Aaron Rowe withdrew after Macklemore was forced off the trek following a pressure campaign over his comments in support of Palestinians",
+      "published": "2026-09-15T20:30:53+00:00",
+      "fetched": "2026-09-16T01:52:57.960321+00:00"
+    },
     {
       "id": "71093bfe52deffe0",
       "title": "This Hyrox Race Became a Literal Shitshow. Organizers Are Finally Apologizing",
@@ -1352,156 +1502,6 @@
       "summary": "The Property Masters Guild (PMG) honored “One Battle After Another,” “Frankenstein,” “Avatar: Fire and Ash and more on Saturday for their standout props at the third annual MacGuffin Awards. The Property Masters Guild works to raise awareness of the property master craft and the importance of design on productions. “Property masters create character, build the [ ]",
       "published": "2026-09-13T19:36:30+00:00",
       "fetched": "2026-09-13T19:55:18.056804+00:00"
-    },
-    {
-      "id": "503a38527578cc95",
-      "title": "John Stamos Delivers Emotional Speech About Fatherhood at Creative Coalition Awards",
-      "link": "https://variety.com/2026/awards/news/john-stamos-emotional-speech-fatherhood-creative-coalition-1236858920/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "John Stamos teared up as he talked about fatherhood during an emotional speech Thursday at The Creative Coalition’s 12th Annual TV Humanitarian Awards. Stamos has been an advocate with the child abuse treatment and prevention organization Childhelp for almost 40 years, but the meaning of his advocacy changed for him when he became a father [ ]",
-      "published": "2026-09-13T19:34:44+00:00",
-      "fetched": "2026-09-13T19:55:18.056847+00:00"
-    },
-    {
-      "id": "0c36923ae9f63d84",
-      "title": "‘BbY WoW’ Is the Number One Song on the Planet. Judeline Can’t Believe It",
-      "link": "https://www.rollingstone.com/music/music-latin/bby-wow-karol-g-judeline-collaboration-1235625831/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Spanish singer, who collaborated with Karol G to make the hit, has been shocked to see 'BbY WoW' top Spotify and Billboard's global charts",
-      "published": "2026-09-13T19:23:13+00:00",
-      "fetched": "2026-09-13T19:55:18.206432+00:00"
-    },
-    {
-      "id": "432e506cb10841c2",
-      "title": "Courteney Cox Remembers ‘Scream’ Co-Star Hayden Panettiere: ‘She’s a Really Wonderful Actor’",
-      "link": "https://variety.com/2026/film/news/courteney-cox-tribute-scream-hayden-panettiere-1236860690/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Courteney Cox has opened up about the death of her “Scream” co-star Hayden Panettiere, who died in August at 36 years old. While reflecting on her time filming “Scream VI” with Panettiere, Cox told Entertainment Weekly, “She’s a really wonderful actor. The last time I worked with her we had a great time.",
-      "published": "2026-09-13T19:19:40+00:00",
-      "fetched": "2026-09-13T19:55:18.056886+00:00"
-    },
-    {
-      "id": "7665af2dd8aa9ba9",
-      "title": "‘Diary of a Mad Old Man’ Review: Wayne Wang and Fan Bingbing Unintentionally Find the Boredom in Sex and Death",
-      "link": "https://variety.com/2026/film/reviews/diary-of-a-mad-old-man-review-1236860647/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Given its premise — a post-stroke retiree derives sexual pleasure from his daughter-in-law — the perverse qualities of Jun’ichirō Tanizaki’s classic “Diary of a Mad Old Man” are plentiful. But by the standards of contemporary mores, the 1961 novel isn’t particularly explicit; in his first feature since 2019, Wayne Wang initially takes a different approach, [ ]",
-      "published": "2026-09-13T18:57:04+00:00",
-      "fetched": "2026-09-13T19:55:18.056925+00:00"
-    },
-    {
-      "id": "d05b3fa3c0e1ba10",
-      "title": "Christian Bale Opens 11,000-Square-Foot Foster Care Facility in Palmdale: ‘Turn Their Heartbreak and Their Pain into Love’",
-      "link": "https://variety.com/2026/film/actors/christian-bale-opens-foster-care-village-1236860641/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Christian Bale hung up his Batsuit in 2012, but “The Dark Knight” star is still saving lives with his Together California foster care village in Palmdale, California, which opened on Friday, according to ABC 7. The facility aims to keep siblings entering the foster care system together – a circumstance that is not always guaranteed. [ ]",
-      "published": "2026-09-13T18:48:54+00:00",
-      "fetched": "2026-09-13T19:55:18.056977+00:00"
-    },
-    {
-      "id": "e46bdee3b3a1a03d",
-      "title": "‘Crystal Lake’ Trailer: Linda Cardellini Stars in Peacock’s Spooky ‘Friday the 13th’ Prequel Series",
-      "link": "https://variety.com/2026/film/news/crystal-lake-trailer-linda-cardellini-friday-the-13th-1236860648/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Peacock has released a full trailer for the new Linda Cardellini-led series “Crystal Lake.” The show, a prequel to the events of “Friday the 13th,” is set to premiere on the streamer on Oct. 15. The trailer opens on Cardellini as Pamela Voorhees in 1971, transporting audiences back to the mother’s life before the events [ ]",
-      "published": "2026-09-13T18:48:35+00:00",
-      "fetched": "2026-09-13T19:55:18.057015+00:00"
-    },
-    {
-      "id": "a9467b879dc280c0",
-      "title": "Chris Rock Says Scott Rudin’s ‘Hard Coaching’ Made Him a Better Filmmaker: Some Creatives Don’t ‘Respond to a Hug’",
-      "link": "https://variety.com/2026/film/news/chris-rock-scott-rudin-better-director-misty-green-tiff-1236860573/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chris Rock believes that tough love from one of Hollywood’s most notorious, half-cancelled figures helped make him a better filmmaker. Following a triumphant Toronto International Film Festival premiere for his latest directorial effort “Misty Green,” Rock sat for a keynote chat on Sunday to discuss his expansive career. The comedian told the crowd his chops [ ]",
-      "published": "2026-09-13T18:29:13+00:00",
-      "fetched": "2026-09-13T19:55:18.057054+00:00"
-    },
-    {
-      "id": "a26d02ab36c0eb42",
-      "title": "Emmys Presenters: Matthew McConaughey, Shailene Woodley and ‘Baywatch’ Reboot Stars Join Lineup",
-      "link": "https://variety.com/2026/tv/news/emmys-matthew-mcconaughey-shailene-woodley-baywatch-1236860563/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Matthew McConaughey and Shailene Woodley — as well as a selection of Fox’s “Baywatch” reboot stars — are among the names set to present at Monday night’s 78th Emmys on NBC and Peacock. Also joining the Emmys presenters lineup are stars Jamie Lee Curtis, Stephen Amell, Awkwafina, Noah Beck, Jessica Belkin, Scott Caan, Emma D Arcy, [ ]",
-      "published": "2026-09-13T18:00:00+00:00",
-      "fetched": "2026-09-13T19:55:18.057090+00:00"
-    },
-    {
-      "id": "577e90a2475fa9fb",
-      "title": "Seth Rogen Tells TIFF the Best Advice He’s Ever Received: ‘Less Semen, More Emotion!’",
-      "link": "https://variety.com/2026/tv/news/seth-rogen-tiff-best-advice-semen-emotion-the-studio-judd-apatow-1236860532/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It’s extraordinary just how prolific Seth Rogen has been. He began performing stand-up comedy at clubs around his native Vancouver at the age of 13 — around the time he and his buddy Evan Goldberg would write the first draft of “Superbad” — before featuring in the Judd Apatow shows “Freaks and Geeks” and “Undeclared,” [ ]",
-      "published": "2026-09-13T16:58:16+00:00",
-      "fetched": "2026-09-13T19:55:18.057126+00:00"
-    },
-    {
-      "id": "528ad805f54dcef7",
-      "title": "Teary-Eyed Kaley Cuoco Recalls Death of Her ‘8 Simple Rules’ TV Dad John Ritter: ‘One of the Worst Days of My Life’",
-      "link": "https://variety.com/2026/tv/columns/kaley-cuoco-death-8-simple-rules-john-ritter-1236860467/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kaley Cuoco stepped out Saturday night to pay tribute to her TV dad, John Ritter. She was starring as the television sitcom icon’s daughter on “8 Simple Rules” in 2003 when Ritter suffered a fatal thoracic aortic dissection – a tearing of the heart’s main artery — while on set. “I always cry when I [ ]",
-      "published": "2026-09-13T16:50:57+00:00",
-      "fetched": "2026-09-13T19:55:18.057163+00:00"
-    },
-    {
-      "id": "45cc52cd6c76fbec",
-      "title": "Critics Are Slamming ‘Practical Magic 2.’ Fans Don’t Care",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/practical-magic-2-love-letter-1235619413/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The new sequel has been even more harshly panned than the 1998 original. But it wasn't made to be high art — it was made to celebrate sisterhood",
-      "published": "2026-09-13T16:19:49+00:00",
-      "fetched": "2026-09-13T19:55:18.206465+00:00"
-    },
-    {
-      "id": "b16ad6c117edb016",
-      "title": "Gerard Way Hints at New My Chemical Romance Album: ‘You Guys Deserve Another Record’",
-      "link": "https://www.rollingstone.com/music/music-news/gerard-way-hints-new-my-chemical-romance-album-1235625884/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"we kind of always wanted to make another record, so we hope to,\" singer told Alamodome fans of band's long-awaited follow-up to 2010’s Danger Days: The True Lives of the Fabulous Killjoys",
-      "published": "2026-09-13T16:12:51+00:00",
-      "fetched": "2026-09-13T19:55:18.206494+00:00"
-    },
-    {
-      "id": "5a30b4466135722c",
-      "title": "Did ‘Misty Green’ Just Give Us Our Next Best Actress Winner?",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/misty-green-review-chris-rock-1235623033/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Chris Rock's pitiless take on Hollywood's ability to crush souls works best as a showcase for its lead — a British actor who absolutely kills it",
-      "published": "2026-09-13T15:30:00+00:00",
-      "fetched": "2026-09-13T19:55:18.206517+00:00"
-    },
-    {
-      "id": "ffbe8673918067ce",
-      "title": "Ali Asgari Doesn’t Believe in a Bright Future After Iran’s January Massacre – Just ‘A Bit of Light’",
-      "link": "https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Iranian director Ali Asgari has no desire to repeat clichés about great expectations for things to come. “In Iran, we don’t have high hopes for the future anymore,” he states. “We’ve been waiting for good news for so many years, and it never came.",
-      "published": "2026-09-13T14:59:42+00:00",
-      "fetched": "2026-09-13T15:08:43.358960+00:00"
-    },
-    {
-      "id": "7c2b658535758167",
-      "title": "Tigres Del Norte, Mon Laferte, More to Perform on NPR’s El Tiny",
-      "link": "https://www.rollingstone.com/music/music-latin/npr-tiny-desk-el-tiny-lineup-tigres-del-norte-mon-laferte-1235625863/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Tiny Desk series celebrates Hispanic Heritage each September and will include Draco Rosa, Yendry, and much more",
-      "published": "2026-09-13T14:42:35+00:00",
-      "fetched": "2026-09-13T15:08:43.541795+00:00"
     }
   ]
 }

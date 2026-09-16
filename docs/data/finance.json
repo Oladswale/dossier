@@ -1,8 +1,78 @@
 {
   "category": "finance",
-  "updated": "2026-09-15T20:30:31.597799+00:00",
+  "updated": "2026-09-16T01:52:47.055374+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "533510d1426ce5e7",
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A pilot program using artificial intelligence to approve care for Medicare beneficiaries has resulted in high levels of denials and delayed decisions and prompted warnings from a vendor about a lack of readiness, according to a lawsuit seeking information about the program.",
+      "published": "2026-09-15T23:09:00+00:00",
+      "fetched": "2026-09-16T01:52:45.180396+00:00"
+    },
+    {
+      "id": "a607e48e7eee1015",
+      "title": "Dangote blames petrol smuggling for Nigeria’s high fuel prices",
+      "link": "https://nairametrics.com/2026/09/15/dangote-blames-petrol-smuggling-for-nigerias-high-fuel-prices/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The President/Chief Executive Officer of Dangote Industries Limited, Aliko Dangote, has attributed the high price of petrol in Nigeria mostly to the continuous smuggling of the commodity to neighbouring countries where it sells for much more despite the surge in prices in Nigeria. The post Dangote blames petrol smuggling for Nigeria’s high fuel prices appeared first on Nairametrics .",
+      "published": "2026-09-15T22:53:36+00:00",
+      "fetched": "2026-09-16T01:52:45.718568+00:00"
+    },
+    {
+      "id": "d644015167bd1fec",
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A BofA analyst expects the semiconductor market to reach $3.2 trillion by the end of the decade, shrugging off fears of an AI slowdown.",
+      "published": "2026-09-15T21:40:00+00:00",
+      "fetched": "2026-09-16T01:52:45.180450+00:00"
+    },
+    {
+      "id": "db24d8a8c5444bcd",
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil is increasingly calling the tune in global markets as rising energy prices make investors nervous.",
+      "published": "2026-09-15T21:34:00+00:00",
+      "fetched": "2026-09-16T01:52:45.180471+00:00"
+    },
+    {
+      "id": "bba667b52922841e",
+      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Congress congratulated itself for solving the penny problem, but what about the source of the problem — inflation?",
+      "published": "2026-09-15T21:00:00+00:00",
+      "fetched": "2026-09-16T01:52:45.180502+00:00"
+    },
+    {
+      "id": "5b1f11023ad0fcf9",
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There may be better savings yields, but beware rising credit-card rates",
+      "published": "2026-09-15T20:47:00+00:00",
+      "fetched": "2026-09-16T01:52:45.180521+00:00"
+    },
+    {
+      "id": "674bc8dcf20d39d2",
+      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Chip stocks linked to OpenAI rebounded a bit on Tuesday, but Oracle shares extended their losses.",
+      "published": "2026-09-15T20:31:00+00:00",
+      "fetched": "2026-09-16T01:52:45.180548+00:00"
+    },
     {
       "id": "150651871d42d097",
       "title": "Dow clinches its worst September start since 2008 as history repeats itself",
@@ -1044,6 +1114,16 @@
       "fetched": "2026-09-14T17:05:57.519708+00:00"
     },
     {
+      "id": "b5d460a5348e5fda",
+      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+      "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+      "published": "2026-09-14T12:16:52+00:00",
+      "fetched": "2026-09-16T01:52:45.301847+00:00"
+    },
+    {
       "id": "a47cf16568c90545",
       "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
       "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
@@ -1422,86 +1502,6 @@
       "summary": "Cheap land on the outskirts of Lagos and Abuja will not necessarily translate to affordable homes because developers still have to absorb infrastructure, construction and financing costs, according to Michael Onyeachor, co-founder of Besitz Group Limited. The post Why cheap land won’t make Lagos, Abuja homes affordable—Developer appeared first on Nairametrics .",
       "published": "2026-09-13T15:16:09+00:00",
       "fetched": "2026-09-13T19:55:02.210862+00:00"
-    },
-    {
-      "id": "583c2754b980c63b",
-      "title": "Petrol rises above N1,400/litre as crude oil climbs past $100 per barrel",
-      "link": "https://nairametrics.com/2026/09/13/petrol-rises-above-n1400-litre-as-crude-oil-climbs-past-100-per-barrel/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Petrol prices have increased across major Nigerian cities, with retail outlets now selling Premium Motor Spirit (PMS) between N1,400 and N1,450 per litre. The post Petrol rises above N1,400/litre as crude oil climbs past $100 per barrel appeared first on Nairametrics .",
-      "published": "2026-09-13T14:13:17+00:00",
-      "fetched": "2026-09-13T15:08:27.267177+00:00"
-    },
-    {
-      "id": "99c3e652de72a374",
-      "title": "Next Wave: The antifragile startup",
-      "link": "https://techcabal.com/2026/09/13/next-wave-antfragile-startup/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "A startup does not always know which part of its business will work best or which market will become difficult.",
-      "published": "2026-09-13T14:11:45+00:00",
-      "fetched": "2026-09-13T15:08:28.720232+00:00"
-    },
-    {
-      "id": "ee8592feffccc10f",
-      "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
-      "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The information-technology sector stands out when it comes to issuing upbeat earnings outlooks.",
-      "published": "2026-09-13T14:00:00+00:00",
-      "fetched": "2026-09-13T15:08:26.571737+00:00"
-    },
-    {
-      "id": "606c42321eb31b72",
-      "title": "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
-      "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Rising crop prices are making the current inflation problem bigger than just oil and the Iran war.",
-      "published": "2026-09-13T13:00:00+00:00",
-      "fetched": "2026-09-13T15:08:26.571784+00:00"
-    },
-    {
-      "id": "d7698600b31cc251",
-      "title": "Tinubu turns to BRICS for AI, digital infrastructure and critical minerals investment",
-      "link": "https://nairametrics.com/2026/09/13/tinubu-turns-to-brics-for-ai-digital-infrastructure-and-critical-minerals-investment/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s President Bola Tinubu has called for deeper cooperation with BRICS countries in artificial intelligence, digital public infrastructure, fintech, telecommunications, critical minerals and advanced manufacturing, as the Federal Government seeks to attract investment and accelerate economic transformation. The post Tinubu turns to BRICS for AI, digital infrastructure and critical minerals investment appeared first on Nairametrics .",
-      "published": "2026-09-13T12:44:12+00:00",
-      "fetched": "2026-09-13T15:08:27.267235+00:00"
-    },
-    {
-      "id": "16b2244afc6deea1",
-      "title": "Dangote Refinery IPO: A New Chapter for Nigeria’s Capital Market",
-      "link": "https://nairametrics.com/2026/09/13/dangote-refinery-ipo-a-new-chapter-for-nigerias-capital-market/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s capital market is about to witness one of the most significant transactions in its history. The planned Initial Public Offering (“IPO”) of Dangote Petroleum Refinery and Petrochemicals FZE (“DPRP” or “Dangote Refinery”) brings to the Nigerian Exchange an enterprise that sits at the intersection of energy, manufacturing, trade and industrial development, while opening a [ ] The post Dangote Refinery IPO: A New Chapter for Nigeria’s Capital Market appeared first on Nairametrics .",
-      "published": "2026-09-13T12:27:21+00:00",
-      "fetched": "2026-09-13T15:08:27.267293+00:00"
-    },
-    {
-      "id": "e88833791e35b523",
-      "title": "Open banking could turn your business cash flow into collateral",
-      "link": "https://nairametrics.com/2026/09/13/open-banking-could-turn-your-business-cash-flow-into-collateral/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For millions of Nigerian businesses, the problem may not be that they have nothing to prove their creditworthiness. It may be that lenders have historically been looking for the wrong proof. For decades, if you re talking about small-business loans in Nigeria, the discussion pretty much starts with the wrong question: What do you own that [ ] The post Open banking could turn your business cash flow into collateral appeared first on Nairametrics .",
-      "published": "2026-09-13T12:25:16+00:00",
-      "fetched": "2026-09-13T15:08:27.267341+00:00"
-    },
-    {
-      "id": "32738f922c3fa25d",
-      "title": "Top 10 longest-serving CEOs on the NGX 30",
-      "link": "https://nairametrics.com/2026/09/13/top-10-longest-serving-ceos-on-the-ngx-30/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s largest listed companies are led by executives who have spent varying lengths of time at the helm, with some CEOs and managing directors staying in their positions for more than a decade and, in one case, about 25 years. The post Top 10 longest-serving CEOs on the NGX 30 appeared first on Nairametrics .",
-      "published": "2026-09-13T12:06:56+00:00",
-      "fetched": "2026-09-13T15:08:27.267382+00:00"
     }
   ]
 }

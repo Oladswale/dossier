@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-15T20:30:48.704071+00:00",
+  "updated": "2026-09-16T01:52:59.693300+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "af6e8ddd554dda17",
+      "title": "How MIT student communities help develop lifelong skills and connections",
+      "link": "https://news.mit.edu/2026/how-mit-student-communities-help-develop-lifelong-skills-connections-0915",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Members of the Institute’s fraternities, sororities, and independent living groups translate their MIT experiences into cherished memories, friendships, and lessons about leadership and service.",
+      "published": "2026-09-15T20:40:00+00:00",
+      "fetched": "2026-09-16T01:52:58.568111+00:00"
+    },
     {
       "id": "d3b219bb3b1a477f",
       "title": "MIT makes progress on campus climate goals",
@@ -1492,16 +1502,6 @@
       "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies.",
       "published": "2026-08-05T15:00:00+00:00",
       "fetched": "2026-08-05T19:08:31.139160+00:00"
-    },
-    {
-      "id": "7eef4fd46556cb75",
-      "title": "Scientists unveil more than 600 new tissue models of human cancer",
-      "link": "https://news.mit.edu/2026/scientists-unveil-600-new-tissue-models-human-cancer-0805",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Derived from patient tumor samples and available to researchers around the world, the cells will aid the development of new cancer treatments.",
-      "published": "2026-08-05T15:00:00+00:00",
-      "fetched": "2026-08-05T19:08:31.139192+00:00"
     }
   ]
 }
