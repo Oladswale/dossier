@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-16T01:53:00.649972+00:00",
+  "updated": "2026-09-16T10:21:44.471450+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a302d6b0d2c5ee4b",
+      "title": "Midwest City Known as ‘Niceville USA’ Leads the Nation in Homebuilding and Affordability",
+      "link": "https://www.realtor.com/news/trends/homebuilding-affordability-des-moines-iowa-2026-report-card/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Des Moines, IA, is the leader in homebuilding and affordability thanks to its pro-housing policies and aggressive construction activity.",
+      "published": "2026-09-16T09:00:00+00:00",
+      "fetched": "2026-09-16T10:21:44.470803+00:00"
+    },
+    {
+      "id": "bf8c1b162a7c51f3",
+      "title": "Inside a $950K Estate Complete With a Built-In 1950s Diner—Just Minutes From Lake of the Ozarks",
+      "link": "https://www.realtor.com/news/unique-homes/missouri-estate-1950s-diner-lake-of-the-ozarks/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Step inside a Missouri estate featuring an authentic 1950s diner and an indoor pool complex, just minutes from Lake of the Ozarks.",
+      "published": "2026-09-16T08:17:00+00:00",
+      "fetched": "2026-09-16T10:21:44.470843+00:00"
+    },
     {
       "id": "844c903003e213c4",
       "title": "Federal Housing Law’s Architects Say Cities Must Now Step Up To Implement Reforms",
@@ -1482,26 +1502,6 @@
       "summary": "The largest price-per-square-foot declines were in Austin, TX (-8.1%); Tampa, FL (-5.6%); and Memphis, TN (-4.1%).",
       "published": "2026-09-05T10:00:00+00:00",
       "fetched": "2026-09-05T14:03:42.338543+00:00"
-    },
-    {
-      "id": "f3cb4d96f4660faa",
-      "title": "Joy-Anna Duggar Announces Pregnancy as She and Husband Austin Forsyth Build Their Dream Arkansas Farmhouse",
-      "link": "https://www.realtor.com/news/reality-tv/joy-anna-duggar-pregnancy-austin-forsyth-arkansas-farmhouse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 28-year-old reality TV star took to Instagram to share a carousel of snaps announcing her pregnancy alongside her spouse.",
-      "published": "2026-09-04T21:05:19+00:00",
-      "fetched": "2026-09-05T01:33:54.046095+00:00"
-    },
-    {
-      "id": "3331e65fb74b901c",
-      "title": "The Costly Pricing Trap Every Smart Homebuyer Can Avoid",
-      "link": "https://www.realtor.com/news/trends/pricing-trap-wishful-pricing-buyers-sellers/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pricing strategy has changed for sellers in the past few years, and it's important for buyers to know when they're being taken for a ride.",
-      "published": "2026-09-04T20:37:00+00:00",
-      "fetched": "2026-09-05T01:33:54.046131+00:00"
     }
   ]
 }

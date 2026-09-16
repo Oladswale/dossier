@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-09-16T01:52:59.693300+00:00",
+  "updated": "2026-09-16T10:21:43.807639+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fb4eef26f9dafe8c",
+      "title": "The Genius Logic of the NATO Phonetic Alphabet: How It Was Created & How It Works",
+      "link": "https://www.openculture.com/2026/09/the-genius-logic-of-the-nato-phonetic-alphabet-how-it-was-created-how-it-works.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Most of us can rattle off the first few words-that-stand-for-letters of the NATO phonetic alphabet. Alfa, Bravo, and Charlie no doubt come right to mind, and depending on how many war movies you’ve seen, so may Delta, Echo, and Foxtrot. But how many of us would recognize Kilo, Mike, and Sierra?",
+      "published": "2026-09-16T09:00:32+00:00",
+      "fetched": "2026-09-16T10:21:43.807343+00:00"
+    },
+    {
+      "id": "0ad628f61bd5d442",
+      "title": "Watch Footage from the Psychology Experiment That Shocked the World: Milgram’s Obedience Study (1961)",
+      "link": "https://www.openculture.com/2026/09/watch-footage-from-milgrams-obedience-study.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "For decades following World War II, the world was left wondering how the atrocities of the Holocaust could have been perpetrated in the midst of—and, most horrifically, by—a modern and civilized society. How did people come to engage in a willing and systematic extermination of their neighbors? Psychologists, whose field had grown into a grudgingly [ ]",
+      "published": "2026-09-16T08:00:21+00:00",
+      "fetched": "2026-09-16T10:21:43.807406+00:00"
+    },
+    {
+      "id": "034be2c5ad538d2c",
+      "title": "MIT startups inspire with impressive presentations at Demo Day 2026",
+      "link": "https://news.mit.edu/2026/mit-startups-inspire-with-impressive-presentations-demo-day-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The event featured ventures solving problems in manufacturing, cybersecurity, health care spending, and more.",
+      "published": "2026-09-16T04:00:00+00:00",
+      "fetched": "2026-09-16T10:21:42.497350+00:00"
+    },
+    {
+      "id": "286002b72e37f826",
+      "title": "Measure by measure, studying society accurately",
+      "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+      "published": "2026-09-16T04:00:00+00:00",
+      "fetched": "2026-09-16T10:21:42.497384+00:00"
+    },
     {
       "id": "af6e8ddd554dda17",
       "title": "How MIT student communities help develop lifelong skills and connections",
@@ -1462,46 +1502,6 @@
       "summary": "Recall, if you will, the first time you read Book 2 of Homer’s Iliad. The section likely to have given you the most trouble — unless, of course, you’re blessed with an obsessive interest in ancient naval warfare — is the much-remarked-upon Catalogue of Ships, a rundown of not just the contingents of the Achaean [ ]",
       "published": "2026-08-06T16:46:01+00:00",
       "fetched": "2026-08-06T23:46:22.994035+00:00"
-    },
-    {
-      "id": "35eddbae7e4ee5bb",
-      "title": "Mark Twain Predicts the Internet in 1898: Read His Sci-Fi Crime Story, “From The ‘London Times’ in 1904”",
-      "link": "https://www.openculture.com/2026/08/mark-twain-predicts-the-internet-in-1898.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Most people know that Mark Twain wrote about Jim and Huckleberry Finn navigating down the Mississippi. Less well known is that he occasionally dabbled in the burgeoning genre of science fiction. His 1898 short story “The Great Dark” is about a ship that sails across a drop of water on a microscope slide.",
-      "published": "2026-08-06T07:01:42+00:00",
-      "fetched": "2026-08-06T08:10:01.990538+00:00"
-    },
-    {
-      "id": "949f5ebfee2eb935",
-      "title": "A new way to watch heat move through electronics",
-      "link": "https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers can now precisely measure how heat moves through multilayered materials like computer chips.",
-      "published": "2026-08-06T04:00:00+00:00",
-      "fetched": "2026-08-06T08:09:58.489922+00:00"
-    },
-    {
-      "id": "a2e15bac9378b7da",
-      "title": "Then and now: How MIT Lincoln Laboratory has served as a driving force in national security innovation",
-      "link": "https://news.mit.edu/2026/mit-lincoln-laboratory-driving-force-national-security-innovation-0805",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Members of the laboratory community reflect on technology impacts that shaped the United States and the world over the past 75 years.",
-      "published": "2026-08-05T18:10:00+00:00",
-      "fetched": "2026-08-05T19:08:31.139123+00:00"
-    },
-    {
-      "id": "f356e967ad03fb07",
-      "title": "Researchers make air-stable, ultrathin superconductors, for more scalable quantum devices",
-      "link": "https://news.mit.edu/2026/researchers-make-air-stable-ultrathin-superconductors-more-scalable-quantum-devices-0805",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new technique produces wafer-scale samples, overcoming a major roadblock to using these materials in quantum technologies.",
-      "published": "2026-08-05T15:00:00+00:00",
-      "fetched": "2026-08-05T19:08:31.139160+00:00"
     }
   ]
 }
