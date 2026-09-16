@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-16T15:38:10.597691+00:00",
+  "updated": "2026-09-16T20:30:11.808201+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4916aeaf1def5d0b",
+      "title": "New artist residency program at MIT expands views of the cosmos",
+      "link": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions about the universe and translate them into an immersive multimedia experience.",
+      "published": "2026-09-16T18:30:00+00:00",
+      "fetched": "2026-09-16T20:30:10.171339+00:00"
+    },
+    {
+      "id": "72628e686636bf5f",
+      "title": "Nanoscale mechanics could enable brain-inspired computing",
+      "link": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new device uses reconfigurable motion to mimic the firing behavior of a neuron, which could lead to more efficient computing.",
+      "published": "2026-09-16T18:00:00+00:00",
+      "fetched": "2026-09-16T20:30:10.171376+00:00"
+    },
     {
       "id": "26f4fa5b3a3bf362",
       "title": "New AI technique could make minimally invasive surgeries safer and more precise",
@@ -1482,26 +1502,6 @@
       "summary": "Cast your mind back to the distant year 2021 and recall, if you will, its music, its fashions, the obsessions of its youth. This probably won’t be a difficult task, since in most respects — the dampening effects of the pandemic notwithstanding — none of those aspects of popular culture seem any different today. Yet [ ]",
       "published": "2026-08-07T16:16:48+00:00",
       "fetched": "2026-08-07T18:35:22.744496+00:00"
-    },
-    {
-      "id": "107e643f6a3b79f2",
-      "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
-      "link": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The study could help scientists understand how superconductivity and other more complex phenomena emerge in quantum materials.",
-      "published": "2026-08-07T09:00:00+00:00",
-      "fetched": "2026-08-07T12:33:50.251484+00:00"
-    },
-    {
-      "id": "4bb1c0d92ade975b",
-      "title": "Akirah Bradley-Armstrong named vice chancellor for student life",
-      "link": "https://news.mit.edu/2026/akirah-bradley-armstrong-named-vice-chancellor-student-life-0806",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An experienced student affairs leader is joining MIT to oversee the next chapter for the Division of Student Life.",
-      "published": "2026-08-06T20:55:00+00:00",
-      "fetched": "2026-08-06T23:46:21.964078+00:00"
     }
   ]
 }

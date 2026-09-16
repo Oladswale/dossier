@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-16T15:38:08.276742+00:00",
+  "updated": "2026-09-16T20:30:09.916174+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c00b6e4e758477f1",
+      "title": "Macklemore Donating $1 Million Salary from Ed Sheeran Tour to Support Palestine: ‘I Invite Robert Kraft to Match My Donation’",
+      "link": "https://variety.com/2026/music/news/macklemore-donating-ed-sheeran-tour-salary-palestine-support-1236864698/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Macklemore has announced that he ll be donating the $1 million in net earnings he received from supporting Ed Sheeran on his Loop Tour to organizations working to support the Palestinian people, and invited billionaire Robert Kraft to match his donation. The rapper was dropped from Sheeran s current tour earlier this week after saying free Palestine [ ]",
+      "published": "2026-09-16T20:26:19+00:00",
+      "fetched": "2026-09-16T20:30:09.679409+00:00"
+    },
+    {
+      "id": "3fca7e69ef8004f9",
+      "title": "Box Office: ‘Resident Evil’ Reboot Targets Franchise-Best $45 Million Debut",
+      "link": "https://variety.com/2026/film/box-office/resident-evil-box-office-reboot-opening-weekend-projection-1236861469/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Movie theater operators are counting on Resident Evil to scare some life into the early fall box office. Sony s horror-comedy reboot of the zombie-infested property is targeting a strong $40 million to $50 million in its domestic debut. With strong reviews and glowing word-of-mouth, rivals and independent tracking services believe that initial ticket sales will [ ]",
+      "published": "2026-09-16T20:02:31+00:00",
+      "fetched": "2026-09-16T20:30:09.679464+00:00"
+    },
+    {
+      "id": "213b911a516c5b8d",
+      "title": "‘SNL’ Adds New Cast Members Grace Reiter and Saidah Belo-Osagie, Completing Season 52 Ensemble",
+      "link": "https://variety.com/2026/tv/news/snl-new-cast-members-grace-reiter-saidah-belo-osagie-1236864319/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Saturday Night Live has added its first new cast members to Season 52. Grace Reiter and Saidah Belo-Osagie are joining the NBC sketch comedy series, which returns on Sept. 26 with host Jalen Brunson.",
+      "published": "2026-09-16T20:00:00+00:00",
+      "fetched": "2026-09-16T20:30:09.679513+00:00"
+    },
+    {
+      "id": "1e97fbdb36484a48",
+      "title": "Madonna to Perform at VMAs for First Time in 23 Years",
+      "link": "https://www.rollingstone.com/music/music-news/2026-mtv-vmas-will-open-with-madonna-1235627673/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Superstar, who earned the most nominations across 11 categories at this year's event, will open the show",
+      "published": "2026-09-16T19:47:51+00:00",
+      "fetched": "2026-09-16T20:30:09.752538+00:00"
+    },
+    {
+      "id": "33b728153300a8a1",
+      "title": "Music Distribution, Explained: And Why It Matters More Than Ever for Independent Artists",
+      "link": "https://variety.com/2026/shopping/news/how-music-distribution-works-distrokid-sign-up-online-1236864648/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The music industry has never had fewer gatekeepers. Independent artists are increasingly releasing music without traditional label deals, while established acts have more options for retaining ownership and control over their recordings. In 2025, more than a third of artists who generated at least $10,000 in Spotify royalties were DIY artists — meaning they self-released [ ]",
+      "published": "2026-09-16T19:46:54+00:00",
+      "fetched": "2026-09-16T20:30:09.679566+00:00"
+    },
+    {
+      "id": "de7710e6380c5d86",
+      "title": "Madonna to Open MTV Video Music Awards With First Show Performance in 23 Years",
+      "link": "https://variety.com/2026/music/news/madonna-performance-to-open-mtv-video-music-awards-1236864336/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Madonna is set to open the MTV Video Music Awards with her first live performance at the show in 23 years. The pop star last graced the VMA stage as a performer with her iconic 2003 appearance with Britney Spears and Christina Aguilera. She already received a big look ahead of the VMAs with 11 [ ]",
+      "published": "2026-09-16T19:45:00+00:00",
+      "fetched": "2026-09-16T20:30:09.679608+00:00"
+    },
+    {
+      "id": "9eaedd14996dc660",
+      "title": "‘Growth of the Soil’ Review: Norway’s Oscar Entry Is a Robustly Classical, Weatherbeaten Rural Epic",
+      "link": "https://variety.com/2026/film/reviews/growth-of-the-soil-review-1236864341/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The wind deserves above-the-title billing in Growth of the Soil — even in the most serene scenes of Hans Petter Moland s muscular period epic, you can hear it rattling and wheezing and moaning away in the background, or at the very least, you think you can. The elements are crucial characters in this saga of [ ]",
+      "published": "2026-09-16T19:43:26+00:00",
+      "fetched": "2026-09-16T20:30:09.679658+00:00"
+    },
+    {
+      "id": "8a9977e5ca9a6a1f",
+      "title": "James McAvoy, Rebel Wilson and More Join Variety’s Future in Focus at TIFF to Talk Directorial Debuts, Fall Films and New Technology",
+      "link": "https://variety.com/2026/film/news/james-mcavoy-rebel-wilson-tiff-1236861364/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Actors James McAvoy and Rebel Wilson opened up about expanding their artistry behind the camera while filmmakers Rachel Morrison and Liz Garbus got candid about the barriers that still need breaking in the film business during Variety s Future in Focus panel, presented by Utopai Studios, at this year s Toronto Film Festival. Variety s executive editor of [ ]",
+      "published": "2026-09-16T19:30:00+00:00",
+      "fetched": "2026-09-16T20:30:09.679706+00:00"
+    },
+    {
+      "id": "7a9a047070e372bc",
+      "title": "‘Yellowstone’ Alum Jefferson White Joins ‘Marshals’ Season 2",
+      "link": "https://variety.com/2026/tv/news/yellowstone-jefferson-white-jimmy-marshals-season-2-1236864234/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jefferson White is saddling back up as Jimmy Hurdstrom, with the actor set to reprise his Yellowstone role in Marshals Season 2 at CBS. White will recur in the second season of the CBS drama, which stars fellow Yellowstone alum Luke Grimes as Kayce Dutton. “I’m thrilled to dive into the world of Marshals and [ ]",
+      "published": "2026-09-16T19:12:29+00:00",
+      "fetched": "2026-09-16T20:30:09.679755+00:00"
+    },
+    {
+      "id": "6e5d47d40f42c455",
+      "title": "Behind Intocable’s Epic Celebration of Mexico en El Zócalo",
+      "link": "https://www.rollingstone.com/music/music-pictures/behind-intocables-epic-celebration-of-mexico-en-el-zocalo-1235627548/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "An epic meeting of música mexicana lore and a veteran Texas band that has consistently taken norteño into unexpected terrain took place Tuesday in Mexico City when Intocable performed in front of 300,000 people at El Zocalo Capitalino to celebrate Mexican Independence Day. For Intocable, the two-hour show was a highly emotional affair, as [ ]",
+      "published": "2026-09-16T19:09:49+00:00",
+      "fetched": "2026-09-16T20:30:09.752606+00:00"
+    },
+    {
+      "id": "30ce880219815f14",
+      "title": "JD Vance Pleads With Voters: ‘Give Us Another Chance’",
+      "link": "https://www.rollingstone.com/politics/politics-news/jd-vance-pleads-voters-give-us-another-chance-1235627842/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The vice president and the Republican Party aren’t projecting a ton of confidence ahead of the midterms",
+      "published": "2026-09-16T19:09:31+00:00",
+      "fetched": "2026-09-16T20:30:09.752639+00:00"
+    },
+    {
+      "id": "57e9a856b84abb9d",
+      "title": "Guy Pearce Reunites With Andrew Baird for Irish Thriller ‘Bottle’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/guy-pearce-andrew-baird-thriller-bottle-1236861859/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Guy Pearce and filmmaker Andrew Baird will reunite for their fourth film, an upcoming Irish thriller titled “Bottle.” The actor will play Jimmy, a historically violent pub owner who traps a troubled young man named Cillian after he breaks into his bar in search of a pint. As Cillian fights to survive the night, he [ ]",
+      "published": "2026-09-16T19:02:15+00:00",
+      "fetched": "2026-09-16T20:30:09.679802+00:00"
+    },
+    {
+      "id": "d9792dc911bab41a",
+      "title": "‘Heated Rivalry’ Season 2 Adds Six to Cast, Including ‘Letterkenny’ Alum Michelle Mylett, Lauren Chan",
+      "link": "https://variety.com/2026/tv/news/heated-rivalry-season-2-cast-michelle-mylett-lauren-chan-1236864441/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Heated Rivalry Season 2 is continuing to build out its cast with the addition of six new actors. The highly-anticipated second season of the Crave-HBO Max series has added: Brendan Morgan (“F*** Marry Kill,” “The Handmaid’s Tale”) as Zane Boodram, David Tomlinson (“Fellow Travelers,” “Silent Night”) as Cody Kent (Dallas Kent in the books), Gerry [ ]",
+      "published": "2026-09-16T19:00:00+00:00",
+      "fetched": "2026-09-16T20:30:09.679856+00:00"
+    },
+    {
+      "id": "36dbff84a02b5961",
+      "title": "Where to Stream ‘South America’ (Formerly ‘South Park’) Season 29 Online",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/where-to-stream-south-park-season-29-online-free-1235627139/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The hit animated series is back following a patriotic renaming to South America. Here’s where to stream new episodes",
+      "published": "2026-09-16T18:49:17+00:00",
+      "fetched": "2026-09-16T20:30:09.752673+00:00"
+    },
+    {
+      "id": "5c9c58040dc972fe",
+      "title": "Taylor Hanson on ‘Dancing With the Stars’: ‘This Is Very Personal’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/dancing-with-the-stars-taylor-hanson-interview-1235627784/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer and musician talks about how competing on the long-running competition show is pushing him “very much out of my comfort zone”",
+      "published": "2026-09-16T17:31:23+00:00",
+      "fetched": "2026-09-16T20:30:09.752706+00:00"
+    },
+    {
+      "id": "7a5531d387f85411",
+      "title": "Artists Stand With Macklemore Amid Ed Sheeran Tour Controversy: ‘True Integrity’",
+      "link": "https://www.rollingstone.com/music/music-features/macklemore-support-artists-ed-sheeran-tour-controversy-1235626898/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Kehlani, Finneas, Ms. Rachel, Rachel Chinouriri, Greta Thunberg, Pattie Gonia, and more have backed the rapper following his removal from the Loop tour over his public support of Palestinians",
+      "published": "2026-09-16T17:18:00+00:00",
+      "fetched": "2026-09-16T20:30:09.752741+00:00"
+    },
+    {
+      "id": "914ffc0dab3c03fb",
+      "title": "5 Things Drake Really Wanted Us to Notice in His ‘FOMO’ Livestream",
+      "link": "https://www.rollingstone.com/music/music-features/drake-fomo-livestream-five-takeaways-1235627773/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The music was only part of the message, as Drake used FOMO to spotlight his people, revisit his past, and remind everyone he’s still here",
+      "published": "2026-09-16T17:14:40+00:00",
+      "fetched": "2026-09-16T20:30:09.752775+00:00"
+    },
+    {
+      "id": "a73705c3e795e5b0",
+      "title": "Here’s Why This Throwback Brixton Flannel Is an Ideal Fall Layer",
+      "link": "https://www.rollingstone.com/product-recommendations/style/best-flannel-shirts-for-men-brixton-1235569864/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Here’s why we’re adding Brixton’s Bowery flannel to our rotation this fall",
+      "published": "2026-09-16T17:04:00+00:00",
+      "fetched": "2026-09-16T20:30:09.752802+00:00"
+    },
+    {
+      "id": "f2aed8a71ed701d8",
+      "title": "Thousands of Ed Sheeran Tickets Remain Unsold for Singer’s Tour, With Prices Down to $65 Online",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/ed-sheeran-tour-tickets-2026-cheap-seats-prices-buy-online-1235627439/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Ticketmaster still has seats to all remaining Loop Tour dates, while some resellers are listing Sheeran tickets for below face value",
+      "published": "2026-09-16T16:55:05+00:00",
+      "fetched": "2026-09-16T20:30:09.752832+00:00"
+    },
+    {
+      "id": "c5cebcc292272337",
+      "title": "David Byrne Challenges the Idea of an Album With Expanded ‘Who Is the Sky?’",
+      "link": "https://www.rollingstone.com/music/music-news/david-byrne-who-is-the-sky-expanded-digital-edition-1235627677/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Listen to “My Madness,” “T Shirt,” and other songs from new version of album, which precedes the release of Byrne’s Sleeping Beauties book",
+      "published": "2026-09-16T16:52:36+00:00",
+      "fetched": "2026-09-16T20:30:09.752865+00:00"
+    },
     {
       "id": "2c73661f4750b276",
       "title": "Metallica to Return to North America for More M72 Tour Dates in 2027",
@@ -1302,206 +1502,6 @@
       "summary": "Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don’t We singer amid a child-custody dispute",
       "published": "2026-09-14T19:40:43+00:00",
       "fetched": "2026-09-14T21:05:26.463572+00:00"
-    },
-    {
-      "id": "52a4e66ab1f40d3e",
-      "title": "Tribeca Award Winner ‘Labrador – Autopsy of Silence’ Sells to TLA Releasing for the U.S. and the U.K. (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/tribeca-labrador-autopsy-of-silence-tla-releasing-1236861553/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "International sales house H264 has sold Rodrigue Jean’s “Labrador – Autopsy of Silence” to TLA Releasing for the U.S. and the U.K. The deal follows the film’s world premiere at the Tribeca Festival, where it won three awards, including best international narrative feature.",
-      "published": "2026-09-14T19:35:07+00:00",
-      "fetched": "2026-09-14T21:05:26.237964+00:00"
-    },
-    {
-      "id": "87cf3d1056bd6bc1",
-      "title": "How to Watch the 2026 Emmy Awards Online for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-emmy-awards-online-livestream-free-2026-1235626152/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here’s where to livestream the 2026 Emmy Awards, hosted by Mariska Hargitay",
-      "published": "2026-09-14T19:05:00+00:00",
-      "fetched": "2026-09-14T21:05:26.463598+00:00"
-    },
-    {
-      "id": "9e0bbffa90cb0621",
-      "title": "Emmy Winners: Complete List (Updating Live)",
-      "link": "https://variety.com/lists/emmy-winners-complete-list/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Law Order: SVU star Mariska Hargitay is hosting the TV industry s biggest night as the Emmy Awards are underway Monday evening. HBO s medical drama The Pitt leads all nominees with a huge 25 nominations, including outstanding drama, lead actor and drama director for Noah Wyle and seven performers across supporting actor and actress. The [ ]",
-      "published": "2026-09-14T19:00:00+00:00",
-      "fetched": "2026-09-14T21:05:26.238010+00:00"
-    },
-    {
-      "id": "c8a10af4679bd3d2",
-      "title": "Will Poulter to Be Honored at Heartland Film Festival (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/columns/will-poulter-honored-heartland-film-festival-1236861479/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Will Poulter is heading to Indianapolis to be honored at the 35th annual Heartland Film Festival. The actor will attend a special presentation of his recent drama “Union County” from Oscilloscope Laboratories on Oct. 17.",
-      "published": "2026-09-14T19:00:00+00:00",
-      "fetched": "2026-09-14T21:05:26.238059+00:00"
-    },
-    {
-      "id": "fd9aa836e376ff95",
-      "title": "Why ‘How Long Gone’ Created Their Own Awards Show — and ‘Squashed the Beef’ With Bowen Yang",
-      "link": "https://variety.com/2026/awards/news/how-long-gone-awards-show-bowen-yang-1236861490/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tonight in Los Angeles, Hollywood is buzzing ahead of the biggest night in television, as stars of the small screen storm the Emmys. But across the country, a different crowd is preparing for a new awards show, one with performances from indie cult heroes like Nirosta Steel and categories like Ally of the Year “For [ ]",
-      "published": "2026-09-14T19:00:00+00:00",
-      "fetched": "2026-09-14T21:05:26.238107+00:00"
-    },
-    {
-      "id": "c37040c9247421b7",
-      "title": "Bob Mackie, Famed Fashion Designer to Cher and More, Dead at 87",
-      "link": "https://www.rollingstone.com/culture/culture-news/bob-mackie-obituary-1235626121/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The “Sultan of Sequins” also worked closely with icons like Carol Burnett and Diana Ross",
-      "published": "2026-09-14T17:53:16+00:00",
-      "fetched": "2026-09-14T21:05:26.463624+00:00"
-    },
-    {
-      "id": "4787ee240f92c7cb",
-      "title": "Elon Musk Still Hasn’t Contacted Alex Gibney After Complaining About His Movie, Director Claims",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/elon-musk-contacted-alex-gibney-musk-documentary-1235626110/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Oscar-winner said he’s “received nothing back” since the Tesla founder ranted about Musk and his lawyers threatened legal action",
-      "published": "2026-09-14T17:35:30+00:00",
-      "fetched": "2026-09-14T21:05:26.463658+00:00"
-    },
-    {
-      "id": "532226c28e12b3f8",
-      "title": "Don Jr.’s Wife Confirms Putin Ally Paid for Huge Portion of Wedding",
-      "link": "https://www.rollingstone.com/politics/politics-news/putin-ally-umar-kremlev-paid-don-jr-wedding-1235626155/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "ProPublica reported that Russian oligarch Umar Kremlev gifted the couple a lavish reception after an intimate ceremony",
-      "published": "2026-09-14T17:33:15+00:00",
-      "fetched": "2026-09-14T21:05:26.463688+00:00"
-    },
-    {
-      "id": "9c78ace803f67c35",
-      "title": "Ella Langley Is Coming for Christmas: ‘Choosin’ Texas’ Ties Mariah Carey",
-      "link": "https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-ties-mariah-carey-christmas-1235624515/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "With 22 weeks atop the Billboard Hot 100, Langley’s country song is poised to beat Carey’s “All I Want for Christmas Is You” next week",
-      "published": "2026-09-14T17:07:10+00:00",
-      "fetched": "2026-09-14T21:05:26.463749+00:00"
-    },
-    {
-      "id": "32bd512151ad490e",
-      "title": "Macklemore Says He Was Dropped From Ed Sheeran Tour After Robert Kraft Pressure Campaign",
-      "link": "https://www.rollingstone.com/music/music-news/macklemore-statement-dropped-ed-sheeran-tour-1235626135/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Seattle rapper claimed the billionaire New England Patriots owner told Sheeran that Macklemore would not be allowed to perform at Gillette Stadium and \"rallied\" other stadium owners",
-      "published": "2026-09-14T17:05:15+00:00",
-      "fetched": "2026-09-14T17:06:16.691106+00:00"
-    },
-    {
-      "id": "cc5a36e0b419410c",
-      "title": "Ziwe on YouTube as the ‘Great Equalizer’ and Her Only Interview That Went South",
-      "link": "https://variety.com/2026/film/news/ziwe-youtube-the-great-equalizer-interview-that-went-south-1236859078/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ziwe Fumudoh has built her career in comedy and as an interview host who can handle any guest, from political figures to drag queens. The podcast star and creator screened two episodes from the upcoming season of her podcast You d Be an Iconic Guest — one with comedian and actress Wanda Sykes and the other [ ]",
-      "published": "2026-09-14T17:00:00+00:00",
-      "fetched": "2026-09-14T17:06:16.479317+00:00"
-    },
-    {
-      "id": "31509c50d15c091f",
-      "title": "‘This Summer Will Be Different’ Netflix Series Casts Malin Akerman, Megan Follows, Nadine Bhabha, Matias Lucas",
-      "link": "https://variety.com/2026/tv/news/this-summer-will-be-different-series-cast-malin-akerman-1236861257/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Netflix s series adaptation of This Summer Will Be Different has added four new cast members, Variety has learned. Malin Akerman ( The Hunting Wives, Billions ), Megan Follows ( Buried in Barstow, Anne of Green Gables, ), Nadine Bhabha ( Heated Rivalry, Slo Pitch ), and Matias Lucas ( The Order ) have all joined the drama based on the Carley Fortune novel [ ]",
-      "published": "2026-09-14T17:00:00+00:00",
-      "fetched": "2026-09-14T17:06:16.479377+00:00"
-    },
-    {
-      "id": "411bedfe4760064c",
-      "title": "‘The Nature of Invisible Things’ Director Rafaela Camelo Lines Up Luciana Paes and Sundance-Winner Camila Márdila For ‘The Favorite Daughter’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/rafaela-camelo-luciana-paes-camila-mardila-1236861059/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Luciana Paes (“Friendly Beast”) and Camila Márdila (“I’m Still Here”) have been cast in “The Favorite Daughter” (“A Filha Favorita”), the new film by rising Brazilian director Rafaela Camelo. The filmmaker is gearing up to shoot the follow-up to “The Nature of Invisible Things,” which premiered to acclaim at the Berlin Film Festival in 2025 [ ]",
-      "published": "2026-09-14T16:56:58+00:00",
-      "fetched": "2026-09-14T17:06:16.479434+00:00"
-    },
-    {
-      "id": "90b86a0b2b98a076",
-      "title": "Heartfelt, Rare Animated Belgian Feature ‘Juul’ Headlines Studio 100 Film’s Expanding Slate at TIFF Market",
-      "link": "https://variety.com/2026/film/markets-festivals/juul-tiff-market-studio-100-animated-feature-1236855784/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "How far would you go to keep a love one close? Belgian studio Fabrique Fantastique s debut animated feature Juul comes to TIFF Market a few days after Studio 100 Film announced having picked up this young adult animated drama, marking a significant expansion in the otherwise family-driven catalogue of the independent sales agency, a subsidiary [ ]",
-      "published": "2026-09-14T16:43:42+00:00",
-      "fetched": "2026-09-14T17:06:16.479481+00:00"
-    },
-    {
-      "id": "275fa0757f4c47ba",
-      "title": "Vimeo Doubles Short Film Grant Program Prize to $300,000 (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/vimeo-doubles-short-film-grant-program-1236861332/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Vimeo is launching its second annual Short Film Grant Program, doubling last year’s prize pool to $300,000 to be split among five emerging filmmakers. In addition to receiving funding to create an original short film, the five selected filmmakers will also receive mentorship and resources to aid their filmmaking process and accelerate their careers. So [ ]",
-      "published": "2026-09-14T16:38:09+00:00",
-      "fetched": "2026-09-14T17:06:16.479533+00:00"
-    },
-    {
-      "id": "463b8ecbdf3df242",
-      "title": "From Youtube to TIFF: ‘Brave Wilderness’ Host Mark Vins Debuts First Feature Film ‘Reef to Ridge’",
-      "link": "https://variety.com/2026/film/festivals/brave-wilderness-mark-vins-first-feature-film-1236859090/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With almost 22 million subscribers on his Youtube channel, “Brave Wilderness” host Mark Vins is no stranger to making and sharing outdoor content with a global audience. Now, 14 years later, Vins has expanded from short form videos to debuting his first full-length documentary at the Toronto International Film Festival. Vins end goal as a [ ]",
-      "published": "2026-09-14T16:30:00+00:00",
-      "fetched": "2026-09-14T17:06:16.479585+00:00"
-    },
-    {
-      "id": "d2a8b1b2a2e85996",
-      "title": "Salma Hayek Pinault to Make Theatrical Directorial Debut With ‘Arena,’ Co-Starring Yura Borisov and Cara Delevingne (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/awards/salma-hayek-pinault-arena-directorial-debut-yura-borisov-cara-delevingne-1236860801/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Oscar nominee Salma Hayek Pinault is stepping behind the camera. Variety can exclusively reveal that the Oscar-nominated actor of “Frida” and Emmy-nominated actress and producer of “Ugly Betty” will make her theatrical directorial debut with “Arena,” an epic romantic adventure she also wrote. The independently financed film pairs her with Yura Borisov, who earned an [ ]",
-      "published": "2026-09-14T16:30:00+00:00",
-      "fetched": "2026-09-14T17:06:16.479639+00:00"
-    },
-    {
-      "id": "13b794ac8c8a7fbe",
-      "title": "Creator Economy Dynamo Steven Bartlett Partners With Authentic Brands to Launch OBSN Brand Development Venture",
-      "link": "https://variety.com/2026/digital/news/steven-bartlett-obsn-steven-com-authentic-brands-creators-1236860849/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Rising entrepreneur Steven Bartlett has teamed with Authentic Brands to launch OBSN, a business venture designed to support creators and facilitate the development of consumer products and services built around top creators. The deal calls for the partners to create a platform devoted to providing news, analysis and live experiences for the creator economy in [ ]",
-      "published": "2026-09-14T16:30:00+00:00",
-      "fetched": "2026-09-14T17:06:16.479684+00:00"
-    },
-    {
-      "id": "b0abc638ac5cf14b",
-      "title": "Screen Brasil Launches Second Edition of Film Distribution Grant Initiative",
-      "link": "https://variety.com/2026/film/global/screen-brasil-embratur-projeto-paradiso-lucky-number-1236861012/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Distribution, by common consent, has become the weakest link in the whole of the film industry. If it weren’t for public-sector aid, it would hardly exist. Split right deals, replacing minimum guarantees, has eased the financial stress on distributors.",
-      "published": "2026-09-14T16:28:01+00:00",
-      "fetched": "2026-09-14T17:06:16.479735+00:00"
-    },
-    {
-      "id": "095a11a5a93a05ff",
-      "title": "Creator Kat Sandler on Yaga.’ With ‘Heated Rivalry’ Star Hudson Williams: ‘People Are Ready for a Witchy Wave’",
-      "link": "https://variety.com/2026/global/markets-festivals/hudson-williams-carrie-anne-moss-yaga-series-premiere-tiff-1236860858/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "On the heels of global sensation “Heated Rivalry,” Canadian streamer Crave is bringing witchy back with “Yaga,” writer and showrunner Kat Sandler’s horror mystery series in which the ancient lore of Baba Yaga haunts the search for a missing local in a small coastal town. Greenlit in spring 2025, “Yaga” gained global buzz earlier this [ ]",
-      "published": "2026-09-14T16:22:53+00:00",
-      "fetched": "2026-09-14T17:06:16.479787+00:00"
     }
   ]
 }
