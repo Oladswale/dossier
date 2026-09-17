@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-17T01:57:12.524811+00:00",
+  "updated": "2026-09-17T10:31:08.256118+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1a3ddf531579afda",
+      "title": "How Reading Changes the Way Your Brain Works",
+      "link": "https://www.openculture.com/2026/09/how-reading-changes-the-way-your-brain-works.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Reading is unnatural. This will hardly come as a surprise to any child trying to put off his homework for just one more hour of watching other kids play Minecraft. Yet there really are implications worth considering if we accept that our cognitive systems didn’t evolve to process text in the same way as they [ ]",
+      "published": "2026-09-17T09:00:14+00:00",
+      "fetched": "2026-09-17T10:31:08.255825+00:00"
+    },
+    {
+      "id": "fcfd54f9fa500e2a",
+      "title": "An In-Depth, Immersive Journey Through the Bayeux Tapestry",
+      "link": "https://www.openculture.com/2026/09/an-in-depth-immersive-journey-through-the-bayeux-tapestry.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "With the Bayeux Tapestry now on display at the British Museum, Deep Down History presents a deep dive into the embroidery’s full story: “The Bayeux Tapestry is one of the most remarkable survivals of the Middle Ages — a 70 metre embroidered account of the events leading to the Norman Conquest of England in 1066, [ ]",
+      "published": "2026-09-17T08:00:47+00:00",
+      "fetched": "2026-09-17T10:31:08.255895+00:00"
+    },
+    {
+      "id": "85da8b1fb5d2634e",
+      "title": "Robotic lab sets up and runs optics experiments on demand",
+      "link": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The autonomous system could speed up testing of high-tech materials for applications such as solar cells, sensors, video displays, and quantum technologies.",
+      "published": "2026-09-17T04:00:00+00:00",
+      "fetched": "2026-09-17T10:31:06.931022+00:00"
+    },
     {
       "id": "30a983f4f5fd0628",
       "title": "Faces of MIT: Jay Wilcoxson",
@@ -1472,36 +1502,6 @@
       "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
       "published": "2026-08-10T19:25:00+00:00",
       "fetched": "2026-08-11T00:42:47.250534+00:00"
-    },
-    {
-      "id": "82a977c05f20d866",
-      "title": "High-orbit satellites could light the way for travel to the moon",
-      "link": "https://news.mit.edu/2026/high-orbit-satellites-could-light-way-for-travel-to-moon-0810",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Acting as cooperative optical beacons, the satellites could provide GPS-like navigation and communications support for spacecraft operating across cislunar space.",
-      "published": "2026-08-10T18:10:00+00:00",
-      "fetched": "2026-08-10T18:38:26.776901+00:00"
-    },
-    {
-      "id": "fb33d58fb23cab67",
-      "title": "How the Bird Sound Effects in Alfred Hitchcock’s The Birds Were Created with a Pioneering Electronic Instrument, the Trautonium",
-      "link": "https://www.openculture.com/2026/08/how-the-bird-sound-effects-in-alfred-hitchcocks-the-birds-were-created-with-a-pioneering-electronic-instrument-the-trautonium.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Alfred Hitchcock’s The Birds was nominated for an Academy Award for Best Special Effects, though viewers raised on more recent Hollywood spectacles would hardly find its mechanized and optically printed avian attackers convincing. Still, the picture as a whole has retained its eerie, ominous power over the last six decades, and a decent amount of the [ ]",
-      "published": "2026-08-10T13:46:14+00:00",
-      "fetched": "2026-08-10T18:38:29.784400+00:00"
-    },
-    {
-      "id": "a5be687fe20b097b",
-      "title": "Watch a Band Perform the Sound Effects from Pink Floyd’s “Money,” Using a Money Counter, Torn Sheets of Paper & More",
-      "link": "https://www.openculture.com/2026/08/watch-a-band-perform-the-sound-effects-from-pink-floyds-money-using-a-money-counter-torn-sheets-of-paper-more.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "When Pink Floyd recorded “Money” in 1972, Roger Waters spliced into the opening moments the sounds of cash registers, tearing paper, and jingling coins. Half a century later, the German drummer Sina Doering and her band performed those sounds live, using a bowl of loose change, a toy register, a money counter, and a sheet [ ]",
-      "published": "2026-08-10T08:00:21+00:00",
-      "fetched": "2026-08-10T12:37:45.379900+00:00"
     }
   ]
 }

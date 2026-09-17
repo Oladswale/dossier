@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-17T01:57:13.243182+00:00",
+  "updated": "2026-09-17T10:31:09.300202+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ecd5c07643284178",
+      "title": "Landlords Are Offering Major Concessions in These Markets as Vacancies Rise",
+      "link": "https://www.realtor.com/news/trends/landlords-offer-concessions-vacancies-rise-rent-report-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Driven by rising vacancy rates, over 43% of rental listings in major U.S. markets now offer concessions like free rent to attract tenants.",
+      "published": "2026-09-17T09:00:00+00:00",
+      "fetched": "2026-09-17T10:31:09.299468+00:00"
+    },
+    {
+      "id": "e98d334995b80e36",
+      "title": "North Texas Is Building Homes Faster Than Fire Stations Can Follow",
+      "link": "https://www.realtor.com/news/trends/dfw-new-home-growth-fire-stations-north-texas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Dallas-Fort Worth new-construction listings rose 14.4% in 2025, forcing cities to ask: Build fire stations before the tax base arrives?",
+      "published": "2026-09-17T08:32:00+00:00",
+      "fetched": "2026-09-17T10:31:09.299506+00:00"
+    },
+    {
+      "id": "549c225c5739935d",
+      "title": "‘Million Dollar Listing’ Star Fredrik Eklund Rebuilt His Childhood Swedish Sauna on a Secret 9-Acre Connecticut Estate—and It’s Pure Magic",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/fredrik-eklund-million-dollar-listing-connecticut-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Eklund, 49, shows off the outdoor sauna at his Roxbury, CT, estate where he goes to feel centered and sentimental.",
+      "published": "2026-09-17T08:19:00+00:00",
+      "fetched": "2026-09-17T10:31:09.299542+00:00"
+    },
+    {
+      "id": "2c5b6b06876c7848",
+      "title": "Florida, Texas, and California Lead the Nation in Foreclosure Starts",
+      "link": "https://www.realtor.com/news/trends/florida-texas-california-foreclosure-data-august-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Foreclosure activity continued to grow in August, with 25,894 foreclosure starts last month.",
+      "published": "2026-09-17T04:01:00+00:00",
+      "fetched": "2026-09-17T10:31:09.299566+00:00"
+    },
     {
       "id": "5e8d3388254ae782",
       "title": "Inside Hoda Kotb’s Long Island Beach Retreat as She Throws Adorable Surprise Party for Beloved Former ‘Today’ Driver",
@@ -1462,46 +1502,6 @@
       "summary": "The housing market is sending mixed signals—or so it seems. Foreclosures are rising, yet many investors are pulling back. Cash buyers are retreating, competition is cooling in many markets, and [ ]",
       "published": "2026-09-08T11:00:02+00:00",
       "fetched": "2026-09-08T15:27:07.908036+00:00"
-    },
-    {
-      "id": "85943d7f052b523e",
-      "title": "Why Texas’ Property Tax System Can Favor the Rich Twice: ‘This Situation Shifts the Tax Burden’",
-      "link": "https://www.realtor.com/news/trends/texas-property-taxes-wealthy-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Texas property taxes already take a larger share of lower incomes. Gaps in high-end home valuations can make that imbalance worse.",
-      "published": "2026-09-08T09:00:00+00:00",
-      "fetched": "2026-09-08T10:09:27.190449+00:00"
-    },
-    {
-      "id": "1f8e05bf95934ba9",
-      "title": "Affordable Midwest Commuter Towns Dominate the Hottest Markets List in August",
-      "link": "https://www.realtor.com/news/trends/hottest-markets-list-affordability-midwest-towns-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As an affordable and commuter-friendly alternative to neighboring Chicago and Madison, Rockford has all the access with far less cost.",
-      "published": "2026-09-08T08:33:00+00:00",
-      "fetched": "2026-09-08T10:09:27.190489+00:00"
-    },
-    {
-      "id": "2b04f2a857a87450",
-      "title": "Data Centers Emerge as Midterms Flashpoint as Trump Declares ‘Let Data Reign’",
-      "link": "https://www.realtor.com/news/real-estate-news/data-centers-midterm-election-democrats-republicans-trump/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A broad national revolt against data center development as surged to the top of voters' minds this year, leaving Washington scrambling.",
-      "published": "2026-09-08T08:19:00+00:00",
-      "fetched": "2026-09-08T10:09:27.190522+00:00"
-    },
-    {
-      "id": "35c3c71cdca43abb",
-      "title": "Nearly 60% of the Great Wealth Transfer Is Concentrated in Just 10 States",
-      "link": "https://www.realtor.com/news/trends/great-wealth-transfer-by-state-inherited-wealth/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nearly 60% of projected wealth transfers are concentrated in 10 states, potentially reshaping who can afford to buy a home—and where.",
-      "published": "2026-09-08T08:13:00+00:00",
-      "fetched": "2026-09-08T10:09:27.190554+00:00"
     }
   ]
 }
