@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-17T15:43:56.833356+00:00",
+  "updated": "2026-09-17T20:37:38.805416+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "53257d8b57ebff15",
+      "title": "MIT School of Engineering faculty and staff receive awards in spring 2026",
+      "link": "https://news.mit.edu/2026/mit-engineering-faculty-staff-receive-awards-0917",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Faculty members and researchers were honored in recognition of their scholarship, service, and overall excellence.",
+      "published": "2026-09-17T20:20:00+00:00",
+      "fetched": "2026-09-17T20:37:37.438479+00:00"
+    },
+    {
+      "id": "1be4250c6ab194d9",
+      "title": "Understanding the world, from the Cold War to the age of AI",
+      "link": "https://news.mit.edu/2026/understanding-world-from-cold-war-to-age-of-ai-0917",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "For 75 years, the Center for International Studies has brought together social scientists, engineers, and practitioners to understand global change, shape public debate, and address generational challenges.",
+      "published": "2026-09-17T19:25:00+00:00",
+      "fetched": "2026-09-17T20:37:37.438518+00:00"
+    },
+    {
+      "id": "1973175fa6830184",
+      "title": "Lincoln Laboratory summer research interns take on national security challenges",
+      "link": "https://news.mit.edu/2026/lincoln-laboratory-summer-research-interns-tackle-national-security-challenges-0917",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Anna Raymaker and Vivek Jagadeesh tackled cybersecurity threats to ships and inside operating systems, respectively.",
+      "published": "2026-09-17T18:30:00+00:00",
+      "fetched": "2026-09-17T20:37:37.438544+00:00"
+    },
     {
       "id": "1a3ddf531579afda",
       "title": "How Reading Changes the Way Your Brain Works",
@@ -1472,36 +1502,6 @@
       "summary": "Among Beatles connoisseurs, it’s fair game to claim anything from Rubber Soul to Abbey Road as one’s favorite album. But even within that span of the catalog, a hierarchy of acclaim exists, and that hierarchy has been rearranged over the decades. The ecstatic reception of Sgt.",
       "published": "2026-08-11T14:50:26+00:00",
       "fetched": "2026-08-11T18:41:46.936802+00:00"
-    },
-    {
-      "id": "8685c4a09d1029f2",
-      "title": "226 Ansel Adams Photographs of Great American National Parks Are Now Online",
-      "link": "https://www.openculture.com/2026/08/ansel-adams-photographs-of-great-american-national-parks.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Like many American stories, the story of the National Parks begins with pillage, death, deep cultural misunderstanding, and venture capitalism. According to Ken Burns’ film series The National Parks: America’s Best Idea, we can date the idea back to 1851, with the “discovery” of Yosemite by a marauding armed battalion that entered the land “searching [ ]",
-      "published": "2026-08-11T08:00:13+00:00",
-      "fetched": "2026-08-11T12:35:04.431832+00:00"
-    },
-    {
-      "id": "4e4c487a55fb6c7e",
-      "title": "On the hunt for dark matter",
-      "link": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting for the universe’s most elusive particle.",
-      "published": "2026-08-11T04:00:00+00:00",
-      "fetched": "2026-08-11T06:42:06.843357+00:00"
-    },
-    {
-      "id": "a79f30d449ecb8ef",
-      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-      "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
-      "published": "2026-08-10T19:25:00+00:00",
-      "fetched": "2026-08-11T00:42:47.250534+00:00"
     }
   ]
 }
