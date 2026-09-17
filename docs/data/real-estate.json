@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-16T20:30:12.499328+00:00",
+  "updated": "2026-09-17T01:57:13.243182+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5e8d3388254ae782",
+      "title": "Inside Hoda Kotb’s Long Island Beach Retreat as She Throws Adorable Surprise Party for Beloved Former ‘Today’ Driver",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/hoda-kotb-long-island-home-surprise-party-today-show-driver/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 62-year-old, who owns a beachside property on Long Island, took to Instagram to share a touching video of the celebration.",
+      "published": "2026-09-16T22:42:16+00:00",
+      "fetched": "2026-09-17T01:57:13.242657+00:00"
+    },
+    {
+      "id": "e8762645c27314a0",
+      "title": "Where Do ‘The Secret Lives of Mormon Wives’ Stars Live? See Where They’re Headed in Light of Cast Shake-Up",
+      "link": "https://www.realtor.com/news/reality-tv/secret-lives-mormon-wives-cast-homes-utah/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Utah-based reality TV show has seen a major cast shake-up, with its stars making moves and seeking fresh starts.",
+      "published": "2026-09-16T21:58:07+00:00",
+      "fetched": "2026-09-17T01:57:13.242687+00:00"
+    },
+    {
+      "id": "85ff11b0d7ca94b3",
+      "title": "Dog Reunites With Firefighters Who Rescued Him From House Fire",
+      "link": "https://www.realtor.com/news/trends/dog-milo-firefighter-pasadena-house-fire/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Firefighters rescued Milo, a 6-year-old sheltie, after finding him unconscious in his owner's Pasadena, CA, home.",
+      "published": "2026-09-16T20:54:53+00:00",
+      "fetched": "2026-09-17T01:57:13.242708+00:00"
+    },
+    {
+      "id": "f6e1e5f760162cd8",
+      "title": "House To Vote on Bill Protecting Homeowners From AI Data Center Power Costs",
+      "link": "https://www.realtor.com/news/real-estate-news/house-vote-ratepayer-protection-act-data-center-energy-costs/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Lawmakers are set to vote on a new bill that would shield ratepayers from costs brought by large data centers.",
+      "published": "2026-09-16T20:31:08+00:00",
+      "fetched": "2026-09-17T01:57:13.242728+00:00"
+    },
     {
       "id": "447c34d75fe63510",
       "title": "Simone Biles Reveals Plans To Move to Indianapolis for Husband Jonathan Owens—Months After Moving Into Texas Dream Home",
@@ -1462,46 +1502,6 @@
       "summary": "Nearly 60% of projected wealth transfers are concentrated in 10 states, potentially reshaping who can afford to buy a home—and where.",
       "published": "2026-09-08T08:13:00+00:00",
       "fetched": "2026-09-08T10:09:27.190554+00:00"
-    },
-    {
-      "id": "89eb4fcc81ed743f",
-      "title": "Inside Durham’s Bullish Market: Why Luxury Buyers Are Quietly Flocking to Former Tobacco Capital of the World",
-      "link": "https://www.realtor.com/news/trends/luxury-buyers-flocking-durham-nc-former-tobacco-capital/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Affluent buyers are driving a luxury real estate boom in Durham, NC, fueling demand for upscale, walkable high-rise developments.",
-      "published": "2026-09-07T15:43:00+00:00",
-      "fetched": "2026-09-07T16:47:49.025750+00:00"
-    },
-    {
-      "id": "8fde1cbf13005cb6",
-      "title": "Mountaintop Farmhouse Retreat with Epic NYC Views Lists for $3.7 Million",
-      "link": "https://www.realtor.com/news/unique-homes/watchung-mountains-new-jersey-farmhouse-nyc-views/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Perched on 1.8 acres in the Watchung Mountains, NJ, the farmhouse has four bedrooms and views of the iconic NYC skyline.",
-      "published": "2026-09-07T15:06:00+00:00",
-      "fetched": "2026-09-07T16:47:49.025786+00:00"
-    },
-    {
-      "id": "149012659e3eb09d",
-      "title": "First Town Ever Sold on eBay Is Heading Back to the Market",
-      "link": "https://www.realtor.com/news/unique-homes/first-town-sold-on-ebay-bridgeville-california-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The town was purchased nearly 20 years ago with plans to develop an off-grid community. The current owners wish to see the vision through.",
-      "published": "2026-09-07T14:21:00+00:00",
-      "fetched": "2026-09-07T16:47:49.025816+00:00"
-    },
-    {
-      "id": "cfebcbeaa86a27ad",
-      "title": "Celebrity Home Break-Ins Spark Security Fears—as Expert Warns Overexposed Luxury Listings Could Turn Off Buyers",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrity-home-break-ins-security-risks-luxury-real-estate-sales/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Celebrity home break-ins are raising security concerns as an expert reveals the risks facing high-profile properties.",
-      "published": "2026-09-07T12:32:00+00:00",
-      "fetched": "2026-09-07T16:47:49.025847+00:00"
     }
   ]
 }

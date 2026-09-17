@@ -1,8 +1,198 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-16T20:30:09.916174+00:00",
+  "updated": "2026-09-17T01:57:10.839740+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5e4a787299bda664",
+      "title": "Benjamin Netanyahu Calls to ‘Revoke the Citizenship’ of ‘Anyone Who Slanders IDF Soldiers’ Following ‘NAZA’ Documentary Premiere",
+      "link": "https://variety.com/2026/film/news/benjamin-netanyahu-naza-1236864975/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Following the premiere of “NAZA” at the Venice Film Festival earlier this month, Israel’s Prime Minister Benjamin Netanyahu is calling for the introduction of a law that would “revoke the citizenship of anyone who slanders IDF [Israeli Defense Forces] soldiers.” “We will hit them in their pockets and also in their citizenship, because their place [ ]",
+      "published": "2026-09-17T01:38:19+00:00",
+      "fetched": "2026-09-17T01:57:10.523462+00:00"
+    },
+    {
+      "id": "07f1ea59176c8428",
+      "title": "Peter Max, Psychedelic Pop Art Icon of the 1960s, Dead at 88",
+      "link": "https://www.rollingstone.com/culture/culture-news/peter-max-psychedelic-pop-artist-dead-obituary-1235628135/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The New York-based artist was known for his euphoric, color-saturated posters and portraits",
+      "published": "2026-09-17T01:09:35+00:00",
+      "fetched": "2026-09-17T01:57:10.646492+00:00"
+    },
+    {
+      "id": "0ce3100761ce8f90",
+      "title": "Watch Chris Stapleton Reunite Tom Petty’s Heartbreakers to Open 2026 Americana Honors",
+      "link": "https://www.rollingstone.com/music/music-country/tom-petty-heartbreakers-reunite-chris-stapleton-americana-1235627674/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The reunion, punctuated by classics like \"American Girl,\" marked the band's first time together onstage since Petty's death in 2017",
+      "published": "2026-09-17T00:38:32+00:00",
+      "fetched": "2026-09-17T01:57:10.646525+00:00"
+    },
+    {
+      "id": "dfc23cb669fb1e7d",
+      "title": "Flamingo Estate’s Richard Christiansen on Pamela Anderson’s Pickles, Julianne Moore’s Honey and the Dolly Parton Coffee That ‘Got Away’",
+      "link": "https://variety.com/2026/scene/news/flamingo-estates-richard-christiansen-pamela-anderson-pickles-julianne-moore-honey-dolly-parton-coffee-1236861665/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Richard Christiansen was working in the offices at Flamingo Estate, his farm and lifestyle brand in the Highland Park neighborhood of Los Angeles, when Pamela Anderson’s son, Brandon Lee, called him to ask if he’d be interested in collaborating with his mother. “He said, ‘Would you like to do something with my mom? She’s a [ ]",
+      "published": "2026-09-16T23:55:35+00:00",
+      "fetched": "2026-09-17T01:57:10.523510+00:00"
+    },
+    {
+      "id": "44bce23c30a735dd",
+      "title": "Ed Sheeran Backlash Explodes as Ms. Rachel, Hannah Einbinder and More Slam Singer After Macklemore Dropped From Tour: ‘Silence During a Genocide Is Not Neutral’",
+      "link": "https://variety.com/2026/music/news/ed-sheeran-backlash-celebrities-macklemore-palestine-1236864829/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Voices across Hollywood and Washington are speaking out after Macklemore was dropped from Ed Sheeran’s Loop Tour for making pro-Palestine comments on stage. “Hacks” star Hannah Einbinder, one of TV s most politically outspoken stars, wrote on her Instagram stories on Tuesday, “Ed Sheeran i say this as a ginger. i hope you get a REALLY [ ]",
+      "published": "2026-09-16T23:54:33+00:00",
+      "fetched": "2026-09-17T01:57:10.523553+00:00"
+    },
+    {
+      "id": "9ca83d8d172c001b",
+      "title": "Jessica Chastain to Star in New Netflix Drama Series ‘The Retrievals’",
+      "link": "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jessica Chastain has joined Netflix’s “The Retrievals,” a new drama series from the streamer. The Oscar-winning actor will star as Kaitlyn Langford, a former art historian who has “spent the last decade stuck in an endless cycle of failed fertility treatments,” per Netflix. “When she learns she s also a victim of criminal drug diversion at [ ]",
+      "published": "2026-09-16T23:30:06+00:00",
+      "fetched": "2026-09-17T01:57:10.523591+00:00"
+    },
+    {
+      "id": "9179a4f03e612ffc",
+      "title": "Paramount May Be Bluffing About Leaving California, But L.A. Mayor Taking It Seriously",
+      "link": "https://variety.com/2026/film/news/paramount-karen-bass-leaving-california-1236864828/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Paramount has been threatening to leave California since July, when the state sued to block it from merging with Warner Bros. Discovery. Attorney General Rob Bonta has called it blackmail meant to stop him from enforcing antitrust law.",
+      "published": "2026-09-16T23:17:35+00:00",
+      "fetched": "2026-09-17T01:57:10.523659+00:00"
+    },
+    {
+      "id": "fd3f80b3ad3e9afc",
+      "title": "Robert Kraft Responds to Macklemore’s Invite to Match $1 Million to Palestinian Support Groups",
+      "link": "https://www.rollingstone.com/music/music-news/robert-kraft-responds-macklemore-1-million-donation-match-1235628081/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rapper claimed that the Patriots billionaire led a pressure campaign to have him nixed from Ed Sheeran's tour following comments supporting Palestinians onstage",
+      "published": "2026-09-16T23:05:00+00:00",
+      "fetched": "2026-09-17T01:57:10.646551+00:00"
+    },
+    {
+      "id": "a36727e4c48595cb",
+      "title": "Celebrity Wedding Planner Mindy Weiss Says “I Do” to New Ring Pop Candy Collaboration",
+      "link": "https://variety.com/2026/shopping/news/ring-pop-mindy-weiss-wedding-candy-collection-buy-online-1236864674/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "If there s one thing celebrity wedding planner Mindy Weiss knows, it s how to create a moment. Now, the woman behind the recent wedding of Selena Gomez and Benny Blanco, plus weddings and parties for Finneas, Justin Bieber and The Kardashians is putting her touch on Ring Pop, the popular candy brand known for its colorful [ ]",
+      "published": "2026-09-16T23:00:41+00:00",
+      "fetched": "2026-09-17T01:57:10.523694+00:00"
+    },
+    {
+      "id": "5498a8dfbb655258",
+      "title": "‘Neagley’ Cast Guide: Meet All the Characters From Prime Video’s New ‘Reacher’ Spinoff",
+      "link": "https://variety.com/lists/neagley-cast-guide-prime-videos-reacher-spinoff/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The series premiere of Neagley drops on Prime Video on Sept. 16, and with it comes a new batch of butt-kicking characters to the Reacher universe. Maria Sten returns as Frances Neagley, the Chicago private investigator and former military protégé of Jack Reacher.",
+      "published": "2026-09-16T23:00:00+00:00",
+      "fetched": "2026-09-17T01:57:10.523735+00:00"
+    },
+    {
+      "id": "5458cd9486159347",
+      "title": "The AI Race, the Search for Sticky Content and Building Fan Communities on the Agenda at Variety’s Entertainment and Technology Summit",
+      "link": "https://variety.com/2026/digital/news/variety-entertainment-technology-summit-ai-fan-communities-1236864766/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Is the stock market in the grip of an AI bubble? Will consumer spending collapse under the weight of inflation fueled by rising energy prices? Can Disney, Netflix and other entertainment giants build out their streaming platforms beyond video to boost profits and margins?",
+      "published": "2026-09-16T23:00:00+00:00",
+      "fetched": "2026-09-17T01:57:10.523775+00:00"
+    },
+    {
+      "id": "4084df61d81f52ee",
+      "title": "‘Charlie’s Angels’ Star Jaclyn Smith on the Emmys Reunion, ‘Snobbism’ Against the Series and Why the Latest Movie Reboot ‘Didn’t Work’",
+      "link": "https://variety.com/2026/tv/columns/jaclyn-smith-charlies-angels-emmys-reunion-failed-movie-reboot-1236864817/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Television Academy may have celebrated the 50th anniversary of “Charlie’s Angels” at the Emmys on Monday night with an onstage reunion of the show’s stars Jaclyn Smith, Kate Jackson and Cheryl Ladd, but the TV organization wasn’t as generous to the Aaron Spelling series when it originally aired in the 70s. “Charlie’s Angels” received [ ]",
+      "published": "2026-09-16T22:50:00+00:00",
+      "fetched": "2026-09-17T01:57:10.523813+00:00"
+    },
+    {
+      "id": "ae1f3bb659332d0b",
+      "title": "Cher’s Son, Elijah Blue Allman, Indicted on Felony Criminal Mischief Charge in New Hampshire",
+      "link": "https://www.rollingstone.com/music/music-news/cher-elijah-blue-allman-indicted-felony-criminal-mischief-1235627990/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The son of the superstar singer and the late musician Gregg Allman is currently living in a locked psychiatric hospital on the East coast as his mother claims he is \"gravely disabled\"",
+      "published": "2026-09-16T22:31:19+00:00",
+      "fetched": "2026-09-17T01:57:10.646577+00:00"
+    },
+    {
+      "id": "ef2dc258c7dd4d64",
+      "title": "Robert Kraft Says Ed Sheeran Is Donating $2 Million to ‘Fight This Humanitarian Crisis’ in Gaza, and Kraft Is Matching Him: ‘All Lives Are Worth Protecting’",
+      "link": "https://variety.com/2026/music/news/robert-kraft-ed-sheeran-donating-4-million-humanitarian-crisis-1236864850/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In the latest chapter of the ongoing Ed Sheeran-Macklemore-Robert Kraft situation, Sheeran and Kraft have apparently seen and raised Macklemore’s $1 million donation to Palestinian relief by donating $2 million each — although it’s unclear exactly to whom. In a statement released on the Gilette Stadium X account, Kraft said, “Ed called me and asked [ ]",
+      "published": "2026-09-16T22:23:56+00:00",
+      "fetched": "2026-09-17T01:57:10.523852+00:00"
+    },
+    {
+      "id": "9f0aac6ce81c0c1d",
+      "title": "Macklemore to Donate $1 Million to Palestinian Support Groups, Invites Robert Kraft to Match",
+      "link": "https://www.rollingstone.com/music/music-news/macklemore-palestine-donation-ed-sheeran-tour-1235628025/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rapper revealed the donation after the billionaire Patriots owner allegedly led a pressure campaign to force him off Ed Sheeran's tour",
+      "published": "2026-09-16T21:59:05+00:00",
+      "fetched": "2026-09-17T01:57:10.646614+00:00"
+    },
+    {
+      "id": "5bee470541e6ac7d",
+      "title": "Samsung Just Released the Best All-Around Smartwatch for Android Users",
+      "link": "https://www.rollingstone.com/product-recommendations/tech/samsung-galaxy-watch-ultra2-review-features-highlights-1235627744/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Combining the best of a lifestyle smartwatch and a dedicated fitness watch, the Galaxy Watch Ultra2 is up for just about any adventure",
+      "published": "2026-09-16T21:31:00+00:00",
+      "fetched": "2026-09-17T01:57:10.646635+00:00"
+    },
+    {
+      "id": "73b84b260da81b89",
+      "title": "Trump Is Now Using Taxpayer Money to Finance His War on the Smithsonian",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-signs-smithsonian-political-bias-1235627897/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The administration is planning to spend $84,000 to put up signs warning visitors that the venerated museum has gone woke",
+      "published": "2026-09-16T20:52:17+00:00",
+      "fetched": "2026-09-17T01:57:10.646655+00:00"
+    },
+    {
+      "id": "210049971143a909",
+      "title": "Merriam-Webster Adds ‘Looksmaxxing,’ ‘Cuffing Season,’ ‘Vibe Coding’ to Dictionary",
+      "link": "https://www.rollingstone.com/culture/culture-news/merriam-webster-new-words-dictionary-looksmaxxing-1235627893/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Company’s editorial team called the new words a “glow-up” to the dictionary’s historic lexicon",
+      "published": "2026-09-16T20:40:30+00:00",
+      "fetched": "2026-09-17T01:57:10.646677+00:00"
+    },
+    {
+      "id": "a655e8bf9195fcc6",
+      "title": "Repression of Free Speech Is Never the Way",
+      "link": "https://www.rollingstone.com/music/music-features/macklemore-ed-sheeran-robert-kraft-free-speech-op-ed-1235627901/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Billionaire NFL owners should not ban artists whose views they disagree with",
+      "published": "2026-09-16T20:33:45+00:00",
+      "fetched": "2026-09-17T01:57:10.646693+00:00"
+    },
     {
       "id": "c00b6e4e758477f1",
       "title": "Macklemore Donating $1 Million Salary from Ed Sheeran Tour to Support Palestine: ‘I Invite Robert Kraft to Match My Donation’",
@@ -1312,196 +1502,6 @@
       "summary": "\"Well, if [Taylor's] not there, I'm not watching,\" Ice-T says in the bit",
       "published": "2026-09-15T01:34:57+00:00",
       "fetched": "2026-09-15T02:01:58.839416+00:00"
-    },
-    {
-      "id": "089ed3d6a5ce24bb",
-      "title": "Perez Hilton Enters Residential Treatment Program, Family Addresses ‘False Reports’ About His Condition",
-      "link": "https://www.rollingstone.com/culture/culture-news/perez-hilton-enters-residential-treatment-program-1235626566/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Hilton's family said that they expect him to remain in treatment for several weeks",
-      "published": "2026-09-15T01:33:03+00:00",
-      "fetched": "2026-09-15T02:01:58.839435+00:00"
-    },
-    {
-      "id": "ebae5893b1a4ed27",
-      "title": "Sally Field Becomes Oldest Emmy Winner in Her Category and Shades Paramount-Warner Bros. Merger: ‘Our Voices Matter’",
-      "link": "https://variety.com/2026/tv/news/sally-field-wins-emmy-lead-actress-tv-movie-1236858911/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sally Field won the Emmy for lead actress in a limited or anthology series or TV movie on Sunday, recognizing her portrayal of Tova Sullivan in the Netflix film Remarkably Bright Creatures. At 79, she is the oldest actress to win in this category, edging out Jessica Tandy ( Foxfire in 1987) by months. This is [ ]",
-      "published": "2026-09-15T01:22:23+00:00",
-      "fetched": "2026-09-15T02:01:58.575815+00:00"
-    },
-    {
-      "id": "7d04d4d5ed45a68d",
-      "title": "Matthew Rhys Makes Emmy History as First Person to Win Two Lead Acting Emmys in One Night and First Man to Win All Three Top Acting Prizes",
-      "link": "https://variety.com/2026/tv/awards/matthew-rhys-emmy-history-two-lead-acting-wins-1236858123/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Matthew Rhys did something no actor had done in 78 years of the Emmy Awards. Rhys won two lead acting Emmys on the same night at Monday s ceremony. Earlier in the night he shockingly took home the lead actor (limited) for his work in Netflix s The Beast in Me.",
-      "published": "2026-09-15T01:17:17+00:00",
-      "fetched": "2026-09-15T02:01:58.575849+00:00"
-    },
-    {
-      "id": "7e917affc9fac01b",
-      "title": "Taylor Swift Surprises Emmys in ‘SVU’ Parody but Skips Show to Attend Chiefs Game With Tom Cruise",
-      "link": "https://variety.com/2026/music/news/taylor-swift-emmys-svu-parody-chiefs-game-tom-cruise-1236861124/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Taylor Swift and Travis Kelce’s love story is still blooming, even after their wedding. The music superstar appeared at Kelce’s first game of the season, where he laced up to play tight end for another season for the Kansas City Chiefs on Sept. 14.",
-      "published": "2026-09-15T01:16:18+00:00",
-      "fetched": "2026-09-15T02:01:58.575885+00:00"
-    },
-    {
-      "id": "02e1c95f7e22d461",
-      "title": "Tom Pelphrey Wins Supporting Emmy for ‘Task,’ Shouts Out ‘Very Pregnant’ Fiancée Kaley Cuoco: ‘Our Family Is the Crown Jewel of My Life’",
-      "link": "https://variety.com/2026/tv/news/tom-pelphrey-wins-emmy-task-pregnant-fiancee-kaley-cuoco-1236856127/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tom Pelphrey has won his first Emmy. The actor, who played Robbie Prendergrast on Task Season 1, took home the gold for best supporting actor in a drama series. In an impassioned speech, Pelphrey said, I thank god for my life and my sobriety.",
-      "published": "2026-09-15T01:14:37+00:00",
-      "fetched": "2026-09-15T02:01:58.575947+00:00"
-    },
-    {
-      "id": "9d8b435eba55ae1e",
-      "title": "Noah Wyle Wins Second Lead Actor Emmy for ‘The Pitt’: ‘This Is All I’ve Ever Wanted to Do’",
-      "link": "https://variety.com/2026/tv/news/noah-wyle-wins-emmy-lead-actor-in-a-drama-1236856072/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dr. Robby has done it again. Noah Wyle took home the Emmy for best actor in a drama series for The Pitt Season 2.",
-      "published": "2026-09-15T01:01:59+00:00",
-      "fetched": "2026-09-15T02:01:58.575984+00:00"
-    },
-    {
-      "id": "992e00363567be21",
-      "title": "Fifty Fifty’s ‘After-School Exorcism Club,’ The Boyz’s ‘Wi-Fi Love in the Palace’ and NCT’s ‘Wind Up: The Movie’ Score New Asia Sales for Finecut",
-      "link": "https://variety.com/2026/film/news/fifty-fifty-the-boyz-nct-new-asia-deals-finecut-1236860960/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "South Korean sales company Finecut has landed new territorial deals for two K-pop idol-fronted theatrical titles, After-School Exorcism Club: Girls Night and Wi-Fi Love in the Palace, while also adding fresh markets for the previously sold Wind Up: The Movie. After-School Exorcism Club: Girls Night has gone to Indonesia (Catchplay+), Singapore (Shaw Organisation) and Taiwan [ ]",
-      "published": "2026-09-15T01:00:00+00:00",
-      "fetched": "2026-09-15T02:01:58.576021+00:00"
-    },
-    {
-      "id": "2049353a95368a3e",
-      "title": "Mariska Hargitay’s Emmys Monologue Gets a Necessary Assist From Nicole Kidman",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/mariska-hargitay-emmys-opening-monologue-1235625269/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "It's the first time the Law Order: SVU star has helmed an awards show",
-      "published": "2026-09-15T00:29:53+00:00",
-      "fetched": "2026-09-15T02:01:58.839455+00:00"
-    },
-    {
-      "id": "fff289aa98c09888",
-      "title": "Parke’s Fall Collection Gives Fans Who Missed Viral Collegiate Drop a Second Chance to Score a Sweatshirt",
-      "link": "https://www.rollingstone.com/product-recommendations/style/parke-fall-collection-sept-2026-colors-buy-sweatshirt-online-1235626498/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Mark your calendar for Sept. 15, when Parke drops new varsity mocknecks, striped separates, and fall-ready shades from matcha to mulled wine",
-      "published": "2026-09-14T23:47:55+00:00",
-      "fetched": "2026-09-15T02:01:58.839478+00:00"
-    },
-    {
-      "id": "693d3bd1938c335b",
-      "title": "Emmy Awards 2026: See the Complete Winners List",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/2026-emmy-awards-winners-1235625913/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Television Academy handed out trophies at the 2026 Emmy Awards on Monday night",
-      "published": "2026-09-14T23:30:11+00:00",
-      "fetched": "2026-09-15T02:01:58.839494+00:00"
-    },
-    {
-      "id": "4d6325f312b20fd9",
-      "title": "Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records",
-      "link": "https://variety.com/lists/2026-emmys-predictions/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
-      "published": "2026-09-14T20:55:00+00:00",
-      "fetched": "2026-09-14T21:05:26.237593+00:00"
-    },
-    {
-      "id": "949f53b318b7b3a7",
-      "title": "Henry Winkler Refused to Let ABC Change ‘Happy Days’ Title to ‘Fonzie’s Happy Days’ Because ‘It Would Be a Slap in the Face’ to Co-Stars",
-      "link": "https://variety.com/2026/tv/news/henry-winkler-refused-happy-days-title-change-1236861512/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Henry Winkler opened up on the latest episode of In Depth With Graham Bensinger about refusing to let ABC executives change the name of Happy Days to Fonzie’s Happy Days due to the explosive popularity of his character. Winkler starred as Arthur Fonzie Fonzarelli on all 11 seasons and 255 episodes of the iconic ABC [ ]",
-      "published": "2026-09-14T20:51:21+00:00",
-      "fetched": "2026-09-14T21:05:26.237663+00:00"
-    },
-    {
-      "id": "3b6f71e94f134724",
-      "title": "MoreThan Films Acquires Serville Poblete’s Buzzy Toronto Hangout Comedy ‘Sunburn’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/morethan-films-serville-poblete-sunburn-toronto-1236861624/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "International sales agency MoreThan Films has acquired the rights to “Sunburn,” by award-winning director Serville Poblete, ahead of its world premiere as part of the Centrepiece strand of the Toronto International Film Festival. The agency will handle international sales, with Julien Levesque from Gersh handling domestic sales in Canada. “Sunburn” is set in St.",
-      "published": "2026-09-14T20:49:19+00:00",
-      "fetched": "2026-09-14T21:05:26.237743+00:00"
-    },
-    {
-      "id": "893217c9a1915508",
-      "title": "Robert Kraft Defends Banning Macklemore From Ed Sheeran Tour After ‘Free Palestine’ Comments: ‘We Do Not Provide a Platform for Hate Speech’",
-      "link": "https://variety.com/2026/music/news/robert-kraft-macklemore-ed-sheeran-tour-palestine-1236861621/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "New England Patriots owner Robert Kraft has issued a statement defending his decision to create what amounts to a ban on rapper Macklemore performing in support of Ed Sheeran at a number of stadiums following the rapper’s comments regarding Palestine, which took place at concerts in New Jersey on Sept. 4 and 5. In his [ ]",
-      "published": "2026-09-14T20:25:17+00:00",
-      "fetched": "2026-09-14T21:05:26.237802+00:00"
-    },
-    {
-      "id": "caf6f30191087fc3",
-      "title": "Robert Kraft Confirms He Barred Macklemore From Ed Sheeran Boston Shows",
-      "link": "https://www.rollingstone.com/music/music-news/macklemore-dropped-ed-sheeran-tour-robert-kraft-statement-1235626352/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Billionaire Patriots owner said he is committed to “ensuring that all events held at our venue do not provide a platform for hate speech.”",
-      "published": "2026-09-14T20:21:57+00:00",
-      "fetched": "2026-09-14T21:05:26.463492+00:00"
-    },
-    {
-      "id": "8fcf8a348dcb2378",
-      "title": "Josh Giuliano’s TIFF Slasher ‘River’ Selling to Universal and Blumhouse Atomic Monster for North of $10 Million",
-      "link": "https://variety.com/2026/film/news/josh-giuliano-river-universal-blumhouse-atomic-monster-1236861599/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In the first major deal of the Toronto Film Festival, Joshua Giuliano’s slasher film “River” is in talks to be acquired by Universal Pictures and Blumhouse Atomic Monster, Variety has confirmed. Giuliano’s film was originally backed by Independent Film Company and Shudder, but the companies are now closing a deal to sell distribution rights to [ ]",
-      "published": "2026-09-14T20:20:17+00:00",
-      "fetched": "2026-09-14T21:05:26.237856+00:00"
-    },
-    {
-      "id": "6dc0ad25df207841",
-      "title": "How to Watch Tonight’s Chiefs vs. Broncos Monday Night Football Game Online",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-chiefs-vs-broncos-mnf-game-online-free-2026-1235626374/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Cut the cord on cable? Here’s how to livestream the Chiefs vs. Broncos game tonight —including two ways to watch it for free",
-      "published": "2026-09-14T20:15:39+00:00",
-      "fetched": "2026-09-14T21:05:26.463535+00:00"
-    },
-    {
-      "id": "71307be1d61d549c",
-      "title": "How British Comedy Show ‘Mock the Week’ Found New Life on TLC After BBC Cancellation: ‘Absence Makes the Heart Grow Fonder’",
-      "link": "https://variety.com/2026/tv/global/mock-the-week-new-life-tlc-bbc-cancellation-1236861160/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "When long-running BBC comedy show “Mock the Week” returned to television screens after a three-year hiatus this past spring, fans may have noticed some changes: not only was the show longer and “looser” but it was also airing on TLC, the Warner Bros. Discovery-owned network. “It was also a surprise for me that it was [ ]",
-      "published": "2026-09-14T20:10:33+00:00",
-      "fetched": "2026-09-14T21:05:26.237909+00:00"
-    },
-    {
-      "id": "de3714cd4017aa47",
-      "title": "TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery",
-      "link": "https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don’t We singer amid a child-custody dispute",
-      "published": "2026-09-14T19:40:43+00:00",
-      "fetched": "2026-09-14T21:05:26.463572+00:00"
     }
   ]
 }

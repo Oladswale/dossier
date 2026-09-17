@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-16T20:30:11.808201+00:00",
+  "updated": "2026-09-17T01:57:12.524811+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "30a983f4f5fd0628",
+      "title": "Faces of MIT: Jay Wilcoxson",
+      "link": "https://news.mit.edu/2026/faces-of-mit-jay-wilcoxson-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Combining a background in private law practice with a passion for problem-solving, Wilcoxson supports MIT's mission and principles through his work as counsel.",
+      "published": "2026-09-16T20:55:00+00:00",
+      "fetched": "2026-09-17T01:57:11.123775+00:00"
+    },
+    {
+      "id": "6752f0f229e8b893",
+      "title": "“Technology is the equalizer”",
+      "link": "https://news.mit.edu/2026/technology-is-the-equalizer-0916",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Using knowledge gained from MIT’s free learning materials, an educator in rural India builds apps to reach students who can’t make it to school.",
+      "published": "2026-09-16T20:40:00+00:00",
+      "fetched": "2026-09-17T01:57:11.123810+00:00"
+    },
     {
       "id": "4916aeaf1def5d0b",
       "title": "New artist residency program at MIT expands views of the cosmos",
@@ -1482,26 +1502,6 @@
       "summary": "When Pink Floyd recorded “Money” in 1972, Roger Waters spliced into the opening moments the sounds of cash registers, tearing paper, and jingling coins. Half a century later, the German drummer Sina Doering and her band performed those sounds live, using a bowl of loose change, a toy register, a money counter, and a sheet [ ]",
       "published": "2026-08-10T08:00:21+00:00",
       "fetched": "2026-08-10T12:37:45.379900+00:00"
-    },
-    {
-      "id": "b077d3876cd68789",
-      "title": "MIT researchers tackle the economic realities of fusion power",
-      "link": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Their new study aims to give budding industry a framework for understanding how fusion can be profitable.",
-      "published": "2026-08-10T04:00:00+00:00",
-      "fetched": "2026-08-10T07:02:44.068187+00:00"
-    },
-    {
-      "id": "e64c12368d35b355",
-      "title": "The History of Glam Rock and How It Put an End to the Hippie Era",
-      "link": "https://www.openculture.com/2026/08/the-history-of-glam-rock-how-it-put-an-end-to-the-hippie-era.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Cast your mind back to the distant year 2021 and recall, if you will, its music, its fashions, the obsessions of its youth. This probably won’t be a difficult task, since in most respects — the dampening effects of the pandemic notwithstanding — none of those aspects of popular culture seem any different today. Yet [ ]",
-      "published": "2026-08-07T16:16:48+00:00",
-      "fetched": "2026-08-07T18:35:22.744496+00:00"
     }
   ]
 }

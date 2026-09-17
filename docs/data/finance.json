@@ -1,8 +1,68 @@
 {
   "category": "finance",
-  "updated": "2026-09-16T20:29:54.970444+00:00",
+  "updated": "2026-09-17T01:56:58.169379+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f56a541645008888",
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+      "published": "2026-09-16T22:25:00+00:00",
+      "fetched": "2026-09-17T01:56:56.088646+00:00"
+    },
+    {
+      "id": "1b20ce35c4c5be7a",
+      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+      "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "First deliveries of Generac’s backup power generators are worth $2.4 billion.",
+      "published": "2026-09-16T21:56:00+00:00",
+      "fetched": "2026-09-17T01:56:56.088695+00:00"
+    },
+    {
+      "id": "912907b9d80cb68e",
+      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Fed Chair Kevin Warsh has sent investors a message: When it comes to tamping down inflation, he means business.",
+      "published": "2026-09-16T21:40:00+00:00",
+      "fetched": "2026-09-17T01:56:56.088720+00:00"
+    },
+    {
+      "id": "7204a02660955065",
+      "title": "Here are five key takeaways from Wednesday's Fed rate hike",
+      "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
+      "published": "2026-09-16T21:23:51+00:00",
+      "fetched": "2026-09-17T01:56:56.259945+00:00"
+    },
+    {
+      "id": "6ff3993695559638",
+      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.",
+      "published": "2026-09-16T20:52:00+00:00",
+      "fetched": "2026-09-17T01:56:56.088744+00:00"
+    },
+    {
+      "id": "b22e00d4dec69d7a",
+      "title": "Here’s a sneaky way to play the Fed’s rate increase",
+      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "But watch out for the pitfalls.",
+      "published": "2026-09-16T20:38:00+00:00",
+      "fetched": "2026-09-17T01:56:56.088759+00:00"
+    },
     {
       "id": "08f8fdd5070b546d",
       "title": "Sterling, AIICO, Fidelity lead volume as NGX gains N315 billion",
@@ -1442,66 +1502,6 @@
       "summary": "Royal Exchange Plc has clarified that it has no ownership or control over Royal Exchange Prudential Life Plc (REPRU), following the revocation of the insurer’s operating licence by the National Insurance Commission (NAICOM). The post Royal Exchange clarifies relationship with REPRU, denies ownership claims appeared first on Nairametrics .",
       "published": "2026-09-15T05:19:29+00:00",
       "fetched": "2026-09-15T10:32:39.558038+00:00"
-    },
-    {
-      "id": "2b4181a320fd9b87",
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
-      "published": "2026-09-14T23:19:00+00:00",
-      "fetched": "2026-09-15T02:01:42.136257+00:00"
-    },
-    {
-      "id": "6216e0819a84f847",
-      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
-      "published": "2026-09-14T21:57:00+00:00",
-      "fetched": "2026-09-15T02:01:42.136295+00:00"
-    },
-    {
-      "id": "548e819aee9f66c6",
-      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Oil buyers are paying much more to get a barrel of crude oil immediately as the Iran conflict threatens global supplies.",
-      "published": "2026-09-14T21:31:00+00:00",
-      "fetched": "2026-09-15T02:01:42.136318+00:00"
-    },
-    {
-      "id": "91c85b12356e49a2",
-      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears.",
-      "published": "2026-09-14T21:11:00+00:00",
-      "fetched": "2026-09-15T02:01:42.136336+00:00"
-    },
-    {
-      "id": "9ff5e41ee2b20946",
-      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
-      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A slowdown in the pace of AI development wouldn’t necessary dent spending, but there are other reasons semiconductor investors may want to take a measured approach.",
-      "published": "2026-09-14T21:11:00+00:00",
-      "fetched": "2026-09-15T02:01:42.136362+00:00"
-    },
-    {
-      "id": "921fb5d42574cd8a",
-      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
-      "published": "2026-09-14T21:00:00+00:00",
-      "fetched": "2026-09-14T21:05:09.446232+00:00"
     }
   ]
 }
