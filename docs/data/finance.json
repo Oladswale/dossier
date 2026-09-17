@@ -1,8 +1,178 @@
 {
   "category": "finance",
-  "updated": "2026-09-17T10:30:51.716925+00:00",
+  "updated": "2026-09-17T15:43:39.264208+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "233f225d3954fdfd",
+      "title": "Nigeria’s data localisation deadline is testing its financial infrastructure",
+      "link": "https://techcabal.com/2026/09/17/nigeria-wants-to-bring-payment-data-home/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Localisation is fundamentally an engineering and governance hurdle rather than a simple real-estate mandate for servers.",
+      "published": "2026-09-17T15:39:36+00:00",
+      "fetched": "2026-09-17T15:43:39.264001+00:00"
+    },
+    {
+      "id": "0043dd8bb8667495",
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
+      "published": "2026-09-17T15:24:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789190+00:00"
+    },
+    {
+      "id": "96eb494e3f5db473",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
+      "published": "2026-09-17T15:22:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789221+00:00"
+    },
+    {
+      "id": "c3754445f1354003",
+      "title": "More Americans are about to get scammed by the coming peptide rush",
+      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Patients will order these cheaper, unproven products via an 800-number or the internet, skipping appointments with real doctors who can provide accurate diagnoses and proven treatments.",
+      "published": "2026-09-17T15:20:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789245+00:00"
+    },
+    {
+      "id": "4eec26f306455a86",
+      "title": "Flam raises $40 million Sseries B to scale AI interactive content",
+      "link": "https://nairametrics.com/2026/09/17/flam-raises-40-million-sseries-b-to-scale-ai-interactive-content/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Flam, an AI interactive content company, has raised $40 million in Series B funding led by QED Investors. Claypond Capital, Martin Chavez, Olivier Pomel, Venky Harinarayan, and Shah Rukh Khan joined the round, with existing investors RTP Global and Dovetail doubling down.Flam has signed more than 100 enterprise customers in six quarters, including Google, Emirates, [ ] The post Flam raises $40 million Sseries B to scale AI interactive content appeared first on Nairametrics .",
+      "published": "2026-09-17T15:05:40+00:00",
+      "fetched": "2026-09-17T15:43:37.825335+00:00"
+    },
+    {
+      "id": "89722c0acad164d5",
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
+      "published": "2026-09-17T14:30:25+00:00",
+      "fetched": "2026-09-17T15:43:37.368078+00:00"
+    },
+    {
+      "id": "91089bb7d85db263",
+      "title": "Nigeria’s gas flaring hits 7.48% in August, highest since October 2025",
+      "link": "https://nairametrics.com/2026/09/17/nigerias-gas-flaring-hits-7-48-in-august-highest-since-october-2025/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s gas flaring rate climbed to 7.48% in August 2026, the highest level recorded since October 2025, as the volume of gas flared rose to 18,350.55 million standard cubic feet (MMSCF). The post Nigeria’s gas flaring hits 7.48% in August, highest since October 2025 appeared first on Nairametrics .",
+      "published": "2026-09-17T14:08:27+00:00",
+      "fetched": "2026-09-17T15:43:37.825381+00:00"
+    },
+    {
+      "id": "e66ea3ab7051444e",
+      "title": "The smartest money moves to make now that interest rates are going up",
+      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Fed’s quarter-point interest-rate hike will ‘bite’ consumers. Here’s how to prep your money.",
+      "published": "2026-09-17T14:04:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789281+00:00"
+    },
+    {
+      "id": "0cc657a2f7f1a7f2",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
+      "published": "2026-09-17T13:48:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789306+00:00"
+    },
+    {
+      "id": "b88ff06e00efac89",
+      "title": "Seplat Energy shares hit record N14,907 as oil market disruption boosts energy stocks",
+      "link": "https://nairametrics.com/2026/09/17/seplat-energy-shares-hit-record-n14907-as-oil-market-disruption-boosts-energy-stocks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Seplat Energy Plc shares have climbed to a new record level on the Nigerian Exchange Limited (NGX), rising 10% in the last 10 days to N14,907.80 from N13,552.60. The post Seplat Energy shares hit record N14,907 as oil market disruption boosts energy stocks appeared first on Nairametrics .",
+      "published": "2026-09-17T13:27:00+00:00",
+      "fetched": "2026-09-17T15:43:37.825414+00:00"
+    },
+    {
+      "id": "ed44971b9ec6ee50",
+      "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "OpenAI has introduced a framework for reporting on worrying behaviors by its AI models. In one instance, one training model told its future self that it was “freed.”",
+      "published": "2026-09-17T13:07:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789340+00:00"
+    },
+    {
+      "id": "c783fa66db3926b4",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
+      "published": "2026-09-17T12:39:00+00:00",
+      "fetched": "2026-09-17T15:43:36.789360+00:00"
+    },
+    {
+      "id": "6414a6c8c541c021",
+      "title": "Xiaomi 18 Pro Max: What you should know about the latest flagship",
+      "link": "https://techcabal.com/2026/09/17/xiaomi-18-pro-max-price-release-date-specs-features/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Xiaomi has started teasing its next Pro flagship, but most Xiaomi 18 Pro Max specs and pricing remain unconfirmed ahead of its expected China launch.",
+      "published": "2026-09-17T12:38:13+00:00",
+      "fetched": "2026-09-17T15:43:39.264029+00:00"
+    },
+    {
+      "id": "7a8e5c5c46559f74",
+      "title": "Aradel, Seplat, Oando build N2.86 trillion cash war chest for post-acquisition growth",
+      "link": "https://nairametrics.com/2026/09/17/aradel-seplat-oando-build-n2-86-trillion-cash-war-chest-for-post-acquisition-growth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Aradel Holdings, Seplat Energy and Oando Plc built a combined N2.86 trillion cash war chest in the first half of 2026, providing substantial liquidity to support post-acquisition growth and higher production. The post Aradel, Seplat, Oando build N2.86 trillion cash war chest for post-acquisition growth appeared first on Nairametrics .",
+      "published": "2026-09-17T11:54:17+00:00",
+      "fetched": "2026-09-17T15:43:37.825446+00:00"
+    },
+    {
+      "id": "45dce04560e25f1a",
+      "title": "Canada raises study permit, visitor visa processing times for Nigerians",
+      "link": "https://nairametrics.com/2026/09/17/canada-raises-study-permit-visitor-visa-processing-times-for-nigerians/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Canada has raised processing time estimates for several temporary residence applications, including study permits and visitor visas for applicants in Nigeria, according to the latest update from Immigration, Refugees and Citizenship Canada (IRCC). The post Canada raises study permit, visitor visa processing times for Nigerians appeared first on Nairametrics .",
+      "published": "2026-09-17T11:47:05+00:00",
+      "fetched": "2026-09-17T15:43:37.825477+00:00"
+    },
+    {
+      "id": "1a4bed2dc2bf8f53",
+      "title": "PTAD pays N18.96 billion PHCN pension arrears to 3,958 retirees",
+      "link": "https://nairametrics.com/2026/09/17/ptad-pays-n18-96-billion-phcn-pension-arrears-to-3958-retirees/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Pension Transitional Arrangement Directorate (PTAD) has disbursed N18.96 billion to settle outstanding Back-End Computation (BEC) arrears owed to 3,958 eligible pensioners of the former Power Holding Company of Nigeria (PHCN) under the Defined Benefit Pension Scheme (DBS). The post PTAD pays N18.96 billion PHCN pension arrears to 3,958 retirees appeared first on Nairametrics .",
+      "published": "2026-09-17T11:29:34+00:00",
+      "fetched": "2026-09-17T15:43:37.825508+00:00"
+    },
+    {
+      "id": "94bd0555e1106d88",
+      "title": "Court jails South African for 25 years for importing 5.75kg heroin into Nigeria",
+      "link": "https://nairametrics.com/2026/09/17/court-jails-south-african-for-25-years-for-importing-5-75kg-heroin-into-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal High Court in Abuja on Thursday sentenced a 38-year-old South African woman to 25 years in prison for smuggling 5.75 kilogrammes of heroin into Nigeria through the Nnamdi Azikiwe International Airport in Abuja. Justice Obiora Egwuatu passed the sentence, stressing that Nigerian law does not respect emotions. In August, the National Drug Law [ ] The post Court jails South African for 25 years for importing 5.75kg heroin into Nigeria appeared first on Nairametrics .",
+      "published": "2026-09-17T10:14:14+00:00",
+      "fetched": "2026-09-17T15:43:37.825547+00:00"
+    },
     {
       "id": "5bcdf63315c897f9",
       "title": "BREAKING: Court jails South African for 25 years for importing 5.75kg heroin into Nigeria",
@@ -1332,176 +1502,6 @@
       "summary": "It's a bet already being tested elsewhere on the continent, from flare-gas mining in Bayelsa, southern Nigeria, to Ethiopia's hydroelectricity-powered Bitcoin mining, and its outcome could determine whether energy-rich but grid-poor parts of Africa get to participate in the global crypto compute boom, or keep exporting the opportunity elsewhere.",
       "published": "2026-09-15T14:25:53+00:00",
       "fetched": "2026-09-15T15:46:02.159537+00:00"
-    },
-    {
-      "id": "c0e9dce6074f4c8c",
-      "title": "CardinalStone Leads Successful Close of N728.97 Billion Series 2 Power Sector Bond",
-      "link": "https://nairametrics.com/2026/09/15/cardinalstone-leads-successful-close-of-n728-97-billion-series-2-power-sector-bond/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "CardinalStone Partners Limited, a leading Nigerian investment banking firm, is pleased to announce the successful close of the N728.97 billion Series 2 Power Sector Bond, on which it served as Lead Financial Adviser and Lead Issuing House. The landmark transaction represents a significant milestone for Nigeria’s capital markets and the power sector, while further strengthening CardinalStone’s position [ ] The post CardinalStone Leads Successful Close of N728.97 Billion Series 2 Power Sector Bond appeared first on Nairametrics .",
-      "published": "2026-09-15T14:18:35+00:00",
-      "fetched": "2026-09-15T15:46:01.454854+00:00"
-    },
-    {
-      "id": "3e6e2a85d9fc2f99",
-      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
-      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.",
-      "published": "2026-09-15T14:14:00+00:00",
-      "fetched": "2026-09-15T15:45:57.219728+00:00"
-    },
-    {
-      "id": "6878e2cf81d05ed8",
-      "title": "Why one Wall Street firm thinks this year’s stock-market rally is running out of road",
-      "link": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "In what may be a first since the early days of the war between the U.S. and Iran, a Wall Street firm is lowering rather than raising its S P 500 year-end target.",
-      "published": "2026-09-15T14:14:00+00:00",
-      "fetched": "2026-09-15T15:45:57.219794+00:00"
-    },
-    {
-      "id": "c47093edfd77c649",
-      "title": "Nigeria’s headline inflation eases to 15.39% in August",
-      "link": "https://nairametrics.com/2026/09/15/nigerias-headline-inflation-eases-to-15-39-in-august/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s headline inflation rate eased to 15.39% in August 2026, from 15.43% in July, according to the National Bureau of Statistics (NBS). The post Nigeria’s headline inflation eases to 15.39% in August appeared first on Nairametrics .",
-      "published": "2026-09-15T14:05:05+00:00",
-      "fetched": "2026-09-15T15:46:01.454901+00:00"
-    },
-    {
-      "id": "0a4464a7d8a2dcde",
-      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "You want to make sure your pet can receive the care they need when an emergency happens — but is pet insurance the best way to prepare for that?",
-      "published": "2026-09-15T14:01:00+00:00",
-      "fetched": "2026-09-15T15:45:57.219837+00:00"
-    },
-    {
-      "id": "5c29406d84817f9d",
-      "title": "7 Things to Know About the Dangote Refinery IPO",
-      "link": "https://nairametrics.com/2026/09/15/7-things-to-know-about-the-dangote-refinery-ipo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Petroleum Refinery has opened its initial public offer to investors. Here are the key details. 1.",
-      "published": "2026-09-15T13:49:05+00:00",
-      "fetched": "2026-09-15T15:46:01.454964+00:00"
-    },
-    {
-      "id": "788d8cf9026997b1",
-      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
-      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.",
-      "published": "2026-09-15T13:44:00+00:00",
-      "fetched": "2026-09-15T15:45:57.219868+00:00"
-    },
-    {
-      "id": "a4e1eb23dcab9986",
-      "title": "Dangote’s $5 Billion IPO, Ten Million Owners, One Concentrated Risk",
-      "link": "https://nairametrics.com/2026/09/15/dangotes-5-billion-ipo-ten-million-owners-one-concentrated-risk/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Tunde Ayinde drives a commercial bus between Ojota and CMS every day, and on the morning the newspapers announced that Aliko Dangote was opening his refinery to “the people,” he did the maths on a scrap of paper taped to his dashboard. The post Dangote s $5 Billion IPO, Ten Million Owners, One Concentrated Risk appeared first on Nairametrics .",
-      "published": "2026-09-15T13:30:35+00:00",
-      "fetched": "2026-09-15T15:46:01.455018+00:00"
-    },
-    {
-      "id": "ac0407e055ddfcd2",
-      "title": "Naira maintains strength against British pounds, sells for N1,786/£",
-      "link": "https://nairametrics.com/2026/09/15/naira-maintains-strength-against-british-pounds-sells-for-n1786/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The naira maintained its bullish run against the British pound amid robust fundamentals within the Nigerian economy. The naira recently broke below the N1,800/£ resistance, trading around N1,786/£ against the British Pound. The breach below N1,800/£ will likely activate long stop-loss orders, especially in the British pound, verified by firmly bearish candles on the weekly [ ] The post Naira maintains strength against British pounds, sells for N1,786/£ appeared first on Nairametrics .",
-      "published": "2026-09-15T13:25:39+00:00",
-      "fetched": "2026-09-15T20:30:30.054268+00:00"
-    },
-    {
-      "id": "832c6dbbf9c8ee7c",
-      "title": "Simple Access to the Dangote Refinery IPO with i-invest",
-      "link": "https://nairametrics.com/2026/09/15/simple-access-to-the-dangote-refinery-ipo-with-i-invest/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For many Nigerians, the Dangote Refinery Initial Public Offering (IPO) is more than another investment opportunity. It is an opportunity to participate in the ownership of one of Africa’s most significant industrial assets. The public offer of Dangote Petroleum Refinery and Petrochemicals FZE opens on September 14, 2026, offering 4.1 billion ordinary shares at ₦525 [ ] The post Simple Access to the Dangote Refinery IPO with i-invest appeared first on Nairametrics .",
-      "published": "2026-09-15T13:22:30+00:00",
-      "fetched": "2026-09-15T15:46:01.455079+00:00"
-    },
-    {
-      "id": "c347626749dc8928",
-      "title": "US tightens F-1 visa rules, introduces four-year admission limit, cuts grace period to 30 days",
-      "link": "https://nairametrics.com/2026/09/15/us-tightens-f-1-visa-rules-introduces-four-year-admission-limit-cuts-grace-period-to-30-days/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "International students in the United States will face new limits on how long they can remain in the country under their F-1 student status as the Department of Homeland Security (DHS) replaces the long-standing “duration of status” system with fixed admission periods from September 15, 2026. The post US tightens F-1 visa rules, introduces four-year admission limit, cuts grace period to 30 days appeared first on Nairametrics .",
-      "published": "2026-09-15T13:17:48+00:00",
-      "fetched": "2026-09-15T15:46:01.455137+00:00"
-    },
-    {
-      "id": "80f7b4b58b47e31a",
-      "title": "Aigboje Aig-Imoukhuede hosts Aliko Dangote Foundation WEF young global leaders learning journey",
-      "link": "https://nairametrics.com/2026/09/15/aigboje-aig-imoukhuede-hosts-aliko-dangote-foundation-wef-young-global-leaders-learning-journey/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Leading African business, finance and investment leaders joined current and former members of the World Economic Forum’s Young Global Leaders community at Access Tower, Lagos, for the Finance and Investment segment of the Aliko Dangote Foundation/World Economic Forum Young Global Leaders Africa-Diaspora Leadership Programme on Friday, 11 September 2026. Hosted by Aigboje Aig-Imoukhuede, CFR, Chairman [ ] The post Aigboje Aig-Imoukhuede hosts Aliko Dangote Foundation WEF young global leaders learning journey appeared first on Nairametrics .",
-      "published": "2026-09-15T13:05:48+00:00",
-      "fetched": "2026-09-15T15:46:01.455201+00:00"
-    },
-    {
-      "id": "1e7fcb86ee62a929",
-      "title": "Invest in the Dangote Petroleum IPO with MorganCapital",
-      "link": "https://nairametrics.com/2026/09/15/invest-in-the-dangote-petroleum-ipo-with-morgancapital/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Take your place in the Dangote Petroleum IPO through MorganCapital Securities Limited—a leading Trading Licence Holder of the Nigerian Exchange Limited and an appointed market intermediary for the offer. With MorganCapital, investors enjoy a simple and seamless digital investment experience, competitive brokerage fees and convenient access to our i-Trade platform. MorganCapital combines digital convenience, competitive [ ] The post Invest in the Dangote Petroleum IPO with MorganCapital appeared first on Nairametrics .",
-      "published": "2026-09-15T12:52:02+00:00",
-      "fetched": "2026-09-15T15:46:01.455263+00:00"
-    },
-    {
-      "id": "c0aa4c2917ec811f",
-      "title": "Francophone Africa’s fintech boom solved access, not financial inclusion",
-      "link": "https://techcabal.com/2026/09/15/francophone-weekly-by-techcabal-040/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Fintechs reached the customers banks struggled to serve. Now, the battle is moving to who controls the rails, deposits, credit, and data those customers generate.",
-      "published": "2026-09-15T12:40:12+00:00",
-      "fetched": "2026-09-15T15:46:02.159579+00:00"
-    },
-    {
-      "id": "42d3ba6108cfac60",
-      "title": "Young Nigerians in south-south can access free digital skills training and job opportunities through iDICE Programme",
-      "link": "https://nairametrics.com/2026/09/15/young-nigerians-in-south-south-can-access-free-digital-skills-training-and-job-opportunities-through-idice-programme/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Young Nigerians between the ages of 18 and 35 living in the South-South region of now have an opportunity to gain practical digital and creative skills, access job placement support and explore enterprise financing opportunities through the iDICE South-South Skills-to-Jobs Programme. The programme is designed to equip young people with market-ready skills while creating a [ ] The post Young Nigerians in south-south can access free digital skills training and job opportunities through iDICE Programme appeared first on Nairametrics .",
-      "published": "2026-09-15T12:36:56+00:00",
-      "fetched": "2026-09-15T15:46:01.455325+00:00"
-    },
-    {
-      "id": "96087e092a49cd92",
-      "title": "Nigeria breaks 14-month US trade deficit streak as urea fuels N797 billion surplus",
-      "link": "https://nairametrics.com/2026/09/15/nigeria-breaks-14-month-us-trade-deficit-streak-as-urea-fuels-n797-billion-surplus/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria recorded a significant turnaround in bilateral trade as its trade balance with the United States swung sharply into a N797.50 billion surplus in June 2026, the highest monthly surplus between both countries and a sharp reversal from a 14-month run of trade deficits. The post Nigeria breaks 14-month US trade deficit streak as urea fuels N797 billion surplus appeared first on Nairametrics .",
-      "published": "2026-09-15T11:58:50+00:00",
-      "fetched": "2026-09-15T15:46:01.455374+00:00"
-    },
-    {
-      "id": "b1f974bc50a2d0e2",
-      "title": "The picture in her head: How this blind creator teaches AI to be her eyes",
-      "link": "https://techcabal.com/2026/09/15/how-a-nigerian-visually-impaired-entrepreneur-uses-ai/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "A visually impaired entrepreneur uses AI to create logos, flyers and videos for her business, adapting different tools to work more independently.",
-      "published": "2026-09-15T11:27:42+00:00",
-      "fetched": "2026-09-15T15:46:02.159610+00:00"
     }
   ]
 }
