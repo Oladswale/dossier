@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-17T20:37:38.805416+00:00",
+  "updated": "2026-09-18T01:44:13.188201+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1c8bb92ba7906d66",
+      "title": "Meet the 2026 tenured professors in the School of Humanities, Arts, and Social Sciences",
+      "link": "https://news.mit.edu/2026/tenured-professors-school-humanities-arts-social-sciences-0917",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Faculty members granted tenure in Comparative Media Studies/Writing, Economics, Political Science, and Theater.",
+      "published": "2026-09-17T20:50:00+00:00",
+      "fetched": "2026-09-18T01:44:11.653610+00:00"
+    },
     {
       "id": "53257d8b57ebff15",
       "title": "MIT School of Engineering faculty and staff receive awards in spring 2026",
@@ -1492,16 +1502,6 @@
       "summary": "MIT historian Tristan Brown uncovers the true origins of an artifact once thought to be a relic of the Boston Tea Party.",
       "published": "2026-08-11T16:30:00+00:00",
       "fetched": "2026-08-11T18:41:45.596805+00:00"
-    },
-    {
-      "id": "5cbcaa129f7b4899",
-      "title": "How the Beatles Made their Most Acclaimed Album, Revolver, Released 60 Years Ago This Month",
-      "link": "https://www.openculture.com/2026/08/how-the-beatles-made-their-most-acclaimed-album-revolver.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Among Beatles connoisseurs, it’s fair game to claim anything from Rubber Soul to Abbey Road as one’s favorite album. But even within that span of the catalog, a hierarchy of acclaim exists, and that hierarchy has been rearranged over the decades. The ecstatic reception of Sgt.",
-      "published": "2026-08-11T14:50:26+00:00",
-      "fetched": "2026-08-11T18:41:46.936802+00:00"
     }
   ]
 }

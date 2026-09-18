@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-17T20:37:39.501589+00:00",
+  "updated": "2026-09-18T01:44:13.874587+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "da233f971f63aa6e",
+      "title": "EXCLUSIVE: Why 2 Real Estate Agents Kept Their Real Jobs Secret on ‘The Traitors: New Blood’",
+      "link": "https://www.realtor.com/news/reality-tv/traitors-new-blood-kriste-lewis-logan-smith-interview/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"Traitors: New Blood\" contestants Kriste Lewis and Logan Smith tell Realtor.com what viewers can expect from the new season of the hit show.",
+      "published": "2026-09-17T23:01:11+00:00",
+      "fetched": "2026-09-18T01:44:13.873991+00:00"
+    },
+    {
+      "id": "d01b1935388a73a9",
+      "title": "Christina Haack Praises ‘Fun’ Co-Parenting Friendship With Heather El Moussa on Napa Birthday Trip",
+      "link": "https://www.realtor.com/news/reality-tv/christina-haack-heather-el-moussa-birthday-napa-trip/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "HGTV stars Christina Haack and Heather El Moussa traveled to Napa, CA, with their partners for a birthday celebration.",
+      "published": "2026-09-17T22:10:38+00:00",
+      "fetched": "2026-09-18T01:44:13.874031+00:00"
+    },
+    {
+      "id": "2a5454280c7a6bfc",
+      "title": "L.A. Homelessness Nonprofit Exec Charged With Skimming Millions To Finance Bingo Hall",
+      "link": "https://www.realtor.com/news/trends/los-angeles-homeless-nonprofit-fraud-arrests-michael-young/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Three people were charged in separate schemes to use funds distributed for homeless services in Los Angeles for their own personal use.",
+      "published": "2026-09-17T21:45:37+00:00",
+      "fetched": "2026-09-18T01:44:13.874062+00:00"
+    },
+    {
+      "id": "cf2984de59044f4b",
+      "title": "Travis Kelce Named as Victim in $35 Million Ponzi Scheme—Where Fraudster Splashed Out on Luxe Apartments and Hotel Stays",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/travis-kelce-victim-ponzi-scheme-hotel-stays-luxury-apartments/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Kansas City Chiefs tight end, 36, was named by prosecutors during the sentencing of Siddharth Jawahar.",
+      "published": "2026-09-17T21:13:59+00:00",
+      "fetched": "2026-09-18T01:44:13.874093+00:00"
+    },
+    {
+      "id": "d7d2ca494ef73602",
+      "title": "California Passes Nation’s First Insurance Requirements for Smoke Damage Claims",
+      "link": "https://www.realtor.com/news/real-estate-news/california-passes-first-in-nation-insurance-reform-for-smoke-damage-claims/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "California became the first state to create standards for smoke damage claims, as it continues to craft new laws following the fires.",
+      "published": "2026-09-17T20:48:46+00:00",
+      "fetched": "2026-09-18T01:44:13.874122+00:00"
+    },
     {
       "id": "8e33c38833eb8541",
       "title": "Charlie Puth Sells Montecito Mansion Where He Married Brooke Sansone for $18.5 Million",
@@ -1452,56 +1502,6 @@
       "summary": "Agents and their clients are worried data centers will drive up utility costs. But their impact on property values is less clear.",
       "published": "2026-09-09T14:00:00+00:00",
       "fetched": "2026-09-09T15:24:04.807504+00:00"
-    },
-    {
-      "id": "583530b27e1dba6c",
-      "title": "EXCLUSIVE: Former NFL Star Chris Simms Scores a Buyer for His $8 Million 300-Year-Old Greenwich Home",
-      "link": "https://www.realtor.com/news/sports/former-nfl-star-chris-simms-sells-greenwich-connecticut-home-buyer/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 45-year-old—who retired from the NFL in 2010—and his wife, Daniella, initially put their longtime Greenwich abode on the market in Feb.",
-      "published": "2026-09-09T13:18:06+00:00",
-      "fetched": "2026-09-09T15:24:04.807538+00:00"
-    },
-    {
-      "id": "c6858cb87d87dbea",
-      "title": "Selena Gomez Sells Encino Mansion for $5.4 Million—After Snapping Up $35 Million Marital Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/selena-gomez-sells-encino-california-home-benny-blanco/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 34-year-old singer and actress purchased the six-bedroom, 8.5-bathroom dwelling for $4.89 million in 2020",
-      "published": "2026-09-09T12:48:09+00:00",
-      "fetched": "2026-09-09T15:24:04.807568+00:00"
-    },
-    {
-      "id": "a4c3e36419c26871",
-      "title": "8 Ways to Get More Passive Income from Your Rental Properties",
-      "link": "https://www.biggerpockets.com/blog/rookie-768",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Every hour you spend chasing rent or coordinating a repair is an hour you could’ve spent growing your real estate portfolio or doing the things you actually enjoy. The fix? [ ]",
-      "published": "2026-09-09T11:00:38+00:00",
-      "fetched": "2026-09-09T15:24:04.379496+00:00"
-    },
-    {
-      "id": "2c54c71afab84d13",
-      "title": "The “Big 5″ Systems You Can’t Afford to Overlook When Buying a Rental",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1328",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "JPMorgan Chase, America’s largest bank, just made a big bet on housing—a $750B bet to be exact. At a time when most people hope home prices will fall, JPMorgan is [ ]",
-      "published": "2026-09-09T11:00:21+00:00",
-      "fetched": "2026-09-09T15:24:04.379550+00:00"
-    },
-    {
-      "id": "88ad746cccdeed04",
-      "title": "America’s Most Affordable College Towns Revealed",
-      "link": "https://www.realtor.com/news/trends/most-affordable-division-i-college-towns-revealed/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Realtor.com ranks America's top college towns for affordable housing, with Detroit leading as the most budget-friendly market.",
-      "published": "2026-09-09T09:00:00+00:00",
-      "fetched": "2026-09-09T10:13:00.576332+00:00"
     }
   ]
 }
