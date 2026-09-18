@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-18T15:16:44.619777+00:00",
+  "updated": "2026-09-18T20:03:12.793737+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d720f519ee3897c4",
+      "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
+      "link": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Climate Grand Challenges “New World of Weather” project shows how modeling, planning tools, and infrastructure analysis are translating research into real-world resilience.",
+      "published": "2026-09-18T16:55:00+00:00",
+      "fetched": "2026-09-18T20:03:11.458269+00:00"
+    },
+    {
+      "id": "6696bee795b622e7",
+      "title": "A new chapter for MIT Reads",
+      "link": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
+      "published": "2026-09-18T16:30:00+00:00",
+      "fetched": "2026-09-18T20:03:11.458298+00:00"
+    },
+    {
+      "id": "e373c9cb0e3ed822",
+      "title": "A new understanding of how enzymes influence bacterial protein production",
+      "link": "https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Novel research expands scientific understanding of how RNA shapes the reading of genetic information.",
+      "published": "2026-09-18T16:20:00+00:00",
+      "fetched": "2026-09-18T20:03:11.458319+00:00"
+    },
     {
       "id": "d6a6993cb334241c",
       "title": "Rage Against the Machines: From the Luddites to the AI Data Center Backlash",
@@ -1472,36 +1502,6 @@
       "summary": "Over the years, you’ve probably heard at least a few people casually describe themselves as Epicureans. As used today, the label can refer to as little as enjoying the occasional expensive restaurant meal. The bar was a bit higher in the second century, as explained by ancient-history YouTuber Garrett Ryan in the new video above [ ]",
       "published": "2026-08-12T13:57:06+00:00",
       "fetched": "2026-08-12T18:43:05.426005+00:00"
-    },
-    {
-      "id": "00cf46176e29276a",
-      "title": "Met Warehouse opens as the new home of MIT’s School of Architecture and Planning",
-      "link": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In a feat of adaptive reuse, a massive, century-old brick storage facility has been turned into a contemporary hub for collaboration and creative work.",
-      "published": "2026-08-12T10:00:00+00:00",
-      "fetched": "2026-08-12T12:37:47.373388+00:00"
-    },
-    {
-      "id": "f13cead8eeca5003",
-      "title": "How to design a space habitat that supports its residents’ mental health",
-      "link": "https://news.mit.edu/2026/how-space-habitat-design-supports-its-residents-mental-health-0812",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new online platform helps engineers look beyond survival mode when designing habitats for extreme living conditions.",
-      "published": "2026-08-12T09:00:00+00:00",
-      "fetched": "2026-08-12T12:37:47.373427+00:00"
-    },
-    {
-      "id": "4ae4fe643d3a83cb",
-      "title": "Watch Stewart Brand’s 6‑Part Series How Buildings Learn, With Music by Brian Eno",
-      "link": "https://www.openculture.com/2026/08/watch-stewart-brands-6-part-series-how-buildings-learn.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Stewart Brand came onto the cultural scene during the 1960s, helping to stage the Acid Tests made famous by Ken Kesey and the Merry Pranksters, and later launching the influential Whole Earth Catalog (something Steve Jobs described as “Google in paperback form, 35 years before Google came along”). He also vigorously campaigned in 1966 to have NASA release [ ]",
-      "published": "2026-08-12T08:13:24+00:00",
-      "fetched": "2026-08-12T12:37:48.534692+00:00"
     }
   ]
 }
