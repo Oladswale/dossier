@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-18T01:44:13.874587+00:00",
+  "updated": "2026-09-18T10:07:37.267382+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "978873bf9ae683cc",
+      "title": "L.A. Mayor Karen Bass Defends Her Housing Record as City Scores Worst for Affordability",
+      "link": "https://www.realtor.com/news/trends/los-angeles-worst-metros-homebuilding-affordability-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Los Angeles earned the lowest housing affordability score among the 100 biggest metros, despite Mayor Bass' measures to build more homes.",
+      "published": "2026-09-18T09:00:00+00:00",
+      "fetched": "2026-09-18T10:07:37.266764+00:00"
+    },
     {
       "id": "da233f971f63aa6e",
       "title": "EXCLUSIVE: Why 2 Real Estate Agents Kept Their Real Jobs Secret on ‘The Traitors: New Blood’",
@@ -1492,16 +1502,6 @@
       "summary": "The HGTV star opened up about the challenge of balancing work and motherhood, sharing an emotional conversation with daughter, Ella.",
       "published": "2026-09-09T14:01:33+00:00",
       "fetched": "2026-09-09T15:24:04.807472+00:00"
-    },
-    {
-      "id": "a743bacf5a9a7d2d",
-      "title": "Data Center Boom Triggers Homeowner Fears Over Skyrocketing Electric Costs",
-      "link": "https://www.realtor.com/news/trends/realtors-clients-worry-data-center-development-taxes-local-infrastructure/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Agents and their clients are worried data centers will drive up utility costs. But their impact on property values is less clear.",
-      "published": "2026-09-09T14:00:00+00:00",
-      "fetched": "2026-09-09T15:24:04.807504+00:00"
     }
   ]
 }
