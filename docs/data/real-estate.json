@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-19T09:48:42.551373+00:00",
+  "updated": "2026-09-19T14:53:42.975717+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f346492d193b79b0",
+      "title": "‘Rare’ 60-Acre Lake George Retreat with Beautifully Restored Midcentury Modern Estate Lists for Under $1 Million",
+      "link": "https://www.realtor.com/news/unique-homes/midcentury-home-60-acres-hague-ny-silo/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore a restored 1965 midcentury home on 60 tree-lined acres in Hague, NY for $995K. It features a unique silo lookout and exposed beams.",
+      "published": "2026-09-19T14:14:00+00:00",
+      "fetched": "2026-09-19T14:53:42.975182+00:00"
+    },
+    {
+      "id": "a20b6d3f7decec92",
+      "title": "This $31 Million Miami Triplex Penthouse Has Its Own Rooftop Pool and Spa",
+      "link": "https://www.realtor.com/news/unique-homes/miami-31m-una-residences-brickell-penthouse/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore the ultra-lavish triplex penthouse at Una Residences in Miami's Brickell, featuring six bedrooms panoramic bay views.",
+      "published": "2026-09-19T12:12:00+00:00",
+      "fetched": "2026-09-19T14:53:42.975210+00:00"
+    },
+    {
+      "id": "e9c427eca5667b3a",
+      "title": "Squatters Take Over $4.4 Million San Francisco Mansion With Bizarre Ownership History",
+      "link": "https://www.realtor.com/news/trends/san-francisco-mansion-sea-cliff-squatters-deed-fraud/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Brandon Aadee and Diana Peng are being sued by the city, accused of fraudulently attempting to take ownership of a Sea Cliff mansion.",
+      "published": "2026-09-19T10:00:00+00:00",
+      "fetched": "2026-09-19T14:53:42.975233+00:00"
+    },
     {
       "id": "7e92698ea786e650",
       "title": "Benny Blanco Reveals How He and Selena Gomez Hope to Raise Their Future Kids—After Buying $35 Million Marital Mansion",
@@ -1472,36 +1502,6 @@
       "summary": "The \"Practical Magic\" actress revealed she's secretly held onto an apartment in England for over 20 years.",
       "published": "2026-09-10T17:35:00+00:00",
       "fetched": "2026-09-10T20:08:41.277591+00:00"
-    },
-    {
-      "id": "a67740bf6875f538",
-      "title": "EXCLUSIVE: Steven Spielberg Lists $30 Million L.A. Equestrian Ranch—Decades After Scrapping Controversial 5-Story Riding Ring Plans",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/steven-spielberg-lists-30-million-los-angeles-ranch-controversial-plans/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Spielberg, 79, and his wife, Kate Capshaw, 72, purchased the property in 1999 through their corporate entity, Texas Tart, for $5.75 million.",
-      "published": "2026-09-10T17:07:30+00:00",
-      "fetched": "2026-09-10T20:08:41.277619+00:00"
-    },
-    {
-      "id": "dc725ebf422a0e8a",
-      "title": "The New Housing Law Was Supposed To Help Buyers—Here’s Why Delays Are Coming Instead",
-      "link": "https://www.realtor.com/news/real-estate-news/housing-bill-implementation-next-steps-funding-staffing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Three months after the most comprehensive housing bill in decades became law, Washington is still getting its bearings on what's next.",
-      "published": "2026-09-10T16:50:55+00:00",
-      "fetched": "2026-09-10T20:08:41.277645+00:00"
-    },
-    {
-      "id": "c0831903b3332e2c",
-      "title": "Mortgage Rates Spike to New 15-Month High of 6.76% as Bond Market Implodes",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-treasury-yields-september-10-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed mortgages increased to 6.76% for the week ending Sept. 10, up 5 basis points from last week.",
-      "published": "2026-09-10T16:03:24+00:00",
-      "fetched": "2026-09-10T20:08:41.277669+00:00"
     }
   ]
 }
