@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-19T14:53:42.975717+00:00",
+  "updated": "2026-09-19T19:39:15.364287+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d36b188e67a43c6a",
+      "title": "Inside ‘The Cactus House’: A $17 Million Restored Malibu Sanctuary on a Secret Beach",
+      "link": "https://www.realtor.com/news/unique-homes/malibu-17m-cactus-house-secret-beach/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore The Cactus House, a restored midcentury Malibu estate by Charles Kanner, featuring 58-feet of waterfront access.",
+      "published": "2026-09-19T17:01:00+00:00",
+      "fetched": "2026-09-19T19:39:15.363714+00:00"
+    },
+    {
+      "id": "87ea0d6dd1f01e23",
+      "title": "Keeping The Appliances Working for 20+ Years Is Like Winning the Homeowner Jackpot",
+      "link": "https://www.realtor.com/advice/home-improvement/older-appliances-vs-modern-saving-money/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If you can keep your appliances in working order, you're better served as repair and purchasing prices are skyrocketing.",
+      "published": "2026-09-19T16:19:00+00:00",
+      "fetched": "2026-09-19T19:39:15.363754+00:00"
+    },
+    {
+      "id": "42aac88d631373e1",
+      "title": "A Homesteader’s Dream: This 386-Acre Sporting Retreat Uses Transformed Grain Silos as Living Quarters",
+      "link": "https://www.realtor.com/news/unique-homes/repurposed-grain-silos-designated-shooting-areas-and-the-opportunity-to-create-a-sporting-lodge-in-washington-for-895k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore a 386-acre Washington ranch with grain silo living quarters, a 1-mile shooting range, walk-in gun vault, and water rights.",
+      "published": "2026-09-19T15:30:00+00:00",
+      "fetched": "2026-09-19T19:39:15.363788+00:00"
+    },
     {
       "id": "f346492d193b79b0",
       "title": "‘Rare’ 60-Acre Lake George Retreat with Beautifully Restored Midcentury Modern Estate Lists for Under $1 Million",
@@ -1472,36 +1502,6 @@
       "summary": "The tech entrepreneur purchased the home for $5 million in 2019, the same year he and Quinn tied the knot.",
       "published": "2026-09-10T19:40:32+00:00",
       "fetched": "2026-09-10T20:08:41.277532+00:00"
-    },
-    {
-      "id": "e3d5f1923a70d5f1",
-      "title": "This $1.25M Mulholland Drive ‘Mansion’ Has No Kitchen, No Sewer—and a Squatter Problem",
-      "link": "https://www.realtor.com/news/trends/abandoned-mulholland-drive-home-los-angeles/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The home at 7711 Mulholland has the makings of a luxury property, but it appears no one ever moved in.",
-      "published": "2026-09-10T19:34:00+00:00",
-      "fetched": "2026-09-11T01:38:13.110747+00:00"
-    },
-    {
-      "id": "8482d059fda8bc20",
-      "title": "Where the Top 1% of Luxury Real Estate Rules the Market",
-      "link": "https://www.realtor.com/news/trends/luxury-real-estate-prices-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In select markets, the gap between entry-level luxury and the highest luxury tier, ultraluxury, is many multiples.",
-      "published": "2026-09-10T18:14:31+00:00",
-      "fetched": "2026-09-10T20:08:41.277562+00:00"
-    },
-    {
-      "id": "886da37fa629c2ce",
-      "title": "Nicole Kidman Reveals She’s Owned a ‘Stealth’ Home in London for 21 Years—and Hints at Plans To Spend Time Abroad After Keith Urban Divorce",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/nicole-kidman-secret-london-apartment-post-keith-urban-divorc/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Practical Magic\" actress revealed she's secretly held onto an apartment in England for over 20 years.",
-      "published": "2026-09-10T17:35:00+00:00",
-      "fetched": "2026-09-10T20:08:41.277591+00:00"
     }
   ]
 }
