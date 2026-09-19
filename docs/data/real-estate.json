@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-18T20:03:13.586200+00:00",
+  "updated": "2026-09-19T01:49:04.750515+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7e92698ea786e650",
+      "title": "Benny Blanco Reveals How He and Selena Gomez Hope to Raise Their Future Kids—After Buying $35 Million Marital Mansion",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/benny-blanco-selena-gomez-future-kids-family-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Blanco is opening up about his hopes of starting a family with wife Selena Gomez—and the kind of parent he wants to be.",
+      "published": "2026-09-18T20:58:06+00:00",
+      "fetched": "2026-09-19T01:49:04.750013+00:00"
+    },
+    {
+      "id": "4cfc4728cf7c8227",
+      "title": "A $5.8 Million Piece of a New York City Landmark Is Up for Grabs in the Iconic Woolworth Building",
+      "link": "https://www.realtor.com/news/unique-homes/woolworth-building-luxury-unit-hits-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A lavish two-bedroom residence in the Woolworth Building is listed for $5.8 million, offering breathtaking city views and lots of amenities.",
+      "published": "2026-09-18T20:56:16+00:00",
+      "fetched": "2026-09-19T01:49:04.750041+00:00"
+    },
+    {
+      "id": "303051cd1b32db57",
+      "title": "8 Features Every Well-Functioning House Needs, According to Experienced Household Managers",
+      "link": "https://www.realtor.com/advice/home-improvement/household-managers-home-feature-essentials/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Household managers are taking over, and the best know exactly what every home needs to function at peak performance.",
+      "published": "2026-09-18T20:03:42+00:00",
+      "fetched": "2026-09-19T01:49:04.750058+00:00"
+    },
     {
       "id": "c0f5d9413fbeae63",
       "title": "Does Living Near a Costco Boost Your Home Value? It Depends on Where You Live",
@@ -1472,36 +1502,6 @@
       "summary": "The average rate on 30-year fixed mortgages increased to 6.76% for the week ending Sept. 10, up 5 basis points from last week.",
       "published": "2026-09-10T16:03:24+00:00",
       "fetched": "2026-09-10T20:08:41.277669+00:00"
-    },
-    {
-      "id": "de0d2e6ac245a7e8",
-      "title": "What Rent Data From All 50 States Says Landlords Get Wrong",
-      "link": "https://www.biggerpockets.com/blog/what-rent-data-from-all-50-states-says-landlords-get-wrong",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "My three long-term rentals sit in Conroe, Texas. New construction, boring on purpose, and they mostly leave me alone so I can go handle whatever broke at a glamping site [ ]",
-      "published": "2026-09-10T15:12:26+00:00",
-      "fetched": "2026-09-10T20:08:40.920306+00:00"
-    },
-    {
-      "id": "4cf3443099020a48",
-      "title": "Kris Jenner’s Security Intercepts Suspected Stalker Following Alleged Attempt To Reach Her L.A. Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kris-kenner-stalker-arrested-at-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Zenwilliam Robson, 25, was detained by Jenner's security before he could reach her home, which is situated in the Santa Monica Mountains.",
-      "published": "2026-09-10T14:54:55+00:00",
-      "fetched": "2026-09-10T15:17:40.626824+00:00"
-    },
-    {
-      "id": "6eaa3550a96bb68d",
-      "title": "Chris Rock Has ‘Complicated’ Feelings About His New Los Angeles Home as a Native New Yorker",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/chris-rock-complicated-feelings-los-angeles/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The comedian recently acquired an L.A. property but finds the city \"weird\" despite the great weather.",
-      "published": "2026-09-10T14:28:13+00:00",
-      "fetched": "2026-09-10T15:17:40.626862+00:00"
     }
   ]
 }

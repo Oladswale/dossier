@@ -1,8 +1,58 @@
 {
   "category": "finance",
-  "updated": "2026-09-18T20:02:55.666187+00:00",
+  "updated": "2026-09-19T01:48:47.295092+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7bebf1d48714dde8",
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
+      "published": "2026-09-18T22:41:00+00:00",
+      "fetched": "2026-09-19T01:48:45.458889+00:00"
+    },
+    {
+      "id": "2bbe1cfc8cd16b38",
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "published": "2026-09-18T21:16:00+00:00",
+      "fetched": "2026-09-19T01:48:45.458947+00:00"
+    },
+    {
+      "id": "e30d196e2fd37a82",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "published": "2026-09-18T21:14:00+00:00",
+      "fetched": "2026-09-19T01:48:45.458969+00:00"
+    },
+    {
+      "id": "79aefb91e853b3cb",
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
+      "published": "2026-09-18T20:48:00+00:00",
+      "fetched": "2026-09-19T01:48:45.458990+00:00"
+    },
+    {
+      "id": "a7500b7d282fc5c9",
+      "title": "Most of what you know about data centers is wrong",
+      "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
+      "published": "2026-09-18T20:15:00+00:00",
+      "fetched": "2026-09-19T01:48:45.459005+00:00"
+    },
     {
       "id": "b69dc5e70cac1aa7",
       "title": "BREAKING: NGX market cap hits N162 trillion for the first time ever",
@@ -1452,56 +1502,6 @@
       "summary": "A rising share of builders are slashing prices on newly built homes despite increasing construction costs, as buyers get spooked by high mortgage rates.",
       "published": "2026-09-16T14:10:00+00:00",
       "fetched": "2026-09-16T15:37:42.141574+00:00"
-    },
-    {
-      "id": "30252c6506d137b4",
-      "title": "Amodei wants to slow the AI frontier. Africa is still trying to reach it",
-      "link": "https://techcabal.com/2026/09/16/amodei-wants-to-slow-the-ai-frontier-africa-is-still-trying-to-reach-it/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Anthropic CEO Dario Amodei is pushing to halt AI development long enough for safety research and governance to catch up",
-      "published": "2026-09-16T14:08:26+00:00",
-      "fetched": "2026-09-16T15:37:55.401245+00:00"
-    },
-    {
-      "id": "6f2d8e34854abb7d",
-      "title": "Why liquid cooling is the new benchmark: A closer look at the Infinix GT 50 Pro",
-      "link": "https://nairametrics.com/2026/09/16/why-liquid-cooling-is-the-new-benchmark-a-closer-look-at-the-infinix-gt-50-pro/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The rapid adoption of AI has brought a new tech dilemma into the spotlight. The data centers that power everyday AI use are running into a thermal wall that traditional air cooling can no longer service. Without top-tier cooling systems in place, performance and stability suffer.",
-      "published": "2026-09-16T13:54:42+00:00",
-      "fetched": "2026-09-16T15:37:54.684960+00:00"
-    },
-    {
-      "id": "dd6056b89e729590",
-      "title": "Dangote Commends NGX Group Leadership for Transforming Nigeria’s Bourse",
-      "link": "https://nairametrics.com/2026/09/16/dangote-commends-ngx-group-leadership-for-transforming-nigerias-bourse/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "President and Chief Executive Officer of Dangote Industries Limited, Aliko Dangote, has commended the leadership of Nigerian Exchange Group (NGX Group) for transforming Nigeria’s capital market. He spoke at the Facts Behind the Offer presentation and Opening Gong Ceremony for the Initial Public Offering of Dangote Petroleum Refinery and Petrochemicals FZE, held on Monday, September [ ] The post Dangote Commends NGX Group Leadership for Transforming Nigeria’s Bourse appeared first on Nairametrics .",
-      "published": "2026-09-16T13:33:09+00:00",
-      "fetched": "2026-09-16T15:37:54.685021+00:00"
-    },
-    {
-      "id": "5b19ce9ecf0792fc",
-      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
-      "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Sebastien Mallet is on the verge of his best one-year performance ever as portfolio manager of T. Rowe Price Global Value Equity Fund. Here’s what he’s buying.",
-      "published": "2026-09-16T13:33:00+00:00",
-      "fetched": "2026-09-16T15:37:42.141637+00:00"
-    },
-    {
-      "id": "7b462a9eefc82434",
-      "title": "DHL Express Launches Domestic Select to Support Growing Businesses and Domestic Trade in Nigeria",
-      "link": "https://nairametrics.com/2026/09/16/dhl-express-launches-domestic-select-to-support-growing-businesses-and-domestic-trade-in-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Offers customers greater flexibility for less urgent shipments. Affordable domestic shipping designed to support business growth and operational efficiency. Access to a trusted network that connects customers and businesses across Nigeria.",
-      "published": "2026-09-16T13:31:03+00:00",
-      "fetched": "2026-09-16T15:37:54.685082+00:00"
     }
   ]
 }
