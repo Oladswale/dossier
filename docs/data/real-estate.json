@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-20T14:57:51.710420+00:00",
+  "updated": "2026-09-20T19:52:29.182087+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "71c270fb3e84b08c",
+      "title": "For the Price of a San Francisco Condo, You Can Buy a 400-Acre Historic Marshland Retreat",
+      "link": "https://www.realtor.com/news/unique-homes/historic-1-5m-suisun-marsh-duck-club-barge/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 100-year-old Concord Farms Duck Club in California has hit the market for $1.5 million, featuring a 16-bedroom clubhouse.",
+      "published": "2026-09-20T17:12:00+00:00",
+      "fetched": "2026-09-20T19:52:29.181491+00:00"
+    },
+    {
+      "id": "7552e2d927595f97",
+      "title": "Florida’s ‘Sleepy Fishing Village’ Gets a $2 Billion Makeover as Luxury Buyers Swoop In",
+      "link": "https://www.realtor.com/news/trends/pompano-beach-florida-luxury-homes-prices-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Pompano Beach, a former \"sleepy fishing village\" popular with Canadian snowbirds, has lately transformed into a branded luxury haven.",
+      "published": "2026-09-20T16:37:00+00:00",
+      "fetched": "2026-09-20T19:52:29.181532+00:00"
+    },
+    {
+      "id": "55cca2a62fa7af5a",
+      "title": "This 1762 Virginia House Was Dismantled and Moved Piece by Piece to George Washington’s Estate",
+      "link": "https://www.realtor.com/news/unique-homes/historic-1762-virginia-estate-relocated-mount-vernon-sold/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Known as Carlby, this five-bedroom home once belonged to a Civil War general and now sits on the Potomac River in Virginia.",
+      "published": "2026-09-20T15:30:00+00:00",
+      "fetched": "2026-09-20T19:52:29.181565+00:00"
+    },
     {
       "id": "aae6a2874cd84262",
       "title": "Superfan Snaps Up Graceland-Inspired Home in Memphis for $150K: ‘I Bought It for Every Elvis Fan’",
@@ -1472,36 +1502,6 @@
       "summary": "Mortgage points surged as rates rose. New data shows when paying thousands upfront for a lower mortgage rate can actually pay off.",
       "published": "2026-09-11T09:00:00+00:00",
       "fetched": "2026-09-11T10:04:23.909874+00:00"
-    },
-    {
-      "id": "383807500fba5f3b",
-      "title": "NIMBYs and YIMBYs Both File Lawsuits Over San Francisco’s New Housing Plans",
-      "link": "https://www.realtor.com/news/trends/san-francisco-family-zoning-plan-yimby-ceqa-lawsuits/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "San Francisco is facing dueling suits that its up-zoning plans go too far, or not far enough, to build more housing.",
-      "published": "2026-09-10T22:08:05+00:00",
-      "fetched": "2026-09-11T01:38:13.110596+00:00"
-    },
-    {
-      "id": "8fa875b224d97ace",
-      "title": "Barbara Corcoran Says Kylie Jenner’s 6-Year Home Build Is ‘Not Worth It’ and Her Own $16M Penthouse Is ‘Much Nicer’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/barbara-corcoran-kylie-jenner-home-renovation-advice/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The real estate tycoon thinks the makeup mogul's six-year-long project is taking too long and claims her own home is \"much nicer.\"",
-      "published": "2026-09-10T20:35:04+00:00",
-      "fetched": "2026-09-11T01:38:13.110641+00:00"
-    },
-    {
-      "id": "bb70eacce140dd17",
-      "title": "The ‘Practical Magic’ Mansion: What This Cult-Classic Home Would Actually Cost You Today",
-      "link": "https://www.realtor.com/news/trends/practical-magic-house-cost-location/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Ever wonder how much it would cost to buy a historical mansion like the one in \"Practical Magic\"? Here's the mortgage payment to expect.",
-      "published": "2026-09-10T20:18:46+00:00",
-      "fetched": "2026-09-11T01:38:13.110674+00:00"
     }
   ]
 }
