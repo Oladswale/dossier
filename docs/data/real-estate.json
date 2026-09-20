@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-20T10:10:21.341916+00:00",
+  "updated": "2026-09-20T14:57:51.710420+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "aae6a2874cd84262",
+      "title": "Superfan Snaps Up Graceland-Inspired Home in Memphis for $150K: ‘I Bought It for Every Elvis Fan’",
+      "link": "https://www.realtor.com/news/unique-homes/elvis-presley-superfan-buys-graceland-inspired-house/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Claire Starring placed an offer on the home \"immediately\" after stepping foot on the green shag carpet of the 1950s abode.",
+      "published": "2026-09-20T13:08:00+00:00",
+      "fetched": "2026-09-20T14:57:51.709785+00:00"
+    },
+    {
+      "id": "429cf64e9e092bca",
+      "title": "How the Modern Farmhouse Went From Trendy HGTV Buzzword to Inexpensive Housing Solution",
+      "link": "https://www.realtor.com/news/unique-homes/modern-farmhouse-architectural-style-history/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The architectural style is relatively new, but it has quickly become a popular staple in neighborhoods across the country.",
+      "published": "2026-09-20T11:11:00+00:00",
+      "fetched": "2026-09-20T14:57:51.709817+00:00"
+    },
     {
       "id": "d36b188e67a43c6a",
       "title": "Inside ‘The Cactus House’: A $17 Million Restored Malibu Sanctuary on a Secret Beach",
@@ -1482,26 +1502,6 @@
       "summary": "Ever wonder how much it would cost to buy a historical mansion like the one in \"Practical Magic\"? Here's the mortgage payment to expect.",
       "published": "2026-09-10T20:18:46+00:00",
       "fetched": "2026-09-11T01:38:13.110674+00:00"
-    },
-    {
-      "id": "22185eb55f437862",
-      "title": "EXCLUSIVE: Perez Hilton Trims $350K From Price of Las Vegas Mansion—As Family Begs Fans to Vacate Miami Home Where Health Incident Occurred",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/perez-hilton-reduces-price-of-las-vegas-home-family-begs-fans-vacate-miami-residence/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 48-year-old media personality initially listed the six-bedroom, 6.5-bathroom property for $4.25 million in June.",
-      "published": "2026-09-10T20:15:36+00:00",
-      "fetched": "2026-09-11T01:38:13.110707+00:00"
-    },
-    {
-      "id": "e4c118ed14374523",
-      "title": "‘Selling Sunset’ Star Christine Quinn’s Ex Lists $5.5 Million L.A. Home as Bitter Divorce Battle Rages On",
-      "link": "https://www.realtor.com/news/reality-tv/selling-sunset-christine-quinn-ex-husband-divorce-los-angeles-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The tech entrepreneur purchased the home for $5 million in 2019, the same year he and Quinn tied the knot.",
-      "published": "2026-09-10T19:40:32+00:00",
-      "fetched": "2026-09-10T20:08:41.277532+00:00"
     }
   ]
 }
