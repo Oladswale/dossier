@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-20T19:52:29.182087+00:00",
+  "updated": "2026-09-21T01:52:25.530942+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "94f93576165c678e",
+      "title": "This 1834 Sea Captain’s Home On Nantucket Just Listed for $32 Million",
+      "link": "https://www.realtor.com/news/unique-homes/1835-greek-revival-nantucket-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The home, built in the 1830s, has been thoughtfully restored—and sits just 10 minutes from the water in Nantucket.",
+      "published": "2026-09-20T20:19:00+00:00",
+      "fetched": "2026-09-21T01:52:25.530129+00:00"
+    },
     {
       "id": "71c270fb3e84b08c",
       "title": "For the Price of a San Francisco Condo, You Can Buy a 400-Acre Historic Marshland Retreat",
@@ -1492,16 +1502,6 @@
       "summary": "Investors have used the same proven formula for decades: Buy a discounted property, renovate it, and increase its value by tens or sometimes even hundreds of thousands of dollars. It’s [ ]",
       "published": "2026-09-11T11:00:41+00:00",
       "fetched": "2026-09-11T15:19:55.389782+00:00"
-    },
-    {
-      "id": "117a0496e4f7c133",
-      "title": "Mortgage Rates Just Hit a 15-Month High. Is It Worth Paying Thousands To Lower Yours?",
-      "link": "https://www.realtor.com/news/trends/mortgage-points-worth-it-high-interest-rates/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage points surged as rates rose. New data shows when paying thousands upfront for a lower mortgage rate can actually pay off.",
-      "published": "2026-09-11T09:00:00+00:00",
-      "fetched": "2026-09-11T10:04:23.909874+00:00"
     }
   ]
 }

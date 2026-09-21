@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-09-20T19:52:12.746710+00:00",
+  "updated": "2026-09-21T01:52:07.776373+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bdc17979ee32d7ee",
+      "title": "NLC opposes King’s College concession, warns it could put Unity Colleges at risk",
+      "link": "https://nairametrics.com/2026/09/20/nlc-opposes-kings-college-concession-warns-it-could-put-unity-colleges-at-risk/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The NLC has opposed the proposed concession of King’s College, Lagos, warning that it could set a bad precedent for other Federal unity colleges. The post NLC opposes King’s College concession, warns it could put Unity Colleges at risk appeared first on Nairametrics .",
+      "published": "2026-09-20T22:39:48+00:00",
+      "fetched": "2026-09-21T01:52:07.150627+00:00"
+    },
     {
       "id": "0f80d58a21f36658",
       "title": "Tax Ombud warns against revenue-first approach to tax reforms",
@@ -32,6 +42,16 @@
       "summary": "The Centre for the Promotion of Private Enterprise (CPPE) has raised concerns over how foreign traders, particularly Chinese nationals, are... The post CPPE says Nigeria retail trade faces growing foreign competition appeared first on Nairametrics .",
       "published": "2026-09-20T17:13:57+00:00",
       "fetched": "2026-09-20T19:52:12.197399+00:00"
+    },
+    {
+      "id": "1400c09de121ac3e",
+      "title": "Paga CEO Tayo Oviosu says company processes $1.5 billion in monthly transctions",
+      "link": "https://nairametrics.com/2026/09/20/paga-ceo-tayo-oviosu-says-company-generates-1-5-billion-monthly/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Paga CEO Tayo Oviosu has said the fintech company processes about $1.5 billion in monthly transaction volume, while revealing that the business is valued in hundreds of millions of dollars. Oviosu made the disclosure during an interview with School of Hard Knocks, which returned to Nigeria to feature the Paga founder. According to Oviosu, Paga [ ] The post Paga CEO Tayo Oviosu says company processes $1.5 billion in monthly transctions appeared first on Nairametrics .",
+      "published": "2026-09-20T17:04:02+00:00",
+      "fetched": "2026-09-21T01:52:07.150711+00:00"
     },
     {
       "id": "a4578869bb88d23b",
@@ -1482,26 +1502,6 @@
       "summary": "Nigeria accounted for an estimated 140 million people in the mobile internet usage gap in 2025, according to the GSM Association (GSMA). The post Nigeria accounts for 140 million mobile internet usage gap, GSMA says appeared first on Nairametrics .",
       "published": "2026-09-17T09:29:16+00:00",
       "fetched": "2026-09-17T10:30:51.129457+00:00"
-    },
-    {
-      "id": "8887ff08fd2db6d0",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "2026-09-17T09:15:00+00:00",
-      "fetched": "2026-09-17T10:30:50.504565+00:00"
-    },
-    {
-      "id": "84d2cfce801111a1",
-      "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-      "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
-      "published": "2026-09-17T09:00:01+00:00",
-      "fetched": "2026-09-17T10:30:50.706122+00:00"
     }
   ]
 }
