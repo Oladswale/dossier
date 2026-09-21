@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-21T01:52:25.530942+00:00",
+  "updated": "2026-09-21T11:12:21.542067+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "31c2c33a48ab05e1",
+      "title": "The Hidden Gem Short-Term Rental Markets of 2026: Where Owners Are Maximizing Returns",
+      "link": "https://www.realtor.com/news/trends/hidden-gems-short-term-rental-markets-2026-airdna/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "AirDNA’s 2026 Hidden Gem report reveals the top 17 affordable U.S. short-term rental markets for high-yield investing—led by Rockford, IL.",
+      "published": "2026-09-21T09:00:00+00:00",
+      "fetched": "2026-09-21T11:12:21.541422+00:00"
+    },
+    {
+      "id": "a1256bddd82e5702",
+      "title": "When 401(k) Matches Disappear, Your Mortgage Payment Strategy Doesn’t Have To",
+      "link": "https://www.realtor.com/news/trends/lost-401k-matches-housing-budget-strategy-money-monday/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "401(k) match cuts threaten critical retirement savings, making it harder for homeowners to afford future housing expenses.",
+      "published": "2026-09-21T08:32:00+00:00",
+      "fetched": "2026-09-21T11:12:21.541461+00:00"
+    },
+    {
+      "id": "cd8dc04c096ac625",
+      "title": "Housing Week Ahead: Down Payment Trends, New-Home Sales, and Bracing for 7% Mortgage Rates",
+      "link": "https://www.realtor.com/news/trends/weekly-housing-video-data-reports-september-21-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The upcoming week brings a steady stream of housing insights from the Realtor.com economics team as well as a handful of key indicators.",
+      "published": "2026-09-21T08:13:00+00:00",
+      "fetched": "2026-09-21T11:12:21.541492+00:00"
+    },
     {
       "id": "94f93576165c678e",
       "title": "This 1834 Sea Captain’s Home On Nantucket Just Listed for $32 Million",
@@ -1472,36 +1502,6 @@
       "summary": "The Federal Reserve is now seen as extremely likely to raise its benchmark interest rate next week, as new inflation data runs hot.",
       "published": "2026-09-11T12:44:24+00:00",
       "fetched": "2026-09-11T15:19:55.870605+00:00"
-    },
-    {
-      "id": "9a4418fbca1d50d6",
-      "title": "Should You Keep or Sell a Rental Property That Needs Work? (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-769",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Your first rental cash flows just fine, but it needs some work, and in order to scale your portfolio, the next big decision hits: Should you hold and repair, or [ ]",
-      "published": "2026-09-11T11:56:10+00:00",
-      "fetched": "2026-09-14T17:06:18.891007+00:00"
-    },
-    {
-      "id": "4ae3c6e8e5e9f4b8",
-      "title": "EXCLUSIVE: How Luxury Broker Ravi Kantha Traded the Courtroom for High-End Real Estate Deals",
-      "link": "https://www.realtor.com/news/unique-homes/luxury-broker-ravi-kantha-serhant/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Go inside a day with top Brooklyn Heights agent Ravi Kantha—his multi-million dollar listings and expanding to Miami with SERHANT.",
-      "published": "2026-09-11T11:37:52+00:00",
-      "fetched": "2026-09-11T15:19:55.870635+00:00"
-    },
-    {
-      "id": "dde60daea8595780",
-      "title": "High-ROI, Value-Add Renovations for Any Investor (and How Much They’ll Cost)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1329",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Investors have used the same proven formula for decades: Buy a discounted property, renovate it, and increase its value by tens or sometimes even hundreds of thousands of dollars. It’s [ ]",
-      "published": "2026-09-11T11:00:41+00:00",
-      "fetched": "2026-09-11T15:19:55.389782+00:00"
     }
   ]
 }

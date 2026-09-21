@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-21T01:52:24.908209+00:00",
+  "updated": "2026-09-21T11:12:20.918369+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6bc5b3178e20f91e",
+      "title": "When Galileo Calculated the Precise Dimensions of Hell in Dante’s Inferno",
+      "link": "https://www.openculture.com/2026/09/when-galileo-calculated-the-precise-dimensions-of-hell-in-dantes-inferno.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "We venerate Galileo Galilei for daring to speak the scientific truth in the face of severe institutional opposition. He publicly acknowledged that the Earth revolves around the Sun in a time when the Church would rather he didn’t, displaying a bloody-mindedness that he seems to have acquired with age. Decades earlier, in the first stage [ ]",
+      "published": "2026-09-21T09:00:34+00:00",
+      "fetched": "2026-09-21T11:12:20.918104+00:00"
+    },
+    {
+      "id": "e7f011c5a77fc225",
+      "title": "Unmasking “zombie cells” in aging tissue with an AI-powered barcode",
+      "link": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working on new treatments.",
+      "published": "2026-09-21T09:00:00+00:00",
+      "fetched": "2026-09-21T11:12:19.459955+00:00"
+    },
+    {
+      "id": "4840b86097418747",
+      "title": "Listen to 4+ Hours of Jazz & Classical Music from Haruki Murakami’s Novels",
+      "link": "https://www.openculture.com/2026/09/listen-to-4-hours-of-jazz-classical-music-from-haruki-murakamis-novels.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Before he became a novelist, Haruki Murakami ran a jazz bar in Tokyo, and music has filled his novels ever since. For your listening pleasure, NTS Radio has created two playlists of the jazz and classical music referenced in his fiction. Together, they run nearly five hours and feature everyone from John Coltrane, Bill Evans, [ ]",
+      "published": "2026-09-21T07:30:33+00:00",
+      "fetched": "2026-09-21T11:12:20.918161+00:00"
+    },
     {
       "id": "d720f519ee3897c4",
       "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
@@ -1472,36 +1502,6 @@
       "summary": "A new short film from MIT Open Learning explores the influential career of Institute Professor and School of Engineering Dean Paula Hammond.",
       "published": "2026-08-12T20:25:00+00:00",
       "fetched": "2026-08-13T00:51:40.320646+00:00"
-    },
-    {
-      "id": "ac58e471c9c5f51e",
-      "title": "MIT selected to lead new NSF materials research center",
-      "link": "https://news.mit.edu/2026/mit-to-lead-nsf-materials-research-center-0812",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The Materials Research Science and Engineering Center unites researchers across disciplines to develop technologies for medical imaging, sustainable metals production, and next-generation electronics.",
-      "published": "2026-08-12T20:15:00+00:00",
-      "fetched": "2026-08-13T00:51:40.320687+00:00"
-    },
-    {
-      "id": "92fcb39a8ab1f8fe",
-      "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
-      "link": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The mashup of a black hole and an enormous star has never been seen before and could explain the mysterious little red dots often found in deep-space images.",
-      "published": "2026-08-12T15:00:00+00:00",
-      "fetched": "2026-08-12T18:43:04.382252+00:00"
-    },
-    {
-      "id": "ccc12aeb837a81bd",
-      "title": "The Most Controversial Ancient Philosophy: Epicureanism",
-      "link": "https://www.openculture.com/2026/08/the-most-controversial-ancient-philosophy-epicureanism.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Over the years, you’ve probably heard at least a few people casually describe themselves as Epicureans. As used today, the label can refer to as little as enjoying the occasional expensive restaurant meal. The bar was a bit higher in the second century, as explained by ancient-history YouTuber Garrett Ryan in the new video above [ ]",
-      "published": "2026-08-12T13:57:06+00:00",
-      "fetched": "2026-08-12T18:43:05.426005+00:00"
     }
   ]
 }
