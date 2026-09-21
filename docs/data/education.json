@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-21T17:15:26.426650+00:00",
+  "updated": "2026-09-21T21:16:57.877883+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "05ac2997f8ad7f21",
+      "title": "Finding purpose through research",
+      "link": "https://news.mit.edu/2026/finding-purpose-through-research-0921",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "This summer, BSG-MSRP-Bio student Marina Milea investigated how lung cancers become resistant to targeted therapies, gaining hands-on research experience in the Jacks Lab at the Koch Institute.",
+      "published": "2026-09-21T20:35:00+00:00",
+      "fetched": "2026-09-21T21:16:56.584663+00:00"
+    },
     {
       "id": "cdeae64a69a5bd95",
       "title": "Carter Stubbs named Institute auditor",
@@ -592,6 +602,16 @@
       "summary": "The range of faculty disciplines showcases the breadth of research and scholarship across the school.",
       "published": "2026-09-03T20:50:00+00:00",
       "fetched": "2026-09-04T01:32:39.547611+00:00"
+    },
+    {
+      "id": "0494d1d10fec43ee",
+      "title": "A home a world away from home",
+      "link": "https://news.mit.edu/2026/home-world-away-home-0921",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "One graduate student family treasures the community they found alongside other MIT student parents.",
+      "published": "2026-09-03T19:30:00+00:00",
+      "fetched": "2026-09-21T21:16:56.584926+00:00"
     },
     {
       "id": "2fdd07b56d8a8c19",
@@ -1482,26 +1502,6 @@
       "summary": "The new technique could help scientists learn how the entire brain works to generate decisions and emotions.",
       "published": "2026-08-14T09:00:00+00:00",
       "fetched": "2026-08-14T12:34:30.368614+00:00"
-    },
-    {
-      "id": "be4289266f2940f5",
-      "title": "When the US Mail Was Delivered Underground at 35 MPH Through a Network of Pneumatic Tubes (1893–1953)",
-      "link": "https://www.openculture.com/2026/08/how-the-us-mail-was-delivered-underground.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Twenty years ago, United States senator Ted Stevens drew long-lasting online ridicule by describing the internet as “a series of tubes.” While some commentators noted that the analogy wasn’t quite as outlandish as it seemed, most reacted with nothing more than amused bafflement. Where had Stevens come up with that image? Given that he was [ ]",
-      "published": "2026-08-13T13:32:09+00:00",
-      "fetched": "2026-08-13T18:43:29.075987+00:00"
-    },
-    {
-      "id": "3ba3c52b00ba0ef4",
-      "title": "One of the Best Preserved Ancient Manuscripts of The Iliad Is Now Digitized: See the “Bankes Homer” Manuscript in High Resolution (Circa 150 C.E.)",
-      "link": "https://www.openculture.com/2026/08/one-of-the-best-preserved-ancient-manuscripts-of-the-iliad-is-now-digitized-see-the-bankes-homer-manuscript.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Each time I sit through the end credits of a film, I think about how weird auteur theory is—that a work of cinema can be primarily thought of as the singular vision of the director. Typical examples come from artier fare than the usual Hollywood blockbuster in which crews of thousands of stuntpeople, special effects [ ]",
-      "published": "2026-08-13T08:00:00+00:00",
-      "fetched": "2026-08-13T12:38:35.036068+00:00"
     }
   ]
 }
