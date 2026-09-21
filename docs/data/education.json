@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-21T11:12:20.918369+00:00",
+  "updated": "2026-09-21T17:15:26.426650+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cdeae64a69a5bd95",
+      "title": "Carter Stubbs named Institute auditor",
+      "link": "https://news.mit.edu/2026/carter-stubbs-named-institute-auditor-0921",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "New Audit Division leader brings track record of collaboration, deep knowledge of audit program and MIT operations to role.",
+      "published": "2026-09-21T17:00:00+00:00",
+      "fetched": "2026-09-21T17:15:25.157330+00:00"
+    },
+    {
+      "id": "239eb583c15e543e",
+      "title": "Batteries that safely break down in the GI tract could improve ingestible devices",
+      "link": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Made from “bioresorbable” materials, the new batteries could power capsules for drug delivery, sensing, and other applications.",
+      "published": "2026-09-21T15:00:00+00:00",
+      "fetched": "2026-09-21T17:15:25.157368+00:00"
+    },
     {
       "id": "6bc5b3178e20f91e",
       "title": "When Galileo Calculated the Precise Dimensions of Hell in Dante’s Inferno",
@@ -1482,26 +1502,6 @@
       "summary": "Each time I sit through the end credits of a film, I think about how weird auteur theory is—that a work of cinema can be primarily thought of as the singular vision of the director. Typical examples come from artier fare than the usual Hollywood blockbuster in which crews of thousands of stuntpeople, special effects [ ]",
       "published": "2026-08-13T08:00:00+00:00",
       "fetched": "2026-08-13T12:38:35.036068+00:00"
-    },
-    {
-      "id": "f79a50e1fd40620b",
-      "title": "Researchers uncover hidden pore network within nuclear fuel",
-      "link": "https://news.mit.edu/2026/researchers-uncover-hidden-pore-network-within-nuclear-fuel-0813",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New understanding of how nuclear fuel breaks down and changes in an operating nuclear reactor could help keep some reactors running longer, will inform the next generation of nuclear reactor fuel systems.",
-      "published": "2026-08-13T04:00:00+00:00",
-      "fetched": "2026-08-13T07:06:12.458765+00:00"
-    },
-    {
-      "id": "f693bdb4aba6d734",
-      "title": "Featured video: An “MIT story” about an iconic professor",
-      "link": "https://news.mit.edu/2026/featured-video-mit-story-paula-hammond-0812",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new short film from MIT Open Learning explores the influential career of Institute Professor and School of Engineering Dean Paula Hammond.",
-      "published": "2026-08-12T20:25:00+00:00",
-      "fetched": "2026-08-13T00:51:40.320646+00:00"
     }
   ]
 }
