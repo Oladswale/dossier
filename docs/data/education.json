@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-22T02:00:45.090086+00:00",
+  "updated": "2026-09-22T10:26:27.420714+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "56cd66276e600c5f",
+      "title": "MIT named the nation’s top university by U.S. News for 2026-27",
+      "link": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.",
+      "published": "2026-09-22T04:01:00+00:00",
+      "fetched": "2026-09-22T10:25:26.919769+00:00"
+    },
+    {
+      "id": "665eb751a6576003",
+      "title": "Podcast: SHASS’s special sauce",
+      "link": "https://news.mit.edu/2026/podcast-shass-special-sauce-0922",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Established after World War II, the School of the Humanities, Arts, and Sciences is an integral part of the MIT experience. Three faculty reflect on the school’s ongoing impact.",
+      "published": "2026-09-22T04:00:00+00:00",
+      "fetched": "2026-09-22T10:25:26.919811+00:00"
+    },
     {
       "id": "05ac2997f8ad7f21",
       "title": "Finding purpose through research",
@@ -1482,26 +1502,6 @@
       "summary": "MIT researchers discovered a cellular dance that may offer clues to the development of cancer, asthma, and other diseases.",
       "published": "2026-08-14T15:00:00+00:00",
       "fetched": "2026-08-14T18:37:24.130625+00:00"
-    },
-    {
-      "id": "3e9ade9450dd2fe3",
-      "title": "Discover the Ancient Roman Shorthand Writing System with 4,000 Symbols Commissioned by Cicero",
-      "link": "https://www.openculture.com/2026/08/discover-the-ancient-roman-shorthand-writing-system-with-4000-symbols-commissioned-by-cicero.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "You can still type a symbol originally invented for Cicero nearly 21 centuries ago — at least if you configure your keyboard properly. The character ⁊ appears in Unicode as U+204A, but is better known as the “Tironian et”: the “et” is Latin for “and,” and the “Tironian” comes from its creator, a man named [ ]",
-      "published": "2026-08-14T13:51:24+00:00",
-      "fetched": "2026-08-14T18:37:25.339145+00:00"
-    },
-    {
-      "id": "ae4428f3e67fe54b",
-      "title": "High-speed microscopy reveals electrical activity across the brain",
-      "link": "https://news.mit.edu/2026/high-speed-microscopy-reveals-electrical-activity-across-brain-0814",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The new technique could help scientists learn how the entire brain works to generate decisions and emotions.",
-      "published": "2026-08-14T09:00:00+00:00",
-      "fetched": "2026-08-14T12:34:30.368614+00:00"
     }
   ]
 }

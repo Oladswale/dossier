@@ -1,8 +1,238 @@
 {
   "category": "finance",
-  "updated": "2026-09-22T02:00:27.973901+00:00",
+  "updated": "2026-09-22T10:25:11.493299+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1245c5c535388018",
+      "title": "Stock Buy Recommendations: BUA Cement, UBA and MTN top brokers’ late-September list",
+      "link": "https://nairametrics.com/2026/09/22/stock-buy-recommendations-bua-cement-uba-and-mtn-top-brokers-late-september-list/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "BUA Cement, UBA and MTN Nigeria have emerged among brokers’ leading stock picks for late September as analysts continue to identify buying opportunities despite the Nigerian equities market trading at record levels. The post Stock Buy Recommendations: BUA Cement, UBA and MTN top brokers’ late-September list appeared first on Nairametrics .",
+      "published": "2026-09-22T10:23:23+00:00",
+      "fetched": "2026-09-22T10:25:10.007862+00:00"
+    },
+    {
+      "id": "73fe7d19db8d78f2",
+      "title": "Kenya proposes up to $1.93m capital requirement for payment firms",
+      "link": "https://techcabal.com/2026/09/22/kenya-proposes-up-to-1-93m-capital-requirement-for-payment-firms/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The proposed rules could make it harder for early-stage and bootstrapped fintechs to enter the market.",
+      "published": "2026-09-22T09:52:24+00:00",
+      "fetched": "2026-09-22T10:25:11.493020+00:00"
+    },
+    {
+      "id": "a54e32ff287dbe27",
+      "title": "Dangote dismisses monopoly claims, says refining opportunity was open to all",
+      "link": "https://nairametrics.com/2026/09/22/dangote-dismisses-monopoly-claims-says-refining-opportunity-was-open-to-all/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Aliko Dangote, Chairman of Dangote Group, has dismissed accusations that he is running a monopoly in Nigeria's oil refining sector, insisting that the opportunity to invest was available to everyone, including foreign investors. The post Dangote dismisses monopoly claims, says refining opportunity was open to all appeared first on Nairametrics .",
+      "published": "2026-09-22T09:41:55+00:00",
+      "fetched": "2026-09-22T10:25:10.007918+00:00"
+    },
+    {
+      "id": "43d9da25a607da34",
+      "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
+      "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "HSBC says it’s designed a machine-learning model to predict the direction of the most important financial instrument in global markets.",
+      "published": "2026-09-22T09:23:00+00:00",
+      "fetched": "2026-09-22T10:25:09.138723+00:00"
+    },
+    {
+      "id": "61e4918b2ca8a27d",
+      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+      "published": "2026-09-22T09:15:00+00:00",
+      "fetched": "2026-09-22T10:25:09.138770+00:00"
+    },
+    {
+      "id": "dd0701817cb54ee2",
+      "title": "Keeping Business Moving: Managing Trade-Corridor Risk in Q4",
+      "link": "https://nairametrics.com/2026/09/22/keeping-business-moving-managing-trade-corridor-risk-in-q4/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The last quarter of the year can be upbeat, but it is also when the year gets settled. Sales teams work to close the gap between forecast and actual. Operations are clearing delivery backlogs that have accumulated since the better half of the year.",
+      "published": "2026-09-22T09:10:09+00:00",
+      "fetched": "2026-09-22T10:25:10.007974+00:00"
+    },
+    {
+      "id": "744d6c17afb4fb8f",
+      "title": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
+      "link": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Mamma Mia!” star Amanda Seyfried and her husband, Thomas Sadoski, have split after nine years of marriage—just weeks after the actress put her longtime Los Angeles home on the market.",
+      "published": "2026-09-22T09:02:00+00:00",
+      "fetched": "2026-09-22T10:25:09.138810+00:00"
+    },
+    {
+      "id": "d202f74b23cbf66a",
+      "title": "Singer Charlie Puth sells $18.5 million SoCal mansion where he married Brook Sansone",
+      "link": "https://www.marketwatch.com/story/singer-charlie-puth-sells-18-5-million-socal-mansion-where-he-married-brook-sansone-4447dc2c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Singer Charlie Puth has offloaded the Montecito mansion where he and Brooke Sansone tied the knot, selling the sprawling estate for $18.5 million.",
+      "published": "2026-09-22T08:59:00+00:00",
+      "fetched": "2026-09-22T10:25:09.138841+00:00"
+    },
+    {
+      "id": "c50494e44eb667d8",
+      "title": "MKH properties secures ₦30 billion commercial paper programme, signals aggressive expansion plans",
+      "link": "https://nairametrics.com/2026/09/22/mkh-properties-secures-%e2%82%a630-billion-commercial-paper-programme-signals-aggressive-expansion-plans/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "MKH Properties Limited has formally signed a 30 billion Commercial Paper Programme, marking one of the most significant capital market moves by a Nigerian real estate developer in recent years.The signing ceremony took place at Four Points Sheraton, bringing together the company s senior leadership and representatives from Pathway Advisors Limited, the advisory firm that structured [ ] The post MKH properties secures ₦30 billion commercial paper programme, signals aggressive expansion plans appeared first on Nairametrics .",
+      "published": "2026-09-22T08:52:30+00:00",
+      "fetched": "2026-09-22T10:25:10.008042+00:00"
+    },
+    {
+      "id": "276b9b344fcc3140",
+      "title": "CBN data localisation push could make Nigeria Africa’s data hub—OADC CEO",
+      "link": "https://nairametrics.com/2026/09/22/cbn-data-localisation-push-could-make-nigeria-africas-data-hub-oadc-ceo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria’s directive requiring banks and fintechs to host their data in Nigeria by January 2027 is creating fresh demand for local data centre and cloud infrastructure, while raising questions about capacity, resilience and power. The post CBN data localisation push could make Nigeria Africa’s data hub—OADC CEO appeared first on Nairametrics .",
+      "published": "2026-09-22T08:30:32+00:00",
+      "fetched": "2026-09-22T10:25:10.008095+00:00"
+    },
+    {
+      "id": "3188e12a35fa9908",
+      "title": "OPay at 8: Still Okay, Still Moving Nigeria Forward",
+      "link": "https://nairametrics.com/2026/09/22/opay-at-8-still-okay-still-moving-nigeria-forward/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Eight years after commencing operations in Nigeria, OPay continues to build, innovate and serve, using technology to make financial services simpler, more accessible, and more inclusive for Nigerians. For some Nigerians, OPay is an app on their phone. For others, it is the money that arrived when they needed it, the electricity bill they paid [ ] The post OPay at 8: Still Okay, Still Moving Nigeria Forward appeared first on Nairametrics .",
+      "published": "2026-09-22T08:03:21+00:00",
+      "fetched": "2026-09-22T10:25:10.008146+00:00"
+    },
+    {
+      "id": "e6908025185a5349",
+      "title": "Credit to government declines for third consecutive month, falls to N32.7 trillion in August",
+      "link": "https://nairametrics.com/2026/09/22/credit-to-government-declines-for-third-consecutive-month-falls-to-n32-7-trillion-in-august/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Credit to the government declined for the third consecutive month, falling to N32.7 trillion in August 2026. The post Credit to government declines for third consecutive month, falls to N32.7 trillion in August appeared first on Nairametrics .",
+      "published": "2026-09-22T07:52:45+00:00",
+      "fetched": "2026-09-22T10:25:10.008184+00:00"
+    },
+    {
+      "id": "b9772f0b61d2e1b0",
+      "title": "Refined fuel exports jump 66%, lifting current account surplus to $7.5 billion",
+      "link": "https://nairametrics.com/2026/09/22/refined-fuel-exports-jump-66-lifting-current-account-surplus-to-7-5-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Refined petroleum product exports rose by 66.24% in the second quarter of 2026, helping to push Nigeria’s current account surplus to $7.54 billion. The post Refined fuel exports jump 66%, lifting current account surplus to $7.5 billion appeared first on Nairametrics .",
+      "published": "2026-09-22T07:52:05+00:00",
+      "fetched": "2026-09-22T10:25:10.008226+00:00"
+    },
+    {
+      "id": "553192ce3ac1154d",
+      "title": "Tanzania regulator reveals KCB’s 22.23% stake in payments firm Pesapal",
+      "link": "https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The deal deepens KCB’s push into payments and business software, giving the bank exposure to Pesapal’s merchant network across East Africa.",
+      "published": "2026-09-22T06:52:23+00:00",
+      "fetched": "2026-09-22T10:25:11.493063+00:00"
+    },
+    {
+      "id": "d178555e99a445da",
+      "title": "GCR upgrades Fidelity Bank rating on stronger capital position",
+      "link": "https://nairametrics.com/2026/09/22/gcr-upgrades-fidelity-bank-rating-on-stronger-capital-position/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "GCR Ratings has upgraded Fidelity Bank Plc s national scale long term issuer rating to A Plus (NG), from A (NG), while affirming its short term issuer rating at A1 (NG). The outlook remains stable. The upgrade reflects Fidelity Bank s significantly strengthened capital position following the addition of NGN227.0 billion to its total core capital.",
+      "published": "2026-09-22T06:50:18+00:00",
+      "fetched": "2026-09-22T10:25:10.008278+00:00"
+    },
+    {
+      "id": "15600c348afa4750",
+      "title": "Kenya’s new payments bill could force banks to share customer data",
+      "link": "https://techcabal.com/2026/09/22/kenya-proposes-forcing-banks-to-share-customer-data/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The proposal could loosen banks’ and mobile money providers’ control over customer relationships by allowing licenced fintechs to access customer data.",
+      "published": "2026-09-22T06:43:28+00:00",
+      "fetched": "2026-09-22T10:25:11.493096+00:00"
+    },
+    {
+      "id": "74a9eb49d4448fcc",
+      "title": "SUNU Assurances appoints TAC Professional Services as new external auditors",
+      "link": "https://nairametrics.com/2026/09/22/sunu-assurances-appoints-tac-professional-services-as-new-external-auditors/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "SUNU Assurances Nigeria Plc has appointed TAC Professional Services as its new External Auditors, following the retirement of SIAO Partners, which completed the maximum eight-year tenure permitted under the National Insurance Commission’s (NAICOM) Corporate Governance Guidelines 2021. The post SUNU Assurances appoints TAC Professional Services as new external auditors appeared first on Nairametrics .",
+      "published": "2026-09-22T06:37:31+00:00",
+      "fetched": "2026-09-22T10:25:10.008329+00:00"
+    },
+    {
+      "id": "ac012c9e5e17b6de",
+      "title": "FTSE Russell reclassification fuels Nigerian equities to record 60.76% YTD gain",
+      "link": "https://nairametrics.com/2026/09/22/ftse-russell-reclassification-fuels-nigerian-equities-to-record-60-76-ytd-gain/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market entered a new chapter on Monday, September 21, 2026, after the NGX benchmark All-Share Index hit 250,156.80 points with the year-to-date returns reaching 60.76% after 0.14% daily gain, lifting total equities market capitalization to N162.39 trillion, the highest level ever seen in the twin performance indicators. The post FTSE Russell reclassification fuels Nigerian equities to record 60.76% YTD gain appeared first on Nairametrics .",
+      "published": "2026-09-22T06:07:53+00:00",
+      "fetched": "2026-09-22T10:25:10.008378+00:00"
+    },
+    {
+      "id": "2ac94c2bcc2fe0f8",
+      "title": "Afreximbank, ATDC sign $500 million Global Credit Facility to expand African trade",
+      "link": "https://nairametrics.com/2026/09/22/afreximbank-atdc-sign-500-million-global-credit-facility-to-expand-african-trade/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The African Export-Import Bank (Afreximbank) and the Africa Trading and Distribution Company (ATDC) have signed a $500 million Global Credit Facility aimed at strengthening the trade, movement and distribution of commodities across Africa and international markets. The post Afreximbank, ATDC sign $500 million Global Credit Facility to expand African trade appeared first on Nairametrics .",
+      "published": "2026-09-22T06:01:43+00:00",
+      "fetched": "2026-09-22T10:25:10.008422+00:00"
+    },
+    {
+      "id": "f06e1d6d9c4955c7",
+      "title": "👨🏿‍🚀TechCabal Daily – Tamweely wheels in",
+      "link": "https://techcabal.com/2026/09/22/techcabal-daily-tamweely-wheels-in/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "In today's edition: e-finance gets shareholder approval for Tamweely deal Spiro secures debt for expansion Paymob raises $35 million StanChart chases Nakumatt debt",
+      "published": "2026-09-22T06:01:36+00:00",
+      "fetched": "2026-09-22T10:25:11.493132+00:00"
+    },
+    {
+      "id": "b73032480f5dae57",
+      "title": "Dangote targets $10 billion power investment, considers cancelling steel business",
+      "link": "https://nairametrics.com/2026/09/22/dangote-targets-10-billion-power-investment-considers-cancelling-steel-business/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Aliko Dangote has disclosed plans to invest more than $10 billion in power, as he identified electricity as critical to Africa's economic growth. The post Dangote targets $10 billion power investment, considers cancelling steel business appeared first on Nairametrics .",
+      "published": "2026-09-22T05:46:44+00:00",
+      "fetched": "2026-09-22T10:25:10.008500+00:00"
+    },
+    {
+      "id": "ad9bed4a51c84d82",
+      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
+      "published": "2026-09-22T04:02:00+00:00",
+      "fetched": "2026-09-22T10:25:09.138872+00:00"
+    },
+    {
+      "id": "aff90f1809e16e45",
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
+      "published": "2026-09-22T02:41:10+00:00",
+      "fetched": "2026-09-22T10:25:09.383937+00:00"
+    },
     {
       "id": "785696d44c34aa38",
       "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
@@ -1272,236 +1502,6 @@
       "summary": "The Nigerian Stock Market hit a record N162.2 trillion in market cap for the first time ever as stocks closed the week on a high. The post BREAKING: NGX market cap hits N162 trillion for the first time ever appeared first on Nairametrics .",
       "published": "2026-09-18T20:01:36+00:00",
       "fetched": "2026-09-18T20:02:55.121793+00:00"
-    },
-    {
-      "id": "e64cf4ca6a534272",
-      "title": "Appeal Court reverses deregistration of Peter Obi’s NDC in 2-1 judgement",
-      "link": "https://nairametrics.com/2026/09/18/appeal-court-reverses-deregistration-of-peter-obis-ndc-in-2-1-judgement/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Court of Appeal, Abuja, has reversed the judgment of the Federal High Court sitting in Lokoja, which set aside its earlier judgment directing the Independent National Electoral Commission (INEC) to register the Nigeria Democratic Congress (NDC), pending a fresh hearing over a dispute involving its logo. The post Appeal Court reverses deregistration of Peter Obi’s NDC in 2-1 judgement appeared first on Nairametrics .",
-      "published": "2026-09-18T19:56:49+00:00",
-      "fetched": "2026-09-18T20:02:55.121846+00:00"
-    },
-    {
-      "id": "53b5040d1b6d7471",
-      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Selling a condo has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
-      "published": "2026-09-18T19:11:00+00:00",
-      "fetched": "2026-09-18T20:02:54.213983+00:00"
-    },
-    {
-      "id": "0774b1792c3050db",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-      "published": "2026-09-18T18:46:00+00:00",
-      "fetched": "2026-09-18T20:02:54.214028+00:00"
-    },
-    {
-      "id": "eea4459137e7a2e0",
-      "title": "Nigeria’s Data Boom comes with a growing infrastructure costs",
-      "link": "https://nairametrics.com/2026/09/18/nigerias-data-boom-comes-with-a-growing-infrastructure-costs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s appetite for mobile internet is expanding rapidly, but beneath the rising volume of videos streamed, payments processed, businesses conducted, and services accessed online is a less visible requirement: more infrastructure. The post Nigeria s Data Boom comes with a growing infrastructure costs appeared first on Nairametrics .",
-      "published": "2026-09-18T18:44:44+00:00",
-      "fetched": "2026-09-18T20:02:55.121886+00:00"
-    },
-    {
-      "id": "aeeeb325157e9bcf",
-      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-      "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
-      "published": "2026-09-18T18:28:31+00:00",
-      "fetched": "2026-09-18T20:02:54.403544+00:00"
-    },
-    {
-      "id": "ddba6d2189722527",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“They had been married for over 30 years when she passed.”",
-      "published": "2026-09-18T18:26:00+00:00",
-      "fetched": "2026-09-18T20:02:54.214059+00:00"
-    },
-    {
-      "id": "dae3bcae30259bac",
-      "title": "Soludo promises compensation for residents affected by Nnobi demolition",
-      "link": "https://nairametrics.com/2026/09/18/soludo-promises-compensation-for-residents-affected-by-nnobi-demolition/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Anambra State Governor, Chukwuma Charles Soludo, has promised to compensate all persons whose residential buildings were demolished during the ongoing widening of Afor Nnobi roundabout in Idemili South LGA of the state. The post Soludo promises compensation for residents affected by Nnobi demolition appeared first on Nairametrics .",
-      "published": "2026-09-18T18:16:23+00:00",
-      "fetched": "2026-09-18T20:02:55.121919+00:00"
-    },
-    {
-      "id": "eab3900ea47c4039",
-      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
-      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Shocking to say, but Berkshire Hathaway’s stock has actually not outperformed the S P 500 in about 30 years.",
-      "published": "2026-09-18T17:41:00+00:00",
-      "fetched": "2026-09-18T20:02:54.214084+00:00"
-    },
-    {
-      "id": "8577296dbff27d82",
-      "title": "Two signs investors don’t have to fear an AI slowdown",
-      "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips.",
-      "published": "2026-09-18T17:02:00+00:00",
-      "fetched": "2026-09-18T20:02:54.214103+00:00"
-    },
-    {
-      "id": "167edcc3f7bdb104",
-      "title": "What’s really driving inflation and rising interest rates",
-      "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Also in Weekend Reads: The housing market, retirement planning with an age gap, and a combination of warnings and opportunities in the stock market.",
-      "published": "2026-09-18T16:50:00+00:00",
-      "fetched": "2026-09-18T20:02:54.214124+00:00"
-    },
-    {
-      "id": "0994dcb8f38793d6",
-      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-      "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Even when rates are higher, stocks should still beat bonds",
-      "published": "2026-09-18T16:39:00+00:00",
-      "fetched": "2026-09-18T20:02:54.214155+00:00"
-    },
-    {
-      "id": "697dc24c75db5dd3",
-      "title": "Many young investors can’t afford to invest without their parents’ help",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
-      "published": "2026-09-18T15:14:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176440+00:00"
-    },
-    {
-      "id": "57d3ca5a48a695cc",
-      "title": "Nigeria’s next satellites come with a local manufacturing plan",
-      "link": "https://techcabal.com/2026/09/18/nigcomsat-picks-hughes-for-new-satellite-ground-systems/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The plan would move Nigeria beyond simply owning and operating satellites towards making some of the equipment needed to turn them into connectivity services.",
-      "published": "2026-09-18T14:56:47+00:00",
-      "fetched": "2026-09-18T15:16:28.089058+00:00"
-    },
-    {
-      "id": "b0160ddc1d4eccec",
-      "title": "FCMB Capital Markets Supports BOI’s ₦274.19 Billion Development Bond Issuance",
-      "link": "https://nairametrics.com/2026/09/18/fcmb-capital-markets-supports-bois-%e2%82%a6274-19-billion-development-bond-issuance/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FCMB Capital Markets Limited acted as a Joint Issuing House and Bookrunner on the ₦274.19 billion Series 1 Development Bond issued by the Bank of Industry (BOI), one of the largest sub-sovereign bond issuances through the Nigerian capital market. The five-year, 17.60% fixed-rate bond, due in 2031, was issued through BOI Financing SPV Plc under [ ] The post FCMB Capital Markets Supports BOI’s ₦274.19 Billion Development Bond Issuance appeared first on Nairametrics .",
-      "published": "2026-09-18T14:56:28+00:00",
-      "fetched": "2026-09-18T15:16:26.826285+00:00"
-    },
-    {
-      "id": "f8de3de0d3ea9729",
-      "title": "Infinix GT 50 Pro: Built for Gamers Who Play to Win",
-      "link": "https://nairametrics.com/2026/09/18/infinix-gt-50-pro-built-for-gamers-who-play-to-win/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Mobile gaming has moved well beyond casual play. Competitive titles now demand sustained frame rates, responsive controls and hardware that can maintain performance through extended sessions. For players who take ranked matches, tournaments and competitive play seriously, peak performance for the first few minutes is no longer enough.",
-      "published": "2026-09-18T14:55:34+00:00",
-      "fetched": "2026-09-18T15:16:26.826344+00:00"
-    },
-    {
-      "id": "281828afa0ae1cfb",
-      "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
-      "link": "https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investment scams cost Americans billions of dollars every year — how to protect yourself.",
-      "published": "2026-09-18T14:09:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176473+00:00"
-    },
-    {
-      "id": "407700e32329b531",
-      "title": "How Government borrowing tests Nigeria’s Private-Sector Credit Market",
-      "link": "https://nairametrics.com/2026/09/18/how-government-borrowing-tests-nigerias-private-sector-credit-market/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s tilting dependence on domestic borrowing is creating an increasing contest for bank credit, raising anxieties that government’s capacity to offer attractive yields on its securities could inhibit the flow of affordable credit to businesses and households even as banks surface from a major recapitalisation exercise. The post How Government borrowing tests Nigeria’s Private-Sector Credit Market appeared first on Nairametrics .",
-      "published": "2026-09-18T13:52:03+00:00",
-      "fetched": "2026-09-18T15:16:26.826395+00:00"
-    },
-    {
-      "id": "968bef3bd170e6c3",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-      "published": "2026-09-18T13:39:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176493+00:00"
-    },
-    {
-      "id": "2c9e4766a58a63fa",
-      "title": "How can I get my employees to stop oversharing at work?",
-      "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“They have complained before that I don’t share enough details about my personal life with them.”",
-      "published": "2026-09-18T13:32:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176510+00:00"
-    },
-    {
-      "id": "148bc5f7ae706407",
-      "title": "FG, CBN sign MoU to formalise fiscal-monetary policy coordination",
-      "link": "https://nairametrics.com/2026/09/18/fg-cbn-sign-mou-to-formalise-fiscal-monetary-policy-coordination/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government and the Central Bank of Nigeria (CBN) have signed a Memorandum of Understanding (MoU) to formalise coordination between fiscal and monetary authorities, with a focus on improving macroeconomic management and policy consistency. The post FG, CBN sign MoU to formalise fiscal-monetary policy coordination appeared first on Nairametrics .",
-      "published": "2026-09-18T13:31:26+00:00",
-      "fetched": "2026-09-18T15:16:26.826426+00:00"
-    },
-    {
-      "id": "5781c2e177115e13",
-      "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector",
-      "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A reset for technology makes the sector more attractive relative to the market, says Truist.",
-      "published": "2026-09-18T13:30:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176526+00:00"
-    },
-    {
-      "id": "aed1ed9597489818",
-      "title": "Why mortgage bonds are set to deteriorate, and possibly hit the whole market, according to this Wall Street expert",
-      "link": "https://www.marketwatch.com/story/why-mortgage-bonds-are-set-to-deteriorate-and-possibly-hit-the-whole-market-according-to-this-wall-street-expert-0dd7f05d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A flattening Treasury yield curve is part of the problem for mortgage-backed securities, says Harley Bassman.",
-      "published": "2026-09-18T12:40:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176551+00:00"
-    },
-    {
-      "id": "b7bb98b5a679bbb8",
-      "title": "NASD appoints Mrs. Arese Ugwu as new Acting Managing Director",
-      "link": "https://nairametrics.com/2026/09/18/nasd-appoints-mrs-arese-ugwu-as-new-acting-managing-director/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Association of Securities Dealers (NASD) has announced the appointment of Mrs. Arese Ugwu as its new Acting Managing Director. The post NASD appoints Mrs.",
-      "published": "2026-09-18T12:30:47+00:00",
-      "fetched": "2026-09-18T15:16:26.826449+00:00"
     }
   ]
 }

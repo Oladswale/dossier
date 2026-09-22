@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-22T02:00:45.732767+00:00",
+  "updated": "2026-09-22T10:26:28.256098+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d5e5b7a8d159a720",
+      "title": "How Homebuyers Can ‘Rate-Proof’ Their Budgets in a Volatile Mortgage Market",
+      "link": "https://www.realtor.com/news/trends/homebuyers-mortgage-rate-proof-budget-volatile-market-report-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "To avoid getting priced out right before closing, buyers are advised to build a rate cushion into their budget based on their timeline.",
+      "published": "2026-09-22T09:00:00+00:00",
+      "fetched": "2026-09-22T10:26:28.255532+00:00"
+    },
+    {
+      "id": "0698b5f2976ea2ef",
+      "title": "Sea-to-Lake Manalapan Estate Marketed as a Teardown Is Listed for an Astonishing $95 Million",
+      "link": "https://www.realtor.com/news/unique-homes/manalapan-estate-teardown-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "From a $95 million oceanfront estate in Manalapan, FL, to luxury Manhattan townhouses, tour the week's 10 most expensive homes.",
+      "published": "2026-09-22T08:18:00+00:00",
+      "fetched": "2026-09-22T10:26:28.255568+00:00"
+    },
     {
       "id": "2425e079843cae4a",
       "title": "Nearly All Mayors Say Residents Are Concerned About Housing Affordability",
@@ -1482,26 +1502,6 @@
       "summary": "While listing prices have fallen, another important number has been on the rise: number of homes on the market.",
       "published": "2026-09-12T10:00:00+00:00",
       "fetched": "2026-09-12T14:27:47.568860+00:00"
-    },
-    {
-      "id": "5e789b65bdf11c46",
-      "title": "EXCLUSIVE: L.A. Home That Made $1.5 Million as a Hollywood Filming Location Hits the Market for $3.2 Million",
-      "link": "https://www.realtor.com/news/unique-homes/los-angeles-hollywood-filming-location-home-hits-the-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Known as the Rum Punch House, the five-bedroom, four-bathroom Woodland Hills property has welcomed 173 productions since 2021.",
-      "published": "2026-09-11T21:32:06+00:00",
-      "fetched": "2026-09-12T01:44:17.310458+00:00"
-    },
-    {
-      "id": "12142f127c4db376",
-      "title": "Soaring Home Prices Leave 91% of Renters Unable To Buy in This Western State",
-      "link": "https://www.realtor.com/news/trends/utah-home-prices-renter-affordability-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home prices in Utah continue to increase, putting 91% of renters out of the running.",
-      "published": "2026-09-11T20:02:00+00:00",
-      "fetched": "2026-09-11T20:07:56.045059+00:00"
     }
   ]
 }
