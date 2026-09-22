@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-21T21:16:58.557760+00:00",
+  "updated": "2026-09-22T02:00:45.732767+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2425e079843cae4a",
+      "title": "Nearly All Mayors Say Residents Are Concerned About Housing Affordability",
+      "link": "https://www.realtor.com/news/real-estate-news/mayors-poll-housing-affordability-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In a poll released on Sept. 17, more than 96% of 113 mayors found residents are very or extremely concerned about affordability.",
+      "published": "2026-09-21T22:04:09+00:00",
+      "fetched": "2026-09-22T02:00:45.732296+00:00"
+    },
+    {
+      "id": "c9c465294d328b89",
+      "title": "‘Selling Sunset’ Star Bre Tiesi Reveals Reality of Raising Son With Nick Cannon—and Her Relationship With the 5 Other Moms",
+      "link": "https://www.realtor.com/news/reality-tv/selling-sunset-bre-tiesi-reality-raising-son-nick-cannon-children/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The real estate agent, who shares 4-year-old son Legendary Love with Cannon, 45, got candid about navigating the complicated family dynamic.",
+      "published": "2026-09-21T21:28:28+00:00",
+      "fetched": "2026-09-22T02:00:45.732324+00:00"
+    },
     {
       "id": "d214d8236fcaa9d3",
       "title": "Massachusetts Housing Official Charged With Using Public Funds To Renovate His Bathroom",
@@ -1482,26 +1502,6 @@
       "summary": "Home prices in Utah continue to increase, putting 91% of renters out of the running.",
       "published": "2026-09-11T20:02:00+00:00",
       "fetched": "2026-09-11T20:07:56.045059+00:00"
-    },
-    {
-      "id": "1ce16ce1a4cbea30",
-      "title": "EXCLUSIVE: Kylie Jenner Sells Longtime Hidden Hills Mansion for $15.3 Million—$5 Million Below Original Asking Price",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jenner-sells-longtime-hidden-hills-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kylie purchased the 13,200-square-foot Hidden Hills dwelling for $12.05 million in late 2016, and listed it for nearly double that price.",
-      "published": "2026-09-11T19:19:06+00:00",
-      "fetched": "2026-09-11T20:07:56.045105+00:00"
-    },
-    {
-      "id": "65e1da31261311b4",
-      "title": "7 Ways To Refresh Your Home This Fall Without a Full-Blown Remodel",
-      "link": "https://www.realtor.com/advice/home-improvement/fall-home-refresh-without-a-remodel/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If money is tight but you want to change up your home to sell or even feel better staying put, there are some easy ways to refresh.",
-      "published": "2026-09-11T19:14:42+00:00",
-      "fetched": "2026-09-11T20:07:56.045137+00:00"
     }
   ]
 }

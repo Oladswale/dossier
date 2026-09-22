@@ -1,8 +1,68 @@
 {
   "category": "finance",
-  "updated": "2026-09-21T21:16:41.352916+00:00",
+  "updated": "2026-09-22T02:00:27.973901+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "785696d44c34aa38",
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+      "published": "2026-09-22T01:30:01+00:00",
+      "fetched": "2026-09-22T02:00:26.467748+00:00"
+    },
+    {
+      "id": "8f3c34c3c85b32c7",
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+      "published": "2026-09-21T22:01:00+00:00",
+      "fetched": "2026-09-22T02:00:26.107466+00:00"
+    },
+    {
+      "id": "90e1c57222dbcc0b",
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "An analyst at BNP has taken a positive view of AT T’s stock, writing that investors should have “little to quibble with on the mobile side.”",
+      "published": "2026-09-21T21:57:00+00:00",
+      "fetched": "2026-09-22T02:00:26.107498+00:00"
+    },
+    {
+      "id": "9ce0a5c010ec05cf",
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The lack of clarity around crypto’s regulatory framework hasn’t stopped bitcoin from surging, as investors haven’t abandoned hopes for clearer U.S. rules.",
+      "published": "2026-09-21T21:47:00+00:00",
+      "fetched": "2026-09-22T02:00:26.107520+00:00"
+    },
+    {
+      "id": "c0737687640367a7",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+      "published": "2026-09-21T21:30:00+00:00",
+      "fetched": "2026-09-22T02:00:26.107538+00:00"
+    },
+    {
+      "id": "87bfac6b8c904bd0",
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "About 60% of the stocks in the S P 500 are down more than 20% from their all-time highs.",
+      "published": "2026-09-21T21:17:00+00:00",
+      "fetched": "2026-09-22T02:00:26.107574+00:00"
+    },
     {
       "id": "02fdeeff36871ea7",
       "title": "These beaten-down stocks could bounce back in January, if history is any guide",
@@ -1442,66 +1502,6 @@
       "summary": "The National Association of Securities Dealers (NASD) has announced the appointment of Mrs. Arese Ugwu as its new Acting Managing Director. The post NASD appoints Mrs.",
       "published": "2026-09-18T12:30:47+00:00",
       "fetched": "2026-09-18T15:16:26.826449+00:00"
-    },
-    {
-      "id": "68482c4dc7d494e0",
-      "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
-      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Warren Buffett, the investing legend that turned Berkshire Hathaway into an massive conglomerate, has officially stepped aside as chairman after leaving as CEO at the beginning of the year.",
-      "published": "2026-09-18T12:22:00+00:00",
-      "fetched": "2026-09-18T15:16:26.176577+00:00"
-    },
-    {
-      "id": "820a9ada42041d88",
-      "title": "The former altar boy and the ‘farming girl’ building Green Eden",
-      "link": "https://techcabal.com/2026/09/18/former-altar-boy-farming-girl-green-eden/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Relatives who tried to stop Ritkatmun Bwemana from becoming a farmer now send her photographs of their farms, asking for advice. She remembers when they thought she needed some. Her grades were good enough to pursue a career in medicine.",
-      "published": "2026-09-18T12:12:42+00:00",
-      "fetched": "2026-09-18T15:16:28.089097+00:00"
-    },
-    {
-      "id": "408c4bb3979644d2",
-      "title": "Nigeria’s current account surplus jumps 68% to $7.54 billion in Q2 2026",
-      "link": "https://nairametrics.com/2026/09/18/nigerias-current-account-surplus-jumps-68-to-7-54-billion-in-q2-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s current account surplus rose by 67.9% to $7.54 billion in the second quarter of 2026, from $4.49 billion in the preceding quarter, supported by stronger export receipts and higher diaspora remittances. The post Nigeria’s current account surplus jumps 68% to $7.54 billion in Q2 2026 appeared first on Nairametrics .",
-      "published": "2026-09-18T12:10:08+00:00",
-      "fetched": "2026-09-18T15:16:26.826479+00:00"
-    },
-    {
-      "id": "8bb75dade8f5b00a",
-      "title": "Best performing Equity mutual funds in Nigeria as of August 2026",
-      "link": "https://nairametrics.com/2026/09/18/best-performing-equity-mutual-funds-in-nigeria-as-of-august-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's equity mutual fund segment pulled back to a net asset value (NAV) of N230.50 billion as of August 28, 2026, down 4.51% from N241.38 billion recorded at the end of July, as renewed market volatility eroded part of the gains recorded in the prior month. The post Best performing Equity mutual funds in Nigeria as of August 2026 appeared first on Nairametrics .",
-      "published": "2026-09-18T12:07:14+00:00",
-      "fetched": "2026-09-18T15:16:26.826505+00:00"
-    },
-    {
-      "id": "7322b9807962d941",
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
-      "published": "2026-09-18T12:04:02+00:00",
-      "fetched": "2026-09-18T15:16:26.385622+00:00"
-    },
-    {
-      "id": "95d2ad262eb09173",
-      "title": "Kenyan fintech Payd to resume services after FX losses disrupt customer payouts",
-      "link": "https://techcabal.com/2026/09/18/kenyan-fintech-payd-to-resume-services-after-fx-losses-disrupt-customer-payouts/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The company plans to restart services across its app, WhatsApp chatbot, business platform, and application programming interface (API) on Friday.",
-      "published": "2026-09-18T11:38:24+00:00",
-      "fetched": "2026-09-18T15:16:28.089115+00:00"
     }
   ]
 }
