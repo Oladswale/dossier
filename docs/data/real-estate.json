@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-22T10:26:28.256098+00:00",
+  "updated": "2026-09-22T15:48:26.854207+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d753bb6e1e133479",
+      "title": "Dolly Parton’s Nephew Bryan Seaver Fired as Head of Security at Late Country Icon’s Estate—Weeks After Announcing Her Death",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-nephew-bryan-seaver-fired-from-security-homes-death/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Seaver, who announced the \"9 to 5\" hitmaker's death on Aug. 25, received notice of his termination on Sept. 16.",
+      "published": "2026-09-22T15:30:28+00:00",
+      "fetched": "2026-09-22T15:48:26.853643+00:00"
+    },
+    {
+      "id": "755c1dba26ec0d54",
+      "title": "Historic 1865 Kansas Estate Featured on HGTV’s ‘Bargain Mansions’ Hits the Market for $1.35 Million",
+      "link": "https://www.realtor.com/news/unique-homes/shawnee-ks-historic-estate-hgtv-bargain-mansions-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Step inside the $1.35 million Kansas estate renovated by Tamara Day and that once served as a haven for U.S. presidents and Hollywood stars.",
+      "published": "2026-09-22T13:42:56+00:00",
+      "fetched": "2026-09-22T15:48:26.853674+00:00"
+    },
+    {
+      "id": "7b8cad94335bbf60",
+      "title": "EXCLUSIVE: Simone Biles and Jonathan Owens List $1.2 Million Texas Home Where They Lived While Building Their Dream Mansion",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/simone-biles-jonathan-owens-list-texas-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The couple began building their sprawling Texas residence in 2022, with construction wrapping three years later.",
+      "published": "2026-09-22T13:17:25+00:00",
+      "fetched": "2026-09-22T15:48:26.853697+00:00"
+    },
+    {
+      "id": "ff88efd80d3d28a4",
+      "title": "Rates Were Hiked: Here’s What Investors Should Do Now",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-462",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The Federal Reserve hiked rates last week, but did it actually help the housing market? Our panel of real estate investing experts isn’t all that bummed by potentially higher rates [ ]",
+      "published": "2026-09-22T11:00:55+00:00",
+      "fetched": "2026-09-22T15:48:26.370271+00:00"
+    },
     {
       "id": "d5e5b7a8d159a720",
       "title": "How Homebuyers Can ‘Rate-Proof’ Their Budgets in a Volatile Mortgage Market",
@@ -1462,46 +1502,6 @@
       "summary": "The A E reality series is back for another season of flipping homes in Beloit, once voted the \"worst city\" in Wisconsin to live in.",
       "published": "2026-09-12T14:59:00+00:00",
       "fetched": "2026-09-12T19:43:50.003520+00:00"
-    },
-    {
-      "id": "b73a150dfd288bae",
-      "title": "Sausalito’s Highest-Priced Home Hits the Market for $10 Million With a Dedicated Wellness Floor",
-      "link": "https://www.realtor.com/news/unique-homes/highest-priced-sausalito-home-wellness-floor/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The $10 million abode is the town's most expensive, boasting bay views and an entire level dedicated to health and wellness.",
-      "published": "2026-09-12T14:17:00+00:00",
-      "fetched": "2026-09-12T14:27:47.568758+00:00"
-    },
-    {
-      "id": "9004c0ec222cb28c",
-      "title": "Jules Gregory’s Iconic Midcentury ‘Wave House’ Hits the Market for $2.6 Million",
-      "link": "https://www.realtor.com/news/unique-homes/jules-gregory-wave-house-for-sale-west-amwell-nj/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore Jules Gregory's $2.6M Wave House in NJ featuring $1.25M in architectural upgrades, a sunken lounge, and a separate studio.",
-      "published": "2026-09-12T13:32:00+00:00",
-      "fetched": "2026-09-12T14:27:47.568800+00:00"
-    },
-    {
-      "id": "6d76499edca84388",
-      "title": "Instagram Killed the HGTV Star, But the Hustle Might Be Even Tougher for Influencers",
-      "link": "https://www.realtor.com/news/reality-tv/instagram-home-influencers-entertain-beyond-hgtv/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Less viewers are watching TV, turning the spotlight on home influencers who reveal what the hustle is like behind-the-scenes.",
-      "published": "2026-09-12T11:44:00+00:00",
-      "fetched": "2026-09-12T14:27:47.568832+00:00"
-    },
-    {
-      "id": "c07955f3ae3e8d39",
-      "title": "The Real Reason Why Home Prices in The Villages Are Falling",
-      "link": "https://www.realtor.com/news/trends/the-villages-florida-home-prices-falling-reason/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "While listing prices have fallen, another important number has been on the rise: number of homes on the market.",
-      "published": "2026-09-12T10:00:00+00:00",
-      "fetched": "2026-09-12T14:27:47.568860+00:00"
     }
   ]
 }

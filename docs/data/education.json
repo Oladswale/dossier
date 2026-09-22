@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-22T10:26:27.420714+00:00",
+  "updated": "2026-09-22T15:48:26.036830+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e72491eabf0359f6",
+      "title": "How Alan Turing and His Fellow Codebreakers Broke the Nazis’ “Unbreakable” Enigma Code",
+      "link": "https://www.openculture.com/2026/09/how-alan-turing-and-his-fellow-codebreakers-broke-the-nazis-unbreakable-enigma-code.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "There was a time when you could just go out and buy an Enigma machine. In the early nineteen-twenties, any organization with a need to keep its communications secret could order a few of those brand-new devices from Germany and rest assured that any messages encoded using them would be safe from prying eyes. It [ ]",
+      "published": "2026-09-22T09:00:26+00:00",
+      "fetched": "2026-09-22T15:48:26.036577+00:00"
+    },
+    {
+      "id": "f1d773a76fc26834",
+      "title": "The Digital Dada Library: Discover the Archive That Preserves the Original Publications of the Experimental Anti-Art Movement Online",
+      "link": "https://www.openculture.com/2026/09/digital-dada-library.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Critical theorists like Theodor Adorno may have overreached in claiming that all mass culture is mediocre, mechanized propaganda made to justify the status quo. But that doesn’t mean they were entirely wrong. Over and over we see even the most subversive art, literature, film, and music has a way of being tamed and Bowdlerized.",
+      "published": "2026-09-22T08:00:17+00:00",
+      "fetched": "2026-09-22T15:48:26.036629+00:00"
+    },
     {
       "id": "56cd66276e600c5f",
       "title": "MIT named the nation’s top university by U.S. News for 2026-27",
@@ -1482,26 +1502,6 @@
       "summary": "A towering figure in theoretical hydrodynamics is remembered for his intellectual rigor, generosity, and lifelong devotion to his students.",
       "published": "2026-08-14T20:55:00+00:00",
       "fetched": "2026-08-15T00:28:35.206630+00:00"
-    },
-    {
-      "id": "d6c42ce7e49d8d82",
-      "title": "Drug that targets an inflammatory enzyme could help prevent lung cancer",
-      "link": "https://news.mit.edu/2026/drug-targeting-inflammatory-enzyme-could-help-prevent-lung-cancer-0814",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new study by MIT researchers shows that inhibiting caspase-1 can reduce the risk of tumor growth.",
-      "published": "2026-08-14T18:00:00+00:00",
-      "fetched": "2026-08-14T18:37:24.130595+00:00"
-    },
-    {
-      "id": "2a6896b810e5c29b",
-      "title": "Cells pulse together as they grow — and malignant cells pulse the longest",
-      "link": "https://news.mit.edu/2026/cells-pulse-together-malignant-cells-pulse-longest-0814",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers discovered a cellular dance that may offer clues to the development of cancer, asthma, and other diseases.",
-      "published": "2026-08-14T15:00:00+00:00",
-      "fetched": "2026-08-14T18:37:24.130625+00:00"
     }
   ]
 }
