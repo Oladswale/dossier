@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-22T15:48:26.036830+00:00",
+  "updated": "2026-09-22T20:32:28.432029+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5f48c60cc09a163c",
+      "title": "How the brain keeps its options straight at decision time",
+      "link": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Making a decision requires juggling a set of options without getting them confused or losing track of them. A new MIT study shows how neurons encode information to maximize clarity throughout the process.",
+      "published": "2026-09-22T20:00:00+00:00",
+      "fetched": "2026-09-22T20:32:27.360203+00:00"
+    },
+    {
+      "id": "bd54fdc3d525d3c6",
+      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+      "link": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
+      "published": "2026-09-22T19:00:00+00:00",
+      "fetched": "2026-09-22T20:32:27.360238+00:00"
+    },
     {
       "id": "e72491eabf0359f6",
       "title": "How Alan Turing and His Fellow Codebreakers Broke the Nazis’ “Unbreakable” Enigma Code",
@@ -1482,26 +1502,6 @@
       "summary": "Neuroscientists have discovered circuits in the prefrontal cortex that can be repurposed to store different types of information.",
       "published": "2026-08-17T09:00:00+00:00",
       "fetched": "2026-08-17T12:16:27.318428+00:00"
-    },
-    {
-      "id": "64962e82ebacba71",
-      "title": "The Rijksmuseum in Amsterdam Has Digitized 840,000 Works of Art, Including Great Works by Rembrandt and Vermeer",
-      "link": "https://www.openculture.com/2026/08/the-rijksmuseum-in-amsterdam-has-digitized-818000-works-of-art.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Art may seem inessential to those who make the big decisions in times of crisis. But it never seemed more necessary to artists working in the time of plague. So it was 366 years ago when Rembrandt painted a portrait of his son, Titus, in a monk’s robe in 1660.",
-      "published": "2026-08-17T08:00:01+00:00",
-      "fetched": "2026-08-17T12:16:28.652223+00:00"
-    },
-    {
-      "id": "ede86b222faaef4a",
-      "title": "Professor Emeritus Chiang Chung Mei, pioneering scholar of ocean wave dynamics and fluid mechanics, dies at 91",
-      "link": "https://news.mit.edu/2026/chiang-chung-mei-dies-0814",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A towering figure in theoretical hydrodynamics is remembered for his intellectual rigor, generosity, and lifelong devotion to his students.",
-      "published": "2026-08-14T20:55:00+00:00",
-      "fetched": "2026-08-15T00:28:35.206630+00:00"
     }
   ]
 }
