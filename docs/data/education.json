@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-23T01:58:31.429927+00:00",
+  "updated": "2026-09-23T10:21:14.104198+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6541c10687d1171b",
+      "title": "When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936)",
+      "link": "https://www.openculture.com/2026/09/when-salvador-dali-gave-a-surrealist-lecture-in-a-diving-suit-and-almost-suffocated-1936.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Many a foreigner has visited England and found it an unexpectedly surreal place. Some of that effect has to do with encountering familiar icons — Big Ben, double-decker Routemaster buses, Marmite — in cold, damp reality. More of it may be induced by the country’s simultaneously thoroughgoing cultures of normality and eccentricity, an endless source [ ]",
+      "published": "2026-09-23T09:00:34+00:00",
+      "fetched": "2026-09-23T10:21:14.103928+00:00"
+    },
+    {
+      "id": "ab05d1236f9fd3a9",
+      "title": "Watch Interplanetary Revolution (1924): The Most Bizarre Soviet Animated Propaganda Film You’ll Ever See",
+      "link": "https://www.openculture.com/2026/09/interplanetary-revolution-1924-the-most-bizarre-soviet-animated-propaganda-film.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In 1924, Zenon Komissarenko, Youry Merkulov and Nikolai Khodataev produced Interplanetary Revolution, which might just be one of the strangest Soviet propaganda films ever produced. First, the film is animated using not only traditional cel animation but also collage and stop motion, giving the work a queasy, disorienting feel. A bit like looking at a painting [ ]",
+      "published": "2026-09-23T08:00:07+00:00",
+      "fetched": "2026-09-23T10:21:14.103990+00:00"
+    },
+    {
+      "id": "e95ad52623b3e812",
+      "title": "FUNdaMENTALs of precision design",
+      "link": "https://news.mit.edu/2026/fundamentals-precision-design-alex-slocum-0923",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Precision, repeatability, and fun are the focus in mechanical engineering course 2.70 (Fundamentals of Precision Product Design).",
+      "published": "2026-09-23T04:00:00+00:00",
+      "fetched": "2026-09-23T10:21:13.180087+00:00"
+    },
     {
       "id": "8420f7e75b0d880e",
       "title": "Featured video: Behind the lens at Lincoln Laboratory",
@@ -1472,36 +1502,6 @@
       "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
       "published": "2026-08-17T19:50:00+00:00",
       "fetched": "2026-08-18T00:27:15.418445+00:00"
-    },
-    {
-      "id": "9a8d706593b14543",
-      "title": "Mathematical framework connects biological principles to manufacturable, adaptive materials",
-      "link": "https://news.mit.edu/2026/mathematical-framework-connects-biological-principles-manufacturable-adaptive-material-0817",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The new framework could streamline the design process of robotic grippers or aerospace components that exhibit complex behaviors found in nature.",
-      "published": "2026-08-17T18:30:00+00:00",
-      "fetched": "2026-08-18T00:27:15.418478+00:00"
-    },
-    {
-      "id": "027c12118042b4c3",
-      "title": "MIT engineers connect bacteria to create living transistors",
-      "link": "https://news.mit.edu/2026/mit-engineers-connect-bacteria-to-create-living-transistors-0817",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "By wiring together colonies of these bacteria, the researchers built circuits that can perform complicated calculations.",
-      "published": "2026-08-17T18:00:00+00:00",
-      "fetched": "2026-08-17T18:18:49.938199+00:00"
-    },
-    {
-      "id": "34f9bec2940b1dfe",
-      "title": "The Genius of Airplane!: How to Make a Comedy by Playing Everything Completely Straight",
-      "link": "https://www.openculture.com/2026/08/the-genius-of-airplane-how-to-make-a-comedy-by-playing-everything-completely-straight.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Not every 46-year-old comedy still gets laughs, but Airplane! seems only to get funnier with the decades. Some viewers too young to have caught it in its theatrical release even take the Benjaminian view of it as the kind of great work that creates its own genre: the rapid-fire deadpan joke machine, we could call it.",
-      "published": "2026-08-17T09:00:33+00:00",
-      "fetched": "2026-08-17T12:16:28.652162+00:00"
     }
   ]
 }
