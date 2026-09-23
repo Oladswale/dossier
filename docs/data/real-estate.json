@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-22T20:32:29.153786+00:00",
+  "updated": "2026-09-23T01:58:32.022131+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1950b55465ee06b2",
+      "title": "Texas Gov. Greg Abbott Halts Data Center Permits in Defiance of Trump as Public Backlash Grows",
+      "link": "https://www.realtor.com/news/real-estate-news/texas-greg-abbott-halts-data-center-permits-environmental-review/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Texas is the nation's top market for data center construction, far surpassing Virginia. Abbott said he'd push to end incentives, too.",
+      "published": "2026-09-22T21:47:23+00:00",
+      "fetched": "2026-09-23T01:58:32.021479+00:00"
+    },
+    {
+      "id": "19ad8d2a973d9826",
+      "title": "Christina Haack and Ant Anstead Reunite for Son Hudson’s Big Day at School",
+      "link": "https://www.realtor.com/news/reality-tv/christina-haack-ant-anstead-reunion-son-hudson/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The former couple, who finalized their divorce in 2021, have made strides in their co-parenting relationship.",
+      "published": "2026-09-22T21:08:03+00:00",
+      "fetched": "2026-09-23T01:58:32.021518+00:00"
+    },
+    {
+      "id": "e797bf85f7080d5e",
+      "title": "Kennedy Family Feud Erupts Over Use of Hyannis Port Compound for Ex-Con’s Birthday Bash",
+      "link": "https://www.realtor.com/news/trends/kennedy-heir-outrage-disgraced-birthday-bash-hyannis-port-compound/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The affair in question was a joint birthday bash for disgraced Tyco International CEO Dennis Kozlowski, billed as “An Evening in Camelot.”",
+      "published": "2026-09-22T20:47:47+00:00",
+      "fetched": "2026-09-23T01:58:32.021554+00:00"
+    },
+    {
+      "id": "31989de89b85a40e",
+      "title": "Chip and Joanna Gaines Finally Sell Their Famous $2.7 Million Historic Waco Castle—Fully Furnished",
+      "link": "https://www.realtor.com/news/reality-tv/chip-joanna-gaines-sell-waco-texas-castle/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The yearslong renovation and design project, which was featured on \"Fixer Upper: The Castle,\" is ready for new residents.",
+      "published": "2026-09-22T20:32:25+00:00",
+      "fetched": "2026-09-23T01:58:32.021586+00:00"
+    },
     {
       "id": "42985051457248c6",
       "title": "Kelly Stafford Reveals How She and NFL Star Matthew Keep Football From Taking Over Their Family Home",
@@ -1462,46 +1502,6 @@
       "summary": "The iconic Cipriani hospitality brand has unveiled its two crown jewel penthouses atop its only residence tower in the U.S.",
       "published": "2026-09-13T19:46:00+00:00",
       "fetched": "2026-09-13T19:55:20.331505+00:00"
-    },
-    {
-      "id": "9271c521a4871798",
-      "title": "1975 Illinois Time Capsule House Featuring Bold Shag Carpet and Sunken Living Room Sells in Days",
-      "link": "https://www.realtor.com/news/unique-homes/1975-time-capsule-house-east-dubuque-illinois-shag-carpet/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nostalgia is hot right now and multiple offers came quickly for one house with a lot of it. The home in East Dubuque, IL was built in 1975 and hasn’t",
-      "published": "2026-09-13T18:01:00+00:00",
-      "fetched": "2026-09-13T19:55:20.331543+00:00"
-    },
-    {
-      "id": "de8caa75f6fe4eaf",
-      "title": "This $27 Million Upper West Side Triplex Penthouse Comes With Dual Terraces and NYC’s First Residential Pickleball Court",
-      "link": "https://www.realtor.com/news/unique-homes/the-henry-upper-west-side-27m-triplex-penthouse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Listed for $27M, Penthouse East at The Henry offers 5 bedrooms, Central Park views, and Manhattan's first residential pickleball court.",
-      "published": "2026-09-13T17:13:00+00:00",
-      "fetched": "2026-09-13T19:55:20.331569+00:00"
-    },
-    {
-      "id": "3ec64bd7d7837f95",
-      "title": "The ‘Ghost Condos’ of L.A.: Why Is a Chinese State-Backed Company Holding Hundreds of Empty Units?",
-      "link": "https://www.realtor.com/news/trends/metropolis-greenland-chinese-developer-ghost-condo-los-angeles/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A review of records of the Metropolis condo complex found that around a third of the units are still owned by the developer.",
-      "published": "2026-09-13T16:16:00+00:00",
-      "fetched": "2026-09-13T19:55:20.331594+00:00"
-    },
-    {
-      "id": "71c806aed09083d0",
-      "title": "Former 1847 Ohio Jail Goes Under Offer for $400K: How One Family Turned Inmate Cells Into Pantries and Closets",
-      "link": "https://www.realtor.com/news/unique-homes/former-ohio-jail-home-perrysburg-owner-interview/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Listing agent Caroline Hoffmann shares what it was like growing up with 19th-century inmate cells in the dining room.",
-      "published": "2026-09-13T15:30:00+00:00",
-      "fetched": "2026-09-13T19:55:20.331616+00:00"
     }
   ]
 }

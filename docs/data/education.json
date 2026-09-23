@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-22T20:32:28.432029+00:00",
+  "updated": "2026-09-23T01:58:31.429927+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8420f7e75b0d880e",
+      "title": "Featured video: Behind the lens at Lincoln Laboratory",
+      "link": "https://news.mit.edu/2026/featured-video-niki-fandel-behind-lens-lincoln-laboratory-0922",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Staff photographer Niki Fandel captures the people and technology advancing Lincoln Laboratory’s national security mission.",
+      "published": "2026-09-22T20:55:00+00:00",
+      "fetched": "2026-09-23T01:58:30.706725+00:00"
+    },
     {
       "id": "5f48c60cc09a163c",
       "title": "How the brain keeps its options straight at decision time",
@@ -1492,16 +1502,6 @@
       "summary": "Not every 46-year-old comedy still gets laughs, but Airplane! seems only to get funnier with the decades. Some viewers too young to have caught it in its theatrical release even take the Benjaminian view of it as the kind of great work that creates its own genre: the rapid-fire deadpan joke machine, we could call it.",
       "published": "2026-08-17T09:00:33+00:00",
       "fetched": "2026-08-17T12:16:28.652162+00:00"
-    },
-    {
-      "id": "9fd5a1d8d25d83ea",
-      "title": "Flexible brain circuits can switch between different tasks",
-      "link": "https://news.mit.edu/2026/flexible-brain-circuits-can-switch-between-different-tasks-0817",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Neuroscientists have discovered circuits in the prefrontal cortex that can be repurposed to store different types of information.",
-      "published": "2026-08-17T09:00:00+00:00",
-      "fetched": "2026-08-17T12:16:27.318428+00:00"
     }
   ]
 }

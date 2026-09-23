@@ -1,8 +1,78 @@
 {
   "category": "finance",
-  "updated": "2026-09-22T20:32:12.470063+00:00",
+  "updated": "2026-09-23T01:58:17.719401+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "35b175d367e60ac0",
+      "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+      "link": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
+      "published": "2026-09-23T00:58:16+00:00",
+      "fetched": "2026-09-23T01:58:16.693431+00:00"
+    },
+    {
+      "id": "fcf08d86595b2016",
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+      "published": "2026-09-22T21:44:00+00:00",
+      "fetched": "2026-09-23T01:58:16.584255+00:00"
+    },
+    {
+      "id": "2697f91d5c9da604",
+      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said.",
+      "published": "2026-09-22T21:30:00+00:00",
+      "fetched": "2026-09-23T01:58:16.584301+00:00"
+    },
+    {
+      "id": "bf205380d7222af2",
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+      "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Coming soon is one of the only weeks of the year in which aggressive traders should bet that the highest-beta stocks will beat the lowest ones.",
+      "published": "2026-09-22T21:27:00+00:00",
+      "fetched": "2026-09-23T01:58:16.584335+00:00"
+    },
+    {
+      "id": "45826a9a34f8f33a",
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Meta’s new assistant is topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy",
+      "published": "2026-09-22T21:26:00+00:00",
+      "fetched": "2026-09-23T01:58:16.584369+00:00"
+    },
+    {
+      "id": "730be8b800846739",
+      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+      "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
+      "published": "2026-09-22T20:54:00+00:00",
+      "fetched": "2026-09-23T01:58:16.584396+00:00"
+    },
+    {
+      "id": "a45de84d0b167190",
+      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
+      "published": "2026-09-22T20:46:00+00:00",
+      "fetched": "2026-09-23T01:58:16.584423+00:00"
+    },
     {
       "id": "aa2db54f91840268",
       "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
@@ -1432,76 +1502,6 @@
       "summary": "Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .",
       "published": "2026-09-20T14:08:00+00:00",
       "fetched": "2026-09-20T14:57:33.398206+00:00"
-    },
-    {
-      "id": "effb53063b87c6bd",
-      "title": "China is chasing SpaceX and setting its sights on the global space economy",
-      "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.",
-      "published": "2026-09-20T13:53:00+00:00",
-      "fetched": "2026-09-20T14:57:33.398262+00:00"
-    },
-    {
-      "id": "e9f290995040e2de",
-      "title": "The Next Wave: The expensive life of Twiga Foods",
-      "link": "https://techcabal.com/2026/09/20/the-next-wave-the-expensive-life-of-twiga-foods/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Twiga Foods demonstrated that venture capital subsidies can accelerate customer acquisition, but they cannot change unit economics.",
-      "published": "2026-09-20T13:49:52+00:00",
-      "fetched": "2026-09-20T14:57:34.512002+00:00"
-    },
-    {
-      "id": "1a7f1bc756a2fb80",
-      "title": "CNG adoption faces supply and safety hurdles as Nigeria expands rollout, expert says",
-      "link": "https://nairametrics.com/2026/09/20/cng-adoption-faces-supply-and-safety-hurdles-as-nigeria-expands-rollout-expert-says/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s push to expand compressed natural gas (CNG) as an alternative transport fuel is entering a crucial stage, with the success of the... The post CNG adoption faces supply and safety hurdles as Nigeria expands rollout, expert says appeared first on Nairametrics .",
-      "published": "2026-09-20T13:30:45+00:00",
-      "fetched": "2026-09-20T14:57:34.029233+00:00"
-    },
-    {
-      "id": "907a1b2527b74a1f",
-      "title": "Record diesel prices are exposing pain points in the stock market and economy",
-      "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A major risks now is that diesel prices stay high — and continue to put upward pressure on inflation.",
-      "published": "2026-09-20T13:00:00+00:00",
-      "fetched": "2026-09-20T14:57:33.398317+00:00"
-    },
-    {
-      "id": "f6b972a5bfa84a72",
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-      "published": "2026-09-20T12:47:23+00:00",
-      "fetched": "2026-09-20T14:57:33.627445+00:00"
-    },
-    {
-      "id": "986c1bc1bcafe1b3",
-      "title": "Binance founder Changpeng Zhao’s net worth jumps $9.8bn in 24 hours to $91.2 billion.",
-      "link": "https://nairametrics.com/2026/09/20/binance-founder-changpeng-zhaos-net-worth-jumps-9-8bn-in-24-hours-to-91-2-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Cryptocurrency billionaire Changpeng Zhao’s net worth rose by $9.76 billion in 24 hours to $91.2 billion, according to Forbes’ real-time... The post Binance founder Changpeng Zhao’s net worth jumps $9.8bn in 24 hours to $91.2 billion. appeared first on Nairametrics .",
-      "published": "2026-09-20T12:37:13+00:00",
-      "fetched": "2026-09-20T14:57:34.029276+00:00"
-    },
-    {
-      "id": "5dbe25d12192c92c",
-      "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
-      "link": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Watchdog groups say midterm voters feel that “something’s wrong.”",
-      "published": "2026-09-20T12:31:00+00:00",
-      "fetched": "2026-09-20T14:57:33.398352+00:00"
     }
   ]
 }
