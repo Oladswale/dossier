@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-23T10:21:14.104198+00:00",
+  "updated": "2026-09-23T15:38:12.028027+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "53338f70a8d1df78",
+      "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
+      "link": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
+      "published": "2026-09-23T15:30:00+00:00",
+      "fetched": "2026-09-23T15:38:10.735343+00:00"
+    },
     {
       "id": "6541c10687d1171b",
       "title": "When Salvador Dalí Gave a Surrealist Lecture in a Diving Suit … and Almost Suffocated (1936)",
@@ -1492,16 +1502,6 @@
       "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
       "published": "2026-08-17T19:50:00+00:00",
       "fetched": "2026-08-18T18:17:39.206827+00:00"
-    },
-    {
-      "id": "41417dca51e4336b",
-      "title": "Q&A: Rethinking how innovation happens",
-      "link": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
-      "published": "2026-08-17T19:50:00+00:00",
-      "fetched": "2026-08-18T00:27:15.418445+00:00"
     }
   ]
 }

@@ -1,8 +1,258 @@
 {
   "category": "finance",
-  "updated": "2026-09-23T10:21:02.802168+00:00",
+  "updated": "2026-09-23T15:37:54.448484+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d1d7769835476b22",
+      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+      "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A surviving spouse is sometimes left with less income and a higher tax bill. These tax-saving strategies can soften the impact.",
+      "published": "2026-09-23T15:34:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717505+00:00"
+    },
+    {
+      "id": "6499438136956bf3",
+      "title": "A celebrity-endorsed cryptocurrency is almost five times as likely to be a scam",
+      "link": "https://www.marketwatch.com/story/a-celebrity-endorsed-cryptocurrency-is-almost-five-times-as-likely-to-be-a-scam-eaf25977?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The “attention economy” is really the sucker economy.",
+      "published": "2026-09-23T15:23:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717544+00:00"
+    },
+    {
+      "id": "bc277fbf0b1479f3",
+      "title": "NIMC denies NIN data breach claims, orders investigation",
+      "link": "https://nairametrics.com/2026/09/23/nimc-denies-nin-data-breach-claims-orders-investigation/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Identity Management Commission (NIMC) has denied claims that Nigerians’ National Identification Numbers (NINs) and other personal information were exposed, following a video circulating on social media alleging that citizens’ data had been exposed and offered for sale. The post NIMC denies NIN data breach claims, orders investigation appeared first on Nairametrics .",
+      "published": "2026-09-23T15:14:36+00:00",
+      "fetched": "2026-09-23T15:37:53.251328+00:00"
+    },
+    {
+      "id": "96526a88e4a8bc88",
+      "title": "A diesel export ban could backfire — here’s why",
+      "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A ban on U.S. diesel exports could reduce supplies and simultaneously lead to prices rising further, according to analysts.",
+      "published": "2026-09-23T15:14:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717583+00:00"
+    },
+    {
+      "id": "1f7a2da3a5779356",
+      "title": "Musk praises China’s leadership and pushes for AI regulation ahead of state dinner",
+      "link": "https://www.marketwatch.com/story/musk-praises-chinas-leadership-and-pushes-for-ai-regulation-ahead-of-state-dinner-4efe6e22?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Elon Musk has had a friendly relationship with China, which has proved advantageous for Tesla.",
+      "published": "2026-09-23T15:08:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717609+00:00"
+    },
+    {
+      "id": "bdd5dd6beca31220",
+      "title": "A Nigerian court says Truecaller’s consent doesn’t cover the data in your contacts",
+      "link": "https://techcabal.com/2026/09/23/nigerian-court-says-truecallers-consent-doesnt-cover-contacts/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Truecaller cannot use one person’s consent to justify processing another person’s phone number, a Lagos High Court has ruled. But the same court declined to award damages, exposing a gap in Nigeria’s privacy laws: what happens when your data is used without permission but you cannot prove measurable harm?",
+      "published": "2026-09-23T15:01:53+00:00",
+      "fetched": "2026-09-23T15:37:54.448169+00:00"
+    },
+    {
+      "id": "55ba5d66c3e233b3",
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
+      "published": "2026-09-23T14:57:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717635+00:00"
+    },
+    {
+      "id": "23053d743bd121c9",
+      "title": "My wife wants to send money to our grand-nephew in college. How can I push back without starting a fight?",
+      "link": "https://www.marketwatch.com/story/my-wife-wants-to-send-money-to-our-grand-nephew-in-college-how-can-i-push-back-without-starting-a-fight-9284311a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I do not see him as our responsibility.”",
+      "published": "2026-09-23T14:49:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717657+00:00"
+    },
+    {
+      "id": "be8df42b76c2229b",
+      "title": "Ima Gas Project Marks a New Chapter in AMNI’s Growth Story",
+      "link": "https://nairametrics.com/2026/09/23/ima-gas-project-marks-a-new-chapter-in-amnis-growth-story/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "When AMNI International Petroleum Development Company Limited and TotalEnergies EP Nigeria formally marked the Final Investment Decision for the Ima Gas Project in Abuja, the moment represented far more than the approval of another upstream development. For AMNI, it was the culmination of years of technical, commercial and contractual work, and the beginning of a [ ] The post Ima Gas Project Marks a New Chapter in AMNI s Growth Story appeared first on Nairametrics .",
+      "published": "2026-09-23T14:30:09+00:00",
+      "fetched": "2026-09-23T15:37:53.251393+00:00"
+    },
+    {
+      "id": "925f83ea37b0bf25",
+      "title": "FG reviews Nigeria’s rice value chain to improve consumer affordability",
+      "link": "https://nairametrics.com/2026/09/23/fg-reviews-nigerias-rice-value-chain-to-improve-consumer-affordability/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has convened federal and state institutions, farmers, and millers for a technical consultation on consumer affordability regarding the nation’s rice value chain. The post FG reviews Nigeria’s rice value chain to improve consumer affordability appeared first on Nairametrics .",
+      "published": "2026-09-23T14:15:34+00:00",
+      "fetched": "2026-09-23T15:37:53.251437+00:00"
+    },
+    {
+      "id": "986ed235b35d949e",
+      "title": "These stocks are the ‘four horsemen of AI’ — and they’re not the ones you’d think",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Looking beyond the artificial-intelligence stocks that have become almost household names for investors, there are other ways to play the boom in computing hardware.",
+      "published": "2026-09-23T13:58:00+00:00",
+      "fetched": "2026-09-23T15:37:52.717700+00:00"
+    },
+    {
+      "id": "15cec4f548220a26",
+      "title": "Ghana MPC meets amid 5% inflation and rising currency pressure",
+      "link": "https://nairametrics.com/2026/09/23/ghana-mpc-meets-amid-5-inflation-and-rising-currency-pressure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ghana’s Monetary Policy Committee (MPC) has begun its September meeting as inflation rises to 5% and renewed pressure on the Ghana cedi adds to the challenges facing the Bank of Ghana. The post Ghana MPC meets amid 5% inflation and rising currency pressure appeared first on Nairametrics .",
+      "published": "2026-09-23T13:23:07+00:00",
+      "fetched": "2026-09-23T15:37:53.251489+00:00"
+    },
+    {
+      "id": "2341b452bd0f15a8",
+      "title": "Nosike Nwigene: From flunking medicine to shaping Africa’s AI policy",
+      "link": "https://techcabal.com/2026/09/23/nosike-nwigene-life-in-tech/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nosike Nwigene set out to become a doctor but was eventually kicked out of medical school. A career in communications followed, taking him from startup public relations to policy advocacy and the Nigeria Startup Bill. Now, he is building an advisory while deepening his work in technology policy and AI governance across Africa.",
+      "published": "2026-09-23T13:00:30+00:00",
+      "fetched": "2026-09-23T15:37:54.448217+00:00"
+    },
+    {
+      "id": "ef52c4ac8a6768d3",
+      "title": "OPPO Find X10 Pro Max: What to know about OPPO’s new flagship",
+      "link": "https://techcabal.com/2026/09/23/find-x10-pro-max-price-release-date-specs/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "OPPO has confirmed that the Find X10 Pro Max will launch in international markets, but it has yet to announce a global or Nigerian release date and price.",
+      "published": "2026-09-23T12:41:03+00:00",
+      "fetched": "2026-09-23T15:37:54.448247+00:00"
+    },
+    {
+      "id": "1de4e841d572cf90",
+      "title": "Denmark sets minimum salary for foreign workers",
+      "link": "https://nairametrics.com/2026/09/23/denmark-sets-minimum-salary-for-foreign-workers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Denmark has set a new minimum annual salary of DKK552,000($84,254 for foreign workers seeking residence and work permits through its Pay Limit Scheme in 2026, according to updated guidance from the Danish Agency for International Recruitment and Integration (SIRI). The post Denmark sets minimum salary for foreign workers appeared first on Nairametrics .",
+      "published": "2026-09-23T12:34:16+00:00",
+      "fetched": "2026-09-23T15:37:53.251529+00:00"
+    },
+    {
+      "id": "4443a2d84899e201",
+      "title": "TotalEnergies, AMNI take FID on offshore Ima gas field in Nigeria",
+      "link": "https://nairametrics.com/2026/09/23/totalenergies-amni-take-fid-on-offshore-ima-gas-field-in-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "TotalEnergies and its Nigerian partner, AMNI, have taken a final investment decision (FID) to develop the offshore Ima gas field in Nigeria, with production expected to begin in 2028. The post TotalEnergies, AMNI take FID on offshore Ima gas field in Nigeria appeared first on Nairametrics .",
+      "published": "2026-09-23T12:20:02+00:00",
+      "fetched": "2026-09-23T15:37:53.251565+00:00"
+    },
+    {
+      "id": "1dd77aa090cb1464",
+      "title": "Why African startups can be profitable and still look too risky to finance",
+      "link": "https://techcabal.com/2026/09/23/africa-financing-gap-business-data-visibility/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Africa’s startup funding problem may be less about a shortage of capital than a shortage of businesses investors can understand, assess and back.",
+      "published": "2026-09-23T12:10:48+00:00",
+      "fetched": "2026-09-23T15:37:54.448274+00:00"
+    },
+    {
+      "id": "1acad15cb0599815",
+      "title": "CBN’s 350bps rate cut reshapes stocks, bonds and bank earnings outlook",
+      "link": "https://nairametrics.com/2026/09/23/cbns-350bps-rate-cut-reshapes-stocks-bonds-and-bank-earnings-outlook/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria’s decision to cut the Monetary Policy Rate by 350 basis points to 23% could reshape how investors allocate money across fixed income and equities, although stockbrokers expect the benefits to vary across sectors and companies. The post CBN’s 350bps rate cut reshapes stocks, bonds and bank earnings outlook appeared first on Nairametrics .",
+      "published": "2026-09-23T12:01:36+00:00",
+      "fetched": "2026-09-23T15:37:53.251610+00:00"
+    },
+    {
+      "id": "1814426d1c68f58f",
+      "title": "NGX expands NGX Invest with WhatsApp access for investors",
+      "link": "https://nairametrics.com/2026/09/23/ngx-expands-ngx-invest-with-whatsapp-access-for-investors/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian Exchange Group (NGX Group) has expanded access to its NGX Invest platform with the launch of a WhatsApp subscription channel, providing investors with a new way to participate in Initial Public Offerings (IPOs), Public Offers, and Rights Issues. The post NGX expands NGX Invest with WhatsApp access for investors appeared first on Nairametrics .",
+      "published": "2026-09-23T11:45:10+00:00",
+      "fetched": "2026-09-23T15:37:53.251646+00:00"
+    },
+    {
+      "id": "d80f3ace08f4eb22",
+      "title": "SUNU Assurances appoints Michael Chukwu as Independent Non-Executive Director",
+      "link": "https://nairametrics.com/2026/09/23/sunu-assurances-appoints-michael-chukwu-as-independent-non-executive-director/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "SUNU Assurances Nigeria Plc has appointed seasoned financial executive and private equity investor, Michael Uchenna Chukwu, as an Independent Non-Executive Director on its Board. The post SUNU Assurances appoints Michael Chukwu as Independent Non-Executive Director appeared first on Nairametrics .",
+      "published": "2026-09-23T11:26:43+00:00",
+      "fetched": "2026-09-23T15:37:53.251679+00:00"
+    },
+    {
+      "id": "e5533cafb86182c6",
+      "title": "Kenya to launch Dangote-backed $17 billion East Africa Oil Refinery September 30",
+      "link": "https://nairametrics.com/2026/09/23/kenya-to-launch-dangote-backed-17-billion-east-africa-oil-refinery-september-30/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Kenyan government has finalised preparations for the September 30, 2026 launch of the East Africa Oil Refinery project in Lamu, with President William Ruto expected to lead the groundbreaking ceremony. The post Kenya to launch Dangote-backed $17 billion East Africa Oil Refinery September 30 appeared first on Nairametrics .",
+      "published": "2026-09-23T10:58:00+00:00",
+      "fetched": "2026-09-23T15:37:53.251714+00:00"
+    },
+    {
+      "id": "488ac1610496addf",
+      "title": "Nigeria’s hefty rate cut erodes its carry-trade edge against Ghana",
+      "link": "https://nairametrics.com/2026/09/23/nigerias-hefty-rate-cut-erodes-its-carry-trade-edge-against-ghana/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s interest-rate differential has fallen behind Ghana after the Central Bank of Nigeria (CBN) cut its benchmark rate by 350 basis points to 23% on Tuesday, September 22, 2026, making the West African peer a more attractive destination for portfolio capital inflows. The post Nigeria’s hefty rate cut erodes its carry-trade edge against Ghana appeared first on Nairametrics .",
+      "published": "2026-09-23T10:37:37+00:00",
+      "fetched": "2026-09-23T15:37:53.251757+00:00"
+    },
+    {
+      "id": "732bd3871f4fe10e",
+      "title": "International Trade Centre and Access Bank partner to boost small business growth across 14 African countries",
+      "link": "https://nairametrics.com/2026/09/23/international-trade-centre-and-access-bank-partner-to-boost-small-business-growth-across-14-african-countries/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The International Trade Centre (ITC) and The Access Africa Office, the coordinating office for the African subsidiaries of Access Bank Plc, one of Africa s leading pan-African financial institutions, establish a new partnership to boost access to finance for small and medium-sized enterprises, and increase access to markets and skills training, in 14 African countries. The [ ] The post International Trade Centre and Access Bank partner to boost small business growth across 14 African countries appeared first on Nairametrics .",
+      "published": "2026-09-23T10:35:52+00:00",
+      "fetched": "2026-09-23T15:37:53.251808+00:00"
+    },
+    {
+      "id": "5e8002e804a8c50e",
+      "title": "TCN says China-made equipment delays Amuwo substation rehabilitation in Lagos",
+      "link": "https://nairametrics.com/2026/09/23/tcn-says-china-made-equipment-delays-amuwo-substation-rehabilitation-in-lagos/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The rehabilitation of the Amuwo 132/33kV Transmission Substation in Lagos is awaiting equipment being manufactured in China before the remaining work can continue. The post TCN says China-made equipment delays Amuwo substation rehabilitation in Lagos appeared first on Nairametrics .",
+      "published": "2026-09-23T10:33:16+00:00",
+      "fetched": "2026-09-23T15:37:53.251840+00:00"
+    },
+    {
+      "id": "7eb8457984077459",
+      "title": "Flutterwave convenes global leaders at UNGA 2026 to power Africa’s next decade of growth",
+      "link": "https://nairametrics.com/2026/09/23/flutterwave-convenes-global-leaders-at-unga-2026-to-power-africas-next-decade-of-growth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Flutterwave, Africa’s leading payments technology company, today announced its executive engagements on the sidelines of the 81st United... The post Flutterwave convenes global leaders at UNGA 2026 to power Africa’s next decade of growth appeared first on Nairametrics .",
+      "published": "2026-09-23T10:22:27+00:00",
+      "fetched": "2026-09-23T15:37:53.251878+00:00"
+    },
     {
       "id": "f03c8881581c7eba",
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -1252,256 +1502,6 @@
       "summary": "Nigeria’s foreign exchange supply rose by 20.5% to $8.94 billion in 2025, from $7.43 billion recorded in 2024. The post CBN: Nigeria’s FX supply rises 20.5% to $8.94 billion in 2025 appeared first on Nairametrics .",
       "published": "2026-09-21T15:45:33+00:00",
       "fetched": "2026-09-21T17:15:08.521133+00:00"
-    },
-    {
-      "id": "2bcc288ec9df145d",
-      "title": "Dangote Refinery shares could hit N1,500 in months, say analysts",
-      "link": "https://nairametrics.com/2026/09/21/dangote-refinery-shares-could-hit-n1500-in-months-say-analysts/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Financial analysts have projected that shares of Dangote Petroleum Refinery could rise up to N1,500 in months once listed on the Nigerian Exchange (NGX), even as they cautioned that early demand may not be matched by available supply. The post Dangote Refinery shares could hit N1,500 in months, say analysts appeared first on Nairametrics .",
-      "published": "2026-09-21T15:39:15+00:00",
-      "fetched": "2026-09-21T17:15:08.521173+00:00"
-    },
-    {
-      "id": "1f19d937860a7564",
-      "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
-      "link": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors understand Microsoft’s cloud-computing opportunities, but may not be giving enough credit to the revenue potential of its software business.",
-      "published": "2026-09-21T15:39:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806580+00:00"
-    },
-    {
-      "id": "8d86fa6edb0309f5",
-      "title": "Canada tightens Atlantic immigration rules for applicants with employment changes",
-      "link": "https://nairametrics.com/2026/09/21/canada-tightens-atlantic-immigration-rules-for-applicants-with-employment-changes/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Canada has introduced new instructions for applicants under the Atlantic Immigration Program (AIP) whose employment situation changes while their permanent residence applications are being processed. Under the updated rules, applicants affected by changes to their employer, job or employer ownership may have 90 days to submit additional documents, CIC News first reported. Failure to provide [ ] The post Canada tightens Atlantic immigration rules for applicants with employment changes appeared first on Nairametrics .",
-      "published": "2026-09-21T15:36:02+00:00",
-      "fetched": "2026-09-21T17:15:08.521221+00:00"
-    },
-    {
-      "id": "cf532bc4d4dd1d7c",
-      "title": "Many young adults can only afford to invest thanks to the bank of mom and dad",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Parents are providing help with expenses like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
-      "published": "2026-09-21T15:22:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806621+00:00"
-    },
-    {
-      "id": "f6b972a5bfa84a72",
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-      "published": "2026-09-21T15:04:04+00:00",
-      "fetched": "2026-09-23T10:21:01.204539+00:00"
-    },
-    {
-      "id": "f474748dd7261736",
-      "title": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
-      "link": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Corporate America may be broadly using AI, but an analyst noted that some management teams are hesitant to bring it up with investors because it won’t translate to financial results just yet.",
-      "published": "2026-09-21T14:57:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806674+00:00"
-    },
-    {
-      "id": "6d5016f096b5b1e9",
-      "title": "Sterling Bank backs equinorth capital’s export growth drive as firm scales cashew, soybean and hibiscus trade",
-      "link": "https://nairametrics.com/2026/09/21/sterling-bank-backs-equinorth-capitals-export-growth-drive-as-firm-scales-cashew-soybean-and-hibiscus-trade/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos-based agro-commodity trading firm, Equinorth Capital Limited, has applauded Sterling Bank for playing a central role in its trade business growth since the company commenced operations in 2020. This, according to the company, has engendered its market presence and its race towards market leadership, especially at a time when other financiers are pushing back on [ ] The post Sterling Bank backs equinorth capital s export growth drive as firm scales cashew, soybean and hibiscus trade appeared first on Nairametrics .",
-      "published": "2026-09-21T14:54:34+00:00",
-      "fetched": "2026-09-21T17:15:08.521274+00:00"
-    },
-    {
-      "id": "3d689f42c2d035c2",
-      "title": "Dangote Refinery IPO: Meristem emerges go-to platform for investors",
-      "link": "https://nairametrics.com/2026/09/21/dangote-refinery-ipo-meristem-emerges-go-to-platform-for-investors/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "With the Dangote Petroleum Refinery and Petrochemicals IPO attracting significant investor interest, one of the key questions for prospective subscribers is how to participate in the offer. The post Dangote Refinery IPO: Meristem emerges go-to platform for investors appeared first on Nairametrics .",
-      "published": "2026-09-21T14:51:48+00:00",
-      "fetched": "2026-09-21T17:15:08.521309+00:00"
-    },
-    {
-      "id": "5db4c2b89e7e32de",
-      "title": "Beyond the bureaucracy: Why protecting citizens’ digital lives is the new frontier of governance",
-      "link": "https://nairametrics.com/2026/09/21/beyond-the-bureaucracy-why-protecting-citizens-digital-lives-is-the-new-frontier-of-governance/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Consider Mama Ngozi. Every month, she visits a state healthcare clinic in Umuahia to manage her chronic health conditions. At the front desk, a health worker inputs her sensitive medical history, home address, and telephone number into a newly deployed digital health portal.",
-      "published": "2026-09-21T14:50:31+00:00",
-      "fetched": "2026-09-21T17:15:08.521367+00:00"
-    },
-    {
-      "id": "ec860c4fcca66c76",
-      "title": "Education services inflation rises to 10.72% in August as new academic session begins",
-      "link": "https://nairametrics.com/2026/09/21/education-services-inflation-rises-to-10-72-in-august-as-new-academic-session-begins/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s education services inflation rose sharply to 10.72%year-on-year (YoY) in August 2026 from 7.51% in July, as households prepared for the new 2026/2027 academic session. The post Education services inflation rises to 10.72% in August as new academic session begins appeared first on Nairametrics .",
-      "published": "2026-09-21T13:45:07+00:00",
-      "fetched": "2026-09-21T17:15:08.521408+00:00"
-    },
-    {
-      "id": "07e73db2aef67319",
-      "title": "Lagos orders Ajah, Kirikiri, other flood-prone residents to relocate to higher ground",
-      "link": "https://nairametrics.com/2026/09/21/lagos-orders-ajah-kirikiri-other-flood-prone-residents-to-relocate-to-higher-ground/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has ordered residents in Ajah, Kirikiri and other flood-prone communities to relocate to higher ground following a fresh flood warning. The post Lagos orders Ajah, Kirikiri, other flood-prone residents to relocate to higher ground appeared first on Nairametrics .",
-      "published": "2026-09-21T12:56:08+00:00",
-      "fetched": "2026-09-21T17:15:08.521444+00:00"
-    },
-    {
-      "id": "2df920a9d8c75cdb",
-      "title": "Over 67% of Nigerians surveyed demand fuel subsidy restoration, SBM says",
-      "link": "https://nairametrics.com/2026/09/21/over-67-of-nigerians-surveyed-demand-fuel-subsidy-restoration-sbm-says/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Over 67% of Nigerians are demanding the reinstatement of the fuel subsidy, rejecting the federal government’s current petrol pricing framework amid escalating economic pressure. The post Over 67% of Nigerians surveyed demand fuel subsidy restoration, SBM says appeared first on Nairametrics .",
-      "published": "2026-09-21T12:37:39+00:00",
-      "fetched": "2026-09-21T17:15:08.521481+00:00"
-    },
-    {
-      "id": "76080fd82e787faa",
-      "title": "Trading without installation: why web terminals matter for active traders",
-      "link": "https://nairametrics.com/2026/09/21/trading-without-installation-why-web-terminals-matter-for-active-traders/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For an active trader, instant market access is now considered a necessity rather than an option. Sometimes market opportunities do not present themselves when a trader is at the same desk, device, or trading software. This is why web-based trading systems are getting more common.",
-      "published": "2026-09-21T12:21:36+00:00",
-      "fetched": "2026-09-21T17:15:08.521527+00:00"
-    },
-    {
-      "id": "7c10aaf628d1ee9d",
-      "title": "Nigeria’s new phone registry threatens rising smartphone prices",
-      "link": "https://techcabal.com/2026/09/21/nigerias-new-phone-tracking-policy-could-price-millions-offline/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria wants to make every phone traceable. But as the NCC moves to tighten control over the device market, the harder question is whether the system can stop illegal imports without making legitimate phones harder to buy, sell and repair.",
-      "published": "2026-09-21T12:00:31+00:00",
-      "fetched": "2026-09-21T17:15:09.415638+00:00"
-    },
-    {
-      "id": "28a0d11cb92ee897",
-      "title": "JAMB approves one-time change of registered GSM numbers, email addresses",
-      "link": "https://nairametrics.com/2026/09/21/jamb-approves-one-time-change-of-registered-gsm-numbers-email-addresses/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Joint Admissions and Matriculation Board (JAMB) has approved a one-time update of registered GSM numbers and email addresses for candidates who have lost access to their original contact details. The post JAMB approves one-time change of registered GSM numbers, email addresses appeared first on Nairametrics .",
-      "published": "2026-09-21T11:33:21+00:00",
-      "fetched": "2026-09-21T17:15:08.521563+00:00"
-    },
-    {
-      "id": "ed9078ed360152aa",
-      "title": "Nigeria DRE Fund reaches commercial launch milestone, a model for scaling DRE investment across Africa",
-      "link": "https://nairametrics.com/2026/09/21/nigeria-dre-fund-reaches-commercial-launch-milestone-a-model-for-scaling-dre-investment-across-africa/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "On the sidelines of the United Nations General Assembly, the Nigeria Sovereign Investment Authority (NSIA), Africa50 and Sustainable Energy for All (SEforALL) unveiled a new investment vehicle to spur renewable energy investments in Nigeria The [$300 million] Nigeria Distributed Renewable Energy (DRE) Fund has reached a major milestone with its commercial launch, marking the transition [ ] The post Nigeria DRE Fund reaches commercial launch milestone, a model for scaling DRE investment across Africa appeared first on Nairametrics .",
-      "published": "2026-09-21T11:21:22+00:00",
-      "fetched": "2026-09-21T17:15:08.521611+00:00"
-    },
-    {
-      "id": "11b2e6e5ce3335b9",
-      "title": "Nigeria to license online trading as Lagos Finance Summit opens in October",
-      "link": "https://nairametrics.com/2026/09/21/nigeria-to-license-online-trading-as-lagos-finance-summit-opens-in-october/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos Finance Summit 2026 (LFS 2026), a three-day summit bringing brokers, prop trading firms, fintechs, payment providers, banks, investors and traders into one venue, will take place from 14 to 16 October 2026 at the Landmark Event Centre, Victoria Island, Lagos. Nigeria is the largest retail trading market in Africa and one of the fastest-growing [ ] The post Nigeria to license online trading as Lagos Finance Summit opens in October appeared first on Nairametrics .",
-      "published": "2026-09-21T11:08:01+00:00",
-      "fetched": "2026-09-21T11:12:08.290466+00:00"
-    },
-    {
-      "id": "8a7d6635a0a19a6d",
-      "title": "Dangote Refinery plans New York Stock Exchange listing after 2029 expansion",
-      "link": "https://nairametrics.com/2026/09/21/dangote-refinery-plans-new-york-stock-exchange-listing-after-2029-expansion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Petroleum Refinery and Petrochemicals FZE plans to list its shares on the New York Stock Exchange after completing an expansion that will double its crude-processing capacity to 1.4 million barrels per day by the first quarter of 2029. The post Dangote Refinery plans New York Stock Exchange listing after 2029 expansion appeared first on Nairametrics .",
-      "published": "2026-09-21T11:05:26+00:00",
-      "fetched": "2026-09-21T11:12:08.290525+00:00"
-    },
-    {
-      "id": "c7673e5cc1514aa0",
-      "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
-      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Low valuations and founder management are attractive to RV Capital’s Rob Vinall.",
-      "published": "2026-09-21T10:57:00+00:00",
-      "fetched": "2026-09-21T11:12:07.375568+00:00"
-    },
-    {
-      "id": "2e4079986198d2e6",
-      "title": "CBN to sell N500 billion in final Q3 T-Bills auction, see deadline for bids",
-      "link": "https://nairametrics.com/2026/09/21/cbn-to-sell-n500-billion-in-final-q3-t-bills-auction-see-deadline-for-bids/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN), acting for the Debt Management Office (DMO), has put out a call for banks and investors to bid for N500 billion worth of government Treasury Bills, to be sold on Wednesday, September 23, 2026 — the final Treasury Bills auction of the third quarter (Q3) 2026. The post CBN to sell N500 billion in final Q3 T-Bills auction, see deadline for bids appeared first on Nairametrics .",
-      "published": "2026-09-21T10:34:40+00:00",
-      "fetched": "2026-09-21T11:12:08.290589+00:00"
-    },
-    {
-      "id": "995156266484ef0f",
-      "title": "Nigeria receives $11.12 billion in personal transfers in first half of 2026",
-      "link": "https://nairametrics.com/2026/09/21/nigeria-receives-11-12-billion-in-personal-transfers-in-first-half-of-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria received $11.12 billion in personal transfers, including workers’ remittances, in the first half of 2026. The post Nigeria receives $11.12 billion in personal transfers in first half of 2026 appeared first on Nairametrics .",
-      "published": "2026-09-21T10:27:59+00:00",
-      "fetched": "2026-09-21T11:12:08.290634+00:00"
-    },
-    {
-      "id": "0f26425466be3410",
-      "title": "Nigerian Breweries flags off 80th anniversary celebration with nationwide search for shared memories",
-      "link": "https://nairametrics.com/2026/09/21/nigerian-breweries-flags-off-80th-anniversary-celebration-with-nationwide-search-for-shared-memories/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian Breweries Plc, Nigeria’s foremost brewing company, has flagged off activities to mark its 80th anniversary, turning the spotlight away from itself to Nigerians who have shaped its story. Through its nationwide anniversary campaign “Together, Every Moment,” the company is inviting Nigerians at home and abroad to search their photo albums, family archives, camera rolls [ ] The post Nigerian Breweries flags off 80th anniversary celebration with nationwide search for shared memories appeared first on Nairametrics .",
-      "published": "2026-09-21T10:25:29+00:00",
-      "fetched": "2026-09-21T11:12:08.290725+00:00"
-    },
-    {
-      "id": "1aadde767353f242",
-      "title": "The sale is just the beginning: Hostplus Afrika set to redefine after-sales service at lifescape global",
-      "link": "https://nairametrics.com/2026/09/21/the-sale-is-just-the-beginning-hostplus-afrika-set-to-redefine-after-sales-service-at-lifescape-global/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "From property ownership to property performance, HOSTPLUS AFRIKA is taking responsibility for what happens after the keys are handed over.In real estate, closing a deal is often regarded as the finish line. For Lifescape Global Investment Limited, it is only the beginning.As the company continues to develop and offer real estate opportunities to investors, homeowners [ ] The post The sale is just the beginning: Hostplus Afrika set to redefine after-sales service at lifescape global appeared first on Nairametrics .",
-      "published": "2026-09-21T10:18:16+00:00",
-      "fetched": "2026-09-21T11:12:08.290790+00:00"
-    },
-    {
-      "id": "b0b26576caa3b258",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“On each of these weekends away, she’s probably spending $500.”",
-      "published": "2026-09-21T10:16:00+00:00",
-      "fetched": "2026-09-21T11:12:07.375617+00:00"
-    },
-    {
-      "id": "079950d553634651",
-      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
-      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A team at the bank, led by Ben Snider, wrote in a recent note that they see S P 500 earnings per share growth slowing to 11% in 2027 and 2028.",
-      "published": "2026-09-21T10:13:00+00:00",
-      "fetched": "2026-09-21T11:12:07.375696+00:00"
     }
   ]
 }
