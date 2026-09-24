@@ -1,8 +1,118 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-23T15:38:12.793368+00:00",
+  "updated": "2026-09-24T01:47:44.354330+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fe170929c941cb10",
+      "title": "Senate Bill Would Give First-Time Homebuyers Up to $50K—but It Faces Uphill Battle in Congress",
+      "link": "https://www.realtor.com/news/real-estate-news/senate-bill-merkley-down-payment-assistance-homeownership-promise-act/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If passed, the Homeownership Promise Act would give first-time qualifying homebuyers $5 for every $1 saved.",
+      "published": "2026-09-23T21:55:18+00:00",
+      "fetched": "2026-09-24T01:47:44.353523+00:00"
+    },
+    {
+      "id": "310738008c97bb9f",
+      "title": "‘Dead Poets Society’ Star Robert Sean Leonard Reveals Why He Traded NYC for Small-Town Life With His 3 Daughters",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dead-poets-society-star-robert-sean-leonard-move-nyc-small-town-new-jersey-kids/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 57-year-old actor spent much of his younger life in Manhattan, even moving into his own apartment as a teenager.",
+      "published": "2026-09-23T21:13:05+00:00",
+      "fetched": "2026-09-24T01:47:44.353564+00:00"
+    },
+    {
+      "id": "ffaf23adb35594e8",
+      "title": "Elizabeth Holmes Shares Intimate Look Inside Her San Diego Home in Nathan Fielder’s ‘You Can See Everything’ Documentary",
+      "link": "https://www.realtor.com/news/trends/elizabeth-holmes-san-diego-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The disgraced Theranos founder opened her San Diego home to Nathan Fielder to document the days leading up to her prison sentence.",
+      "published": "2026-09-23T20:57:08+00:00",
+      "fetched": "2026-09-24T01:47:44.353599+00:00"
+    },
+    {
+      "id": "5583fe3954222fe8",
+      "title": "Bestselling Author Garth Stein Is Selling His Historic Seattle ‘Forever House’ for $2.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/garth-stein-seattle-home-listing-mount-baker/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"The Art of Racing in the Rain\" author lists his restored historic four-bedroom Mount Baker home near Lake Washington.",
+      "published": "2026-09-23T20:33:47+00:00",
+      "fetched": "2026-09-24T01:47:44.353629+00:00"
+    },
+    {
+      "id": "0825dd5536d3dde7",
+      "title": "Prince Harry Returns to U.S. Just Weeks After Leaving $15 Million California Mansion for New Life in U.K.",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-return-to-the-us-california-home-uk/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Duke and Duchess of Sussex, who purchased a Montecito home in 2020 for $14.65 million, arrived in the U.K. on Aug. 26",
+      "published": "2026-09-23T18:43:20+00:00",
+      "fetched": "2026-09-24T01:47:44.353660+00:00"
+    },
+    {
+      "id": "e6968db78470190a",
+      "title": "Trump and Mamdani Discuss Plan for ‘Entire New Neighborhood’ in NYC as Housing Costs Soar",
+      "link": "https://www.realtor.com/news/real-estate-news/trump-mamdani-gracie-mansion-nyc-sunnyside-yard-development/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While speaking to the press after the meeting, the leaders shared that their discussion focused on improving affordability for New Yorkers.",
+      "published": "2026-09-23T18:15:23+00:00",
+      "fetched": "2026-09-24T01:47:44.353690+00:00"
+    },
+    {
+      "id": "654aedcca5514ebc",
+      "title": "Inside Ina Garten’s East Hampton Estate—and the Design Tricks She Swears By for Effortless Entertaining",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/ina-garten-east-hampton-new-york-homes-hosting/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Barefoot Contessa\" host spills her best entertaining tips, explaining how she's renovated her longtime homes for better dinner parties.",
+      "published": "2026-09-23T17:59:40+00:00",
+      "fetched": "2026-09-24T01:47:44.353720+00:00"
+    },
+    {
+      "id": "8936f3e45aa69c16",
+      "title": "Inside Panthers Star Jonathon Brooks’ $539K North Carolina Home Where He’ll Recover Following Latest Injury",
+      "link": "https://www.realtor.com/news/sports/carolina-panthers-jonathon-brooks-north-carolina-home-recovery-injury/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Brooks was placed on injured reserve after aggravating a groin injury during the Panthers' victory over the Atlanta Falcons on Sept. 20.",
+      "published": "2026-09-23T16:56:46+00:00",
+      "fetched": "2026-09-24T01:47:44.353750+00:00"
+    },
+    {
+      "id": "893c0992cee0b116",
+      "title": "Jon Hamm and Wife Anna Osceola Are ‘Ready’ for First Baby—but Will ‘Mad Men’ Star’s Bachelor Pad Serve as Their Family Home?",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jon-hamm-anna-osceola-baby-los-feliz-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Mad Men\" star snagged his L.A. abode before he was linked to his now-wife, Anna Osceloa—but it has since become their marital home.",
+      "published": "2026-09-23T16:55:00+00:00",
+      "fetched": "2026-09-24T01:47:44.353784+00:00"
+    },
+    {
+      "id": "810030eddc87bf08",
+      "title": "Homeowners With a Hidden Flaw Lurking in Their Foundations Could Soon Get a Tax Write-Off",
+      "link": "https://www.realtor.com/news/real-estate-news/pyrrhotite-foundation-concrete-slab-cracked-damage-tax-write-off-congress/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "That could impact tens of thousands of homes, especially in New England, that may require an expensive total foundation replacement.",
+      "published": "2026-09-23T16:14:09+00:00",
+      "fetched": "2026-09-24T01:47:44.353811+00:00"
+    },
+    {
+      "id": "292614914b9d8816",
+      "title": "Simone Biles Reveals How She Cheers On Jonathan Owens From Their Texas Mansion When She Skips His NFL Games",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/simone-biles-cheers-on-jonathan-owens-texas-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Biles gave fans a peek at her relaxed approach to watching from home, as Owens and the Indianapolis Colts took on the Kansas City Chiefs.",
+      "published": "2026-09-23T15:47:13+00:00",
+      "fetched": "2026-09-24T01:47:44.353839+00:00"
+    },
     {
       "id": "44fe28c1fa0f9bac",
       "title": "Mortgage Rates Continue To Weigh on Applications Following Fed Rate Hike",
@@ -1392,116 +1502,6 @@
       "summary": "For the past five decades, the property has been in the same family that purchased it in 1978, years before producers approached them.",
       "published": "2026-09-14T19:41:26+00:00",
       "fetched": "2026-09-14T21:05:29.322542+00:00"
-    },
-    {
-      "id": "e199c745e4cd6fac",
-      "title": "Kody and Robyn Exit ‘Sister Wives’ as Remaining Cast Unpacks $1.5 Million Coyote Pass Fallout",
-      "link": "https://www.realtor.com/news/reality-tv/sister-wives-robyn-kody-brown-departure-coyote-pass-land/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Over a year after the $1.5 million sale of the family's Coyote Pass property, Kody and Robyn Brown have left the \"Sister Wives\" cast.",
-      "published": "2026-09-14T19:35:28+00:00",
-      "fetched": "2026-09-14T21:05:29.322584+00:00"
-    },
-    {
-      "id": "5193da2ac239d086",
-      "title": "Once Blamed for Housing Shortages, Airbnb Pledges $250 Million To Build Affordable Units",
-      "link": "https://www.realtor.com/news/trends/airbnb-financing-affordable-housing-accelerator/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Airbnb, which reported $12.2 billion in revenue last year, is committing to put an initial $250 million toward stalled housing projects.",
-      "published": "2026-09-14T19:29:05+00:00",
-      "fetched": "2026-09-14T21:05:29.322614+00:00"
-    },
-    {
-      "id": "e67ad21ccc4843f5",
-      "title": "Inside Zendaya and Tom Holland’s Plans for a Climate-Controlled Room to House Her $269,000 Wedding Gown",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/tom-holland-zendaya-climate-controlled-room-home-wedding-dress/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Holland and Zendaya said \"I do\" during an intimate wedding celebration at the Beaverbrook Hotel in Surrey.",
-      "published": "2026-09-14T19:15:24+00:00",
-      "fetched": "2026-09-14T21:05:29.322645+00:00"
-    },
-    {
-      "id": "b734412d816ac570",
-      "title": "4 Underused Housing Hacks To Cut the True Cost of Homeownership",
-      "link": "https://www.realtor.com/news/trends/underused-housing-hacks-to-cut-cost-of-homeownership/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "These four underused housing hacks could cut homeownership costs, from mortgage rate buydowns to tax appeals and rental income.",
-      "published": "2026-09-14T19:03:37+00:00",
-      "fetched": "2026-09-14T21:05:29.322673+00:00"
-    },
-    {
-      "id": "ea65f6dfb03f350d",
-      "title": "EXCLUSIVE: Buffalo Bills Quarterback Josh Allen Trims Over Half a Million Dollars From His California Bachelor Pad",
-      "link": "https://www.realtor.com/news/sports/buffalo-bills-quarterback-josh-allen-reduces-price-california-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mere weeks after tying the knot, Allen listed his four-bedroom, three-bathroom home, which has served as his bachelor pad since 2023.",
-      "published": "2026-09-14T16:57:20+00:00",
-      "fetched": "2026-09-14T17:06:19.215669+00:00"
-    },
-    {
-      "id": "2fa70008b13720de",
-      "title": "Kamala Harris’ $8 Million Malibu Mansion Targeted by Trespasser Who ‘Illegally Entered’ Property",
-      "link": "https://www.realtor.com/news/trends/kamala-harris-malibu-mansion-trespasser-illegally-entered-property/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Los Angeles County Sheriff's Department deputies responded to Harris and her husband Doug Emhoff's property at around 10:30 p.m. Friday.",
-      "published": "2026-09-14T16:32:28+00:00",
-      "fetched": "2026-09-14T17:06:19.215708+00:00"
-    },
-    {
-      "id": "a41e6e21c80e29a4",
-      "title": "Mortgage Rates Are at 15-Month Highs—but Waiting To Buy May Backfire, Study Finds",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-high-wait-to-buy-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "While potential buyers often wait for high rates to fall, buying immediately resulted in a better outcome in 61% of scenarios.",
-      "published": "2026-09-14T16:15:01+00:00",
-      "fetched": "2026-09-14T17:06:19.215741+00:00"
-    },
-    {
-      "id": "5fa9d6077fc0743b",
-      "title": "EXCLUSIVE: Maria Menounos Lists Longtime Encino Mansion for $7 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/maria-menounos-encino-california-mansion-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 48-year-old media personality's six-bedroom, 5.5-bathroom residence hit the market for just shy of $7 million.",
-      "published": "2026-09-14T13:04:41+00:00",
-      "fetched": "2026-09-14T17:06:19.215767+00:00"
-    },
-    {
-      "id": "9e3b34d444c7d1c4",
-      "title": "Glidden’s 2027 Color of the Year Promises a ‘Reset’ Without the Remodel",
-      "link": "https://www.realtor.com/news/trends/glidden-2027-color-of-the-year-artifact/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Glidden’s 2027 Color of the Year, Artifact, is a smoky blue designed for homeowners craving a refresh without a full remodel.",
-      "published": "2026-09-14T13:00:00+00:00",
-      "fetched": "2026-09-14T17:06:19.215796+00:00"
-    },
-    {
-      "id": "abbd156e8f83c473",
-      "title": "Scammers Are Trying To Sell Homes They Don’t Own—and Attempts Have More Than Doubled",
-      "link": "https://www.realtor.com/news/trends/seller-impersonation-fraud-home-title-scam-alta-survey/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Seller impersonation fraud is surging as scammers use public records, stolen identities, and deepfakes to sell homes they don’t own.",
-      "published": "2026-09-14T12:00:00+00:00",
-      "fetched": "2026-09-14T17:06:19.215826+00:00"
-    },
-    {
-      "id": "fa354a88385adf5a",
-      "title": "I Started Buying Rentals at 46. By 50, They’ll Replace My Salary.",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1330",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Kent Long wanted passive income. The problem? All those gurus and guides online were only selling a fantasy.",
-      "published": "2026-09-14T11:00:58+00:00",
-      "fetched": "2026-09-14T17:06:18.890916+00:00"
     }
   ]
 }

@@ -1,8 +1,168 @@
 {
   "category": "finance",
-  "updated": "2026-09-23T15:37:54.448484+00:00",
+  "updated": "2026-09-24T01:47:32.143800+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "184b3c9b40d51ceb",
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
+      "published": "2026-09-23T23:59:39+00:00",
+      "fetched": "2026-09-24T01:47:30.929394+00:00"
+    },
+    {
+      "id": "00fc91a828837b63",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
+      "published": "2026-09-23T21:59:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604589+00:00"
+    },
+    {
+      "id": "6eff3f961180b720",
+      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
+      "published": "2026-09-23T21:51:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604633+00:00"
+    },
+    {
+      "id": "be7519e0206b1fad",
+      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
+      "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Contrary to widespread belief, the stock market hasn’t performed better during periods of inter-party gridlock in Washington",
+      "published": "2026-09-23T21:44:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604668+00:00"
+    },
+    {
+      "id": "5d28c22750366328",
+      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+      "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Sam Altman and Dario Amodei on Wednesday asked United Nations members to work together on global AI standards.",
+      "published": "2026-09-23T21:27:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604699+00:00"
+    },
+    {
+      "id": "a7107aa6e8857a78",
+      "title": "Inflation could cost Republicans the Senate — this chart shows how",
+      "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Fallout from these decisions pushed prices higher and pressured worker pay",
+      "published": "2026-09-23T21:13:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604725+00:00"
+    },
+    {
+      "id": "cab09db19eada00d",
+      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Palantir’s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
+      "published": "2026-09-23T21:08:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604756+00:00"
+    },
+    {
+      "id": "17881671881d2b80",
+      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+      "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The S P 500’s latest trip back to near-record territory has been powered by a surprisingly small number of stocks.",
+      "published": "2026-09-23T20:45:00+00:00",
+      "fetched": "2026-09-24T01:47:30.604793+00:00"
+    },
+    {
+      "id": "f5b7c68257dde3a7",
+      "title": "NASD targets N12 billion in rights issue to fund technology push, market expansion",
+      "link": "https://nairametrics.com/2026/09/23/nasd-targets-n12-billion-in-rights-issue-to-fund-technology-push-market-expansion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Association of Securities Dealers (NASD), Nigeria’s over-the-counter securities exchange, has launched a N12 billion rights issue to strengthen its capital base and position itself for its next growth phase as a composite exchange. The post NASD targets N12 billion in rights issue to fund technology push, market expansion appeared first on Nairametrics .",
+      "published": "2026-09-23T18:38:00+00:00",
+      "fetched": "2026-09-24T01:47:31.248584+00:00"
+    },
+    {
+      "id": "9710b92060e19dea",
+      "title": "NGX market capitalization hits record N163.06 trillion as ASI rises 0.23%",
+      "link": "https://nairametrics.com/2026/09/23/ngx-market-capitalization-hits-record-n163-06-trillion-as-asi-rises-0-23/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian Exchange Limited (NGX) market capitalisation reached a record N163 trillion on Wednesday, September 23, 2026 as trading activity recorded high market participation. The post NGX market capitalization hits record N163.06 trillion as ASI rises 0.23% appeared first on Nairametrics .",
+      "published": "2026-09-23T18:33:57+00:00",
+      "fetched": "2026-09-24T01:47:31.248637+00:00"
+    },
+    {
+      "id": "2202ba179207ef58",
+      "title": "NGX Invest expands primary market access with whatsApp subscription channel",
+      "link": "https://nairametrics.com/2026/09/23/ngx-invest-expands-primary-market-access-with-whatsapp-subscription-channel/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian Exchange Group (NGX Group) has expanded access to its NGX Invest platform with the launch of a WhatsApp subscription channel, providing investors with an additional, convenient way to participate in public offers. Investors can begin the subscription process by sending “Invest” to NGX Invest on WhatsApp at +234 812 731 9521. They can then [ ] The post NGX Invest expands primary market access with whatsApp subscription channel appeared first on Nairametrics .",
+      "published": "2026-09-23T17:51:45+00:00",
+      "fetched": "2026-09-24T01:47:31.248704+00:00"
+    },
+    {
+      "id": "fb52448231b6892c",
+      "title": "EFCC declares ex-pension boss Maina wanted over alleged receipt of stolen properties",
+      "link": "https://nairametrics.com/2026/09/23/efcc-declares-ex-pension-boss-maina-wanted-over-alleged-receipt-of-stolen-properties/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Economic and Financial Crimes Commission (EFCC) has declared the former Chairman of the now-defunct Pension Reformed Task Team, Abdulrasheed Maina, wanted over an alleged case of receiving stolen properties. The post EFCC declares ex-pension boss Maina wanted over alleged receipt of stolen properties appeared first on Nairametrics .",
+      "published": "2026-09-23T16:58:47+00:00",
+      "fetched": "2026-09-24T01:47:31.248749+00:00"
+    },
+    {
+      "id": "b237e1e49ee5ccec",
+      "title": "Remita launches all-in-one super app as it expands into consumer financial services",
+      "link": "https://nairametrics.com/2026/09/23/remita-launches-all-in-one-super-app-as-it-expands-into-consumer-financial-services/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Remita has launched a new, all-in-one mobile app that brings banking, payments, transfers, investments, loans, pensions, travel and other financial services into a single platform, expanding the company’s focus from its traditional payments business into the consumer market. The company announced the launch on Tuesday at the Nigeria Fintech Week 2026 in Lagos, unveiling what [ ] The post Remita launches all-in-one super app as it expands into consumer financial services appeared first on Nairametrics .",
+      "published": "2026-09-23T16:36:44+00:00",
+      "fetched": "2026-09-24T01:47:31.248812+00:00"
+    },
+    {
+      "id": "d54ef6c6c396eb92",
+      "title": "Acumen backs Sun King with $5 million to expand solar access in Zambia",
+      "link": "https://techcabal.com/2026/09/23/acumen-backs-sun-king-with-5-million/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The investment comes as Zambia tries to close a large electricity-access gap while reducing its dependence on hydropower.",
+      "published": "2026-09-23T16:29:00+00:00",
+      "fetched": "2026-09-24T01:47:32.143583+00:00"
+    },
+    {
+      "id": "cf539d7928526af4",
+      "title": "More large IPOs needed to meet Nigeria’s growing retail investor demand — Bamboo",
+      "link": "https://nairametrics.com/2026/09/23/more-large-ipos-needed-to-meet-nigerias-growing-retail-investor-demand-bamboo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "In this interview with Nairametrics, Bassey discusses what the Dangote Refinery IPO has revealed about Nigeria's retail investor market, the growing role of fintech platforms in the capital market, and why he believes another major listing is needed within two years. The post More large IPOs needed to meet Nigeria’s growing retail investor demand — Bamboo appeared first on Nairametrics .",
+      "published": "2026-09-23T16:20:53+00:00",
+      "fetched": "2026-09-24T01:47:31.248869+00:00"
+    },
+    {
+      "id": "959838e3edcd5579",
+      "title": "MAN warns foreign supply dependence could derail Nigeria’s industrial ambitions",
+      "link": "https://nairametrics.com/2026/09/23/man-warns-foreign-supply-dependence-could-derail-nigerias-industrial-ambitions/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Manufacturers Association of Nigeria (MAN) has called for stronger efforts to reduce Nigeria’s dependence on foreign supply chains, saying the country can leverage its new industrial policy to build domestic production capacity and emerge as Africa’s industrial hub. The post MAN warns foreign supply dependence could derail Nigeria’s industrial ambitions appeared first on Nairametrics .",
+      "published": "2026-09-23T16:02:07+00:00",
+      "fetched": "2026-09-24T01:47:31.248931+00:00"
+    },
     {
       "id": "d1d7769835476b22",
       "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
@@ -1342,166 +1502,6 @@
       "summary": "About 60% of the stocks in the S P 500 are down more than 20% from their all-time highs.",
       "published": "2026-09-21T20:19:00+00:00",
       "fetched": "2026-09-21T21:16:39.491523+00:00"
-    },
-    {
-      "id": "8d26b85118964a7e",
-      "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
-      "link": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "One reason that analysts and doctors want to see the data is to better understand how well the personalized treatment works.",
-      "published": "2026-09-21T20:19:00+00:00",
-      "fetched": "2026-09-21T21:16:39.491554+00:00"
-    },
-    {
-      "id": "90ae063042de1243",
-      "title": "America’s power grid is running out of juice — and these stocks stand to gain",
-      "link": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "SpaceX is one of a host of potential beneficiaries identified by Morgan Stanley as ways to play the intensifying AI power shortage.",
-      "published": "2026-09-21T20:02:00+00:00",
-      "fetched": "2026-09-21T21:16:39.491608+00:00"
-    },
-    {
-      "id": "eb752335d5022165",
-      "title": "President Tinubu extends vacation after three-week leave",
-      "link": "https://nairametrics.com/2026/09/21/president-tinubu-extends-vacation-after-three-week-leave/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "President Bola Ahmed Tinubu has extended his working vacation in Europe by a few days, with the Presidency saying he will return to Nigeria at the weekend. The post President Tinubu extends vacation after three-week leave appeared first on Nairametrics .",
-      "published": "2026-09-21T19:56:10+00:00",
-      "fetched": "2026-09-21T21:16:40.224183+00:00"
-    },
-    {
-      "id": "daacfbedc3a86255",
-      "title": "Elon Musk, Jensen Huang and Tim Cook are set to dine with Xi this week. Here’s what their companies want from China.",
-      "link": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The Trump White House’s guest list reads like a map of corporate America’s exposure to China — from Tesla’s Shanghai factory, to Nvidia’s blocked AI chips, to Citi’s long-awaited brokerage license.",
-      "published": "2026-09-21T19:46:00+00:00",
-      "fetched": "2026-09-21T21:16:39.491650+00:00"
-    },
-    {
-      "id": "e5953fbf158059cc",
-      "title": "Drug trafficking: Nigerian loses bid to block ‘extradition’ over 21-year Italy sentence",
-      "link": "https://nairametrics.com/2026/09/21/drug-trafficking-nigerian-loses-bid-to-block-extradition-over-21-year-italy-sentence/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal High Court in Abuja has dismissed an application filed by Rowane Isah Ebisan against the Federal Government’s extradition proceedings over a 21-year, 11-month and 16-day imprisonment sentence imposed on him in Italy for offences bordering on illicit possession and trafficking of drugs. The post Drug trafficking: Nigerian loses bid to block ‘extradition’ over 21-year Italy sentence appeared first on Nairametrics .",
-      "published": "2026-09-21T19:16:31+00:00",
-      "fetched": "2026-09-21T21:16:40.224250+00:00"
-    },
-    {
-      "id": "a7f206d710e2e80d",
-      "title": "Access Bank redeems $500 million Eurobond at maturity",
-      "link": "https://nairametrics.com/2026/09/21/access-bank-redeems-500-million-eurobond-at-maturity/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Access Bank Plc has redeemed its $500 million Senior Unsecured Eurobond following the instrument’s maturity, marking the successful conclusion of a five-year international debt issuance launched in 2021. The post Access Bank redeems $500 million Eurobond at maturity appeared first on Nairametrics .",
-      "published": "2026-09-21T19:11:37+00:00",
-      "fetched": "2026-09-21T21:16:40.224298+00:00"
-    },
-    {
-      "id": "c27a27bdc6a5cf77",
-      "title": "FMDA projects Nigeria’s liquidity inflows to drop 31% to N2.47 trillion this week",
-      "link": "https://nairametrics.com/2026/09/21/fmda-projects-nigerias-liquidity-inflows-to-drop-31-to-n2-47-trillion-this-week/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Financial Markets Dealers Association (FMDA) has projected Nigeria's financial-system liquidity inflows to fall sharply this week to N2.47 trillion, about 30.62% drop from N3.56 trillion the previous week. The post FMDA projects Nigeria’s liquidity inflows to drop 31% to N2.47 trillion this week appeared first on Nairametrics .",
-      "published": "2026-09-21T18:48:27+00:00",
-      "fetched": "2026-09-21T21:16:40.224350+00:00"
-    },
-    {
-      "id": "338087bbf74dc1b9",
-      "title": "Fibre Cuts: Implications for Nigeria’s Digital Economy and National Security.",
-      "link": "https://nairametrics.com/2026/09/21/fibre-cuts-implications-for-nigerias-digital-economy-and-national-security/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Despite massive investments by telecommunications operators in infrastructure, fibre-optic cable cuts remain the single biggest threat to quality of service in Nigeria today and a direct threat to the national economy and security. These cuts are a mix of wilful sabotage and unintentional disruption, but the effect is the same: nationwide outages, failed transactions, and [ ] The post Fibre Cuts: Implications for Nigeria’s Digital Economy and National Security. appeared first on Nairametrics .",
-      "published": "2026-09-21T18:25:52+00:00",
-      "fetched": "2026-09-21T21:16:40.224412+00:00"
-    },
-    {
-      "id": "ecf8933bcf0eeffa",
-      "title": "FirstEase: how FirstBank is making big-ticket purchases and everyday bills easier",
-      "link": "https://nairametrics.com/2026/09/21/firstease-how-firstbank-is-making-big-ticket-purchases-and-everyday-bills-easier/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For many Nigerians, buying a new smartphone, laptop, television, refrigerator or other essential household appliance can become a difficult financial decision, particularly when the full cost has to be paid at once. The same challenge can arise when an unexpected electricity, data, cable or other bill arrives at a time when available cash is limited.This [ ] The post FirstEase: how FirstBank is making big-ticket purchases and everyday bills easier appeared first on Nairametrics .",
-      "published": "2026-09-21T18:24:46+00:00",
-      "fetched": "2026-09-21T21:16:40.224466+00:00"
-    },
-    {
-      "id": "73f3f3c6bf7409b0",
-      "title": "A happier retirement contains these 3 elements",
-      "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Boosting your postwork satisfaction isn’t about luck. Here is what experts say actually drives fulfillment in your next chapter.",
-      "published": "2026-09-21T17:12:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806449+00:00"
-    },
-    {
-      "id": "8887ff08fd2db6d0",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "2026-09-21T16:30:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806494+00:00"
-    },
-    {
-      "id": "946c9ff885d93d65",
-      "title": "AMD crosses $1 trillion market cap as AI rally lifts shares",
-      "link": "https://nairametrics.com/2026/09/21/amd-crosses-1-trillion-market-cap-as-ai-rally-lifts-shares/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Advanced Micro Devices (AMD) briefly crossed the $1 trillion market capitalisation mark for the first time on Monday, as investors continued to bet on the chipmaker’s expanding role in artificial intelligence computing. The post AMD crosses $1 trillion market cap as AI rally lifts shares appeared first on Nairametrics .",
-      "published": "2026-09-21T16:16:46+00:00",
-      "fetched": "2026-09-21T17:15:08.521042+00:00"
-    },
-    {
-      "id": "c10bb9f16af3cd46",
-      "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
-      "published": "2026-09-21T16:12:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806525+00:00"
-    },
-    {
-      "id": "886ccd7e3184ed00",
-      "title": "Dangote sets 2028 IPO for fertiliser business, targets world’s largest status",
-      "link": "https://nairametrics.com/2026/09/21/dangote-sets-2028-ipo-for-fertiliser-business-targets-worlds-largest-status/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Industries Limited President and Chief Executive Officer, Aliko Dangote, has said his fertiliser business will become the world’s largest and is scheduled for an initial public offering (IPO) in 2028. The post Dangote sets 2028 IPO for fertiliser business, targets world’s largest status appeared first on Nairametrics .",
-      "published": "2026-09-21T16:08:57+00:00",
-      "fetched": "2026-09-21T17:15:08.521096+00:00"
-    },
-    {
-      "id": "3d563786c4de989c",
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion.",
-      "published": "2026-09-21T15:58:00+00:00",
-      "fetched": "2026-09-21T17:15:07.806550+00:00"
-    },
-    {
-      "id": "2743d96229fa0c1c",
-      "title": "CBN: Nigeria’s FX supply rises 20.5% to $8.94 billion in 2025",
-      "link": "https://nairametrics.com/2026/09/21/cbn-nigerias-fx-supply-rises-20-5-to-8-94-billion-in-2025/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s foreign exchange supply rose by 20.5% to $8.94 billion in 2025, from $7.43 billion recorded in 2024. The post CBN: Nigeria’s FX supply rises 20.5% to $8.94 billion in 2025 appeared first on Nairametrics .",
-      "published": "2026-09-21T15:45:33+00:00",
-      "fetched": "2026-09-21T17:15:08.521133+00:00"
     }
   ]
 }
