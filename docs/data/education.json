@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-24T01:47:43.711274+00:00",
+  "updated": "2026-09-24T10:35:13.361897+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5e7aec8a8418cf3b",
+      "title": "The Long, Strange History of Tarot Cards: From the 14th Century to Modern Times",
+      "link": "https://www.openculture.com/2026/09/the-long-strange-history-of-tarot-cards-from-the-14th-century-to-modern-times.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "We have any number of reasons for difficulty getting to sleep, not least worries about the future. This is hardly a recent phenomenon, and indeed practices meant to clarify the nature of events to come may be older than civilization itself. In fact, many of us moderns trust the old ways of fortune-telling more than [ ]",
+      "published": "2026-09-24T09:06:32+00:00",
+      "fetched": "2026-09-24T10:35:13.361628+00:00"
+    },
+    {
+      "id": "f6b223d46ea859f8",
+      "title": "How to Memorize an Entire Chapter from “Moby Dick”: The Art and Science of Remembering Everything",
+      "link": "https://www.openculture.com/2026/09/how-to-memorize-an-entire-chapter-from-moby-dick.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Sometimes, when I can’t sleep, I mentally revisit the various homes of my childhood, wandering from room to room, turning on lights and peering in closets until I conk out. Turns out these imaginary tours are also handy mnemonic tools, as Vox’s Dean Peterson explains above. Hey, that’s good news… isn’t the subconscious rumored to [ ]",
+      "published": "2026-09-24T08:00:48+00:00",
+      "fetched": "2026-09-24T10:35:13.361693+00:00"
+    },
+    {
+      "id": "eeb3d09221d946a2",
+      "title": "The promise and peril of using visual AI to study cities",
+      "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+      "published": "2026-09-24T04:00:00+00:00",
+      "fetched": "2026-09-24T10:35:12.773813+00:00"
+    },
     {
       "id": "53338f70a8d1df78",
       "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
@@ -1472,36 +1502,6 @@
       "summary": "In a new book, Paul Osterman details his research finding more than one-third of U.S. workers are “disposable,” with little security or chance of job advancement.",
       "published": "2026-08-18T04:00:00+00:00",
       "fetched": "2026-08-18T06:19:43.514722+00:00"
-    },
-    {
-      "id": "16877c41a60981a2",
-      "title": "Tackling rare genetic disorders with patient-focused science",
-      "link": "https://news.mit.edu/2026/tackling-rare-genetic-disorders-patient-focused-science-shannon-knight-0818",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Shannon Knight, a brain and cognitive sciences PhD candidate and McGovern Institute researcher, focuses on developing a novel gene therapy.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "fetched": "2026-08-18T06:19:43.514749+00:00"
-    },
-    {
-      "id": "5bdc3617b0b7469e",
-      "title": "DNA shaper steers nervous system development",
-      "link": "https://news.mit.edu/2026/dna-shaper-steers-nervous-system-development-0817",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A study of worms finds a protein that helps shape the structure of the genome is critical for establishing the identity of some neurons.",
-      "published": "2026-08-17T20:20:00+00:00",
-      "fetched": "2026-08-18T00:27:15.418400+00:00"
-    },
-    {
-      "id": "49606c3114889028",
-      "title": "Q&A: Rethinking how innovation happens",
-      "link": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
-      "published": "2026-08-17T19:50:00+00:00",
-      "fetched": "2026-08-18T18:17:39.206827+00:00"
     }
   ]
 }

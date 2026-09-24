@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-24T01:47:44.354330+00:00",
+  "updated": "2026-09-24T10:35:13.948744+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ba61a63c6917afbc",
+      "title": "Democratic Socialist Candidate in Providence Touts Rent Control as City Flunks Housing Test",
+      "link": "https://www.realtor.com/news/trends/mayoral-candidate-rent-control-providence-rhode-island-flunks-housing-test/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Following a primary victory by David Morales, the Providence mayoral race centers around the city's housing affordability crisis.",
+      "published": "2026-09-24T09:00:00+00:00",
+      "fetched": "2026-09-24T10:35:13.948053+00:00"
+    },
+    {
+      "id": "e650e029ba4ce4d6",
+      "title": "Down Payments Surge as Homebuyers Seek Shield From Rising Mortgage Rates",
+      "link": "https://www.realtor.com/news/trends/down-payments-surge-homebuyers-shield-rising-mortgage-rates-q2-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homebuyers in competitive markets are increasing down payments to lower monthly mortgage costs near 7% rates.",
+      "published": "2026-09-24T08:37:00+00:00",
+      "fetched": "2026-09-24T10:35:13.948087+00:00"
+    },
+    {
+      "id": "b03f495d003814a3",
+      "title": "‘Real Housewives’ Star Erin Lichy Takes Us Inside Her Secluded Hamptons Sanctuary—and Its Flood Drama",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/rhony-erin-lichy-hamptons-home-tour-flood-renovation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Go inside \"Real Housewives\" star Erin Lichy’s Sag Harbor home as she faces major flood damage and shares how her sanctuary keeps her sane.",
+      "published": "2026-09-24T08:12:00+00:00",
+      "fetched": "2026-09-24T10:35:13.948126+00:00"
+    },
     {
       "id": "fe170929c941cb10",
       "title": "Senate Bill Would Give First-Time Homebuyers Up to $50K—but It Faces Uphill Battle in Congress",
@@ -1472,36 +1502,6 @@
       "summary": "The run-down Philadelphia home of late pornographer R.C. Horsch is at the center of a criminal investigation linked to five missing women.",
       "published": "2026-09-14T21:39:38+00:00",
       "fetched": "2026-09-15T02:02:01.261802+00:00"
-    },
-    {
-      "id": "250196379b6564c9",
-      "title": "EXCLUSIVE: Los Angeles Lakers Legend Elgin Baylor’s Longtime Home Hits the Market for $5.4 Million",
-      "link": "https://www.realtor.com/news/sports/los-angeles-lakers-elgin-baylor-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The basketball icon remained with the Lakers for his entire playing career before retiring in 1971. He died in 2021 at the age of 86.",
-      "published": "2026-09-14T21:33:58+00:00",
-      "fetched": "2026-09-15T02:02:01.261825+00:00"
-    },
-    {
-      "id": "a3ac180fe7519583",
-      "title": "EXCLUSIVE: Owners of ‘Fresh Prince of Bel-Air’ Mansion Want a Buyer Who Will Appreciate Its ‘History’—As They Relist the Home With Dramatic $7 Million Price Cut",
-      "link": "https://www.realtor.com/news/unique-homes/fresh-prince-bel-air-home-relist-price-drop/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "For the past five decades, the property has been in the same family that purchased it in 1978, years before producers approached them.",
-      "published": "2026-09-14T19:41:26+00:00",
-      "fetched": "2026-09-15T15:46:20.934166+00:00"
-    },
-    {
-      "id": "f152f689e18b767e",
-      "title": "EXCLUSIVE: ‘Fresh Prince of Bel-Air’ Mansion Relists With Dramatic $7 Million Price Cut",
-      "link": "https://www.realtor.com/news/unique-homes/fresh-prince-bel-air-home-relist-price-drop/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "For the past five decades, the property has been in the same family that purchased it in 1978, years before producers approached them.",
-      "published": "2026-09-14T19:41:26+00:00",
-      "fetched": "2026-09-14T21:05:29.322542+00:00"
     }
   ]
 }
