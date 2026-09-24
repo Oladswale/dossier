@@ -1,8 +1,338 @@
 {
   "category": "finance",
-  "updated": "2026-09-24T10:34:57.720613+00:00",
+  "updated": "2026-09-24T15:58:40.586080+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "55daa09b3d088bc7",
+      "title": "As diesel prices surge, Tesla makes its big play for the trucking market",
+      "link": "https://www.marketwatch.com/story/as-diesel-prices-surge-tesla-makes-its-big-play-for-the-trucking-market-b6e2b6f7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The reintroduction of the heavy-duty, all-electric truck comes at an intriguing time for the industry — but it may not be enough to excite Tesla investors.",
+      "published": "2026-09-24T15:54:00+00:00",
+      "fetched": "2026-09-24T15:58:39.636936+00:00"
+    },
+    {
+      "id": "9bf7ef3830ec0654",
+      "title": "EFCC vs Ali Bello: Judge withdraws from N10 billion fraud case over alleged tampering",
+      "link": "https://nairametrics.com/2026/09/24/efcc-vs-ali-bello-judge-withdraws-from-n10-billion-fraud-case-over-alleged-tampering/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Justice James Omotosho of the Federal High Court (FHC) in Abuja on Thursday recused himself (withdrew) from the alleged N10 billion money laundering trial involving Kogi State Governor Usman Ododo, Ali Bello and Dauda Suleiman, filed by the Economic and Financial Crimes Commission (EFCC). The post EFCC vs Ali Bello: Judge withdraws from N10 billion fraud case over alleged tampering appeared first on Nairametrics .",
+      "published": "2026-09-24T15:37:13+00:00",
+      "fetched": "2026-09-24T15:58:40.226978+00:00"
+    },
+    {
+      "id": "9b587f2d89e1b6d9",
+      "title": "Nigeria’s macroeconomic stabilisation yet to translate into industrial comfort — Dele Oye",
+      "link": "https://nairametrics.com/2026/09/24/nigerias-macroeconomic-stabilisation-yet-to-translate-into-industrial-comfort-dele-oye/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s macroeconomic indicators have begun to show signs of stabilisation, with stronger GDP growth, moderating inflation, improved manufacturing output and a period of greater exchange-rate stability. The post Nigeria’s macroeconomic stabilisation yet to translate into industrial comfort — Dele Oye appeared first on Nairametrics .",
+      "published": "2026-09-24T15:36:01+00:00",
+      "fetched": "2026-09-24T15:58:40.227026+00:00"
+    },
+    {
+      "id": "39a262e7254a43cc",
+      "title": "Dar Ventures taps Plug and Play to expand startup programme across Africa",
+      "link": "https://techcabal.com/2026/09/24/dar-ventures-taps-plug-and-play-to-expand-startup-programme-across-africa/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The partnership will give the programme, DarE, access to Plug and Play’s global network of startups, investors and corporate partners.",
+      "published": "2026-09-24T15:30:23+00:00",
+      "fetched": "2026-09-24T15:58:40.585782+00:00"
+    },
+    {
+      "id": "f034de814a67c0e0",
+      "title": "3 things Micron investors need to watch as the stakes get higher",
+      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.",
+      "published": "2026-09-24T14:57:00+00:00",
+      "fetched": "2026-09-24T15:58:39.636978+00:00"
+    },
+    {
+      "id": "822294aefb94054c",
+      "title": "US launches portal to report visa fraud",
+      "link": "https://nairametrics.com/2026/09/24/us-launches-portal-to-report-visa-fraud/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The United States Department of State has launched an online portal allowing members of the public to report suspected fraud or misuse involving U.S. visas, adding a new channel for authorities to receive information about potential violations of immigration rules. The post US launches portal to report visa fraud appeared first on Nairametrics .",
+      "published": "2026-09-24T14:47:08+00:00",
+      "fetched": "2026-09-24T15:58:40.227060+00:00"
+    },
+    {
+      "id": "43545e97505c5c26",
+      "title": "Meta wants to put its Muse AI assistant on your face — but will consumers buy in?",
+      "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Meta Platforms, whose new Muse AI agent has driven the tech sector’s stock prices this week, saw a price-target boost after showcasing products at its Connect conference on Wednesday night.",
+      "published": "2026-09-24T14:44:00+00:00",
+      "fetched": "2026-09-24T15:58:39.637016+00:00"
+    },
+    {
+      "id": "171323c162e7923a",
+      "title": "Africa’s $30 smartphone goal is becoming harder to achieve",
+      "link": "https://techcabal.com/2026/09/24/africas-30-smartphone-goal-is-becoming-harder-to-achieve/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Africa has built the networks. The bigger challenge now is getting affordable smartphones into people’s hands. As component prices rise, the push for a $30 smartphone is getting harder—and so is closing the continent’s mobile internet gap.",
+      "published": "2026-09-24T14:34:44+00:00",
+      "fetched": "2026-09-24T15:58:40.585821+00:00"
+    },
+    {
+      "id": "8e5b9a3ab1c61260",
+      "title": "Everyone knows Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
+      "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "With midterm elections around the corner, voters are voicing concern about the future of these programs as rising costs imperil household finances,",
+      "published": "2026-09-24T14:28:00+00:00",
+      "fetched": "2026-09-24T15:58:39.637056+00:00"
+    },
+    {
+      "id": "e09cb529ec7a8e97",
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+      "published": "2026-09-24T14:26:05+00:00",
+      "fetched": "2026-09-24T15:58:39.903081+00:00"
+    },
+    {
+      "id": "4c221f42dcefdb4b",
+      "title": "Tax defaulters to pay market-linked interest rates under new FG order",
+      "link": "https://nairametrics.com/2026/09/24/tax-defaulters-to-pay-market-linked-interest-rates-under-new-fg-order/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Taxpayers who fail to meet their payment deadlines will pay interest linked to prevailing market rates from October 1, 2026, under a new order issued by the Federal Government. The post Tax defaulters to pay market-linked interest rates under new FG order appeared first on Nairametrics .",
+      "published": "2026-09-24T14:18:07+00:00",
+      "fetched": "2026-09-24T15:58:40.227091+00:00"
+    },
+    {
+      "id": "5b27777eb8e39745",
+      "title": "Mixta Africa Delivers on Its Promise as 27 Ibudo Wura Homeowners Receive Their Keys",
+      "link": "https://nairametrics.com/2026/09/24/mixta-africa-delivers-on-its-promise-as-27-ibudo-wura-homeowners-receive-their-keys/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Mixta Africa, one of West Africa s leading real estate developers, has handed over the keys to 27 homeowners at Ibudo Wura, its affordable housing community along the Lekki-Epe Expressway. The latest handover brings the number of completed homes at Ibudo Wura across Phases 1 and 2 to 192, providing another tangible demonstration of Mixta Africa s [ ] The post Mixta Africa Delivers on Its Promise as 27 Ibudo Wura Homeowners Receive Their Keys appeared first on Nairametrics .",
+      "published": "2026-09-24T14:15:30+00:00",
+      "fetched": "2026-09-24T15:58:40.227131+00:00"
+    },
+    {
+      "id": "530690de3ba768ba",
+      "title": "How Nigeria’s LNG project led Billionaire Bayo Ogunlesi from Law to Banking",
+      "link": "https://nairametrics.com/2026/09/24/how-nigerias-lng-project-led-billionaire-bayo-ogunlesi-from-law-to-banking/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian-born investment banker and Global Infrastructure Partners (GIP) founder Bayo Ogunlesi has explained how an unexpected assignment linked to Nigeria led him to leave a legal career at Cravath, Swaine Moore for investment banking. The post How Nigeria’s LNG project led Billionaire Bayo Ogunlesi from Law to Banking appeared first on Nairametrics .",
+      "published": "2026-09-24T14:10:58+00:00",
+      "fetched": "2026-09-24T15:58:40.227183+00:00"
+    },
+    {
+      "id": "278dd8c614600b18",
+      "title": "EFCC records N1.23 trillion recoveries, 10,872 convictions in 34 months",
+      "link": "https://nairametrics.com/2026/09/24/efcc-records-n1-23-trillion-recoveries-10872-convictions-in-34-months/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Economic and Financial Crimes Commission (EFCC) recorded N1.23 trillion in recoveries and secured 10,872 convictions in the first 34 months of Ola Olukoyede’s tenure as chairman. The post EFCC records N1.23 trillion recoveries, 10,872 convictions in 34 months appeared first on Nairametrics .",
+      "published": "2026-09-24T14:08:37+00:00",
+      "fetched": "2026-09-24T15:58:40.227216+00:00"
+    },
+    {
+      "id": "bf01a93f55aeab74",
+      "title": "How is Gen Z investing their money? Over a dozen share their strategies for today’s market.",
+      "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Gen Z is entering the market unusually young, with easier access to investing than previous generations but vastly different amounts of money to put to work.",
+      "published": "2026-09-24T14:00:00+00:00",
+      "fetched": "2026-09-24T15:58:39.637079+00:00"
+    },
+    {
+      "id": "b9fdb557b9a64d2b",
+      "title": "Do this one thing to help prevent your parents from being scammed",
+      "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
+      "published": "2026-09-24T14:00:00+00:00",
+      "fetched": "2026-09-24T15:58:39.637105+00:00"
+    },
+    {
+      "id": "0bbe37409de34edf",
+      "title": "Brent crude tops $106 as Iran warns war could spread to Indian Ocean",
+      "link": "https://nairametrics.com/2026/09/24/brent-crude-tops-106-as-iran-warns-war-could-spread-to-indian-ocean/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Oil prices jumped on Thursday after Iran warned that the ongoing war could expand to the Indian Ocean if the United States or Israel launches another attack, raising fresh concerns over the security of key energy and shipping routes. The post Brent crude tops $106 as Iran warns war could spread to Indian Ocean appeared first on Nairametrics .",
+      "published": "2026-09-24T13:59:42+00:00",
+      "fetched": "2026-09-24T15:58:40.227248+00:00"
+    },
+    {
+      "id": "3856d92dae283b8c",
+      "title": "Could AI threaten humanity? 8 Africans weigh the risks",
+      "link": "https://techcabal.com/2026/09/24/could-ai-threaten-humanity-8-africans-weigh-the-risks/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "As AI systems become more capable of reasoning and carrying out tasks with less human input, concerns are growing about what happens when humans can no longer fully control them.",
+      "published": "2026-09-24T13:16:52+00:00",
+      "fetched": "2026-09-24T15:58:40.585846+00:00"
+    },
+    {
+      "id": "c311bf57a7358434",
+      "title": "How Africa’s AI boom is leaving 100 million disabled citizens behind",
+      "link": "https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "A 2025 Artificial Intelligence for Development (AI4D) found that persons with disabilities are underrepresented in datasets used to train AI systems.",
+      "published": "2026-09-24T13:15:04+00:00",
+      "fetched": "2026-09-24T15:58:40.585869+00:00"
+    },
+    {
+      "id": "6b57633619ff2fda",
+      "title": "President Tinubu’s special tribute to Aigboje AIG-Imoukhuede at 60",
+      "link": "https://nairametrics.com/2026/09/24/president-tinubus-special-tribute-to-aigboje-aig-imoukhuede-at-60/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "I warmly congratulate Aigboje Aig-Imoukhuede, CFR, on his 60th birthday. I have followed Aigboje’s journey in business and public life over the years. He has earned his place among a generation of Nigerians who took bold bets on our country and proved that Nigerian institutions could compete at the highest levels.",
+      "published": "2026-09-24T12:51:40+00:00",
+      "fetched": "2026-09-24T15:58:40.227294+00:00"
+    },
+    {
+      "id": "b72e3b5b2a42b0eb",
+      "title": "SCGN Conference to Examine How AI Is Changing Boardroom Decisions, Corporate Accountability",
+      "link": "https://nairametrics.com/2026/09/24/scgn-conference-to-examine-how-ai-is-changing-boardroom-decisions-corporate-accountability/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "As businesses increasingly integrate Artificial Intelligence (AI) into strategy, operations and decision-making, questions around who remains accountable for technology-driven decisions are becoming increasingly important for corporate boards and senior executives.These issues will take centre stage at the Society for Corporate Governance Nigeria s (SCGN) 2026 Annual Corporate Governance Conference scheduled for October 8, 2026, in Victoria [ ] The post SCGN Conference to Examine How AI Is Changing Boardroom Decisions, Corporate Accountability appeared first on Nairametrics .",
+      "published": "2026-09-24T12:43:55+00:00",
+      "fetched": "2026-09-24T15:58:40.227338+00:00"
+    },
+    {
+      "id": "a1e9657b5e9f9668",
+      "title": "At 60, Aigboje Aig-Imoukhuede Reflects on a Life of Building Institutions, People and Possibilities",
+      "link": "https://nairametrics.com/2026/09/24/at-60-aigboje-aig-imoukhuede-reflects-on-a-life-of-building-institutions-people-and-possibilities/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Aigboje Aig-Imoukhuede, today, marks his 60th birthday with a deeply personal reflection on a life shaped by faith, family, service and an enduring commitment to building institutions, people and opportunities. In a message shared on LinkedIn, Aig-Imoukhuede received the milestone with gratitude to God for life, grace, family, friendship and the privilege of living with [ ] The post At 60, Aigboje Aig-Imoukhuede Reflects on a Life of Building Institutions, People and Possibilities appeared first on Nairametrics .",
+      "published": "2026-09-24T12:41:54+00:00",
+      "fetched": "2026-09-24T15:58:40.227382+00:00"
+    },
+    {
+      "id": "42197738179dc2d9",
+      "title": "Reckitt Appoints Ujunwa Chukwumah as General Manager, West Africa",
+      "link": "https://nairametrics.com/2026/09/24/reckitt-appoints-ujunwa-chukwumah-as-general-manager-west-africa/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Reckitt, a global leader in health and hygiene, has announced the appointment of Ujunwa Chukwumah as General Manager, West Africa, effective September 15, 2026. Ujunwa brings more than 19 years of commercial and leadership experience across Africa, spanning commercial strategy, business transformation, market development and team leadership Her appointment also marks a leadership milestone, as [ ] The post Reckitt Appoints Ujunwa Chukwumah as General Manager, West Africa appeared first on Nairametrics .",
+      "published": "2026-09-24T12:39:21+00:00",
+      "fetched": "2026-09-24T15:58:40.227420+00:00"
+    },
+    {
+      "id": "36ab7d447b7a9cad",
+      "title": "AceRoyal Estates Launches 1,000-Home Villa Nova Development in Lagos",
+      "link": "https://nairametrics.com/2026/09/24/aceroyal-estates-launches-1000-home-villa-nova-development-in-lagos/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian real estate company AceRoyal Estates has officially launched Villa Nova, a landmark 1,000-home residential development located in Abijo, Lagos. The project brings together secure land titles, structured mortgage financing, and a strict delivery commitment designed to give buyers greater certainty when purchasing a home in an evolving market. The development comprises 2-, 3-, and [ ] The post AceRoyal Estates Launches 1,000-Home Villa Nova Development in Lagos appeared first on Nairametrics .",
+      "published": "2026-09-24T12:23:10+00:00",
+      "fetched": "2026-09-24T15:58:40.227457+00:00"
+    },
+    {
+      "id": "9740f21e7bc93810",
+      "title": "Is Nigeria’s higher education sector ready for a true digital leap?",
+      "link": "https://techcabal.com/2026/09/24/is-nigerias-higher-education-sector-ready-for-a-true-digital-leap/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Long registration queues and fragmented IT systems are holding back Nigerian universities. Is it time for a unified, cloud-native digital leap? Can functional AI and integrated campus operating systems reshape the future of African higher education?",
+      "published": "2026-09-24T12:01:05+00:00",
+      "fetched": "2026-09-24T15:58:40.585896+00:00"
+    },
+    {
+      "id": "5c91d5b7041fc533",
+      "title": "LECON Finance Company Limited Warns Public Against Fraudulent Loan Offers and Impersonation",
+      "link": "https://nairametrics.com/2026/09/24/lecon-finance-company-limited-warns-public-against-fraudulent-loan-offers-and-impersonation/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "LECON Finance Company Limited alerts members of the public to the circulation of fraudulent messages, websites and social media posts falsely claiming to represent the company and offering unauthorised loan and funding opportunities. The fraudulent communications reportedly solicit upfront payments, including demands for a purported 30% fee, as a condition for accessing a so-called “dream [ ] The post LECON Finance Company Limited Warns Public Against Fraudulent Loan Offers and Impersonation appeared first on Nairametrics .",
+      "published": "2026-09-24T11:52:19+00:00",
+      "fetched": "2026-09-24T15:58:40.227504+00:00"
+    },
+    {
+      "id": "3bb0db96dafc23ca",
+      "title": "Naira holds strong against the pound post-CBN rate slash",
+      "link": "https://nairametrics.com/2026/09/24/naira-holds-strong-against-the-pound-post-cbn-rate-slash/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The naira maintained its bullish momentum against the British pound despite the recent interest-rate cut by Nigeria's Central Bank. The post Naira holds strong against the pound post-CBN rate slash appeared first on Nairametrics .",
+      "published": "2026-09-24T11:51:06+00:00",
+      "fetched": "2026-09-24T15:58:40.227529+00:00"
+    },
+    {
+      "id": "1a4996e7c845b5e5",
+      "title": "NDLEA busts drug kingpins linked to Mexican cartel, uncovers Enugu meth lab",
+      "link": "https://nairametrics.com/2026/09/24/ndlea-busts-drug-kingpins-linked-to-mexican-cartel-uncovers-enugu-meth-lab/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Drug Law Enforcement Agency (NDLEA) has busted a Nigerian-Mexican drug cartel operating a clandestine methamphetamine laboratory in Eziama community, Obeagu, Awgu Local Government Area of Enugu State. The post NDLEA busts drug kingpins linked to Mexican cartel, uncovers Enugu meth lab appeared first on Nairametrics .",
+      "published": "2026-09-24T11:33:47+00:00",
+      "fetched": "2026-09-24T15:58:40.227559+00:00"
+    },
+    {
+      "id": "786de5afa7c35fa5",
+      "title": "Fintechs must move beyond payments to become economic infrastructure — Lagos Deputy Governor",
+      "link": "https://nairametrics.com/2026/09/24/fintechs-must-move-beyond-payments-to-become-economic-infrastructure-lagos-deputy-governor/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s fintech industry must move beyond making digital payments easier and focus on how the infrastructure it has built can support credit, insurance, savings and wider economic activity. The post Fintechs must move beyond payments to become economic infrastructure — Lagos Deputy Governor appeared first on Nairametrics .",
+      "published": "2026-09-24T11:14:50+00:00",
+      "fetched": "2026-09-24T15:58:40.227595+00:00"
+    },
+    {
+      "id": "4a46958edd23d75a",
+      "title": "Meta Connect 2026: Everything Meta announced, from glasses to Muse",
+      "link": "https://techcabal.com/2026/09/24/meta-connect-2026-everything-announced/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Meta also introduced its first smart glasses without a camera, as concerns grow about people being recorded without their knowledge by camera-equipped glasses.",
+      "published": "2026-09-24T11:09:54+00:00",
+      "fetched": "2026-09-24T15:58:40.585916+00:00"
+    },
+    {
+      "id": "7123b2e088414377",
+      "title": "Nigeria to advance services exports and job creation through Hire From Nigeria engagement at UNGA 81",
+      "link": "https://nairametrics.com/2026/09/24/nigeria-to-advance-services-exports-and-job-creation-through-hire-from-nigeria-engagement-at-unga-81/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Following its national launch in Abuja, the Hire From Nigeria campaign goes global at a UNGA 81 side event in Manhattan on 24 September The Hire From Nigeria campaign, Nigeria s public-private sector-driven initiative connecting the country s talent and technology-enabled services to global employers, will take its message to the world stage on Thursday, 24 September [ ] The post Nigeria to advance services exports and job creation through Hire From Nigeria engagement at UNGA 81 appeared first on Nairametrics .",
+      "published": "2026-09-24T11:03:06+00:00",
+      "fetched": "2026-09-24T15:58:40.227637+00:00"
+    },
+    {
+      "id": "3e6425bf307ace9d",
+      "title": "Kenswitch enters Kenya’s card market with domestic card scheme",
+      "link": "https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The launch expands Kenswitch’s role beyond switching, connecting banks and other financial institutions to route payments.",
+      "published": "2026-09-24T10:52:48+00:00",
+      "fetched": "2026-09-24T15:58:40.585937+00:00"
+    },
+    {
+      "id": "672f801b17c30782",
+      "title": "CEOs of the largest Registrars in Nigeria – 2026",
+      "link": "https://nairametrics.com/2026/09/24/ceos-of-the-largest-registrars-in-nigeria-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Here are the CEOs leading the registrar firms serving some of the largest companies listed on the Nigerian Exchange (NGX). The post CEOs of the largest Registrars in Nigeria 2026 appeared first on Nairametrics .",
+      "published": "2026-09-24T10:49:19+00:00",
+      "fetched": "2026-09-24T15:58:40.227663+00:00"
+    },
     {
       "id": "cb27f036dd18db38",
       "title": "FG to reopen First Niger Bridge next week after rehabilitation",
@@ -242,6 +572,16 @@
       "summary": "The Securities and Exchange Commission (SEC) is pushing towards broadening retail investor participation and leveraging technology to deepen market access across all income demographics with a planned launch of new Capital Market Master Plan 2.0 at its 2026 National Capital Market Conference in Abuja. The post SEC pushes wider market participation with new Capital Market Master Plan 2.0 appeared first on Nairametrics .",
       "published": "2026-09-24T05:45:27+00:00",
       "fetched": "2026-09-24T10:34:57.211438+00:00"
+    },
+    {
+      "id": "aff90f1809e16e45",
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
+      "published": "2026-09-24T01:54:35+00:00",
+      "fetched": "2026-09-24T15:58:39.903137+00:00"
     },
     {
       "id": "184b3c9b40d51ceb",
@@ -1162,346 +1502,6 @@
       "summary": "The Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) has warned petrol station operators nationwide that persistent or serious cases of under-dispensing could lead to sanctions, including revocation of their licences. The post NMDPRA threatens licence revocation for petrol stations under-dispensing products appeared first on Nairametrics .",
       "published": "2026-09-22T14:52:40+00:00",
       "fetched": "2026-09-22T15:48:07.746927+00:00"
-    },
-    {
-      "id": "36754e240e9612fd",
-      "title": "Experts: FG tariff freeze could deepen electricity market revenue pressure",
-      "link": "https://nairametrics.com/2026/09/22/experts-fg-tariff-freeze-could-deepen-electricity-market-revenue-pressure/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government’s decision not to increase electricity tariffs in the immediate term could leave Nigeria’s electricity market facing a persistent revenue shortfall, as DisCos have limited scope to raise collections through higher tariffs while the cost of supplying electricity continues to exceed revenue recovered from consumers. The post Experts: FG tariff freeze could deepen electricity market revenue pressure appeared first on Nairametrics .",
-      "published": "2026-09-22T14:50:38+00:00",
-      "fetched": "2026-09-22T15:48:07.746975+00:00"
-    },
-    {
-      "id": "64b630b92eda2110",
-      "title": "NEPZA tightens import checks, targets illegal imports in Free Trade Zones",
-      "link": "https://nairametrics.com/2026/09/22/nepza-tightens-import-checks-targets-illegal-imports-in-free-trade-zones/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Export Processing Zones Authority (NEPZA) has ordered stricter checks on imports into Free Trade Zones to curb illegal importation and other regulatory breaches. The post NEPZA tightens import checks, targets illegal imports in Free Trade Zones appeared first on Nairametrics .",
-      "published": "2026-09-22T14:25:58+00:00",
-      "fetched": "2026-09-22T15:48:07.747004+00:00"
-    },
-    {
-      "id": "3c42cd488f92bd81",
-      "title": "My plan to pay off $7,500 in credit-card debt can work for you",
-      "link": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "I let my spending get away from me. Here’s how I’m getting back on track.",
-      "published": "2026-09-22T14:25:00+00:00",
-      "fetched": "2026-09-22T15:48:07.218608+00:00"
-    },
-    {
-      "id": "9b7d35901d52a93c",
-      "title": "Dangote signs $450 million deal with Engineers India to build Kenya refinery",
-      "link": "https://nairametrics.com/2026/09/22/dangote-signs-450-million-deal-with-engineers-india-to-build-kenya-refinery/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Group has signed a deal worth more than $450 million with Engineers India Ltd. (EIL) to oversee the development of its planned 700,000-barrels-per-day greenfield refinery and petrochemical plant in Lamu, Kenya. The post Dangote signs $450 million deal with Engineers India to build Kenya refinery appeared first on Nairametrics .",
-      "published": "2026-09-22T14:18:27+00:00",
-      "fetched": "2026-09-22T15:48:07.747036+00:00"
-    },
-    {
-      "id": "6b8b4b47591238d4",
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
-      "published": "2026-09-22T14:00:00+00:00",
-      "fetched": "2026-09-22T15:48:07.218628+00:00"
-    },
-    {
-      "id": "164ea7671c702048",
-      "title": "$5 billion swap deal raises questions despite Nigeria’s record $54.6 billion reserves",
-      "link": "https://nairametrics.com/2026/09/22/5-billion-swap-deal-raises-questions-despite-nigerias-record-54-6-billion-reserves/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "There is a particular kind of quiet that settles over a shop in Balogun Market when the owner returns from the moneylender. Consider a textile trader who has just closed the best season of her working life. The lace is moving, the Ankara is moving, the customers from Cotonou have come back, and for the [ ] The post $5 billion swap deal raises questions despite Nigeria’s record $54.6 billion reserves appeared first on Nairametrics .",
-      "published": "2026-09-22T13:58:19+00:00",
-      "fetched": "2026-09-22T15:48:07.747085+00:00"
-    },
-    {
-      "id": "eb05374955c5c376",
-      "title": "Oil falls to two-week low after Iran signals plans to re-open strait within seven days",
-      "link": "https://nairametrics.com/2026/09/22/oil-falls-to-two-week-low-after-iran-signals-plans-to-re-open-strait-within-seven-days/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Oil prices fell to a two-week low on Tuesday after Iran said it could reopen the Strait of Hormuz within seven days if the United States eases military pressure and lifts its blockade on Iranian ports. The post Oil falls to two-week low after Iran signals plans to re-open strait within seven days appeared first on Nairametrics .",
-      "published": "2026-09-22T13:50:58+00:00",
-      "fetched": "2026-09-22T15:48:07.747118+00:00"
-    },
-    {
-      "id": "aa769e958a5eee63",
-      "title": "CBN “resets” MPR by 350 basis points to 23%, biggest cut since 2006",
-      "link": "https://nairametrics.com/2026/09/22/cbn-resets-mpr-by-350-basis-points-to-23-biggest-cut-since-2006/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) has “reset” the Monetary Policy Rate (MPR) by 350 basis points to 23%, following the 307th meeting of the Monetary Policy Committee (MPC) in Abuja. CBN Governor Olayemi Cardoso announced the decision following the meeting, which had 11 members in attendance. The decision effectively reduces the benchmark interest rate [ ] The post CBN “resets” MPR by 350 basis points to 23%, biggest cut since 2006 appeared first on Nairametrics .",
-      "published": "2026-09-22T13:16:56+00:00",
-      "fetched": "2026-09-22T20:32:11.174645+00:00"
-    },
-    {
-      "id": "2693cf4495acb491",
-      "title": "CBN cuts MPR to 23% after holding rate at 26.5%",
-      "link": "https://nairametrics.com/2026/09/22/cbn-cuts-mpr-to-23-after-holding-rate-at-26-5/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) has cut the Monetary Policy Rate (MPR) by 350 basis points to 23% from 26.5%, following the 307th meeting of the Monetary Policy Committee (MPC) in Abuja. The decision was taken at the meeting, which had 11 members in attendance. Alongside the reduction, the committee recalibrated the Standing Facilities [ ] The post CBN cuts MPR to 23% after holding rate at 26.5% appeared first on Nairametrics .",
-      "published": "2026-09-22T13:16:56+00:00",
-      "fetched": "2026-09-22T15:48:07.747156+00:00"
-    },
-    {
-      "id": "968bef3bd170e6c3",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-      "published": "2026-09-22T13:15:00+00:00",
-      "fetched": "2026-09-22T15:48:07.218648+00:00"
-    },
-    {
-      "id": "e2fc9c0a70230b4b",
-      "title": "Nigerian Stocks Blasts Past 250,000 Ceiling ahead of Dangote refinery Listing",
-      "link": "https://nairametrics.com/2026/09/22/nigerian-stocks-blasts-past-250000-ceiling-ahead-of-dangote-refinery-listing/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian stocks started the week with an eighth consecutive positive session, with the NGX All-Share Index gaining 0.14% to 250,156.80 points, leaving the index up 61% year to date. The post Nigerian Stocks Blasts Past 250,000 Ceiling ahead of Dangote refinery Listing appeared first on Nairametrics .",
-      "published": "2026-09-22T13:07:21+00:00",
-      "fetched": "2026-09-22T15:48:07.747185+00:00"
-    },
-    {
-      "id": "f9c9447a1ef9fe95",
-      "title": "Barcelona secures €510 million more to finish Camp Nou as stadium becomes key to financial recovery",
-      "link": "https://nairametrics.com/2026/09/22/barcelona-secures-e510-million-more-to-finish-camp-nou-as-stadium-becomes-key-to-financial-recovery/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FC Barcelona has approved €510 million in new financing to complete the redevelopment of Spotify Camp Nou, taking the total financing committed to the Espai Barça project to more than €1.9 billion. The post Barcelona secures €510 million more to finish Camp Nou as stadium becomes key to financial recovery appeared first on Nairametrics .",
-      "published": "2026-09-22T13:05:33+00:00",
-      "fetched": "2026-09-22T15:48:07.747224+00:00"
-    },
-    {
-      "id": "ee8651aed234a052",
-      "title": "Safaricom hits 1 million home internet users. Now comes the hard part",
-      "link": "https://techcabal.com/2026/09/22/safaricom-hits-1-million-home-internet-users-now-comes-the-hard-part/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Safaricom, Kenya’s largest telecoms operator, has become the first internet service provider in the country to surpass one million fixed broadband subscribers. According to data from the Communications Authority of Kenya (CA), the company had 1,024,950 subscribers by the end of June 2026, turning a business that was barely present nine years ago into a [ ]",
-      "published": "2026-09-22T13:03:48+00:00",
-      "fetched": "2026-09-22T15:48:09.579729+00:00"
-    },
-    {
-      "id": "d14aed4532fd62a2",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
-      "published": "2026-09-22T12:53:00+00:00",
-      "fetched": "2026-09-22T15:48:07.218670+00:00"
-    },
-    {
-      "id": "f4b5e7b6b5e7ea9e",
-      "title": "Princeton’s 15-year run as the nation’s top college is over. This is the new No. 1 school.",
-      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A change in methodology in the U.S. News & World Report rankings helped boost schools whose alumni achieve high earnings.",
-      "published": "2026-09-22T12:43:00+00:00",
-      "fetched": "2026-09-22T15:48:07.218694+00:00"
-    },
-    {
-      "id": "5f221c6fad6cbbb1",
-      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-      "link": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
-      "published": "2026-09-22T12:28:51+00:00",
-      "fetched": "2026-09-22T15:48:07.303166+00:00"
-    },
-    {
-      "id": "f7805aed55a9ca8a",
-      "title": "Nigeria Customs floors Laurium Mining Company as Court dismisses N34 million import waiver suit",
-      "link": "https://nairametrics.com/2026/09/22/nigeria-customs-floors-laurium-mining-company-as-court-dismisses-n34-million-import-waiver-suit/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal High Court, Abuja, has dismissed a N34 million amended suit filed by Laurium Mining Company Limited against the Nigeria Customs Service Board and three others over import duty exemptions. The post Nigeria Customs floors Laurium Mining Company as Court dismisses N34 million import waiver suit appeared first on Nairametrics .",
-      "published": "2026-09-22T12:24:48+00:00",
-      "fetched": "2026-09-22T15:48:07.747254+00:00"
-    },
-    {
-      "id": "26d9929caac369a0",
-      "title": "Wall Street and AI ruined your ‘diversified’ portfolio",
-      "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "AI is everywhere, leaving investors exposed if the technology doesn’t pan out as expected.",
-      "published": "2026-09-22T12:24:00+00:00",
-      "fetched": "2026-09-22T15:48:07.218714+00:00"
-    },
-    {
-      "id": "5f514bc9609eb1c0",
-      "title": "UNGA: ‘Leaders prioritise what matters most’- Elumelu",
-      "link": "https://nairametrics.com/2026/09/22/unga-leaders-prioritise-what-matters-most-elumelu/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Tony Elumelu, Chairman of Heirs Holdings, has said leaders make decisions about how to allocate their time based on the issues and responsibilities they consider most important. The post UNGA: Leaders prioritise what matters most - Elumelu appeared first on Nairametrics .",
-      "published": "2026-09-22T11:31:49+00:00",
-      "fetched": "2026-09-22T15:48:07.747283+00:00"
-    },
-    {
-      "id": "30bd1cba096c805c",
-      "title": "Why the payment network WAEMU built has stalled",
-      "link": "https://techcabal.com/2026/09/22/francophone-weekly-by-techcabal-041/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Last week's article flagged the gap between having a mobile money account and actually being included in the financial system. This week, two threads pull on that gap: what the banks’ own answer to fintech dominance has delivered, and what a wallet buys someone once they have one.",
-      "published": "2026-09-22T11:14:32+00:00",
-      "fetched": "2026-09-22T15:48:09.579764+00:00"
-    },
-    {
-      "id": "b95c7e1df3e4b0a3",
-      "title": "Raenest launches Stablecoin Vault to let users earn yield on USDC and USDT",
-      "link": "https://nairametrics.com/2026/09/22/raenest-launches-stablecoin-vault-to-let-users-earn-yield-on-usdc-and-usdt/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Raenest, a global money management platform for people and businesses in emerging markets, has launched Stablecoin Vault, a new offering that allows eligible users to earn up to 7% variable annual percentage yield (APY) on USDC and USDT while managing their stablecoin and fiat balances from a single platform. The launch comes as stablecoins gain [ ] The post Raenest launches Stablecoin Vault to let users earn yield on USDC and USDT appeared first on Nairametrics .",
-      "published": "2026-09-22T11:10:18+00:00",
-      "fetched": "2026-09-22T15:48:07.747320+00:00"
-    },
-    {
-      "id": "d614701f253cef5f",
-      "title": "South Africa’s Bank Zero breaks even as partnerships fuel growth",
-      "link": "https://techcabal.com/2026/09/22/bank-zero-break-even-alliance-partnerships/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Its challenge now is to show that the technology and cost structure that got it to break-even can support a much larger business.",
-      "published": "2026-09-22T11:02:29+00:00",
-      "fetched": "2026-09-22T15:48:09.579798+00:00"
-    },
-    {
-      "id": "c6e90d78d027215a",
-      "title": "US to require public social media profiles for I, TN, TD visa applicants",
-      "link": "https://nairametrics.com/2026/09/22/us-to-require-public-social-media-profiles-for-i-tn-td-visa-applicants/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United States will expand mandatory social media screening to I, TN and TD visa applicants from October 1, 2026, requiring applicants in the affected categories to make their social media profiles public or open. The post US to require public social media profiles for I, TN, TD visa applicants appeared first on Nairametrics .",
-      "published": "2026-09-22T11:01:02+00:00",
-      "fetched": "2026-09-22T15:48:07.747351+00:00"
-    },
-    {
-      "id": "d6b466c24159c9a2",
-      "title": "Ecobank enables sales of Dangote shares across Africa for retail and institutional investors",
-      "link": "https://nairametrics.com/2026/09/22/ecobank-enables-sales-of-dangote-shares-across-africa-for-retail-and-institutional-investors/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ecobank is enabling the sale of Dangote Petroleum Refinery shares across Africa, providing retail and institutional investors with convenient access to participate in the ongoing share offer through its extensive digital and branch banking channels. The offer opened on 14 September 2026 and is scheduled to close on 13 October 2026. Through its extensive pan-African [ ] The post Ecobank enables sales of Dangote shares across Africa for retail and institutional investors appeared first on Nairametrics .",
-      "published": "2026-09-22T10:39:58+00:00",
-      "fetched": "2026-09-22T15:48:07.747390+00:00"
-    },
-    {
-      "id": "506580cbd15b8b22",
-      "title": "Nigeria’s CETA Bill: Fiscal Policy, Public Health and Economic Implications",
-      "link": "https://nairametrics.com/2026/09/22/nigerias-ceta-bill-fiscal-policy-public-health-and-economic-implications/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria is considering a major change to the taxation of sugar-sweetened beverages (SSBs) through an amendment to the Customs, Excise Tariff, Etc. (Consolidation) Act (CETA). The proposed amendment would replace the existing ₦10 per litre specific excise duty with an ad valorem tax linked to the value or retail price of beverages.",
-      "published": "2026-09-22T10:32:22+00:00",
-      "fetched": "2026-09-22T15:48:07.747437+00:00"
-    },
-    {
-      "id": "1245c5c535388018",
-      "title": "Stock Buy Recommendations: BUA Cement, UBA and MTN top brokers’ late-September list",
-      "link": "https://nairametrics.com/2026/09/22/stock-buy-recommendations-bua-cement-uba-and-mtn-top-brokers-late-september-list/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "BUA Cement, UBA and MTN Nigeria have emerged among brokers’ leading stock picks for late September as analysts continue to identify buying opportunities despite the Nigerian equities market trading at record levels. The post Stock Buy Recommendations: BUA Cement, UBA and MTN top brokers’ late-September list appeared first on Nairametrics .",
-      "published": "2026-09-22T10:23:23+00:00",
-      "fetched": "2026-09-22T10:25:10.007862+00:00"
-    },
-    {
-      "id": "73fe7d19db8d78f2",
-      "title": "Kenya proposes up to $1.93m capital requirement for payment firms",
-      "link": "https://techcabal.com/2026/09/22/kenya-proposes-up-to-1-93m-capital-requirement-for-payment-firms/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The proposed rules could make it harder for early-stage and bootstrapped fintechs to enter the market.",
-      "published": "2026-09-22T09:52:24+00:00",
-      "fetched": "2026-09-22T10:25:11.493020+00:00"
-    },
-    {
-      "id": "a54e32ff287dbe27",
-      "title": "Dangote dismisses monopoly claims, says refining opportunity was open to all",
-      "link": "https://nairametrics.com/2026/09/22/dangote-dismisses-monopoly-claims-says-refining-opportunity-was-open-to-all/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Aliko Dangote, Chairman of Dangote Group, has dismissed accusations that he is running a monopoly in Nigeria's oil refining sector, insisting that the opportunity to invest was available to everyone, including foreign investors. The post Dangote dismisses monopoly claims, says refining opportunity was open to all appeared first on Nairametrics .",
-      "published": "2026-09-22T09:41:55+00:00",
-      "fetched": "2026-09-22T10:25:10.007918+00:00"
-    },
-    {
-      "id": "43d9da25a607da34",
-      "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
-      "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "HSBC says it’s designed a machine-learning model to predict the direction of the most important financial instrument in global markets.",
-      "published": "2026-09-22T09:23:00+00:00",
-      "fetched": "2026-09-22T10:25:09.138723+00:00"
-    },
-    {
-      "id": "61e4918b2ca8a27d",
-      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
-      "published": "2026-09-22T09:15:00+00:00",
-      "fetched": "2026-09-22T10:25:09.138770+00:00"
-    },
-    {
-      "id": "dd0701817cb54ee2",
-      "title": "Keeping Business Moving: Managing Trade-Corridor Risk in Q4",
-      "link": "https://nairametrics.com/2026/09/22/keeping-business-moving-managing-trade-corridor-risk-in-q4/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The last quarter of the year can be upbeat, but it is also when the year gets settled. Sales teams work to close the gap between forecast and actual. Operations are clearing delivery backlogs that have accumulated since the better half of the year.",
-      "published": "2026-09-22T09:10:09+00:00",
-      "fetched": "2026-09-22T10:25:10.007974+00:00"
-    },
-    {
-      "id": "744d6c17afb4fb8f",
-      "title": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
-      "link": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Mamma Mia!” star Amanda Seyfried and her husband, Thomas Sadoski, have split after nine years of marriage—just weeks after the actress put her longtime Los Angeles home on the market.",
-      "published": "2026-09-22T09:02:00+00:00",
-      "fetched": "2026-09-22T10:25:09.138810+00:00"
-    },
-    {
-      "id": "d202f74b23cbf66a",
-      "title": "Singer Charlie Puth sells $18.5 million SoCal mansion where he married Brook Sansone",
-      "link": "https://www.marketwatch.com/story/singer-charlie-puth-sells-18-5-million-socal-mansion-where-he-married-brook-sansone-4447dc2c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Singer Charlie Puth has offloaded the Montecito mansion where he and Brooke Sansone tied the knot, selling the sprawling estate for $18.5 million.",
-      "published": "2026-09-22T08:59:00+00:00",
-      "fetched": "2026-09-22T10:25:09.138841+00:00"
-    },
-    {
-      "id": "c50494e44eb667d8",
-      "title": "MKH properties secures ₦30 billion commercial paper programme, signals aggressive expansion plans",
-      "link": "https://nairametrics.com/2026/09/22/mkh-properties-secures-%e2%82%a630-billion-commercial-paper-programme-signals-aggressive-expansion-plans/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "MKH Properties Limited has formally signed a 30 billion Commercial Paper Programme, marking one of the most significant capital market moves by a Nigerian real estate developer in recent years.The signing ceremony took place at Four Points Sheraton, bringing together the company s senior leadership and representatives from Pathway Advisors Limited, the advisory firm that structured [ ] The post MKH properties secures ₦30 billion commercial paper programme, signals aggressive expansion plans appeared first on Nairametrics .",
-      "published": "2026-09-22T08:52:30+00:00",
-      "fetched": "2026-09-22T10:25:10.008042+00:00"
     }
   ]
 }

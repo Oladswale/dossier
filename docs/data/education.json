@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-24T10:35:13.361897+00:00",
+  "updated": "2026-09-24T15:58:55.664743+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fa32fab1ef7dec17",
+      "title": "New cell-collection device could improve early cancer detection",
+      "link": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers developed a handheld system that gently collects living cells from patient samples to aid cancer testing and development of personalized medicines.",
+      "published": "2026-09-24T15:00:00+00:00",
+      "fetched": "2026-09-24T15:58:54.951578+00:00"
+    },
     {
       "id": "5e7aec8a8418cf3b",
       "title": "The Long, Strange History of Tarot Cards: From the 14th Century to Modern Times",
@@ -1492,16 +1502,6 @@
       "summary": "In a new book, Paul Osterman details his research finding more than one-third of the country’s workers are “disposable,” with little security or chance of job advancement.",
       "published": "2026-08-18T04:00:00+00:00",
       "fetched": "2026-08-19T00:27:38.950277+00:00"
-    },
-    {
-      "id": "9fc6e5461e7b693e",
-      "title": "How 35 percent of U.S. employees are left on the margins",
-      "link": "https://news.mit.edu/2026/how-35-percent-us-employees-are-left-on-margins-paul-osterman-book-0818",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In a new book, Paul Osterman details his research finding more than one-third of U.S. workers are “disposable,” with little security or chance of job advancement.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "fetched": "2026-08-18T06:19:43.514722+00:00"
     }
   ]
 }
