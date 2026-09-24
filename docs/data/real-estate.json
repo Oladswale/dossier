@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-24T15:58:56.113157+00:00",
+  "updated": "2026-09-24T20:50:36.518932+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d1c96a4f1c961b75",
+      "title": "Angelina Jolie Sells Los Angeles Mansion for $24.7 Million—After Revealing Plans to Leave the U.S. for Good",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/angelina-jolie-sells-los-angeles-home-quitting-united-states/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Jolie initially listed the opulent dwelling in May for $29.9 million, nearly a decade after purchasing the home.",
+      "published": "2026-09-24T20:25:56+00:00",
+      "fetched": "2026-09-24T20:50:36.518184+00:00"
+    },
+    {
+      "id": "25962eaea5bba2ab",
+      "title": "Bryson DeChambeau To Hold $100K Golf Tournament in Backyard of His $10 Million Texas Mansion",
+      "link": "https://www.realtor.com/news/sports/bryson-dechambeau-backyard-games-texas-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 33-year-old two-time U.S. Open champion unveiled his latest social media venture, dubbed \"Bryson's Backyard Games.\"",
+      "published": "2026-09-24T20:21:44+00:00",
+      "fetched": "2026-09-24T20:50:36.518218+00:00"
+    },
+    {
+      "id": "9a886ab4ed8b49ae",
+      "title": "HGTV Host Charlie Kawas Is ‘Officially in Remission’ After Receiving Cancer Diagnosis While Filming ‘Botched Homes’",
+      "link": "https://www.realtor.com/news/reality-tv/hgtv-charlie-kawas-botched-homes-remission-cancer/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Botched Homes\" host received a testicular cancer diagnosis while filming Season 1 of the new HGTV series.",
+      "published": "2026-09-24T19:01:15+00:00",
+      "fetched": "2026-09-24T20:50:36.518246+00:00"
+    },
+    {
+      "id": "0fbbd301caffcc7c",
+      "title": "Meghan Markle’s Best Friend Visits Her New U.K. Home—Offering Rare Glimpse of Sussexes’ Family Life",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-best-friend-visit-new-uk-home-prince-harry-move/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Markle’s longtime friend Kelly McKee Zajfen, 41, appears to be among the first of her pals to make the trip across the pond.",
+      "published": "2026-09-24T18:50:57+00:00",
+      "fetched": "2026-09-24T20:50:36.518276+00:00"
+    },
+    {
+      "id": "d79e69b508ab4807",
+      "title": "Early Nor’easter Could Hit East Coast Homes Like a Hurricane",
+      "link": "https://www.realtor.com/advice/weather/early-noreaster-forecast-east-coast-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A rare early nor’easter could bring falling trees, roof damage, flooding, and erosion from the Mid-Atlantic through New England.",
+      "published": "2026-09-24T18:48:30+00:00",
+      "fetched": "2026-09-24T20:50:36.518302+00:00"
+    },
+    {
+      "id": "746cf37ebaa1b1bd",
+      "title": "Google To Train 25,000 Veterans in Skilled Construction Trades Amid Data Center Boom",
+      "link": "https://www.realtor.com/news/real-estate-news/google-veterans-skilled-trades-donation-data-center-boom/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Google.org is providing a \"seven-figure\" commitment to train 25,000 new skilled trades workers amid the shortage of construction workers.",
+      "published": "2026-09-24T18:20:08+00:00",
+      "fetched": "2026-09-24T20:50:36.518326+00:00"
+    },
+    {
+      "id": "0857915e468f14b4",
+      "title": "Legendary Boston Celtics Commentator Mike Gorman Lists City Penthouse Steps From TD Garden for $1.5 Million",
+      "link": "https://www.realtor.com/news/sports/boston-celtics-commentator-mike-gorman-lists-penthouse/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The impressive pad was formerly home to the voice of the Boston Celtics, and is conveniently located just next to TD Garden.",
+      "published": "2026-09-24T17:35:31+00:00",
+      "fetched": "2026-09-24T20:50:36.518351+00:00"
+    },
+    {
+      "id": "1daa00361012e02c",
+      "title": "EXCLUSIVE: $62.5 Million Aspen Estate Hits the Market in Community Where John Denver Wrote ‘Rocky Mountain High’",
+      "link": "https://www.realtor.com/news/unique-homes/john-denver-rocky-mountain-high-aspen-colorado-estate-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Known as Panorama House, the newly completed estate at 401 Carroll Drive sits on approximately 6.5 private acres in Starwood.",
+      "published": "2026-09-24T17:15:29+00:00",
+      "fetched": "2026-09-24T20:50:36.518377+00:00"
+    },
+    {
+      "id": "72593459e2f0018d",
+      "title": "Mortgage Rates Top 7% for First Time Since Early 2025 in Blow to Homebuyers",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-fed-rate-hike-september-24-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed mortgages reached 7.03% for the week ending Sept. 24, up 8 basis points from last week.",
+      "published": "2026-09-24T16:00:00+00:00",
+      "fetched": "2026-09-24T20:50:36.518401+00:00"
+    },
     {
       "id": "ee36429ffbd0c75b",
       "title": "Millions of California Homeowners at Risk of HOA Fee Increases Under New Bill",
@@ -1412,96 +1502,6 @@
       "summary": "New \"devastating\" information reveals the Mahwah home of the music icon could have been saved before demolition.",
       "published": "2026-09-15T20:50:00+00:00",
       "fetched": "2026-09-16T01:53:00.649310+00:00"
-    },
-    {
-      "id": "4c07abecaa8fea92",
-      "title": "Fed Interest Rate Hike May Put Chair Kevin Warsh on Collision Course With Trump",
-      "link": "https://www.realtor.com/news/real-estate-news/fed-interest-rate-meeting-decision-mortgage-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Fed Chairman Kevin Warsh and the rest of the FOMC will cast their votes on interest rate policy on Wednesday.",
-      "published": "2026-09-15T20:47:27+00:00",
-      "fetched": "2026-09-16T01:53:00.649342+00:00"
-    },
-    {
-      "id": "e782c6c11cf30546",
-      "title": "Meghan Markle Shares Intimate Tribute to Prince Harry as Couple Settles Into New Life in the U.K.",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-birthday-move-uk-california/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Duke and Duchess of Sussex, who put down roots in Montecito in 2020, arrived in the U.K. on Aug. 26 with their children.",
-      "published": "2026-09-15T19:09:13+00:00",
-      "fetched": "2026-09-15T20:30:49.408714+00:00"
-    },
-    {
-      "id": "3afc017bde8360d3",
-      "title": "Diane Keaton’s Final Laguna Beach Design Project To Hit the Market for $10.3 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/diane-keaton-final-home-renovation-laguna-beach/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The late actress, who was also a prolific home designer, renovated the Laguna Beach dwelling in 2021. Many of her choices are still present.",
-      "published": "2026-09-15T17:41:22+00:00",
-      "fetched": "2026-09-15T20:30:49.408741+00:00"
-    },
-    {
-      "id": "f872f8b1212b36dc",
-      "title": "EXCLUSIVE: 2028 L.A. Olympics Chairman Casey Wasserman Sells Futuristic Mansion for $18.5 Million After Dramatic Price Cuts",
-      "link": "https://www.realtor.com/news/sports/2028-olympic-chairman-casey-wasserman-sells-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Wasserman has found a buyer for his sprawling Los Angeles estate, selling the home for $18.5 million—after multiple price cuts.",
-      "published": "2026-09-15T16:34:54+00:00",
-      "fetched": "2026-09-15T20:30:49.408761+00:00"
-    },
-    {
-      "id": "7f06f8b753a6785b",
-      "title": "Savannah Guthrie Makes Heartbreaking Plea To Bring Missing Mom Nancy ‘Home’ for a ‘Proper Goodbye’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/savannah-guthrie-bring-mom-nancy-guthrie-home-kidnapping-case-update-september-15/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nancy vanished from her Arizona home in the early hours of Feb. 1; however, little information about her whereabouts have been revealed.",
-      "published": "2026-09-15T15:36:42+00:00",
-      "fetched": "2026-09-15T15:46:20.933957+00:00"
-    },
-    {
-      "id": "d5f1bdcb46a343ec",
-      "title": "Matthew Rhys Wins Emmy for ‘Widow’s Bay’—Inside the ‘Haunted’ New Jersey House That Inspired Its Sinister Setting",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/widows-bay-filming-location-dark-history-haunted/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"Widow's Bay\" creator Katie Dippold turned to a wide variety of sources when seeking inspiration for the sinister New England town.",
-      "published": "2026-09-15T15:33:00+00:00",
-      "fetched": "2026-09-15T15:46:20.934000+00:00"
-    },
-    {
-      "id": "ba85ca881fdc230e",
-      "title": "Inside the Historic NYC Co-Op Where Al Capone and Marilyn Monroe Lived—Now Selling From $535K",
-      "link": "https://www.realtor.com/news/unique-homes/the-whitby-marilyn-monroe-al-capone-condos-for-sale-hells-kitchen/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Step inside The Whitby: Two renovated prewar condos in Hell’s Kitchen, once home to Marilyn Monroe and Al Capone, are now on the market.",
-      "published": "2026-09-15T13:28:48+00:00",
-      "fetched": "2026-09-15T15:46:20.934036+00:00"
-    },
-    {
-      "id": "1128e4a61a8c8a75",
-      "title": "EXCLUSIVE: L.A. Estate With AD100 Interiors and 1,000-Square-Foot Edible Garden Is Listed for $13.8 Million",
-      "link": "https://www.realtor.com/news/unique-homes/los-angeles-estate-ad100-design-edible-garden/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The owners created a 1,000-square-foot, multilevel edible garden on the grounds, where they harvest their own fruits and vegetables.",
-      "published": "2026-09-15T13:00:00+00:00",
-      "fetched": "2026-09-15T15:46:20.934067+00:00"
-    },
-    {
-      "id": "2d180398ee3faff5",
-      "title": "This Is Better Than the 1% Rule (New Real Estate Rule)",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-460",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The rules of real estate investing have changed. For years, investors were using the one-percent rule to quickly determine if a real estate deal would cash flow. But the one-percent [ ]",
-      "published": "2026-09-15T11:00:43+00:00",
-      "fetched": "2026-09-15T15:46:20.669492+00:00"
     }
   ]
 }
