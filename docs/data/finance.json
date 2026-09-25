@@ -1,8 +1,68 @@
 {
   "category": "finance",
-  "updated": "2026-09-24T20:50:17.608786+00:00",
+  "updated": "2026-09-25T02:04:12.047866+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6c2d0654cdcb42d9",
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "published": "2026-09-25T01:22:17+00:00",
+      "fetched": "2026-09-25T02:04:11.302304+00:00"
+    },
+    {
+      "id": "b329fd2eff95c717",
+      "title": "Here's who is attending the Trump-Xi state dinner",
+      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+      "published": "2026-09-25T01:02:40+00:00",
+      "fetched": "2026-09-25T02:04:11.302329+00:00"
+    },
+    {
+      "id": "c65eb40036214696",
+      "title": "The S&P 500’s newest tech stock is now its best performer",
+      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Shares of data-storage company Everpure were leading S P 500 gainers on Thursday.",
+      "published": "2026-09-24T23:26:00+00:00",
+      "fetched": "2026-09-25T02:04:11.107220+00:00"
+    },
+    {
+      "id": "74bb1c6edaee33e3",
+      "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
+      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Tariff refunds helped deliver a profit beat during Costco’s fourth quarter.",
+      "published": "2026-09-24T23:23:00+00:00",
+      "fetched": "2026-09-25T02:04:11.107251+00:00"
+    },
+    {
+      "id": "d7386d08c3555283",
+      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
+      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.",
+      "published": "2026-09-24T21:23:00+00:00",
+      "fetched": "2026-09-25T02:04:11.107299+00:00"
+    },
+    {
+      "id": "bac6720513389f97",
+      "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+      "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There’s still room for AI hardware stocks to rise, but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
+      "published": "2026-09-24T20:50:00+00:00",
+      "fetched": "2026-09-25T02:04:11.107325+00:00"
+    },
     {
       "id": "fec687c86bda3d9f",
       "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
@@ -1442,66 +1502,6 @@
       "summary": "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
       "published": "2026-09-22T20:54:00+00:00",
       "fetched": "2026-09-23T01:58:16.584396+00:00"
-    },
-    {
-      "id": "a45de84d0b167190",
-      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
-      "published": "2026-09-22T20:46:00+00:00",
-      "fetched": "2026-09-23T01:58:16.584423+00:00"
-    },
-    {
-      "id": "aa2db54f91840268",
-      "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
-      "link": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Squeezed refineries are struggling to supply a world hungry for both diesel and jet fuel.",
-      "published": "2026-09-22T19:59:00+00:00",
-      "fetched": "2026-09-22T20:32:10.088351+00:00"
-    },
-    {
-      "id": "fd35202f93989e1f",
-      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Young people are increasingly living with their parents instead of establishing their own households.",
-      "published": "2026-09-22T19:48:00+00:00",
-      "fetched": "2026-09-22T20:32:10.088384+00:00"
-    },
-    {
-      "id": "7c5e84d5f6f0ab78",
-      "title": "Trump endorses diesel export ban. A decision is coming ‘fast, one way or the other.’",
-      "link": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "President Donald Trump says his administration is considering a ban on diesel exports, amid skyrocketing prices for the fuel.",
-      "published": "2026-09-22T19:30:00+00:00",
-      "fetched": "2026-09-22T20:32:10.088420+00:00"
-    },
-    {
-      "id": "94c427c2e9ba6dbd",
-      "title": "The bond market is flashing a warning for stocks. These sectors are already wobbling.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The yield curve could invert again — but is that still a reliable recession signal?",
-      "published": "2026-09-22T19:00:00+00:00",
-      "fetched": "2026-09-22T20:32:10.088453+00:00"
-    },
-    {
-      "id": "61013143138bf5f4",
-      "title": "She was ready to buy her dream home — but discovered the condo HOA had just 1% in cash reserves",
-      "link": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "You may be able to choose your house or condo, but you can’t always choose your homeowners association.",
-      "published": "2026-09-22T18:33:00+00:00",
-      "fetched": "2026-09-22T20:32:10.088477+00:00"
     }
   ]
 }

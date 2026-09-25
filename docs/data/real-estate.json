@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-24T20:50:36.518932+00:00",
+  "updated": "2026-09-25T02:04:28.289815+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9760b8e8e0ba5de2",
+      "title": "The Fine Print in Your Home Insurance Policy Could Cost You Thousands. Here Are the Blind Spots To Check",
+      "link": "https://www.realtor.com/advice/finance/the-fine-print-in-your-home-insurance-policy-could-cost-you-thousands-here-are-the-blind-spots-to-check/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Your home insurance may cover less than you think. Check these five policy blind spots that could leave you paying thousands after a claim.",
+      "published": "2026-09-24T22:06:35+00:00",
+      "fetched": "2026-09-25T02:04:28.289301+00:00"
+    },
+    {
+      "id": "58cd0dfe3cc96591",
+      "title": "Fed Official Sounds Warning on Housing as Affordability Hits 21-Year Low",
+      "link": "https://www.realtor.com/news/real-estate-news/fed-michael-barr-speech-housing-affordability-interest-rates/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Fed Gov. Michael S. Barr highlighted the growing disconnect between everyday Americans' earnings and housing expenses.",
+      "published": "2026-09-24T20:46:41+00:00",
+      "fetched": "2026-09-25T02:04:28.289329+00:00"
+    },
+    {
+      "id": "97ed395902dfc347",
+      "title": "Angelina Jolie Sells Los Angeles Mansion for $24.75 Million—After Revealing Plans To Leave the U.S. for Good",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/angelina-jolie-sells-los-angeles-home-quitting-united-states/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actress initially listed the opulent dwelling in May for $29.9 million, nearly a decade after purchasing the home.",
+      "published": "2026-09-24T20:25:56+00:00",
+      "fetched": "2026-09-25T02:04:28.289355+00:00"
+    },
     {
       "id": "d1c96a4f1c961b75",
       "title": "Angelina Jolie Sells Los Angeles Mansion for $24.7 Million—After Revealing Plans to Leave the U.S. for Good",
@@ -1472,36 +1502,6 @@
       "summary": "Perry has revealed that he plans to move to Puerto Rico at the beginning of 2027—and hopes to \"slow down\" when it comes to work.",
       "published": "2026-09-15T21:23:50+00:00",
       "fetched": "2026-09-16T01:53:00.649238+00:00"
-    },
-    {
-      "id": "bc6003067f3bf0d3",
-      "title": "EXCLUSIVE: $4 Million Idaho Waterfront Estate Hits No-Reserve Auction—With 100% of Proceeds Going to Charity",
-      "link": "https://www.realtor.com/news/unique-homes/idaho-waterfront-estate-no-reserve-charity-auction/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The luxe waterfront estate in American Falls, ID, hits the auction block this week, with all proceeds going to St. Jude and the Mayo Clinic.",
-      "published": "2026-09-15T21:10:11+00:00",
-      "fetched": "2026-09-16T15:38:11.679105+00:00"
-    },
-    {
-      "id": "6ea6bbf4efe26301",
-      "title": "$4 Million Idaho Waterfront Estate Hits No-Reserve Auction—With 100% of Proceeds Going to Charity",
-      "link": "https://www.realtor.com/news/unique-homes/idaho-waterfront-estate-no-reserve-charity-auction/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The luxe waterfront estate in American Falls, ID, hits the auction block this week, with all proceeds going to St. Jude and the Mayo Clinic.",
-      "published": "2026-09-15T21:10:11+00:00",
-      "fetched": "2026-09-16T01:53:00.649275+00:00"
-    },
-    {
-      "id": "9a0d4db4d34885e3",
-      "title": "Les Paul’s Family Says ‘Premeditated Assassination’ of Guitar Legend’s NJ Home Could Have Been Prevented",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/les-paul-musician-new-jersey-home-demolished/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New \"devastating\" information reveals the Mahwah home of the music icon could have been saved before demolition.",
-      "published": "2026-09-15T20:50:00+00:00",
-      "fetched": "2026-09-16T01:53:00.649310+00:00"
     }
   ]
 }
