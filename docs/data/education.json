@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-25T15:59:48.905195+00:00",
+  "updated": "2026-09-25T20:47:59.497878+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5850205dd9e7c1e0",
+      "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+      "link": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The PKG Center for Social Impact expands Code.Tulsa experiential learning program.",
+      "published": "2026-09-25T20:15:00+00:00",
+      "fetched": "2026-09-25T20:47:58.520301+00:00"
+    },
+    {
+      "id": "b96efee898409c99",
+      "title": "A new technique could accelerate the development of RNA therapies",
+      "link": "https://news.mit.edu/2026/new-technique-could-accelerate-development-rna-therapies-0925",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT chemical engineers found a way to rapidly produce lipid nanoparticles of varying sizes, which could make it easier to develop new vaccines and therapeutics.",
+      "published": "2026-09-25T17:25:00+00:00",
+      "fetched": "2026-09-25T20:47:58.520340+00:00"
+    },
     {
       "id": "170dfc8bf034274f",
       "title": "How Else Marie Pade, a Prisoner in World War II, Became Denmark’s First Female Electronic Composer",
@@ -984,6 +1004,16 @@
       "fetched": "2026-09-01T10:35:54.801925+00:00"
     },
     {
+      "id": "240818df7b995498",
+      "title": "“You're going to see the impact in 10 years” - President Kornbluth returns to GBH’s “Boston Public Radio” to discuss scientific funding and curiosity driven research",
+      "link": "https://news.mit.edu/2026/youre-going-see-impact-10-years-president-kornbluth-returns-gbhs-boston-public-radio-discuss",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Kornbluth weighed in on the consequences of cuts to federal funding for science and the value of curiosity driven research.",
+      "published": "2026-09-01T04:00:00+00:00",
+      "fetched": "2026-09-25T20:47:58.520708+00:00"
+    },
+    {
       "id": "291d57a3e729025a",
       "title": "Ila Kumar: Innovating with communities",
       "link": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
@@ -1472,36 +1502,6 @@
       "summary": "It’s hard to imagine that the space-crazed general public needed any help getting worked up about astronauts and NASA in the early ’60s. Perhaps the wild popularity of space-related imagery was in part what motivated NASA administrator James Webb to create the NASA Art Program in 1962. Although the program’s handpicked artists weren’t edited or censored in any [ ]",
       "published": "2026-08-19T08:00:06+00:00",
       "fetched": "2026-08-19T12:18:03.947450+00:00"
-    },
-    {
-      "id": "82a75e9c10c79898",
-      "title": "Cell-preservation technique could make CAR-T cell therapy more accessible",
-      "link": "https://news.mit.edu/2026/cell-preservation-technique-could-make-car-t-cell-therapy-more-accessible-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers’ approach, which uses naturally occurring sugars as antifreeze, could make it easier for hospitals to deploy this type of cancer treatment.",
-      "published": "2026-08-19T04:00:00+00:00",
-      "fetched": "2026-08-19T06:21:01.412532+00:00"
-    },
-    {
-      "id": "f3d95f590a29106a",
-      "title": "Startup brings ancient Roman concrete technology to modern construction",
-      "link": "https://news.mit.edu/2026/startup-dmat-brings-ancient-roman-concrete-technology-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "DMAT is commercializing findings from the lab of Associate Professor Admir Masic to make concrete longer-lasting and more sustainable.",
-      "published": "2026-08-19T04:00:00+00:00",
-      "fetched": "2026-08-19T06:21:01.412560+00:00"
-    },
-    {
-      "id": "eb577bb679e19268",
-      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model learns and what it produces dissolves.",
-      "published": "2026-08-18T16:35:00+00:00",
-      "fetched": "2026-08-18T18:17:39.206731+00:00"
     }
   ]
 }

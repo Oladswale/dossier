@@ -1,8 +1,108 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-25T15:59:49.510589+00:00",
+  "updated": "2026-09-25T20:48:00.283262+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "aab90142014983d2",
+      "title": "‘The Real Housewives of Beverly Hills’ Star Diana Jenkins Diana Jenkins Is Leaving America—and Selling Her $23 Million Hidden Hills Compound",
+      "link": "https://www.realtor.com/news/reality-tv/diana-jenkins-real-housewives-beverly-hills-lists-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The former Bravo cast member is looking to offload her sprawling Hidden Hills estate to return to her home city of Sarajevo.",
+      "published": "2026-09-25T20:22:29+00:00",
+      "fetched": "2026-09-25T20:48:00.282518+00:00"
+    },
+    {
+      "id": "0cc3e7489055ee34",
+      "title": "‘We Buy Ugly Houses’ Fraudster Gets Prison in $40M Scheme to Rip Off Investors",
+      "link": "https://www.realtor.com/news/trends/we-buy-ugly-houses-fraud-charles-carrier-dallas-prison-sentence/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Charles Carrier pleaded guilty to wire fraud. In addition to prison time, he was ordered to pay millions in restitution to his victims.",
+      "published": "2026-09-25T19:44:14+00:00",
+      "fetched": "2026-09-25T20:48:00.282558+00:00"
+    },
+    {
+      "id": "a0c607babd1a4d54",
+      "title": "John Legend Helps 50 College Students Pay Rent as He Recalls His Own College ‘Hustle’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/john-legend-pay-college-students-rent-bilt/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The singer has teamed up with Bilt for the company's October Rent Day initiative, which will help pay housing costs for 50 students.",
+      "published": "2026-09-25T19:07:30+00:00",
+      "fetched": "2026-09-25T20:48:00.282591+00:00"
+    },
+    {
+      "id": "ae15e97364e09003",
+      "title": "Texas A&M Fans Splash Out $1M+ To Buy Tailgating Suites in Private Complex",
+      "link": "https://www.realtor.com/news/trends/aggies-texas-football-fans-luxury-game-day-suites-college-station/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Texas A M football fanatics can now buy their own luxury suites designed specifically for game day, priced as high as $1.23 million.",
+      "published": "2026-09-25T18:29:16+00:00",
+      "fetched": "2026-09-25T20:48:00.282622+00:00"
+    },
+    {
+      "id": "e9a6c7404a57d073",
+      "title": "What Spirit Halloween Opening in Your Neighborhood Means for Property Values",
+      "link": "https://www.realtor.com/news/trends/spirit-halloween-real-estate-impact/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Is Spirit Halloween a sign of retail decline? Real estate experts explain what the pop-up store means for local property values.",
+      "published": "2026-09-25T18:25:05+00:00",
+      "fetched": "2026-09-25T20:48:00.282650+00:00"
+    },
+    {
+      "id": "18796658f3d1b343",
+      "title": "NYC’s Iconic Ghostbusters Building Has an $8.9 Million Residence for Sale",
+      "link": "https://www.realtor.com/news/unique-homes/ghostbusters-central-park-west-building-unit-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The iconic Central Park West residence has been home to notable figures over time, and a sprawling five-bedroom unit is now up for grabs.",
+      "published": "2026-09-25T18:09:46+00:00",
+      "fetched": "2026-09-25T20:48:00.282679+00:00"
+    },
+    {
+      "id": "5ff7a4c0d3630d9d",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 7.03% Rate",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-september-25/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage rates surged to their highest level in more than a year this week, with many buyers concerned that a home is further out of reach.",
+      "published": "2026-09-25T16:39:00+00:00",
+      "fetched": "2026-09-25T20:48:00.282709+00:00"
+    },
+    {
+      "id": "ff5b8bf27205c1b2",
+      "title": "Jenny McCarthy and Donnie Wahlberg List Illinois Home for $2.8 Million—After Hinting at California Move",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/donnie-wahlberg-jenny-mccarthy-list-illinois-home-for-sale-moving-california/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The singer, 57, and the actress, 53, have owned the residence for more than a decade, having purchased it for $1.1 million in 2015.",
+      "published": "2026-09-25T16:27:19+00:00",
+      "fetched": "2026-09-25T20:48:00.282744+00:00"
+    },
+    {
+      "id": "d4e0890e70c333ad",
+      "title": "Housing Innovators Converge on Washington, DC, To Showcase Cutting-Edge Building Methods",
+      "link": "https://www.realtor.com/news/real-estate-news/hud-housing-innovation-showcase-national-mall-video-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homebuilders are hopeful that a nation confronting its mounting housing crisis is also waking up to new ideas to solve it.",
+      "published": "2026-09-25T16:06:58+00:00",
+      "fetched": "2026-09-25T20:48:00.282770+00:00"
+    },
+    {
+      "id": "1125d835a9175d7b",
+      "title": "Why ‘RHONY’ Cast Member Daisy Toye Calls Her NYC Rent-Controlled Apartment With Popcorn Ceilings ‘Winning the Lottery’",
+      "link": "https://www.realtor.com/news/reality-tv/rent-controlled-new-york-city-apartments-daisy-toye-rhony/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The new 'Real Housewives of New York City' cast member revealed a valuable rent-controlled apartment has been in her family for decades.",
+      "published": "2026-09-25T16:02:48+00:00",
+      "fetched": "2026-09-25T20:48:00.282800+00:00"
+    },
     {
       "id": "1e7b50bfebd03ebd",
       "title": "Nor’easter Forecast: NYC to Boston Facing Coastal Flooding, Heavy Rain, and Power Outages",
@@ -1402,106 +1502,6 @@
       "summary": "I ve had my real estate license since 2016. For the first couple of years that I was trying to find my own deals, I did what basically every new investor [ ]",
       "published": "2026-09-16T16:50:57+00:00",
       "fetched": "2026-09-16T20:30:12.154812+00:00"
-    },
-    {
-      "id": "0b454a2fd5d57a89",
-      "title": "Taylor Swift and Travis Kelce Ramp Up Security at New $5 Million Ohio Home With High-Tech Warning System",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/taylor-swift-travis-kelce-ohio-home-security-system/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Kansas City Chiefs tight end, 36, snapped up the palatial eight-bedroom, 8.5-bathroom property in March.",
-      "published": "2026-09-16T16:36:33+00:00",
-      "fetched": "2026-09-16T20:30:12.498832+00:00"
-    },
-    {
-      "id": "e4f7c326252d398b",
-      "title": "Inside Infomercial King Ron Popeil’s $25 Million Beverly Hills Estate—Featuring the Kitchen Where His Famous Inventions Were Tested",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/ron-popeil-beverly-hills-estate-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore the rare 2.3-acre Beverly Hills compound featuring 14,000+ square feet, a 600-bottle wine cellar, and sweeping views of the Pacific.",
-      "published": "2026-09-16T16:04:18+00:00",
-      "fetched": "2026-09-16T20:30:12.498863+00:00"
-    },
-    {
-      "id": "06b849debcf10be8",
-      "title": "Inside Lena Dunham’s London ‘Home Base’ and Connecticut ‘Forever Home’ as She Welcomes First Baby",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/lena-dunham-family-home-first-baby-luis-felber/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Girls\" creator, 40, revealed in an op-ed for Vogue that she and Felber had welcomed a daughter via surrogate.",
-      "published": "2026-09-16T15:23:05+00:00",
-      "fetched": "2026-09-16T15:38:11.678819+00:00"
-    },
-    {
-      "id": "245f58d6d12a7959",
-      "title": "Homebuilder Sentiment Slumps to One-Year Low as Mortgage Rates Surge",
-      "link": "https://www.realtor.com/news/trends/homebuilder-sentiment-index-nahb-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Homebuilder sentiment took a hit in September, the byproduct of surging mortgage rates and material costs.",
-      "published": "2026-09-16T15:11:07+00:00",
-      "fetched": "2026-09-16T15:38:11.678854+00:00"
-    },
-    {
-      "id": "5e13553ac7c88028",
-      "title": "Trump Nominates New Head for Federal Housing Administration",
-      "link": "https://www.realtor.com/news/real-estate-news/trump-matt-jones-nomination-federal-housing-administration/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Jones has advocated for reducing regulatory burdens in order to encourage more financial institutions into the housing space.",
-      "published": "2026-09-16T14:17:17+00:00",
-      "fetched": "2026-09-16T15:38:11.678881+00:00"
-    },
-    {
-      "id": "f7c16d53231ccaa0",
-      "title": "Mortgage Applications Plunge as Rates Rise and Fed Prepares To Hike",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-mba-rates-september-16-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage applications fell 4.1% on a seasonally adjusted basis this past week as interest rates continue to climb.",
-      "published": "2026-09-16T14:16:15+00:00",
-      "fetched": "2026-09-16T15:38:11.678907+00:00"
-    },
-    {
-      "id": "eebbe2b4101af091",
-      "title": "Mormon Church Expands Its Real Estate Empire With 1,000-Acre Development Near Denver",
-      "link": "https://www.realtor.com/news/trends/mormon-church-master-planned-community-denver-colorado-real-estate-portfolio/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The master-planned Tributary community being built on church-owned land in Aurora, CO, will include housing for 12,000 residents.",
-      "published": "2026-09-16T13:37:45+00:00",
-      "fetched": "2026-09-16T15:38:11.678933+00:00"
-    },
-    {
-      "id": "132c93b68a1952ec",
-      "title": "The ‘Secrets’ of Bihl Manor: Inside Dark History of ‘Tormented’ Ohio Home at Center of Anna Camp’s HGTV Show ‘A Very Haunted Renovation’",
-      "link": "https://www.realtor.com/news/reality-tv/bihl-manor-haunted-house-hgtv-anna-camp/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "HGTV's aptly titled show, \"A Very Haunted Renovation,\" hosted by Anna Camp, will see six designers living and working in the decrepit house.",
-      "published": "2026-09-16T13:30:00+00:00",
-      "fetched": "2026-09-16T15:38:11.678968+00:00"
-    },
-    {
-      "id": "c2a2fe66f47366bf",
-      "title": "EXCLUSIVE: Hollywood Home of Martin Short’s Late Daughter Sells for $1.7 Million—Months After Her Death",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/martin-short-late-daughter-katherine-los-angeles-home-sells/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The three-bedroom property first hit the selling block in July, being listed for $1.795 million.",
-      "published": "2026-09-16T12:36:46+00:00",
-      "fetched": "2026-09-16T15:38:11.678996+00:00"
-    },
-    {
-      "id": "c69c6123f101f5df",
-      "title": "Amanda Seyfried and Husband Thomas Sadoski Split After 9 Years of Marriage—Weeks After She Lists Longtime L.A. Home for $3.2M",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/amanda-seyfried-thomas-sadoski-marriage-divorce-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actors confirmed their separation in a joint statement to People, revealing that they had already been living apart for \"a while.\"",
-      "published": "2026-09-16T12:19:18+00:00",
-      "fetched": "2026-09-16T15:38:11.679027+00:00"
     }
   ]
 }
