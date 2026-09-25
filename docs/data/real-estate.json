@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-25T10:38:47.310140+00:00",
+  "updated": "2026-09-25T15:59:49.510589+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1e7b50bfebd03ebd",
+      "title": "Nor’easter Forecast: NYC to Boston Facing Coastal Flooding, Heavy Rain, and Power Outages",
+      "link": "https://www.realtor.com/advice/weather/early-noreaster-forecast-east-coast-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A rare early nor’easter could bring falling trees, roof damage, flooding, and erosion from the Mid-Atlantic through New England.",
+      "published": "2026-09-25T15:50:00+00:00",
+      "fetched": "2026-09-25T15:59:49.509992+00:00"
+    },
+    {
+      "id": "4b22bb3ce18eaf9e",
+      "title": "5 Urban Cottagecore Homes Where Storybook Charm Meets Big-City Living",
+      "link": "https://www.realtor.com/news/unique-homes/urban-cottagecore-storybook-city-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Discover 5 urban cottagecore homes across major US cities that bring cozy, storybook charm and pastoral style to vibrant city living.",
+      "published": "2026-09-25T15:30:00+00:00",
+      "fetched": "2026-09-25T15:59:49.510029+00:00"
+    },
+    {
+      "id": "61f1012d0595bcd0",
+      "title": "Inside Dolly Parton’s Incredibly Eclectic Property Portfolio—From Tiny Childhood Cabin to Idyllic Brentwood Retreat",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-homes-tennessee-brentwood-california-secret/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The singer, who passed away on Aug. 25 following a battle with cancer, quietly amassed an incredible collection of homes in her lifetime.",
+      "published": "2026-09-25T14:29:00+00:00",
+      "fetched": "2026-09-25T15:59:49.510063+00:00"
+    },
+    {
+      "id": "423bf406bbf0c2bf",
+      "title": "Meg Ryan Sells Hamptons Home for Full $15.25 Million Asking Price—Just 2 Years After Buying It",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meg-ryan-sells-longtime-hamptons-home-for-asking-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actress first listed the dwelling, which sits on a 1.5-acre parcel in Bridgehampton, NY, in June before finding a buyer one month later.",
+      "published": "2026-09-25T14:04:43+00:00",
+      "fetched": "2026-09-25T15:59:49.510095+00:00"
+    },
+    {
+      "id": "cd764a8ea1bd22ee",
+      "title": "You’ve Got a 100% Financing Deal. Do You Take It? (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-775",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Great deals are hard to find as a rookie, so when one lands in your lap, it can feel like you just struck gold. But how do you actually know [ ]",
+      "published": "2026-09-25T11:00:53+00:00",
+      "fetched": "2026-09-25T15:59:49.176231+00:00"
+    },
+    {
+      "id": "e8891d4bf0603a02",
+      "title": "The Correction Will Get Even More Severe | Sept. 2026 Housing Market Update",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1335",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "More homes are for sale now than any time in the past six years. Mortgage rates just shot up to above 7% with no relief in sight. Markets are seeing [ ]",
+      "published": "2026-09-25T11:00:53+00:00",
+      "fetched": "2026-09-25T15:59:49.176275+00:00"
+    },
     {
       "id": "981f126d0941ea69",
       "title": "‘Big Short’ Investor Michael Burry Sues To Halt ‘Dangerous’ Subdivision in California Wildfire Zone",
@@ -1442,66 +1502,6 @@
       "summary": "The actors confirmed their separation in a joint statement to People, revealing that they had already been living apart for \"a while.\"",
       "published": "2026-09-16T12:19:18+00:00",
       "fetched": "2026-09-16T15:38:11.679027+00:00"
-    },
-    {
-      "id": "63b787938047c43b",
-      "title": "8+ Ways to Find Your First or Next Rental Property in 2027",
-      "link": "https://www.biggerpockets.com/blog/rookie-771",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Finding real estate deals is a challenge for many rookies. Trying to tell the difference between a great deal and a property that is merely disguised as one is something [ ]",
-      "published": "2026-09-16T11:00:28+00:00",
-      "fetched": "2026-09-16T15:38:11.077112+00:00"
-    },
-    {
-      "id": "18b6e0c3e5198b4b",
-      "title": "Skip Single-Family? Why You Don’t Need to Start Small",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1331",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Most investors follow the same path—buy a single-family rental, learn the ropes, and upgrade to small multifamily, slowly snowballing the portfolio. But what if you could take the leap from [ ]",
-      "published": "2026-09-16T11:00:11+00:00",
-      "fetched": "2026-09-16T15:38:11.077161+00:00"
-    },
-    {
-      "id": "a302d6b0d2c5ee4b",
-      "title": "Midwest City Known as ‘Niceville USA’ Leads the Nation in Homebuilding and Affordability",
-      "link": "https://www.realtor.com/news/trends/homebuilding-affordability-des-moines-iowa-2026-report-card/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Des Moines, IA, is the leader in homebuilding and affordability thanks to its pro-housing policies and aggressive construction activity.",
-      "published": "2026-09-16T09:00:00+00:00",
-      "fetched": "2026-09-16T10:21:44.470803+00:00"
-    },
-    {
-      "id": "bf8c1b162a7c51f3",
-      "title": "Inside a $950K Estate Complete With a Built-In 1950s Diner—Just Minutes From Lake of the Ozarks",
-      "link": "https://www.realtor.com/news/unique-homes/missouri-estate-1950s-diner-lake-of-the-ozarks/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Step inside a Missouri estate featuring an authentic 1950s diner and an indoor pool complex, just minutes from Lake of the Ozarks.",
-      "published": "2026-09-16T08:17:00+00:00",
-      "fetched": "2026-09-16T10:21:44.470843+00:00"
-    },
-    {
-      "id": "844c903003e213c4",
-      "title": "Federal Housing Law’s Architects Say Cities Must Now Step Up To Implement Reforms",
-      "link": "https://www.realtor.com/news/real-estate-news/housing-bill-implementation-mike-flood-french-hill/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Architects of the largest housing bill in 30 years worry about its implementation and the housing affordability subjects it didn't address.",
-      "published": "2026-09-15T21:58:43+00:00",
-      "fetched": "2026-09-16T01:53:00.649150+00:00"
-    },
-    {
-      "id": "dcbab45a001d16fd",
-      "title": "Running a Side Hustle From Home Could Suddenly Void Your Insurance Policy",
-      "link": "https://www.realtor.com/advice/finance/side-hustle-from-home-insurance-policy-issues/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Making extra money while working from home is great, but there are plenty of considerations to plan for—like changes to your insurance.",
-      "published": "2026-09-15T21:37:37+00:00",
-      "fetched": "2026-09-16T01:53:00.649198+00:00"
     }
   ]
 }
