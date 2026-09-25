@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-25T02:04:28.289815+00:00",
+  "updated": "2026-09-25T10:38:47.310140+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "981f126d0941ea69",
+      "title": "‘Big Short’ Investor Michael Burry Sues To Halt ‘Dangerous’ Subdivision in California Wildfire Zone",
+      "link": "https://www.realtor.com/news/trends/big-short-michael-burry-sues-california-wildfire-masson-estates/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Burry, a resident of Saratoga, CA, says adding additional housing to the area will put residents in danger.",
+      "published": "2026-09-25T09:00:00+00:00",
+      "fetched": "2026-09-25T10:38:47.309543+00:00"
+    },
     {
       "id": "9760b8e8e0ba5de2",
       "title": "The Fine Print in Your Home Insurance Policy Could Cost You Thousands. Here Are the Blind Spots To Check",
@@ -1492,16 +1502,6 @@
       "summary": "Making extra money while working from home is great, but there are plenty of considerations to plan for—like changes to your insurance.",
       "published": "2026-09-15T21:37:37+00:00",
       "fetched": "2026-09-16T01:53:00.649198+00:00"
-    },
-    {
-      "id": "a51c799ee643a3a0",
-      "title": "Film Producer Tyler Perry Reveals Plans To Move to Puerto Rico as He Prepares To ‘Slow Down’ His Hollywood Career",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/tyler-perry-moves-to-puerto-rico-work/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Perry has revealed that he plans to move to Puerto Rico at the beginning of 2027—and hopes to \"slow down\" when it comes to work.",
-      "published": "2026-09-15T21:23:50+00:00",
-      "fetched": "2026-09-16T01:53:00.649238+00:00"
     }
   ]
 }
