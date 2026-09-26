@@ -1,8 +1,128 @@
 {
   "category": "finance",
-  "updated": "2026-09-26T10:21:57.778012+00:00",
+  "updated": "2026-09-26T15:10:59.834880+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8b6cf3719cf856d9",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“She currently has about 15 sitters, all independent contractors.”",
+      "published": "2026-09-26T14:15:00+00:00",
+      "fetched": "2026-09-26T15:10:57.449521+00:00"
+    },
+    {
+      "id": "72f67ca39dd2d25b",
+      "title": "Trump’s H-1B crackdown: For African tech talent, the road to America is getting narrower",
+      "link": "https://techcabal.com/2026/09/26/trumps-immigration-policy-squeeze/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The H-1B crackdown was expected to redirect foreign workers to other US visa routes. Instead, visa issuances have fallen across major categories, with Africa and Nigeria among the hardest hit.",
+      "published": "2026-09-26T13:46:05+00:00",
+      "fetched": "2026-09-26T15:10:59.834675+00:00"
+    },
+    {
+      "id": "83b485123618f321",
+      "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
+      "link": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Jamie Wilhelm and Sunit Gogia of Fort Washington Investment Advisors expect the AI wave to continue, but describe leading indicators of an eventual downturn.",
+      "published": "2026-09-26T13:35:00+00:00",
+      "fetched": "2026-09-26T15:10:57.449570+00:00"
+    },
+    {
+      "id": "966feac78440edc4",
+      "title": "Nigeria’s domestic debt service falls N1 trillion to N2.14 trillion in Q2 2026",
+      "link": "https://nairametrics.com/2026/09/26/nigerias-domestic-debt-service-falls-n1-trillion-to-n2-14-trillion-in-q2-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s domestic debt-service payments fell by about N1 trillion to N2.14 trillion in the second quarter of 2026, from N3.14 trillion in the first quarter. The post Nigeria’s domestic debt service falls N1 trillion to N2.14 trillion in Q2 2026 appeared first on Nairametrics .",
+      "published": "2026-09-26T13:32:28+00:00",
+      "fetched": "2026-09-26T15:10:58.489125+00:00"
+    },
+    {
+      "id": "47d747ecfbce7b06",
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "published": "2026-09-26T13:30:06+00:00",
+      "fetched": "2026-09-26T15:10:57.608501+00:00"
+    },
+    {
+      "id": "80204213bec15a48",
+      "title": "Nigerian stocks show overbought signals but little signs of market crash",
+      "link": "https://nairametrics.com/2026/09/26/nigerian-stocks-show-overbought-signals-but-little-signs-of-market-crash/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian stocks achieved a record-breaking multi-year bull market, with the benchmark All-Share Index (ASI) remaining above the all-time high threshold of over 252,000 points. This trend reflects substantial year-to-date and multi-month gains. The post Nigerian stocks show overbought signals but little signs of market crash appeared first on Nairametrics .",
+      "published": "2026-09-26T12:18:47+00:00",
+      "fetched": "2026-09-26T15:10:58.489166+00:00"
+    },
+    {
+      "id": "6a12c8b0c7be88cf",
+      "title": "Nigerian Abel Aboh nominated among 100 UK AI leaders",
+      "link": "https://nairametrics.com/2026/09/26/nigerian-abel-aboh-nominated-among-100-uk-ai-leaders/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian-born data and artificial intelligence (AI) leader, Abel Aboh has been named among 100 people recognised in the Foundever AI 100 UK 2026 list for their work in putting AI to practical use across the United Kingdom. The post Nigerian Abel Aboh nominated among 100 UK AI leaders appeared first on Nairametrics .",
+      "published": "2026-09-26T12:14:17+00:00",
+      "fetched": "2026-09-26T15:10:58.489199+00:00"
+    },
+    {
+      "id": "ede38495bed8ee6f",
+      "title": "Nigeria’s smartphone ownership rises to 75% as digital use expands – Report",
+      "link": "https://nairametrics.com/2026/09/26/nigerias-smartphone-ownership-rises-to-75-as-digital-use-expands-report/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s smartphone ownership has risen to 75% as mobile devices become increasingly central to how Nigerians access digital services. The post Nigeria’s smartphone ownership rises to 75% as digital use expands – Report appeared first on Nairametrics .",
+      "published": "2026-09-26T12:06:06+00:00",
+      "fetched": "2026-09-26T15:10:58.489233+00:00"
+    },
+    {
+      "id": "ea5f540061c41eca",
+      "title": "NFEM turnover falls 17.7% to $2.25 billion as CBN cuts MPR to 23% in second weekly decline",
+      "link": "https://nairametrics.com/2026/09/26/nfem-turnover-falls-17-7-to-2-25-billion-as-cbn-cuts-mpr-to-23-in-second-weekly-decline/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Turnover on the Nigerian Foreign Exchange Market (NFEM) fell 17.7% week-on-week to $2.25 billion in the week ended September 25, 2026, extending the market’s decline for a second consecutive week. The post NFEM turnover falls 17.7% to $2.25 billion as CBN cuts MPR to 23% in second weekly decline appeared first on Nairametrics .",
+      "published": "2026-09-26T11:46:41+00:00",
+      "fetched": "2026-09-26T15:10:58.489269+00:00"
+    },
+    {
+      "id": "76ab0e87e9a4ab07",
+      "title": "Nigeria’s external debt service falls to $870.7 million in Q2 2026",
+      "link": "https://nairametrics.com/2026/09/26/nigerias-external-debt-service-falls-to-870-7-million-in-q2-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria paid $870.73 million to service its external debt in the second quarter of 2026, with interest payments accounting for more than half of the total. The post Nigeria’s external debt service falls to $870.7 million in Q2 2026 appeared first on Nairametrics .",
+      "published": "2026-09-26T11:43:32+00:00",
+      "fetched": "2026-09-26T15:10:58.489302+00:00"
+    },
+    {
+      "id": "75147d1f9b3e9392",
+      "title": "Nigeria’s public debt rises to N166.79 trillion in Q2 2026",
+      "link": "https://nairametrics.com/2026/09/26/nigerias-public-debt-rises-to-n166-79-trillion-in-q2-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s total public debt stock rose to N166.79 trillion as of June 30, 2026, with domestic debt accounting for N91.59 trillion, or 54.91% of the total portfolio. The post Nigeria’s public debt rises to N166.79 trillion in Q2 2026 appeared first on Nairametrics .",
+      "published": "2026-09-26T10:56:52+00:00",
+      "fetched": "2026-09-26T15:10:58.489333+00:00"
+    },
+    {
+      "id": "5ecb13c06ecf5c5d",
+      "title": "FCMB Group extends deadline for release of Q3 2026 financial results",
+      "link": "https://nairametrics.com/2026/09/26/fcmb-group-extends-deadline-for-release-of-q3-2026-financial-results/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "FCMB Group Plc has notified the Nigerian Exchange Limited (NGX), shareholders and the investing public of a potential delay in the release of its nine-month unaudited financial statements for the period ended September 30, 2026. The post FCMB Group extends deadline for release of Q3 2026 financial results appeared first on Nairametrics .",
+      "published": "2026-09-26T10:25:17+00:00",
+      "fetched": "2026-09-26T15:10:58.489364+00:00"
+    },
     {
       "id": "d41a0e9f46238da7",
       "title": "CBN raises regulatory questions over non-banks offering instalment credit",
@@ -1382,126 +1502,6 @@
       "summary": "The three students represent different milestones along the same trajectory. Together, their experiences highlight why acquiring a technical qualification is only the baseline.",
       "published": "2026-09-24T08:37:46+00:00",
       "fetched": "2026-09-24T10:34:57.720393+00:00"
-    },
-    {
-      "id": "ef0dc4457d6bef07",
-      "title": "Why Bamboo app went down during Dangote Refinery IPO – CEO",
-      "link": "https://nairametrics.com/2026/09/24/why-bamboo-app-went-down-during-dangote-refinery-ipo-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Bamboo, one of the platforms handling subscriptions for the Dangote Refinery IPO, experienced downtime within the first 30 minutes of the offer opening after traffic surged beyond 10 times its normal level. The post Why Bamboo app went down during Dangote Refinery IPO CEO appeared first on Nairametrics .",
-      "published": "2026-09-24T08:27:25+00:00",
-      "fetched": "2026-09-24T10:34:57.211033+00:00"
-    },
-    {
-      "id": "bb00a505974d5731",
-      "title": "Learn Africa announces retirement of director Egbichi Akinsanya after six years",
-      "link": "https://nairametrics.com/2026/09/24/learn-africa-announces-retirement-of-director-egbichi-akinsanya-after-six-years/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Learn Africa Plc has announced the retirement of Mrs. Egbichi Akinsanya from its Board of Directors, bringing to an end her six-year tenure as an Independent Non-Executive Director. The post Learn Africa announces retirement of director Egbichi Akinsanya after six years appeared first on Nairametrics .",
-      "published": "2026-09-24T07:49:14+00:00",
-      "fetched": "2026-09-24T10:34:57.211074+00:00"
-    },
-    {
-      "id": "5612cb9abc94d2f5",
-      "title": "Why Abuja should host the new generation of sustainable living",
-      "link": "https://nairametrics.com/2026/09/24/why-abuja-should-host-the-new-generation-of-sustainable-living/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Abuja is growing. New homes are being built. New communities are emerging.",
-      "published": "2026-09-24T06:53:21+00:00",
-      "fetched": "2026-09-24T10:34:57.211126+00:00"
-    },
-    {
-      "id": "f54d1181f7dba90a",
-      "title": "US commits additional $267 million to Ebola fight as DRC deaths exceed 3,700",
-      "link": "https://nairametrics.com/2026/09/24/us-commits-additional-267-million-to-ebola-fight-as-drc-deaths-exceed-3700/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United States has pledged an additional $267 million to support the fight against the Ebola outbreak in Central Africa, as the death toll from the disease in the Democratic Republic of Congo (DRC) has exceeded 3,700. The post US commits additional $267 million to Ebola fight as DRC deaths exceed 3,700 appeared first on Nairametrics .",
-      "published": "2026-09-24T06:37:28+00:00",
-      "fetched": "2026-09-24T10:34:57.211195+00:00"
-    },
-    {
-      "id": "c82c2ddc179b4dbd",
-      "title": "SEC issues deadline for public companies to submit IFRS sustainability reporting plans",
-      "link": "https://nairametrics.com/2026/09/24/sec-issues-deadline-for-public-companies-to-submit-ifrs-sustainability-reporting-plans/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s Securities and Exchange Commission (SEC) has given public companies and significant public interest capital market operators until October 15, 2026, to submit plans for adopting the IFRS Sustainability Disclosure Standards. The post SEC issues deadline for public companies to submit IFRS sustainability reporting plans appeared first on Nairametrics .",
-      "published": "2026-09-24T06:27:35+00:00",
-      "fetched": "2026-09-24T10:34:57.211244+00:00"
-    },
-    {
-      "id": "312d3819a84ded1d",
-      "title": "FG raises N6.69 billion from September savings bond at up to 15.12%",
-      "link": "https://nairametrics.com/2026/09/24/fg-raises-n6-69-billion-from-september-savings-bond-at-up-to-15-12/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has raised N6.69 billion through its September 2026 Savings Bond, offering investors annual interest rates of 14.12% and 15.12% on two- and three-year instruments, respectively. The post FG raises N6.69 billion from September savings bond at up to 15.12% appeared first on Nairametrics .",
-      "published": "2026-09-24T06:14:06+00:00",
-      "fetched": "2026-09-24T10:34:57.211284+00:00"
-    },
-    {
-      "id": "f35af3bb102ab217",
-      "title": "NTB stop rates crash across tenors after CBN’s 350bps rate cut; see new rates",
-      "link": "https://nairametrics.com/2026/09/24/ntb-stop-rates-crash-across-tenors-after-cbns-350bps-rate-cut-see-new-rates/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Debt Management Office (DMO), in conjunction with the CBN, sharply cut stop rates across all three Treasury Bills (NTB) tenors at its Wednesday, September 23, 2026, primary market auction, a day after the Central Bank of Nigeria (CBN) cut its Monetary Policy Rate by 350 basis points to 23.00%. The post NTB stop rates crash across tenors after CBN s 350bps rate cut; see new rates appeared first on Nairametrics .",
-      "published": "2026-09-24T06:00:11+00:00",
-      "fetched": "2026-09-24T10:34:57.211340+00:00"
-    },
-    {
-      "id": "a81251ffd4216c11",
-      "title": "MAN warns 23% MPR cut may have little impact with lending rates at 30%",
-      "link": "https://nairametrics.com/2026/09/24/man-warns-23-mpr-cut-may-have-little-impact-with-lending-rates-at-30/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria’s reduction of its benchmark interest rate may have limited impact on manufacturers if commercial lending rates remain as high as 30%, the Manufacturers Association of Nigeria (MAN) has said. The post MAN warns 23% MPR cut may have little impact with lending rates at 30% appeared first on Nairametrics .",
-      "published": "2026-09-24T05:55:16+00:00",
-      "fetched": "2026-09-24T10:34:57.211390+00:00"
-    },
-    {
-      "id": "5fe757d552c7752e",
-      "title": "👨🏿‍🚀TechCabal Daily – No Access, no problem",
-      "link": "https://techcabal.com/2026/09/24/techcabal-daily-no-access-no-problem/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Access hands back NBK its business Airtel Monkey IPO momentum Quickmart files to go public Wethu+, DStv’s new 3-in-1 channel",
-      "published": "2026-09-24T05:52:29+00:00",
-      "fetched": "2026-09-24T10:34:57.720431+00:00"
-    },
-    {
-      "id": "45cd367c2c1af95f",
-      "title": "SEC pushes wider market participation with new Capital Market Master Plan 2.0",
-      "link": "https://nairametrics.com/2026/09/24/sec-pushes-wider-market-participation-with-new-capital-market-master-plan-2-0/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Securities and Exchange Commission (SEC) is pushing towards broadening retail investor participation and leveraging technology to deepen market access across all income demographics with a planned launch of new Capital Market Master Plan 2.0 at its 2026 National Capital Market Conference in Abuja. The post SEC pushes wider market participation with new Capital Market Master Plan 2.0 appeared first on Nairametrics .",
-      "published": "2026-09-24T05:45:27+00:00",
-      "fetched": "2026-09-24T10:34:57.211438+00:00"
-    },
-    {
-      "id": "aff90f1809e16e45",
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-      "published": "2026-09-24T01:54:35+00:00",
-      "fetched": "2026-09-24T15:58:39.903137+00:00"
-    },
-    {
-      "id": "9954b4bd7d76b39c",
-      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-      "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-      "published": "2026-09-24T01:44:14+00:00",
-      "fetched": "2026-09-25T15:59:26.245271+00:00"
     }
   ]
 }

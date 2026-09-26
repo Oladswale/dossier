@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-26T10:22:14.341222+00:00",
+  "updated": "2026-09-26T15:11:16.755291+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4485febd430827ab",
+      "title": "Inside a $7 Million Sedona Estate Built on Cowboy Art History—Complete with 1,000-Bottle Wine Cellar and Private Sport Court",
+      "link": "https://www.realtor.com/news/unique-homes/sedona-cowboy-artist-compound-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore this Sedona compound featuring a historic artist studio turned luxury playhouse, sport court, and red rock views.",
+      "published": "2026-09-26T13:03:00+00:00",
+      "fetched": "2026-09-26T15:11:16.754755+00:00"
+    },
+    {
+      "id": "c238956f3749591f",
+      "title": "This $35M Virginia Wine Country Estate Once Belonged to One of the World’s Richest Men—and It Has No Restrictions",
+      "link": "https://www.realtor.com/news/unique-homes/35m-virginia-wine-country-estate-scottsville/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore this $35M Virginia wine country estate with 1,850 acres, a turnkey winery, historic 1810 manor, and zero land restrictions.",
+      "published": "2026-09-26T12:32:00+00:00",
+      "fetched": "2026-09-26T15:11:16.754786+00:00"
+    },
     {
       "id": "01b1e85831f869c6",
       "title": "Tiny-Home ‘Matchmakers’ Are Helping Connect Residents With Rural Landowners",
@@ -1482,26 +1502,6 @@
       "summary": "Foreclosure activity continued to grow in August, with 25,894 foreclosure starts last month.",
       "published": "2026-09-17T04:01:00+00:00",
       "fetched": "2026-09-17T10:31:09.299566+00:00"
-    },
-    {
-      "id": "5e8d3388254ae782",
-      "title": "Inside Hoda Kotb’s Long Island Beach Retreat as She Throws Adorable Surprise Party for Beloved Former ‘Today’ Driver",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/hoda-kotb-long-island-home-surprise-party-today-show-driver/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 62-year-old, who owns a beachside property on Long Island, took to Instagram to share a touching video of the celebration.",
-      "published": "2026-09-16T22:42:16+00:00",
-      "fetched": "2026-09-17T01:57:13.242657+00:00"
-    },
-    {
-      "id": "e8762645c27314a0",
-      "title": "Where Do ‘The Secret Lives of Mormon Wives’ Stars Live? See Where They’re Headed in Light of Cast Shake-Up",
-      "link": "https://www.realtor.com/news/reality-tv/secret-lives-mormon-wives-cast-homes-utah/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Utah-based reality TV show has seen a major cast shake-up, with its stars making moves and seeking fresh starts.",
-      "published": "2026-09-16T21:58:07+00:00",
-      "fetched": "2026-09-17T01:57:13.242687+00:00"
     }
   ]
 }
