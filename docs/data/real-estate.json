@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-27T10:54:32.345961+00:00",
+  "updated": "2026-09-27T15:52:35.040922+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f26d9a8bf785c904",
+      "title": "Julia Child’s Historic Cambridge Home Near Harvard Square Lists for $6.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/julia-child-historic-cambridge-home-harvard-square/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The legendary chef's historic Cambridge estate hits the market for $6.5 million, featuring lush gardens and an updated chef's kitchen.",
+      "published": "2026-09-27T15:31:00+00:00",
+      "fetched": "2026-09-27T15:52:35.040302+00:00"
+    },
+    {
+      "id": "5fc44e704efea0bb",
+      "title": "A Frank Gehry Protégé Transformed 20 Blank Acres in Marin—Now it’s On the Market for $4.4 Million",
+      "link": "https://www.realtor.com/news/unique-homes/frank-gehry-protege-jeremy-kotas-marin-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A 20-acre Marin retreat designed by Frank Gehry protégé Jeremy Kotas hits the market for $4.4M, featuring Mt. Tam views and a lap pool.",
+      "published": "2026-09-27T14:01:00+00:00",
+      "fetched": "2026-09-27T15:52:35.040348+00:00"
+    },
+    {
+      "id": "06afaf291b23f1c5",
+      "title": "Lustron Homes Were Mass-Produced With Steel as a 1940s Housing Solution—Here’s Why Only 1,200 Still Stand Today",
+      "link": "https://www.realtor.com/news/unique-homes/lustron-home-prefabricated-steel-architectural-style-history/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "This increasingly rare architectural style was created in the 1940s as a housing solution, promising affordability and low maintenance.",
+      "published": "2026-09-27T12:16:00+00:00",
+      "fetched": "2026-09-27T15:52:35.040382+00:00"
+    },
     {
       "id": "e5095fc9f386d5cb",
       "title": "82% of Homeowners Want AI Security Cameras—Here’s Why Passive Cameras Aren’t Enough Anymore",
@@ -1472,36 +1502,6 @@
       "summary": "August pending home sales increased 0.3% month over month, but fell 4.7% year over year as mortgage rates continued climbing.",
       "published": "2026-09-17T14:03:26+00:00",
       "fetched": "2026-09-17T15:43:57.500504+00:00"
-    },
-    {
-      "id": "16461ac2b81be567",
-      "title": "Taylor Swift and Travis Kelce’s 8-Foot Privacy Wall Plans at $5 Million Ohio Home Rejected",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/taylor-swift-travis-kelce-ohio-home-security-system/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Kansas City Chiefs tight end, 36, snapped up the palatial eight-bedroom, 8.5-bathroom property in March.",
-      "published": "2026-09-17T13:29:00+00:00",
-      "fetched": "2026-09-17T15:43:57.500528+00:00"
-    },
-    {
-      "id": "b117ea83c12700b9",
-      "title": "Single-Family Home Construction Jumps Unexpectedly in August",
-      "link": "https://www.realtor.com/news/trends/housing-starts-home-construction-census-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Construction of new single-family homes across the U.S. picked up unexpectedly in August, but mounting bad news signals trouble ahead.",
-      "published": "2026-09-17T13:04:05+00:00",
-      "fetched": "2026-09-17T15:43:57.500549+00:00"
-    },
-    {
-      "id": "94d0cc1daefccd8e",
-      "title": "You’re Not Gonna Like What Happens to Mortgage Rates",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-461",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The U.S. government may have just lost the war on mortgage rates. Last week, the U.S.",
-      "published": "2026-09-17T11:00:19+00:00",
-      "fetched": "2026-09-17T15:43:57.174215+00:00"
     }
   ]
 }

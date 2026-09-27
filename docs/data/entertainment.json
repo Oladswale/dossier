@@ -1,8 +1,118 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-27T10:54:30.085342+00:00",
+  "updated": "2026-09-27T15:52:33.484481+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "036f38b20f73c3b2",
+      "title": "Box Office: ‘Avengers: Endgame Encore’ Returns to No. 1 With $26 Million, ‘Primetime’ Scores Impressive $19 Million Debut",
+      "link": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Avengers: Endgame Encore, a re-release of Disney and Marvel s 2019 blockbuster (with extra footage!), emerged victorious at the domestic box office over several new releases. Avengers: Endgame Encore generated $26 million from 3,060 North American theaters over the weekend, a sizable haul for a movie that s been available to watch online for years. Excitement for [ ]",
+      "published": "2026-09-27T15:35:35+00:00",
+      "fetched": "2026-09-27T15:52:33.032233+00:00"
+    },
+    {
+      "id": "3731e973d20aa694",
+      "title": "‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’",
+      "link": "https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Godzilla Minus One” made franchise history in 2024 when it won Best Visual Effects at the 96th Academy Awards, becoming the first Godzilla film to win an Oscar. Now, after Takashi Yamazaki’s highly anticipated sequel, “Godzilla Minus Zero,” premiered to rave reviews at the New York Film Festival, some fans are already calling for a [ ]",
+      "published": "2026-09-27T15:12:34+00:00",
+      "fetched": "2026-09-27T15:52:33.032324+00:00"
+    },
+    {
+      "id": "a7d7878b3cb9fa57",
+      "title": "Anna Kendrick ‘Over the Moon’ About Directing ‘The Seven Husbands of Evelyn Hugo,’ Compares ‘Pitch Perfect’ Friendships to the Avengers",
+      "link": "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Anna Kendrick, who is at the Zurich Film Festival for the European premiere of Lauren Miller Rogen’s “Babies,” spoke briefly about her next directorial project, “The Seven Husbands of Evelyn Hugo.” Back in June, it was announced that Kendrick would direct the Netflix film, adapted from Taylor Jenkins Reid s best-selling novel. “Obviously, over the moon [ ]",
+      "published": "2026-09-27T15:12:33+00:00",
+      "fetched": "2026-09-27T15:52:33.032383+00:00"
+    },
+    {
+      "id": "3f0a7206ef379548",
+      "title": "Dallas Cowboys vs. Baltimore Ravens: Where to Watch the First NFL Game in Rio de Janeiro",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-cowboys-vs-ravens-rio-de-janeiro-2026-1235631198/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The NFL continues its global push with an international game at Maracanã Stadium",
+      "published": "2026-09-27T15:00:00+00:00",
+      "fetched": "2026-09-27T15:52:33.241530+00:00"
+    },
+    {
+      "id": "41a1be52d8844ace",
+      "title": "‘Superman’ Director James Gunn Wants You to Know Singer/Songwriter Nouela",
+      "link": "https://www.rollingstone.com/music/music-news/james-gunn-superman-dc-studios-nouela-1235632086/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Gunn, co-CEO of DC Studios, writes about one of his favorite artists: 'The magnificence of art isn’t measured by the number of people who experience it.'",
+      "published": "2026-09-27T15:00:00+00:00",
+      "fetched": "2026-09-27T15:52:33.241575+00:00"
+    },
+    {
+      "id": "9d8d7783b0f64858",
+      "title": "Florence Road Land Top Slot at Ohana After Gear Stolen: ‘It Means a Lot for a Little Irish Band’",
+      "link": "https://www.rollingstone.com/music/music-news/florence-road-ohana-festival-performance-gear-stolen-1235632448/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After having to cancel their Friday performance, fest organizers were able to squeeze the band in right before Tyler Childers' Saturday headlining set",
+      "published": "2026-09-27T14:09:59+00:00",
+      "fetched": "2026-09-27T15:52:33.241612+00:00"
+    },
+    {
+      "id": "157f91993cdcdf4d",
+      "title": "How Trump Became Mob Boss of the United States",
+      "link": "https://www.rollingstone.com/politics/political-commentary/trump-mob-boss-united-states-1235631736/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The most corrupt president in American history has been preparing his entire life to co-opt the government for personal gain",
+      "published": "2026-09-27T14:00:00+00:00",
+      "fetched": "2026-09-27T15:52:33.241639+00:00"
+    },
+    {
+      "id": "e4086958bb53d1ba",
+      "title": "‘Star Wars’ Selects Director Jon Watts to Helm Episode X in ‘Skywalker Saga’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/star-wars-director-jon-watts-episode-x-skywalker-saga-1235632455/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Spider-Man series director and Skeleton Crew co-creator will reportedly guide first film in Simon Kinberg-penned trilogy",
+      "published": "2026-09-27T13:31:24+00:00",
+      "fetched": "2026-09-27T15:52:33.241672+00:00"
+    },
+    {
+      "id": "a1d2d27cf825938c",
+      "title": "Naomi Watts Talks Menopause – ‘I Was Crying in the Bathroom, Trying to Scratch Off My Estrogen Patch’ – Recalls Being Told She ‘Freaked People Out’ Early in Her Career: ‘Yeah, No Shit. I Was Desperate, Behind on My Rent and Getting Evicted’",
+      "link": "https://variety.com/2026/film/awards/naomi-watts-mullholland-drive-early-career-menopause-1236876797/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Naomi Watts waited a long time to become a star. “It was a grind. That 10 years before I met David, I became so locked up and I felt worthless.",
+      "published": "2026-09-27T13:14:13+00:00",
+      "fetched": "2026-09-27T15:52:33.032443+00:00"
+    },
+    {
+      "id": "a72f17d926427f08",
+      "title": "Kyle MacLachlan Is Owning the Times He Was ‘Really an Ass’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/kyle-maclachlan-memoir-dune-david-lynch-interview-1235631193/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "As he prepares to release a new memoir, the Twin Peaks legend reflects on his long career, his friendship with David Lynch, mistakes of the past, and finding his “happy place” on TikTok",
+      "published": "2026-09-27T13:00:00+00:00",
+      "fetched": "2026-09-27T15:52:33.241713+00:00"
+    },
+    {
+      "id": "e723ce2f60f83771",
+      "title": "Martin McDonagh Jokes About His Past – as a Hitman – and Calls ‘Wild Horse Nine’ His Most Political Film: ‘There’s Too Much Artistic Neutrality and Too Much Saying Nothing’",
+      "link": "https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Martin McDonagh is taking a stand with “Wild Horse Nine.” “This is probably my most political film. That’s why I find it very exciting to be releasing this monster into the world,” he said at the Zurich Film Festival. “I feel like, in the modern day, there’s perhaps a little too much artistic neutrality, or [ ]",
+      "published": "2026-09-27T11:54:24+00:00",
+      "fetched": "2026-09-27T15:52:33.032499+00:00"
+    },
     {
       "id": "a2f6d1eaeb05eff7",
       "title": "Beyond Frontman Doc ‘Because of You Ka Kui’ to Open U.K.’s Odyssey Film Festival, Lands Local Distribution (EXCLUSIVE)",
@@ -1392,116 +1502,6 @@
       "summary": "Susan Sarandon, Hannah Einbinder, and other big names demonstrated against the Israeli prime minister's speech at the UN",
       "published": "2026-09-24T22:30:00+00:00",
       "fetched": "2026-09-25T02:04:26.543344+00:00"
-    },
-    {
-      "id": "d73ff8e434fe91f1",
-      "title": "Trump’s Bro Sesh With Xi Jinping Was Thoroughly Weird",
-      "link": "https://www.rollingstone.com/politics/politics-news/trump-meeting-china-xi-jinping-weird-1235631237/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“He likes granite. He's an expert on stone,\" the president said after showing China's president the White House helipad",
-      "published": "2026-09-24T22:16:01+00:00",
-      "fetched": "2026-09-25T02:04:26.543366+00:00"
-    },
-    {
-      "id": "a7228065d2be0ce6",
-      "title": "Backers of U.S. Film Incentive See Window to Pass Bill This Year",
-      "link": "https://variety.com/2026/film/news/film-incentive-window-pass-supporters-1236875089/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Supporters of a federal film incentive are preparing an all-out push to pass the legislation by the end of the year, looking to take advantage of momentum before Congress potentially changes hands next term. A bipartisan group of senators and representatives unveiled the bill on Thursday. It would provide a 20%-30% federal incentive for films [ ]",
-      "published": "2026-09-24T22:03:28+00:00",
-      "fetched": "2026-09-25T02:04:26.470234+00:00"
-    },
-    {
-      "id": "d3ba3b8b7345d9d7",
-      "title": "‘The Musical’ Star Will Brill on His Dark, Surprisingly Delightful 9/11 Revenge Comedy",
-      "link": "https://variety.com/2026/film/news/will-brill-the-musical-revenge-911-1236873720/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "You rarely see a movie now where the big question is, How the fuck did this get made? Who let them do this?' Tony award winner WIll Brill asks this aloud over a meal with Variety at West Hollywood s Canter s Deli. Brill starts with a steaming bowl of soup at 11 a.m.",
-      "published": "2026-09-24T21:56:35+00:00",
-      "fetched": "2026-09-25T02:04:26.470268+00:00"
-    },
-    {
-      "id": "20f8c120c29466cd",
-      "title": "Barbie’s First Official Hanukkah Doll Is Wearing a Menorah Sweater That Actually Lights Up",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-hanukkah-sweater-barbie-online-best-prices-2026-1235631159/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The brand’s latest drop features the doll decked out in an interactive holiday jumper. Here’s where it’s still in stock",
-      "published": "2026-09-24T21:38:45+00:00",
-      "fetched": "2026-09-25T02:04:26.543391+00:00"
-    },
-    {
-      "id": "9b6770e59670c8d2",
-      "title": "Buffalo Bills Mafia and Their Super Bowl Hopes Focus of New Docuseries",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/buffalo-bills-mafia-super-bowl-hopes-new-docuseries-tubi-1235631264/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Just One Before I Die , premiering next month on Tubi, dives deep in team's championship drought and their long-suffering fans",
-      "published": "2026-09-24T21:10:11+00:00",
-      "fetched": "2026-09-25T02:04:26.543414+00:00"
-    },
-    {
-      "id": "48c28e1fee479811",
-      "title": "‘Avengers: Endgame Encore’ Adds 4 New Scenes Tying to ‘Doomsday’: [SPOILER] Fights Doctor Doom, [SPOILER] Travels to the Past and the Multiverse Collapses",
-      "link": "https://variety.com/2026/film/news/avengers-endgame-encore-new-scenes-doctor-doom-hulk-loki-1236873843/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This article contains spoilers for Avengers: Endgame Encore, now playing in theaters. In the lead-up to Avengers: Doomsday, Marvel has re-released Avengers: Endgame in theaters with four brand new scenes that tie directly into the sprawling team-up film releasing on Dec. 18.",
-      "published": "2026-09-24T20:43:20+00:00",
-      "fetched": "2026-09-24T20:50:32.969480+00:00"
-    },
-    {
-      "id": "a8849a681885d28e",
-      "title": "Letterboxd Suitors Include A24 and New York Times; Sale Could Value Social Movie Platform at $300 Million: Report",
-      "link": "https://variety.com/2026/film/news/letterboxd-a24-ny-times-acquisition-talks-300-million-1236874957/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A bidding war may be in full flower for Letterboxd, the popular film-reviews and social service that has been fielding inbound acquisition offers for several months. Indie studio A24 and the New York Times are the latest to express an interest in buying Letterboxd, according to a New York Times report citing anonymous sources. Any [ ]",
-      "published": "2026-09-24T20:09:43+00:00",
-      "fetched": "2026-09-24T20:50:32.969528+00:00"
-    },
-    {
-      "id": "2727ff46a14220e3",
-      "title": "Tamera Mowry-Housley Joins ‘Scrubs’ Reboot Season 2",
-      "link": "https://variety.com/2026/tv/news/tamera-mowry-housley-scrubs-season-2-1236874933/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tamera Mowry-Housley is checking into Season 2 of the Scrubs reboot. The Sister, Sister and Twitches star has boarded the ABC sitcom as a guest star. She will play Dr.",
-      "published": "2026-09-24T20:00:00+00:00",
-      "fetched": "2026-09-24T20:50:32.969569+00:00"
-    },
-    {
-      "id": "a903df18017844ce",
-      "title": "Wait, What the Hell Is Going on With Dolly Parton’s Estate?",
-      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-estate-dispute-everything-we-know-1235631132/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A dispute between Parton's longtime manager and nephew/security head has erupted one month after the country legend's death",
-      "published": "2026-09-24T19:59:04+00:00",
-      "fetched": "2026-09-24T20:50:33.153857+00:00"
-    },
-    {
-      "id": "f8f4113c0d297a7c",
-      "title": "Serbia’s Screen Industries in Crisis Amid Claims That Blacklists, ‘State-Sponsored Censorship’ Are Designed to ‘Starve Independent Production’",
-      "link": "https://variety.com/2026/film/global/serbia-screen-industries-crisis-blacklists-censorship-1236851352/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Serbian film and television industries are in a state of crisis, with independent production in the Balkan powerhouse crippled by what leading industry groups describe as “a coordinated campaign of state-sponsored censorship.” Nearly two years after a devastating train station disaster that killed 16 people and sparked mass demonstrations against the government of President [ ]",
-      "published": "2026-09-24T19:48:56+00:00",
-      "fetched": "2026-09-24T20:50:32.969617+00:00"
-    },
-    {
-      "id": "618dee2a42fc7207",
-      "title": "Tom Hiddleston Recalls Trekking to Everest for ‘Tenzing’ and Kevin Feige Telling Him ‘Thor’ Wasn’t ‘Going to Be the Only Film’ He Would Play Loki In",
-      "link": "https://variety.com/2026/film/global/tom-hiddleston-everest-tenzing-kevin-feige-thor-zurich-1236874190/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "British actor Tom Hiddleston has a privileged view and understanding of the Marvel Cinematic Universe phenomenon, having starred as Loki in “Thor,” only the second film of a now ever-expanding franchise. Speaking at the Zurich Film Festival, where he is presenting the opening film “Tenzing” and receiving a Golden Eye Award, the actor recalled those [ ]",
-      "published": "2026-09-24T19:41:34+00:00",
-      "fetched": "2026-09-24T20:50:32.969663+00:00"
     }
   ]
 }
