@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-27T15:52:35.040922+00:00",
+  "updated": "2026-09-27T20:31:02.547564+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "667c7c1722072f32",
+      "title": "Hidden Vermont Sanctuary Sits High Above the Clouds on 210 Acres for $2.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/vermont-mountain-estate-210-acres-killington/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A private 210-acre Vermont retreat 15 minutes from Killington Ski Resort hits the market, featuring river views and mountain privacy.",
+      "published": "2026-09-27T18:12:00+00:00",
+      "fetched": "2026-09-27T20:31:02.546948+00:00"
+    },
+    {
+      "id": "f450e3c0d7bf328d",
+      "title": "The ‘Cold Room’ Trend: Could These Greek Housing Layouts Be The Key to Attracting Gen Z Buyers?",
+      "link": "https://www.realtor.com/news/trends/cold-room-trend-housing-layouts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 'Cold Room' trend is taking over social media again, now that school is back in sessions—but why should home sellers care?",
+      "published": "2026-09-27T17:34:00+00:00",
+      "fetched": "2026-09-27T20:31:02.546989+00:00"
+    },
+    {
+      "id": "6548203a31890870",
+      "title": "Brooklyn’s Working-Class Bastion Bay Ridge Gets a New Luxury Development",
+      "link": "https://www.realtor.com/news/trends/brooklyn-bay-ridge-luxury-development-veridian-condos/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A working-class Brooklyn neighborhood known for its sweeping views of the Verrazano-Narrows Bridge is getting a luxury makeover.",
+      "published": "2026-09-27T16:14:00+00:00",
+      "fetched": "2026-09-27T20:31:02.547020+00:00"
+    },
     {
       "id": "f26d9a8bf785c904",
       "title": "Julia Child’s Historic Cambridge Home Near Harvard Square Lists for $6.5 Million",
@@ -1472,36 +1502,6 @@
       "summary": "The \"Wild Ones\" hitmaker, 41, whose real name is Jason DeFord, opened up about his future plans during an interview.",
       "published": "2026-09-17T16:04:11+00:00",
       "fetched": "2026-09-17T20:37:39.501080+00:00"
-    },
-    {
-      "id": "31c092b95659ca6d",
-      "title": "Mortgage Rates Surge to 18-Month High of 6.95% After Fed Hike",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-fed-rate-hike-september-17-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed mortgages soared to 6.95% for the week ending Sept. 17, up 19 basis points from last week.",
-      "published": "2026-09-17T16:00:00+00:00",
-      "fetched": "2026-09-17T20:37:39.501107+00:00"
-    },
-    {
-      "id": "9a05954a8ac8ca1a",
-      "title": "‘Bridesmaids’ Director Paul Feig Lists the Colorful Lenox Hill Condo He Bought Fully Furnished for $3 Million",
-      "link": "https://www.realtor.com/news/unique-homes/paul-feig-lenox-hill-condo-nyc-listing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Step inside the 'Bridesmaids' director's art deco apartment featuring prewar details, a colorful custom interior, and a private terrace.",
-      "published": "2026-09-17T15:13:07+00:00",
-      "fetched": "2026-09-17T15:43:57.500475+00:00"
-    },
-    {
-      "id": "e026448c19580090",
-      "title": "Pending Home Sales Edge Up in August Despite Higher Rates",
-      "link": "https://www.realtor.com/news/trends/pending-home-sales-fall-august-2026-housing-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "August pending home sales increased 0.3% month over month, but fell 4.7% year over year as mortgage rates continued climbing.",
-      "published": "2026-09-17T14:03:26+00:00",
-      "fetched": "2026-09-17T15:43:57.500504+00:00"
     }
   ]
 }
