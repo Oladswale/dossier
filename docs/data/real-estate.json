@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-26T20:15:07.425794+00:00",
+  "updated": "2026-09-27T02:02:17.057455+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e5095fc9f386d5cb",
+      "title": "82% of Homeowners Want AI Security Cameras—Here’s Why Passive Cameras Aren’t Enough Anymore",
+      "link": "https://www.realtor.com/advice/home-improvement/ai-security-cameras-worth-it-cost-vs-benefits/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Discover how AI security cameras active-deter thieves before crimes happen. Explore costs, fees, and if the upgrade is worth it.",
+      "published": "2026-09-26T19:01:00+00:00",
+      "fetched": "2026-09-27T02:02:17.056869+00:00"
+    },
     {
       "id": "fc0e622579f26b6e",
       "title": "Inside a $1.2 Million Restored 1890s Jersey City Brownstone That Blends Historic Charm With Parisian Chic",
@@ -1492,16 +1502,6 @@
       "summary": "The U.S. government may have just lost the war on mortgage rates. Last week, the U.S.",
       "published": "2026-09-17T11:00:19+00:00",
       "fetched": "2026-09-17T15:43:57.174215+00:00"
-    },
-    {
-      "id": "ecd5c07643284178",
-      "title": "Landlords Are Offering Major Concessions in These Markets as Vacancies Rise",
-      "link": "https://www.realtor.com/news/trends/landlords-offer-concessions-vacancies-rise-rent-report-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Driven by rising vacancy rates, over 43% of rental listings in major U.S. markets now offer concessions like free rent to attract tenants.",
-      "published": "2026-09-17T09:00:00+00:00",
-      "fetched": "2026-09-17T10:31:09.299468+00:00"
     }
   ]
 }
