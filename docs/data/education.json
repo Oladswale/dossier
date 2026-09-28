@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-28T02:07:25.272837+00:00",
+  "updated": "2026-09-28T12:06:30.837316+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1a440ac355011331",
+      "title": "Read the CIA’s Manual of Trickery and Deception, Written by a Professional Stage Magician",
+      "link": "https://www.openculture.com/2026/09/read-the-cias-manual-of-trickery-and-deception-written-by-a-professional-stage-magician.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The idea of a youngster vacillating between whether to become a magician or join the Central Intelligence Agency may sound implausible, but those two working environments have deeper commonalities than it would seem. So, in any case, believes John McLaughlin, whose more than 30 years at the CIA included periods as its deputy director and [ ]",
+      "published": "2026-09-28T09:00:14+00:00",
+      "fetched": "2026-09-28T12:06:30.837043+00:00"
+    },
+    {
+      "id": "bf8b5f499ba4984f",
+      "title": "New formulation helps RNA vaccines withstand high temperatures",
+      "link": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
+      "published": "2026-09-28T09:00:00+00:00",
+      "fetched": "2026-09-28T12:06:29.910345+00:00"
+    },
+    {
+      "id": "922fd5651ddb6168",
+      "title": "The Little Albert Experiment: The Perverse 1920 Study That Made a Baby Afraid of Santa Claus & Bunnies",
+      "link": "https://www.openculture.com/2026/09/the-little-albert-experiment-the-perverse-1920-study.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The field of psychology is very different than it used to be. Nowadays, the American Psychological Association has a code of conduct for experiments that ensures a subject’s confidentiality, consent,and general mental well-being. In the old days, it wasn’t the case.",
+      "published": "2026-09-28T07:11:51+00:00",
+      "fetched": "2026-09-28T12:06:30.837109+00:00"
+    },
     {
       "id": "5850205dd9e7c1e0",
       "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
@@ -1472,36 +1502,6 @@
       "summary": "Using a modular kit, the MIT Edgerton Center is bringing a hands-on biology curriculum to Massachusetts’ second-largest school district.",
       "published": "2026-08-19T15:20:00+00:00",
       "fetched": "2026-08-19T18:14:41.779110+00:00"
-    },
-    {
-      "id": "40e84f05a3b8f5da",
-      "title": "The Complete History of the Beatles as Told By Conan O’Brien",
-      "link": "https://www.openculture.com/2026/08/the-complete-history-of-the-beatles-as-told-by-conan-obrien.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The world ended in the nineteen-sixties. Or rather, one world ended in the nineteen-sixties and gave way to another, a transition personified by no human beings more clearly than the Beatles. “They are lightning rods for so much that makes the sixties a revolutionary decade,” says The Rest Is History podcast co-host Tom Holland in the [ ]",
-      "published": "2026-08-19T09:00:29+00:00",
-      "fetched": "2026-08-19T12:18:03.947385+00:00"
-    },
-    {
-      "id": "a1cb603c0458cd7a",
-      "title": "Securing wireless communication in next-generation devices",
-      "link": "https://news.mit.edu/2026/securing-wireless-communication-next-generation-devices-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new, scalable technique could enable powerful radars and sensors based on quantum technology that works at room temperature.",
-      "published": "2026-08-19T09:00:00+00:00",
-      "fetched": "2026-08-19T12:18:02.327578+00:00"
-    },
-    {
-      "id": "b4afe3c0610b11b0",
-      "title": "NASA Enlists Andy Warhol, Annie Leibovitz, Norman Rockwell & 350 Other Artists to Visually Document America’s Space Program",
-      "link": "https://www.openculture.com/2026/08/nasa-enlists-artists-to-visually-document-americas-space-program.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "It’s hard to imagine that the space-crazed general public needed any help getting worked up about astronauts and NASA in the early ’60s. Perhaps the wild popularity of space-related imagery was in part what motivated NASA administrator James Webb to create the NASA Art Program in 1962. Although the program’s handpicked artists weren’t edited or censored in any [ ]",
-      "published": "2026-08-19T08:00:06+00:00",
-      "fetched": "2026-08-19T12:18:03.947450+00:00"
     }
   ]
 }
