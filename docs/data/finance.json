@@ -1,8 +1,348 @@
 {
   "category": "finance",
-  "updated": "2026-09-28T12:06:14.333890+00:00",
+  "updated": "2026-09-28T22:40:14.375675+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b67ee7a7780f318c",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "published": "2026-09-28T22:35:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025172+00:00"
+    },
+    {
+      "id": "a7c7492208454228",
+      "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
+      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
+      "published": "2026-09-28T22:03:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025219+00:00"
+    },
+    {
+      "id": "5e0e6b8c2d76463d",
+      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
+      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
+      "published": "2026-09-28T21:37:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025249+00:00"
+    },
+    {
+      "id": "01a929347b07f254",
+      "title": "BREAKING: GTCO’s pre-tax profit hits N603 billion, declares N1 interim dividend",
+      "link": "https://nairametrics.com/2026/09/28/gtcos-pre-tax-profit-hits-n603-billion-declares-n1-interim-dividend/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Guaranty Trust Holding Company Plc (GTCO) has released its H1 2026 results, reporting pre-tax profit of N603.03 billion for the period ended June 2026, representing a marginal 0.35% increase from N600.90 billion recorded in the corresponding period of 2025. The post BREAKING: GTCO’s pre-tax profit hits N603 billion, declares N1 interim dividend appeared first on Nairametrics .",
+      "published": "2026-09-28T21:26:30+00:00",
+      "fetched": "2026-09-28T22:40:13.377664+00:00"
+    },
+    {
+      "id": "aa6ffa4ed036ad74",
+      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
+      "published": "2026-09-28T21:23:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025291+00:00"
+    },
+    {
+      "id": "95fbbba14317eea5",
+      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
+      "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
+      "published": "2026-09-28T21:19:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025321+00:00"
+    },
+    {
+      "id": "a72128edfa0abc15",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have an ironclad prenup.”",
+      "published": "2026-09-28T21:00:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025347+00:00"
+    },
+    {
+      "id": "bb91d5aca230ff77",
+      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
+      "link": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Wall Street was hoping last week’s bond rout was the worst of it. Monday indicated otherwise.",
+      "published": "2026-09-28T20:43:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025376+00:00"
+    },
+    {
+      "id": "3c8ab77fa30bdc7d",
+      "title": "Before you invest in the Oura IPO, understand what you’re buying",
+      "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The health-data company could see a pop in its stock price, but there are plenty of warning signs",
+      "published": "2026-09-28T20:04:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025407+00:00"
+    },
+    {
+      "id": "e8762c2ffe166b45",
+      "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
+      "link": "https://www.marketwatch.com/story/october-is-historically-the-most-volatile-month-for-stocks-but-why-these-4-popular-theories-fail-to-hold-up-a47a1830?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Although October historically has been the most volatile month of the year, you shouldn’t bet that it will continue to be in the future.",
+      "published": "2026-09-28T20:02:00+00:00",
+      "fetched": "2026-09-28T22:40:12.025440+00:00"
+    },
+    {
+      "id": "ba598ab6321ca44a",
+      "title": "SpaceX’s Starship reaches orbit for first time, deploys 26 Starlink satellites",
+      "link": "https://nairametrics.com/2026/09/28/spacexs-starship-reaches-orbit-for-first-time-deploys-26-starlink-satellites/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "SpaceX’s Starship megarocket reached orbit for the first time on Monday, marking a major milestone in the company’s development of a reusable launch system for future missions to the Moon and Mars. The post SpaceX’s Starship reaches orbit for first time, deploys 26 Starlink satellites appeared first on Nairametrics .",
+      "published": "2026-09-28T19:07:58+00:00",
+      "fetched": "2026-09-28T22:40:13.377723+00:00"
+    },
+    {
+      "id": "1ecf928690f6cc0a",
+      "title": "NGX market cap hits record N164 trillion as trading volume surges",
+      "link": "https://nairametrics.com/2026/09/28/ngx-market-cap-hits-record-n164-trillion-as-trading-volume-surges/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Trading activity on the Nigerian Exchange Limited (NGX) experienced a surge in liquidity on Monday, September 28, 2026, as total equity trading volume crossed the one-billion mark, reaching 1,024,773,814 shares exchanged across 61,661 deals. The post NGX market cap hits record N164 trillion as trading volume surges appeared first on Nairametrics .",
+      "published": "2026-09-28T18:55:33+00:00",
+      "fetched": "2026-09-28T22:40:13.377816+00:00"
+    },
+    {
+      "id": "027b30ec0e531d75",
+      "title": "Truecaller says Nigerians can remove their numbers after privacy ruling",
+      "link": "https://techcabal.com/2026/09/28/truecaller-says-nigerians-can-unlist-numbers/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The response follows TechCabal’s earlier report, which examined the legal dispute over how Truecaller processes the phone numbers and names of people who have not signed up for its service.",
+      "published": "2026-09-28T18:06:48+00:00",
+      "fetched": "2026-09-28T22:40:14.375395+00:00"
+    },
+    {
+      "id": "b900934de971fce1",
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Almost half of the stocks in the S P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
+      "published": "2026-09-28T17:53:31+00:00",
+      "fetched": "2026-09-28T22:40:12.311187+00:00"
+    },
+    {
+      "id": "d619c31d4f4a443a",
+      "title": "UBEC to commence full implementation of 10-year education roadmap in October",
+      "link": "https://nairametrics.com/2026/09/28/ubec-to-commence-full-implementation-of-10-year-education-roadmap-in-october/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Universal Basic Education Commission (UBEC) will commence full implementation of its 10-Year Universal Basic Education (UBE) Roadmap, covering 2026–2035, in the first week of October. The post UBEC to commence full implementation of 10-year education roadmap in October appeared first on Nairametrics .",
+      "published": "2026-09-28T17:37:30+00:00",
+      "fetched": "2026-09-28T22:40:13.377898+00:00"
+    },
+    {
+      "id": "01d30d6b187a6cb7",
+      "title": "How Nigeria’s overlapping data rules affect fintechs and banks",
+      "link": "https://techcabal.com/2026/09/28/how-nigerias-overlapping-data-rules-affect-fintechs-and-banks/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria’s push to localise financial data could boost local cloud infrastructure, but overlapping CBN and NITDA rules risk creating a complex compliance challenge for banks, fintechs and cloud providers.",
+      "published": "2026-09-28T15:45:56+00:00",
+      "fetched": "2026-09-28T22:40:14.375439+00:00"
+    },
+    {
+      "id": "d9c29f88010db2b6",
+      "title": "What the CBN MPR at 23% means for investments in bonds, mutual funds and pension funds",
+      "link": "https://nairametrics.com/2026/09/28/what-the-cbn-mpr-at-23-means-for-investments-in-bonds-mutual-funds-and-pension-funds/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria's decision to cut its Monetary Policy Rate (MPR) to 23% marks a major shift in the country’s interest-rate environment, with implications for bond prices, mutual funds, pension portfolios and investors whose returns are linked to fixed-income and equity markets. The post What the CBN MPR at 23% means for investments in bonds, mutual funds and pension funds appeared first on Nairametrics .",
+      "published": "2026-09-28T15:43:44+00:00",
+      "fetched": "2026-09-28T22:40:13.377963+00:00"
+    },
+    {
+      "id": "5013ceabc3d03af1",
+      "title": "Building African-language AI is easier than finding the data",
+      "link": "https://techcabal.com/2026/09/28/africa-ai-models-data-training-gap/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The shortage of African-language text data threatens to limit the development of AI tools that reflect the continent’s linguistic diversity.",
+      "published": "2026-09-28T15:03:36+00:00",
+      "fetched": "2026-09-28T22:40:14.375470+00:00"
+    },
+    {
+      "id": "03537a5726f17bb4",
+      "title": "Coremars Asset Management Limited Launches ₦1 Billion Money Market Fund, Expanding Access to Professional Investment Management",
+      "link": "https://nairametrics.com/2026/09/28/coremars-asset-management-limited-launches-%e2%82%a61-billion-money-market-fund-expanding-access-to-professional-investment-management/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Coremars Asset Management Limited has announced the launch of its first mutual fund, the Coremars Money Market Fund, with an offer size of ₦1 billion, marking a significant milestone in the company’s evolution and its ambition to build a broader investment management platform in Nigeria. The launch follows regulatory approval from the Securities and Exchange [ ] The post Coremars Asset Management Limited Launches ₦1 Billion Money Market Fund, Expanding Access to Professional Investment Management appeared first on Nairametrics .",
+      "published": "2026-09-28T14:59:57+00:00",
+      "fetched": "2026-09-28T22:40:13.378030+00:00"
+    },
+    {
+      "id": "88cb0b2a0d49fba8",
+      "title": "Credit Guarantee Scheme unlocks N46.95bn in loans, Tinubu says",
+      "link": "https://nairametrics.com/2026/09/28/ncgc-unlocks-n46-95-billion-in-loans-through-n21-59-billion-guarantees-tinubu-says/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu has revealed that the National Credit Guarantee Company (NCGC), through 19 financial institutions, has helped unlock N46.95 billion in loans during its first year of operations. The post Credit Guarantee Scheme unlocks N46.95bn in loans, Tinubu says appeared first on Nairametrics .",
+      "published": "2026-09-28T14:55:19+00:00",
+      "fetched": "2026-09-28T22:40:13.378076+00:00"
+    },
+    {
+      "id": "5e2fec2a3decd022",
+      "title": "Class of 2016: What surviving a decade actually requires",
+      "link": "https://techcabal.com/2026/09/28/class-of-2016/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "If the past decade has taught us anything, it is that Africa's tech ecosystem's most important asset is accumulated experience.",
+      "published": "2026-09-28T14:54:03+00:00",
+      "fetched": "2026-09-28T22:40:14.375497+00:00"
+    },
+    {
+      "id": "e6b5d948a2857e52",
+      "title": "TotalEnergies plans 5% annual dividend growth through 2030",
+      "link": "https://nairametrics.com/2026/09/28/totalenergies-plans-5-annual-dividend-growth-through-2030/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "TotalEnergies SE, the global energy group, plans to increase its dividend by more than 5% annually through 2030 as it targets higher energy production and free cash flow over the period. The post TotalEnergies plans 5% annual dividend growth through 2030 appeared first on Nairametrics .",
+      "published": "2026-09-28T14:36:47+00:00",
+      "fetched": "2026-09-28T22:40:13.378116+00:00"
+    },
+    {
+      "id": "8d2c324925a3ced3",
+      "title": "JAMB restores CAPS, urges institutions to speed up 2026/2027 admissions",
+      "link": "https://nairametrics.com/2026/09/28/jamb-restores-caps-urges-institutions-to-speed-up-2026-2027-admissions/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Joint Admissions and Matriculation Board (JAMB) has announced the full restoration of its Central Admissions Processing System (CAPS) following a temporary disruption that affected the platform. The post JAMB restores CAPS, urges institutions to speed up 2026/2027 admissions appeared first on Nairametrics .",
+      "published": "2026-09-28T14:35:42+00:00",
+      "fetched": "2026-09-28T22:40:13.378155+00:00"
+    },
+    {
+      "id": "3b524d78e5bae09d",
+      "title": "After USAID: who will finance Africa’s healthcare future?",
+      "link": "https://nairametrics.com/2026/09/28/after-usaid-who-will-finance-africas-healthcare-future/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa’s healthcare systems have historically relied on government funding, philanthropy and external development funding. But as governments The post After USAID: who will finance Africa’s healthcare future? appeared first on Nairametrics .",
+      "published": "2026-09-28T14:29:49+00:00",
+      "fetched": "2026-09-28T22:40:13.378193+00:00"
+    },
+    {
+      "id": "c8d555e63eac1c8a",
+      "title": "OPay dominates Nigerian smartphones as fintech apps outpace banks",
+      "link": "https://nairametrics.com/2026/09/28/opay-dominates-nigerian-smartphones-as-fintech-apps-outpace-banks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Fintech applications are gaining a stronger presence on Nigerian smartphones than individual traditional bank apps, with OPay leading the way, according to a new study by KPMG and Orange Group Nigeria. The post OPay dominates Nigerian smartphones as fintech apps outpace banks appeared first on Nairametrics .",
+      "published": "2026-09-28T14:22:51+00:00",
+      "fetched": "2026-09-28T22:40:13.378233+00:00"
+    },
+    {
+      "id": "136e5a53dac2aef8",
+      "title": "Tomato Jos secures $2.5 million investment to expand tomato production in Nigeria",
+      "link": "https://nairametrics.com/2026/09/28/tomato-jos-secures-2-5-million-investment-to-expand-tomato-production-in-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The EU-funded Agriculture Financing Initiative (AgriFI) has invested $2.5 million in Tomato Jos Inc. to expand climate-smart tomato production and processing in northern Nigeria. The post Tomato Jos secures $2.5 million investment to expand tomato production in Nigeria appeared first on Nairametrics .",
+      "published": "2026-09-28T14:16:16+00:00",
+      "fetched": "2026-09-28T22:40:13.378271+00:00"
+    },
+    {
+      "id": "712b308d6e57725a",
+      "title": "Apexpay rides Nigeria’s crypto boom to make crypto spendable",
+      "link": "https://nairametrics.com/2026/09/28/apexpay-rides-nigerias-crypto-boom-to-make-crypto-spendable/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria has sat near the top of global crypto rankings for years. This year, it moved to the front on the measure that says the most about how people actually use digital assets. Nigeria now leads the world in P2P crypto trading Blockchain analytics firm Chainalysis released its 2026 Global Crypto Adoption Index on 23 [ ] The post Apexpay rides Nigeria s crypto boom to make crypto spendable appeared first on Nairametrics .",
+      "published": "2026-09-28T14:02:07+00:00",
+      "fetched": "2026-09-28T22:40:13.378327+00:00"
+    },
+    {
+      "id": "dc05034ed6aaf067",
+      "title": "Nigeria’s trillion-dollar economy is running on generators",
+      "link": "https://nairametrics.com/2026/09/28/nigerias-trillion-dollar-economy-is-running-on-generators/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ask how Nigeria’s power problem is going, and you will be handed a number: the megawatts the country generated last week, last month, last year. It is the wrong number to watch. The revealing figure is not how much electricity Nigeria produces, but how much its people pay to avoid needing the grid at all.",
+      "published": "2026-09-28T13:50:24+00:00",
+      "fetched": "2026-09-28T22:40:13.378388+00:00"
+    },
+    {
+      "id": "97c6dab4f9d26d83",
+      "title": "Dangote Refinery IPO surpassed MTN, GTCO digital records in one day – Chapel Hill",
+      "link": "https://nairametrics.com/2026/09/28/dangote-refinery-ipo-surpassed-mtn-gtco-digital-records-in-one-day-chapel-hill/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The ongoing Initial Public Offer (IPO) of Dangote Petroleum Refinery has surpassed the digital subscription levels achieved by the public offers of MTN Nigeria and GTCO within its first day, according to Chapel Hill Denham. The post Dangote Refinery IPO surpassed MTN, GTCO digital records in one day – Chapel Hill appeared first on Nairametrics .",
+      "published": "2026-09-28T13:22:18+00:00",
+      "fetched": "2026-09-28T22:40:13.378439+00:00"
+    },
+    {
+      "id": "aaf7b48250d65e58",
+      "title": "Zeta Brent Education to host international schools fair in Lagos",
+      "link": "https://nairametrics.com/2026/09/28/zeta-brent-education-to-host-international-schools-fair-in-lagos/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Zeta Brent Education (ZBE), an international education advisory firm, will bring representatives from international schools, sixth-form colleges and pathway providers into direct contact with Nigerian students and parents this October, as part of a programme designed to help families navigate an increasingly crowded field of international study options. The 2026 International Education Future Pathways [ ] The post Zeta Brent Education to host international schools fair in Lagos appeared first on Nairametrics .",
+      "published": "2026-09-28T13:14:52+00:00",
+      "fetched": "2026-09-28T22:40:13.378495+00:00"
+    },
+    {
+      "id": "e9896bc00c180913",
+      "title": "The Quiet Digital Revolution Reshaping Nigeria’s Capital Market",
+      "link": "https://nairametrics.com/2026/09/28/the-quiet-digital-revolution-reshaping-nigerias-capital-market/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "As Nigerians subscribe to the Dangote Refinery offer from their smart devices, the systems connecting them to the capital market are facing one of their biggest tests yet. At about 9:15am on 14 September 2026, Tosin Onisuuru, a Lagos-based entrepreneur, opened the NGX Invest website and subscribed for shares in the Dangote Petroleum Refinery and [ ] The post The Quiet Digital Revolution Reshaping Nigeria s Capital Market appeared first on Nairametrics .",
+      "published": "2026-09-28T13:12:28+00:00",
+      "fetched": "2026-09-28T22:40:13.378569+00:00"
+    },
+    {
+      "id": "e098b19c7581949a",
+      "title": "FG’s securitised Ways and Means debt drops N613 billion as moratorium ends",
+      "link": "https://nairametrics.com/2026/09/28/fgs-securitised-ways-and-means-debt-drops-n613-billion-as-moratorium-ends/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government’s securitised Ways and Means debt declined by N613.34 billion in the second quarter of 2026, marking its first recorded reduction since the obligation was added to Nigeria’s public debt stock in 2023. The post FG’s securitised Ways and Means debt drops N613 billion as moratorium ends appeared first on Nairametrics .",
+      "published": "2026-09-28T13:11:47+00:00",
+      "fetched": "2026-09-28T22:40:13.378622+00:00"
+    },
+    {
+      "id": "184e7d7a9518410e",
+      "title": "CBN policy buffers keep Naira-Dollar mid-term outlook stable",
+      "link": "https://nairametrics.com/2026/09/28/cbn-policy-buffers-keep-naira-dollar-mid-term-outlook-stable/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The official interbank/NAFEM market has remained relatively stable in the aftermath of previous structural shocks and aggressive peso devaluation. The large reserve buffer is preventing the sharp downward spirals seen in earlier quarters. The post CBN policy buffers keep Naira-Dollar mid-term outlook stable appeared first on Nairametrics .",
+      "published": "2026-09-28T12:58:39+00:00",
+      "fetched": "2026-09-28T22:40:13.378664+00:00"
+    },
+    {
+      "id": "4ae7d2311a04eed3",
+      "title": "Nigerian Navy announces 2026 Batch 39 recruitment, sets October 31 deadline",
+      "link": "https://nairametrics.com/2026/09/28/nigerian-navy-announces-2026-batch-39-recruitment-sets-october-31-deadline/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Navy has announced recruitment for the 2026 Batch 39 Basic Training School, with applications scheduled to open on October 2 and close on October 31, 2026. The post Nigerian Navy announces 2026 Batch 39 recruitment, sets October 31 deadline appeared first on Nairametrics .",
+      "published": "2026-09-28T12:57:51+00:00",
+      "fetched": "2026-09-28T22:40:13.378702+00:00"
+    },
     {
       "id": "16742574ae1c916d",
       "title": "The history of this market’s bad-breadth signal points to risks ahead",
@@ -1162,346 +1502,6 @@
       "summary": "The company selected 24 fellows from more than 600 applicants across Côte d'Ivoire, Ghana, Zambia, Senegal, Ethiopia, and Mozambique.",
       "published": "2026-09-25T10:14:16+00:00",
       "fetched": "2026-09-25T10:38:30.189203+00:00"
-    },
-    {
-      "id": "42051bbe6fb56828",
-      "title": "Lagos, Rivers, Enugu lead as Nigeria’s IGR to N5.15 trillion in 2025",
-      "link": "https://nairametrics.com/2026/09/25/lagos-rivers-enugu-lead-as-nigerias-igr-to-n5-15-trillion-in-2025/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s subnational governments generated a combined N5.15 trillion in Internally Generated Revenue (IGR) in 2025, representing a 40.93% increase from the N3.65 trillion recorded in 2024. The post Lagos, Rivers, Enugu lead as Nigeria’s IGR to N5.15 trillion in 2025 appeared first on Nairametrics .",
-      "published": "2026-09-25T10:04:17+00:00",
-      "fetched": "2026-09-25T10:38:29.355982+00:00"
-    },
-    {
-      "id": "641e384b6cb53917",
-      "title": "Presco, Okomu rank among NGX’s top compounders after 62x and 42x returns",
-      "link": "https://nairametrics.com/2026/09/25/presco-okomu-rank-among-ngxs-top-compounders-after-62x-and-42x-returns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "If you invested N1 million each in Presco Plc and Okomu Oil Palm Plc a little over ten years ago, those investments would be worth approximately N61.98 million and N42.12 million, respectively, today. The post Presco, Okomu rank among NGX s top compounders after 62x and 42x returns appeared first on Nairametrics .",
-      "published": "2026-09-25T09:50:26+00:00",
-      "fetched": "2026-09-25T10:38:29.356029+00:00"
-    },
-    {
-      "id": "11b51244af3d6566",
-      "title": "Larry Yon: Why Africa’s tech ecosystem should be building the next NVIDIA",
-      "link": "https://techcabal.com/2026/09/25/larry-yon-africa-digital-trust-diaspora-investment/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "From a failed venture in South Africa to co-founding an AI cybersecurity powerhouse, CyberAlliance president Larry Yon II sits down with PHATHISANI MOYO for Coffee With… to explain why digital trust and diaspora capital are key to unlocking Africa’s true tech potential. The first time Larry Yon II flew out of South Africa, he sat [ ]",
-      "published": "2026-09-25T09:12:22+00:00",
-      "fetched": "2026-09-25T10:38:30.189270+00:00"
-    },
-    {
-      "id": "d18407239aee5c97",
-      "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
-      "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Just days after a capital-markets day left investors wondering what’s next for Novo Nordisk, the Danish drug giant struck a licensing deal worth over $1 billion.",
-      "published": "2026-09-25T09:11:00+00:00",
-      "fetched": "2026-09-25T10:38:28.756131+00:00"
-    },
-    {
-      "id": "717bee01feed2009",
-      "title": "AI borrowing pushes long-term bond yields to 15-year highs",
-      "link": "https://nairametrics.com/2026/09/25/ai-borrowing-pushes-long-term-bond-yields-to-15-year-highs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Long-term bond yields have risen to their highest levels in 15 years or more across most major advanced economies, with heavy borrowing by artificial intelligence companies emerging as one of the factors putting upward pressure on borrowing costs. The post AI borrowing pushes long-term bond yields to 15-year highs appeared first on Nairametrics .",
-      "published": "2026-09-25T09:03:14+00:00",
-      "fetched": "2026-09-25T10:38:29.356069+00:00"
-    },
-    {
-      "id": "dcb1b1f0149e8df0",
-      "title": "The low-key California property portfolio of ‘Wednesday’ star Jenna Ortega",
-      "link": "https://www.marketwatch.com/story/the-low-key-california-property-portfolio-of-wednesday-star-jenna-ortega-1e0c80cb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Wednesday” star Jenna Ortega may be one of Hollywood’s most recognizable young actresses, but when it comes to real estate, she has kept a relatively low profile.",
-      "published": "2026-09-25T09:01:00+00:00",
-      "fetched": "2026-09-25T10:38:28.756199+00:00"
-    },
-    {
-      "id": "f943b4e3f291ebe2",
-      "title": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
-      "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Akamai has agreed to supply cloud computing services to Anthropic.",
-      "published": "2026-09-25T08:42:00+00:00",
-      "fetched": "2026-09-25T10:38:28.756241+00:00"
-    },
-    {
-      "id": "8205dc33b84b5c88",
-      "title": "Sterling Financial repositions share structure to support growth strategy",
-      "link": "https://nairametrics.com/2026/09/25/sterling-financial-repositions-share-structure-to-support-growth-strategy/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Sterling Financial Holdings Company Plc (“Sterling Financial” or “the Group”) has commenced its approved share capital reconstruction, consolidating every ten existing ordinary shares into one new ordinary share. The post Sterling Financial repositions share structure to support growth strategy appeared first on Nairametrics .",
-      "published": "2026-09-25T08:40:32+00:00",
-      "fetched": "2026-09-25T15:59:26.761022+00:00"
-    },
-    {
-      "id": "333ab26a200da335",
-      "title": "Peter Obi rejects $123.77 million debt claim, challenges Anambra government",
-      "link": "https://nairametrics.com/2026/09/25/peter-obi-rejects-123-77-million-debt-claim-challenges-anambra-government/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Former Anambra State Governor Peter Obi has rejected claims that he left $123.77 million in debt when he handed over power in March 2014. The post Peter Obi rejects $123.77 million debt claim, challenges Anambra government appeared first on Nairametrics .",
-      "published": "2026-09-25T08:36:25+00:00",
-      "fetched": "2026-09-25T10:38:29.356104+00:00"
-    },
-    {
-      "id": "6ce411021bc86248",
-      "title": "What happens when a PoS terminal becomes an investment outlet?",
-      "link": "https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "This is the story of a terminal that wants to be more than a cash-collection machine.",
-      "published": "2026-09-25T08:09:24+00:00",
-      "fetched": "2026-09-25T10:38:30.189296+00:00"
-    },
-    {
-      "id": "f503a7b54b1c1062",
-      "title": "MOWAA publishes 2025 audited accounts and reaffirms commitment to transparency and collaboration",
-      "link": "https://nairametrics.com/2026/09/25/mowaa-publishes-2025-audited-accounts-and-reaffirms-commitment-to-transparency-and-collaboration/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Following the completion of its 2025 audit, and in light of recent public statements concerning the cost of the MOWAA Institute and the extent of the Edo State Government s support, the Museum of West African Art (MOWAA) has published its full 2025 annual report and audited financial statements, together with supporting information on what has [ ] The post MOWAA publishes 2025 audited accounts and reaffirms commitment to transparency and collaboration appeared first on Nairametrics .",
-      "published": "2026-09-25T07:21:57+00:00",
-      "fetched": "2026-09-25T10:38:29.356154+00:00"
-    },
-    {
-      "id": "3c721721a7b94095",
-      "title": "Listed consumer goods firms pay N70.1 billion in royalties, fees in H1 2026",
-      "link": "https://nairametrics.com/2026/09/25/listed-consumer-goods-firms-pay-n70-1-billion-in-royalties-fees-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Eight listed consumer goods companies recorded a combined N70.1 billion in royalties, technical fees, licence fees and management charges in H1 2026, based on their financial statement disclosures. The post Listed consumer goods firms pay N70.1 billion in royalties, fees in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-09-25T07:02:41+00:00",
-      "fetched": "2026-09-25T10:38:29.356193+00:00"
-    },
-    {
-      "id": "e81c6525666bcb85",
-      "title": "MDGIF leverages N671 billion public funds to attract N1.6 trillion private gas investment",
-      "link": "https://nairametrics.com/2026/09/25/mdgif-leverages-n671-billion-public-funds-to-attract-n1-6-trillion-private-gas-investment/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Midstream and Downstream Gas Infrastructure Fund (MDGIF) says it has leveraged N671 billion in public funds to attract N1.6 trillion in private investment into gas infrastructure projects across Nigeria. The post MDGIF leverages N671 billion public funds to attract N1.6 trillion private gas investment appeared first on Nairametrics .",
-      "published": "2026-09-25T06:49:10+00:00",
-      "fetched": "2026-09-25T10:38:29.356232+00:00"
-    },
-    {
-      "id": "8b0817cb6aad53e6",
-      "title": "Seplat hits all-time high, surges to N16,000 per share",
-      "link": "https://nairametrics.com/2026/09/25/seplat-hits-all-time-high-surges-to-n16000-per-share/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Seplat Energy Plc shares have climbed to an all-time high of N16,000 per share on the Nigerian Exchange Limited (NGX), extending a sharp rally that has seen the stock surge by 175.44% year-to-date. The post Seplat hits all-time high, surges to N16,000 per share appeared first on Nairametrics .",
-      "published": "2026-09-25T06:37:32+00:00",
-      "fetched": "2026-09-25T10:38:29.356268+00:00"
-    },
-    {
-      "id": "6c7e50bb934db0fe",
-      "title": "Here's who attended the Trump-Xi state dinner",
-      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-      "published": "2026-09-25T06:30:06+00:00",
-      "fetched": "2026-09-25T10:38:28.964384+00:00"
-    },
-    {
-      "id": "ad4249b792e70da2",
-      "title": "NAICOM shifts focus to claims, technology and growth after insurance recapitalisation",
-      "link": "https://nairametrics.com/2026/09/25/naicom-shifts-focus-to-claims-technology-and-growth-after-insurance-recapitalisation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Insurance Commission (NAICOM) has urged insurance operators to shift their focus from the amount of capital raised during the industry's recapitalisation exercise to the value that capital can create through stronger underwriting, improved claims settlement, innovation, and enhanced customer service. The post NAICOM shifts focus to claims, technology and growth after insurance recapitalisation appeared first on Nairametrics .",
-      "published": "2026-09-25T06:30:05+00:00",
-      "fetched": "2026-09-25T10:38:29.356311+00:00"
-    },
-    {
-      "id": "be7f45109b7a687a",
-      "title": "UAC Nigeria to sell 43% stake in DP World Logistics to TGI Group",
-      "link": "https://nairametrics.com/2026/09/25/uac-nigeria-to-sell-43-stake-in-dp-world-logistics-to-tgi-group/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "UAC of Nigeria Plc has agreed to sell its 43% shareholding in DP World Logistics Limited (formerly MDS Logistics Limited) to 22 Plus Invest Limited, a member of the Tropical General Investments (TGI) Group. The post UAC Nigeria to sell 43% stake in DP World Logistics to TGI Group appeared first on Nairametrics .",
-      "published": "2026-09-25T06:18:48+00:00",
-      "fetched": "2026-09-25T10:38:29.356349+00:00"
-    },
-    {
-      "id": "7886b825ce1ce71a",
-      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-      "link": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "",
-      "published": "2026-09-25T06:13:35+00:00",
-      "fetched": "2026-09-25T10:38:28.964344+00:00"
-    },
-    {
-      "id": "feb18cb7ea911b25",
-      "title": "Coronation Insurance targets larger insurance risks after N9.2 billion additional capital boost",
-      "link": "https://nairametrics.com/2026/09/25/coronation-insurance-targets-larger-insurance-risks-after-n9-2-billion-additional-capital-boost/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Coronation Insurance Plc said it is targeting larger insurance risks after raising N9.2 billion in additional capital during the insurance sector recapitalisation exercise. The post Coronation Insurance targets larger insurance risks after N9.2 billion additional capital boost appeared first on Nairametrics .",
-      "published": "2026-09-25T06:09:40+00:00",
-      "fetched": "2026-09-25T10:38:29.356384+00:00"
-    },
-    {
-      "id": "5dd51fa6e2a4cd9f",
-      "title": "Nigeria demands 2 permanent UN Security Council seats for Africa with veto powers",
-      "link": "https://nairametrics.com/2026/09/25/nigeria-demands-2-permanent-un-security-council-seats-for-africa-with-veto-powers/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria has demanded at least two permanent seats for Africa on the United Nations Security Council, with veto powers for as long as the privilege exists. The post Nigeria demands 2 permanent UN Security Council seats for Africa with veto powers appeared first on Nairametrics .",
-      "published": "2026-09-25T05:57:19+00:00",
-      "fetched": "2026-09-25T10:38:29.356419+00:00"
-    },
-    {
-      "id": "a907676462660673",
-      "title": "👨🏿‍🚀TechCabal Daily – Egypt’s biggest data grab",
-      "link": "https://techcabal.com/2026/09/25/techcabal-daily-egypts-biggest-data-grab/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: South Africa wants automated VAT Egypt wants real-time loan data Egypt holds interest rate at 19% Who secured the bag? 💰",
-      "published": "2026-09-25T05:56:12+00:00",
-      "fetched": "2026-09-25T10:38:30.189334+00:00"
-    },
-    {
-      "id": "41253dc954ac6454",
-      "title": "NIGCOMSAT rejects allegations of satellite procurement irregularities, threatens legal action",
-      "link": "https://nairametrics.com/2026/09/25/nigcomsat-rejects-allegations-of-satellite-procurement-irregularities-threatens-legal-action/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Communications Satellite Limited (NIGCOMSAT) has rejected allegations of irregularities in the concluded procurement process for the NIGCOMSAT-2A and NIGCOMSAT-2B satellite programme, describing the claims as false and misleading. The post NIGCOMSAT rejects allegations of satellite procurement irregularities, threatens legal action appeared first on Nairametrics .",
-      "published": "2026-09-25T05:44:00+00:00",
-      "fetched": "2026-09-25T10:38:29.356459+00:00"
-    },
-    {
-      "id": "d3e828505ecb4695",
-      "title": "Ghana’s reserves fall $1.9 billion to $11.07 billion despite strong gold export earnings",
-      "link": "https://nairametrics.com/2026/09/25/ghanas-reserves-fall-1-9-billion-to-11-07-billion-despite-strong-gold-export-earnings/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has commissioned a 581kWp interconnected solar mini-grid with a 1.4MW battery storage system in Oke-Oyi Community, Ilorin East Local Government Area of Kwara State. The post Ghana’s reserves fall $1.9 billion to $11.07 billion despite strong gold export earnings appeared first on Nairametrics .",
-      "published": "2026-09-25T05:32:17+00:00",
-      "fetched": "2026-09-25T10:38:29.356505+00:00"
-    },
-    {
-      "id": "36794384cae832b4",
-      "title": "NIPCO plans over $3 billion FLNG project to boost Nigeria’s gas monetisation",
-      "link": "https://nairametrics.com/2026/09/25/nipco-plans-over-3-billion-flng-project-to-boost-nigerias-gas-monetisation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "NIPCO Group plans to develop a Floating Liquefied Natural Gas (FLNG) project estimated at more than $3 billion to boost gas monetisation and supply in Nigeria. The post NIPCO plans over $3 billion FLNG project to boost Nigeria’s gas monetisation appeared first on Nairametrics .",
-      "published": "2026-09-25T04:58:03+00:00",
-      "fetched": "2026-09-25T10:38:29.356561+00:00"
-    },
-    {
-      "id": "6c2d0654cdcb42d9",
-      "title": "China's Xi urges U.S. to cooperate on AI",
-      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-      "published": "2026-09-25T01:22:17+00:00",
-      "fetched": "2026-09-25T02:04:11.302304+00:00"
-    },
-    {
-      "id": "b329fd2eff95c717",
-      "title": "Here's who is attending the Trump-Xi state dinner",
-      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-      "published": "2026-09-25T01:02:40+00:00",
-      "fetched": "2026-09-25T02:04:11.302329+00:00"
-    },
-    {
-      "id": "c65eb40036214696",
-      "title": "The S&P 500’s newest tech stock is now its best performer",
-      "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Shares of data-storage company Everpure were leading S P 500 gainers on Thursday.",
-      "published": "2026-09-24T23:26:00+00:00",
-      "fetched": "2026-09-25T02:04:11.107220+00:00"
-    },
-    {
-      "id": "74bb1c6edaee33e3",
-      "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
-      "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Tariff refunds helped deliver a profit beat during Costco’s fourth quarter.",
-      "published": "2026-09-24T23:23:00+00:00",
-      "fetched": "2026-09-25T02:04:11.107251+00:00"
-    },
-    {
-      "id": "d7386d08c3555283",
-      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.",
-      "published": "2026-09-24T21:23:00+00:00",
-      "fetched": "2026-09-25T02:04:11.107299+00:00"
-    },
-    {
-      "id": "bac6720513389f97",
-      "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-      "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There’s still room for AI hardware stocks to rise, but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
-      "published": "2026-09-24T20:50:00+00:00",
-      "fetched": "2026-09-25T02:04:11.107325+00:00"
-    },
-    {
-      "id": "fec687c86bda3d9f",
-      "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
-      "link": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The 400 richest Americans would collectively have performed better over the past 12 months had they invested their net worths in an S P 500 index fund.",
-      "published": "2026-09-24T20:20:00+00:00",
-      "fetched": "2026-09-24T20:50:16.306549+00:00"
-    },
-    {
-      "id": "662c35ea6c914b9b",
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A recent report noted that Oracle is looking to protect itself from paying some expenses if a high-profile data-center project gets delayed.",
-      "published": "2026-09-24T20:12:00+00:00",
-      "fetched": "2026-09-24T20:50:16.306591+00:00"
-    },
-    {
-      "id": "e79af040c16ac94a",
-      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
-      "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Inflation pressures have been so persistent this year in part because businesses have been able to pass along higher prices to consumers.",
-      "published": "2026-09-24T19:42:00+00:00",
-      "fetched": "2026-09-24T20:50:16.306619+00:00"
-    },
-    {
-      "id": "5190a25dc8f1a688",
-      "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“We are relying on our church for our current needs.”",
-      "published": "2026-09-24T19:40:00+00:00",
-      "fetched": "2026-09-24T20:50:16.306646+00:00"
     }
   ]
 }

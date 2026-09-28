@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-28T12:06:30.837316+00:00",
+  "updated": "2026-09-28T22:40:31.901210+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "20b621764feb8462",
+      "title": "Pressurized experiments could help wind farms generate more power",
+      "link": "https://news.mit.edu/2026/pressurized-experiments-could-help-wind-farms-generate-more-power-0928",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new way of simulating wind turbines in the field shows how tweaking turbine operation could unlock tens of thousands of dollars per turbine every year.",
+      "published": "2026-09-28T15:00:00+00:00",
+      "fetched": "2026-09-28T22:40:31.001695+00:00"
+    },
     {
       "id": "1a440ac355011331",
       "title": "Read the CIA’s Manual of Trickery and Deception, Written by a Professional Stage Magician",
@@ -1492,16 +1502,6 @@
       "summary": "A new book coauthored by Professor Amos Winter asserts that, to solve major challenges and deliver products of value to consumers in both developed and emerging markets, innovators must think and act globally.",
       "published": "2026-08-19T17:15:00+00:00",
       "fetched": "2026-08-19T18:14:41.779084+00:00"
-    },
-    {
-      "id": "70f783d461ce0e4f",
-      "title": "Flipping the script on biology education, and scaling it up",
-      "link": "https://news.mit.edu/2026/flipping-script-on-biology-education-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Using a modular kit, the MIT Edgerton Center is bringing a hands-on biology curriculum to Massachusetts’ second-largest school district.",
-      "published": "2026-08-19T15:20:00+00:00",
-      "fetched": "2026-08-19T18:14:41.779110+00:00"
     }
   ]
 }
