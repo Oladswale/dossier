@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-09-29T02:53:45.984826+00:00",
+  "updated": "2026-09-29T11:39:20.253465+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9ce273df6915f625",
+      "title": "Mick Jagger Tells the Story Behind ‘Gimme Shelter’ and Merry Clayton’s Haunting Background Vocals",
+      "link": "https://www.openculture.com/2026/09/mick-jagger-tells-the-story-behind-gimme-shelter-and-merry-claytons-haunting-background-vocals.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In the fall of 1969 the Rolling Stones were in a Los Angeles recording studio, putting the final touches on their album Let It Bleed. It was a tumultuous time for the Stones. They had been struggling with the album for the better part of a year as they dealt with the personal disintegration of their [ ]",
+      "published": "2026-09-29T08:00:27+00:00",
+      "fetched": "2026-09-29T11:39:20.253311+00:00"
+    },
+    {
+      "id": "db4dc226a877d2fd",
+      "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
+      "link": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots.",
+      "published": "2026-09-29T04:00:00+00:00",
+      "fetched": "2026-09-29T11:39:19.403157+00:00"
+    },
+    {
+      "id": "cfc5af03843f258c",
+      "title": "The effects of an “algorithmic monoculture” depend on the details",
+      "link": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+      "published": "2026-09-29T04:00:00+00:00",
+      "fetched": "2026-09-29T11:39:19.403187+00:00"
+    },
+    {
+      "id": "8cf5b9ff13d4c4a5",
+      "title": "Who we become when we talk to machines",
+      "link": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
+      "published": "2026-09-29T04:00:00+00:00",
+      "fetched": "2026-09-29T11:39:19.403210+00:00"
+    },
     {
       "id": "20b621764feb8462",
       "title": "Pressurized experiments could help wind farms generate more power",
@@ -1462,46 +1502,6 @@
       "summary": "Harlem’s undergoing another Renaissance, and has been for years now. Crime’s down, real estate prices are up, and throngs of pale-faced hipsters are descending to check the area out. Sure, something’s gained, but something’s lost, too.",
       "published": "2026-08-20T08:00:49+00:00",
       "fetched": "2026-08-20T12:19:57.834358+00:00"
-    },
-    {
-      "id": "16d28a458c07f643",
-      "title": "MIT engineers design a better controller for operating construction diggers",
-      "link": "https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The new, more intuitive system could speed up the training process for excavator operators.",
-      "published": "2026-08-20T04:00:00+00:00",
-      "fetched": "2026-08-20T06:21:46.979676+00:00"
-    },
-    {
-      "id": "bc65b06f9ee2b9aa",
-      "title": "The game’s the thing",
-      "link": "https://news.mit.edu/2026/games-the-thing-kayode-dada-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT senior Kayode Dada has a passion for designing games, and a penchant for building community.",
-      "published": "2026-08-19T18:35:00+00:00",
-      "fetched": "2026-08-20T00:27:59.245488+00:00"
-    },
-    {
-      "id": "9d2c500b52378933",
-      "title": "How the Toxoplasma parasite adapts to crowded conditions in host cells",
-      "link": "https://news.mit.edu/2026/how-toxoplasma-parasite-adapts-to-crowded-host-cell-conditions-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new study by Whitehead Institute researchers identifies how the widespread parasite Toxoplasma gondii survives in crowded environments in infected cells, which helps it persist in long-lasting brain cysts.",
-      "published": "2026-08-19T17:50:00+00:00",
-      "fetched": "2026-08-19T18:14:41.779051+00:00"
-    },
-    {
-      "id": "aea5a6938e161689",
-      "title": "Creating innovations that scale across borders",
-      "link": "https://news.mit.edu/2026/global-design-creating-innovations-that-scale-across-borders-0819",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new book coauthored by Professor Amos Winter asserts that, to solve major challenges and deliver products of value to consumers in both developed and emerging markets, innovators must think and act globally.",
-      "published": "2026-08-19T17:15:00+00:00",
-      "fetched": "2026-08-19T18:14:41.779084+00:00"
     }
   ]
 }

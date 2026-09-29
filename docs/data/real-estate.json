@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-29T02:53:46.834811+00:00",
+  "updated": "2026-09-29T11:39:20.792561+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8c8615ef7532b3d2",
+      "title": "The Path to 8% Mortgage Rates",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-464",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "8% mortgage rates are now on the table, and unfortunately, that’s not even the high end of estimates for where we’re going next. With bond yields hitting 20-year peaks and [ ]",
+      "published": "2026-09-29T11:00:03+00:00",
+      "fetched": "2026-09-29T11:39:20.507261+00:00"
+    },
+    {
+      "id": "0be4fb1400759d9b",
+      "title": "Why Miami Is Flunking Homebuilding and Affordability While the Rest of Florida Booms",
+      "link": "https://www.realtor.com/news/trends/homebuilding-affordability-miami-florida-2026-report-card/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Constrained by geography and driven by global wealth, Miami has become Florida's sole failing housing market.",
+      "published": "2026-09-29T09:00:00+00:00",
+      "fetched": "2026-09-29T11:39:20.792160+00:00"
+    },
+    {
+      "id": "08dea021c748ce4c",
+      "title": "Where Deed Fraud Protections Are Strongest—and Where They Fall Short",
+      "link": "https://www.realtor.com/news/trends/deed-fraud-laws-by-state-homeowner-protections/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Older homeowners could pass down $10.2 trillion in 10 states, but nearly half sits outside the strongest deed fraud protections.",
+      "published": "2026-09-29T08:32:00+00:00",
+      "fetched": "2026-09-29T11:39:20.792186+00:00"
+    },
+    {
+      "id": "9909e0da493b8244",
+      "title": "Bel-Air’s Lavish Megamansion ‘La Fin’ Slashes Price to $99.95 Million—and Still Takes Crypto",
+      "link": "https://www.realtor.com/news/unique-homes/bel-air-megamansion-la-fin-slashes-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The L.A. megamansion gets a major $40 million trim—and it features a vodka tasting room, panic room, and crypto payment options.",
+      "published": "2026-09-29T08:04:00+00:00",
+      "fetched": "2026-09-29T11:39:20.792213+00:00"
+    },
     {
       "id": "18a5d21ebb4a0d64",
       "title": "10 Million Seniors Live in Poverty—Even as They Hold Trillions in Housing Wealth",
@@ -1462,46 +1502,6 @@
       "summary": "Inside “Wednesday” star Jenna Ortega’s low-key property portfolio, from her longtime California family home to her Los Angeles rentals.",
       "published": "2026-09-18T19:38:28+00:00",
       "fetched": "2026-09-18T20:03:13.585571+00:00"
-    },
-    {
-      "id": "0fea0c7ebc59141e",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 6.95% Rate, the Highest of the Year",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-september-17/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage rates surged to their highest level in more than a year this week, with many buyers concerned that a home is further out of reach.",
-      "published": "2026-09-18T19:15:00+00:00",
-      "fetched": "2026-09-18T20:03:13.585598+00:00"
-    },
-    {
-      "id": "26daedce1f5c7c01",
-      "title": "L.A. Mayoral Challenger Slams Karen Bass’ Housing Record: ‘We’ve Made It Too Difficult To Build’",
-      "link": "https://www.realtor.com/news/real-estate-news/los-angeles-ca-mayoral-challenger-nithya-raman-karen-bass-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "L.A. City Councilmember Nithya Raman has been critical of Karen Bass' approach to housing, as she is campaigning to unseat her.",
-      "published": "2026-09-18T18:45:00+00:00",
-      "fetched": "2026-09-18T20:03:13.585622+00:00"
-    },
-    {
-      "id": "9eb7b7277d5b4681",
-      "title": "House or Wedding? The $36,000 Financial Choice Forcing Gen Z To Rewrite the American Dream",
-      "link": "https://www.realtor.com/news/trends/housing-costs-reordering-marriage-kids-homeownership/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As housing, weddings, and childcare get more expensive, young adults are being forced to reorder life’s biggest milestones.",
-      "published": "2026-09-18T18:37:53+00:00",
-      "fetched": "2026-09-18T20:03:13.585646+00:00"
-    },
-    {
-      "id": "341fd6782d22b467",
-      "title": "What Fed Rate Hikes Could Mean For Real Estate Investors to End the Year",
-      "link": "https://www.biggerpockets.com/blog/what-fed-rate-hikes-could-mean-for-real-estate-investors-to-end-the-year",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "As Al Pacino famously said in The Godfather III, Just when I thought I was out, they pull me back in!” Just when you thought you d seen the end of [ ]",
-      "published": "2026-09-18T18:06:19+00:00",
-      "fetched": "2026-09-18T20:03:13.137274+00:00"
     }
   ]
 }
