@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-29T17:05:51.727076+00:00",
+  "updated": "2026-09-29T21:34:38.601498+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "92ae9464ee786d56",
+      "title": "Climate Action Learning Lab bridges research and policy for effective climate solutions",
+      "link": "https://news.mit.edu/2026/climate-action-learning-lab-bridges-research-policy-for-effective-climate-solutions-0929",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "J-PAL North America’s Learning Lab supported a second cohort of U.S. government and nonprofit organizations in building and using rigorous evidence to advance effective decarbonization and adaptation strategies.",
+      "published": "2026-09-29T20:35:00+00:00",
+      "fetched": "2026-09-29T21:34:37.581199+00:00"
+    },
     {
       "id": "071a7319a3b8b12e",
       "title": "How to Explain Complicated Things",
@@ -1492,16 +1502,6 @@
       "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
       "published": "2026-08-20T18:45:00+00:00",
       "fetched": "2026-08-21T00:30:52.073716+00:00"
-    },
-    {
-      "id": "ee4be35df9411c47",
-      "title": "Discover the Mundaneum, an Early 20th-Century “Internet” That Put the World’s Knowledge on Millions of Index Cards",
-      "link": "https://www.openculture.com/2026/08/discover-the-mundaneum-an-early-20th-century-internet.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Pitch to friends or family the idea of a trip to Mons, Belgium to visit the Mundaneum, and you may be met with a less-than-enthusiastic reception. That’s unfortunate, since such an experience could fundamentally change the way they regard technology they use every day. Though its name may seem to promise unrelieved dullness today, the [ ]",
-      "published": "2026-08-20T09:00:38+00:00",
-      "fetched": "2026-08-20T12:19:57.834294+00:00"
     }
   ]
 }

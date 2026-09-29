@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-29T17:05:52.272128+00:00",
+  "updated": "2026-09-29T21:34:39.600311+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "30340e36808afb03",
+      "title": "‘Catch Me If You Can’ Con Artist Frank Abagnale Warns AI Is Making Financial Fraud Easier Than Ever",
+      "link": "https://www.realtor.com/news/real-estate-news/frank-abagnale-ai-financial-fraud-warning/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The mortgage banking industry has been slow to adopt AI. But criminals love it and are already making it harder to detect fraud.",
+      "published": "2026-09-29T21:21:56+00:00",
+      "fetched": "2026-09-29T21:34:39.599587+00:00"
+    },
+    {
+      "id": "62b8171e8543dfde",
+      "title": "NYC Must Scrap 17,000 Pied-à-Terre Tax Notices in Court-Ordered Do-Over",
+      "link": "https://www.realtor.com/news/real-estate-news/nyc-pied-a-terre-tax-ruling-notices-canceled/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The city must now identify which homes are truly nonprimary before billing owners, as the surcharge faces a second lawsuit.",
+      "published": "2026-09-29T21:11:36+00:00",
+      "fetched": "2026-09-29T21:34:39.599625+00:00"
+    },
+    {
+      "id": "c240321e951c6b12",
+      "title": "Craig Conover Almost Bought a Rental Property With the Money He Got After Selling Paige DeSorbo’s Engagement Ring",
+      "link": "https://www.realtor.com/news/reality-tv/craig-conover-paige-desorbo-engagement-ring-rental-property/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Southern Charm\" cast member opened up about the recent sale of a piece of jewelry he planned to propose to his ex-girlfriend with.",
+      "published": "2026-09-29T20:30:41+00:00",
+      "fetched": "2026-09-29T21:34:39.599660+00:00"
+    },
+    {
+      "id": "078076d1549dd87f",
+      "title": "Sylvester Stallone Credits ‘Angel’ Wife Jennifer Flavin for Close Family Dynamic—Inside the Palm Beach Estate She Made ‘Home’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/sylvester-stallone-palm-beach-florida-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside the legendary actor's Palm Beach home, vibrant artwork, custom furnishings, and a private gym create a bold, inviting retreat.",
+      "published": "2026-09-29T20:25:00+00:00",
+      "fetched": "2026-09-29T21:34:39.599692+00:00"
+    },
+    {
+      "id": "a2e54babd65e617e",
+      "title": "Stay in Rock History: Kurt Cobain’s Famous 1990s Olympia Apartment Is Listed on Airbnb",
+      "link": "https://www.realtor.com/news/trends/kurt-cobain-olympia-apartment-turned-into-an-airbnb/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Located on Pear Street in Olympia, WA, the space has been updated and filled with Nirvana photos and memorabilia.",
+      "published": "2026-09-29T19:59:48+00:00",
+      "fetched": "2026-09-29T21:34:39.599722+00:00"
+    },
+    {
+      "id": "58edf5ad254b60f1",
+      "title": "The Contractor Pricing Gap: Why Remodeling Quotes Vary So Wildly These Days",
+      "link": "https://www.realtor.com/advice/home-improvement/remodeling-quotes-choosing-a-contractor/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As more homeowners are staying put, the need for remodels continues to grow—as do the prices associated with it.",
+      "published": "2026-09-29T19:21:39+00:00",
+      "fetched": "2026-09-29T21:34:39.599752+00:00"
+    },
+    {
+      "id": "7cd9e0d44fc72e20",
+      "title": "Dylan Sprouse Shares Intimate Glimpse of Home Life With Newborn Daughter—Months After Intruder Scare at Their $2 Million L.A. Property",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dylan-sprouse-barbara-palvin-newborn-daughter-los-angeles-home-intruder/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Just one day after the couple publicly revealed that they had welcomed their first child, Sprouse shared new details about their baby girl.",
+      "published": "2026-09-29T18:40:42+00:00",
+      "fetched": "2026-09-29T21:34:39.599784+00:00"
+    },
+    {
+      "id": "607a690c8f3f6142",
+      "title": "What $285,000 Buys You in San Francisco: A Rare 355-Square-Foot Studio With an Eat-In Kitchen",
+      "link": "https://www.realtor.com/news/unique-homes/san-francisco-soma-studio-apartment-for-sale-285k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tired of high rents? Explore this charming SoMa home with historic Edwardian charm, modern updates, and low HOAs near Salesforce Park.",
+      "published": "2026-09-29T18:27:47+00:00",
+      "fetched": "2026-09-29T21:34:39.599813+00:00"
+    },
+    {
+      "id": "3afef57ac61d6724",
+      "title": "These Home Insurance Blind Spots Threaten Your Equity, If You Ignore Them",
+      "link": "https://www.realtor.com/advice/finance/home-insurance-blind-spots-how-to-spot/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Home insurance costs are rising every day, but smart homeowners know about the blind spots in their coverage to save them money and hassle.",
+      "published": "2026-09-29T18:12:48+00:00",
+      "fetched": "2026-09-29T21:34:39.599840+00:00"
+    },
     {
       "id": "e67b160bd853b1df",
       "title": "Josh Brolin Sells $4 Million Atlanta Estate After Slashing Price and Admitting He Didn’t ‘Particularly Like’ the Neighborhood",
@@ -1412,96 +1502,6 @@
       "summary": "The 100-year-old Concord Farms Duck Club in California has hit the market for $1.5 million, featuring a 16-bedroom clubhouse.",
       "published": "2026-09-20T17:12:00+00:00",
       "fetched": "2026-09-20T19:52:29.181491+00:00"
-    },
-    {
-      "id": "7552e2d927595f97",
-      "title": "Florida’s ‘Sleepy Fishing Village’ Gets a $2 Billion Makeover as Luxury Buyers Swoop In",
-      "link": "https://www.realtor.com/news/trends/pompano-beach-florida-luxury-homes-prices-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pompano Beach, a former \"sleepy fishing village\" popular with Canadian snowbirds, has lately transformed into a branded luxury haven.",
-      "published": "2026-09-20T16:37:00+00:00",
-      "fetched": "2026-09-20T19:52:29.181532+00:00"
-    },
-    {
-      "id": "55cca2a62fa7af5a",
-      "title": "This 1762 Virginia House Was Dismantled and Moved Piece by Piece to George Washington’s Estate",
-      "link": "https://www.realtor.com/news/unique-homes/historic-1762-virginia-estate-relocated-mount-vernon-sold/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Known as Carlby, this five-bedroom home once belonged to a Civil War general and now sits on the Potomac River in Virginia.",
-      "published": "2026-09-20T15:30:00+00:00",
-      "fetched": "2026-09-20T19:52:29.181565+00:00"
-    },
-    {
-      "id": "aae6a2874cd84262",
-      "title": "Superfan Snaps Up Graceland-Inspired Home in Memphis for $150K: ‘I Bought It for Every Elvis Fan’",
-      "link": "https://www.realtor.com/news/unique-homes/elvis-presley-superfan-buys-graceland-inspired-house/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Claire Starring placed an offer on the home \"immediately\" after stepping foot on the green shag carpet of the 1950s abode.",
-      "published": "2026-09-20T13:08:00+00:00",
-      "fetched": "2026-09-20T14:57:51.709785+00:00"
-    },
-    {
-      "id": "429cf64e9e092bca",
-      "title": "How the Modern Farmhouse Went From Trendy HGTV Buzzword to Inexpensive Housing Solution",
-      "link": "https://www.realtor.com/news/unique-homes/modern-farmhouse-architectural-style-history/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The architectural style is relatively new, but it has quickly become a popular staple in neighborhoods across the country.",
-      "published": "2026-09-20T11:11:00+00:00",
-      "fetched": "2026-09-20T14:57:51.709817+00:00"
-    },
-    {
-      "id": "d36b188e67a43c6a",
-      "title": "Inside ‘The Cactus House’: A $17 Million Restored Malibu Sanctuary on a Secret Beach",
-      "link": "https://www.realtor.com/news/unique-homes/malibu-17m-cactus-house-secret-beach/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore The Cactus House, a restored midcentury Malibu estate by Charles Kanner, featuring 58-feet of waterfront access.",
-      "published": "2026-09-19T17:01:00+00:00",
-      "fetched": "2026-09-19T19:39:15.363714+00:00"
-    },
-    {
-      "id": "87ea0d6dd1f01e23",
-      "title": "Keeping The Appliances Working for 20+ Years Is Like Winning the Homeowner Jackpot",
-      "link": "https://www.realtor.com/advice/home-improvement/older-appliances-vs-modern-saving-money/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If you can keep your appliances in working order, you're better served as repair and purchasing prices are skyrocketing.",
-      "published": "2026-09-19T16:19:00+00:00",
-      "fetched": "2026-09-19T19:39:15.363754+00:00"
-    },
-    {
-      "id": "42aac88d631373e1",
-      "title": "A Homesteader’s Dream: This 386-Acre Sporting Retreat Uses Transformed Grain Silos as Living Quarters",
-      "link": "https://www.realtor.com/news/unique-homes/repurposed-grain-silos-designated-shooting-areas-and-the-opportunity-to-create-a-sporting-lodge-in-washington-for-895k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore a 386-acre Washington ranch with grain silo living quarters, a 1-mile shooting range, walk-in gun vault, and water rights.",
-      "published": "2026-09-19T15:30:00+00:00",
-      "fetched": "2026-09-19T19:39:15.363788+00:00"
-    },
-    {
-      "id": "f346492d193b79b0",
-      "title": "‘Rare’ 60-Acre Lake George Retreat with Beautifully Restored Midcentury Modern Estate Lists for Under $1 Million",
-      "link": "https://www.realtor.com/news/unique-homes/midcentury-home-60-acres-hague-ny-silo/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore a restored 1965 midcentury home on 60 tree-lined acres in Hague, NY for $995K. It features a unique silo lookout and exposed beams.",
-      "published": "2026-09-19T14:14:00+00:00",
-      "fetched": "2026-09-19T14:53:42.975182+00:00"
-    },
-    {
-      "id": "a20b6d3f7decec92",
-      "title": "This $31 Million Miami Triplex Penthouse Has Its Own Rooftop Pool and Spa",
-      "link": "https://www.realtor.com/news/unique-homes/miami-31m-una-residences-brickell-penthouse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore the ultra-lavish triplex penthouse at Una Residences in Miami's Brickell, featuring six bedrooms panoramic bay views.",
-      "published": "2026-09-19T12:12:00+00:00",
-      "fetched": "2026-09-19T14:53:42.975210+00:00"
     }
   ]
 }

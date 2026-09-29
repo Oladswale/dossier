@@ -1,8 +1,178 @@
 {
   "category": "finance",
-  "updated": "2026-09-29T17:05:34.369182+00:00",
+  "updated": "2026-09-29T21:34:23.102510+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5149f5b4a2cb9fcd",
+      "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
+      "published": "2026-09-29T21:18:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467681+00:00"
+    },
+    {
+      "id": "d4862b6de40d327f",
+      "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+      "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia is expanding its buyback program to $235 billion while Alphabet and Meta halt repurchases and reallocate money to their AI initiatives.",
+      "published": "2026-09-29T20:52:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467739+00:00"
+    },
+    {
+      "id": "e933a221e6fe3258",
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
+      "published": "2026-09-29T20:50:10+00:00",
+      "fetched": "2026-09-29T21:34:21.730773+00:00"
+    },
+    {
+      "id": "3c71b4415134f60e",
+      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+      "link": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
+      "published": "2026-09-29T20:33:08+00:00",
+      "fetched": "2026-09-29T21:34:21.730809+00:00"
+    },
+    {
+      "id": "f5331f965577d55c",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "published": "2026-09-29T20:30:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467777+00:00"
+    },
+    {
+      "id": "5e0cbebd5dfc91ef",
+      "title": "Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves",
+      "link": "https://www.marketwatch.com/story/traders-expecting-a-back-to-back-rate-hike-from-the-fed-in-october-may-have-gotten-ahead-of-themselves-e2cc5193?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "New York Fed’s John Williams says “there is no need for urgency” after the central bank’s September hike.",
+      "published": "2026-09-29T20:13:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467809+00:00"
+    },
+    {
+      "id": "781c7fee8173d641",
+      "title": "NNPC says no fixed date yet for proposed IPO",
+      "link": "https://nairametrics.com/2026/09/29/nnpc-says-no-fixed-date-yet-for-proposed-ipo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian National Petroleum Company Limited (NNPC Ltd.) has said it does not have a fixed date for its proposed Initial Public Offering (IPO), noting that the final decision to proceed rests with its shareholders. The post NNPC says no fixed date yet for proposed IPO appeared first on Nairametrics .",
+      "published": "2026-09-29T19:34:09+00:00",
+      "fetched": "2026-09-29T21:34:22.438946+00:00"
+    },
+    {
+      "id": "4001f671ba6e966c",
+      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+      "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
+      "published": "2026-09-29T19:34:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467854+00:00"
+    },
+    {
+      "id": "342b09cb616b7b10",
+      "title": "Nigerian equities lose N469 billion as banking stocks drag market lower",
+      "link": "https://nairametrics.com/2026/09/29/nigerian-equities-lose-n469-billion-as-banking-stocks-drag-market-lower/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian equity market capitalization shed N468.63 billion to close at N163.530 trillion on Tuesday, September 29, 2026, as trading activity on the Nigerian Exchange (NGX) closed on a bearish note despite substantial liquidity. The post Nigerian equities lose N469 billion as banking stocks drag market lower appeared first on Nairametrics .",
+      "published": "2026-09-29T19:25:04+00:00",
+      "fetched": "2026-09-29T21:34:22.439003+00:00"
+    },
+    {
+      "id": "2f8e81cc0296ec5a",
+      "title": "Jigawa, Ondo, Anambra record lowest debt-to-IGR ratios in 2025",
+      "link": "https://nairametrics.com/2026/09/29/jigawa-ondo-anambra-record-lowest-debt-to-igr-ratios-in-2025/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "States with relatively strong internally generated revenue (IGR) and modest debt stocks recorded the lowest debt-to-IGR ratios in 2025, with Jigawa, Ondo and Anambra occupying the top three positions. The post Jigawa, Ondo, Anambra record lowest debt-to-IGR ratios in 2025 appeared first on Nairametrics .",
+      "published": "2026-09-29T19:07:44+00:00",
+      "fetched": "2026-09-29T21:34:22.439044+00:00"
+    },
+    {
+      "id": "e81c17bf08f1d84f",
+      "title": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
+      "link": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Maybe pictures can be worth a thousand words.",
+      "published": "2026-09-29T19:02:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467880+00:00"
+    },
+    {
+      "id": "968bef3bd170e6c3",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+      "published": "2026-09-29T18:55:00+00:00",
+      "fetched": "2026-09-29T21:34:21.467909+00:00"
+    },
+    {
+      "id": "341c527409f491cf",
+      "title": "Manchester City found guilty of overstating revenue by £854.5 million, understated expenses",
+      "link": "https://nairametrics.com/2026/09/29/manchester-city-found-guilty-of-overstating-revenue-by-854-5-million-understated-expenses/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Manchester City overstated its revenue by £854.5 million and understated its expenses by a further £66.2 million over a nine-year period, according to findings from an independent commission examining the Premier League’s financial charges against the club. The post Manchester City found guilty of overstating revenue by £854.5 million, understated expenses appeared first on Nairametrics .",
+      "published": "2026-09-29T18:47:56+00:00",
+      "fetched": "2026-09-29T21:34:22.439104+00:00"
+    },
+    {
+      "id": "3e57076400c8d4f0",
+      "title": "Dangote reacts to court order stopping Kenyan refinery construction, says “we don’t care”",
+      "link": "https://nairametrics.com/2026/09/29/dangote-reacts-to-court-order-stopping-kenyan-refinery-construction-says-we-dont-care/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Chairman of Dangote Petroleum Refinery and Petrochemicals, Aliko Dangote, has reacted to the court stopping its $17 billion East African refinery project in Lamu County, Kenya, saying that \"we don’t care; we are ready for them.\" The post Dangote reacts to court order stopping Kenyan refinery construction, says “we don’t care” appeared first on Nairametrics .",
+      "published": "2026-09-29T18:43:08+00:00",
+      "fetched": "2026-09-29T21:34:22.439162+00:00"
+    },
+    {
+      "id": "fdfc9d0ec9df5184",
+      "title": "Federal workers back N500 petrol price demand, threaten strike",
+      "link": "https://nairametrics.com/2026/09/29/federal-workers-back-n500-petrol-price-demand-threaten-strike/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Workers Forum (FWF) has backed calls by the Joint National Public Service Negotiation Council’s (JNPSNC) for the Federal Government to reduce the petrol pump price to N500 per litre by September 30. The post Federal workers back N500 petrol price demand, threaten strike appeared first on Nairametrics .",
+      "published": "2026-09-29T18:26:15+00:00",
+      "fetched": "2026-09-29T21:34:22.439211+00:00"
+    },
+    {
+      "id": "e43940b16e2482b9",
+      "title": "PodFest Naija 2026 unites storytellers, creators, podcasters, brands, policymakers and culture shapers for Nigeria’s biggest Festival of Stories",
+      "link": "https://nairametrics.com/2026/09/29/podfest-naija-2026-unites-storytellers-creators-podcasters-brands-policymakers-and-culture-shapers-for-nigerias-biggest-festival-of-stories/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "A Festival of Stories, returned for its second edition on Friday, September 25, bringing together more than 3,000 attendees, 50+ storytellers, creators, podcasters, brands, policymakers, industry leaders and everyday Nigerians for a day dedicated to conversations, collaboration, creativity and learning. The post PodFest Naija 2026 unites storytellers, creators, podcasters, brands, policymakers and culture shapers for Nigeria’s biggest Festival of Stories appeared first on Nairametrics .",
+      "published": "2026-09-29T18:08:17+00:00",
+      "fetched": "2026-09-29T21:34:22.439274+00:00"
+    },
+    {
+      "id": "47940541e06d3a6d",
+      "title": "NGX chairman urges East African investors to back Dangote’s expansion",
+      "link": "https://nairametrics.com/2026/09/29/ngx-chairman-urges-east-african-investors-to-back-dangotes-expansion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Chairman of Nigerian Exchange Group (NGX Group), Umaru Kwairanga, has urged East African institutional investors to provide capital to support Dangote Group’s expanding industrial footprint across the continent, including its planned refinery in Kenya. The post NGX chairman urges East African investors to back Dangote’s expansion appeared first on Nairametrics .",
+      "published": "2026-09-29T18:04:59+00:00",
+      "fetched": "2026-09-29T21:34:22.439326+00:00"
+    },
     {
       "id": "b7e3871a4d5f3149",
       "title": "How a Berlin-based developer turned Lagos traffic into a viral game",
@@ -1332,176 +1502,6 @@
       "summary": "Tango Brook Technologies has reached more than 150 corporate customers one year after launching its fuel management platform, as the company expands its technology solutions across fuel payments, fleet management and energy intelligence. The post Tango fuel app hits 150 corporate customers one year after launch appeared first on Nairametrics .",
       "published": "2026-09-27T12:04:56+00:00",
       "fetched": "2026-09-27T20:30:44.246092+00:00"
-    },
-    {
-      "id": "1fbc80e4f66311d0",
-      "title": "Tango Brook hits 150 corporate customers one year after launch",
-      "link": "https://nairametrics.com/2026/09/27/tango-brook-hits-150-corporate-customers-one-year-after-launch/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Tango Brook Technologies has reached more than 150 corporate customers one year after launching its fuel management platform, as the company expands its technology solutions across fuel payments, fleet management and energy intelligence. The post Tango Brook hits 150 corporate customers one year after launch appeared first on Nairametrics .",
-      "published": "2026-09-27T12:04:56+00:00",
-      "fetched": "2026-09-27T15:52:18.428141+00:00"
-    },
-    {
-      "id": "1da0e5550fdb8735",
-      "title": "Trump rejects Iran offer as US-led economic pressure hits banks and airlines",
-      "link": "https://nairametrics.com/2026/09/27/trump-rejects-iran-offer-as-us-led-economic-pressure-hits-banks-and-airlines/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "US President Donald Trump has rejected an offer from Iran to reopen the Strait of Hormuz as Washington intensifies economic pressure on Tehran, including measures targeting banks and airlines. The post Trump rejects Iran offer as US-led economic pressure hits banks and airlines appeared first on Nairametrics .",
-      "published": "2026-09-27T11:39:25+00:00",
-      "fetched": "2026-09-27T15:52:18.428184+00:00"
-    },
-    {
-      "id": "ba79f1c7657eb067",
-      "title": "Air Peace cites Jet A1 shortage, Maiduguri airport restriction for flight disruption",
-      "link": "https://nairametrics.com/2026/09/27/air-peace-cites-jet-a1-shortage-maiduguri-airport-restriction-for-flight-disruption/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Air Peace has attributed recent flight disruptions at the Nnamdi Azikiwe International Airport, Abuja, to a shortage of Jet A1 aviation fuel and an operating restriction at the Maiduguri airport. The post Air Peace cites Jet A1 shortage, Maiduguri airport restriction for flight disruption appeared first on Nairametrics .",
-      "published": "2026-09-27T11:27:04+00:00",
-      "fetched": "2026-09-27T15:52:18.428227+00:00"
-    },
-    {
-      "id": "1d35a6760975a64a",
-      "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
-      "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
-      "published": "2026-09-27T11:00:00+00:00",
-      "fetched": "2026-09-27T15:52:18.046125+00:00"
-    },
-    {
-      "id": "fe2e54665864fd09",
-      "title": "Guinness World Record: Nollywood film ‘Black Market’ debuts with 51,000 viewers in Lagos",
-      "link": "https://nairametrics.com/2026/09/27/guinness-world-record-nollywood-film-black-market-debuts-with-51000-viewers-in-lagos/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nollywood crime thriller Black Market has set a Guinness World Record for the largest attendance at a film screening at a single venue, after 51,000 people watched the movie at Tafawa Balewa Square (TBS) in Lagos. The post Guinness World Record: Nollywood film ‘Black Market’ debuts with 51,000 viewers in Lagos appeared first on Nairametrics .",
-      "published": "2026-09-27T07:43:52+00:00",
-      "fetched": "2026-09-27T15:52:18.428310+00:00"
-    },
-    {
-      "id": "6cb440ad7762f3ea",
-      "title": "Guiness World Record: Nollywood film ‘Black Market’ debuts with 51,000 viewers in Lagos",
-      "link": "https://nairametrics.com/2026/09/27/guiness-world-record-nollywood-film-black-market-debuts-with-51000-viewers-in-lagos/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nollywood crime thriller Black Market has set a Guinness World Record for the largest attendance at a film screening at a single venue, after 51,000 people watched the movie at Tafawa Balewa Square (TBS) in Lagos. The post Guiness World Record: Nollywood film ‘Black Market’ debuts with 51,000 viewers in Lagos appeared first on Nairametrics .",
-      "published": "2026-09-27T07:43:52+00:00",
-      "fetched": "2026-09-27T10:54:10.946241+00:00"
-    },
-    {
-      "id": "2f716965037aaa60",
-      "title": "Coronation targets higher premiums from capital raise, but investors want returns",
-      "link": "https://nairametrics.com/2026/09/27/coronation-targets-higher-premiums-from-capital-raise-but-investors-want-returns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Coronation Insurance Plc, one of the insurance companies listed on the NGX, says its stronger capital base will allow it to take on larger insurance risks and grow its premium income. The post Coronation targets higher premiums from capital raise, but investors want returns appeared first on Nairametrics .",
-      "published": "2026-09-27T06:36:29+00:00",
-      "fetched": "2026-09-27T10:54:10.946295+00:00"
-    },
-    {
-      "id": "8ed0f420dfe803cc",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“As a country, we have grown dangerously comfortable.”",
-      "published": "2026-09-26T19:00:00+00:00",
-      "fetched": "2026-09-26T20:14:49.722344+00:00"
-    },
-    {
-      "id": "1b1c24129b621cb7",
-      "title": "NIS further extends UK passport intervention exercise to October 30",
-      "link": "https://nairametrics.com/2026/09/26/nis-further-extends-uk-passport-intervention-exercise-to-october-30/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until October 30, 2026, citing sustained demand and a high turnout of Nigerians seeking passport services. The post NIS further extends UK passport intervention exercise to October 30 appeared first on Nairametrics .",
-      "published": "2026-09-26T18:35:26+00:00",
-      "fetched": "2026-09-26T20:14:50.097982+00:00"
-    },
-    {
-      "id": "72eed1638f39f3b8",
-      "title": "Nigeria’s agriculture trade swings from N740 billion surplus to N56 billion deficit in H1 2026",
-      "link": "https://nairametrics.com/2026/09/26/nigerias-agriculture-trade-swings-from-n740-billion-surplus-to-n56-billion-deficit-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s agricultural trade balance swung from a N740.27 billion surplus in the first half of 2025 to a N56.13 billion deficit in H1 2026, as exports declined sharply while imports remained relatively high. The post Nigeria’s agriculture trade swings from N740 billion surplus to N56 billion deficit in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-09-26T18:32:23+00:00",
-      "fetched": "2026-09-26T20:14:50.098046+00:00"
-    },
-    {
-      "id": "edc7796d48eb38b3",
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.",
-      "published": "2026-09-26T17:54:00+00:00",
-      "fetched": "2026-09-26T20:14:49.722390+00:00"
-    },
-    {
-      "id": "55ba5d66c3e233b3",
-      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
-      "published": "2026-09-26T17:15:00+00:00",
-      "fetched": "2026-09-26T20:14:49.722426+00:00"
-    },
-    {
-      "id": "f9223dec6395471b",
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
-      "published": "2026-09-26T16:22:00+00:00",
-      "fetched": "2026-09-26T20:14:49.722469+00:00"
-    },
-    {
-      "id": "3fbb67fd0d0e7798",
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.",
-      "published": "2026-09-26T15:48:00+00:00",
-      "fetched": "2026-09-26T20:14:49.722504+00:00"
-    },
-    {
-      "id": "6b8b4b47591238d4",
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
-      "published": "2026-09-26T15:30:00+00:00",
-      "fetched": "2026-09-26T20:14:49.722543+00:00"
-    },
-    {
-      "id": "5be52d19517c4d4b",
-      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-      "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-      "published": "2026-09-26T15:00:01+00:00",
-      "fetched": "2026-09-26T20:14:49.787078+00:00"
-    },
-    {
-      "id": "8b6cf3719cf856d9",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“She currently has about 15 sitters, all independent contractors.”",
-      "published": "2026-09-26T14:15:00+00:00",
-      "fetched": "2026-09-26T15:10:57.449521+00:00"
     }
   ]
 }
