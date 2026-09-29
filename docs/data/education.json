@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-09-29T11:39:20.253465+00:00",
+  "updated": "2026-09-29T17:05:51.727076+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "071a7319a3b8b12e",
+      "title": "How to Explain Complicated Things",
+      "link": "https://www.openculture.com/2026/09/how-to-explain-complicated-things.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "You may remember a time when it was difficult to make it through the day without hearing someone cite a TED Talk. A major technological reason for that was streaming video’s new accessibility on practically everyone’s computer (especially those of people bored at work). A major cultural reason was there was a considerable demographic overlap [ ]",
+      "published": "2026-09-29T16:09:36+00:00",
+      "fetched": "2026-09-29T17:05:51.726872+00:00"
+    },
     {
       "id": "9ce273df6915f625",
       "title": "Mick Jagger Tells the Story Behind ‘Gimme Shelter’ and Merry Clayton’s Haunting Background Vocals",
@@ -1492,16 +1502,6 @@
       "summary": "Pitch to friends or family the idea of a trip to Mons, Belgium to visit the Mundaneum, and you may be met with a less-than-enthusiastic reception. That’s unfortunate, since such an experience could fundamentally change the way they regard technology they use every day. Though its name may seem to promise unrelieved dullness today, the [ ]",
       "published": "2026-08-20T09:00:38+00:00",
       "fetched": "2026-08-20T12:19:57.834294+00:00"
-    },
-    {
-      "id": "4196eda33497eb96",
-      "title": "A 1932 Illustrated Map of Harlem’s Night Clubs: From the Cotton Club to the Savoy Ballroom",
-      "link": "https://www.openculture.com/2026/08/1932-illustrated-map-of-harlems-night-clubs.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Harlem’s undergoing another Renaissance, and has been for years now. Crime’s down, real estate prices are up, and throngs of pale-faced hipsters are descending to check the area out. Sure, something’s gained, but something’s lost, too.",
-      "published": "2026-08-20T08:00:49+00:00",
-      "fetched": "2026-08-20T12:19:57.834358+00:00"
     }
   ]
 }
