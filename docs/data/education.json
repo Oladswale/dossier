@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-09-30T11:26:37.388521+00:00",
+  "updated": "2026-09-30T17:03:40.437842+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "14d0b24272c5f6db",
+      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
+      "published": "2026-09-30T15:15:00+00:00",
+      "fetched": "2026-09-30T17:03:39.431458+00:00"
+    },
+    {
+      "id": "c15cc90862030e8a",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
+      "published": "2026-09-30T15:00:00+00:00",
+      "fetched": "2026-09-30T17:03:39.431496+00:00"
+    },
     {
       "id": "8026ab4547b5752e",
       "title": "The Cable that Changed the World: How Instant Global Communication Began in 1858",
@@ -1482,26 +1502,6 @@
       "summary": "Marcus Aurelius did not have a smartphone. In fact, he didn’t have a phone of any kind, owing to the fact that he lived in the second century, though we can be reasonably certain that he commanded more than enough messengers to keep himself informed around the clock. That’s because he was the Roman emperor [ ]",
       "published": "2026-08-24T09:00:07+00:00",
       "fetched": "2026-08-24T12:20:15.565045+00:00"
-    },
-    {
-      "id": "3aaa163fff3dded8",
-      "title": "Language skills stay strong in older adults, even while other cognitive abilities decline",
-      "link": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers find that activity in the brain’s language network is nearly identical in young and old people.",
-      "published": "2026-08-24T09:00:00+00:00",
-      "fetched": "2026-08-24T12:20:14.099080+00:00"
-    },
-    {
-      "id": "a7972b4f3abf2f6b",
-      "title": "The Women of the Bauhaus: See Hip, Avant-Garde Photographs of Female Students & Instructors at the Famous Art School",
-      "link": "https://www.openculture.com/2026/08/women-of-the-bauhaus.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Take a look at photos of Bush Tetras — a three-girl-one-guy No Wave/Post-Punk band from the early 1980s downtown Manhattan scene. Now, look at the photograph above, “Marcel Breuer and His Harem,” by Bauhaus photographer Erich Consemüller, taken sometime around 1927. Except for the fact that Breuer looks more like Ron Mael of Sparks sans [ ]",
-      "published": "2026-08-24T08:00:56+00:00",
-      "fetched": "2026-08-24T12:20:15.565108+00:00"
     }
   ]
 }

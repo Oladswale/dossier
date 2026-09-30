@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-09-30T11:26:36.018071+00:00",
+  "updated": "2026-09-30T17:03:39.027561+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "03a7613ed69bbdea",
+      "title": "Billy Joel Doesn’t Want People Worrying About His Brain Disorder: ‘Sounds a Lot Worse’",
+      "link": "https://www.rollingstone.com/music/music-news/billy-joel-update-on-brain-disorder-health-isnt-that-bad-1235634671/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The artist stepped away from performing following his normal pressure hydrocephalus diagnosis last year",
+      "published": "2026-09-30T17:01:50+00:00",
+      "fetched": "2026-09-30T17:03:38.735620+00:00"
+    },
+    {
+      "id": "aef18d6d2a802127",
+      "title": "Get Freaky With These ‘Obsession’ Halloween Costumes Inspired by Nikki and Bear",
+      "link": "https://www.rollingstone.com/product-recommendations/style/obsession-halloween-costume-ideas-freaky-nikki-bear-online-1235631996/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Turns out, the movie’s wonderfully unhinged style translates pretty well to real life",
+      "published": "2026-09-30T16:56:49+00:00",
+      "fetched": "2026-09-30T17:03:38.735658+00:00"
+    },
+    {
+      "id": "da71481a15b9f723",
+      "title": "Hannah Cohen Covers Robert Lester Folsom’s ‘Music and Dreams’ for Cult Album’s 50th Anniversary",
+      "link": "https://www.rollingstone.com/music/music-news/hannah-cohen-robert-lester-folsom-music-and-dreams-1235634512/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"Hannah’s the kind of person that I feel like I could invite over for a plain old bologna sandwich, and she wouldn’t bat an eye,\" Folsom says",
+      "published": "2026-09-30T16:43:46+00:00",
+      "fetched": "2026-09-30T17:03:38.735694+00:00"
+    },
+    {
+      "id": "755496c8b57114ad",
+      "title": "How HBO’s Casey Bloys Wound Up With the Keys to Paramount-Warner Bros.’ Streaming Empire, and What’s to Come",
+      "link": "https://variety.com/2026/tv/news/casey-bloys-paramount-warner-bros-streaming-1236893688/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In the end, Casey Bloys knew he was holding all the cards. As the industry continued to speculate about whether the HBO boss or Paramount’s Cindy Holland would wind up with control of the two companies’ soon-to-be-merged streaming behemoth, in recent weeks the momentum seemed to be on Bloys’ side. So when Paramount direct-to-consumer chair [ ]",
+      "published": "2026-09-30T16:34:08+00:00",
+      "fetched": "2026-09-30T17:03:38.485163+00:00"
+    },
+    {
+      "id": "36affd0c3281d2cd",
+      "title": "How the Art of Hospitality is Changing Esports Players’ Lives",
+      "link": "https://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "At the Esports Foundation, Hans Jagnow is determined to treat gamers like rock stars",
+      "published": "2026-09-30T16:33:50+00:00",
+      "fetched": "2026-09-30T17:03:38.735739+00:00"
+    },
+    {
+      "id": "e46b212463124c23",
+      "title": "‘Sense and Sensibility’ Inspires Handcrafted Apparel Collection From Designer Sarah Flint, Featuring Embroidered Heels and Painted Scarves",
+      "link": "https://variety.com/2026/shopping/news/sense-and-sensibility-sarah-flint-collection-shop-online-1236893657/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jane Austen is getting a style upgrade just in time for the latest trip to the Dashwood family estate. Designer Sarah Flint has teamed with Focus Features on a new capsule collection inspired by the upcoming “Sense and Sensibility” adaptation, translating the contrasting personalities of sisters Elinor and Marianne Dashwood into shoes, scarves and Georgian-era [ ]",
+      "published": "2026-09-30T16:30:00+00:00",
+      "fetched": "2026-09-30T17:03:38.485226+00:00"
+    },
+    {
+      "id": "659826fbd0177f4b",
+      "title": "Paramount Deal and U.S. Film Incentive Reflect Hollywood’s Deepening Ties to Government",
+      "link": "https://variety.com/2026/film/news/paramount-film-credit-hollywood-government-ties-1236878443/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Last week, politicians decided they could not let Hollywood slip away. First, California Gov. Gavin Newsom pushed for a resolution of the Paramount antitrust case out of fear that the studio would leave the state.",
+      "published": "2026-09-30T16:15:00+00:00",
+      "fetched": "2026-09-30T17:03:38.485276+00:00"
+    },
+    {
+      "id": "4fd9055e3cd04d17",
+      "title": "Funko Unveils Ultra-Limited Marvel NYCC Figures, Including $100 Light-Up Sorcerer Supreme Doom",
+      "link": "https://variety.com/2026/shopping/news/doctor-doom-sorcerer-supreme-doom-funko-pop-buy-online-1236893562/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Funko is bringing some heavy Marvel firepower to New York Comic Con this year, including an ultra-limited light-up Doctor Doom figure that will be one of just 500 produced. The collectibles company has unveiled a new batch of Marvel Pop! figures timed to NYCC 2026, led by the $100 Pop Super Grail SFX Sorcerer Supreme [ ]",
+      "published": "2026-09-30T16:00:00+00:00",
+      "fetched": "2026-09-30T17:03:38.485319+00:00"
+    },
+    {
+      "id": "2b2bebe93f2ff458",
+      "title": "Drew Carey to Host ‘Undercover Boss’ Return at CBS, Which Also Orders New Reality Series ‘Stacks of Cash’ and ’24 Hour Millionaire’",
+      "link": "https://variety.com/2026/tv/news/undercover-boss-return-cbs-drew-carey-host-1236893615/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "CBS is tripling down on its unscripted lineup, bringing back a new version of “Undercover Boss” — this time hosted by Drew Carey — and greenlighting two new series: “Stacks of Cash,” hosted by Mike O Malley, and “24 Hour Millionaire,” from the executive producers behind “Big Brother.” In the case of “Undercover Boss,” CBS said [ ]",
+      "published": "2026-09-30T16:00:00+00:00",
+      "fetched": "2026-09-30T17:03:38.485372+00:00"
+    },
+    {
+      "id": "a70c9bf94ec31949",
+      "title": "The White House’s AI Bot Is Going Through It",
+      "link": "https://www.rollingstone.com/politics/politics-news/white-house-ai-bot-going-through-it-1235634510/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Trump administration broadening its embrace of artificial intelligence. The results have been mixed, to say the least",
+      "published": "2026-09-30T15:46:25+00:00",
+      "fetched": "2026-09-30T17:03:38.735766+00:00"
+    },
+    {
+      "id": "c59a7d4076e9688c",
+      "title": "David Ellison Recruits Mattel’s Ynon Kreiz for Senior Role at Merged Paramount-Warner Bros.",
+      "link": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-senior-role-mattel-1236893607/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison s Paramount which is on the brink of closing its mega-merger with Warner Bros. Discovery in a senior management role, according to two industry sources. One source close to the situation told Variety said that Ellison s courting [ ]",
+      "published": "2026-09-30T15:43:50+00:00",
+      "fetched": "2026-09-30T17:03:38.485417+00:00"
+    },
+    {
+      "id": "75bfdb573443b4b4",
+      "title": "‘Ted’ Animated Series Sets Peacock Release Date",
+      "link": "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Peacock has set the premiere date for Ted: The Animated Series. The animated followup to the live-action Ted movies will premiere with its first eight episodes on Dec. 17.",
+      "published": "2026-09-30T15:30:00+00:00",
+      "fetched": "2026-09-30T17:03:38.485459+00:00"
+    },
+    {
+      "id": "900c2a58798b1d07",
+      "title": "Former CW Bosses Dawn Ostroff and Mark Pedowitz Look Back at the Network’s First 20 Years",
+      "link": "https://variety.com/2026/tv/news/cw-bosses-dawn-ostroff-mark-pedowitz-look-back-20-years-1236880544/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When Warner Bros. and CBS announced the merger of the WB and UPN on the morning of Jan. 24, 2006, the industry was shocked.",
+      "published": "2026-09-30T15:30:00+00:00",
+      "fetched": "2026-09-30T17:03:38.485506+00:00"
+    },
+    {
+      "id": "1fd4b10628c3eeb7",
+      "title": "Mogwai Go Punk on New Iggy Pop Collab ‘Underground’",
+      "link": "https://www.rollingstone.com/music/music-news/iggy-pop-mogwai-underground-happy-tears-song-1235633862/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Song will feature on post-rock group's upcoming Happy Tears compilation",
+      "published": "2026-09-30T15:30:00+00:00",
+      "fetched": "2026-09-30T17:03:38.735790+00:00"
+    },
+    {
+      "id": "854ef891837c56b8",
+      "title": "Billy Joel Gives Health Update After Brain Surgery: ‘I’m OK — It Sounds a Lot Worse Than It Actually Is’",
+      "link": "https://variety.com/2026/music/news/billy-joel-health-update-brain-surgery-1236893584/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Billy Joel gave a health update during a call-in with fans on his SiriusXM channel this week, noting that he’s doing well after revealing earlier in September that he’d undergone brain surgery to relieve some of the symptoms of normal pressure hydrocephalus, a disorder he was diagnosed with in 2025. “I know people are worried [ ]",
+      "published": "2026-09-30T15:12:04+00:00",
+      "fetched": "2026-09-30T17:03:38.485573+00:00"
+    },
+    {
+      "id": "84471e6d3fb6edc1",
+      "title": "‘Barbershop’ TV Show Sets February Release on Amazon, Drops First Look at Jermaine Fowler",
+      "link": "https://variety.com/2026/tv/news/barbershop-tv-show-release-date-amazon-1236893553/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Barbershop is debuting its new do in early 2027. The comedy series, a continuation of the beloved film franchise, will premiere all eight episodes on Amazon Prime Video on Feb. 10.",
+      "published": "2026-09-30T15:07:18+00:00",
+      "fetched": "2026-09-30T17:03:38.485641+00:00"
+    },
+    {
+      "id": "63dbb30e02e469dd",
+      "title": "Tony Iommi Animates a Doom-Metal Tempest in New ‘Stormwatcher’ Video",
+      "link": "https://www.rollingstone.com/music/music-news/tony-iommi-stormwatcher-music-video-1235634010/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Song features on Black Sabbath guitarist's upcoming solo album, From the Dark",
+      "published": "2026-09-30T15:00:00+00:00",
+      "fetched": "2026-09-30T17:03:38.735814+00:00"
+    },
+    {
+      "id": "1b7b622ad99cb057",
+      "title": "‘AEW Dynamite’ Livestream: Where to Watch the TBS Wrestling Broadcast Online Free",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-aew-dynamite-this-week-livestream-wrestling-online-free-1235632736/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "AEW Dynamite is the wrestling promotion's flagship program and premiered in 2019",
+      "published": "2026-09-30T14:49:00+00:00",
+      "fetched": "2026-09-30T17:03:38.735841+00:00"
+    },
+    {
+      "id": "ac0d2d625c797360",
+      "title": "Inside a Night of Comedy, Community, and Creators With Facebook and Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-news/rs-x-meta-creators-event-recap-article-1235633014/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Whether it’s friends and family sharing their lives with one another, communities creating closer bonds, or creators finding broader audiences, Facebook has always brought people together. Typically, these connections happen through our devices, but on September 17 at the Flower Shop in New York City, the social platform partnered with Rolling Stone to gather some [ ]",
+      "published": "2026-09-30T14:18:30+00:00",
+      "fetched": "2026-09-30T17:03:38.735890+00:00"
+    },
+    {
+      "id": "037fa343a55756d8",
+      "title": "Nashville Tried to Change Ashley McBryde. It Failed",
+      "link": "https://www.rollingstone.com/music/music-features/ashley-mcbryde-podcast-interview-nashville-change-her-1235634148/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"You’re giving me terrible advice. Why should you not feel the effects of this?” the Grammy winner says on Rolling Stone 's Nashville Now podcast",
+      "published": "2026-09-30T13:53:50+00:00",
+      "fetched": "2026-09-30T17:03:38.735922+00:00"
+    },
     {
       "id": "061407aa89016635",
       "title": "Danny Boyle Says ‘28 Years Later Part 3’ Will ‘Have a Lot of Cillian Murphy in It’ and Backs Jack O’Connell as the Next James Bond",
@@ -1302,206 +1502,6 @@
       "summary": "Director Hur Jin-ho s political crime thriller The Assassin(s) powered to the top of the South Korean box office over the weekend of Sep. 25–27, leading a major holiday box office surge across the peak Chuseok festival frame. According to data from KOBIS, the tracking service operated by the Korean Film Council, the newly opened local [ ]",
       "published": "2026-09-28T01:23:59+00:00",
       "fetched": "2026-09-28T02:07:23.900874+00:00"
-    },
-    {
-      "id": "e12bb92dd254f41f",
-      "title": "Nirvana Accept MTV Video Vanguard Award — Without a Performance",
-      "link": "https://www.rollingstone.com/music/music-news/nirvana-vma-vanguard-award-dave-grohl-chuck-d-1235631076/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Chuck D gave Dave Grohl, Krist Novoselic, and Pat Smear the Video Vanguard Award for Nirvana's legacy, but they didn't play any music",
-      "published": "2026-09-28T01:18:50+00:00",
-      "fetched": "2026-09-28T02:07:24.158472+00:00"
-    },
-    {
-      "id": "1a4295960777ec96",
-      "title": "Blackpink’s Lisa Performs ‘SaWaDiKa’ Live for First Time at MTV Video Music Awards",
-      "link": "https://www.rollingstone.com/music/music-news/lisa-sawadika-vmas-performance-1235630086/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The new single was released earlier this month",
-      "published": "2026-09-28T00:58:18+00:00",
-      "fetched": "2026-09-28T02:07:24.158484+00:00"
-    },
-    {
-      "id": "d82dae5f31f86ac3",
-      "title": "Shaboozey and Gunna Light Up the 2026 VMAs (Literally) With ‘High Noon’ Performance",
-      "link": "https://www.rollingstone.com/music/music-news/shaboozey-gunna-high-noon-vmas-performance-1235631662/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Shaboozey also performed \"Cowgirl\" from The Outlaw Cherie Lee Other Western Tales",
-      "published": "2026-09-28T00:52:35+00:00",
-      "fetched": "2026-09-28T02:07:24.158499+00:00"
-    },
-    {
-      "id": "daae5e996c895934",
-      "title": "Kacey Musgraves Pays Tribute to Dolly Parton With ‘I Will Always Love You’ at MTV VMAs",
-      "link": "https://www.rollingstone.com/music/music-country/kacey-musgraves-dolly-parton-vmas-tribute-1235630548/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "In Musgraves' first performance at the MTV Video Music Awards in five years, she honored the late legend",
-      "published": "2026-09-28T00:42:57+00:00",
-      "fetched": "2026-09-28T02:07:24.158513+00:00"
-    },
-    {
-      "id": "3cec951799158651",
-      "title": "Kacey Musgraves Pays Heartfelt Tribute to Dolly Parton With ‘I Will Always Love You’ Performance at MTV Video Music Awards",
-      "link": "https://variety.com/2026/music/awards/kacey-musgraves-dolly-parton-tribute-mtv-vmas-performance-1236876461/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kacey Musgraves led a touching tribute to Dolly Parton at the MTV Video Music Awards 2026, honoring the late country icon just a month after her death with a rendition of I Will Always Love You. The pre-taped performance began with footage of Parton introducing the classic 1974 tune. I d like to leave you fellas [ ]",
-      "published": "2026-09-28T00:38:08+00:00",
-      "fetched": "2026-09-28T02:07:23.900903+00:00"
-    },
-    {
-      "id": "cc8793c27fc39259",
-      "title": "Raye Brings Her Search for Romance to 2026 MTV VMAs With ‘Where Is My Husband?’",
-      "link": "https://www.rollingstone.com/music/music-news/raye-where-is-my-husband-vmas-performance-1235631991/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer-songwriter introduced the performance with \"I Will Overcome\" before launching into \"Where Is My Husband!,\" which is up for the coveted Song of the Year award at this year's show",
-      "published": "2026-09-28T00:31:24+00:00",
-      "fetched": "2026-09-28T02:07:24.158530+00:00"
-    },
-    {
-      "id": "2650c490a846a496",
-      "title": "Madonna, Sabrina Carpenter, Charli XCX Team Up for Star-Studded MTV VMAs Opener",
-      "link": "https://www.rollingstone.com/music/music-news/madonna-vmas-opening-performance-charli-sabrina-1235630877/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "In Madonna's first VMAs performance in 23 years, she brought extra star power, with bonus guest spots from Sombr and more",
-      "published": "2026-09-28T00:22:41+00:00",
-      "fetched": "2026-09-28T02:07:24.158544+00:00"
-    },
-    {
-      "id": "07c548ffd4c69cc8",
-      "title": "Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More",
-      "link": "https://variety.com/2026/music/awards/madonna-sabrina-carpenter-charli-xcx-mtv-vmas-performance-1236876448/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 20-minute telecast delay due to the NFL game, the pop icon began her performance perched on the top of a [ ]",
-      "published": "2026-09-28T00:16:21+00:00",
-      "fetched": "2026-09-28T02:07:23.900926+00:00"
-    },
-    {
-      "id": "3cb04cef2ddcc0a5",
-      "title": "‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’",
-      "link": "https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-apologizes-for-feud-1236877099/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, Fishman said that the show’s 2018 reboot “was rightfully canceled” after Barr posted a racist tweet, to which Barr responded that Fishman was [ ]",
-      "published": "2026-09-28T00:14:42+00:00",
-      "fetched": "2026-09-28T02:07:23.900958+00:00"
-    },
-    {
-      "id": "018291e47fc25898",
-      "title": "VMAs 2026 Winners List: Taylor Swift Wins Video of the Year, Lisa Awarded Best Pop and More (UPDATING LIVE)",
-      "link": "https://variety.com/2026/music/news/vmas-winners-list-mtv-awards-2026-show-1236876862/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 2026 MTV Video Music Awards are here, and the music industry s biggest starts are jockeying for awards. The ceremony is taking place at the Peacock Theater in L.A., and Snoop Dogg is the host for the night. Outside of the normal nominations, it was announced in advance that Nirvana will receive the Michael Jackson [ ]",
-      "published": "2026-09-27T23:58:17+00:00",
-      "fetched": "2026-09-28T02:07:23.900982+00:00"
-    },
-    {
-      "id": "429a19be9488dba7",
-      "title": "Jeff Probst Says ‘Survivor’ Needs Diversity Despite Paramount’s DEI Rollbacks: ‘All Those Differences Matter in the Story’",
-      "link": "https://variety.com/2026/tv/news/jeff-probst-survivor-casting-hasnt-changed-paramount-dei-1236876965/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Fifty seasons later, one key factor of “Survivor” remains the same: the show s approach to diversity. Longtime host Jeff Probst told The New York Times that “nothing has changed” in the reality competition series approach, despite Paramount’s rollback of DEI initiatives to align with Trump s mandates in 2025. Diversity, he explained, is integral to the [ ]",
-      "published": "2026-09-27T23:26:01+00:00",
-      "fetched": "2026-09-28T02:07:23.901010+00:00"
-    },
-    {
-      "id": "a8e0e60308ff71c0",
-      "title": "2026 MTV VMAs Red Carpet: Taylor Swift, Lisa, Raye and More",
-      "link": "https://variety.com/gallery/vmas-2026-red-carpet-fashion-looks/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 2026 MTV VMAs are in full swing, and music’s biggest stars are showing up and out on the red carpet. Hosted by Snoop Dogg, this year’s Video Music Awards promises audiences a jam-packed program, including a performance from Madonna (her first at the show in more than two decades), a Dolly Parton tribute and, [ ]",
-      "published": "2026-09-27T22:00:24+00:00",
-      "fetched": "2026-09-28T02:07:23.901035+00:00"
-    },
-    {
-      "id": "b6947ab0a71f4e73",
-      "title": "‘Avengers: Doomsday’ Co-Director Explains It’s ‘Very Difficult’ to Evolve Marvel Characters, but ‘We Need to Surprise Ourselves’ and ‘Audiences’",
-      "link": "https://variety.com/2026/film/news/avengers-doomsday-director-very-difficult-mcu-characters-1236876967/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Avengers: Doomsday” co-director Anthony Russo has opened up about the pressure that comes with evolving the franchise’s iconic superhero characters, explaining that finding the balance between moving the story forward and honoring those already-beloved characters can be “very difficult.” It s a very difficult part of the process because, I mean, we basically just have to [ ]",
-      "published": "2026-09-27T21:02:16+00:00",
-      "fetched": "2026-09-28T02:07:23.901063+00:00"
-    },
-    {
-      "id": "790f63d60c0c34f1",
-      "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
-      "link": "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A revival of Damn Yankees, starring Neil Patrick Harris and Julianne Hough, will open next spring on Broadway. It s the first Broadway revival of Damn Yankees in more than 30 years. Following last fall s run at D.C.",
-      "published": "2026-09-27T20:15:00+00:00",
-      "fetched": "2026-09-27T20:31:00.102599+00:00"
-    },
-    {
-      "id": "bd281fda91aa36a7",
-      "title": "Jeff Ament Looks Back at Pearl Jam’s Early Days — and Explains How They Picked Their New Drummer",
-      "link": "https://www.rollingstone.com/music/music-news/jeff-ament-interview-pearl-jam-book-new-drummer-1235632544/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "With his new photo book, Since Forever , out new, Pearl Jam's Jeff Ament talks about the stories behind the photos, and discusses the band's post-Matt Cameron future",
-      "published": "2026-09-27T19:39:25+00:00",
-      "fetched": "2026-09-27T20:31:00.236767+00:00"
-    },
-    {
-      "id": "8dbfb78f15215181",
-      "title": "How to Watch the 2026 VMAs Online Without Cable for Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-2026-vmas-online-free-stream-video-music-awards-1235632469/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here’s how you can catch performances from artists like Madonna and Kacey Musgraves, along with stars like Taylor Swift receiving some of the night’s biggest honors, at no cost",
-      "published": "2026-09-27T19:30:00+00:00",
-      "fetched": "2026-09-27T20:31:00.236808+00:00"
-    },
-    {
-      "id": "7297f262c2413e80",
-      "title": "Tyler Childers Brings the Wild, Eddie Vedder Surprise Performs at Ohana Festival",
-      "link": "https://www.rollingstone.com/music/music-news/2026-ohana-fest-tyler-childers-eddie-vedder-alabama-shakes-1235632452/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Eddie Vedder popped in for a surprise performance with Stephen Wilson Jr., Alabama Shakes spoke out against ICE, and Jon Batiste brought a joyful celebration of freedom to Southern California",
-      "published": "2026-09-27T19:02:08+00:00",
-      "fetched": "2026-09-27T20:31:00.236841+00:00"
-    },
-    {
-      "id": "fc827df42b037fc4",
-      "title": "Nat Geo Kicks Off New Multi-Year Doc Franchise With ‘Africa Earth’s Wild Home’",
-      "link": "https://variety.com/2026/tv/news/nat-geo-new-doc-franchise-africa-earths-wild-home-1236876900/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years to make and employed over 50 people. It’s the first series in a multi-year franchise that will document the planet, one continent at a time.",
-      "published": "2026-09-27T18:34:11+00:00",
-      "fetched": "2026-09-27T20:31:00.102664+00:00"
-    },
-    {
-      "id": "a5612006291f9775",
-      "title": "Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’",
-      "link": "https://variety.com/2026/film/news/chris-evans-anthony-mackie-avengers-endgame-script-early-1236876896/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chris Evans and Anthony Mackie’s bond goes beyond their shared roles as Captain America. They’re also close friends, so much so that Evans gave Mackie early access to the Avengers: Endgame script, which is when the actor learned how he d become the superhero. “Chris Evans is somebody who I hold near and dear,” Mackie said [ ]",
-      "published": "2026-09-27T18:17:19+00:00",
-      "fetched": "2026-09-27T20:31:00.102725+00:00"
-    },
-    {
-      "id": "81e8e26a2021098c",
-      "title": "Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online",
-      "link": "https://variety.com/2026/shopping/news/where-to-watch-asian-games-2026-usa-livestream-online-free-1236876889/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Some of the best athletes in the world are in Japan this week for the 2026 Asian Games, a multi-sport competition held every four years for countries in Asia. This year s Asian Games take place in Nagoya, located in the Aichi Prefecture in Japan, and Aichi Nagoya 2026 makes the 20th edition of the event. Almost [ ]",
-      "published": "2026-09-27T18:05:12+00:00",
-      "fetched": "2026-09-27T20:31:00.102771+00:00"
     }
   ]
 }
