@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-30T02:35:18.369795+00:00",
+  "updated": "2026-09-30T11:26:38.189973+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "91ca8e26b5dc38e7",
+      "title": "How to Go From 1 to 10 Rentals with “The Stack” Method",
+      "link": "https://www.biggerpockets.com/blog/rookie-777",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The idea of building and scaling a rental portfolio can seem daunting to most rookies starting off. What if we told you there s a realistic, proven formula most rookies don t [ ]",
+      "published": "2026-09-30T11:00:12+00:00",
+      "fetched": "2026-09-30T11:26:37.669063+00:00"
+    },
+    {
+      "id": "32b463a0b2759ed5",
+      "title": "Apolo Ohno’s “Patient” Real Estate Investing Approach for Financial Freedom",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1337",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You don’t need to be the smartest person in the room to build wealth through real estate. But you do need patience, discipline, and a willingness to play the long [ ]",
+      "published": "2026-09-30T11:00:11+00:00",
+      "fetched": "2026-09-30T11:26:37.669110+00:00"
+    },
+    {
+      "id": "2b58b8bb9dc97d72",
+      "title": "Sellers Slash Prices at Historic Pace To Lure Buyers Sidelined by Mortgage Rates",
+      "link": "https://www.realtor.com/news/trends/sellers-slash-prices-historic-pace-september-2026-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Driven by mortgage rates topping 7% and rising inventory, a near-record 20.8% of home listings saw price cuts in September.",
+      "published": "2026-09-30T09:00:00+00:00",
+      "fetched": "2026-09-30T11:26:38.189313+00:00"
+    },
     {
       "id": "e0c000686675c91c",
       "title": "Jennifer Lopez Reveals Emotional Reality of Her Soon-to-Be-Empty Nest as Twins Leave Home for College",
@@ -1472,36 +1502,6 @@
       "summary": "Real estate investing won’t make you rich overnight. But keep at it for long enough, and it will make you very wealthy. Philip Henry had been doing all the right [ ]",
       "published": "2026-09-21T11:00:45+00:00",
       "fetched": "2026-09-21T17:15:26.729083+00:00"
-    },
-    {
-      "id": "31c2c33a48ab05e1",
-      "title": "The Hidden Gem Short-Term Rental Markets of 2026: Where Owners Are Maximizing Returns",
-      "link": "https://www.realtor.com/news/trends/hidden-gems-short-term-rental-markets-2026-airdna/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "AirDNA’s 2026 Hidden Gem report reveals the top 17 affordable U.S. short-term rental markets for high-yield investing—led by Rockford, IL.",
-      "published": "2026-09-21T09:00:00+00:00",
-      "fetched": "2026-09-21T11:12:21.541422+00:00"
-    },
-    {
-      "id": "a1256bddd82e5702",
-      "title": "When 401(k) Matches Disappear, Your Mortgage Payment Strategy Doesn’t Have To",
-      "link": "https://www.realtor.com/news/trends/lost-401k-matches-housing-budget-strategy-money-monday/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "401(k) match cuts threaten critical retirement savings, making it harder for homeowners to afford future housing expenses.",
-      "published": "2026-09-21T08:32:00+00:00",
-      "fetched": "2026-09-21T11:12:21.541461+00:00"
-    },
-    {
-      "id": "cd8dc04c096ac625",
-      "title": "Housing Week Ahead: Down Payment Trends, New-Home Sales, and Bracing for 7% Mortgage Rates",
-      "link": "https://www.realtor.com/news/trends/weekly-housing-video-data-reports-september-21-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The upcoming week brings a steady stream of housing insights from the Realtor.com economics team as well as a handful of key indicators.",
-      "published": "2026-09-21T08:13:00+00:00",
-      "fetched": "2026-09-21T11:12:21.541492+00:00"
     }
   ]
 }

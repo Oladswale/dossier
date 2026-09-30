@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-09-30T02:35:17.629897+00:00",
+  "updated": "2026-09-30T11:26:37.388521+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8026ab4547b5752e",
+      "title": "The Cable that Changed the World: How Instant Global Communication Began in 1858",
+      "link": "https://www.openculture.com/2026/09/the-cable-that-changed-the-world-how-instant-global-communication-began-in-1858.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The word wireless is going the way of computerized and portable, and for much the same reasons. We no longer regard wireless devices that require no physical connections to anything else as marvels, but as something close to necessities. But our age, with its increasingly common assumptions that information just travels through the air, owes its existence [ ]",
+      "published": "2026-09-30T09:14:07+00:00",
+      "fetched": "2026-09-30T11:26:37.388202+00:00"
+    },
+    {
+      "id": "472b9ae2867784ad",
+      "title": "Lung cancers can use two different mechanisms to evade KRAS-inhibiting drugs",
+      "link": "https://news.mit.edu/2026/lung-cancers-can-use-two-different-mechanisms-evade-kras-inhibiting-drugs-0930",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Some tumor cells develop resistance by amplifying the KRAS gene, while others change their tumor type, MIT researchers have found.",
+      "published": "2026-09-30T09:00:00+00:00",
+      "fetched": "2026-09-30T11:26:36.379581+00:00"
+    },
+    {
+      "id": "9bdadf4521ae2120",
+      "title": "The Oldest Book Printed with Movable Type is Not The Gutenberg Bible: Jikji, a Collection of Korean Buddhist Teachings, Predated It By 78 Years and It’s Now Digitized Online",
+      "link": "https://www.openculture.com/2026/09/the-oldest-book-printed-with-movable-type-is-not-the-gutenberg-bible-jikji.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The history of the printed word is full of bibliographic twists and turns, major historical moments, and the significant printing of books now so obscure no one has read them since their publication. Most of us have only the sketchiest notion of how mass-produced printed books came into being—a few scattered dates and names. But [ ]",
+      "published": "2026-09-30T08:00:31+00:00",
+      "fetched": "2026-09-30T11:26:37.388285+00:00"
+    },
     {
       "id": "92ae9464ee786d56",
       "title": "Climate Action Learning Lab bridges research and policy for effective climate solutions",
@@ -1472,36 +1502,6 @@
       "summary": "Take a look at photos of Bush Tetras — a three-girl-one-guy No Wave/Post-Punk band from the early 1980s downtown Manhattan scene. Now, look at the photograph above, “Marcel Breuer and His Harem,” by Bauhaus photographer Erich Consemüller, taken sometime around 1927. Except for the fact that Breuer looks more like Ron Mael of Sparks sans [ ]",
       "published": "2026-08-24T08:00:56+00:00",
       "fetched": "2026-08-24T12:20:15.565108+00:00"
-    },
-    {
-      "id": "a75e1ce6d33616b8",
-      "title": "The importance of indoor airflow patterns in spreading airborne disease",
-      "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission.",
-      "published": "2026-08-21T16:00:00+00:00",
-      "fetched": "2026-08-21T18:18:12.919650+00:00"
-    },
-    {
-      "id": "931bca95ab82a58e",
-      "title": "Why Americans Stopped Reading Books",
-      "link": "https://www.openculture.com/2026/08/why-americans-stopped-reading-books.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The kids can’t read. Such has been the implication, even the declaration, made by a wave of articles in recent years. But the statement needs some qualification: the kids in question are American; what they can’t read is entire books, especially literary fiction; and it isn’t just the kids in the first place.",
-      "published": "2026-08-21T08:00:22+00:00",
-      "fetched": "2026-08-21T12:19:30.339922+00:00"
-    },
-    {
-      "id": "97b63596a7f6bad8",
-      "title": "Paving the way for greener ammonia production",
-      "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
-      "published": "2026-08-20T18:45:00+00:00",
-      "fetched": "2026-08-21T00:30:52.073716+00:00"
     }
   ]
 }
