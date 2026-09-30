@@ -1,8 +1,98 @@
 {
   "category": "finance",
-  "updated": "2026-09-30T17:03:27.955632+00:00",
+  "updated": "2026-09-30T21:35:05.006638+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ebbae436735298e5",
+      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
+      "published": "2026-09-30T21:16:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797154+00:00"
+    },
+    {
+      "id": "f7dd15321dc05344",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "published": "2026-09-30T21:09:42+00:00",
+      "fetched": "2026-09-30T21:34:03.989178+00:00"
+    },
+    {
+      "id": "aadc6e4791779add",
+      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
+      "published": "2026-09-30T20:59:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797201+00:00"
+    },
+    {
+      "id": "4241616c9c17ede1",
+      "title": "A brutal September for bonds points to an even darker October",
+      "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "September has been a brutal month for the bond market. If history is any guide, October might be even worse.",
+      "published": "2026-09-30T20:56:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797231+00:00"
+    },
+    {
+      "id": "72d1b53ed79d00ad",
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
+      "published": "2026-09-30T20:32:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797279+00:00"
+    },
+    {
+      "id": "512f80acbf44af90",
+      "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+      "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "‘Over the near term, we expect supply to fall off, unless someone has to borrow,’ says Invesco’s Matt Brill",
+      "published": "2026-09-30T19:42:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797312+00:00"
+    },
+    {
+      "id": "5ffb539f5cfb5d31",
+      "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
+      "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Despite questions swirling around colleges and universities, Griffin’s $3 billion donation to Carnegie Mellon University is one of many from billionaires to colleges this year",
+      "published": "2026-09-30T19:21:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797347+00:00"
+    },
+    {
+      "id": "ac12ea421fe17d83",
+      "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“She currently has about 15 sitters, all independent contractors.”",
+      "published": "2026-09-30T19:00:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797376+00:00"
+    },
+    {
+      "id": "88ff28dba1290853",
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
+      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The pharma giant is working on an experimental amylin drug to see if it can help people lose weight and manage their diabetes.",
+      "published": "2026-09-30T18:45:00+00:00",
+      "fetched": "2026-09-30T21:34:03.797408+00:00"
+    },
     {
       "id": "e65a8ce6a80ee7e3",
       "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
@@ -1412,96 +1502,6 @@
       "summary": "The Federal Ministry of Education has released the final list of textbooks ranked and approved for use in Nigerian schools from 2026 to 2028, introducing unique QR tracking codes to improve the monitoring of instructional materials. The post FG releases final approved textbook list for Nigerian schools, adds QR tracking codes appeared first on Nairametrics .",
       "published": "2026-09-29T07:09:13+00:00",
       "fetched": "2026-09-29T11:39:08.173225+00:00"
-    },
-    {
-      "id": "8d64ec678e68a62c",
-      "title": "21 companies fined N30 million each for operating without SEC licences",
-      "link": "https://nairametrics.com/2026/09/29/21-companies-fined-n30-million-each-for-operating-without-sec-licences/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal High Court, Lafia Division, Nasarawa State, has convicted and sentenced 21 companies for operating without licences from the Securities and Exchange Commission (SEC) and imposed a N30 million fine on each of them. The post 21 companies fined N30 million each for operating without SEC licences appeared first on Nairametrics .",
-      "published": "2026-09-29T06:34:50+00:00",
-      "fetched": "2026-09-29T11:39:08.173253+00:00"
-    },
-    {
-      "id": "67e4d64b66beb06d",
-      "title": "African Airlines schedule 13.89 million seats across top 10 markets in September",
-      "link": "https://nairametrics.com/2026/09/29/african-airlines-schedule-13-89-million-seats-across-top-10-markets-in-september/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Airlines serving Africa’s top 10 major aviation markets scheduled 13.89 million seats in September 2026, with all 10 markets recording year-on-year growth in scheduled capacity. The post African Airlines schedule 13.89 million seats across top 10 markets in September appeared first on Nairametrics .",
-      "published": "2026-09-29T06:13:08+00:00",
-      "fetched": "2026-09-29T11:39:08.173283+00:00"
-    },
-    {
-      "id": "e52fb9572f0c0eb7",
-      "title": "👨🏿‍🚀TechCabal Daily – Ghana courts a Leo",
-      "link": "https://techcabal.com/2026/09/29/techcabal-daily-ghana-courts-a-leo/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Ghana in early talks with Amazon Leo Sidama Bank goes public in Ethiopia Spar's refreshed Spar2U goes live in December Kenya wants more exports to Germany",
-      "published": "2026-09-29T06:00:47+00:00",
-      "fetched": "2026-09-29T11:39:08.782242+00:00"
-    },
-    {
-      "id": "5c0c1b56ee2f3e83",
-      "title": "Nigeria’s most indebted states: Lagos, Delta, FCT leads as subnational debt rises to N4.59 trillion in Q2 2026",
-      "link": "https://nairametrics.com/2026/09/29/nigerias-most-indebted-states-lagos-delta-fct-leads-as-subnational-debt-rises-to-n4-59-trillion-in-q2-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s state-level domestic debt stock continued to rise in the second quarter of 2026 to N4.59 trillion, although the increase was much slower than the sharp jump of 3.74% recorded between December 2025 and March 2026. The post Nigeria’s most indebted states: Lagos, Delta, FCT leads as subnational debt rises to N4.59 trillion in Q2 2026 appeared first on Nairametrics .",
-      "published": "2026-09-29T05:55:23+00:00",
-      "fetched": "2026-09-29T11:39:08.173320+00:00"
-    },
-    {
-      "id": "32ab5e1ecb8b0c0a",
-      "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
-      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Anthropic’s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing.",
-      "published": "2026-09-29T01:31:00+00:00",
-      "fetched": "2026-09-29T02:53:29.086761+00:00"
-    },
-    {
-      "id": "b67ee7a7780f318c",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-      "published": "2026-09-28T22:35:00+00:00",
-      "fetched": "2026-09-28T22:40:12.025172+00:00"
-    },
-    {
-      "id": "a7c7492208454228",
-      "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
-      "published": "2026-09-28T22:03:00+00:00",
-      "fetched": "2026-09-28T22:40:12.025219+00:00"
-    },
-    {
-      "id": "5e0e6b8c2d76463d",
-      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
-      "published": "2026-09-28T21:37:00+00:00",
-      "fetched": "2026-09-28T22:40:12.025249+00:00"
-    },
-    {
-      "id": "01a929347b07f254",
-      "title": "BREAKING: GTCO’s pre-tax profit hits N603 billion, declares N1 interim dividend",
-      "link": "https://nairametrics.com/2026/09/28/gtcos-pre-tax-profit-hits-n603-billion-declares-n1-interim-dividend/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Guaranty Trust Holding Company Plc (GTCO) has released its H1 2026 results, reporting pre-tax profit of N603.03 billion for the period ended June 2026, representing a marginal 0.35% increase from N600.90 billion recorded in the corresponding period of 2025. The post BREAKING: GTCO’s pre-tax profit hits N603 billion, declares N1 interim dividend appeared first on Nairametrics .",
-      "published": "2026-09-28T21:26:30+00:00",
-      "fetched": "2026-09-28T22:40:13.377664+00:00"
     }
   ]
 }
