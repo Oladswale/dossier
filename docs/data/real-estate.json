@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-29T21:34:39.600311+00:00",
+  "updated": "2026-09-30T02:35:18.369795+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e0c000686675c91c",
+      "title": "Jennifer Lopez Reveals Emotional Reality of Her Soon-to-Be-Empty Nest as Twins Leave Home for College",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jennifer-lopez-emotional-empty-nester-twins-go-to-college/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 57-year-old singer and actress opened up about the emotional reality of becoming an empty nester in a candid video shared online.",
+      "published": "2026-09-29T22:26:57+00:00",
+      "fetched": "2026-09-30T02:35:18.369170+00:00"
+    },
+    {
+      "id": "bdad444cdce2a5f0",
+      "title": "L.A.’s Infamous ‘Squatter Mansion’ Hits the Market for $4.4 Million After a New Coat of Paint",
+      "link": "https://www.realtor.com/news/trends/los-angeles-squatter-graffiti-mansion-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Hollywood Hills home was originally built as a tribute to the owner's late mother. It now sits in disrepair.",
+      "published": "2026-09-29T22:00:07+00:00",
+      "fetched": "2026-09-30T02:35:18.369209+00:00"
+    },
     {
       "id": "30340e36808afb03",
       "title": "‘Catch Me If You Can’ Con Artist Frank Abagnale Warns AI Is Making Financial Fraud Easier Than Ever",
@@ -1482,26 +1502,6 @@
       "summary": "The upcoming week brings a steady stream of housing insights from the Realtor.com economics team as well as a handful of key indicators.",
       "published": "2026-09-21T08:13:00+00:00",
       "fetched": "2026-09-21T11:12:21.541492+00:00"
-    },
-    {
-      "id": "94f93576165c678e",
-      "title": "This 1834 Sea Captain’s Home On Nantucket Just Listed for $32 Million",
-      "link": "https://www.realtor.com/news/unique-homes/1835-greek-revival-nantucket-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The home, built in the 1830s, has been thoughtfully restored—and sits just 10 minutes from the water in Nantucket.",
-      "published": "2026-09-20T20:19:00+00:00",
-      "fetched": "2026-09-21T01:52:25.530129+00:00"
-    },
-    {
-      "id": "71c270fb3e84b08c",
-      "title": "For the Price of a San Francisco Condo, You Can Buy a 400-Acre Historic Marshland Retreat",
-      "link": "https://www.realtor.com/news/unique-homes/historic-1-5m-suisun-marsh-duck-club-barge/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 100-year-old Concord Farms Duck Club in California has hit the market for $1.5 million, featuring a 16-bedroom clubhouse.",
-      "published": "2026-09-20T17:12:00+00:00",
-      "fetched": "2026-09-20T19:52:29.181491+00:00"
     }
   ]
 }
