@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-01T17:34:06.739998+00:00",
+  "updated": "2026-10-01T22:03:14.254637+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0fe7ed479d6766c6",
+      "title": "Governor Healey and President Kornbluth launch MIT Future Fest",
+      "link": "https://news.mit.edu/2026/governor-healey-and-president-kornbluth-launch-mit-future-fest-1001",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new, five-day MIT event reaches takeoff with a forum about discovery and innovation.",
+      "published": "2026-10-01T18:30:00+00:00",
+      "fetched": "2026-10-01T22:03:13.449249+00:00"
+    },
     {
       "id": "5eb53eb67826acef",
       "title": "When Buckminster Fuller Proposed Putting a Dome Over Manhattan (1960)",
@@ -934,6 +944,16 @@
       "fetched": "2026-09-04T10:01:44.679889+00:00"
     },
     {
+      "id": "d4475b598e87dcc9",
+      "title": "Media Advisory: Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest",
+      "link": "https://news.mit.edu/2026/media-advisory-governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The five-day festival will explore the future of science, technology, art and design from Wednesday, Sept. 30 to Sunday, Oct. 4",
+      "published": "2026-09-04T04:00:00+00:00",
+      "fetched": "2026-10-01T22:03:13.449631+00:00"
+    },
+    {
       "id": "728e8478b556f28d",
       "title": "Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest",
       "link": "https://news.mit.edu/2026/governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest",
@@ -1482,26 +1502,6 @@
       "summary": "The story of humans creating monstrous beings in their image may have perennial relevance, even if it seems specific to our contemporary cultural moment. What, after all, is Oscar Isaac’s AI inventor in Ex Machina but a 21st-century update of Victor Frankenstein? (Before Isaac went on to portray Victor himself in Guillermo del Toro’s 2025 film [ ]",
       "published": "2026-08-25T08:00:22+00:00",
       "fetched": "2026-08-25T12:20:36.035049+00:00"
-    },
-    {
-      "id": "df0295091a9a0600",
-      "title": "Brain circuit keeps tabs on what just happened to aid judgment of what’s happening now",
-      "link": "https://news.mit.edu/2026/brain-keeps-tabs-what-just-happened-to-aid-judgment-whats-happening-now-0824",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "To keep track of what’s going on in front of it, the brain relies not only on what it sees, but also a comparison with what it just saw. A new study pinpoints the circuit that provides that service.",
-      "published": "2026-08-24T19:40:00+00:00",
-      "fetched": "2026-08-25T00:28:53.758780+00:00"
-    },
-    {
-      "id": "83d1bf64fafd81be",
-      "title": "Meteorite dust holds records of magnetism that may have helped form the sun",
-      "link": "https://news.mit.edu/2026/meteorite-dust-holds-records-magnetism-may-have-helped-form-sun-0824",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.",
-      "published": "2026-08-24T19:00:00+00:00",
-      "fetched": "2026-08-25T00:28:53.758806+00:00"
     }
   ]
 }

@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-01T17:34:07.343750+00:00",
+  "updated": "2026-10-01T22:03:14.937465+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bcb0f52c38c313c1",
+      "title": "Josh Duhamel Reveals Hollywood Warning After Selling $3.4 Million L.A. Home and Embracing Midwest Life",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/josh-duhamel-hollywood-warning-testosterone-midwest-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actor has revealed the warning he received from his former agency as he opens up about his life and future outside Hollywood.",
+      "published": "2026-10-01T21:13:50+00:00",
+      "fetched": "2026-10-01T22:03:14.936738+00:00"
+    },
+    {
+      "id": "aa6ac8b9ca9ee0a1",
+      "title": "Maryland Bans ‘Check in the Mail’ Homebuying Tactic",
+      "link": "https://www.realtor.com/news/real-estate-news/maryland-bans-unsolicited-check-homebuying-offers/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Maryland now bans investors from mailing negotiable checks with unsolicited home offers, citing confusion, fraud, and consumer risk.",
+      "published": "2026-10-01T20:44:07+00:00",
+      "fetched": "2026-10-01T22:03:14.936776+00:00"
+    },
+    {
+      "id": "c2c9ca4cc1a1108e",
+      "title": "Your AC Survived the Summer. Will It Survive Your Neglect This Fall?",
+      "link": "https://www.realtor.com/advice/home-improvement/air-conditioner-fall-maintenance-tips/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If your air conditioner had faithfully served you all summer, make sure to give it some TLC before putting it to rest for the winter.",
+      "published": "2026-10-01T20:12:53+00:00",
+      "fetched": "2026-10-01T22:03:14.936806+00:00"
+    },
+    {
+      "id": "fe821b6861fc052c",
+      "title": "How the Winning ‘Totally ’90s House’ Team Will Use Its $22K Prize To Help the ‘Huge Housing Crisis’",
+      "link": "https://www.realtor.com/news/reality-tv/totally-90s-house-hgtv-winners-revealed/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The HGTV competition stacked two teams of former child stars against each other to renovate dated homes while retaining their 1990s charm.",
+      "published": "2026-10-01T20:02:55+00:00",
+      "fetched": "2026-10-01T22:03:14.936838+00:00"
+    },
+    {
+      "id": "1a845d7b418c120a",
+      "title": "California Governor Signs Bill That May Raise HOA Fees as Part of Major Housing Reform Package",
+      "link": "https://www.realtor.com/news/real-estate-news/california-newsom-hoa-fees-starter-home-legislation-package/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The package includes reforms that cut down on the number of reviews projects must go through and new standards for factory-built housing.",
+      "published": "2026-10-01T19:40:50+00:00",
+      "fetched": "2026-10-01T22:03:14.936866+00:00"
+    },
+    {
+      "id": "5d8fc2a5931a250c",
+      "title": "Your Essential Fall Maintenance Checklist: 8 Things You Really Should Do Before the First Frost",
+      "link": "https://www.realtor.com/advice/home-improvement/fall-home-maintenance-checklist/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The postsummer months are a critical time for knocking out routine home maintenance to keep your household running smoothly into winter.",
+      "published": "2026-10-01T19:40:00+00:00",
+      "fetched": "2026-10-01T22:03:14.936893+00:00"
+    },
+    {
+      "id": "8832dc7167ff85b5",
+      "title": "As Boomers Start Turning 80, Their Contribution to Housing Demand Is Starting To Wane",
+      "link": "https://www.realtor.com/news/trends/baby-boomers-aging-housing-market-impact-jchs-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The loss of older adult households, which will only continue as the boomers age, has dampened household growth and new housing demand.",
+      "published": "2026-10-01T19:05:18+00:00",
+      "fetched": "2026-10-01T22:03:14.936920+00:00"
+    },
+    {
+      "id": "d433fd66c69ce22b",
+      "title": "Jim Carrey Marries Min Ah in Secret L.A. Ceremony—After Retreating to a Quiet Life in Hawaii",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jim-carrey-min-ah-secret-wedding-hawaii-life/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 64-year-old \"Ace Ventura\" star married Ah in a small, private ceremony in Los Angeles after having relocated to Hawaii.",
+      "published": "2026-10-01T18:51:28+00:00",
+      "fetched": "2026-10-01T22:03:14.936948+00:00"
+    },
+    {
+      "id": "084c25658a49cf88",
+      "title": "Inheriting a Low Property Tax Bill Is Getting Much More Complicated",
+      "link": "https://www.realtor.com/advice/finance/inherit-home-property-tax/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inheriting a home can mean inheriting property taxes, too. Here’s what heirs, executors, and families need to know to avoid surprises.",
+      "published": "2026-10-01T17:33:00+00:00",
+      "fetched": "2026-10-01T22:03:14.936978+00:00"
+    },
     {
       "id": "61507475ee1185b5",
       "title": "Andrew Cuomo Drops $9.6 Million in Cash on Lavish Hamptons Estate—After Failed NYC Mayoral Bid",
@@ -1412,96 +1502,6 @@
       "summary": "Imagine getting 10% off your next rental property (on the low end). What about getting a rate in the 3% or 4% range, or putting only 5%-15% down on a [ ]",
       "published": "2026-09-23T11:00:55+00:00",
       "fetched": "2026-09-23T15:38:12.407647+00:00"
-    },
-    {
-      "id": "8f45dd102e55921f",
-      "title": "Multifamily vs. Single-Family Investing: Which Is Better for Beginners?",
-      "link": "https://www.biggerpockets.com/blog/rookie-774",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Every rookie investor arrives at the same fork in the road early on: single-family home or multifamily. Which one s actually the better option? The property type you choose first can [ ]",
-      "published": "2026-09-23T11:00:04+00:00",
-      "fetched": "2026-09-23T15:38:12.407687+00:00"
-    },
-    {
-      "id": "21344e52b76213f7",
-      "title": "People Are Moving Less Than Ever—and It’s Costing Them Career and Lifestyle Upgrades",
-      "link": "https://www.realtor.com/news/trends/americans-moving-less-staying-put-data-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Americans, especially millennials, are shunning moves of all kinds with increasing frequency this year, a new study finds.",
-      "published": "2026-09-23T09:00:00+00:00",
-      "fetched": "2026-09-23T10:21:14.693800+00:00"
-    },
-    {
-      "id": "a7fb22a66b35451d",
-      "title": "Inside Missouri’s ‘African Queen’: $1.2 Million Short-Term Rental Features a 15-Foot Zulu Warrior",
-      "link": "https://www.realtor.com/news/unique-homes/african-queen-house-springfield-missouri-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore Springfield's iconic \"African Queen\" house, complete with a 15-foot Zulu warrior sculpture, petrified wood, and global decor.",
-      "published": "2026-09-23T08:36:00+00:00",
-      "fetched": "2026-09-23T10:21:14.693840+00:00"
-    },
-    {
-      "id": "1950b55465ee06b2",
-      "title": "Texas Gov. Greg Abbott Halts Data Center Permits in Defiance of Trump as Public Backlash Grows",
-      "link": "https://www.realtor.com/news/real-estate-news/texas-greg-abbott-halts-data-center-permits-environmental-review/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Texas is the nation's top market for data center construction, far surpassing Virginia. Abbott said he'd push to end incentives, too.",
-      "published": "2026-09-22T21:47:23+00:00",
-      "fetched": "2026-09-23T01:58:32.021479+00:00"
-    },
-    {
-      "id": "19ad8d2a973d9826",
-      "title": "Christina Haack and Ant Anstead Reunite for Son Hudson’s Big Day at School",
-      "link": "https://www.realtor.com/news/reality-tv/christina-haack-ant-anstead-reunion-son-hudson/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The former couple, who finalized their divorce in 2021, have made strides in their co-parenting relationship.",
-      "published": "2026-09-22T21:08:03+00:00",
-      "fetched": "2026-09-23T01:58:32.021518+00:00"
-    },
-    {
-      "id": "e797bf85f7080d5e",
-      "title": "Kennedy Family Feud Erupts Over Use of Hyannis Port Compound for Ex-Con’s Birthday Bash",
-      "link": "https://www.realtor.com/news/trends/kennedy-heir-outrage-disgraced-birthday-bash-hyannis-port-compound/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The affair in question was a joint birthday bash for disgraced Tyco International CEO Dennis Kozlowski, billed as “An Evening in Camelot.”",
-      "published": "2026-09-22T20:47:47+00:00",
-      "fetched": "2026-09-23T01:58:32.021554+00:00"
-    },
-    {
-      "id": "31989de89b85a40e",
-      "title": "Chip and Joanna Gaines Finally Sell Their Famous $2.7 Million Historic Waco Castle—Fully Furnished",
-      "link": "https://www.realtor.com/news/reality-tv/chip-joanna-gaines-sell-waco-texas-castle/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The yearslong renovation and design project, which was featured on \"Fixer Upper: The Castle,\" is ready for new residents.",
-      "published": "2026-09-22T20:32:25+00:00",
-      "fetched": "2026-09-23T01:58:32.021586+00:00"
-    },
-    {
-      "id": "42985051457248c6",
-      "title": "Kelly Stafford Reveals How She and NFL Star Matthew Keep Football From Taking Over Their Family Home",
-      "link": "https://www.realtor.com/news/sports/kelly-stafford-matthew-stafford-football-taking-over-family-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kelly, 37, opened up about how she and Matthew, 38, have created a comfortable space for their four daughters.",
-      "published": "2026-09-22T20:02:59+00:00",
-      "fetched": "2026-09-22T20:32:29.153204+00:00"
-    },
-    {
-      "id": "e3dfa2b9e381f2dc",
-      "title": "A Rare Frank Lloyd Wright House in Michigan’s Exclusive Usonian Community Just Hit the Market for $2.1 Million",
-      "link": "https://www.realtor.com/news/unique-homes/frank-lloyd-wright-eppstein-house-for-sale-michigan/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Own a piece of history: Frank Lloyd Wright's restored Eppstein House in Michigan hits the market for $2.1 million.",
-      "published": "2026-09-22T19:36:20+00:00",
-      "fetched": "2026-09-22T20:32:29.153238+00:00"
     }
   ]
 }
