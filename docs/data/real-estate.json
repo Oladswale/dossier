@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-09-30T21:35:22.360440+00:00",
+  "updated": "2026-10-01T02:38:25.198263+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "db4b983395fd1e33",
+      "title": "‘East of Eden’ Writer Zoe Kazan Details Historic Childhood Home in Los Angeles—Where She Grew Up Surrounded by Influential Names in Film",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/zoe-kazan-east-of-eden-los-angeles-childhood-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The multihyphenate Los Angeles native opened up about her Hollywood roots, which go back generations.",
+      "published": "2026-09-30T22:46:31+00:00",
+      "fetched": "2026-10-01T02:38:25.197685+00:00"
+    },
+    {
+      "id": "79e1214b30a8540d",
+      "title": "Mamdani Wants To Turn Lower Manhattan Government Offices Into Nearly 4,000 Apartments",
+      "link": "https://www.realtor.com/news/trends/mamdani-100-gold-street-4000-apartments-affordable-housing/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A plan for 4,000 homes at 100 Gold St. would use 3,000 market-rate apartments to help support 1,000 affordable units.",
+      "published": "2026-09-30T22:24:56+00:00",
+      "fetched": "2026-10-01T02:38:25.197721+00:00"
+    },
+    {
+      "id": "c98bc525f5bdd0cc",
+      "title": "The Fall Maintenance Divide: Homeowners in These Metros Are Most Prepared for the Upcoming Wild-Card Fall Weather",
+      "link": "https://www.realtor.com/advice/home-improvement/fall-home-maintenance-preparedness-metro-rankings-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With El Nino throwing predictable weather out the window, some homeowners are preparing better than others for fall.",
+      "published": "2026-09-30T22:02:02+00:00",
+      "fetched": "2026-10-01T02:38:25.197752+00:00"
+    },
+    {
+      "id": "570c01961d277ad5",
+      "title": "Senate Sinks Data Center Energy Cost Bill Ahead of Midterms",
+      "link": "https://www.realtor.com/news/real-estate-news/senate-blocks-data-center-energy-cost-bill/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Senate sank a bill aimed at shielding homeowners from data center energy cost after Democrats argued it didn't do enough.",
+      "published": "2026-09-30T21:35:12+00:00",
+      "fetched": "2026-10-01T02:38:25.197781+00:00"
+    },
     {
       "id": "535c6c0a59eace1c",
       "title": "Taylor Swift Reveals the Meaning Behind the $47 Million Beverly Hills Fortress in the ‘Patient Zero’ Music Video",
@@ -1462,46 +1502,6 @@
       "summary": "The Federal Reserve hiked rates last week, but did it actually help the housing market? Our panel of real estate investing experts isn’t all that bummed by potentially higher rates [ ]",
       "published": "2026-09-22T11:00:55+00:00",
       "fetched": "2026-09-22T15:48:26.370271+00:00"
-    },
-    {
-      "id": "d5e5b7a8d159a720",
-      "title": "How Homebuyers Can ‘Rate-Proof’ Their Budgets in a Volatile Mortgage Market",
-      "link": "https://www.realtor.com/news/trends/homebuyers-mortgage-rate-proof-budget-volatile-market-report-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "To avoid getting priced out right before closing, buyers are advised to build a rate cushion into their budget based on their timeline.",
-      "published": "2026-09-22T09:00:00+00:00",
-      "fetched": "2026-09-22T10:26:28.255532+00:00"
-    },
-    {
-      "id": "0698b5f2976ea2ef",
-      "title": "Sea-to-Lake Manalapan Estate Marketed as a Teardown Is Listed for an Astonishing $95 Million",
-      "link": "https://www.realtor.com/news/unique-homes/manalapan-estate-teardown-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "From a $95 million oceanfront estate in Manalapan, FL, to luxury Manhattan townhouses, tour the week's 10 most expensive homes.",
-      "published": "2026-09-22T08:18:00+00:00",
-      "fetched": "2026-09-22T10:26:28.255568+00:00"
-    },
-    {
-      "id": "2425e079843cae4a",
-      "title": "Nearly All Mayors Say Residents Are Concerned About Housing Affordability",
-      "link": "https://www.realtor.com/news/real-estate-news/mayors-poll-housing-affordability-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In a poll released on Sept. 17, more than 96% of 113 mayors found residents are very or extremely concerned about affordability.",
-      "published": "2026-09-21T22:04:09+00:00",
-      "fetched": "2026-09-22T02:00:45.732296+00:00"
-    },
-    {
-      "id": "c9c465294d328b89",
-      "title": "‘Selling Sunset’ Star Bre Tiesi Reveals Reality of Raising Son With Nick Cannon—and Her Relationship With the 5 Other Moms",
-      "link": "https://www.realtor.com/news/reality-tv/selling-sunset-bre-tiesi-reality-raising-son-nick-cannon-children/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The real estate agent, who shares 4-year-old son Legendary Love with Cannon, 45, got candid about navigating the complicated family dynamic.",
-      "published": "2026-09-21T21:28:28+00:00",
-      "fetched": "2026-09-22T02:00:45.732324+00:00"
     }
   ]
 }

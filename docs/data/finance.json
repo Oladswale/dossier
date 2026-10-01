@@ -1,8 +1,48 @@
 {
   "category": "finance",
-  "updated": "2026-09-30T21:35:05.006638+00:00",
+  "updated": "2026-10-01T02:38:09.077244+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "73d7b57e4aa4dca2",
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "At today’s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
+      "published": "2026-10-01T02:35:00+00:00",
+      "fetched": "2026-10-01T02:38:08.257862+00:00"
+    },
+    {
+      "id": "b67ee7a7780f318c",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "published": "2026-10-01T00:45:00+00:00",
+      "fetched": "2026-10-01T02:38:08.257907+00:00"
+    },
+    {
+      "id": "f5cf432c7ee5b3d7",
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+      "published": "2026-09-30T23:44:28+00:00",
+      "fetched": "2026-10-01T02:38:08.337765+00:00"
+    },
+    {
+      "id": "6c1c73f37272bc97",
+      "title": "Google shows it’s not out of the AI race just yet",
+      "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
+      "published": "2026-09-30T22:51:00+00:00",
+      "fetched": "2026-10-01T02:38:08.257967+00:00"
+    },
     {
       "id": "ebbae436735298e5",
       "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
@@ -64,6 +104,26 @@
       "fetched": "2026-09-30T21:34:03.797312+00:00"
     },
     {
+      "id": "92cfa7011fb771eb",
+      "title": "Top 10 Nigerian universities in Times Higher Education 2027 rankings",
+      "link": "https://nairametrics.com/2026/09/30/top-10-nigerian-universities-in-times-higher-education-2027-rankings/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The number of Nigerian universities featured in the Times Higher Education (THE) World University Rankings has risen from 24 to 29, according to the latest edition of the global ranking. The post Top 10 Nigerian universities in Times Higher Education 2027 rankings appeared first on Nairametrics .",
+      "published": "2026-09-30T19:28:09+00:00",
+      "fetched": "2026-10-01T02:38:08.637668+00:00"
+    },
+    {
+      "id": "310c467633fd0884",
+      "title": "Tony Elumelu expands Seplat stake to 21.07%, now worth $1.5 billion",
+      "link": "https://nairametrics.com/2026/09/30/tony-elumelu-expands-seplat-stake-to-21-07-now-worth-1-5-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian billionaire Tony Elumelu has acquired an additional 6 million shares in Seplat Energy Plc through Heirs Energies Limited, taking the combined stake held by entities he controls to 21.07%. The post Tony Elumelu expands Seplat stake to 21.07%, now worth $1.5 billion appeared first on Nairametrics .",
+      "published": "2026-09-30T19:26:21+00:00",
+      "fetched": "2026-10-01T02:38:08.637719+00:00"
+    },
+    {
       "id": "5ffb539f5cfb5d31",
       "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
       "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
@@ -72,6 +132,16 @@
       "summary": "Despite questions swirling around colleges and universities, Griffin’s $3 billion donation to Carnegie Mellon University is one of many from billionaires to colleges this year",
       "published": "2026-09-30T19:21:00+00:00",
       "fetched": "2026-09-30T21:34:03.797347+00:00"
+    },
+    {
+      "id": "6827b75be0cfc48f",
+      "title": "NGX market cap drops to N163.10 trillion as banking, insurance stocks drag market lower",
+      "link": "https://nairametrics.com/2026/09/30/ngx-market-cap-drops-to-n163-10-trillion-as-banking-insurance-stocks-drag-market-lower/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Equity trading activity on the Nigerian Exchange Limited (NGX) closed in the red on Wednesday, September 30, 2026, with the All-Share Index (ASI) contracting by 701.53 points to close at 251,211.67 points, compared to 251,913.20 points registered on Tuesday, September 29. The post NGX market cap drops to N163.10 trillion as banking, insurance stocks drag market lower appeared first on Nairametrics .",
+      "published": "2026-09-30T19:01:03+00:00",
+      "fetched": "2026-10-01T02:38:08.637769+00:00"
     },
     {
       "id": "ac12ea421fe17d83",
@@ -92,6 +162,56 @@
       "summary": "The pharma giant is working on an experimental amylin drug to see if it can help people lose weight and manage their diabetes.",
       "published": "2026-09-30T18:45:00+00:00",
       "fetched": "2026-09-30T21:34:03.797408+00:00"
+    },
+    {
+      "id": "92b2360713cf824a",
+      "title": "Stanbic IBTC’s pre-tax profit rises 40%, declares N4.50 interim dividend",
+      "link": "https://nairametrics.com/2026/09/30/stanbic-ibtcs-pre-tax-profit-rises-40-declares-n4-50-interim-dividend/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Stanbic IBTC Holdings Plc has released its H1 2026 results, reporting a 40.13% increase in profit before tax for the period ended June 30, 2026. The post Stanbic IBTC’s pre-tax profit rises 40%, declares N4.50 interim dividend appeared first on Nairametrics .",
+      "published": "2026-09-30T18:35:41+00:00",
+      "fetched": "2026-10-01T02:38:08.637820+00:00"
+    },
+    {
+      "id": "e662e1abe88217c2",
+      "title": "Lagos receives 20 CNG buses as FG targets lower transport fares",
+      "link": "https://nairametrics.com/2026/09/30/lagos-receives-20-cng-buses-as-fg-targets-lower-transport-fares/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Presidential Initiative on CNG and Electric Vehicles (Pi-CNG EV) has delivered 20 high-capacity Compressed Natural Gas (CNG) buses to the Lagos Metropolitan Area Transport Authority (LAMATA) to expand public transport capacity in Lagos. The post Lagos receives 20 CNG buses as FG targets lower transport fares appeared first on Nairametrics .",
+      "published": "2026-09-30T18:32:27+00:00",
+      "fetched": "2026-10-01T02:38:08.637866+00:00"
+    },
+    {
+      "id": "fc08441561a6a4c2",
+      "title": "UAC Nigeria exits Livestock Feeds in N19.5 billion deal with Sunbeth",
+      "link": "https://nairametrics.com/2026/09/30/uac-nigeria-exits-livestock-feeds-in-n19-5-billion-deal-with-sunbeth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "UAC of Nigeria Plc has agreed to sell its 73.29% shareholding in Livestock Feeds Plc to Sunbeth Treenuts and Sesame Limited in an all-cash transaction valued at N19.5 billion. The post UAC Nigeria exits Livestock Feeds in N19.5 billion deal with Sunbeth appeared first on Nairametrics .",
+      "published": "2026-09-30T18:26:27+00:00",
+      "fetched": "2026-10-01T02:38:08.637907+00:00"
+    },
+    {
+      "id": "7fba3b877d53fe75",
+      "title": "Ghana Revenue Authority to resolve Tullow’s $393 million tax liability without disrupting operations",
+      "link": "https://nairametrics.com/2026/09/30/ghana-revenue-authority-to-resolve-tullows-393-million-tax-liability-without-disrupting-operations/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Ghana Revenue Authority (GRA) has assured that it will work with Tullow Oil Ghana to settle its $393 million tax liability without disrupting the company’s petroleum operations. The post Ghana Revenue Authority to resolve Tullow’s $393 million tax liability without disrupting operations appeared first on Nairametrics .",
+      "published": "2026-09-30T17:34:15+00:00",
+      "fetched": "2026-10-01T02:38:08.637960+00:00"
+    },
+    {
+      "id": "fed47bad3b5c1b31",
+      "title": "Kenyan government to buy stake in $16 billion Dangote Lamu oil refinery – Ruto",
+      "link": "https://nairametrics.com/2026/09/30/kenyan-government-to-buy-stake-in-16-billion-dangote-lamu-oil-refinery-ruto/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Kenyan government has announced plans to invest in the proposed KSh2.2 trillion ($16 billion) Lamu oil refinery through the National Infrastructure Fund. The post Kenyan government to buy stake in $16 billion Dangote Lamu oil refinery – Ruto appeared first on Nairametrics .",
+      "published": "2026-09-30T17:07:15+00:00",
+      "fetched": "2026-10-01T02:38:08.638006+00:00"
     },
     {
       "id": "e65a8ce6a80ee7e3",
@@ -1382,126 +1502,6 @@
       "summary": "“I could rent the property and generate $800 a month in positive cash flow.”",
       "published": "2026-09-29T09:16:00+00:00",
       "fetched": "2026-09-29T11:39:07.240996+00:00"
-    },
-    {
-      "id": "a1542ea8bd7a4834",
-      "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
-      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "At least about $4.2 trillion of the estimated yearly costs needed to fund the artificial-intelligence build-out is currently not being covered, according to the consulting firm.",
-      "published": "2026-09-29T09:12:00+00:00",
-      "fetched": "2026-09-29T11:39:07.241019+00:00"
-    },
-    {
-      "id": "89fa9b75ce5cdf0c",
-      "title": "Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home",
-      "link": "https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Singer Donnie Wahlberg and actress Jenny McCarthy have owned the St. Charles residence for more than a decade, having purchased it for $1.1 million in 2015.",
-      "published": "2026-09-29T09:00:00+00:00",
-      "fetched": "2026-09-29T11:39:07.241053+00:00"
-    },
-    {
-      "id": "0cd7259bf625c0e6",
-      "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
-      "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Kardashian matriarch Kris Jenner has once again removed her Hidden Hills, Calif., mansion from the market—after wavering over the sale.",
-      "published": "2026-09-29T08:58:00+00:00",
-      "fetched": "2026-09-29T11:39:07.241076+00:00"
-    },
-    {
-      "id": "a956e962930d87e2",
-      "title": "NGX Weekly Sector Watch: Consumer goods gain 3% YtD but now more expensive",
-      "link": "https://nairametrics.com/2026/09/29/ngx-weekly-sector-watch-consumer-goods-gain-3-ytd-but-now-more-expensive/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A share trading well below its highest price of the year can look like a bargain. That is the picture across Nigerian consumer goods stocks: the 19 companies reviewed traded, on average, about 22% below their individual 52-week highs. The Index had gained just 2.99% year to date, making it the second-worst performer among the [ ] The post NGX Weekly Sector Watch: Consumer goods gain 3% YtD but now more expensive appeared first on Nairametrics .",
-      "published": "2026-09-29T08:53:42+00:00",
-      "fetched": "2026-09-29T11:39:08.173021+00:00"
-    },
-    {
-      "id": "900d736f8d27938f",
-      "title": "Bank of Ghana Governor appoints Matilda Asante-Asiedu to GoldBod Board",
-      "link": "https://nairametrics.com/2026/09/29/bank-of-ghana-governor-appoints-matilda-asante-asiedu-to-goldbod-board/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Bank of Ghana Governor Dr Johnson Pandit Asiama has appointed Second Deputy Governor Matilda Asante-Asiedu to represent him on the Board of the Ghana Gold Board (GoldBod). The post Bank of Ghana Governor appoints Matilda Asante-Asiedu to GoldBod Board appeared first on Nairametrics .",
-      "published": "2026-09-29T08:36:55+00:00",
-      "fetched": "2026-09-29T11:39:08.173062+00:00"
-    },
-    {
-      "id": "59d892d472aefe8d",
-      "title": "GTCO’s HabariPay, pension and fund managers post N15.94 billion pre-tax profit in H1 2026",
-      "link": "https://nairametrics.com/2026/09/29/gtcos-habaripay-pension-and-fund-managers-post-n15-94-billion-pre-tax-profit-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Guaranty Trust Holding Company Plc (GTCO) generated a combined profit before tax of N15.94 billion from its three non-banking subsidiaries in the first half of 2026, underscoring the growing contribution of its fintech, asset management and pension businesses to Group earnings. The post GTCO’s HabariPay, pension and fund managers post N15.94 billion pre-tax profit in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-09-29T08:18:41+00:00",
-      "fetched": "2026-09-29T11:39:08.173103+00:00"
-    },
-    {
-      "id": "3fd58a59f4122b73",
-      "title": "Petrol price volatility causing us billions in losses, Nigerians not sympathetic, oil marketers say",
-      "link": "https://nairametrics.com/2026/09/29/petrol-price-volatility-causing-us-billions-in-losses-nigerians-not-sympathetic-oil-marketers-say/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Oil marketers have lamented that Nigerians are not sympathetic to the losses they incur due to volatility in the downstream petroleum sector. The post Petrol price volatility causing us billions in losses, Nigerians not sympathetic, oil marketers say appeared first on Nairametrics .",
-      "published": "2026-09-29T08:08:42+00:00",
-      "fetched": "2026-09-29T11:39:08.173130+00:00"
-    },
-    {
-      "id": "bc4d5ca75e8b8eb6",
-      "title": "GTCO’s foreign subsidiaries contribute N262.6 billion interest income in H1 2026",
-      "link": "https://nairametrics.com/2026/09/29/gtcos-foreign-subsidiaries-contribute-n262-6-billion-interest-income-in-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Guaranty Trust Holding Company Plc (GTCO) generated N262.58 billion in interest income from its African and United Kingdom subsidiaries during the first half of 2026, accounting for about 30% of the Group's total interest income for the period. The post GTCO’s foreign subsidiaries contribute N262.6 billion interest income in H1 2026 appeared first on Nairametrics .",
-      "published": "2026-09-29T07:34:39+00:00",
-      "fetched": "2026-09-29T11:39:08.173166+00:00"
-    },
-    {
-      "id": "0057e2c00ed5b4b7",
-      "title": "Mark Zuckerberg loses $12.2 billion as Meta shares slide on AI spending concerns",
-      "link": "https://nairametrics.com/2026/09/29/mark-zuckerberg-loses-12-2-billion-as-meta-shares-slide-on-ai-spending-concerns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Meta CEO Mark Zuckerberg lost about $12.2billion from his fortune on Monday as shares of the technology company declined amid renewed investor concerns over the scale of its artificial intelligence spending. The post Mark Zuckerberg loses $12.2 billion as Meta shares slide on AI spending concerns appeared first on Nairametrics .",
-      "published": "2026-09-29T07:20:10+00:00",
-      "fetched": "2026-09-29T11:39:08.173195+00:00"
-    },
-    {
-      "id": "bef2da66071e25bc",
-      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-      "published": "2026-09-29T07:19:38+00:00",
-      "fetched": "2026-09-29T11:39:07.417769+00:00"
-    },
-    {
-      "id": "28e6a6de7a1e7a87",
-      "title": "The competency illusion: Why Africa’s tech ecosystem is firing top engineers",
-      "link": "https://techcabal.com/2026/09/29/why-africas-tech-ecosystem-is-firing-top-engineers/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Technical skills alone no longer guarantee success in tech careers in Africa. Now, companies are prioritising business literacy, leadership, and AI-driven strategic thinking over pure coding ability.",
-      "published": "2026-09-29T07:15:06+00:00",
-      "fetched": "2026-09-29T11:39:08.782214+00:00"
-    },
-    {
-      "id": "bc6cc7ab8e7ea096",
-      "title": "FG releases final approved textbook list for Nigerian schools, adds QR tracking codes",
-      "link": "https://nairametrics.com/2026/09/29/fg-releases-final-approved-textbook-list-for-nigerian-schools-adds-qr-tracking-codes/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Ministry of Education has released the final list of textbooks ranked and approved for use in Nigerian schools from 2026 to 2028, introducing unique QR tracking codes to improve the monitoring of instructional materials. The post FG releases final approved textbook list for Nigerian schools, adds QR tracking codes appeared first on Nairametrics .",
-      "published": "2026-09-29T07:09:13+00:00",
-      "fetched": "2026-09-29T11:39:08.173225+00:00"
     }
   ]
 }
