@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-01T02:38:24.595681+00:00",
+  "updated": "2026-10-01T11:54:14.662931+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5eb53eb67826acef",
+      "title": "When Buckminster Fuller Proposed Putting a Dome Over Manhattan (1960)",
+      "link": "https://www.openculture.com/2026/10/when-buckminster-fuller-proposed-putting-a-dome-over-manhattan-1960.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Image via Buckminster Fuller Estate The novels of John Brunner have become a niche taste, even within his genre of science fiction. A more sociologically minded version of Philip K. Dick at his best, he could write with what now looks like a simultaneous prescience about the civilization to come and an apocalyptically anxious concern [ ]",
+      "published": "2026-10-01T09:00:21+00:00",
+      "fetched": "2026-10-01T11:54:14.662707+00:00"
+    },
+    {
+      "id": "e6cc9d86c20a1902",
+      "title": "LEGO Lets You Build Gaudí’s Sagrada Família in Its Largest Set Ever",
+      "link": "https://www.openculture.com/2026/10/lego-lets-you-build-gaudis-sagrada-familia-in-its-largest-set-ever.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "When work on the Sagrada Família first began in 1882, the original architect could hardly have imagined that, 144 years later, the ambitious undertaking would still be underway. Yet here we are. Famously, the Catalan architect Antoni Gaudí (1852–1926) spent the last four decades of his life designing and building the Gothic-inspired basilica in Barcelona.",
+      "published": "2026-10-01T08:00:21+00:00",
+      "fetched": "2026-10-01T11:54:14.662760+00:00"
+    },
     {
       "id": "14d0b24272c5f6db",
       "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
@@ -1482,26 +1502,6 @@
       "summary": "The discovery likely represents the earliest known evidence of a magnetic field in the infant solar system.",
       "published": "2026-08-24T19:00:00+00:00",
       "fetched": "2026-08-25T00:28:53.758806+00:00"
-    },
-    {
-      "id": "5f2b354a95c1ec46",
-      "title": "Generating scenarios for extreme events, without extreme data",
-      "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
-      "published": "2026-08-24T18:00:00+00:00",
-      "fetched": "2026-08-24T18:20:23.874969+00:00"
-    },
-    {
-      "id": "cf69bab03bd15523",
-      "title": "The Daily Routine of Marcus Aurelius: How to Live Like a Stoic",
-      "link": "https://www.openculture.com/2026/08/the-daily-routine-of-marcus-aurelius-how-to-live-like-a-stoic.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Marcus Aurelius did not have a smartphone. In fact, he didn’t have a phone of any kind, owing to the fact that he lived in the second century, though we can be reasonably certain that he commanded more than enough messengers to keep himself informed around the clock. That’s because he was the Roman emperor [ ]",
-      "published": "2026-08-24T09:00:07+00:00",
-      "fetched": "2026-08-24T12:20:15.565045+00:00"
     }
   ]
 }

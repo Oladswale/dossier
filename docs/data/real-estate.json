@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-01T02:38:25.198263+00:00",
+  "updated": "2026-10-01T11:54:15.546633+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fd6b6a81ff3d9660",
+      "title": "The Trillion-Dollar Bubble Grows Bigger",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-465",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "AI could lead to an extinction event, but don’t worry, the stock market will be hitting all-time highs on the way there! We’re entering a new phase of the artificial [ ]",
+      "published": "2026-10-01T11:00:12+00:00",
+      "fetched": "2026-10-01T11:54:14.964950+00:00"
+    },
+    {
+      "id": "8fe30c9d454809c5",
+      "title": "3 Ways Homebuyers Can Beat 7% Mortgage Rates and Save Thousands of Dollars",
+      "link": "https://www.realtor.com/news/trends/three-way-homebuyers-beat-high-mortgage-rates/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Homebuyers can retain control over their borrowing costs and gain up to $28,400 in purchasing power by taking proactive steps.",
+      "published": "2026-10-01T09:00:00+00:00",
+      "fetched": "2026-10-01T11:54:15.546112+00:00"
+    },
+    {
+      "id": "f72d2a9c136b3dca",
+      "title": "‘Buying New Construction Meant I Could Score a 5.25% Mortgage Rate—and $30K in Incentives’",
+      "link": "https://www.realtor.com/news/first-person/buying-new-construction-incentives-mortgage-buydowns/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "When a new-construction home within his price range popped up, this homebuyer switched focus—and saved big on his mortgage.",
+      "published": "2026-10-01T08:33:00+00:00",
+      "fetched": "2026-10-01T11:54:15.546146+00:00"
+    },
+    {
+      "id": "59f67d381b63b329",
+      "title": "O-Town Frontman Ashley Parker Angel Opens Up About His Shocking Health Scare and Las Vegas Sanctuary",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/o-town-frontman-ashley-parker-angel-opens-up-his-las-vegas-sanctuary/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "See inside Angel's Las Vegas abode where he supports his carefully choreographed wellness ritual after a health scare.",
+      "published": "2026-10-01T08:16:00+00:00",
+      "fetched": "2026-10-01T11:54:15.546169+00:00"
+    },
     {
       "id": "db4b983395fd1e33",
       "title": "‘East of Eden’ Writer Zoe Kazan Details Historic Childhood Home in Los Angeles—Where She Grew Up Surrounded by Influential Names in Film",
@@ -1462,46 +1502,6 @@
       "summary": "Exhibitors will show off new housing ideas, from manufactured housing to 3D-printed homes to modular construction.",
       "published": "2026-09-22T16:26:02+00:00",
       "fetched": "2026-09-22T20:32:29.153308+00:00"
-    },
-    {
-      "id": "d753bb6e1e133479",
-      "title": "Dolly Parton’s Nephew Bryan Seaver Fired as Head of Security at Late Country Icon’s Estate—Weeks After Announcing Her Death",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-nephew-bryan-seaver-fired-from-security-homes-death/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Seaver, who announced the \"9 to 5\" hitmaker's death on Aug. 25, received notice of his termination on Sept. 16.",
-      "published": "2026-09-22T15:30:28+00:00",
-      "fetched": "2026-09-22T15:48:26.853643+00:00"
-    },
-    {
-      "id": "755c1dba26ec0d54",
-      "title": "Historic 1865 Kansas Estate Featured on HGTV’s ‘Bargain Mansions’ Hits the Market for $1.35 Million",
-      "link": "https://www.realtor.com/news/unique-homes/shawnee-ks-historic-estate-hgtv-bargain-mansions-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Step inside the $1.35 million Kansas estate renovated by Tamara Day and that once served as a haven for U.S. presidents and Hollywood stars.",
-      "published": "2026-09-22T13:42:56+00:00",
-      "fetched": "2026-09-22T15:48:26.853674+00:00"
-    },
-    {
-      "id": "7b8cad94335bbf60",
-      "title": "EXCLUSIVE: Simone Biles and Jonathan Owens List $1.2 Million Texas Home Where They Lived While Building Their Dream Mansion",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/simone-biles-jonathan-owens-list-texas-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The couple began building their sprawling Texas residence in 2022, with construction wrapping three years later.",
-      "published": "2026-09-22T13:17:25+00:00",
-      "fetched": "2026-09-22T15:48:26.853697+00:00"
-    },
-    {
-      "id": "ff88efd80d3d28a4",
-      "title": "Rates Were Hiked: Here’s What Investors Should Do Now",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-462",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The Federal Reserve hiked rates last week, but did it actually help the housing market? Our panel of real estate investing experts isn’t all that bummed by potentially higher rates [ ]",
-      "published": "2026-09-22T11:00:55+00:00",
-      "fetched": "2026-09-22T15:48:26.370271+00:00"
     }
   ]
 }
