@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-01T11:54:15.546633+00:00",
+  "updated": "2026-10-01T17:34:07.343750+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "61507475ee1185b5",
+      "title": "Andrew Cuomo Drops $9.6 Million in Cash on Lavish Hamptons Estate—After Failed NYC Mayoral Bid",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/andrew-cuomo-buys-hamptons-new-york-home-all-cash/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Cuomo, 68, quietly picked up the waterfront property, which boasts nine bedrooms, in June, according to property records.",
+      "published": "2026-10-01T16:38:20+00:00",
+      "fetched": "2026-10-01T17:34:07.343061+00:00"
+    },
+    {
+      "id": "cfca8aeb32742fdd",
+      "title": "Mortgage Rates Soar to 3-Year High as Global Bond Market Selloff Deepens",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-fed-rate-hike-october-1-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed mortgages hit 7.28% for the week ending Oct. 1, up 25 basis points from last week.",
+      "published": "2026-10-01T16:00:00+00:00",
+      "fetched": "2026-10-01T17:34:07.343100+00:00"
+    },
+    {
+      "id": "462fa6fa96357940",
+      "title": "VIDEO: Homebuilding Leader Says Skilled Labor Shortage Adds $2,500 to Cost of New Homes",
+      "link": "https://www.realtor.com/news/real-estate-news/home-builders-institute-ed-brady-labor-shortage-video-interview/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Home Builders Institute estimates the industry needs 700,000 additional workers a year to keep pace with demand.",
+      "published": "2026-10-01T15:48:54+00:00",
+      "fetched": "2026-10-01T17:34:07.343128+00:00"
+    },
+    {
+      "id": "6d841ae0ff525de7",
+      "title": "Real Estate Tycoon Mauricio Umansky Reveals Plans for L.A. Mayoral Run",
+      "link": "https://www.realtor.com/news/reality-tv/kyle-richards-ex-mauricio-umansky-run-los-angeles-mayor-real-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 56-year-old founder and CEO of The Agency revealed that a future run for mayor of Los Angeles is on the table.",
+      "published": "2026-10-01T14:38:55+00:00",
+      "fetched": "2026-10-01T17:34:07.343156+00:00"
+    },
     {
       "id": "fd6b6a81ff3d9660",
       "title": "The Trillion-Dollar Bubble Grows Bigger",
@@ -1462,46 +1502,6 @@
       "summary": "Own a piece of history: Frank Lloyd Wright's restored Eppstein House in Michigan hits the market for $2.1 million.",
       "published": "2026-09-22T19:36:20+00:00",
       "fetched": "2026-09-22T20:32:29.153238+00:00"
-    },
-    {
-      "id": "0538f874672aa66b",
-      "title": "Why Birmingham Has Become One of America’s Hottest Markets For Real Estate Investors",
-      "link": "https://www.biggerpockets.com/blog/birmingham-real-estate-market-for-investing",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "It’s hard to argue with a purchase price of $160,000 and a median monthly rent of $1,300, even in a high interest rate climate. Those median figures are why Birmingham, [ ]",
-      "published": "2026-09-22T17:46:13+00:00",
-      "fetched": "2026-09-22T20:32:28.806536+00:00"
-    },
-    {
-      "id": "910d5935d198b48c",
-      "title": "Simone Biles Reveals 3 Masked Men Targeted Her Chicago Home and Stole Her Porsche: ‘Absolutely Insanity’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/simone-biles-masked-men-broke-into-chicago-home-stole-porsche/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Biles opened up about the ordeal in a TikTok video, explaining that the theft occurred during the couple's final months in Chicago.",
-      "published": "2026-09-22T17:18:59+00:00",
-      "fetched": "2026-09-22T20:32:29.153264+00:00"
-    },
-    {
-      "id": "507e69afc6adc910",
-      "title": "Nearly Half of Americans Would Buy a 3D-Printed Home—Here’s the Catch",
-      "link": "https://www.realtor.com/news/trends/3d-printed-homes-pros-cons-cost/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Are 3D-printed homes the future of housing? Discover how they compare to traditional builds, real costs, pros, cons, and how to buy one.",
-      "published": "2026-09-22T17:05:32+00:00",
-      "fetched": "2026-09-22T20:32:29.153287+00:00"
-    },
-    {
-      "id": "ff5e2498b3f4b01f",
-      "title": "Showcase on National Mall To Feature Latest Advances in Homebuilding Technology",
-      "link": "https://www.realtor.com/news/trends/innovative-housing-showcase-national-mall-exhibits-time-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Exhibitors will show off new housing ideas, from manufactured housing to 3D-printed homes to modular construction.",
-      "published": "2026-09-22T16:26:02+00:00",
-      "fetched": "2026-09-22T20:32:29.153308+00:00"
     }
   ]
 }

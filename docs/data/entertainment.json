@@ -1,8 +1,108 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-01T11:54:13.356670+00:00",
+  "updated": "2026-10-01T17:34:05.833394+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "65a10917b184d982",
+      "title": "Lil Nas X Learns to Trust the Plan in Poignant ‘World’s Greatest!’ Video",
+      "link": "https://www.rollingstone.com/music/music-news/lil-nas-x-worlds-greatest-video-1235634760/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rock-driven single is the most musically self-assured release from the rapper-singer in years and arrives in dedication to his late mother",
+      "published": "2026-10-01T16:03:15+00:00",
+      "fetched": "2026-10-01T17:34:05.726421+00:00"
+    },
+    {
+      "id": "05affc3c9ad4734b",
+      "title": "Quinceañeras to Congress: Bobby Pulido Finds a New Way to Represent Tejanos",
+      "link": "https://www.rollingstone.com/politics/politics-features/bobby-pulido-retires-music-run-congress-1235635307/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Latin Grammy winner is putting away his microphone to flip a Republican district in South Texas. \"I'm perfectly comfortable never having a concert again,\" he tells Rolling Stone",
+      "published": "2026-10-01T16:00:58+00:00",
+      "fetched": "2026-10-01T17:34:05.726465+00:00"
+    },
+    {
+      "id": "c2447bbc6fc02f92",
+      "title": "Sean Ono Lennon’s New Doc Is About So Much More Than Fashion",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/sean-ono-lennon-threeasfour-full-circle-documentary-trailer-1235634185/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "See a trailer for 'threeasFOUR: Full Circle' about how three people with Palestinian, Israeli, and German roots came together for what Ono Lennon considers a quintessential New York story",
+      "published": "2026-10-01T16:00:24+00:00",
+      "fetched": "2026-10-01T17:34:05.726499+00:00"
+    },
+    {
+      "id": "32c7cfa11b8af320",
+      "title": "Metallica Taps Adidas Originals for Killer Merch Ahead of Their Sphere Residency",
+      "link": "https://www.rollingstone.com/product-recommendations/style/metallica-adidas-phere-merch-where-to-buy-online-1235634668/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Here’s how to shop the new adidas Originals x Metallica merch (even if you can’t make it to The Sphere)",
+      "published": "2026-10-01T15:40:37+00:00",
+      "fetched": "2026-10-01T17:34:05.726543+00:00"
+    },
+    {
+      "id": "3756f3fb87c00d97",
+      "title": "Rick Ross Arrested on Domestic Violence Charges in Miami Beach",
+      "link": "https://www.rollingstone.com/music/music-news/rick-ross-arrested-domestic-violence-charges-miami-beach-1235635267/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Rapper's arrest stems from August 28 incident with his then-girlfriend at his Florida mansion; Ross charged with felony battery by strangulation",
+      "published": "2026-10-01T15:13:41+00:00",
+      "fetched": "2026-10-01T17:34:05.726568+00:00"
+    },
+    {
+      "id": "ccc57b2044eacb16",
+      "title": "Trump Explodes on Reporter: ‘You Haven’t Asked Me One F-cking Positive Question’",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-explodes-reporter-time-interview-1235635165/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The president’s interview with Time didn’t go so well",
+      "published": "2026-10-01T14:47:25+00:00",
+      "fetched": "2026-10-01T17:34:05.726595+00:00"
+    },
+    {
+      "id": "315d71e5f2d26d96",
+      "title": "You Are Not Ready for ‘You Can See Everything’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-doc-1235633117/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Nathan Fielder and Lance Oppenheim officially unveiled their top-secret documentary on Elizabeth Holmes at the New York Film Festival. It's even wilder than you've heard",
+      "published": "2026-10-01T14:45:00+00:00",
+      "fetched": "2026-10-01T17:34:05.726624+00:00"
+    },
+    {
+      "id": "6e4a9cbfb5f6352d",
+      "title": "‘South Park’ Skewers ‘Weenie’ Billionaires and Data Centers on Latest Episode",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/south-park-skewers-weenie-billionaires-data-centers-1235635185/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "AI Donald Trump and his “teeny tiny” weenie also return to “ South America ”",
+      "published": "2026-10-01T14:41:31+00:00",
+      "fetched": "2026-10-01T17:34:05.726651+00:00"
+    },
+    {
+      "id": "25885d244e91e5a0",
+      "title": "Carly Rae Jepsen Announces ‘Day and Night’ North American Tour",
+      "link": "https://www.rollingstone.com/music/music-news/carly-rae-jepsen-day-and-night-north-american-tour-dates-1235635135/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer’s 26-city run will be in support of her eighth studio album",
+      "published": "2026-10-01T14:25:38+00:00",
+      "fetched": "2026-10-01T17:34:05.726675+00:00"
+    },
+    {
+      "id": "20c5667a9ab1b6f1",
+      "title": "Rebecca Yarros’ ‘Fourth Wing’ Graphic Novel Is Already a No. 1 Bestseller Ahead of April Release",
+      "link": "https://www.rollingstone.com/product-recommendations/books/rebecca-yarros-fourth-wing-graphic-novel-buy-online-1235633542/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The graphic novel is available in several different cover editions, each exclusively sold at separate retailers",
+      "published": "2026-10-01T13:51:54+00:00",
+      "fetched": "2026-10-01T17:34:05.726701+00:00"
+    },
     {
       "id": "359329bcb4e147c8",
       "title": "Julianne Moore to Receive Lifetime Achievement Award From ‘The Debut’ Director Jesse Eisenberg at Rome Film Festival",
@@ -1402,106 +1502,6 @@
       "summary": "In one of the later deals pacted at the San Sebastian Festival, Spain’s David Matamoros of Doce Entertainment boarded Matías Rojas’s adaptation of Chilean cult novel “Dog Legs” (“Patas de perro”), joining four other producers from Chile, France, Germany and Colombia. With this, “Dog Paws” enters the final phase of its financing and is expected [ ]",
       "published": "2026-09-29T06:58:39+00:00",
       "fetched": "2026-09-29T11:39:18.647865+00:00"
-    },
-    {
-      "id": "ba8dafa1d6ab9aad",
-      "title": "Dennis Haskins, Actor Who Played Principal Belding on ‘Saved by the Bell,’ Dead at 75",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/dennis-haskins-principal-belding-saved-by-the-bell-obituary-1235633568/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Everyone loved Mr. Belding, and those of us who got to know Dennis loved him even more,\" his agent shared",
-      "published": "2026-09-29T06:42:32+00:00",
-      "fetched": "2026-09-29T11:39:18.865794+00:00"
-    },
-    {
-      "id": "1b406f1e1bdeb65c",
-      "title": "Madrid Audiovisual Cluster Dives Deeper Into New Business Models, AI and Emerging Technologies at Iberseries & Platino Industria",
-      "link": "https://variety.com/2026/film/global/ai-new-tech-biz-models-madrid-audiovisual-cluster-1236877481/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Madrid Audiovisual Cluster (MAC), an economic interest group comprising close to 100 Madrid-based companies, has put together a two-day industry networking and peer-learning program at the Iberseries Platino confab, taking place over Sept. 29 – Oct. 2 in the Spanish capital.",
-      "published": "2026-09-29T05:18:27+00:00",
-      "fetched": "2026-09-29T11:39:18.647902+00:00"
-    },
-    {
-      "id": "23b2cafb4bbe7e36",
-      "title": "Mayor Zohran Mamdani Refuses Jimmy Kimmel’s Request to Text Trump a Selfie of Them",
-      "link": "https://variety.com/2026/tv/news/zohran-mamdani-jimmy-kimmel-live-donald-trump-selfie-text-1236877861/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Jimmy Kimmel Live” is back in Brooklyn. The late-night show has returned to the New York City borough for a week of shows at the Brooklyn Academy of Music. It’s Kimmel’s eighth time filming “Live” in Brooklyn, the place he was born and spent his early years, and the comic is welcoming a number of [ ]",
-      "published": "2026-09-29T05:01:54+00:00",
-      "fetched": "2026-09-29T11:39:18.647937+00:00"
-    },
-    {
-      "id": "b4f00aea6e4e4123",
-      "title": "Todd Rundgren Slams Taylor Swift, Says She ‘Ruined Music’ and Is ‘the Apotheosis of Mediocrity’",
-      "link": "https://variety.com/2026/music/news/todd-rundgren-slams-taylor-swift-1236877824/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Todd Rundgren, the singer-songwriter and producer behind hits like “Hello It s Me and I Saw the Light, recently slammed Taylor Swift, calling the pop star “the apotheosis of mediocrity” and claiming that she “ruined music.” “To me, Taylor Swift is the apotheosis of mediocrity,” Rundgren said in an interview with Vulture. “It’s the era of [ ]",
-      "published": "2026-09-29T02:04:32+00:00",
-      "fetched": "2026-09-29T02:53:44.045752+00:00"
-    },
-    {
-      "id": "dc843bbead8839fb",
-      "title": "‘School Girls; or, the African Mean Girls Play’ Broadway Review: An Exceptional Portrait of Black Girlhood",
-      "link": "https://variety.com/2026/legit/reviews/school-girls-or-the-african-mean-girls-play-broadway-review-1236877325/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Late girlhood has a sacredness that can’t be replicated. It’s a particular time in life between innocence and adulting, allowing young women to swing between the two. Jocelyn Bioh’s sensational play, “School Girls; or, the African Mean Girls Play,” captures this magic and anguish, set against the specificity of mid-1980s Ghana.",
-      "published": "2026-09-29T01:30:00+00:00",
-      "fetched": "2026-09-29T02:53:44.045810+00:00"
-    },
-    {
-      "id": "8a37c62caebfb29e",
-      "title": "‘Hirayasumi’ Anime Unveils Footage, Key Visual and Lead Voice Cast Ahead of NHK Debut",
-      "link": "https://variety.com/2026/tv/news/hirayasumi-anime-footage-voice-cast-nhk-debut-1236877801/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "New footage from the anime adaptation of Shinzo Keigo s manga Hirayasumi has been unveiled, along with a key visual and the principal voice cast, ahead of the series January 2027 premiere on Japan s NHK General TV. Viz Media and Shogakukan-Shueisha Productions (ShoPro) released the material. International streaming plans have yet to be revealed.",
-      "published": "2026-09-29T00:43:37+00:00",
-      "fetched": "2026-09-29T02:53:44.045857+00:00"
-    },
-    {
-      "id": "2bc2f12898c4c1ee",
-      "title": "Miley Hits Number One on Albums Chart With ‘Bass Persuades’",
-      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-number-one-album-bass-persuades-1235633373/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "It’s the musician’s first time topping the Billboard 200 since she released Bangerz in 2013",
-      "published": "2026-09-28T23:57:13+00:00",
-      "fetched": "2026-09-29T02:53:44.194515+00:00"
-    },
-    {
-      "id": "bd27d6d25c21e6e6",
-      "title": "Rob Lowe Says ‘St. Elmo’s Fire’ Sequel Is Still ‘In the Works,’ Confirms There’s a Script: ‘All of Us Actors Want to Do It’",
-      "link": "https://variety.com/2026/film/news/rob-lowe-st-elmos-fire-sequel-in-the-works-1236877779/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Rob Lowe finally has an update on the long-discussed “St. Elmo’s Fire” sequel. “It is definitely in the works, for sure,” the actor said when asked about the project s current status during a “Watch What Happens Live” appearance on Sunday.",
-      "published": "2026-09-28T23:48:23+00:00",
-      "fetched": "2026-09-29T02:53:44.045907+00:00"
-    },
-    {
-      "id": "42a374a83085d6fb",
-      "title": "Hayden Panettiere’s Ex-Fiancé Claims Non-Family May Have ‘Destroyed’ Star’s Emails, Jewelry Missing",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-klitschko-daughter-emails-jewelry-missing-1235633368/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Wladimir Klitschko is seeking standing to act on behalf of their 11-year-old daughter, the star’s sole heir, amid “urgent” concerns about potentially missing assets",
-      "published": "2026-09-28T23:05:17+00:00",
-      "fetched": "2026-09-29T02:53:44.194556+00:00"
-    },
-    {
-      "id": "2fd97cd944ea53c3",
-      "title": "Former ‘South Park’ Writer Launches Site to Expose Information About Cornell University Sexual Assault Case: ‘There Will Be Accountability’",
-      "link": "https://variety.com/2026/tv/news/south-park-writer-cornell-university-sexual-assault-case-1236877772/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Following the news that a former Cornell student had accused seven men of raping and drugging her at a frat house party in October 2024 — and none faced legal consequences — former “South Park” writer Toby Morton has launched a website dedicated to documenting the account of the woman (identified as Jane Doe), her [ ]",
-      "published": "2026-09-28T23:04:25+00:00",
-      "fetched": "2026-09-29T02:53:44.045954+00:00"
     }
   ]
 }
