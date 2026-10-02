@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-02T11:26:15.922292+00:00",
+  "updated": "2026-10-02T16:53:07.856730+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "14a9b5c0f6e20a00",
+      "title": "The next generation’s guide to the new space economy",
+      "link": "https://news.mit.edu/2026/guide-to-new-space-economy-1002",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "An industry report published by students in an MIT aerospace entrepreneurship class lays out guidance for aspiring space leaders and investors.",
+      "published": "2026-10-02T14:50:00+00:00",
+      "fetched": "2026-10-02T16:53:06.873190+00:00"
+    },
     {
       "id": "0d29d7838a52d50a",
       "title": "3 Questions: A new resource to empower young entrepreneurs",
@@ -1492,16 +1502,6 @@
       "summary": "This discovery points toward new combination strategies against cancer, and may explain the iron buildup seen in disorders such as early-onset Parkinson’s disease.",
       "published": "2026-08-25T20:40:00+00:00",
       "fetched": "2026-08-26T00:30:16.428727+00:00"
-    },
-    {
-      "id": "e8044d8cda545f5c",
-      "title": "A new kind of aircraft departs an MIT classroom and arrives at an Ohio factory",
-      "link": "https://news.mit.edu/2026/electra-aircraft-departs-mit-classroom-and-arrives-at-ohio-factory-0825",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Electra’s hybrid, fixed-wing aircraft, which grew out of a class project, could make travel easier for passengers taking shorter trips.",
-      "published": "2026-08-25T20:00:00+00:00",
-      "fetched": "2026-08-26T00:30:16.428766+00:00"
     }
   ]
 }
