@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-02T02:43:17.176396+00:00",
+  "updated": "2026-10-02T11:26:15.922292+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0d29d7838a52d50a",
+      "title": "3 Questions: A new resource to empower young entrepreneurs",
+      "link": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
+      "published": "2026-10-02T04:00:00+00:00",
+      "fetched": "2026-10-02T11:26:15.037410+00:00"
+    },
+    {
+      "id": "61e6f815d6bb3c5e",
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Wristband device from Encora Therapeutics started as a project in 2.009, MIT’s iconic product-design class.",
+      "published": "2026-10-02T04:00:00+00:00",
+      "fetched": "2026-10-02T11:26:15.037438+00:00"
+    },
     {
       "id": "f324607f9fa02ee1",
       "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
@@ -1482,26 +1502,6 @@
       "summary": "Electra’s hybrid, fixed-wing aircraft, which grew out of a class project, could make travel easier for passengers taking shorter trips.",
       "published": "2026-08-25T20:00:00+00:00",
       "fetched": "2026-08-26T00:30:16.428766+00:00"
-    },
-    {
-      "id": "0561d1c9429e7877",
-      "title": "The secret love life of the longfin squid",
-      "link": "https://news.mit.edu/2026/secret-love-life-of-longfin-squid-0825",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT Sea Grant resident artist and acclaimed underwater photographer Keith Ellenbogen captures an intimate look at courtship and communication in a hidden spawning spectacle off Cape Cod.",
-      "published": "2026-08-25T13:35:00+00:00",
-      "fetched": "2026-08-25T18:20:09.361586+00:00"
-    },
-    {
-      "id": "3323c07726e89a68",
-      "title": "The Wisdom of David Bowie: On Art, Religion, Technology and More",
-      "link": "https://www.openculture.com/2026/08/the-wisdom-of-david-bowie-on-art-religion-technology-and-more.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "It doesn’t quite ring true to call David Bowie a rock star. Ziggy Stardust, the neon synthetic-clad alien alter ego he both created and retired in the early seventies, was, of course, rock stardom outlandishly personified. But then, that was the concept of what turned out to be just one of many personae he deliberately [ ]",
-      "published": "2026-08-25T09:00:33+00:00",
-      "fetched": "2026-08-25T12:20:36.034987+00:00"
     }
   ]
 }

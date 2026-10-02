@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-02T02:43:17.992580+00:00",
+  "updated": "2026-10-02T11:26:16.461651+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c15a1e753c5b89ce",
+      "title": "Homebuyers Gain the Upper Hand as Active Listings Surge—With the Biggest Increases in These 3 Cities",
+      "link": "https://www.realtor.com/news/trends/homebuyers-gain-upper-hand-inventory-surge-report-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Despite rising mortgage rates, resilient buyers are gaining leverage due to a nationwide surge in inventory.",
+      "published": "2026-10-02T09:00:00+00:00",
+      "fetched": "2026-10-02T11:26:16.461180+00:00"
+    },
     {
       "id": "762c822e6de3990b",
       "title": "Miami Developer Gets 11 Years in Prison for $89 Million Investor Scam To Fund His Lavish Lifestyle",
@@ -1492,16 +1502,6 @@
       "summary": "For the week ending Sept. 18, MBA's Market Composite Index—a measure of total mortgage loan application volume—fell 1.5%.",
       "published": "2026-09-23T14:29:36+00:00",
       "fetched": "2026-09-23T15:38:12.792732+00:00"
-    },
-    {
-      "id": "b5e02f14883d32b2",
-      "title": "How Dolly Parton’s Hometown of Sevierville Quietly Built a Mountain Empire of Million-Dollar Cabins",
-      "link": "https://www.realtor.com/news/trends/dolly-parton-sevierville-mountain-empire-luxury-cabins/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The legendary songstress was famously raised with 11 siblings in a one-bedroom cabin in rural Locust Ridge in Sevier County.",
-      "published": "2026-09-23T13:29:35+00:00",
-      "fetched": "2026-09-23T15:38:12.792770+00:00"
     }
   ]
 }
