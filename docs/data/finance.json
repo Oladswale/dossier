@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-10-01T22:02:58.374973+00:00",
+  "updated": "2026-10-02T02:43:00.686089+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f5331f965577d55c",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "published": "2026-10-02T01:00:00+00:00",
+      "fetched": "2026-10-02T02:42:59.579930+00:00"
+    },
+    {
+      "id": "29412ba55db3b496",
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+      "published": "2026-10-02T00:14:00+00:00",
+      "fetched": "2026-10-02T02:42:59.580000+00:00"
+    },
+    {
+      "id": "591fcd809d63b1de",
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company has faced struggles in China and in its sneaker business.",
+      "published": "2026-10-02T00:13:00+00:00",
+      "fetched": "2026-10-02T02:42:59.580028+00:00"
+    },
     {
       "id": "a821977fd74c702e",
       "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
@@ -1472,36 +1502,6 @@
       "summary": "In today's edition: Class of 2016: BuuPass Copia’s assets fall short of its debts MTN bets on Africa’s micro-drama market Vodacom finds room for more network capacity",
       "published": "2026-09-30T06:02:11+00:00",
       "fetched": "2026-09-30T11:26:23.864577+00:00"
-    },
-    {
-      "id": "6be62335e8c83074",
-      "title": "FG targets 24-hour power supply with Energy Zones in high-demand areas",
-      "link": "https://nairametrics.com/2026/09/30/fg-targets-24-hour-power-supply-with-energy-zones-in-high-demand-areas/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government is advancing plans to establish Energy Zones in Nigeria’s highest-demand areas as part of efforts to deliver stable, 24-hour electricity to homes, businesses and industries. The post FG targets 24-hour power supply with Energy Zones in high-demand areas appeared first on Nairametrics .",
-      "published": "2026-09-30T05:49:12+00:00",
-      "fetched": "2026-09-30T11:26:23.232471+00:00"
-    },
-    {
-      "id": "eb94871bd85f20a6",
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-      "published": "2026-09-30T03:39:08+00:00",
-      "fetched": "2026-09-30T11:26:22.751920+00:00"
-    },
-    {
-      "id": "bef2da66071e25bc",
-      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-      "link": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-      "published": "2026-09-30T02:50:35+00:00",
-      "fetched": "2026-10-01T11:53:57.722882+00:00"
     }
   ]
 }

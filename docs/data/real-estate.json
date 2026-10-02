@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-01T22:03:14.937465+00:00",
+  "updated": "2026-10-02T02:43:17.992580+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "762c822e6de3990b",
+      "title": "Miami Developer Gets 11 Years in Prison for $89 Million Investor Scam To Fund His Lavish Lifestyle",
+      "link": "https://www.realtor.com/news/trends/miami-developer-rishi-kapoor-prison-sentence-investor-fraud/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "After pleading guilty to money laundering and conspiracy to fail to pay payroll taxes, Rishi Kapoor was sentenced to 136 months in prison.",
+      "published": "2026-10-01T22:26:17+00:00",
+      "fetched": "2026-10-02T02:43:17.992007+00:00"
+    },
+    {
+      "id": "daa77ee97ce6c328",
+      "title": "Louisiana Family Is Accused of Torching 13 Homes in Elaborate Insurance Fraud Scheme",
+      "link": "https://www.realtor.com/news/real-estate-news/louisiana-arson-insurance-fraud-family-whitlock-brown/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The scheme involved making multiple insurance claims that often included the same items and the same typos.",
+      "published": "2026-10-01T22:00:20+00:00",
+      "fetched": "2026-10-02T02:43:17.992039+00:00"
+    },
     {
       "id": "bcb0f52c38c313c1",
       "title": "Josh Duhamel Reveals Hollywood Warning After Selling $3.4 Million L.A. Home and Embracing Midwest Life",
@@ -1482,26 +1502,6 @@
       "summary": "The legendary songstress was famously raised with 11 siblings in a one-bedroom cabin in rural Locust Ridge in Sevier County.",
       "published": "2026-09-23T13:29:35+00:00",
       "fetched": "2026-09-23T15:38:12.792770+00:00"
-    },
-    {
-      "id": "977ae3a02b92fe2f",
-      "title": "Dolly Parton’s Estate Accuses Fired Nephew Bryan Seaver of Threatening ‘Violence’ and Vowing To ‘Destroy’ Her Legacy",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-nephew-bryan-seaver-fired-from-security-homes-death/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Seaver, who announced the \"9 to 5\" hitmaker's death on Aug. 25, received notice of his termination on Sept. 16.",
-      "published": "2026-09-23T13:29:00+00:00",
-      "fetched": "2026-09-23T15:38:12.792800+00:00"
-    },
-    {
-      "id": "4a8e9af0c92382a1",
-      "title": "How to Get 10%+ Off Your Next Real Estate Deal Right Now",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1334",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Imagine getting 10% off your next rental property (on the low end). What about getting a rate in the 3% or 4% range, or putting only 5%-15% down on a [ ]",
-      "published": "2026-09-23T11:00:55+00:00",
-      "fetched": "2026-09-23T15:38:12.407647+00:00"
     }
   ]
 }

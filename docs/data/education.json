@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-01T22:03:14.254637+00:00",
+  "updated": "2026-10-02T02:43:17.176396+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f324607f9fa02ee1",
+      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "link": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
+      "published": "2026-10-01T22:00:00+00:00",
+      "fetched": "2026-10-02T02:43:16.108530+00:00"
+    },
     {
       "id": "0fe7ed479d6766c6",
       "title": "Governor Healey and President Kornbluth launch MIT Future Fest",
@@ -1492,16 +1502,6 @@
       "summary": "It doesn’t quite ring true to call David Bowie a rock star. Ziggy Stardust, the neon synthetic-clad alien alter ego he both created and retired in the early seventies, was, of course, rock stardom outlandishly personified. But then, that was the concept of what turned out to be just one of many personae he deliberately [ ]",
       "published": "2026-08-25T09:00:33+00:00",
       "fetched": "2026-08-25T12:20:36.034987+00:00"
-    },
-    {
-      "id": "6c74acd978233405",
-      "title": "The Very First Film Adaptation of Mary Shelley’s Frankenstein, a Thomas Edison Production (1910)",
-      "link": "https://www.openculture.com/2026/08/first-film-adaptation-of-mary-shelleys-frankenstein.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The story of humans creating monstrous beings in their image may have perennial relevance, even if it seems specific to our contemporary cultural moment. What, after all, is Oscar Isaac’s AI inventor in Ex Machina but a 21st-century update of Victor Frankenstein? (Before Isaac went on to portray Victor himself in Guillermo del Toro’s 2025 film [ ]",
-      "published": "2026-08-25T08:00:22+00:00",
-      "fetched": "2026-08-25T12:20:36.035049+00:00"
     }
   ]
 }
