@@ -1,8 +1,88 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-02T21:28:46.063666+00:00",
+  "updated": "2026-10-03T02:29:34.313535+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "78341c7eaa334679",
+      "title": "‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama",
+      "link": "https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "\"Behemoth!\" is a classical-musician movie. It’s a midlife-crisis movie. It’s a romantic mystery.",
+      "published": "2026-10-03T00:00:04+00:00",
+      "fetched": "2026-10-03T02:29:34.046878+00:00"
+    },
+    {
+      "id": "1f42e8b4bf391ae1",
+      "title": "Here’s Where You Can Still Find Tickets to Ella Langley’s ‘Dandelion’ Tour",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/ella-langley-dandelion-tour-tickets-buy-online-2026-1235568761/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Langley's tour will run through the end of October as \"Choosin' Texas\" continues its record-setting run",
+      "published": "2026-10-02T23:59:26+00:00",
+      "fetched": "2026-10-03T02:29:34.167037+00:00"
+    },
+    {
+      "id": "336eea4e05f77946",
+      "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
+      "link": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded oversight at the newly merged Paramount-Warner Bros. entity (which will be named “Skydance,” the company revealed Friday). Skydance would not comment, but Cheeks has been seen [ ]",
+      "published": "2026-10-02T23:40:19+00:00",
+      "fetched": "2026-10-03T02:29:34.046939+00:00"
+    },
+    {
+      "id": "10f4daf26dfee464",
+      "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
+      "link": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the kiss of death for a feature is boredom; that feeling you’ve seen the same story many times before, the actors are checked out, there’s no visual panache.",
+      "published": "2026-10-02T23:15:00+00:00",
+      "fetched": "2026-10-03T02:29:34.046993+00:00"
+    },
+    {
+      "id": "15b1b9f33797cbd2",
+      "title": "The Best Over-Ear Headphones for Working Out",
+      "link": "https://www.rollingstone.com/product-recommendations/tech/best-over-ear-headphones-for-working-out-tested-1235539876/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "While over-ear headphones are generally not made with the gym in mind, we found a few pairs that are up to the task",
+      "published": "2026-10-02T22:45:38+00:00",
+      "fetched": "2026-10-03T02:29:34.167073+00:00"
+    },
+    {
+      "id": "7ed7baeea727f05e",
+      "title": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
+      "link": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "John Leguizamo is speaking out about the Paramount and Warner Bros. merger, and he s imploring David Ellison to consider what the industry needs as he takes over the new Skydance. Come on, Dave.",
+      "published": "2026-10-02T22:37:41+00:00",
+      "fetched": "2026-10-03T02:29:34.047046+00:00"
+    },
+    {
+      "id": "a5185a4a551236b1",
+      "title": "How to Watch ‘Love After Lockup: Relationship Rehab’ Online",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-love-after-lockup-relationship-rehab-online-1235634977/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The new series revisits fan-favorite couples from Love After Lockup as they navigate relationship woes with the help of a psychiatrist",
+      "published": "2026-10-02T22:27:00+00:00",
+      "fetched": "2026-10-03T02:29:34.167108+00:00"
+    },
+    {
+      "id": "12788df3d381389f",
+      "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
+      "link": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s 102 degrees in Los Angeles, but it s certainly not a summer Friday on the Paramount lot. The studio is swarming with activity, subplots and preparations for the closing of Skydance s acquisition of Warner Bros. Discovery next week.",
+      "published": "2026-10-02T22:17:51+00:00",
+      "fetched": "2026-10-03T02:29:34.047098+00:00"
+    },
     {
       "id": "27565e2c131cca33",
       "title": "The Best Shows in Vegas to Spend All of Your Hard-Earned Gambling Money On",
@@ -1422,86 +1502,6 @@
       "summary": "In the end, Casey Bloys knew he was holding all the cards. As the industry continued to speculate about whether the HBO boss or Paramount’s Cindy Holland would wind up with control of the two companies’ soon-to-be-merged streaming behemoth, in recent weeks the momentum seemed to be on Bloys’ side. So when Paramount direct-to-consumer chair [ ]",
       "published": "2026-09-30T16:34:08+00:00",
       "fetched": "2026-09-30T17:03:38.485163+00:00"
-    },
-    {
-      "id": "36affd0c3281d2cd",
-      "title": "How the Art of Hospitality is Changing Esports Players’ Lives",
-      "link": "https://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "At the Esports Foundation, Hans Jagnow is determined to treat gamers like rock stars",
-      "published": "2026-09-30T16:33:50+00:00",
-      "fetched": "2026-09-30T17:03:38.735739+00:00"
-    },
-    {
-      "id": "e46b212463124c23",
-      "title": "‘Sense and Sensibility’ Inspires Handcrafted Apparel Collection From Designer Sarah Flint, Featuring Embroidered Heels and Painted Scarves",
-      "link": "https://variety.com/2026/shopping/news/sense-and-sensibility-sarah-flint-collection-shop-online-1236893657/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jane Austen is getting a style upgrade just in time for the latest trip to the Dashwood family estate. Designer Sarah Flint has teamed with Focus Features on a new capsule collection inspired by the upcoming “Sense and Sensibility” adaptation, translating the contrasting personalities of sisters Elinor and Marianne Dashwood into shoes, scarves and Georgian-era [ ]",
-      "published": "2026-09-30T16:30:00+00:00",
-      "fetched": "2026-09-30T17:03:38.485226+00:00"
-    },
-    {
-      "id": "659826fbd0177f4b",
-      "title": "Paramount Deal and U.S. Film Incentive Reflect Hollywood’s Deepening Ties to Government",
-      "link": "https://variety.com/2026/film/news/paramount-film-credit-hollywood-government-ties-1236878443/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Last week, politicians decided they could not let Hollywood slip away. First, California Gov. Gavin Newsom pushed for a resolution of the Paramount antitrust case out of fear that the studio would leave the state.",
-      "published": "2026-09-30T16:15:00+00:00",
-      "fetched": "2026-09-30T17:03:38.485276+00:00"
-    },
-    {
-      "id": "4fd9055e3cd04d17",
-      "title": "Funko Unveils Ultra-Limited Marvel NYCC Figures, Including $100 Light-Up Sorcerer Supreme Doom",
-      "link": "https://variety.com/2026/shopping/news/doctor-doom-sorcerer-supreme-doom-funko-pop-buy-online-1236893562/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Funko is bringing some heavy Marvel firepower to New York Comic Con this year, including an ultra-limited light-up Doctor Doom figure that will be one of just 500 produced. The collectibles company has unveiled a new batch of Marvel Pop! figures timed to NYCC 2026, led by the $100 Pop Super Grail SFX Sorcerer Supreme [ ]",
-      "published": "2026-09-30T16:00:00+00:00",
-      "fetched": "2026-09-30T17:03:38.485319+00:00"
-    },
-    {
-      "id": "2b2bebe93f2ff458",
-      "title": "Drew Carey to Host ‘Undercover Boss’ Return at CBS, Which Also Orders New Reality Series ‘Stacks of Cash’ and ’24 Hour Millionaire’",
-      "link": "https://variety.com/2026/tv/news/undercover-boss-return-cbs-drew-carey-host-1236893615/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "CBS is tripling down on its unscripted lineup, bringing back a new version of “Undercover Boss” — this time hosted by Drew Carey — and greenlighting two new series: “Stacks of Cash,” hosted by Mike O Malley, and “24 Hour Millionaire,” from the executive producers behind “Big Brother.” In the case of “Undercover Boss,” CBS said [ ]",
-      "published": "2026-09-30T16:00:00+00:00",
-      "fetched": "2026-09-30T17:03:38.485372+00:00"
-    },
-    {
-      "id": "a70c9bf94ec31949",
-      "title": "The White House’s AI Bot Is Going Through It",
-      "link": "https://www.rollingstone.com/politics/politics-news/white-house-ai-bot-going-through-it-1235634510/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Trump administration broadening its embrace of artificial intelligence. The results have been mixed, to say the least",
-      "published": "2026-09-30T15:46:25+00:00",
-      "fetched": "2026-09-30T17:03:38.735766+00:00"
-    },
-    {
-      "id": "c59a7d4076e9688c",
-      "title": "David Ellison Recruits Mattel’s Ynon Kreiz for Senior Role at Merged Paramount-Warner Bros.",
-      "link": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-senior-role-mattel-1236893607/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison s Paramount which is on the brink of closing its mega-merger with Warner Bros. Discovery in a senior management role, according to two industry sources. One source close to the situation told Variety said that Ellison s courting [ ]",
-      "published": "2026-09-30T15:43:50+00:00",
-      "fetched": "2026-09-30T17:03:38.485417+00:00"
-    },
-    {
-      "id": "75bfdb573443b4b4",
-      "title": "‘Ted’ Animated Series Sets Peacock Release Date",
-      "link": "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Peacock has set the premiere date for Ted: The Animated Series. The animated followup to the live-action Ted movies will premiere with its first eight episodes on Dec. 17.",
-      "published": "2026-09-30T15:30:00+00:00",
-      "fetched": "2026-09-30T17:03:38.485459+00:00"
     }
   ]
 }

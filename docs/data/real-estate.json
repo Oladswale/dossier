@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-02T21:28:48.110505+00:00",
+  "updated": "2026-10-03T02:29:36.005913+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2dab0c80ea63fe52",
+      "title": "Good Dogs, Bad Blood: The Billionaire vs. Millionaire War Over a Utah Megamansion",
+      "link": "https://www.realtor.com/news/real-estate-news/matthew-prince-ceo-cloudflare-utah-mansion-lawsuit/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Cloudflare CEO Matthew Prince cleared a major legal hurdle to build his dream estate— but his neighbors aren't backing down yet.",
+      "published": "2026-10-02T22:09:55+00:00",
+      "fetched": "2026-10-03T02:29:36.005354+00:00"
+    },
     {
       "id": "7886ed77dd396705",
       "title": "Elon Musk Abruptly Splits From Shivon Zilis—Will She Move Out of His $35 Million Austin Compound?",
@@ -1492,16 +1502,6 @@
       "summary": "Jenner, 70, originally listed the home in February 2025, having used the residence as her family's primary dwelling for more than a decade.",
       "published": "2026-09-24T12:53:46+00:00",
       "fetched": "2026-09-24T15:58:56.112705+00:00"
-    },
-    {
-      "id": "e37be4cc815cca11",
-      "title": "The Housing Market Correction Is Spreading",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-463",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The housing market correction is about to get worse. Before, the Northeast and Midwest markets were insulated from the sizable price drops happening in places like Texas and Florida, but [ ]",
-      "published": "2026-09-24T11:00:13+00:00",
-      "fetched": "2026-09-24T15:58:55.882973+00:00"
     }
   ]
 }
