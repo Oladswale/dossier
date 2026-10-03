@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-03T15:17:29.614173+00:00",
+  "updated": "2026-10-03T20:15:41.173714+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0cfcbc9f90ee95b4",
+      "title": "Guillermo Del Toro Defends ‘Digger,’ Calls the Film ‘Daring, Bold and Cinematically Complex’",
+      "link": "https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Guillermo Del Toro is publicly declaring his love for “Digger.” Del Toro took to X to call out naysayers of Alejandro G. Iñárritu’s film ahead of its Friday release. “Entirely Petty headline,” the director wrote in response to a review of Warner Bros.’ R-rated black comedy.",
+      "published": "2026-10-03T19:55:38+00:00",
+      "fetched": "2026-10-03T20:15:40.861643+00:00"
+    },
+    {
+      "id": "9135e4b08ef104df",
+      "title": "Paul McCartney Reveals Why He Performed at Taylor Swift’s Wedding: ‘She Asked Me to Do It’",
+      "link": "https://www.rollingstone.com/music/music-news/paul-mccartney-taylor-swift-wedding-larry-david-kimmel-1235636499/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Beatles legend also talks about banning Larry David from his concerts after he refused to sing along to \"Hey Jude\" on Jimmy Kimmel Live",
+      "published": "2026-10-03T19:35:48+00:00",
+      "fetched": "2026-10-03T20:15:40.994001+00:00"
+    },
+    {
+      "id": "1d8a408cfb11da80",
+      "title": "Tony Gilroy Says Paramount-Warner Bros. Merger Will ‘Destroy’ a ‘Healthy and Beautiful Business’ in ‘The Name of Venture Capital’: ‘It’s Tragic’",
+      "link": "https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tony Gilroy blasted the “tragic” nature of the Paramount-Warner Bros. merger at the world premiere of his new film, “Behemoth!” Produced on a $36 million budget, “Behemoth!” is representative of the mid-budget, adult-oriented drama that once sustained Hollywood’s theatrical business — and allowed filmmakers like Gilroy to make a name for themselves in the industry. [ ]",
+      "published": "2026-10-03T19:15:41+00:00",
+      "fetched": "2026-10-03T20:15:40.861678+00:00"
+    },
+    {
+      "id": "762cbbf1179ff7bb",
+      "title": "Pierre Le Gall’s Passionate Love Story ‘Flesh and Fuel’ Named Best Film at Zurich Film Festival",
+      "link": "https://variety.com/2026/film/global/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "French director Pierre Le Gall s passionate love story Flesh and Fuel, which world premiered in Cannes’ Critics Week, won the top prize, the Golden Eye, at the 22nd Zurich Film Festival on Saturday. The Golden Eye for best documentary went to Pete Muller s Bucks Harbor, which premiered at the Berlin Film Festival in the Panorama [ ]",
+      "published": "2026-10-03T19:00:00+00:00",
+      "fetched": "2026-10-03T20:15:40.861708+00:00"
+    },
+    {
+      "id": "73038335653931a8",
+      "title": "‘Verity’ Cast Reveals Their Go-To Book Recommendations on Heels of Novel’s Big-Screen Adaptation (Exclusive)",
+      "link": "https://variety.com/2026/shopping/news/best-books-like-verity-movie-cast-recommendations-picks-1236897066/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Verity is in theaters now, and based on projections, it could be the latest book-to-screen adaptation from author Colleen Hoover to top the box office charts. Now, the real-life cast of the romantic thriller are revealing what other books they enjoy, in an exclusive clip shared with Variety from Amazon News. Josh Hartnett, Anne Hathaway [ ]",
+      "published": "2026-10-03T18:39:14+00:00",
+      "fetched": "2026-10-03T20:15:40.861735+00:00"
+    },
+    {
+      "id": "bb381c723278f4be",
+      "title": "PinkPantheress Is Building a Pop Empire",
+      "link": "https://www.rollingstone.com/music/music-features/pinkpantheress-builds-pop-empire-producer-leading-artist-1235635122/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Lately, the artist seems more interested in the role of pop-producer than pop stardom itself. She’s becoming an authority on both",
+      "published": "2026-10-03T18:39:09+00:00",
+      "fetched": "2026-10-03T20:15:40.994023+00:00"
+    },
+    {
+      "id": "4ad8c98e3fd24821",
+      "title": "See AOC, Bernie Sanders Introduce the Strokes at Queens Concert",
+      "link": "https://www.rollingstone.com/music/music-news/aoc-bernie-sanders-introduce-the-strokes-queens-concert-1235636485/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Vermont senator praises band for \"standing up for economic justice, fighting racism, and understanding that healthcare is a human right\"",
+      "published": "2026-10-03T18:15:49+00:00",
+      "fetched": "2026-10-03T20:15:40.994040+00:00"
+    },
+    {
+      "id": "b55a8f34d6e693fc",
+      "title": "Jerry Golod, Producer of ‘Tales From the Darkside’ and Former CBS And NBC Executive, Dies at 87",
+      "link": "https://variety.com/2026/tv/obituaries-people-news/jerry-golod-dead-tales-from-the-darkside-1236898234/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jerry Golod, the producer of “Tales From the Darkside,” died following a brief battle with cancer at his home in Rancho Mirage, Calif., on Wednesday. He was 87. Throughout his career, Golod served as an executive at CBS and NBC, later launching JayGee Productions in the early 1980s.",
+      "published": "2026-10-03T18:02:19+00:00",
+      "fetched": "2026-10-03T20:15:40.861765+00:00"
+    },
+    {
+      "id": "40d1b0eff3fa75b4",
+      "title": "‘Coven Academy’ Creator Breaks Down Briar’s Family Tree, Dark Magic as an Addiction Metaphor, ‘Misogyny’ Against Witches — and a Deleted Kiss Scene",
+      "link": "https://variety.com/2026/tv/news/coven-academy-creator-graves-briar-mom-dark-magic-season-2-1236894779/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This story contains spoilers for Coven Academy, now streaming on Disney+. Coven Academy was supposed to be the first true young adult drama in the history of Disney Channel. The series, set at a New Orleans boarding school for witches and warlocks, is bloodier and darker than the network ever got with other [ ]",
+      "published": "2026-10-03T18:00:00+00:00",
+      "fetched": "2026-10-03T20:15:40.861793+00:00"
+    },
+    {
+      "id": "27d3af25c2680cc1",
+      "title": "Asghar Farhadi Says Films Like ‘Argo’ Perpetuate American White Savior Myth: ‘Who Asked You to Come and Save Us?’",
+      "link": "https://variety.com/2026/film/global/asghar-farhadi-argo-american-white-savior-myth-1236898176/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "RIO DE JANEIRO, Brazil – Twice Oscar-winning filmmaker Asghar Farhadi, who is at the Rio Film Festival to present “Parallel Tales,” spoke about the perceived hegemony of American cinema and how Hollywood shouldn’t be seen as a source for faithful portrayals of foreign cultures. Asked about “Argo” winning Best Picture just a year after “A [ ]",
+      "published": "2026-10-03T17:50:28+00:00",
+      "fetched": "2026-10-03T20:15:40.861821+00:00"
+    },
+    {
+      "id": "fd418be56cd31bb3",
+      "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+      "link": "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a cellist who returns [ ]",
+      "published": "2026-10-03T17:41:00+00:00",
+      "fetched": "2026-10-03T20:15:40.861849+00:00"
+    },
+    {
+      "id": "8a754b099b194c86",
+      "title": "Aaron Sorkin Says It ‘Never Occurred’ to Him That Jesse Eisenberg Wouldn’t Play Mark Zuckerberg in ‘The Social Reckoning,’ Claims the Paycheck Was a ‘Disincentive’",
+      "link": "https://variety.com/2026/film/news/aaron-sorkin-jesse-eisenberg-mark-zuckerberg-social-reckoning-1236898205/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Before Jesse Eisenberg declined to step back into the world of Facebook as Mark Zuckerberg for Aaron Sorkin’s “The Social Reckoning,” the director admitted “it never occurred” to him that the actor wouldn’t be on board with his 2026 follow-up to 2010’s “The Social Network,” in which Eisenberg portrayed the young tech billionaire. Speaking with [ ]",
+      "published": "2026-10-03T17:35:18+00:00",
+      "fetched": "2026-10-03T20:15:40.861877+00:00"
+    },
+    {
+      "id": "d603d3b977b4d03c",
+      "title": "UFC 332 Livestream: Here’s How to Watch Natalia Silva vs. Wang Cong Online for Free",
+      "link": "https://variety.com/2026/shopping/news/how-to-watch-ufc-332-silva-vs-wang-mma-live-oct-2026-online-free-1236895026/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After Joshua Van defended his flyweight title against Alexandre Pantoja in an unanimous decision during UFC 331 in September, the Ultimate Fighting Championship travels from Los Angeles to Salt Lake City for UFC 332. For the main event, Brazilian Natalia Silva (20-5-1) takes on Chinese fighter Wang Cong (30-6-0) for the vacant women s flyweight title [ ]",
+      "published": "2026-10-03T17:00:00+00:00",
+      "fetched": "2026-10-03T20:15:40.861903+00:00"
+    },
     {
       "id": "f3cfdc4cd5a1ae1f",
       "title": "Kennedy Center Honors Moving to Washington, D.C. Arena Amid Venue’s Closure",
@@ -1372,136 +1502,6 @@
       "summary": "Bradley Whitford is ready to return to the White House. The actor tells me that it may be time to bring back “The West Wing” as a “limited series of some kind.” Series creator Aaron Sorkin has had fans chomping at the bit ever since he told Variety’s Michael Schneider he was inspired to write [ ]",
       "published": "2026-09-30T23:13:56+00:00",
       "fetched": "2026-10-01T02:38:23.072300+00:00"
-    },
-    {
-      "id": "4e8e0ffefb48f37c",
-      "title": "Macklemore Says ‘Free Palestine’ Tour ‘Sold Out Immediately’: ‘Art Will Always Be a Form of Resistance’",
-      "link": "https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-sold-out-1235635044/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "All three dates in Dublin, Paris, and London have sold out",
-      "published": "2026-09-30T23:00:20+00:00",
-      "fetched": "2026-10-01T02:38:23.225019+00:00"
-    },
-    {
-      "id": "5a2461c4805632e9",
-      "title": "‘NAZA’ Wants You to Bear Witness",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/naza-documentary-review-1235629944/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Filmmakers behind No Other Land follow up their Oscar winner with interviews of IDF soldiers. It's already one of the most controversial films of the year",
-      "published": "2026-09-30T23:00:00+00:00",
-      "fetched": "2026-10-01T02:38:23.225051+00:00"
-    },
-    {
-      "id": "8e3b4ddf8f6a3cf0",
-      "title": "Apple TV Sets Free F1 Livestream This Weekend as 2026 Bahrain Grand Prix Shifts Course to Malaysia",
-      "link": "https://variety.com/2026/shopping/athletes/watch-f1-bahrain-grand-prix-malaysia-race-online-free-stream-1236878654/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 2026 Formula 1 season takes a bit of a detour this weekend as the drivers head to the F1 Bahrain Grand Prix but not in actual Bahrain. The annual race in the Kingdom of Bahrain has been moved to Malaysia for this weekend, following uncertainties in the Middle East triggered by President Trump s [ ]",
-      "published": "2026-09-30T22:47:00+00:00",
-      "fetched": "2026-10-01T02:38:23.072345+00:00"
-    },
-    {
-      "id": "51361c77aaf8c11b",
-      "title": "Golden Globes Predictions: Let the Genre Games Begin for ‘Obsession,’ ‘Michael,’ ‘Wildwood’ and More",
-      "link": "https://variety.com/lists/2027-golden-globes-predictions/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect [ ]",
-      "published": "2026-09-30T22:15:00+00:00",
-      "fetched": "2026-10-01T02:38:23.072391+00:00"
-    },
-    {
-      "id": "f77b1b0243a700fe",
-      "title": "Nicolas Cage Says the Marvel Cinematic Universe ‘Is Becoming a Well-Funded and Glorified WWE’ With 50-Plus Year Olds in ‘Ridiculous Outfits’",
-      "link": "https://variety.com/2026/film/news/nicolas-cage-marvel-cinematic-universe-wwe-1236893541/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Nicolas Cage s critique of the Marvel Cinematic Universe during a recent conversation at Fan Expo Dallas (via The Playlist) is quickly gaining traction on social media, with many people either agreeing with the Oscar-winning actor or questioning him considering his own ties to superhero projects. I do say this with love, Cage said at the [ ]",
-      "published": "2026-09-30T21:54:15+00:00",
-      "fetched": "2026-10-01T02:38:23.072439+00:00"
-    },
-    {
-      "id": "692b9bc0ff654231",
-      "title": "Box Office: ‘Verity’ Aims for $35 Million Debut and Anne Hathaway’s Third No. 1 Movie of the Year, ‘Digger’ Could Bomb With $12 Million",
-      "link": "https://variety.com/2026/film/box-office/verity-box-office-opening-weekend-projection-1236893670/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Anne Hathaway is returning to a familiar spot — the top of box office charts — as “Verity” hits the big screen over the weekend. The adaptation of Colleen Hoover s bestseller is targeting a solid domestic debut of $30 million to $35 million from 3,510 theaters, which should be enough to register as Hathaway s third [ ]",
-      "published": "2026-09-30T21:45:53+00:00",
-      "fetched": "2026-10-01T02:38:23.072492+00:00"
-    },
-    {
-      "id": "003533d2cdf5ed0c",
-      "title": "Colleen Hoover’s ‘Verity’ Returns to Top of Book Charts Following Film Adaptation Release",
-      "link": "https://variety.com/2026/shopping/news/read-verity-movie-original-colleen-hoover-book-online-buy-1236878720/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Author Colleen Hoover s 2018 romantic thriller, Verity, is back on the bestsellers chart as a motion picture adaptation of the novel hits theaters nationwide. The hardcover version of Verity is currently number two on Amazon s bestselling books chart, just behind the new Rebecca Yarros release, Threshing Day, which is the fourth book in the author s [ ]",
-      "published": "2026-09-30T21:10:59+00:00",
-      "fetched": "2026-09-30T21:35:19.576967+00:00"
-    },
-    {
-      "id": "4f04d9ec8f7b8be0",
-      "title": "Florence Pugh Says ‘Instagram Censored Me’ Over Cornell 7 Posts Addressing Sexual Assault Case: ‘Another Shock That Women Are Censored’",
-      "link": "https://variety.com/2026/tv/news/florence-pugh-cornell-7-instagram-posts-censored-sexual-assault-1236893808/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Florence Pugh s press tour for Netflix s East of Eden brought her to The View, where co-host Sara Haines brought up the Oscar nominee s recent social media posts speaking out on the sexual assault case at Cornell University. “Even in modern times, women have to bear the consequences of sexual violence, like the allegations currently playing [ ]",
-      "published": "2026-09-30T21:07:21+00:00",
-      "fetched": "2026-09-30T21:35:19.577036+00:00"
-    },
-    {
-      "id": "555a30da3db6340c",
-      "title": "How to Watch ‘Unmasking a Monster: Aileen Wuornos’ on Investigation Discovery Without Cable",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-unmasking-a-monster-aileen-wuornos-online-free-live-stream-1235634690/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The three-hour ID documentary revisits the life and crimes of the serial killer, using AI to recreate her likeness",
-      "published": "2026-09-30T21:00:00+00:00",
-      "fetched": "2026-09-30T21:35:19.765382+00:00"
-    },
-    {
-      "id": "15f6ec627a4128f1",
-      "title": "’24 Jump Street,’ Hugh Jackman’s ‘Treasure Island’ Remake Get Holiday 2027 Release Dates",
-      "link": "https://variety.com/2026/film/news/24-jump-street-hugh-jackman-treasure-island-release-dates-1236893958/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sony has slated the highly anticipated comedy sequel 24 Jump Street and Ridley Scott s Treasure Island remake starring Hugh Jackman for release around the 2027 holiday season. Treasure Island hits theaters first on Nov. 11, 2027, while 24 Jump Street releases on Dec.",
-      "published": "2026-09-30T20:46:54+00:00",
-      "fetched": "2026-09-30T21:35:19.577090+00:00"
-    },
-    {
-      "id": "cd439087fca62d98",
-      "title": "SCP Foundation Anthology Movie in the Works at Neon, Based on Online Horror Forum",
-      "link": "https://variety.com/2026/film/news/scp-foundation-movie-neon-horror-anthology-1236893734/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Neon is developing an anthology movie based on the community-driven horror forum The SCP Foundation. The project, which will focus on platforming emerging filmmakers, is slated for release in 2027. The SCP Wiki, created in 2008, is a collaborative speculative fiction website where users submit written works that expand the lore of the SCP Foundation, [ ]",
-      "published": "2026-09-30T20:45:00+00:00",
-      "fetched": "2026-09-30T21:35:19.577135+00:00"
-    },
-    {
-      "id": "a34521dfe380f4d3",
-      "title": "Where to Find Tickets to Metallica’s Sold-Out Sphere Shows",
-      "link": "https://www.rollingstone.com/product-recommendations/tickets/metallica-sphere-residency-tickets-where-to-buy-online-1235529595/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Metallica's 24-show run at the innovative Las Vegas venue kicks off this week, and the metal icons will hit stadiums in North America for the M72 tour in spring of next year",
-      "published": "2026-09-30T20:31:38+00:00",
-      "fetched": "2026-09-30T21:35:19.765423+00:00"
-    },
-    {
-      "id": "631442104e37b6ed",
-      "title": "How to Watch ‘The Amazing Race’ Season 39 Online Free",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-the-amazing-race-season-39-online-free-1235633902/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Thirteen teams race across nine countries for this season’s $1 million prize",
-      "published": "2026-09-30T20:30:00+00:00",
-      "fetched": "2026-09-30T21:35:19.765452+00:00"
     }
   ]
 }

@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-03T15:17:31.612453+00:00",
+  "updated": "2026-10-03T20:15:42.882081+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "559020aa96432518",
+      "title": "REVEALED: All the Celebrities Who Have Flocked to Nashville in Pursuit of a Slower Life—and Fewer Paparazzi",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrities-move-nashville-tennessee-relocate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "These stars have traded their busy lives in Los Angeles and New York for a slower vibe in Tennessee.",
+      "published": "2026-10-03T20:01:00+00:00",
+      "fetched": "2026-10-03T20:15:42.881693+00:00"
+    },
+    {
+      "id": "a0b2b18328adb0fb",
+      "title": "Tiger Woods Spearheads Gated Golf Community in Texas with Luxury Homes Starting at $1M",
+      "link": "https://www.realtor.com/news/real-estate-news/tiger-woods-bluejack-ranch-development-fort-worth-andy-mitchell/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A luxury residential golf community spearheaded by golf legend Tiger Woods is opening this fall outside of Fort Worth, TX. Bluejack Ranch is the 914-acre followup to Bluejack National, a highly-rated",
+      "published": "2026-10-03T18:13:00+00:00",
+      "fetched": "2026-10-03T20:15:42.881718+00:00"
+    },
+    {
+      "id": "53abd43e0f9a60f5",
+      "title": "Denver’s Historic $10.75 Million ‘Tom Shane’ Estate Hits the Market as City’s Second-Most Expensive Home",
+      "link": "https://www.realtor.com/news/unique-homes/denver-historic-tudor-revival-estate-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Denver's historic $10.75M Tudor Revival estate in Country Club hits the market, featuring 10,000 sq ft and rich art deco heritage.",
+      "published": "2026-10-03T17:33:00+00:00",
+      "fetched": "2026-10-03T20:15:42.881736+00:00"
+    },
+    {
+      "id": "709315c594b0ffd7",
+      "title": "Ex-MLB Star James Shields Cuts Price on Modern Rancho Santa Fe Estate to $19.9M",
+      "link": "https://www.realtor.com/news/sports/james-shields-rancho-santa-fe-mansion-price-drop/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Former MLB pitcher James Shields cuts the price on his modern Rancho Santa Fe estate to $19.9M, complete with a hidden safe room.",
+      "published": "2026-10-03T16:16:00+00:00",
+      "fetched": "2026-10-03T20:15:42.881751+00:00"
+    },
+    {
+      "id": "bcfeb45ff0eff217",
+      "title": "Off-Grid Earthship Home Hits the Market for $625K in Wyoming",
+      "link": "https://www.realtor.com/news/unique-homes/wyoming-off-grid-earthship-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An Earthship home built from 1,343 tires on 55 acres in Wyoming hits the market for $625,000. It features a 66-foot greenhouse.",
+      "published": "2026-10-03T15:30:00+00:00",
+      "fetched": "2026-10-03T20:15:42.881765+00:00"
+    },
     {
       "id": "3a4e36328f5f445e",
       "title": "Westchester’s Priciest Listing Hits the Market for $16 Million with 360-Degree Water Views",
@@ -1452,56 +1502,6 @@
       "summary": "Google.org is providing a \"seven-figure\" commitment to train 25,000 new skilled trades workers amid the shortage of construction workers.",
       "published": "2026-09-24T18:20:08+00:00",
       "fetched": "2026-09-24T20:50:36.518326+00:00"
-    },
-    {
-      "id": "0857915e468f14b4",
-      "title": "Legendary Boston Celtics Commentator Mike Gorman Lists City Penthouse Steps From TD Garden for $1.5 Million",
-      "link": "https://www.realtor.com/news/sports/boston-celtics-commentator-mike-gorman-lists-penthouse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The impressive pad was formerly home to the voice of the Boston Celtics, and is conveniently located just next to TD Garden.",
-      "published": "2026-09-24T17:35:31+00:00",
-      "fetched": "2026-09-24T20:50:36.518351+00:00"
-    },
-    {
-      "id": "1daa00361012e02c",
-      "title": "EXCLUSIVE: $62.5 Million Aspen Estate Hits the Market in Community Where John Denver Wrote ‘Rocky Mountain High’",
-      "link": "https://www.realtor.com/news/unique-homes/john-denver-rocky-mountain-high-aspen-colorado-estate-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Known as Panorama House, the newly completed estate at 401 Carroll Drive sits on approximately 6.5 private acres in Starwood.",
-      "published": "2026-09-24T17:15:29+00:00",
-      "fetched": "2026-09-24T20:50:36.518377+00:00"
-    },
-    {
-      "id": "72593459e2f0018d",
-      "title": "Mortgage Rates Top 7% for First Time Since Early 2025 in Blow to Homebuyers",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-today-fed-rate-hike-september-24-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed mortgages reached 7.03% for the week ending Sept. 24, up 8 basis points from last week.",
-      "published": "2026-09-24T16:00:00+00:00",
-      "fetched": "2026-09-24T20:50:36.518401+00:00"
-    },
-    {
-      "id": "ee36429ffbd0c75b",
-      "title": "Millions of California Homeowners at Risk of HOA Fee Increases Under New Bill",
-      "link": "https://www.realtor.com/news/trends/california-homeowners-risk-hoa-fee-increases-legislation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If 23% of California’s 13.8 million households are paying HOA fees, about 3.3 million households could face increases if AB 2050 becomes law",
-      "published": "2026-09-24T15:33:51+00:00",
-      "fetched": "2026-09-24T15:58:56.112600+00:00"
-    },
-    {
-      "id": "b28226ae339a71b0",
-      "title": "Christina Haack and Heather and Tarek El Moussa Celebrate Daughter Taylor’s 16th Birthday With a $150K BMW: ‘So Well Deserved’",
-      "link": "https://www.realtor.com/news/reality-tv/christina-haack-heather-tarek-el-moussa-daughter-birthday-car/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The co-parents celebrated their daughter's milestone birthday by gifting her a luxury vehicle and singing her praises.",
-      "published": "2026-09-24T15:15:39+00:00",
-      "fetched": "2026-09-24T15:58:56.112634+00:00"
     }
   ]
 }
