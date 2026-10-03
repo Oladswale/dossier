@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-03T10:42:49.304963+00:00",
+  "updated": "2026-10-03T15:17:31.612453+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3a4e36328f5f445e",
+      "title": "Westchester’s Priciest Listing Hits the Market for $16 Million with 360-Degree Water Views",
+      "link": "https://www.realtor.com/news/unique-homes/westchesters-priciest-listing-16m-mamaroneck-waterfront-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore Westchester's priciest listing: a $16M Mamaroneck estate on Premium Point with water views, pool, and private beach access.",
+      "published": "2026-10-03T13:03:00+00:00",
+      "fetched": "2026-10-03T15:17:31.611987+00:00"
+    },
+    {
+      "id": "421ecdfd14b133e0",
+      "title": "EXCLUSIVE: ‘Selling Sunset’ Star Emma Hernan Lists $12 Million Santa Barbara Equestrian Oasis",
+      "link": "https://www.realtor.com/news/unique-homes/exclusive-selling-sunset-alum-emma-hernan-unveils-rare-12-million-equestrian-oasis-shes-representing-in-santa-barbara/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"Selling Sunset\" star Emma Hernan lists a $12 million Santa Barbara equestrian estate on 5 acres with ocean views and beach trail access.",
+      "published": "2026-10-03T12:30:00+00:00",
+      "fetched": "2026-10-03T15:17:31.612016+00:00"
+    },
     {
       "id": "5c76844107e1205b",
       "title": "What Happens to Small College Towns When the School Shuts Down",
@@ -1482,26 +1502,6 @@
       "summary": "The co-parents celebrated their daughter's milestone birthday by gifting her a luxury vehicle and singing her praises.",
       "published": "2026-09-24T15:15:39+00:00",
       "fetched": "2026-09-24T15:58:56.112634+00:00"
-    },
-    {
-      "id": "d373f4e04051ace6",
-      "title": "New-Home Sales Rise as Builders Offer Deals on Mortgage Rates",
-      "link": "https://www.realtor.com/news/trends/new-home-sales-prices-census-data-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Contract signings for new homes reached a seasonally-adjusted annual rate of 684,000 in August, up 6.4% compared to July.",
-      "published": "2026-09-24T14:45:46+00:00",
-      "fetched": "2026-09-24T15:58:56.112656+00:00"
-    },
-    {
-      "id": "2b601902dc0f6f26",
-      "title": "EXCLUSIVE: Ousted Miami Dolphins Star Tyreek Hill Relists $7.7 Million Florida Mansion—Just 1 Month After Pulling It From Market",
-      "link": "https://www.realtor.com/news/sports/tyreek-hill-nfl-miami-dolphins-relists-florida-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The free agent, who was released by the Dolphins in March, listed the nine-bedroom, 9.5-bathroom property on the market on March 19.",
-      "published": "2026-09-24T13:48:29+00:00",
-      "fetched": "2026-09-24T15:58:56.112681+00:00"
     }
   ]
 }
