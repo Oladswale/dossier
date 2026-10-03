@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-03T02:29:36.005913+00:00",
+  "updated": "2026-10-03T10:42:49.304963+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5c76844107e1205b",
+      "title": "What Happens to Small College Towns When the School Shuts Down",
+      "link": "https://www.realtor.com/news/trends/college-towns-university-closing-falling-enrollment/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "One impact of the falling fertility rate has become evident: College enrollment is down, and college towns are taking the hit.",
+      "published": "2026-10-03T10:02:00+00:00",
+      "fetched": "2026-10-03T10:42:49.304427+00:00"
+    },
     {
       "id": "2dab0c80ea63fe52",
       "title": "Good Dogs, Bad Blood: The Billionaire vs. Millionaire War Over a Utah Megamansion",
@@ -1492,16 +1502,6 @@
       "summary": "The free agent, who was released by the Dolphins in March, listed the nine-bedroom, 9.5-bathroom property on the market on March 19.",
       "published": "2026-09-24T13:48:29+00:00",
       "fetched": "2026-09-24T15:58:56.112681+00:00"
-    },
-    {
-      "id": "debc246bed2b3570",
-      "title": "EXCLUSIVE: Kris Jenner Pulls Iconic ‘Keeping Up With the Kardashians’ Home Off the Market Months After Debating Its Fate",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kris-jenner-removes-keeping-up-with-the-kardashians-home-from-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Jenner, 70, originally listed the home in February 2025, having used the residence as her family's primary dwelling for more than a decade.",
-      "published": "2026-09-24T12:53:46+00:00",
-      "fetched": "2026-09-24T15:58:56.112705+00:00"
     }
   ]
 }
