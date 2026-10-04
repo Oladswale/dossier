@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-04T02:59:28.857592+00:00",
+  "updated": "2026-10-04T11:23:34.325923+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "02f59fedf216e413",
+      "title": "How Craftsman Architecture Created a Highly Sought-After Style of Home To Rebel Against Mass Production",
+      "link": "https://www.realtor.com/news/unique-homes/craftsman-homes-design-style-architectural-history/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Emerging at the turn of the century against mass production, this character-filled architectural style still resonates today.",
+      "published": "2026-10-04T11:07:00+00:00",
+      "fetched": "2026-10-04T11:23:34.325326+00:00"
+    },
     {
       "id": "559020aa96432518",
       "title": "REVEALED: All the Celebrities Who Have Flocked to Nashville in Pursuit of a Slower Life—and Fewer Paparazzi",
@@ -1492,16 +1502,6 @@
       "summary": "A rare early nor’easter could bring falling trees, roof damage, flooding, and erosion from the Mid-Atlantic through New England.",
       "published": "2026-09-24T18:48:30+00:00",
       "fetched": "2026-09-24T20:50:36.518302+00:00"
-    },
-    {
-      "id": "746cf37ebaa1b1bd",
-      "title": "Google To Train 25,000 Veterans in Skilled Construction Trades Amid Data Center Boom",
-      "link": "https://www.realtor.com/news/real-estate-news/google-veterans-skilled-trades-donation-data-center-boom/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Google.org is providing a \"seven-figure\" commitment to train 25,000 new skilled trades workers amid the shortage of construction workers.",
-      "published": "2026-09-24T18:20:08+00:00",
-      "fetched": "2026-09-24T20:50:36.518326+00:00"
     }
   ]
 }
