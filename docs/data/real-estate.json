@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-04T16:01:56.386044+00:00",
+  "updated": "2026-10-04T20:32:05.580971+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2bee331e3d556e61",
+      "title": "Frank Lloyd Wright-Inspired Home Tucked Away on 5 Wooded Acres Is Listed for $1.23 Million Near Portland",
+      "link": "https://www.realtor.com/news/unique-homes/frank-lloyd-wright-inspired-home-for-sale-oregon-city/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "This \"architecturally unique\" home in Oregon City features three bedrooms and three bathrooms and has had only one owner.",
+      "published": "2026-10-04T17:19:00+00:00",
+      "fetched": "2026-10-04T20:32:05.580462+00:00"
+    },
     {
       "id": "21c599613b8a439a",
       "title": "Waterfront ‘Taj Mahal’ on Mississippi’s ‘Secret Coast’ Returns to the Market With $2.5 Million Price Tag",
@@ -1492,16 +1502,6 @@
       "summary": "The 33-year-old two-time U.S. Open champion unveiled his latest social media venture, dubbed \"Bryson's Backyard Games.\"",
       "published": "2026-09-24T20:21:44+00:00",
       "fetched": "2026-09-24T20:50:36.518218+00:00"
-    },
-    {
-      "id": "9a886ab4ed8b49ae",
-      "title": "HGTV Host Charlie Kawas Is ‘Officially in Remission’ After Receiving Cancer Diagnosis While Filming ‘Botched Homes’",
-      "link": "https://www.realtor.com/news/reality-tv/hgtv-charlie-kawas-botched-homes-remission-cancer/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Botched Homes\" host received a testicular cancer diagnosis while filming Season 1 of the new HGTV series.",
-      "published": "2026-09-24T19:01:15+00:00",
-      "fetched": "2026-09-24T20:50:36.518246+00:00"
     }
   ]
 }

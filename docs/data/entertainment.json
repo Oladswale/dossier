@@ -1,8 +1,148 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-04T16:01:54.134337+00:00",
+  "updated": "2026-10-04T20:32:03.878450+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bcafb4d8eaf3f2c0",
+      "title": "Elvis Costello on His Early Days: The Birth of ‘My Aim Is True’",
+      "link": "https://www.rollingstone.com/music/music-news/elvis-costello-early-days-my-aim-is-true-box-set-1235636676/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "In our in-depth new interview, Costello digs deep into his origin story, the making of his debut, and the great music he hid away",
+      "published": "2026-10-04T20:29:38+00:00",
+      "fetched": "2026-10-04T20:32:03.770246+00:00"
+    },
+    {
+      "id": "94b9e6d7ed939815",
+      "title": "James Gunn Confirms He’s ‘Already’ Writing His Next Film Ahead of ‘Superman: Man of Tomorrow’",
+      "link": "https://variety.com/2026/film/news/james-gunn-next-project-superman-man-of-tomorrow-1236898696/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "James Gunn announced on Threads that he is actively working on writing his next film ahead of the release of Superman: Man of Tomorrow, due in theaters July 9, 2027. In response to a comment that asked, “Are you ready to write your next film, James, or not quite yet?” Gunn wrote, “Already in it. [ ]",
+      "published": "2026-10-04T19:46:28+00:00",
+      "fetched": "2026-10-04T20:32:03.510958+00:00"
+    },
+    {
+      "id": "c2c3ad2813b485c5",
+      "title": "Jason Isbell and Drive-By Truckers Reunite in Alabama",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/jason-isbell-drive-by-truckers-reunite-decoration-day-1235636661/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Nearly 20 years after their last full performance together, Patterson Hood, Mike Cooley, and Isbell join up to play the fan-favorite album Decoration Day in full at ShoalsFest",
+      "published": "2026-10-04T19:25:34+00:00",
+      "fetched": "2026-10-04T20:32:03.770285+00:00"
+    },
+    {
+      "id": "0ca7f96c55e901af",
+      "title": "Metallica’s Life Burns Faster Sphere Residency May Be Bigger Than Metallica",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/metallica-life-burns-faster-sphere-review-1235630290/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "With stunning, sometimes overwhelming, visuals and a soundtrack of classics the band delivered on the expansive promise of its sold-out Las Vegas residency",
+      "published": "2026-10-04T18:48:34+00:00",
+      "fetched": "2026-10-04T20:32:03.770318+00:00"
+    },
+    {
+      "id": "e6534bb6801be8dc",
+      "title": "Tom Morello’s Power to the People Festival: Springsteen, Dave Matthews, Foo Fighters and More Rock for Democracy",
+      "link": "https://www.rollingstone.com/music/music-pictures/tom-morello-power-to-the-people-springsteen-foo-fighters-1235635540/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Stars gather at Maryland's Merriweather Post Pavilion for \"a celebration of peace, love, justice, music and community action\"",
+      "published": "2026-10-04T18:42:11+00:00",
+      "fetched": "2026-10-04T20:32:03.770349+00:00"
+    },
+    {
+      "id": "2ee121b261e69080",
+      "title": "Ed Sheeran Enlists the Fray’s Former Singer Isaac Slade to Open Atlanta Show",
+      "link": "https://www.rollingstone.com/music/music-news/ed-sheeran-the-fray-singer-isaac-slade-open-atlanta-show-1235636635/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"We will find a way through this together,\" singer says as special guest for latest Loop Tour concert",
+      "published": "2026-10-04T18:37:30+00:00",
+      "fetched": "2026-10-04T20:32:03.770376+00:00"
+    },
+    {
+      "id": "5514f5f72814bbf7",
+      "title": "Gypsy-Rose Blanchard Launches Petition to ‘Fight Online Harassment’ Following Partner Ken Urker’s Death: ‘Fame Does Not Erase Humanity’",
+      "link": "https://variety.com/2026/tv/news/gypsy-rose-blanchard-petition-online-harassment-ken-urker-1236898652/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Gypsy-Rose Blanchard is speaking out following the death of her partner Ken Urker and urging fans to support Kenan’s Law, a petition aimed at holding social media platforms accountable for how online harassment is handled. While a cause of death has not yet been released, Blanchard wrote that before Urker passed, the two repeatedly reported [ ]",
+      "published": "2026-10-04T18:19:44+00:00",
+      "fetched": "2026-10-04T20:32:03.511022+00:00"
+    },
+    {
+      "id": "05341c14899cbb48",
+      "title": "Sass Jordan, Singer and Longtime ‘Canadian Idol’ Judge, Dies at 65",
+      "link": "https://variety.com/2026/music/people-news/sass-jordan-dead-canadian-idol-singer-1236898644/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sass Jordan, the singer, songwriter and longtime Canadian Idol judge, died on Oct. 2. She was 65.",
+      "published": "2026-10-04T17:37:12+00:00",
+      "fetched": "2026-10-04T20:32:03.511075+00:00"
+    },
+    {
+      "id": "bc63f5da5cd73d9f",
+      "title": "‘Spotlight’ Director Says The Catholic Church Hasn’t Done ‘Enough’ To Protect Children From Sexual Assault 10 Years After Film’s Best Picture Win: ‘Not Until Every Child Is Safe’",
+      "link": "https://variety.com/2026/film/news/spotlight-catholic-church-children-sexual-abuse-nyff-1236898551/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tom McCarthy’s biographical drama “Spotlight” won Best Picture at the Academy Awards in 2016. The film, featuring a stacked ensemble led by Michael Keaton, Rachel McAdams and Mark Ruffalo, was widely praised for chronicling the investigative reporting by the Boston Globe that exposed the Catholic Church’s systemic cover-up of sexual abuse of children by priests. [ ]",
+      "published": "2026-10-04T17:07:47+00:00",
+      "fetched": "2026-10-04T20:32:03.511134+00:00"
+    },
+    {
+      "id": "747abeadd066a8ea",
+      "title": "Daily Wire’s Pro-ICE Film ‘Pawn Shop’ Production Temporarily Suspended",
+      "link": "https://variety.com/2026/film/news/daily-wires-pro-ice-film-temporarily-suspended-montana-1236898635/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Production of Daily Wire’s pro-ICE film “Pawn Shop” has been temporarily halted in Livingston, Mont., following a Special City Commission Meeting held on Saturday. The action comes as Livingston locals raised concerns about the film’s impact on local business — and notably the city’s sole food bank — as well as improper notification about hazardous [ ]",
+      "published": "2026-10-04T16:58:08+00:00",
+      "fetched": "2026-10-04T20:32:03.511184+00:00"
+    },
+    {
+      "id": "4d086ea684aa4605",
+      "title": "‘East of Eden’ Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh’s Cathy Is Both a ‘Murderer’ and ‘Survivor’ and Making Lee a Central Character",
+      "link": "https://variety.com/2026/tv/news/east-of-eden-explained-ending-cathy-lee-sexuality-1236897001/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This interview contains major spoilers from “East of Eden,” now streaming on Netflix. Zoe Kazan has spent much of her life thinking about family legacy on and off screen. More than 62 years after her grandfather Elia Kazan famously directed James Dean in an adaptation of the fourth and final part of John [ ]",
+      "published": "2026-10-04T16:30:00+00:00",
+      "fetched": "2026-10-04T20:32:03.511239+00:00"
+    },
+    {
+      "id": "cc4706b7f4f13d58",
+      "title": "Pedro Pascal in ‘Behemoth!’: The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For",
+      "link": "https://variety.com/2026/film/awards/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Pedro Pascal makes his Oscar case with a cello. “Behemoth!,” Tony Gilroy s first feature as a director since “The Bourne Legacy” in 2012, world-premiered on Friday night at Alice Tully Hall as the centerpiece selection of the New York Film Festival. Pascal plays Alex Serian, a former child prodigy from a family of Los Angeles [ ]",
+      "published": "2026-10-04T16:15:00+00:00",
+      "fetched": "2026-10-04T20:32:03.511289+00:00"
+    },
+    {
+      "id": "8c4e6fce36224e84",
+      "title": "Zach Bryan Breaks Attendance Record at Robert Kraft’s Gillette Stadium While Wearing ‘Free Palestine’ Shirt for Second Night in a Row",
+      "link": "https://variety.com/2026/music/news/zach-bryan-breaks-record-kraft-free-palestine-1236898609/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Zach Bryan broke the attendance record at Robert Kraft’s Gillette Stadium on Saturday night, performing for 73,538 fans — the largest crowd for any event in the venue s history — while wearing a “Free Palestine” shirt for the second night in a row. The move was a statement on several levels, but was pointedly directed [ ]",
+      "published": "2026-10-04T16:09:22+00:00",
+      "fetched": "2026-10-04T20:32:03.511341+00:00"
+    },
+    {
+      "id": "832489f913717ad5",
+      "title": "James Van Der Beek Was the ‘Soul’ of ‘Dawson’s Creek,’ Says Show Creator Kevin Williamson: ‘He Handled His Cancer With Such Grace and Courage’",
+      "link": "https://variety.com/2026/tv/columns/dawsons-creek-kevin-williamson-james-van-der-beek-cancer-1236898546/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Dawson’s Creek” creator Kevin Williamson remembered the show’s late star Jame Van Der Beek on Saturday night while being honored with a Hero Award at the Barbara Berlanti Heroes Gala, Greg Berlanti’s annual F Cancer benefit. Williams explained that the show, about a small-town high school student dreaming of becoming a Hollywood director, was inspired [ ]",
+      "published": "2026-10-04T16:07:55+00:00",
+      "fetched": "2026-10-04T20:32:03.511394+00:00"
+    },
     {
       "id": "e512fdc6cef9dc0b",
       "title": "John Steinbeck’s ‘East of Eden’ Returns to Top of Book Charts Following Netflix Adaptation’s Release",
@@ -1362,146 +1502,6 @@
       "summary": "“Primetime” is a box office overachiever, but the subject of the A24 film calls it a “complete work of fiction.” Lance Oppenheim’s movie centers on “To Catch a Predator,” the popular “Dateline” segment that ran from 2004 to 2007. In the show, an advocacy group with adult decoys posing as children would chat with online [ ]",
       "published": "2026-10-01T20:26:23+00:00",
       "fetched": "2026-10-01T22:03:13.000374+00:00"
-    },
-    {
-      "id": "9b586275cb7f5a98",
-      "title": "‘Landman’ Season 3: Colm Feore, Mustafa Speaks, Bobbi Salvor Menuez, Francesca Xuereb Promoted to Series Regular Status",
-      "link": "https://variety.com/2026/tv/news/landman-season-3-series-regulars-start-production-1236896271/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Landman Season 3 is officially in production, with the hit Paramount+ oil industry drama promoting four cast members to series regular status. Colm Feore (Nate), Mustafa Speaks (Boss), Bobbi Salvor Menuez (Paigyn), and Francesca Xuereb (Cheyenne) have all been promoted going into the new season, which is shooting in Fort Worth, TX. Billy Bob Thornton [ ]",
-      "published": "2026-10-01T20:00:00+00:00",
-      "fetched": "2026-10-01T22:03:13.000425+00:00"
-    },
-    {
-      "id": "d5b6a6c5a6cf0b48",
-      "title": "Talking Heads Detail Massive ‘Fear of Music’ Reissue",
-      "link": "https://www.rollingstone.com/music/music-news/talking-heads-fear-of-music-reissue-1235635387/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The “super deluxe edition,” which comes in three CD/Blu-ray or six LP vinyl, includes two concert sets from their 1979 tour",
-      "published": "2026-10-01T19:58:19+00:00",
-      "fetched": "2026-10-01T22:03:13.123924+00:00"
-    },
-    {
-      "id": "d11935f907599eea",
-      "title": "‘Scrubs’ Writer Eric Weinberg Goes on Trial for Rape and Sex Assault of Seven Women",
-      "link": "https://variety.com/2026/tv/news/eric-weinberg-rape-trial-opening-statements-1236894982/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jurors were told Thursday that TV writer Eric Weinberg posed as an amateur photographer in order to lure seven women to his Los Feliz home where he sexually assaulted them. Weinberg, 66, was a writer and producer on “Scrubs,” “Californication” and other shows. He has been in jail since 2022 awaiting trial on 23 counts [ ]",
-      "published": "2026-10-01T19:58:17+00:00",
-      "fetched": "2026-10-01T22:03:13.000476+00:00"
-    },
-    {
-      "id": "542d6cedfede0d1f",
-      "title": "‘Lanterns’ Episode 7 Hits 7 Million U.S. Viewers in Three Days as Season Reaches Average of Nearly 19 Million Globally",
-      "link": "https://variety.com/2026/tv/news/lanterns-episode-7-ratings-hbo-1236895280/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The seventh episode of Lanterns reached 7 million viewers in the U.S. in its first three days of availability. That total comes from a combination of Nielsen s measurement of linear viewers on HBO s cable channel plus streams on HBO Max.",
-      "published": "2026-10-01T19:44:57+00:00",
-      "fetched": "2026-10-01T22:03:13.000533+00:00"
-    },
-    {
-      "id": "22d29c05ea8563f1",
-      "title": "‘The Celebrity Traitors UK Season 2’ Isn’t Available in the U.S., But We Found a Way to Stream",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-the-celebrity-traitors-uk-season-2-in-us-stream-1235635442/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The newest season of the hit reality show features major stars including Bella Ramsey, James Blunt, and Jerry Hall — here’s how fans in the United States can watch",
-      "published": "2026-10-01T19:36:03+00:00",
-      "fetched": "2026-10-01T22:03:13.123958+00:00"
-    },
-    {
-      "id": "ac00bb3cb97b4aae",
-      "title": "Kelly Clarkson Says ‘I Love AI’ but AI Artists Should Not Be on the Same Music Charts as Humans",
-      "link": "https://variety.com/2026/music/news/kelly-clarkson-says-i-love-ai-but-shouldnt-compete-music-1236895343/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kelly Clarkson has shared her admittedly controversial opinion on artificial intelligence, saying she thinks it can do amazing things but shouldn t be able to create anything that competes with humans, particularly on music charts. The pop star shared her feelings about the technology during an appearance on the Las Culturistas podcast, saying she loves AI [ ]",
-      "published": "2026-10-01T19:27:52+00:00",
-      "fetched": "2026-10-01T22:03:13.000583+00:00"
-    },
-    {
-      "id": "5f9938ed06cf7c2d",
-      "title": "Chase Infiniti to Star in Dylan Clark’s ‘Portrait of God’ at Lionsgate With Sam Raimi and Jordan Peele Producing",
-      "link": "https://variety.com/2026/film/news/chase-infiniti-portrait-of-god-sam-raimi-jordan-peele-lionsgate-dylan-clark-1236895328/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Golden Globe and Emmy nominee Chase Infiniti (“One Battle After Another,” “The Testaments”) will star in “Portrait of God,” from up-and-coming horror filmmaker Dylan Clark. Lionsgate has acquired the rights and has greenlit the feature for production, with Sam Raimi and Jordan Peele on board as producers. “We’re delighted to deepen our creative partnership with [ ]",
-      "published": "2026-10-01T19:25:50+00:00",
-      "fetched": "2026-10-01T22:03:13.000638+00:00"
-    },
-    {
-      "id": "1ae7ab4a96c27b93",
-      "title": "‘Behemoth!,’ Starring Pedro Pascal, to Close Newport Beach Film Festival",
-      "link": "https://variety.com/2026/film/news/behemoth-newport-beach-film-festival-1236895049/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 27th annual Newport Beach Film Festival will close with “Behemoth!” on Oct. 22, with writer and director Tony Gilroy set to attend. Pedro Pascal stars as gifted cellist Alex Serian, who returns home to Los Angeles and embarks on a life-changing adventure after spending the past 20 years performing on the road.",
-      "published": "2026-10-01T19:15:03+00:00",
-      "fetched": "2026-10-01T22:03:13.000687+00:00"
-    },
-    {
-      "id": "022fa727a0691db1",
-      "title": "Conrad ‘Cronos’ Lant, Singer and Bassist of Black Metal Pioneers Venom, Dead at 63",
-      "link": "https://www.rollingstone.com/music/music-news/conrad-cronos-lant-venom-singer-bassist-dead-obit-1235635420/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"He created something that changed heavy music forever,\" band mates say of late singer. \"Venom never followed the rules. They forged their own path.",
-      "published": "2026-10-01T18:58:26+00:00",
-      "fetched": "2026-10-01T22:03:13.123993+00:00"
-    },
-    {
-      "id": "967cbd5d6fc428c9",
-      "title": "Sean Combs Placed in Solitary Confinement After Cushy Prison Perks Revealed",
-      "link": "https://www.rollingstone.com/music/music-news/sean-diddy-combs-solitary-confinement-1235635446/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The music mogul was reportedly using a contraband phone to scroll on Instagram and was paying fellow inmates for a variety of favors",
-      "published": "2026-10-01T18:48:09+00:00",
-      "fetched": "2026-10-01T22:03:13.124021+00:00"
-    },
-    {
-      "id": "69ae232ee8380aab",
-      "title": "Kanye West Wants Donda Staffer’s Harassment Lawsuit Dismissed: ‘Sensational Allegations’",
-      "link": "https://www.rollingstone.com/music/music-news/kanye-west-donda-yeezy-wrongful-termination-lawsuit-motion-1235635300/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The music mogul disputes claims that he illegally terminated Murphy Aficionado after an alleged barrage of bigoted and antisemitic remarks",
-      "published": "2026-10-01T18:16:58+00:00",
-      "fetched": "2026-10-01T22:03:13.124049+00:00"
-    },
-    {
-      "id": "65a10917b184d982",
-      "title": "Lil Nas X Learns to Trust the Plan in Poignant ‘World’s Greatest!’ Video",
-      "link": "https://www.rollingstone.com/music/music-news/lil-nas-x-worlds-greatest-video-1235634760/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The rock-driven single is the most musically self-assured release from the rapper-singer in years and arrives in dedication to his late mother",
-      "published": "2026-10-01T16:03:15+00:00",
-      "fetched": "2026-10-01T17:34:05.726421+00:00"
-    },
-    {
-      "id": "05affc3c9ad4734b",
-      "title": "Quinceañeras to Congress: Bobby Pulido Finds a New Way to Represent Tejanos",
-      "link": "https://www.rollingstone.com/politics/politics-features/bobby-pulido-retires-music-run-congress-1235635307/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Latin Grammy winner is putting away his microphone to flip a Republican district in South Texas. \"I'm perfectly comfortable never having a concert again,\" he tells Rolling Stone",
-      "published": "2026-10-01T16:00:58+00:00",
-      "fetched": "2026-10-01T17:34:05.726465+00:00"
-    },
-    {
-      "id": "c2447bbc6fc02f92",
-      "title": "Sean Ono Lennon’s New Doc Is About So Much More Than Fashion",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/sean-ono-lennon-threeasfour-full-circle-documentary-trailer-1235634185/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "See a trailer for 'threeasFOUR: Full Circle' about how three people with Palestinian, Israeli, and German roots came together for what Ono Lennon considers a quintessential New York story",
-      "published": "2026-10-01T16:00:24+00:00",
-      "fetched": "2026-10-01T17:34:05.726499+00:00"
     }
   ]
 }

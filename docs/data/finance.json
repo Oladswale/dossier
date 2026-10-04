@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-10-04T16:01:39.294296+00:00",
+  "updated": "2026-10-04T20:31:50.008685+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b0585ab8438acd2a",
+      "title": "FG vehicle rules could force billions in government car spending to local automakers",
+      "link": "https://nairametrics.com/2026/10/04/fg-vehicle-rules-could-force-billions-in-government-car-spending-to-local-automakers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government’s tighter vehicle procurement rules for Ministries, Departments and Agencies (MDAs) could give local automakers a fresh boost by requiring government entities to demonstrate compliance with local content requirements before purchasing vehicles. The post FG vehicle rules could force billions in government car spending to local automakers appeared first on Nairametrics .",
+      "published": "2026-10-04T19:06:03+00:00",
+      "fetched": "2026-10-04T20:31:49.487375+00:00"
+    },
     {
       "id": "c1c7268f82d06238",
       "title": "WAEC appoints Suleiman Kum as new Head of Nigeria National Office",
@@ -1492,16 +1502,6 @@
       "summary": "Most people land in a psychiatrist’s office because something happened: a loss, a breakup, the end of a career.",
       "published": "2026-10-01T11:32:00+00:00",
       "fetched": "2026-10-01T11:53:57.606260+00:00"
-    },
-    {
-      "id": "277210185b51deee",
-      "title": "Luno built a crypto exchange. Now it wants to sell crypto as a service.",
-      "link": "https://techcabal.com/2026/10/01/lunos-plan-for-crypto-as-a-service/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Luno's plan brings together an exchange, a stablecoin issuer, and a payments platform to serve institutions across Africa and other markets.",
-      "published": "2026-10-01T11:29:38+00:00",
-      "fetched": "2026-10-01T11:53:58.883363+00:00"
     }
   ]
 }
