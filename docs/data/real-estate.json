@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-04T20:32:05.580971+00:00",
+  "updated": "2026-10-05T02:33:39.338407+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5acaf39a13a8d609",
+      "title": "$20 Million Tennessee Compound Comes with a Music Studio, Helipad—and Its Own Wedding Venue",
+      "link": "https://www.realtor.com/news/unique-homes/tennessee-compound-wedding-venue-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 118-acre property just outside Columbia, TN, is listed for nearly three times what is sold for last years.",
+      "published": "2026-10-04T21:01:00+00:00",
+      "fetched": "2026-10-05T02:33:39.337908+00:00"
+    },
     {
       "id": "2bee331e3d556e61",
       "title": "Frank Lloyd Wright-Inspired Home Tucked Away on 5 Wooded Acres Is Listed for $1.23 Million Near Portland",
@@ -1492,16 +1502,6 @@
       "summary": "Jolie initially listed the opulent dwelling in May for $29.9 million, nearly a decade after purchasing the home.",
       "published": "2026-09-24T20:25:56+00:00",
       "fetched": "2026-09-24T20:50:36.518184+00:00"
-    },
-    {
-      "id": "25962eaea5bba2ab",
-      "title": "Bryson DeChambeau To Hold $100K Golf Tournament in Backyard of His $10 Million Texas Mansion",
-      "link": "https://www.realtor.com/news/sports/bryson-dechambeau-backyard-games-texas-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 33-year-old two-time U.S. Open champion unveiled his latest social media venture, dubbed \"Bryson's Backyard Games.\"",
-      "published": "2026-09-24T20:21:44+00:00",
-      "fetched": "2026-09-24T20:50:36.518218+00:00"
     }
   ]
 }

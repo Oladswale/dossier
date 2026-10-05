@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-10-04T20:31:50.008685+00:00",
+  "updated": "2026-10-05T02:33:22.676956+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ed8bad6c6434a05a",
+      "title": "FCT Police order arrest, prosecution of motorists with fake plates, no tinted permits",
+      "link": "https://nairametrics.com/2026/10/04/fct-police-order-arrest-prosecution-of-motorists-with-fake-plates-no-tinted-permits/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Commissioner of Police in charge of the Federal Capital Territory (FCT), Ahmed Muhammed Sanusi, has ordered the immediate arrest and prosecution of motorists or vehicle owners without valid licence plates or tinted glass permits. The post FCT Police order arrest, prosecution of motorists with fake plates, no tinted permits appeared first on Nairametrics .",
+      "published": "2026-10-04T20:55:22+00:00",
+      "fetched": "2026-10-05T02:33:22.160193+00:00"
+    },
+    {
+      "id": "a72128edfa0abc15",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have an ironclad prenup.”",
+      "published": "2026-10-04T20:31:00+00:00",
+      "fetched": "2026-10-05T02:33:21.708030+00:00"
+    },
     {
       "id": "b0585ab8438acd2a",
       "title": "FG vehicle rules could force billions in government car spending to local automakers",
@@ -1482,26 +1502,6 @@
       "summary": "Nigeria's primary healthcare centres are chronically underfunded, and fixing that starts with how badly fiscal policy misses the people who need it most.",
       "published": "2026-10-01T12:20:24+00:00",
       "fetched": "2026-10-01T17:33:55.706215+00:00"
-    },
-    {
-      "id": "604a29f7725f25fc",
-      "title": "7-Fifteen Capital hosts Dep. Governor of Lagos, Dr. Obafemi Hamzat, for an evening with Lagos business leaders",
-      "link": "https://nairametrics.com/2026/10/01/7-fifteen-capital-hosts-dep-governor-of-lagos-dr-obafemi-hamzat-for-an-evening-with-lagos-business-leaders/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "7-Fifteen Capital, a luxury real estate development company, hosted Dr. Obafemi Hamzat, Deputy Governor of Lagos State and the All Progressives Congress (APC) candidate for the 2027 Lagos State governorship election, for an evening of conversation with Lagos’ young business leaders in Ikoyi, Lagos. Themed “Lagos: The Next Chapter,” the private dinner brought together approximately [ ] The post 7-Fifteen Capital hosts Dep.",
-      "published": "2026-10-01T11:49:58+00:00",
-      "fetched": "2026-10-01T11:53:58.096335+00:00"
-    },
-    {
-      "id": "42791cc740b5ce58",
-      "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
-      "link": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Most people land in a psychiatrist’s office because something happened: a loss, a breakup, the end of a career.",
-      "published": "2026-10-01T11:32:00+00:00",
-      "fetched": "2026-10-01T11:53:57.606260+00:00"
     }
   ]
 }
