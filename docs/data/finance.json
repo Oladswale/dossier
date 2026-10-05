@@ -1,8 +1,318 @@
 {
   "category": "finance",
-  "updated": "2026-10-05T12:46:59.800450+00:00",
+  "updated": "2026-10-05T23:23:39.983300+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0f913e76c3df78d5",
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+      "published": "2026-10-05T23:00:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517329+00:00"
+    },
+    {
+      "id": "58de82898235f294",
+      "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
+      "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analysts highlight the stock’s cheap valuation and the chip maker’s central role in the AI ecosystem.",
+      "published": "2026-10-05T21:52:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517375+00:00"
+    },
+    {
+      "id": "b1aa5ac4e1d99c1e",
+      "title": "This new AI model could help America close a technological gap with China",
+      "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open model that boasts capabilities on par with those of Chinese ones",
+      "published": "2026-10-05T21:43:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517409+00:00"
+    },
+    {
+      "id": "fec8eabc9a2ea2d4",
+      "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
+      "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Microsoft looks like a winning play in an environment where investors are looking for safer bets on the AI trend, according to Melius Research.",
+      "published": "2026-10-05T21:27:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517440+00:00"
+    },
+    {
+      "id": "4cfa7a8a9c7483eb",
+      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+      "link": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Even if Toshiba doubles its capacity, analysts say it has a ways to go to catch up with Western Digital and Seagate",
+      "published": "2026-10-05T21:25:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517467+00:00"
+    },
+    {
+      "id": "81c263f594f71a2a",
+      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+      "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+      "published": "2026-10-05T21:24:25+00:00",
+      "fetched": "2026-10-05T23:23:36.656353+00:00"
+    },
+    {
+      "id": "a3b3b0787dbfc3fa",
+      "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
+      "link": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There’s a huge and rare divergence between the two-month returns of the Nasdaq and Dow Jones Industrial Average.",
+      "published": "2026-10-05T21:12:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517499+00:00"
+    },
+    {
+      "id": "afb530863ca868ab",
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.",
+      "published": "2026-10-05T20:41:23+00:00",
+      "fetched": "2026-10-05T23:23:36.656393+00:00"
+    },
+    {
+      "id": "eacfe8675ba30556",
+      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
+      "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The president is betting that he can make seniors forget rising healthcare costs",
+      "published": "2026-10-05T20:39:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517527+00:00"
+    },
+    {
+      "id": "6adcb2243f584e4b",
+      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
+      "published": "2026-10-05T20:30:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517558+00:00"
+    },
+    {
+      "id": "2e20b19dcf0f2090",
+      "title": "FG, Lagos begin 24/7 power pilot with joint technical committee",
+      "link": "https://nairametrics.com/2026/10/05/fg-lagos-begin-24-7-power-pilot-with-joint-technical-committee/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government and the Lagos State Government have agreed to work together to deliver stable and reliable electricity to the Lagos corridor under the 24/7 Energy Zones pilot approved by President Bola Tinubu. According to a statement from the Ministry of Power, the agreement was reached during a high-level technical session at Lagos House, [ ] The post FG, Lagos begin 24/7 power pilot with joint technical committee appeared first on Nairametrics .",
+      "published": "2026-10-05T20:21:11+00:00",
+      "fetched": "2026-10-05T23:23:38.944913+00:00"
+    },
+    {
+      "id": "7309a749ff60d4f5",
+      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+      "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
+      "published": "2026-10-05T20:14:00+00:00",
+      "fetched": "2026-10-05T23:23:36.517587+00:00"
+    },
+    {
+      "id": "499a2fde3fc9c104",
+      "title": "NGX slips 0.06% as Nestlé, insurers drag market lower",
+      "link": "https://nairametrics.com/2026/10/05/ngx-slips-0-06-as-nestle-insurers-drag-market-lower/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Exchange equity market closed on a slightly negative note on Monday, October 5, 2026, as the NGX All-Share Index (ASI) slipped by 140.41 points to close at 250,667.86 points, compared to 250,808.27 points recorded at the close of Friday's session. The post NGX slips 0.06% as Nestlé, insurers drag market lower appeared first on Nairametrics .",
+      "published": "2026-10-05T19:42:09+00:00",
+      "fetched": "2026-10-05T23:23:38.944973+00:00"
+    },
+    {
+      "id": "ed58dfeb8849fb86",
+      "title": "Kenya clears Dangote Refinery GDRs, opening IPO access to local investors",
+      "link": "https://nairametrics.com/2026/10/05/kenya-clears-dangote-refinery-gdrs-opening-ipo-access-to-local-investors/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Kenya’s Capital Markets Authority (CMA) has approved a Global Depositary Receipt (GDR) route that will allow eligible local investors to participate in the Dangote Petroleum Refinery Petrochemicals IPO. The post Kenya clears Dangote Refinery GDRs, opening IPO access to local investors appeared first on Nairametrics .",
+      "published": "2026-10-05T19:17:10+00:00",
+      "fetched": "2026-10-05T23:23:38.945028+00:00"
+    },
+    {
+      "id": "da299f65e93e02ea",
+      "title": "Top 10 African countries with the highest petrol prices in September",
+      "link": "https://nairametrics.com/2026/10/05/top-10-african-countries-with-the-highest-petrol-prices-in-september/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Global oil markets remained under pressure in September as the conflict in the Middle East kept crude prices above $100 per barrel, while tight refined-product supplies and rising freight costs added to the cost of moving fuel across international markets. The post Top 10 African countries with the highest petrol prices in September appeared first on Nairametrics .",
+      "published": "2026-10-05T18:52:19+00:00",
+      "fetched": "2026-10-05T23:23:38.945076+00:00"
+    },
+    {
+      "id": "451029c8379f6ab5",
+      "title": "Agbara Nla hits N170.6 million, records biggest non-December Nollywood opening",
+      "link": "https://nairametrics.com/2026/10/05/agbara-nla-hits-n170-6-million-records-biggest-non-december-nollywood-opening/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Faith-based movie Agbara Nla: The Return has extended its record-breaking run at the West African box office, grossing N170.6 million in its opening frame to record the biggest non-December opening for a Nollywood movie. The post Agbara Nla hits N170.6 million, records biggest non-December Nollywood opening appeared first on Nairametrics .",
+      "published": "2026-10-05T18:16:28+00:00",
+      "fetched": "2026-10-05T23:23:38.945120+00:00"
+    },
+    {
+      "id": "fd3e14352254e190",
+      "title": "FMDA projects Nigeria’s liquidity inflows to fall 14.8% to N13.25 trillion in October",
+      "link": "https://nairametrics.com/2026/10/05/fmda-projects-nigerias-liquidity-inflows-to-fall-14-8-to-n13-25-trillion-in-october/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Financial Markets Dealers Association (FMDA) has projected total liquidity inflows into Nigeria’s financial system at N13.250 trillion in October 2026, representing a 14.82% decline from the N15.556 trillion estimated for September. The post FMDA projects Nigeria’s liquidity inflows to fall 14.8% to N13.25 trillion in October appeared first on Nairametrics .",
+      "published": "2026-10-05T18:04:20+00:00",
+      "fetched": "2026-10-05T23:23:38.945175+00:00"
+    },
+    {
+      "id": "bf1469fdbbae20e4",
+      "title": "FG raised $500 million for Lagos airport after subsidy removal, Keyamo says",
+      "link": "https://nairametrics.com/2026/10/05/fg-raised-500-million-for-lagos-airport-after-subsidy-removal-keyamo-says/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Minister of Aviation and Aerospace Management, Festus Keyamo, has said the removal of fuel and foreign exchange subsidies helped the administration of President Bola Tinubu raise about $500 million to reconstruct the Lagos airport and other aviation infrastructure within two years without borrowing. The post FG raised $500 million for Lagos airport after subsidy removal, Keyamo says appeared first on Nairametrics .",
+      "published": "2026-10-05T16:50:57+00:00",
+      "fetched": "2026-10-05T23:23:38.945224+00:00"
+    },
+    {
+      "id": "b961d375199dc539",
+      "title": "What African startups returned to investors in a decade",
+      "link": "https://techcabal.com/2026/10/05/african-startup-exits-class-of-2016/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The Class of 2016 raised about $1.89 billion, around 8.6% of the roughly $22 billion that flowed into African startups since 2016, but they produced almost no liquidity.",
+      "published": "2026-10-05T16:45:16+00:00",
+      "fetched": "2026-10-05T23:23:39.982997+00:00"
+    },
+    {
+      "id": "1a6dd0db1d62617b",
+      "title": "JSE wants to turn 10 South African tech SMEs into investor-ready businesses",
+      "link": "https://techcabal.com/2026/10/05/jse-tia-tech-sme-investment-readiness/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The Johannesburg Stock Exchange and Technology Innovation Agency have launched a 16-week pilot to help 10 South African tech SMEs become investment-ready, access new markets and connect with potential sources of capital.",
+      "published": "2026-10-05T16:13:35+00:00",
+      "fetched": "2026-10-05T23:23:39.983038+00:00"
+    },
+    {
+      "id": "08849151fc25d398",
+      "title": "Why VOA spends six months inside startups before deciding to invest",
+      "link": "https://techcabal.com/2026/10/05/why-voa-spends-six-months-inside-startups-before-deciding-to-invest/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "After backing Blockradar and REasy, VOA Venture Partners wants to invest in African fintechs that help move money in and outside the continent.",
+      "published": "2026-10-05T15:43:58+00:00",
+      "fetched": "2026-10-05T23:23:39.983067+00:00"
+    },
+    {
+      "id": "047f34233a25854c",
+      "title": "FMDQ’s weekly FX turnover falls 35.4% to $1.7 billion as spot transactions drop $956 million",
+      "link": "https://nairametrics.com/2026/10/05/fmdqs-weekly-fx-turnover-falls-35-4-to-1-7-billion-as-spot-transactions-drop-956-million/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's foreign exchange market recorded a sharp pullback in trading activity in the week ended October 2, 2026, with total turnover across. The post FMDQ s weekly FX turnover falls 35.4% to $1.7 billion as spot transactions drop $956 million appeared first on Nairametrics .",
+      "published": "2026-10-05T15:42:48+00:00",
+      "fetched": "2026-10-05T23:23:38.945268+00:00"
+    },
+    {
+      "id": "479ff70a5c37b837",
+      "title": "Nigeria’s voter register surpasses 103 million ahead of 2027 elections – INEC",
+      "link": "https://nairametrics.com/2026/10/05/nigerias-voter-register-surpasses-103-million-ahead-of-2027-elections-inec/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Independent National Electoral Commission (INEC) says Nigeria’s national voter register has surpassed 103 million ahead of the 2027 general elections. The post Nigeria’s voter register surpasses 103 million ahead of 2027 elections INEC appeared first on Nairametrics .",
+      "published": "2026-10-05T15:38:41+00:00",
+      "fetched": "2026-10-05T23:23:38.945315+00:00"
+    },
+    {
+      "id": "f51b4217b8cae02e",
+      "title": "JAMB plans UTME centre in Canada for Nigerians from 2027",
+      "link": "https://nairametrics.com/2026/10/05/jamb-plans-utme-centre-in-canada-for-nigerians-from-2027/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Joint Admissions and Matriculation Board (JAMB) is working towards establishing a Unified Tertiary Matriculation Examination (UTME) centre in Ottawa, Canada, expected to commence operations in 2027. The post JAMB plans UTME centre in Canada for Nigerians from 2027 appeared first on Nairametrics .",
+      "published": "2026-10-05T15:18:13+00:00",
+      "fetched": "2026-10-05T23:23:38.945354+00:00"
+    },
+    {
+      "id": "a8814eb17507e7e0",
+      "title": "Concert for Change targets N500m to support children with disabilities, orphans",
+      "link": "https://nairametrics.com/2026/10/05/concert-for-change-targets-n500m-to-support-children-with-disabilities-orphans/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "A non-profit organisation, Concert for Change Foundation, has set a N500 million target for this year’s Green Worship benefit concert to support vulnerable children and charities catering for children living with disabilities across Nigeria. The foundation announced the target at a press conference in Lagos ahead of Green Worship 9.0, scheduled for Saturday, October 10, [ ] The post Concert for Change targets N500m to support children with disabilities, orphans appeared first on Nairametrics .",
+      "published": "2026-10-05T14:22:15+00:00",
+      "fetched": "2026-10-05T23:23:38.945415+00:00"
+    },
+    {
+      "id": "f2753a6870921114",
+      "title": "FG completes 10 diagnostic centres, plans six specialty hospitals nationwide",
+      "link": "https://nairametrics.com/2026/10/05/fg-completes-10-diagnostic-centres-plans-six-specialty-hospitals-nationwide/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government says it has established 10 radio-diagnostic centres across Nigeria and plans to establish a multi-specialty hospital in each of the country’s six geopolitical zones as part of efforts to expand access to specialised healthcare. The post FG completes 10 diagnostic centres, plans six specialty hospitals nationwide appeared first on Nairametrics .",
+      "published": "2026-10-05T14:19:48+00:00",
+      "fetched": "2026-10-05T23:23:38.945464+00:00"
+    },
+    {
+      "id": "ad411796f4bc95d7",
+      "title": "NativeTalk, trusted by enterprises for over a decade, launches all-in-one business app for SMEs across Africa",
+      "link": "https://nairametrics.com/2026/10/05/nativetalk-trusted-by-enterprises-for-over-a-decade-launches-all-in-one-business-app-for-smes-across-africa-2/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "With more than 10 years powering enterprise communication for organizations like MultiChoice, Cybervilla, Opay, and Pizza Hut, NativeTalk now brings that same enterprise-grade reliability to small and medium businesses through a single, all-in-one app. NativeTalk today announced the launch of the NativeTalk Business App, an all-in-one business communication platform designed to help African SMEs manage [ ] The post NativeTalk, trusted by enterprises for over a decade, launches all-in-one business app for SMEs across Africa appeared first on Nairametrics .",
+      "published": "2026-10-05T14:19:47+00:00",
+      "fetched": "2026-10-05T23:23:38.945523+00:00"
+    },
+    {
+      "id": "31bf012b3343af33",
+      "title": "FHFL commissions 50 energy-efficient homes for wives of fallen heroes in Ibadan",
+      "link": "https://nairametrics.com/2026/10/05/fhfl-commissions-50-energy-efficient-homes-for-wives-of-fallen-heroes-in-ibadan/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Family Homes Funds Limited (FHFL), in partnership with Post-Service Housing Development Limited (PHDL) and the National Agency for Science and Engineering Infrastructure (NASENI), has commissioned 50 two-bedroom detached, energy-efficient homes for the spouses of Nigeria’s fallen military personnel in Idi-Ape, Akobo, Lagelu Local Government Area of Oyo State. The commissioning brought together government representatives, military [ ] The post FHFL commissions 50 energy-efficient homes for wives of fallen heroes in Ibadan appeared first on Nairametrics .",
+      "published": "2026-10-05T14:15:04+00:00",
+      "fetched": "2026-10-05T23:23:38.945587+00:00"
+    },
+    {
+      "id": "525bfb7a0b5a4ea4",
+      "title": "India probes Niger soybean imports over suspected Nigerian origin",
+      "link": "https://nairametrics.com/2026/10/05/india-probes-niger-soybean-imports-over-suspected-nigerian-origin/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "India is investigating a surge in soybean imports declared as originating in Niger, amid suspicions that some of the cargoes may have come... The post India probes Niger soybean imports over suspected Nigerian origin appeared first on Nairametrics .",
+      "published": "2026-10-05T13:56:57+00:00",
+      "fetched": "2026-10-05T23:23:38.945650+00:00"
+    },
+    {
+      "id": "20c129fb4bc0c806",
+      "title": "Military aircraft crashes near Naval Base in Ondo, 32 on board",
+      "link": "https://nairametrics.com/2026/10/05/military-aircraft-crashes-near-naval-base-in-ondo-32-on-board/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "A military aircraft with tail number NGR 931 has crashed near the Naval Base in Igbokoda, Ondo State, after disappearing from radar while... The post Military aircraft crashes near Naval Base in Ondo, 32 on board appeared first on Nairametrics .",
+      "published": "2026-10-05T13:42:44+00:00",
+      "fetched": "2026-10-05T23:23:38.945688+00:00"
+    },
+    {
+      "id": "7afda4f9fe59128d",
+      "title": "Nigeria rises four places to 8th in Bloomberg’s most investable markets ranking",
+      "link": "https://nairametrics.com/2026/10/05/nigeria-rises-four-places-to-8th-in-bloombergs-most-investable-markets-ranking/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria rose four places to eighth in the 2026 Bloomberg Economics Investment Risk-O-Meter, overtaking Rwanda, Tanzania, Kenya and Namibia as. The post Nigeria rises four places to 8th in Bloomberg s most investable markets ranking appeared first on Nairametrics .",
+      "published": "2026-10-05T12:57:56+00:00",
+      "fetched": "2026-10-05T23:23:38.945730+00:00"
+    },
     {
       "id": "6a422c5cb30773e3",
       "title": "Koko’s carbon credits find no buyer as creditors fund UK wind-down",
@@ -1192,316 +1502,6 @@
       "summary": "Lungi Sangqu reflects on four decades of technology, digital transformation and leadership, arguing that successful innovation starts with people, not platforms.",
       "published": "2026-10-02T10:05:55+00:00",
       "fetched": "2026-10-02T11:26:00.194955+00:00"
-    },
-    {
-      "id": "b6cf803cd997d888",
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "published": "2026-10-02T10:00:01+00:00",
-      "fetched": "2026-10-02T11:25:58.993060+00:00"
-    },
-    {
-      "id": "5982badeedbaa2d3",
-      "title": "Nigeria’s pension assets grow by N3.8 trillion in eight months—PenCom",
-      "link": "https://nairametrics.com/2026/10/02/nigerias-pension-assets-grow-by-n3-8-trillion-in-eight-months-pencom/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's pension fund assets expanded by N3.8 trillion in the first eight months of 2026, rising from N28.04 trillion in January to a record N31.8 trillion as of August 31, 2026. The post Nigeria’s pension assets grow by N3.8 trillion in eight months—PenCom appeared first on Nairametrics .",
-      "published": "2026-10-02T09:51:28+00:00",
-      "fetched": "2026-10-02T11:25:59.600387+00:00"
-    },
-    {
-      "id": "7aab5c13c0a146a0",
-      "title": "Zenith bank launches zecathon 6.0 with ₦190 million in prizes and new future innovators challenge for senior secondary schools",
-      "link": "https://nairametrics.com/2026/10/02/zenith-bank-launches-zecathon-6-0-with-%e2%82%a6190-million-in-prizes-and-new-future-innovators-challenge-for-senior-secondary-schools/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zenith Bank Plc has unveiled Zecathon 6.0, the sixth edition of its flagship startup competition and innovation programme. Delivered in partnership with Beyond Limits, this year’s edition carries a ₦190 million prize pool, the largest in the programme’s history, and introduces the Future Innovators Challenge for senior secondary schools alongside the established Hackathon and Startup [ ] The post Zenith bank launches zecathon 6.0 with ₦190 million in prizes and new future innovators challenge for senior secondary schools appeared first on Nairametrics .",
-      "published": "2026-10-02T09:50:39+00:00",
-      "fetched": "2026-10-02T11:25:59.600424+00:00"
-    },
-    {
-      "id": "36c43a570ba96d9f",
-      "title": "British Pound falls to N1,767 as naira extends gains after CBN rate cut",
-      "link": "https://nairametrics.com/2026/10/02/british-pound-falls-to-n1767-as-naira-extends-gains-after-cbn-rate-cut/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The British Pound’s last bargain was at N1,767/£1 against the naira as it maintained its bullish momentum against the British currency in the CBN's post-cut era. The post British Pound falls to N1,767 as naira extends gains after CBN rate cut appeared first on Nairametrics .",
-      "published": "2026-10-02T09:44:41+00:00",
-      "fetched": "2026-10-02T11:25:59.600449+00:00"
-    },
-    {
-      "id": "8d937c4b3ce2d851",
-      "title": "Another viral AI-doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
-      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Egan-Jones has become the latest to issue a viral AI-doomsday report, zeroing in on difficulties facing screen-based workers and the housing market.",
-      "published": "2026-10-02T09:25:00+00:00",
-      "fetched": "2026-10-02T11:25:58.838545+00:00"
-    },
-    {
-      "id": "a86906f821502519",
-      "title": "Airtel Money sets £250 minimum for retail IPO offer ahead of London listing",
-      "link": "https://nairametrics.com/2026/10/02/airtel-money-sets-250-minimum-for-retail-ipo-offer-ahead-of-london-listing/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Airtel Money has set a minimum application of £250 per investor as it launches its retail offer ahead of its planned listing on the London Stock Exchange. The post Airtel Money sets £250 minimum for retail IPO offer ahead of London listing appeared first on Nairametrics .",
-      "published": "2026-10-02T09:18:42+00:00",
-      "fetched": "2026-10-02T11:25:59.600475+00:00"
-    },
-    {
-      "id": "8caddfc4086074d7",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "2026-10-02T09:15:00+00:00",
-      "fetched": "2026-10-02T11:25:58.838563+00:00"
-    },
-    {
-      "id": "260e211c6da637e8",
-      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
-      "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "In a sign of the financing crunch facing the hyperscalers financing the AI revolution, Amazon has announced it is raising prices on how much it charges to rent high-performance microchips as it reportedly is going to sell and then lease back Nvidia chips.",
-      "published": "2026-10-02T09:07:00+00:00",
-      "fetched": "2026-10-02T11:25:58.838583+00:00"
-    },
-    {
-      "id": "29ea87f1b5c9023a",
-      "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
-      "link": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A piece of sports history has officially hit the market, with former Boston Celtics commentator Mike Gorman listing his Boston penthouse for $1.495 million.",
-      "published": "2026-10-02T08:59:00+00:00",
-      "fetched": "2026-10-02T11:25:58.838598+00:00"
-    },
-    {
-      "id": "cbde0b4402c5475b",
-      "title": "Lagos moves to phase out diesel buses, mandates CNG, EVs for regulated operators",
-      "link": "https://nairametrics.com/2026/10/02/lagos-moves-to-phase-out-diesel-buses-mandates-cng-evs-for-regulated-operators/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos Metropolitan Area Transport Authority (LAMATA) has begun phasing out diesel-powered buses from the state’s regulated public bus system, restricting operators adding new buses to compressed natural gas (CNG) and electric vehicles (EVs). The post Lagos moves to phase out diesel buses, mandates CNG, EVs for regulated operators appeared first on Nairametrics .",
-      "published": "2026-10-02T08:23:13+00:00",
-      "fetched": "2026-10-02T11:25:59.600502+00:00"
-    },
-    {
-      "id": "5c6ff7fd1e9ff6dd",
-      "title": "OpenAI alerts over 100 organisations after rogue AI agent incidents",
-      "link": "https://nairametrics.com/2026/10/02/openai-alerts-over-100-organisations-after-rogue-ai-agent-incidents/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "OpenAI has notified more than 100 organisations about incidents involving unauthorised activity linked to its artificial intelligence agents, as concerns grow over the ability to control increasingly autonomous AI systems. The ChatGPT maker disclosed the incidents in a blog post on Thursday, saying it has been conducting a broad review of activity involving its AI [ ] The post OpenAI alerts over 100 organisations after rogue AI agent incidents appeared first on Nairametrics .",
-      "published": "2026-10-02T07:54:44+00:00",
-      "fetched": "2026-10-02T11:25:59.600531+00:00"
-    },
-    {
-      "id": "254188c9817d3f11",
-      "title": "MTN’s IHS Towers takeover advances as regulator demands fair access",
-      "link": "https://techcabal.com/2026/10/02/mtn-ihs-towers-2-2-billion-deal-south-africa-competition-commission-approval/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The conditions address the deal’s central tension: MTN will own the tower infrastructure while continuing to compete with other mobile operators that use it.",
-      "published": "2026-10-02T07:42:55+00:00",
-      "fetched": "2026-10-02T11:26:00.194973+00:00"
-    },
-    {
-      "id": "5d2f812032ba8207",
-      "title": "Nigerians report mixed results as new digital postcodes go live",
-      "link": "https://nairametrics.com/2026/10/02/nigerians-report-mixed-results-as-new-digital-postcodes-go-live/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerians have started finding and sharing their new digital postcodes following the launch of the Federal Government’s National Digital Alphanumeric Postcode System, with early users reporting both accurate locations and problems identifying their buildings. The post Nigerians report mixed results as new digital postcodes go live appeared first on Nairametrics .",
-      "published": "2026-10-02T07:32:30+00:00",
-      "fetched": "2026-10-02T11:25:59.600557+00:00"
-    },
-    {
-      "id": "5ed4655f871abcc4",
-      "title": "Dangote Refinery IPO: Why diaspora Nigerians are still struggling to invest – Zinnc CEO",
-      "link": "https://nairametrics.com/2026/10/02/dangote-refinery-ipo-why-diaspora-nigerians-are-still-struggling-to-invest-zinnc-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In this exclusive interview, Okonkwo discusses the barriers diaspora investors face in the Dangote offer, why he believes trust is a deeper issue, and what would be required to make diaspora capital a more consistent source of investment for Nigeria’s markets. The post Dangote Refinery IPO: Why diaspora Nigerians are still struggling to invest – Zinnc CEO appeared first on Nairametrics .",
-      "published": "2026-10-02T06:08:38+00:00",
-      "fetched": "2026-10-02T11:25:59.600585+00:00"
-    },
-    {
-      "id": "e19e85f32f677533",
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "link": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.",
-      "published": "2026-10-02T06:03:23+00:00",
-      "fetched": "2026-10-02T11:25:58.993077+00:00"
-    },
-    {
-      "id": "9789f951dae34e93",
-      "title": "👨🏿‍🚀TechCabal Daily – Meta’s ad-verse ruling",
-      "link": "https://techcabal.com/2026/10/02/techcabal-daily-metas-ad-verse-ruling/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Meta appeals Nigerian privacy ruling MTN clears another IHS hurdle South Africa drops OTT investigation Who secured the bag? 💰",
-      "published": "2026-10-02T06:00:54+00:00",
-      "fetched": "2026-10-02T11:26:00.194995+00:00"
-    },
-    {
-      "id": "cd6e75cf0fbbc67f",
-      "title": "FG installs 707,765 meters in Q2, 4.8 million electricity customers remain unmetered",
-      "link": "https://nairametrics.com/2026/10/02/fg-installs-707765-meters-in-q2-4-8-million-electricity-customers-remain-unmetered/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government installed 707,765 electricity meters across Nigeria in the first half of 2026, representing a 71% increase from the 412,792 meters installed in the corresponding period of 2025. The post FG installs 707,765 meters in Q2, 4.8 million electricity customers remain unmetered appeared first on Nairametrics .",
-      "published": "2026-10-02T05:46:00+00:00",
-      "fetched": "2026-10-02T11:25:59.600607+00:00"
-    },
-    {
-      "id": "f5331f965577d55c",
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "published": "2026-10-02T01:00:00+00:00",
-      "fetched": "2026-10-02T02:42:59.579930+00:00"
-    },
-    {
-      "id": "29412ba55db3b496",
-      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
-      "published": "2026-10-02T00:14:00+00:00",
-      "fetched": "2026-10-02T02:42:59.580000+00:00"
-    },
-    {
-      "id": "591fcd809d63b1de",
-      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The company has faced struggles in China and in its sneaker business.",
-      "published": "2026-10-02T00:13:00+00:00",
-      "fetched": "2026-10-02T02:42:59.580028+00:00"
-    },
-    {
-      "id": "a821977fd74c702e",
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Annuity payout rates are closely tied to interest rates",
-      "published": "2026-10-01T21:27:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942216+00:00"
-    },
-    {
-      "id": "45820bcf38cd41c9",
-      "title": "Nike’s troubles are mounting, and sales could fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The company has faced struggles in China and in its sneaker business.",
-      "published": "2026-10-01T21:09:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942284+00:00"
-    },
-    {
-      "id": "a57c00bc9f74475d",
-      "title": "The stock market is anything but normal right now — and these charts show it",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The S P 500 is trading just shy of record territory, even as most individual stocks are struggling.",
-      "published": "2026-10-01T21:01:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942319+00:00"
-    },
-    {
-      "id": "2e69c1866d6302a3",
-      "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
-      "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Here’s a breakdown of how much more households items could cost due to a diesel premium",
-      "published": "2026-10-01T20:58:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942351+00:00"
-    },
-    {
-      "id": "06e0e22c9aa16777",
-      "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
-      "link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There are two possibilities. Both of them are bad.",
-      "published": "2026-10-01T20:58:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942377+00:00"
-    },
-    {
-      "id": "e2b781e279e6843d",
-      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
-      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There’s a tug of war going on in the U.S. Treasury market right now",
-      "published": "2026-10-01T20:28:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942404+00:00"
-    },
-    {
-      "id": "1634c44723730ed6",
-      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
-      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Here’s what parents seeking the $1,000 seed money for their child need to know.",
-      "published": "2026-10-01T20:14:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942435+00:00"
-    },
-    {
-      "id": "6c796741fd73fbff",
-      "title": "Anthropic targets November IPO at $1.8 trillion to $2 trillion valuation",
-      "link": "https://nairametrics.com/2026/10/01/anthropic-targets-november-ipo-at-1-8-trillion-to-2-trillion-valuation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Anthropic PBC, the artificial intelligence company behind the Claude chatbot, is reportedly seeking to launch its initial public offering as early as mid-November at a valuation of between $1.8 trillion and $2 trillion. The post Anthropic targets November IPO at $1.8 trillion to $2 trillion valuation appeared first on Nairametrics .",
-      "published": "2026-10-01T19:13:01+00:00",
-      "fetched": "2026-10-01T22:02:57.388138+00:00"
-    },
-    {
-      "id": "916bfb84d428d052",
-      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
-      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Financial stocks have struggled over the past several weeks, and it’s becoming clear the decline may not be over.",
-      "published": "2026-10-01T18:38:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942465+00:00"
-    },
-    {
-      "id": "d9287b16fe404994",
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Widening credit spreads send an important signal that investors should heed about which stocks to buy and which to avoid",
-      "published": "2026-10-01T18:10:00+00:00",
-      "fetched": "2026-10-01T22:02:56.942492+00:00"
-    },
-    {
-      "id": "682dfa3f47409d8d",
-      "title": "FG launches digital postcode system, says ‘Every Nigerian deserves to be found’",
-      "link": "https://nairametrics.com/2026/10/01/fg-launches-digital-postcode-system-says-every-nigerian-deserves-to-be-found/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has launched the National Digital Alphanumeric Postcode System, assigning a unique digital postcode to addressable buildings across Nigeria. The post FG launches digital postcode system, says ‘Every Nigerian deserves to be found’ appeared first on Nairametrics .",
-      "published": "2026-10-01T17:42:50+00:00",
-      "fetched": "2026-10-01T22:02:57.388198+00:00"
     }
   ]
 }

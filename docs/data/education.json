@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-05T12:47:11.106110+00:00",
+  "updated": "2026-10-05T23:23:51.561251+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f4b149f9ae3f50b6",
+      "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
+      "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The discovery reveals a new way that stars and planetary companions can interact.",
+      "published": "2026-10-05T15:00:00+00:00",
+      "fetched": "2026-10-05T23:23:50.449845+00:00"
+    },
     {
       "id": "d7fc483d2b81c709",
       "title": "300 Years Before ChatGPT, Jonathan Swift’s Gulliver’s Travels Imagined Machines Writing Books and Producing Knowledge (1726)",
@@ -1492,16 +1502,6 @@
       "summary": "A number of futurists, philosophers, and technophiles believe we are approaching what they call the “singularity”: a point in time when smart machines become much smarter, stronger, and faster than their creators, and then become self-conscious. Whatever the chance of this occurring, it’s worthwhile to ponder the consequences. But we do already, all the time—in [ ]",
       "published": "2026-08-27T08:00:55+00:00",
       "fetched": "2026-08-27T16:55:07.840334+00:00"
-    },
-    {
-      "id": "34c1963bd7f24b47",
-      "title": "MIT engineers create a system for building shape-changing smart devices",
-      "link": "https://news.mit.edu/2026/mit-engineers-create-system-for-building-shape-changing-smart-devices-0827",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Dubbed “bifur-circuits,” these interactive building blocks could be used to develop reconfigurable robotic grippers or customized assistive devices.",
-      "published": "2026-08-27T04:00:00+00:00",
-      "fetched": "2026-08-27T05:15:18.354849+00:00"
     }
   ]
 }
