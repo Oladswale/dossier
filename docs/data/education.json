@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-05T02:33:38.411918+00:00",
+  "updated": "2026-10-05T12:47:11.106110+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d7fc483d2b81c709",
+      "title": "300 Years Before ChatGPT, Jonathan Swift’s Gulliver’s Travels Imagined Machines Writing Books and Producing Knowledge (1726)",
+      "link": "https://www.openculture.com/2026/10/gullivers-travels-imagined-automated-machines-writing-books-and-producing-knowledge.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The printing press was invented in the middle of the fifteenth century, and it’s been downhill for the written word ever since. Even before then, arguments that the volume of writing being done far outstripped the value of that writing surely weren’t unheard of. Whatever the era, the most incisive remarks on the apparent victory [ ]",
+      "published": "2026-10-05T09:00:20+00:00",
+      "fetched": "2026-10-05T12:47:11.105795+00:00"
+    },
+    {
+      "id": "0c56074a0e7a84ec",
+      "title": "Artists Frida Kahlo & Diego Rivera Visit Leon Trotsky in Mexico: Vintage Footage from 1938",
+      "link": "https://www.openculture.com/2026/10/kahlo-diego-rivera-visit-leon-trotsky-in-mexico.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Here’s some rare footage of the great Mexican painters Diego Rivera and Frida Kahlo paying a visit to exiled Soviet revolutionary Leon Trotsky and his wife, Natalia Sedova, in Coyoacán, Mexico, in 1938. The Trotskys had arrived the year before, after Rivera petitioned the government of President Lázaro Cárdenas to grant the controversial Marxist leader and theorist sanctuary in Mexico. When [ ]",
+      "published": "2026-10-05T08:00:22+00:00",
+      "fetched": "2026-10-05T12:47:11.105862+00:00"
+    },
     {
       "id": "0ab9cf0f9d9fcb77",
       "title": "Met Warehouse dedication ceremony launches new era",
@@ -1482,26 +1502,6 @@
       "summary": "Dubbed “bifur-circuits,” these interactive building blocks could be used to develop reconfigurable robotic grippers or customized assistive devices.",
       "published": "2026-08-27T04:00:00+00:00",
       "fetched": "2026-08-27T05:15:18.354849+00:00"
-    },
-    {
-      "id": "519a95fbfaeb1555",
-      "title": "MIT student leaders: Q&A with McCormick Hall co-president Sydney Baller",
-      "link": "https://news.mit.edu/2026/mit-student-leaders-sydney-baller-mccormick-hall-0826",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The rising senior loves her dorm and its community and wants to serve as a bridge to its next residents as the building heads into renovations.",
-      "published": "2026-08-26T17:35:00+00:00",
-      "fetched": "2026-08-26T19:27:47.916177+00:00"
-    },
-    {
-      "id": "d4edc610892278e1",
-      "title": "Why Reading Egyptian Hieroglyphics Is Easier Than You Think",
-      "link": "https://www.openculture.com/2026/08/why-reading-egyptian-hieroglyphics-is-easier-than-you-think.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "We’ve featured Egyptologist Ilona Regulski here on Open Culture a few times before. Once, she explained how to read ancient Egyptian hieroglyphs; another time, she told us what the Rosetta Stone actually says. It was, perhaps, inevitable that she would cross paths with Rob Watts, creator of the YouTube channel RobWords, whose videos we often post.",
-      "published": "2026-08-26T09:00:51+00:00",
-      "fetched": "2026-08-26T12:22:30.595361+00:00"
     }
   ]
 }
