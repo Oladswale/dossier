@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-06T12:17:15.643960+00:00",
+  "updated": "2026-10-06T21:56:01.493429+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "60f42633e7177ab9",
+      "title": "Music Streaming Fraudster Sentenced to 18 Months in Prison",
+      "link": "https://www.rollingstone.com/music/music-news/mike-smith-sentence-18-months-music-streaming-fraud-1235636944/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Mike Smith, who pleaded guilty earlier this year, is the first person to face federal charges tied to artificially inflating streams of his music",
+      "published": "2026-10-06T21:48:31+00:00",
+      "fetched": "2026-10-06T21:56:01.345522+00:00"
+    },
+    {
+      "id": "adda11750028dba2",
+      "title": "‘The Table: Day and Night’ Review: Café-Based Korean Romance With Kim Min-ha and Han Sun-hwa Is All Froth, No Kick",
+      "link": "https://variety.com/2026/film/reviews/the-table-day-and-night-review-1236903693/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "An artisanal café in a quiet yet fashionable Seoul neighborhood provides the setting for a quartet of seasonal vignettes in Kim Jong-kwan’s romantic anthology The Table: Day and Night. Opening this year s Busan Film Festival, the film — with its star-studded ensemble including Kim Min-ha, Shim Eun-kyung and Han Sun-hwa — will ensure a glitzy [ ]",
+      "published": "2026-10-06T21:46:08+00:00",
+      "fetched": "2026-10-06T21:56:01.174462+00:00"
+    },
+    {
+      "id": "e52de62a7be22944",
+      "title": "’60 Minutes’ Beats Last Season’s Viewership Bar for First Time, But Football Brings Only Small Boost",
+      "link": "https://variety.com/2026/tv/news/60-minutes-beats-last-season-viewership-bar-first-time-1236903684/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "CBS News 60 Minutes beat a crucial metric for the first time under new and heavily scrutinized managers but only managed to eke out a small boost to its ratings despite a robust football lead-in. The CBS newsmagazine lured an average of 10.2 million viewers on Sunday, when it offered an in-depth interview with Republican [ ]",
+      "published": "2026-10-06T21:44:49+00:00",
+      "fetched": "2026-10-06T21:56:01.174496+00:00"
+    },
+    {
+      "id": "ae3b82a005ba30fc",
+      "title": "Skydance Adds Bobby Kotick and Laurene Powell Jobs to Board, Taps Tony Blair as Adviser",
+      "link": "https://variety.com/2026/film/news/skydance-board-bobby-kotick-laurene-powell-jobs-tony-blair-1236903730/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Skydance Corp., formed from the megamerger of Paramount and Warner Bros. Discovery, is bringing new blood to its board of directors. On Tuesday, the company announced that Laurene Powell Jobs, founder and president of Emerson Collective, and Bobby Kotick, founder and former CEO of Activision, are joining the board as independent directors.",
+      "published": "2026-10-06T21:40:56+00:00",
+      "fetched": "2026-10-06T21:56:01.174522+00:00"
+    },
+    {
+      "id": "b0479545ccba41e9",
+      "title": "Eva Marie Saint, Oscar-Winning ‘On the Waterfront’ Actress, Dead at 102",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/eva-marie-saint-actress-dead-obituary-1235499450/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "North by Northwest star was one of the last bridges to Hollywood’s Golden Age",
+      "published": "2026-10-06T21:38:16+00:00",
+      "fetched": "2026-10-06T21:56:01.345544+00:00"
+    },
+    {
+      "id": "e3e14da143a81600",
+      "title": "Our Favorite Holiday Gift Just Went on Sale… And You Don’t Need a Prime Membership to Buy It",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-cozy-earth-bedding-pajama-deals-october-sale-2026-1235638096/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Cozy Earth is slashing prices on some of its best-selling products, with discounts that are even beating some of Amazon’s Big Deal Days markdowns",
+      "published": "2026-10-06T21:37:05+00:00",
+      "fetched": "2026-10-06T21:56:01.345563+00:00"
+    },
+    {
+      "id": "9bc9d204265824e9",
+      "title": "Next Generation Collective Launches in Support of Young Hollywood Talent’s Mental Health",
+      "link": "https://variety.com/2026/biz/news/next-generation-collective-young-hollywood-mental-health-1236903647/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Next Generation Collective (NGC), a new group built around helping young people in entertainment with their mental health, was launched today at Hollywood Mind s inaugural summit in New York City. Founded by Hollywood PR veteran Lilah Kojoori, NGC brings together clinical mental health expertise, entertainment industry leadership, and lived experience to provide guidance on [ ]",
+      "published": "2026-10-06T21:16:56+00:00",
+      "fetched": "2026-10-06T21:56:01.174549+00:00"
+    },
+    {
+      "id": "13189f878a4ae92b",
+      "title": "Will Smith, DJ Jazzy Jeff to Retell Origin Story With ‘215’ Scripted Series",
+      "link": "https://www.rollingstone.com/music/music-news/will-smith-dj-jazzy-jeff-215-scripted-tv-series-1235637986/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Smith's Westbrook Studios is developing the show",
+      "published": "2026-10-06T21:11:49+00:00",
+      "fetched": "2026-10-06T21:56:01.345575+00:00"
+    },
+    {
+      "id": "ea023a56cdd56938",
+      "title": "Eva Marie Saint, ‘North by Northwest’ Star, Dies at 102",
+      "link": "https://variety.com/2026/film/news/eva-marie-saint-dead-north-by-northwest-1236903677/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Oscar-winning actress Eva Marie Saint, who starred in such memorable classic films as “On the Waterfront” and “North by Northwest,” died Tuesday at her home in Los Angeles. She was 102. The delicate, fine-boned actress, one of the first breakout talents from early television, won her Academy Award as best supporting actress for “On the [ ]",
+      "published": "2026-10-06T20:59:27+00:00",
+      "fetched": "2026-10-06T21:56:01.174577+00:00"
+    },
+    {
+      "id": "ed8e39355a21bf96",
+      "title": "Miley Cyrus’ ‘Bass Persuades’ Has the Biggest Chart Drop Ever for an Album in the Week After a No. 1 Debut",
+      "link": "https://variety.com/2026/music/news/miley-cyrus-biggest-drop-after-number-one-album-debut-1236903472/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "How far down the Billboard 200 did Miley Cyrus Bass Persuades album fall in its second week? Curiosity about that grew over the last few days, particularly as Billboard announced the top 10 of its album chart on Sunday, and Cyrus album was not in it, after having debuted at No. 1 the previous week.",
+      "published": "2026-10-06T20:58:54+00:00",
+      "fetched": "2026-10-06T21:56:01.174603+00:00"
+    },
+    {
+      "id": "a4099a7d2a5ad559",
+      "title": "The Beach Boys Cancel Yet Another Planned Comeback Concert",
+      "link": "https://www.rollingstone.com/music/music-news/beach-boys-cancel-another-comeback-concert-1235638049/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "They haven’t played a public show since July, but the group did perform earlier this week at a private event at a California luxury hotel",
+      "published": "2026-10-06T20:58:46+00:00",
+      "fetched": "2026-10-06T21:56:01.345591+00:00"
+    },
+    {
+      "id": "5896d40cbaae1348",
+      "title": "Donald Trump Praises Newly Merged Paramount-Warner Bros.: ‘They’re Terrific People, and It’s Gonna Be a Great Company’",
+      "link": "https://variety.com/2026/tv/news/trump-praises-paramount-warner-bros-skydance-merger-terrific-people-1236903643/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "President Donald Trump, who is friendly with David Ellison and his father, Larry Ellison, gave a big thumbs-up to Paramount s megamerger with Warner Bros. Discovery, which closed earlier Tuesday to form Skydance Corp. “I’m happy about that.",
+      "published": "2026-10-06T20:39:34+00:00",
+      "fetched": "2026-10-06T21:56:01.174634+00:00"
+    },
+    {
+      "id": "5bbd530d1072bef7",
+      "title": "Jessica Chastain Stands By Criticizing Apple for Delaying ‘The Savant’ After Charlie Kirk’s Assassination: ‘I Had to Go on Record That I Thought It Was a Mistake’",
+      "link": "https://variety.com/2026/tv/news/jessica-chastain-the-savant-delayed-release-apple-mistake-1236903631/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jessica Chastain is doubling down on her decision to push back on Apple TV for delaying the release of her TV series The Savant last year amid the assassination of far-right activist Charlie Kirk. “I felt responsible to a lot of people, to all of the actors in the series… to the real person I [ ]",
+      "published": "2026-10-06T20:36:30+00:00",
+      "fetched": "2026-10-06T21:56:01.174664+00:00"
+    },
+    {
+      "id": "9680fc43777d941f",
+      "title": "This Travis Kelce-Backed Hydration Drink Is 25% Off for October Prime Day",
+      "link": "https://variety.com/2026/shopping/athletes/travis-kelce-recover-180-sports-hydration-drink-sale-price-1236901247/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Amazon s October Prime Day is here and among the promised- millions of deals on the site, is a rare discount on Travis Kelce s new sports drink, RECOVER 180. Amazon has the 12-pack of the organic hydration drink on sale for 25% off, giving fans a chance to try the electrolyte fuel whose roster of athlete ambassadors [ ]",
+      "published": "2026-10-06T20:30:13+00:00",
+      "fetched": "2026-10-06T21:56:01.174688+00:00"
+    },
+    {
+      "id": "82a93f6923ea152a",
+      "title": "Here’s How to Save On Streaming Services During October Prime Day",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/best-streaming-deals-discounts-prime-day-2026-1235581568/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Amazon's October Prime Big Deal Days sale has some great streaming deals, including free trials and bundles you won't find elsewhere",
+      "published": "2026-10-06T20:19:00+00:00",
+      "fetched": "2026-10-06T21:56:01.345607+00:00"
+    },
+    {
+      "id": "53f4b3c3b832a857",
+      "title": "Ben Shapiro’s Pro-ICE Movie Restarts Production, Slams Shutdown as a ‘Violation of the First Amendment’",
+      "link": "https://variety.com/2026/film/news/ben-shapiro-pro-ice-movie-restarts-production-shutdown-1236903589/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ben Shapiro has responded after the Livingston City Commission shut down production on his Daily Wire banner’s ICE film “Pawn Shop,” which has since resumed filming. The political commentator slammed the decision as “content discrimination” and “a violation of the First Amendment.” “Let us be clear: there s only one reason the city commissioners ruled they [ ]",
+      "published": "2026-10-06T20:16:03+00:00",
+      "fetched": "2026-10-06T21:56:01.174716+00:00"
+    },
+    {
+      "id": "afc44b426963bcac",
+      "title": "Actually, Going to Concerts Alone Is a Top-Tier Human Experience",
+      "link": "https://www.rollingstone.com/music/music-features/going-to-concerts-alone-good-1235638046/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Despite what the gossip Instagram pages might think, attending a show alone is anything but sad",
+      "published": "2026-10-06T20:07:15+00:00",
+      "fetched": "2026-10-06T21:56:01.345619+00:00"
+    },
+    {
+      "id": "a6d692701d7b6c75",
+      "title": "Where to Watch Lionel Messi’s Final Match With Argentina",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-lionel-messi-last-game-argentina-vs-benin-1235637028/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Argentina will take on Benin in a friendly at Buenos Aires' Estadio Mas Monumental for what's sure to be an emotional sendoff",
+      "published": "2026-10-06T20:00:00+00:00",
+      "fetched": "2026-10-06T21:56:01.345634+00:00"
+    },
+    {
+      "id": "2ee9d27fa76e2a03",
+      "title": "Watch Future Weld Together an Animatronic in ‘Build a Bitch’ Video",
+      "link": "https://www.rollingstone.com/music/music-news/future-build-a-bitch-video-1235637811/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Cole Bennett directs the visual for the single from the rapper’s The Real Me",
+      "published": "2026-10-06T19:28:23+00:00",
+      "fetched": "2026-10-06T21:56:01.345649+00:00"
+    },
+    {
+      "id": "5f3c281deba30f88",
+      "title": "Rolling Stone’s 2026 Musicians on Musicians Event Will Feature Don Toliver, Malcolm Todd, Alex Warren, and Megan Moroney",
+      "link": "https://www.rollingstone.com/music/music-news/musicians-on-musicians-event-2026-lineup-1235637455/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The annual event is slated for Oct. 23 at Los Angeles’ United Theater on Broadway, hosted by Saturday Night Live ’s James Austin Johnson. Tickets go on sale Oct.",
+      "published": "2026-10-06T19:02:00+00:00",
+      "fetched": "2026-10-06T21:56:01.345670+00:00"
+    },
     {
       "id": "bd117f3a09d7081a",
       "title": "‘Carmen,’ a Carmen Miranda Bio From Esmir Filho, to Shoot Next Year in U.S. and Brazil (EXCLUSIVE)",
@@ -1302,206 +1502,6 @@
       "summary": "It would be nice to say that Connor Storrie burns up the screen in April X, the star s first film vehicle released since TV s Heated Rivalry made him hot property, but it would be overstating the case. Appropriating Harrison Ford s Blade Runner frown, among a few other things nicked from that sci-fi classic in this [ ]",
       "published": "2026-10-03T08:17:50+00:00",
       "fetched": "2026-10-03T10:42:47.221828+00:00"
-    },
-    {
-      "id": "3bcea013f9306323",
-      "title": "Zach Bryan Wears ‘Free Palestine’ Shirt at Gillette After Owner Robert Kraft Banned Macklemore",
-      "link": "https://www.rollingstone.com/music/music-news/zach-bryan-free-palestine-shirt-gillette-stadium-macklemore-1235636423/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The billionaire owner banned Macklemore from his stadium after the rapper's onstage statements in support of Palestinians",
-      "published": "2026-10-03T04:36:12+00:00",
-      "fetched": "2026-10-03T10:42:47.306514+00:00"
-    },
-    {
-      "id": "2578f6a7c51add81",
-      "title": "New York’s Inaugural Muslim Film Festival Aims to Move Past Counter-Narratives, Unveils Lineup, Jury (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/festivals/new-yorks-muslim-film-festival-counter-narratives-1236898067/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A festival launching Oct. 11 at Manhattan s SVA Theatre is positioning itself as an answer to the flattened, stereotyped picture of Muslims Western media often traffics in. The New York Muslim Film Festival (NYMFF), billed as the city s first for Muslim filmmakers, wants them telling their own stories.",
-      "published": "2026-10-03T03:00:56+00:00",
-      "fetched": "2026-10-03T10:42:47.221887+00:00"
-    },
-    {
-      "id": "b89c8ae3a843546e",
-      "title": "Phil Collins Says He ‘Kissed and Made Up’ With Paul McCartney After Snub From Decades Ago",
-      "link": "https://www.rollingstone.com/music/music-news/phil-collins-paul-mccartney-snub-made-up-1235636404/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The musician said he felt slighted by the Beatle after asking him to sign a book in 2002",
-      "published": "2026-10-03T02:48:28+00:00",
-      "fetched": "2026-10-03T10:42:47.306552+00:00"
-    },
-    {
-      "id": "78341c7eaa334679",
-      "title": "‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama",
-      "link": "https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "\"Behemoth!\" is a classical-musician movie. It’s a midlife-crisis movie. It’s a romantic mystery.",
-      "published": "2026-10-03T00:00:04+00:00",
-      "fetched": "2026-10-03T02:29:34.046878+00:00"
-    },
-    {
-      "id": "1f42e8b4bf391ae1",
-      "title": "Here’s Where You Can Still Find Tickets to Ella Langley’s ‘Dandelion’ Tour",
-      "link": "https://www.rollingstone.com/product-recommendations/tickets/ella-langley-dandelion-tour-tickets-buy-online-2026-1235568761/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Langley's tour will run through the end of October as \"Choosin' Texas\" continues its record-setting run",
-      "published": "2026-10-02T23:59:26+00:00",
-      "fetched": "2026-10-03T02:29:34.167037+00:00"
-    },
-    {
-      "id": "336eea4e05f77946",
-      "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
-      "link": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded oversight at the newly merged Paramount-Warner Bros. entity (which will be named “Skydance,” the company revealed Friday). Skydance would not comment, but Cheeks has been seen [ ]",
-      "published": "2026-10-02T23:40:19+00:00",
-      "fetched": "2026-10-03T02:29:34.046939+00:00"
-    },
-    {
-      "id": "10f4daf26dfee464",
-      "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
-      "link": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the kiss of death for a feature is boredom; that feeling you’ve seen the same story many times before, the actors are checked out, there’s no visual panache.",
-      "published": "2026-10-02T23:15:00+00:00",
-      "fetched": "2026-10-03T02:29:34.046993+00:00"
-    },
-    {
-      "id": "15b1b9f33797cbd2",
-      "title": "The Best Over-Ear Headphones for Working Out",
-      "link": "https://www.rollingstone.com/product-recommendations/tech/best-over-ear-headphones-for-working-out-tested-1235539876/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "While over-ear headphones are generally not made with the gym in mind, we found a few pairs that are up to the task",
-      "published": "2026-10-02T22:45:38+00:00",
-      "fetched": "2026-10-03T02:29:34.167073+00:00"
-    },
-    {
-      "id": "7ed7baeea727f05e",
-      "title": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
-      "link": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "John Leguizamo is speaking out about the Paramount and Warner Bros. merger, and he s imploring David Ellison to consider what the industry needs as he takes over the new Skydance. Come on, Dave.",
-      "published": "2026-10-02T22:37:41+00:00",
-      "fetched": "2026-10-03T02:29:34.047046+00:00"
-    },
-    {
-      "id": "a5185a4a551236b1",
-      "title": "How to Watch ‘Love After Lockup: Relationship Rehab’ Online",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/watch-love-after-lockup-relationship-rehab-online-1235634977/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The new series revisits fan-favorite couples from Love After Lockup as they navigate relationship woes with the help of a psychiatrist",
-      "published": "2026-10-02T22:27:00+00:00",
-      "fetched": "2026-10-03T02:29:34.167108+00:00"
-    },
-    {
-      "id": "12788df3d381389f",
-      "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
-      "link": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It s 102 degrees in Los Angeles, but it s certainly not a summer Friday on the Paramount lot. The studio is swarming with activity, subplots and preparations for the closing of Skydance s acquisition of Warner Bros. Discovery next week.",
-      "published": "2026-10-02T22:17:51+00:00",
-      "fetched": "2026-10-03T02:29:34.047098+00:00"
-    },
-    {
-      "id": "27565e2c131cca33",
-      "title": "The Best Shows in Vegas to Spend All of Your Hard-Earned Gambling Money On",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-shows-in-vegas-1235271407/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A definitive guide: From disco hits to dangerous stunts, these Las Vegas shows are a must-see during your next trip to Sin City",
-      "published": "2026-10-02T21:26:31+00:00",
-      "fetched": "2026-10-02T21:28:45.876017+00:00"
-    },
-    {
-      "id": "933e398dac66dbfa",
-      "title": "17 Best New Movies Streaming in October: ’The Invite,’ ‘Disclosure Day,’ ‘Evil Dead Burn’ and More",
-      "link": "https://variety.com/lists/best-movies-streaming-october-2026/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "October is Halloween movie season, so it s the perfect time for two of the year s high-profile horror releases to debut on streaming platforms. Evil Dead Burn, the extremely grotesque ninth installment in the long-running franchise, premieres on HBO Max this month and should prove to be a big home viewing hit. For the indie horror [ ]",
-      "published": "2026-10-02T21:26:00+00:00",
-      "fetched": "2026-10-02T21:28:45.754597+00:00"
-    },
-    {
-      "id": "38b786a45acc5c70",
-      "title": "‘Celebrity Traitors’ Star Richard E. Grant Accidentally Reveals He’s a Traitor to Cast in Premiere, Calls It the ‘Biggest Mistake I’ve Made in My Life’",
-      "link": "https://variety.com/2026/tv/news/celebrity-traitors-richard-e-grant-reveals-traitor-premiere-1236897863/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Richard E. Grant almost immediately blew his chances on this season of Celebrity Traitors in what he calls the biggest mistake I’ve made in my life. In the first episode of the U.K.",
-      "published": "2026-10-02T21:23:23+00:00",
-      "fetched": "2026-10-02T21:28:45.754638+00:00"
-    },
-    {
-      "id": "3438f26205200123",
-      "title": "European Entertainment Leaders Mostly Optimistic About David Ellison’s Takeover of Warner Bros. : ‘I Believe in His Commitment to Cinema’",
-      "link": "https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After nearly a year of dealmaking drama, Paramount Skydance s takeover of Warner Bros. Discovery is about to become reality. Across Europe, where the Paramount chief David Ellison has spent time courting support for his vision of building a Hollywood colossus, the mood is surprisingly upbeat.",
-      "published": "2026-10-02T21:10:43+00:00",
-      "fetched": "2026-10-02T21:28:45.754668+00:00"
-    },
-    {
-      "id": "954ffc4621b33632",
-      "title": "How to Watch Freeform’s ’31 Nights of Halloween’ Movie Marathon Online at No Cost",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-freeform-31-nights-of-halloween-online-for-free-stream-1235635861/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here’s where you can stream the annual event and catch flicks like Hocus Pocus and Ghostbusters without paying",
-      "published": "2026-10-02T21:05:08+00:00",
-      "fetched": "2026-10-02T21:28:45.876045+00:00"
-    },
-    {
-      "id": "bb8b5a70e7143791",
-      "title": "Skydance Says It’s Committed to L.A., but Threat to Leave Has Proved Potent",
-      "link": "https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Skydance is officially L.A.’s newest Fortune 500 company — but for how long? In a message to employees last week, CEO David Ellison said he is committed to keeping the company in Hollywood: “We aren’t going anywhere.” But the consent decree between Ellison and 12 state attorneys general does not require him to maintain a [ ]",
-      "published": "2026-10-02T21:01:48+00:00",
-      "fetched": "2026-10-02T21:28:45.754696+00:00"
-    },
-    {
-      "id": "efaca79fa88c3e71",
-      "title": "How to Watch Jordan Orozco Hernandez vs. Yusniel Abrahante Boxing Live Online",
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-hernandez-vs-abrahante-boxing-live-online-1236878217/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "This weekend, boxing promoters Boxlab travels to Central Florida for another prime bout between two elite fighters. Nicaraguan boxer Jordan Orozco Hernandez goes head-to-head against Puerto Rican fighter Yusniel Abrahante is a scheduled for 12 rounds. On Friday, Oct.",
-      "published": "2026-10-02T21:00:00+00:00",
-      "fetched": "2026-10-02T21:28:45.754723+00:00"
-    },
-    {
-      "id": "7a5afad6e24cdc40",
-      "title": "‘Verity’ Had a Much More Twisted Ending. Then Came the Focus Group Screenings",
-      "link": "https://variety.com/2026/film/news/verity-ending-changed-focus-groups-books-1236897426/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This article contains spoilers for Verity, now playing in theaters. To say that “Verity,” a new erotic thriller featuring the ubiquitous Anne Hathaway and Dakota Johnson — who gets to call the former “a selfish, Machiavellian cunt” — has sharply divided critics would be an understatement. This thing has taken a bigger beating [ ]",
-      "published": "2026-10-02T21:00:00+00:00",
-      "fetched": "2026-10-02T21:28:45.754757+00:00"
-    },
-    {
-      "id": "0c76b4a689dd23c6",
-      "title": "Skydance’s Track Record: 20 Years of Tom Cruise, Mark Wahlberg, Action and More Action",
-      "link": "https://variety.com/lists/skydance-media-track-record-tom-cruise-mark-wahlberg/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Next week, Paramount and Warner Bros. will officially combine into one mega-studio with a familiar name: Skydance. The deal is expected to close on Tuesday.",
-      "published": "2026-10-02T20:38:21+00:00",
-      "fetched": "2026-10-02T21:28:45.754787+00:00"
     }
   ]
 }

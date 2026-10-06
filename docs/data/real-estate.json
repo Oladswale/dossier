@@ -1,8 +1,118 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-06T12:17:17.801621+00:00",
+  "updated": "2026-10-06T21:56:03.375753+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c382c40f8f584529",
+      "title": "NFL Pro Myles Garrett Is Gearing Up for Another Iconic Halloween Display at His New $23 Million Hidden Hills Estate",
+      "link": "https://www.realtor.com/news/sports/myles-garrett-halloween-decoration-los-angeles-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The NFL player, who recently snapped up a Hidden Hills mansion in his move to the Los Angeles Rams, is passionate about holiday displays.",
+      "published": "2026-10-06T21:12:08+00:00",
+      "fetched": "2026-10-06T21:56:03.375364+00:00"
+    },
+    {
+      "id": "7e63d5b541a5888b",
+      "title": "Most Americans Want To Age at Home. Not Enough Have Successfully Planned Financially for It.",
+      "link": "https://www.realtor.com/advice/finance/age-at-home-financing/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "More homeowners in their golden years are staying put, but doing so comes at a price, especially for those who need long-term care.",
+      "published": "2026-10-06T19:03:35+00:00",
+      "fetched": "2026-10-06T21:56:03.375385+00:00"
+    },
+    {
+      "id": "a169fe7afea5dbc9",
+      "title": "Michael Douglas Reveals ‘Incredibly Difficult’ Home Life With Catherine Zeta-Jones as Their $9 Million Mansion Lingers on the Market",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/michael-douglas-catherine-zeta-jones-marriage-hudson-new-york-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Douglas, 82, reflected on the highs and lows of his 25-year marriage to Zeta-Jones, 57, in his new memoir, “One Helluva Ride.\"",
+      "published": "2026-10-06T19:00:22+00:00",
+      "fetched": "2026-10-06T21:56:03.375408+00:00"
+    },
+    {
+      "id": "0efa056f79dec083",
+      "title": "Dolly Parton’s Former Los Angeles Home Hits the Market for the First Time in 25 Years",
+      "link": "https://www.realtor.com/news/unique-homes/dolly-parton-former-los-angeles-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The late music legend purchased the property with her husband, Carl Dean, in the 1980s. It's now available for the first time in 25 years.",
+      "published": "2026-10-06T17:39:04+00:00",
+      "fetched": "2026-10-06T21:56:03.375426+00:00"
+    },
+    {
+      "id": "8fdc5af623d750c7",
+      "title": "L.A.’s Mansion Tax Cost City 9,000 New Homes as Builders Pulled Back, Study Finds",
+      "link": "https://www.realtor.com/news/trends/los-angeles-california-mansion-tax-study/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A study by the RAND Corporation reveals that Measure ULA has caused the loss of 16,500 construction jobs and $452 million in tax revenue.",
+      "published": "2026-10-06T17:22:08+00:00",
+      "fetched": "2026-10-06T21:56:03.375442+00:00"
+    },
+    {
+      "id": "82f31ba57a6e620e",
+      "title": "Tropical Storm Isaias Tracks Toward U.S.: Where It Will Hit and Which Homeowners Should Prepare",
+      "link": "https://www.realtor.com/news/trends/tropical-storm-isaias-tracking-florida-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tropical Storm Isaias is likely to form by this weekend, bringing heavy rain and damaging winds to homeowners living in the Gulf.",
+      "published": "2026-10-06T17:12:44+00:00",
+      "fetched": "2026-10-06T21:56:03.375458+00:00"
+    },
+    {
+      "id": "08bdb217e026868f",
+      "title": "EXCLUSIVE: TikTokers Savannah and Cole LaBrant Pull $5.3 Million Tennessee Home From Market—Months After Slashing the Price",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/savannah-cole-labrant-tennessee-home-off-market-tiktok/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Savannah and Cole purchased the Nashville home in November 2022 for $4.5 million, and for nearly two years it served as their family home.",
+      "published": "2026-10-06T16:41:09+00:00",
+      "fetched": "2026-10-06T21:56:03.375476+00:00"
+    },
+    {
+      "id": "2e52d057b2d7ee07",
+      "title": "Warren Buffett’s Successor at Berkshire Hathaway Places Another Big Bet on Housing",
+      "link": "https://www.realtor.com/news/trends/warren-buffett-greg-abel-berkshire-hathaway-lennar-investment/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Lennar investment is just the latest of several bets Abel has made on U.S. homebuilders since taking over the CEO position from Buffett.",
+      "published": "2026-10-06T16:26:26+00:00",
+      "fetched": "2026-10-06T21:56:03.375493+00:00"
+    },
+    {
+      "id": "f6314d070368d3bd",
+      "title": "Serena Williams, Justin Verlander, Devin Booker, and More Star Athletes Share Glimpses Inside the Lavish Homes They Relax In",
+      "link": "https://www.realtor.com/news/sports/inside-homes-of-iconic-athletes-serena-williams/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The biggest names in sports share a glimpse inside their homes, showcasing the spaces where they kick back and relax.",
+      "published": "2026-10-06T16:13:02+00:00",
+      "fetched": "2026-10-06T21:56:03.375509+00:00"
+    },
+    {
+      "id": "edb55677e8d1ea6d",
+      "title": "Dr. Phil Lists Palatial Beverly Hills Estate for $67.5 Million—More Than Double What He Paid",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dr-phil-beverly-hills-california-mansion-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The TV personality and his wife purchased the property in 2010 for $29.8 million, before completing the residence the following year.",
+      "published": "2026-10-06T15:09:55+00:00",
+      "fetched": "2026-10-06T21:56:03.375524+00:00"
+    },
+    {
+      "id": "57bfc92d176d086c",
+      "title": "Real Estate Mogul Ryan Serhant Launches Chicago Expansion of Rapidly Growing Brokerage",
+      "link": "https://www.realtor.com/news/trends/ryan-serhant-chicago-launch-expansion-brokerage/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Ryan Serhant is expanding his groundbreaking AI-native real estate technology company into another major market with SERHANT. Illinois.",
+      "published": "2026-10-06T13:02:07+00:00",
+      "fetched": "2026-10-06T21:56:03.375539+00:00"
+    },
     {
       "id": "e854c6dc11296028",
       "title": "America Doesn’t Have a Housing “Shortage” (It’s Something Much Worse)",
@@ -1392,116 +1502,6 @@
       "summary": "This increasingly rare architectural style was created in the 1940s as a housing solution, promising affordability and low maintenance.",
       "published": "2026-09-27T12:16:00+00:00",
       "fetched": "2026-09-27T15:52:35.040382+00:00"
-    },
-    {
-      "id": "e5095fc9f386d5cb",
-      "title": "82% of Homeowners Want AI Security Cameras—Here’s Why Passive Cameras Aren’t Enough Anymore",
-      "link": "https://www.realtor.com/advice/home-improvement/ai-security-cameras-worth-it-cost-vs-benefits/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Discover how AI security cameras active-deter thieves before crimes happen. Explore costs, fees, and if the upgrade is worth it.",
-      "published": "2026-09-26T19:01:00+00:00",
-      "fetched": "2026-09-27T02:02:17.056869+00:00"
-    },
-    {
-      "id": "fc0e622579f26b6e",
-      "title": "Inside a $1.2 Million Restored 1890s Jersey City Brownstone That Blends Historic Charm With Parisian Chic",
-      "link": "https://www.realtor.com/news/unique-homes/jersey-city-historic-brownstone-maison-espoir-renovation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore Maison Espoir, a restored 1890s Jersey City brownstone blending historic millwork, Parisian chic design, and modern luxury.",
-      "published": "2026-09-26T17:42:00+00:00",
-      "fetched": "2026-09-26T20:15:07.425097+00:00"
-    },
-    {
-      "id": "44bde4434552d8ff",
-      "title": "Furnishing a College Dorm Costs $760 on Average—Here’s How to Avoid Overspending",
-      "link": "https://www.realtor.com/advice/home-improvement/college-dorm-room-costs/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A new study has found that nearly 3 in 10 people spend over $1000 on furnishing their college dorm room.",
-      "published": "2026-09-26T16:13:00+00:00",
-      "fetched": "2026-09-26T20:15:07.425138+00:00"
-    },
-    {
-      "id": "fc46568f5f11e665",
-      "title": "Look Inside the Remote ‘Island in the Sky’ Cabin Selling at the Very Top of an Idaho Mountain",
-      "link": "https://www.realtor.com/news/unique-homes/idaho-highest-home-mineral-hill-625k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Perched at 8,500 feet near Elk City, ID, the state's highest home is listed for $625K. Getting there takes a rugged seven-hour Jeep ride.",
-      "published": "2026-09-26T15:31:00+00:00",
-      "fetched": "2026-09-26T20:15:07.425174+00:00"
-    },
-    {
-      "id": "4485febd430827ab",
-      "title": "Inside a $7 Million Sedona Estate Built on Cowboy Art History—Complete with 1,000-Bottle Wine Cellar and Private Sport Court",
-      "link": "https://www.realtor.com/news/unique-homes/sedona-cowboy-artist-compound-estate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore this Sedona compound featuring a historic artist studio turned luxury playhouse, sport court, and red rock views.",
-      "published": "2026-09-26T13:03:00+00:00",
-      "fetched": "2026-09-26T15:11:16.754755+00:00"
-    },
-    {
-      "id": "c238956f3749591f",
-      "title": "This $35M Virginia Wine Country Estate Once Belonged to One of the World’s Richest Men—and It Has No Restrictions",
-      "link": "https://www.realtor.com/news/unique-homes/35m-virginia-wine-country-estate-scottsville/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore this $35M Virginia wine country estate with 1,850 acres, a turnkey winery, historic 1810 manor, and zero land restrictions.",
-      "published": "2026-09-26T12:32:00+00:00",
-      "fetched": "2026-09-26T15:11:16.754786+00:00"
-    },
-    {
-      "id": "01b1e85831f869c6",
-      "title": "Tiny-Home ‘Matchmakers’ Are Helping Connect Residents With Rural Landowners",
-      "link": "https://www.realtor.com/news/trends/tiny-home-matchmaker-service-find-land-live-on/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Finding land on which to put a tiny home can be a challenge, so new services are helping connect landowners and buyers.",
-      "published": "2026-09-26T10:01:00+00:00",
-      "fetched": "2026-09-26T10:22:14.340755+00:00"
-    },
-    {
-      "id": "593359515ca8f8db",
-      "title": "Nor’easter Threatens Outer Banks Homes on Verge of Collapse—and ‘Another 100’ Could Be Next",
-      "link": "https://www.realtor.com/news/trends/outer-banks-homes-noreaster-erosion-collapse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A nor’easter is battering Outer Banks homes already threatened by erosion—and officials warn another 100 could eventually be next.",
-      "published": "2026-09-25T22:34:36+00:00",
-      "fetched": "2026-09-26T02:09:49.063490+00:00"
-    },
-    {
-      "id": "08f9b6bff1505cd7",
-      "title": "EXCLUSIVE: Gregg Allman’s Daughter Lists $750K Maryland Home—With Pieces From the Rock Legend’s Estate Up for Grabs",
-      "link": "https://www.realtor.com/news/unique-homes/gregg-allman-daughter-lists-maryland-home-for-sale-memorabilia/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Frawley, whose late father was a founding member of The Allman Brothers Band, has listed her four-bedroom home.",
-      "published": "2026-09-25T21:29:54+00:00",
-      "fetched": "2026-09-26T02:09:49.063532+00:00"
-    },
-    {
-      "id": "8bc05926c86d9fbb",
-      "title": "Trump Admin Says It’s Clearing the ‘Biden Backlog’ of Fair Housing Complaints, But Activists Disagree",
-      "link": "https://www.realtor.com/news/real-estate-news/hud-fair-housing-complaints-backlog-discrimination/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "HUD says it's chipping away at the nation's backlog of Fair Housing complaints. But not all groups agree with its methods.",
-      "published": "2026-09-25T21:14:20+00:00",
-      "fetched": "2026-09-26T02:09:49.063567+00:00"
-    },
-    {
-      "id": "acf89dfb42228b34",
-      "title": "Taylor Swift’s Eras Tour Dancer and ‘DWTS’ Pro Jan Ravnik Is a First-Time Homeowner: ‘It Was Kind of a Fight’",
-      "link": "https://www.realtor.com/news/reality-tv/jan-ravnik-taylor-swift-tour-dancer-dwts-buys-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Dancing with the Stars\" professional chronicled his challenging home search, and is proud to share he finally found a beautiful home.",
-      "published": "2026-09-25T20:57:24+00:00",
-      "fetched": "2026-09-26T02:09:49.063601+00:00"
     }
   ]
 }
