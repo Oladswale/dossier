@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-06T03:27:46.162542+00:00",
+  "updated": "2026-10-06T12:17:16.960546+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "75f57ce00c609b18",
+      "title": "Discover the Lost Horror Series Deemed Too Shocking for BBC Television (1967)",
+      "link": "https://www.openculture.com/2026/10/discover-the-lost-horror-series-deemed-too-shocking-for-bbc-television-1967.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "High culture and new technology have never been a natural pairing. As our digital era has often underscored, media innovations tend to be adopted earliest to deliver the most puerile, sensation-driven content, with the more respectable stuff benefiting only later. When the BBC was introducing color broadcasting in the mid-nineteen-sixties, for instance, it was used [ ]",
+      "published": "2026-10-06T09:00:12+00:00",
+      "fetched": "2026-10-06T12:17:16.960259+00:00"
+    },
+    {
+      "id": "9c60d22183281dcf",
+      "title": "In 1704, Isaac Newton Predicted That the World Will End in 2060",
+      "link": "https://www.openculture.com/2026/10/isaac-newton-predicted-that-the-world-will-end-in-2060.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "We have become quite used to pronouncements of doom, from scientists predicting the sixth mass extinction due to the measurable effects of climate change, and from religionists declaring the apocalypse due to a surfeit of sin. It’s almost impossible to imagine these two groups of people agreeing on anything other than the ominous portent of [ ]",
+      "published": "2026-10-06T07:02:48+00:00",
+      "fetched": "2026-10-06T12:17:16.960314+00:00"
+    },
     {
       "id": "f4b149f9ae3f50b6",
       "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
@@ -1482,26 +1502,6 @@
       "summary": "MIT CSAIL researchers found a way to exploit a split-second gap in chip security — and used it to acquire a Linux system’s password file.",
       "published": "2026-08-27T15:40:00+00:00",
       "fetched": "2026-08-27T16:55:06.508790+00:00"
-    },
-    {
-      "id": "a2e99cceb5dacf16",
-      "title": "The Art of Splendor Solis, the Most Glorious Illuminated Alchemical Manuscript of Them All",
-      "link": "https://www.openculture.com/2026/08/the-art-of-splendor-solis-the-most-glorious-illuminated-alchemical-manuscript-of-them-all.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "When it was published in the United States in 1998, Harry Potter and the Philosopher’s Stone was retitled Harry Potter and the Sorcerer’s Stone. The jokes about the American reading public’s apparent allergy to the very word philosopher write themselves, but the change was also unfortunate for more substantial reasons. A “sorcerer’s stone” had no cultural resonance [ ]",
-      "published": "2026-08-27T09:00:55+00:00",
-      "fetched": "2026-08-27T16:55:07.840271+00:00"
-    },
-    {
-      "id": "89b2934a235a67a1",
-      "title": "Isaac Asimov Explains His Three Laws of Robots: Do No Harm, Follow Orders, Survive, in That Order",
-      "link": "https://www.openculture.com/2026/08/isaac-asimov-explains-his-three-laws-of-robots-do-no-harm-follow-orders-survive-in-that-order.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "A number of futurists, philosophers, and technophiles believe we are approaching what they call the “singularity”: a point in time when smart machines become much smarter, stronger, and faster than their creators, and then become self-conscious. Whatever the chance of this occurring, it’s worthwhile to ponder the consequences. But we do already, all the time—in [ ]",
-      "published": "2026-08-27T08:00:55+00:00",
-      "fetched": "2026-08-27T16:55:07.840334+00:00"
     }
   ]
 }

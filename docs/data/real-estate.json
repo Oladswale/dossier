@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-06T03:27:46.758437+00:00",
+  "updated": "2026-10-06T12:17:17.801621+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e854c6dc11296028",
+      "title": "America Doesn’t Have a Housing “Shortage” (It’s Something Much Worse)",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-466",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "For years, we’ve been told that the United States is short millions of homes, and that building more units is the key to solving the affordable housing crisis. But a [ ]",
+      "published": "2026-10-06T11:00:35+00:00",
+      "fetched": "2026-10-06T12:17:17.282236+00:00"
+    },
+    {
+      "id": "3bd2c4fba7d104d9",
+      "title": "Florida’s Affordability Advantage Is Gone: Inside the Sharp Drop in East Coast Migration to Miami",
+      "link": "https://www.realtor.com/news/trends/east-coast-buyers-lead-to-sharp-drop-in-miami-migration/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Driven by surging living costs, middle-class homebuyers are being squeezed out of Miami as the city transforms into an ultraluxury market.",
+      "published": "2026-10-06T09:00:00+00:00",
+      "fetched": "2026-10-06T12:17:17.800954+00:00"
+    },
+    {
+      "id": "b53ae13a5f849ea0",
+      "title": "The Post-it Note Inheritance Trend—and the Family Fights It Can Leave Behind",
+      "link": "https://www.realtor.com/news/trends/post-it-note-will-inheritance-estate-planning/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Sticky notes can show who wants what—but they may carry little legal weight when heirs disagree over an estate.",
+      "published": "2026-10-06T08:33:00+00:00",
+      "fetched": "2026-10-06T12:17:17.800992+00:00"
+    },
+    {
+      "id": "d1c018c49b04bb57",
+      "title": "8.5-Acre Waterfront Palm Beach Megamansion Owned by Billionaire Tech Mogul Is Listed for a Staggering $165 Million",
+      "link": "https://www.realtor.com/news/unique-homes/palm-beach-megamansion-larry-ellison-tyler-perry-beverly-hills/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Oracle co-founder Larry Ellison is looking to part ways with his megamansion, as is Tyler Perry on this week's most expensive homes list.",
+      "published": "2026-10-06T08:19:00+00:00",
+      "fetched": "2026-10-06T12:17:17.801020+00:00"
+    },
     {
       "id": "8e49973e2edd5089",
       "title": "Manhattan Luxury Market Gets a Fall Bump as Sales Hit 4-Month High",
@@ -1462,46 +1502,6 @@
       "summary": "The \"Dancing with the Stars\" professional chronicled his challenging home search, and is proud to share he finally found a beautiful home.",
       "published": "2026-09-25T20:57:24+00:00",
       "fetched": "2026-09-26T02:09:49.063601+00:00"
-    },
-    {
-      "id": "aab90142014983d2",
-      "title": "‘The Real Housewives of Beverly Hills’ Star Diana Jenkins Diana Jenkins Is Leaving America—and Selling Her $23 Million Hidden Hills Compound",
-      "link": "https://www.realtor.com/news/reality-tv/diana-jenkins-real-housewives-beverly-hills-lists-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The former Bravo cast member is looking to offload her sprawling Hidden Hills estate to return to her home city of Sarajevo.",
-      "published": "2026-09-25T20:22:29+00:00",
-      "fetched": "2026-09-25T20:48:00.282518+00:00"
-    },
-    {
-      "id": "6d5cc316bd943cf6",
-      "title": "‘We Buy Ugly Houses’ Fraudster Gets Prison in $40M Scheme To Rip Off Investors",
-      "link": "https://www.realtor.com/news/trends/we-buy-ugly-houses-fraud-charles-carrier-dallas-prison-sentence/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Charles Carrier pleaded guilty to wire fraud. Along with prison time, he was ordered to pay millions in restitution to his victims.",
-      "published": "2026-09-25T19:44:14+00:00",
-      "fetched": "2026-09-26T02:09:49.063645+00:00"
-    },
-    {
-      "id": "0cc3e7489055ee34",
-      "title": "‘We Buy Ugly Houses’ Fraudster Gets Prison in $40M Scheme to Rip Off Investors",
-      "link": "https://www.realtor.com/news/trends/we-buy-ugly-houses-fraud-charles-carrier-dallas-prison-sentence/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Charles Carrier pleaded guilty to wire fraud. In addition to prison time, he was ordered to pay millions in restitution to his victims.",
-      "published": "2026-09-25T19:44:14+00:00",
-      "fetched": "2026-09-25T20:48:00.282558+00:00"
-    },
-    {
-      "id": "a0c607babd1a4d54",
-      "title": "John Legend Helps 50 College Students Pay Rent as He Recalls His Own College ‘Hustle’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/john-legend-pay-college-students-rent-bilt/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The singer has teamed up with Bilt for the company's October Rent Day initiative, which will help pay housing costs for 50 students.",
-      "published": "2026-09-25T19:07:30+00:00",
-      "fetched": "2026-09-25T20:48:00.282591+00:00"
     }
   ]
 }
