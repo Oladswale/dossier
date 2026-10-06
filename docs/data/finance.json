@@ -1,6 +1,6 @@
 {
   "category": "finance",
-  "updated": "2026-10-05T23:23:39.983300+00:00",
+  "updated": "2026-10-06T03:27:26.618656+00:00",
   "count": 150,
   "items": [
     {
@@ -1174,6 +1174,16 @@
       "fetched": "2026-10-02T21:28:30.219480+00:00"
     },
     {
+      "id": "b6cf803cd997d888",
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "published": "2026-10-02T18:49:03+00:00",
+      "fetched": "2026-10-06T03:27:25.172486+00:00"
+    },
+    {
       "id": "241e90ac04ca4add",
       "title": "Société Générale sells 60.22% Ghana stake to Attijariwafa Bank, SSNIT",
       "link": "https://nairametrics.com/2026/10/02/societe-generale-sells-60-22-ghana-stake-to-attijariwafa-bank-ssnit/",
@@ -1492,16 +1502,6 @@
       "summary": "Were Flavio Bolsonaro to outperform current polling Sunday, an emerging-market fund manager see the opportunity for a sharp rally in stocks",
       "published": "2026-10-02T10:22:00+00:00",
       "fetched": "2026-10-02T11:25:58.838523+00:00"
-    },
-    {
-      "id": "e27dee4b06eb246f",
-      "title": "39 years in tech, one hard lesson: Lungi Sangqu on why buying software won’t fix broken processes",
-      "link": "https://techcabal.com/2026/10/02/lungi-sangqu-people-digital-transformation-success/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Lungi Sangqu reflects on four decades of technology, digital transformation and leadership, arguing that successful innovation starts with people, not platforms.",
-      "published": "2026-10-02T10:05:55+00:00",
-      "fetched": "2026-10-02T11:26:00.194955+00:00"
     }
   ]
 }
