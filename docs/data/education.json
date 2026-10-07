@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-07T12:08:27.154547+00:00",
+  "updated": "2026-10-07T22:20:17.097100+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b5f7857ffe997dc5",
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Over two decades at MIT, Hamilton forged new paths in computer science and engineering. Her groundbreaking work included leading the team that programmed the first computers that took humans to the moon.",
+      "published": "2026-10-07T20:55:00+00:00",
+      "fetched": "2026-10-07T22:20:16.281566+00:00"
+    },
+    {
+      "id": "bfd65ccdd7e00c9f",
+      "title": "Discovering the value of humanistic inquiry",
+      "link": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Students in MIT’s Concourse program delve deeply into the human condition, debate challenging questions, and learn to develop judgment about issues that can’t be quantified.",
+      "published": "2026-10-07T20:10:00+00:00",
+      "fetched": "2026-10-07T22:20:16.281619+00:00"
+    },
+    {
+      "id": "c0066bd7bee41d7b",
+      "title": "Turning the tide on Massachusetts shellfishing data",
+      "link": "https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
+      "published": "2026-10-07T19:55:00+00:00",
+      "fetched": "2026-10-07T22:20:16.281654+00:00"
+    },
     {
       "id": "73c66fee459559e0",
       "title": "Why the Maps of London, Tokyo, New York, and Other Major Cities Look the Way They Do",
@@ -1472,36 +1502,6 @@
       "summary": "Upon hearing of Tim Curry’s death last week, some of us could recall having seen him on stage: in Amadeus or Spamalot on Broadway, perhaps, though he also drew acclaim in the work of Stoppard, Brecht, and Shakespeare. For many more of us — perhaps all of us — it was his most memorable film and television [ ]",
       "published": "2026-08-31T15:39:34+00:00",
       "fetched": "2026-08-31T18:23:13.601312+00:00"
-    },
-    {
-      "id": "57b32f5d0f5c8864",
-      "title": "The Periodic Table of Endangered Elements: Visualizing the Chemical Elements That Could Vanish Before You Know It",
-      "link": "https://www.openculture.com/2026/08/periodic-table-of-endangered-elements.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The Periodic Table of Elements lists the 118 chemical elements that make up everything in our world. Some you’re familiar with—Hydrogen, Oxygen, Nitrogen, etc. Others maybe less so—Vanadium, Germanium, and Yttrium.",
-      "published": "2026-08-31T08:00:21+00:00",
-      "fetched": "2026-08-31T11:56:17.328551+00:00"
-    },
-    {
-      "id": "ffa609a209dc3dfa",
-      "title": "How an MIT research project became a global programming language",
-      "link": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
-      "published": "2026-08-31T04:00:00+00:00",
-      "fetched": "2026-08-31T11:56:15.803830+00:00"
-    },
-    {
-      "id": "4ab4054e686b3be6",
-      "title": "Archived: Building 18 Updates",
-      "link": "https://news.mit.edu/2026/archived-building-18-updates-0830",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "From Thursday, August 27 th through Sunday, August 30 th , MIT Emergency Management posted the following messages on emergency.mit.net regarding an incident at Building 18. Building 18 - update— Aug. For a campus map, visit https://whereis.mit.edu Building 18 closed— Aug.",
-      "published": "2026-08-30T16:00:00+00:00",
-      "fetched": "2026-09-04T19:57:20.192836+00:00"
     }
   ]
 }
