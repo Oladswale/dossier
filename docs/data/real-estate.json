@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-06T21:56:03.375753+00:00",
+  "updated": "2026-10-07T02:51:49.907400+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "da420b3fe2f3233b",
+      "title": "Mapped: Where Gen Z Is Moving, and Which States They’re Leaving in Droves",
+      "link": "https://www.realtor.com/news/trends/gen-z-adults-moved-states-california-south-carolina-texas-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nearly 1 in 4 Gen Z adults moved to a different state in 2024, a far higher share than any other generation.",
+      "published": "2026-10-06T22:29:50+00:00",
+      "fetched": "2026-10-07T02:51:49.906873+00:00"
+    },
     {
       "id": "c382c40f8f584529",
       "title": "NFL Pro Myles Garrett Is Gearing Up for Another Iconic Halloween Display at His New $23 Million Hidden Hills Estate",
@@ -1492,16 +1502,6 @@
       "summary": "A 20-acre Marin retreat designed by Frank Gehry protégé Jeremy Kotas hits the market for $4.4M, featuring Mt. Tam views and a lap pool.",
       "published": "2026-09-27T14:01:00+00:00",
       "fetched": "2026-09-27T15:52:35.040348+00:00"
-    },
-    {
-      "id": "06afaf291b23f1c5",
-      "title": "Lustron Homes Were Mass-Produced With Steel as a 1940s Housing Solution—Here’s Why Only 1,200 Still Stand Today",
-      "link": "https://www.realtor.com/news/unique-homes/lustron-home-prefabricated-steel-architectural-style-history/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "This increasingly rare architectural style was created in the 1940s as a housing solution, promising affordability and low maintenance.",
-      "published": "2026-09-27T12:16:00+00:00",
-      "fetched": "2026-09-27T15:52:35.040382+00:00"
     }
   ]
 }
