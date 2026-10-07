@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-07T02:51:49.907400+00:00",
+  "updated": "2026-10-07T12:08:27.895498+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "049332f76f1f5ed9",
+      "title": "The AI Tools That Save Real Estate Investors Time and Money (Weekly!)",
+      "link": "https://www.biggerpockets.com/blog/rookie-780",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Still using AI like a fancy search engine? Then you re leaving hours of your week, and a lot of money, on the table. Using the right AI tools in your [ ]",
+      "published": "2026-10-07T11:00:56+00:00",
+      "fetched": "2026-10-07T12:08:27.484584+00:00"
+    },
+    {
+      "id": "07f0f702f76b2b0f",
+      "title": "Scott Galloway: Stop Being an Earner, Start Being an Owner",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1340",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Get a good corporate job, save some money, and start investing ASAP. If you’re going to buy a house, do it here. That’s Scott Galloway’s advice, or, as you may [ ]",
+      "published": "2026-10-07T11:00:01+00:00",
+      "fetched": "2026-10-07T12:08:27.484633+00:00"
+    },
+    {
+      "id": "ad2011397f170e04",
+      "title": "Mortgages Under $100K Are Vanishing—but a New Federal Push Aims To Bring Them Back",
+      "link": "https://www.realtor.com/news/trends/small-mortgages-market-share-hud-pilot-program-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The share of small-mortgage deals is a fraction of what it was a decade ago, a Realtor.com study found. But changes could be on the way.",
+      "published": "2026-10-07T09:00:00+00:00",
+      "fetched": "2026-10-07T12:08:27.894882+00:00"
+    },
+    {
+      "id": "e1eeccfbef3e1fa4",
+      "title": "Adjustable-Rate Mortgages Look More Appealing Than Ever. Are They Worth It?",
+      "link": "https://www.realtor.com/news/trends/are-adjustable-rate-mortgages-worth-it-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As fixed mortgage rates climb, buyers are turning to cheaper adjustable loans. But is the lower upfront cost worth the risk?",
+      "published": "2026-10-07T08:37:00+00:00",
+      "fetched": "2026-10-07T12:08:27.894919+00:00"
+    },
+    {
+      "id": "e3aa529d3dcc9c84",
+      "title": "A 1970s Berkeley Glass House Built for a Photographer Just Became the Week’s Most Popular Home",
+      "link": "https://www.realtor.com/news/unique-homes/1970s-berkeley-glass-house-photographers-residence-most-popular/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore the famous 1970s Berkeley \"Photographer's House,\" featuring a two-story glass wall, darkroom studio, and bay views.",
+      "published": "2026-10-07T08:17:00+00:00",
+      "fetched": "2026-10-07T12:08:27.894952+00:00"
+    },
     {
       "id": "da420b3fe2f3233b",
       "title": "Mapped: Where Gen Z Is Moving, and Which States They’re Leaving in Droves",
@@ -1452,56 +1502,6 @@
       "summary": "The coming week brings a major monthly release from the Realtor.com economics team as well as key economic indicators.",
       "published": "2026-09-28T08:03:00+00:00",
       "fetched": "2026-09-28T12:06:31.479939+00:00"
-    },
-    {
-      "id": "667c7c1722072f32",
-      "title": "Hidden Vermont Sanctuary Sits High Above the Clouds on 210 Acres for $2.5 Million",
-      "link": "https://www.realtor.com/news/unique-homes/vermont-mountain-estate-210-acres-killington/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A private 210-acre Vermont retreat 15 minutes from Killington Ski Resort hits the market, featuring river views and mountain privacy.",
-      "published": "2026-09-27T18:12:00+00:00",
-      "fetched": "2026-09-27T20:31:02.546948+00:00"
-    },
-    {
-      "id": "f450e3c0d7bf328d",
-      "title": "The ‘Cold Room’ Trend: Could These Greek Housing Layouts Be The Key to Attracting Gen Z Buyers?",
-      "link": "https://www.realtor.com/news/trends/cold-room-trend-housing-layouts/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 'Cold Room' trend is taking over social media again, now that school is back in sessions—but why should home sellers care?",
-      "published": "2026-09-27T17:34:00+00:00",
-      "fetched": "2026-09-27T20:31:02.546989+00:00"
-    },
-    {
-      "id": "6548203a31890870",
-      "title": "Brooklyn’s Working-Class Bastion Bay Ridge Gets a New Luxury Development",
-      "link": "https://www.realtor.com/news/trends/brooklyn-bay-ridge-luxury-development-veridian-condos/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A working-class Brooklyn neighborhood known for its sweeping views of the Verrazano-Narrows Bridge is getting a luxury makeover.",
-      "published": "2026-09-27T16:14:00+00:00",
-      "fetched": "2026-09-27T20:31:02.547020+00:00"
-    },
-    {
-      "id": "f26d9a8bf785c904",
-      "title": "Julia Child’s Historic Cambridge Home Near Harvard Square Lists for $6.5 Million",
-      "link": "https://www.realtor.com/news/unique-homes/julia-child-historic-cambridge-home-harvard-square/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The legendary chef's historic Cambridge estate hits the market for $6.5 million, featuring lush gardens and an updated chef's kitchen.",
-      "published": "2026-09-27T15:31:00+00:00",
-      "fetched": "2026-09-27T15:52:35.040302+00:00"
-    },
-    {
-      "id": "5fc44e704efea0bb",
-      "title": "A Frank Gehry Protégé Transformed 20 Blank Acres in Marin—Now it’s On the Market for $4.4 Million",
-      "link": "https://www.realtor.com/news/unique-homes/frank-gehry-protege-jeremy-kotas-marin-estate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A 20-acre Marin retreat designed by Frank Gehry protégé Jeremy Kotas hits the market for $4.4M, featuring Mt. Tam views and a lap pool.",
-      "published": "2026-09-27T14:01:00+00:00",
-      "fetched": "2026-09-27T15:52:35.040348+00:00"
     }
   ]
 }
