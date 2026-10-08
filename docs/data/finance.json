@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-10-07T22:20:00.690346+00:00",
+  "updated": "2026-10-08T03:09:19.377521+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1060310ec608241b",
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+      "published": "2026-10-07T22:32:00+00:00",
+      "fetched": "2026-10-08T03:09:18.031613+00:00"
+    },
     {
       "id": "a1b58ec1c7ddfc0c",
       "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
@@ -1492,16 +1502,6 @@
       "summary": "The Johannesburg Stock Exchange and Technology Innovation Agency have launched a 16-week pilot to help 10 South African tech SMEs become investment-ready, access new markets and connect with potential sources of capital.",
       "published": "2026-10-05T16:13:35+00:00",
       "fetched": "2026-10-05T23:23:39.983038+00:00"
-    },
-    {
-      "id": "08849151fc25d398",
-      "title": "Why VOA spends six months inside startups before deciding to invest",
-      "link": "https://techcabal.com/2026/10/05/why-voa-spends-six-months-inside-startups-before-deciding-to-invest/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "After backing Blockradar and REasy, VOA Venture Partners wants to invest in African fintechs that help move money in and outside the continent.",
-      "published": "2026-10-05T15:43:58+00:00",
-      "fetched": "2026-10-05T23:23:39.983067+00:00"
     }
   ]
 }
