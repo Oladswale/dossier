@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-08T03:09:31.175946+00:00",
+  "updated": "2026-10-08T12:19:02.340107+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "459a0d34e17b0ac2",
+      "title": "The Strange and Brilliant Inventions of Nikola Tesla",
+      "link": "https://www.openculture.com/2026/10/the-strange-and-brilliant-inventions-of-nikola-tesla.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Even before the success of the electric car company that now bears his name, Nikola Tesla was a widely respected historical figure. Often, that respect could be based on surprisingly scant knowledge of the man’s life and accomplishments. Didn’t he do something with electricity?",
+      "published": "2026-10-08T09:00:39+00:00",
+      "fetched": "2026-10-08T12:19:02.339923+00:00"
+    },
+    {
+      "id": "e95bf86111d87c5d",
+      "title": "7 Tips from Edgar Allan Poe on How to Write Vivid Stories & Poems",
+      "link": "https://www.openculture.com/2026/10/7-tips-from-edgar-allan-poe-on-how-to-write-vivid-stories-poems.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "There may be no more a macabrely misogynistic sentence in English literature than Edgar Allan Poe’s contention that “the death… of a beautiful woman” is “unquestionably the most poetical topic in the world.” (His perhaps ironic observation prompted Sylvia Plath to write, over a hundred years later, “The woman is perfected / Her dead / Body [ ]",
+      "published": "2026-10-08T08:00:58+00:00",
+      "fetched": "2026-10-08T12:19:02.339960+00:00"
+    },
+    {
+      "id": "a38b2d7aab59f04b",
+      "title": "Using AI to mitigate the growing environmental threat of data centers",
+      "link": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
+      "published": "2026-10-08T04:00:00+00:00",
+      "fetched": "2026-10-08T12:19:01.416819+00:00"
+    },
     {
       "id": "b5f7857ffe997dc5",
       "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
@@ -1472,36 +1502,6 @@
       "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
       "published": "2026-08-31T19:30:00+00:00",
       "fetched": "2026-09-01T02:12:15.948943+00:00"
-    },
-    {
-      "id": "e41e616af485ac44",
-      "title": "Study: Peptides can form well-defined structures in harsh, Venus-like conditions",
-      "link": "https://news.mit.edu/2026/study-peptides-can-form-well-defined-structures-harsh-venus-conditions-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New research offers support for the possibility that complex biological molecules could exist in the highly acidic environment of Venus’s cloud layer.",
-      "published": "2026-08-31T19:00:00+00:00",
-      "fetched": "2026-09-01T02:12:15.948974+00:00"
-    },
-    {
-      "id": "1b68be9c4b35ad82",
-      "title": "Playing against climate risk",
-      "link": "https://news.mit.edu/2026/playing-against-climate-risk-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Climate scientist Sai Ravela is using games to help coastal communities find creative adaptations to climate change.",
-      "published": "2026-08-31T19:00:00+00:00",
-      "fetched": "2026-09-01T02:12:15.948998+00:00"
-    },
-    {
-      "id": "d1abaa84ce7f0dcc",
-      "title": "Tim Curry (RIP) Breaks Down His Most Iconic Roles: Rocky Horror, Clue, Muppet Treasure Island & More",
-      "link": "https://www.openculture.com/2026/08/tim-curry-rip-breaks-down-his-most-iconic-roles.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Upon hearing of Tim Curry’s death last week, some of us could recall having seen him on stage: in Amadeus or Spamalot on Broadway, perhaps, though he also drew acclaim in the work of Stoppard, Brecht, and Shakespeare. For many more of us — perhaps all of us — it was his most memorable film and television [ ]",
-      "published": "2026-08-31T15:39:34+00:00",
-      "fetched": "2026-08-31T18:23:13.601312+00:00"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-08T03:09:31.989693+00:00",
+  "updated": "2026-10-08T12:19:03.089331+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bd2238fbfdf612d2",
+      "title": "The American Economy Enters Its “Lost Decade”",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-467",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "America could enter what nobody wants—a “lost decade.” No huge gains, no massive price drops, just a slow, stagnating market where inflation eats away at the returns we once thought [ ]",
+      "published": "2026-10-08T11:00:42+00:00",
+      "fetched": "2026-10-08T12:19:02.622666+00:00"
+    },
+    {
+      "id": "c409826a2e2fbcea",
+      "title": "Affordable Starter Homes Are Still a Reality in These Top Cities for Flexible First-Time Buyers",
+      "link": "https://www.realtor.com/news/trends/affordable-starter-homes-top-cities-first-time-buyers-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Midwest metros like Kansas City and St. Louis lead the nation in affordable starter-home inventory and neighborhood options.",
+      "published": "2026-10-08T09:00:00+00:00",
+      "fetched": "2026-10-08T12:19:03.088917+00:00"
+    },
+    {
+      "id": "0bddfea05f2f424f",
+      "title": "Massachusetts Ballot Question Would Legalize Smaller Lots for Starter Homes",
+      "link": "https://www.realtor.com/news/real-estate-news/massachusetts-question-7-ballot-initiative-small-lots-starter-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "This fall, Massachusetts voters will decide on whether to allow homes on smaller lots. Boosters hope it will promote starter homes.",
+      "published": "2026-10-08T08:32:00+00:00",
+      "fetched": "2026-10-08T12:19:03.088939+00:00"
+    },
+    {
+      "id": "3323e9d030838cad",
+      "title": "HGTV’s Jonathan Knight Spent Big on a Custom Luxury Kitchen—Even Though He Admits He Doesn’t Cook",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/new-kids-on-the-block-and-hgtv-star-jonathan-knight-opens-up-massachusetts-farmhouse-he-fixed-for-himself/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The New Kids on the Block star opens up about his 7-acre Essex compound, custom antique farmhouse kitchen, and quiet Massachusetts life.",
+      "published": "2026-10-08T08:13:00+00:00",
+      "fetched": "2026-10-08T12:19:03.088959+00:00"
+    },
     {
       "id": "a1f8d013fd66c7a5",
       "title": "Disgraced CIA Agent Must Forfeit $100 Million Worth of Luxury Florida Properties in Stolen Gold Plot",
@@ -1462,46 +1502,6 @@
       "summary": "More than 10 million Americans aged 65 and older live in poverty as housing and care costs climb, a new AARP Foundation analysis finds.",
       "published": "2026-09-28T22:03:17+00:00",
       "fetched": "2026-09-28T22:40:32.859648+00:00"
-    },
-    {
-      "id": "0cd6cd4684eb4430",
-      "title": "Homeowner Discovers Viking Age Silver Hoard in Backyard During Patio Renovations",
-      "link": "https://www.realtor.com/news/trends/homeowner-discovers-viking-age-silver-hoard-in-backyard/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A simple home renovation turned into a major historical discovery as a Danish homeowner found a large hoard of Viking Age silver.",
-      "published": "2026-09-28T21:13:59+00:00",
-      "fetched": "2026-09-28T22:40:32.859685+00:00"
-    },
-    {
-      "id": "ce14ac8cb113e38d",
-      "title": "Diane Keaton’s Former Laguna Beach Retreat Is Listed for $10.3 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/diane-keaton-final-home-renovation-laguna-beach-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The late actress' final design project, which she purchased in 2021 before selling a year later, is up for grabs.",
-      "published": "2026-09-28T20:46:35+00:00",
-      "fetched": "2026-09-28T22:40:32.859715+00:00"
-    },
-    {
-      "id": "7fcea4e5cd1dc14f",
-      "title": "Connecticut Housing Authority Exec Is Charged With $16.2 Million Loan Fraud",
-      "link": "https://www.realtor.com/news/real-estate-news/robert-cappelletti-meriden-housing-authority-fraud-charge/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Former Meriden Housing Authority exec Robert Cappelletti was indicted on nine counts of fraud and money laundering.",
-      "published": "2026-09-28T20:20:53+00:00",
-      "fetched": "2026-09-28T22:40:32.859741+00:00"
-    },
-    {
-      "id": "68b33e036c16f6fe",
-      "title": "What Happened to ‘Unabomber’ Ted Kaczynski’s Infamous Cabin and Property",
-      "link": "https://www.realtor.com/news/trends/what-happened-to-unabomber-ted-kaczynskis-infamous-cabin-and-property/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Montana property where \"Unabomber\" Ted Kaczynski lived while sending homemade bombs in the mail has become a \"very Zen\" weekend retreat.",
-      "published": "2026-09-28T19:33:00+00:00",
-      "fetched": "2026-09-28T22:40:32.859772+00:00"
     }
   ]
 }
