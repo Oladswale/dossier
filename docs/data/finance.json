@@ -1,8 +1,248 @@
 {
   "category": "finance",
-  "updated": "2026-10-08T12:18:46.813495+00:00",
+  "updated": "2026-10-08T22:32:04.904726+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d3a18ebddf5d449b",
+      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+      "published": "2026-10-08T22:08:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118759+00:00"
+    },
+    {
+      "id": "bd610aa71144db00",
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+      "published": "2026-10-08T22:00:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118793+00:00"
+    },
+    {
+      "id": "d1043f52c2bc0f14",
+      "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
+      "published": "2026-10-08T21:56:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118819+00:00"
+    },
+    {
+      "id": "896d929dbf612fae",
+      "title": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
+      "link": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "PepsiCo CEO Ramon Laguarta says that everything at the company that is not related to growth will not be part of the company.",
+      "published": "2026-10-08T21:43:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118851+00:00"
+    },
+    {
+      "id": "e6557679cc9d9fee",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "published": "2026-10-08T21:15:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118874+00:00"
+    },
+    {
+      "id": "09e319dc97288d0f",
+      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
+      "published": "2026-10-08T21:07:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118897+00:00"
+    },
+    {
+      "id": "69c2e61d45a5dfab",
+      "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
+      "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The political action committee says it’s “continuing to build a durable coalition that wants America to remain the global leader in AI development.”",
+      "published": "2026-10-08T20:44:00+00:00",
+      "fetched": "2026-10-08T22:32:02.118931+00:00"
+    },
+    {
+      "id": "5a750f68260ddd23",
+      "title": "NGX sell-off wipes N1.33 trillion from investors’ wealth in one day",
+      "link": "https://nairametrics.com/2026/10/08/ngx-sell-off-wipes-n1-33-trillion-from-investors-wealth-in-one-day/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Negative sentiment persisted on the floor of the Nigerian Exchange Limited (NGX) on Thursday, October 8, 2026, as aggressive profit-taking and sell-offs wiped N1.33 trillion off the total valuation of listed equities in a single trading session. The post NGX sell-off wipes N1.33 trillion from investors’ wealth in one day appeared first on Nairametrics .",
+      "published": "2026-10-08T19:40:07+00:00",
+      "fetched": "2026-10-08T22:32:03.870799+00:00"
+    },
+    {
+      "id": "8733c1cfd22121e5",
+      "title": "African startups raise $260.3 million as top 10 account for 85.5% in September 2026",
+      "link": "https://nairametrics.com/2026/10/08/african-startups-raise-260-3-million-as-top-10-account-for-85-5-in-september-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "African startups raised $260.3 million across 54 disclosed deals in September 2026, with the continent's ten largest transactions accounting for $222.6 million, representing 85.52% of total funding raised during the month. The post African startups raise $260.3 million as top 10 account for 85.5% in September 2026 appeared first on Nairametrics .",
+      "published": "2026-10-08T18:52:03+00:00",
+      "fetched": "2026-10-08T22:32:03.870842+00:00"
+    },
+    {
+      "id": "d511da7743360a19",
+      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+      "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Gas prices are expected to remain above $4 per gallon on Nov. 3, according to traders on prediction market platform Kalshi.",
+      "published": "2026-10-08T17:51:51+00:00",
+      "fetched": "2026-10-08T22:32:02.817825+00:00"
+    },
+    {
+      "id": "164e53cf44a110cc",
+      "title": "J.P. Morgan to launch merchant bank in Nigeria before year-end",
+      "link": "https://nairametrics.com/2026/10/08/j-p-morgan-to-launch-merchant-bank-in-nigeria-before-year-end/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "J.P. Morgan plans to establish a merchant bank in Nigeria, with operations targeted to commence before the end of 2026, subject to regulatory approval. The post J.P.",
+      "published": "2026-10-08T17:32:03+00:00",
+      "fetched": "2026-10-08T22:32:03.870873+00:00"
+    },
+    {
+      "id": "65e06e1f2d9895f6",
+      "title": "Atiku rejects FG’s 30-day fuel discount, says it offers no lasting relief",
+      "link": "https://nairametrics.com/2026/10/08/atiku-rejects-fgs-30-day-fuel-discount-says-it-offers-no-lasting-relief/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Former Vice President Atiku Abubakar has rejected the Federal Government’s proposed 30-day fuel discount at NNPC stations, saying the temporary intervention will not provide lasting relief from high fuel, transport and food costs. The post Atiku rejects FG’s 30-day fuel discount, says it offers no lasting relief appeared first on Nairametrics .",
+      "published": "2026-10-08T17:07:09+00:00",
+      "fetched": "2026-10-08T22:32:03.870915+00:00"
+    },
+    {
+      "id": "89625d05c12696c2",
+      "title": "Billionaires online, broke offline: Nigerians escape reality inside viral games",
+      "link": "https://techcabal.com/2026/10/08/billionaires-online-broke-offline-nigerians-escape-reality-inside-viral-games/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "For millions of Nigerians playing Lagos Life, Lagos Run and other viral games, the attraction is not just entertainment.",
+      "published": "2026-10-08T16:27:06+00:00",
+      "fetched": "2026-10-08T22:32:04.904415+00:00"
+    },
+    {
+      "id": "0c67c3114863b612",
+      "title": "FG announces 30-day discount window on petrol sold by NNPC",
+      "link": "https://nairametrics.com/2026/10/08/fg-announces-30-day-discount-window-on-fuel-sold-by-nnpc/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government says it is offering a discount on petrol sold by the Nigerian National Petroleum Company Limited (NNPCL) for the next 30 days. The post FG announces 30-day discount window on petrol sold by NNPC appeared first on Nairametrics .",
+      "published": "2026-10-08T16:04:01+00:00",
+      "fetched": "2026-10-08T22:32:03.870943+00:00"
+    },
+    {
+      "id": "7b586fe71b9e7273",
+      "title": "Dangote’s NGX wealth surges by N1.47 trillion in Q3 2026 as cement stock rallies",
+      "link": "https://nairametrics.com/2026/10/08/dangotes-ngx-wealth-surges-by-n1-47-trillion-in-q3-2026-as-cement-stock-rallies/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa's richest man, Aliko Dangote, recorded a N1.47 trillion increase in the market value of his listed investments on the Nigerian Exchange (NGX) during the third quarter of 2026. The post Dangote s NGX wealth surges by N1.47 trillion in Q3 2026 as cement stock rallies appeared first on Nairametrics .",
+      "published": "2026-10-08T15:50:58+00:00",
+      "fetched": "2026-10-08T22:32:03.870976+00:00"
+    },
+    {
+      "id": "e6cfbcd20c01a86e",
+      "title": "NUPRC: 2025 oil licensing round could add 500 million barrels to Nigeria’s reserves",
+      "link": "https://nairametrics.com/2026/10/08/nuprc-2025-oil-licensing-round-could-add-500-million-barrels-to-nigerias-reserves/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Upstream Petroleum Regulatory Commission (NUPRC) says assets offered in its 2025 oil licensing round could add about 500 million barrels to Nigeria’s crude oil reserves and at least 300,000 barrels per day (bpd) of crude oil and condensate production within five years. The post NUPRC: 2025 oil licensing round could add 500 million barrels to Nigeria’s reserves appeared first on Nairametrics .",
+      "published": "2026-10-08T15:42:13+00:00",
+      "fetched": "2026-10-08T22:32:03.871018+00:00"
+    },
+    {
+      "id": "61148c375e5af220",
+      "title": "South Africa targets 17.5 billion spam calls with new registry",
+      "link": "https://techcabal.com/2026/10/08/south-africa-spam-calls/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The registry is part of a sweeping government effort to tackle South Africa’s growing spam-call problem.",
+      "published": "2026-10-08T15:35:39+00:00",
+      "fetched": "2026-10-08T22:32:04.904449+00:00"
+    },
+    {
+      "id": "94c3c69e545c0a92",
+      "title": "Cardoso courts Asia as CBN pushes deeper, more liquid markets",
+      "link": "https://nairametrics.com/2026/10/08/cardoso-courts-asia-as-cbn-pushes-deeper-more-liquid-markets/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Central Bank of Nigeria (CBN) Governor Olayemi Cardoso has stepped up Nigeria’s financial engagement with Asia through high-level meetings in Singapore focused on market development, institutional cooperation and financial innovation. The post Cardoso courts Asia as CBN pushes deeper, more liquid markets appeared first on Nairametrics .",
+      "published": "2026-10-08T15:01:53+00:00",
+      "fetched": "2026-10-08T22:32:03.871054+00:00"
+    },
+    {
+      "id": "186335f05a454e76",
+      "title": "Nigerian content in oil sector rises from 5% to 61% in 16 years— NCDMB",
+      "link": "https://nairametrics.com/2026/10/08/nigerian-content-in-oil-sector-rises-from-5-to-61-in-16-years-ncdmb/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian content in Nigeria’s oil and gas industry has increased from five per cent in 2010 to 61 per cent, according to the Nigerian Content Development and Monitoring Board (NCDMB). The post Nigerian content in oil sector rises from 5% to 61% in 16 years— NCDMB appeared first on Nairametrics .",
+      "published": "2026-10-08T14:36:00+00:00",
+      "fetched": "2026-10-08T22:32:03.871092+00:00"
+    },
+    {
+      "id": "b155d6ac13ef13a4",
+      "title": "From price to specs: What’s new with the Oppo F35 Pro",
+      "link": "https://techcabal.com/2026/10/08/oppo-f35-pro-release-date-price-specs/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Oppo launched the Oppo F35 Pro in India on October 5, 2026. The phone starts at ₹45,999 ($475) and goes on sale on October 11.",
+      "published": "2026-10-08T14:10:42+00:00",
+      "fetched": "2026-10-08T22:32:04.904479+00:00"
+    },
+    {
+      "id": "80b931ccaa3c8287",
+      "title": "Moove exits Nigeria, gives customers N35 billion worth of cars",
+      "link": "https://nairametrics.com/2026/10/08/moove-exits-nigeria-gives-customers-n35-billion-worth-of-cars/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Moove, the global mobility company founded in Lagos, has announced plans to conclude its operations in Nigeria six years after launching... The post Moove exits Nigeria, gives customers N35 billion worth of cars appeared first on Nairametrics .",
+      "published": "2026-10-08T13:43:23+00:00",
+      "fetched": "2026-10-08T22:32:03.871119+00:00"
+    },
+    {
+      "id": "b13de119815ee211",
+      "title": "Two viral games found an audience. Can Nigerian gaming follow?",
+      "link": "https://techcabal.com/2026/10/08/viral-games-changing-the-industry/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Lagos Run and Lagos Life are changing the conversation around Nigeria’s gaming industry and its future.",
+      "published": "2026-10-08T13:42:42+00:00",
+      "fetched": "2026-10-08T22:32:04.904502+00:00"
+    },
+    {
+      "id": "fd9f1fde450e32b8",
+      "title": "Cybersecurity: BluDive, Delinea urge organisations to strengthen privileged access management as AI reshapes enterprise risk",
+      "link": "https://nairametrics.com/2026/10/08/cybersecurity-bludive-delinea-urge-organisations-to-strengthen-privileged-access-management-as-ai-reshapes-enterprise-risk-2/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "As organisations accelerate their adoption of artificial intelligence, cloud computing, automation and digital services, BluDive Technologies Limited and Delinea have called on enterprises to make identity security and Privileged Access Management (PAM) a central pillar of their cybersecurity strategies.The call was made at the BluDive-Delinea Executive Seminar, themed Beyond the Firewall: Securing Identity and Privileged [ ] The post Cybersecurity: BluDive, Delinea urge organisations to strengthen privileged access management as AI reshapes enterprise risk appeared first on Nairametrics .",
+      "published": "2026-10-08T13:07:38+00:00",
+      "fetched": "2026-10-08T22:32:03.871174+00:00"
+    },
+    {
+      "id": "9638b01f3ec1fd63",
+      "title": "Bloccpay is using stablecoins to simplify cross-border payroll",
+      "link": "https://techcabal.com/2026/10/08/bloccpays-stablecoin-powered-payroll/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Bloccpay is a stablecoin-powered payroll and invoicing infrastructure designed for cross-border talent.",
+      "published": "2026-10-08T13:04:15+00:00",
+      "fetched": "2026-10-08T22:32:04.904522+00:00"
+    },
     {
       "id": "1b8415f607ad90ec",
       "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
@@ -1262,246 +1502,6 @@
       "summary": "Lagos, Kano and Kaduna have emerged as the three states with the highest number of registered voters in Nigeria ahead of the 2027 general elections, according to the Independent National Electoral Commission (INEC). The post Lagos, Kano, Kaduna top Nigeria’s voter register ahead of 2027 appeared first on Nairametrics .",
       "published": "2026-10-06T13:13:43+00:00",
       "fetched": "2026-10-06T21:55:46.206132+00:00"
-    },
-    {
-      "id": "faa31095f7354643",
-      "title": "Investing in Nigeria’s Future: Mobilising Capital for Growth That Works",
-      "link": "https://nairametrics.com/2026/10/06/investing-in-nigerias-future-mobilising-capital-for-growth-that-works/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "NES #32 to Centre Investment in the Economy and People as Drivers of Jobs, Productivity and Shared Prosperity Economic transformation does not happen by chance. It is built on investment — investment in businesses, industries, infrastructure, innovation, and most importantly, people. Yet despite Nigeria s enormous potential, investment levels remain below what is required to generate [ ] The post Investing in Nigeria s Future: Mobilising Capital for Growth That Works appeared first on Nairametrics .",
-      "published": "2026-10-06T12:16:00+00:00",
-      "fetched": "2026-10-06T12:16:59.963098+00:00"
-    },
-    {
-      "id": "d582bcab055e6d5c",
-      "title": "America’s favorite index is misleading investors about the state of the stock market",
-      "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "For decades, the S P 500 has been the preferred benchmark for monitoring the performance of the U.S. stock market. But these days, it is behaving less like a barometer of broad market health and more like a funhouse mirror.",
-      "published": "2026-10-06T12:05:00+00:00",
-      "fetched": "2026-10-06T12:16:59.110842+00:00"
-    },
-    {
-      "id": "6b930810d89c51c1",
-      "title": "Spendin Targets Africa’s $280 Million eSIM Market in Push Beyond Payments",
-      "link": "https://nairametrics.com/2026/10/06/spendin-targets-africas-280-million-esim-market-in-push-beyond-payments/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "South Africa-headquartered fintech Spendin is preparing to enter the eSIM market, extending its ambitions beyond payments as it builds a broader platform spanning financial services, travel and digital connectivity. The move adds weight to the Revolut of Africa label that has increasingly followed Spendin across several African markets, as the company broadens its proposition beyond traditional payments [ ] The post Spendin Targets Africa’s $280 Million eSIM Market in Push Beyond Payments appeared first on Nairametrics .",
-      "published": "2026-10-06T12:04:43+00:00",
-      "fetched": "2026-10-06T12:16:59.963159+00:00"
-    },
-    {
-      "id": "3bbd389c79fd9904",
-      "title": "The strategy behind Equity Bank’s new digital wallet",
-      "link": "https://techcabal.com/2026/10/06/why-equity-bank-is-building-a-neo-wallet-for-everyday-cash/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Equity Bank is responding to the neobanking race with EMMA, a wallet launched by its fintech arm, Finserve. Customers can access it through an app, USSD or the Equitel STK.",
-      "published": "2026-10-06T11:54:13+00:00",
-      "fetched": "2026-10-06T12:17:00.687908+00:00"
-    },
-    {
-      "id": "b8585903b7aff235",
-      "title": "WAEMU’s free-transfer rule could make cash withdrawals more expensive",
-      "link": "https://techcabal.com/2026/10/06/francophone-weekly-by-techcabal-043/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "6 octobre 2026 Hello 👋, Welcome back to Francophone Weekly by TechCabal, your weekly deep dive into the tech ecosystem across French-speaking Africa. For readers who want to understand Francophone Africa beyond headlines through markets, startups, and systems. New editions of the newsletter will land directly in your inbox every Tuesday at 12 PM WAT.",
-      "published": "2026-10-06T11:21:58+00:00",
-      "fetched": "2026-10-06T12:17:00.687965+00:00"
-    },
-    {
-      "id": "77fee95e8f8c7afd",
-      "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
-      "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Our healthcare system is designed to diagnose the presence or absence of disease, one organ at a time. That means people have no baseline against which to make broader lifestyle decisions.",
-      "published": "2026-10-06T11:21:00+00:00",
-      "fetched": "2026-10-06T12:16:59.110886+00:00"
-    },
-    {
-      "id": "fb697d041bba2fbb",
-      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.",
-      "published": "2026-10-06T11:15:00+00:00",
-      "fetched": "2026-10-06T12:16:59.110929+00:00"
-    },
-    {
-      "id": "908d90f08e0ef1d2",
-      "title": "Who owns the wealth beneath your feet? The AI engine exposing Nigeria’s ‘hidden’ miners",
-      "link": "https://techcabal.com/2026/10/06/who-is-mining-your-land-minetrix-ai/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Across rural Nigeria, host communities watch heavy machinery dig up their land daily. But ask locals who hold the operational licence, what minerals are being extracted, or what community benefits they are legally owed—and the room goes silent. To fight this information opacity, Anthony Adejuwon and his team at Urban Alert spent nine months building [ ]",
-      "published": "2026-10-06T11:13:23+00:00",
-      "fetched": "2026-10-06T12:17:00.688010+00:00"
-    },
-    {
-      "id": "d30a735c829ab91d",
-      "title": "Kenya confirms first Ebola case as patient dies in Nairobi",
-      "link": "https://nairametrics.com/2026/10/06/kenya-confirms-first-ebola-case-as-patient-dies-in-nairobi/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Kenya has confirmed its first case of Ebola after a Kenyan national who recently returned from the Democratic Republic of Congo tested positive for the virus and died in Nairobi. The post Kenya confirms first Ebola case as patient dies in Nairobi appeared first on Nairametrics .",
-      "published": "2026-10-06T11:12:24+00:00",
-      "fetched": "2026-10-06T12:16:59.963195+00:00"
-    },
-    {
-      "id": "a9c71de6f82c6356",
-      "title": "World Bank raises Nigeria’s 2026 growth forecast to 4.3%, sees 4.4% in 2027–28",
-      "link": "https://nairametrics.com/2026/10/06/world-bank-raises-nigerias-2026-growth-forecast-to-4-3-sees-4-4-in-2027-28/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The World Bank has raised Nigeria’s 2026 economic growth forecast to 4.3% from 4.0% in 2025, with growth projected to reach 4.4% annually in 2027 and 2028. The projection was contained in the World Bank’s October 2026 Africa Economic Update obtained by Nairametrics on Tuesday. The lender attributed the stronger outlook to improving macroeconomic stability, [ ] The post World Bank raises Nigeria’s 2026 growth forecast to 4.3%, sees 4.4% in 2027–28 appeared first on Nairametrics .",
-      "published": "2026-10-06T11:02:21+00:00",
-      "fetched": "2026-10-06T12:16:59.963249+00:00"
-    },
-    {
-      "id": "5b8285dabbc49a25",
-      "title": "Beyond the $700 billion claim: can Nigeria capture the value in Its minerals?",
-      "link": "https://nairametrics.com/2026/10/06/beyond-the-700-billion-claim-can-nigeria-capture-the-value-in-its-minerals/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In the last week of September 2026, at the Nigeria Mission House in New York, the Minister of Solid Minerals Development, Dele Alake, and the United States Deputy Secretary of State, Christopher Landau, signed a framework agreement covering geological data, exploration, mineral processing, infrastructure and technical capacity. The post Beyond the $700 billion claim: can Nigeria capture the value in Its minerals? appeared first on Nairametrics .",
-      "published": "2026-10-06T11:01:57+00:00",
-      "fetched": "2026-10-06T12:16:59.963290+00:00"
-    },
-    {
-      "id": "dbb2f7c7f105a958",
-      "title": "Pesa is taking its cross-border payments business to Australia",
-      "link": "https://techcabal.com/2026/10/06/pesa-expands-to-australia/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Pesa says it offers its Australian service under authorisation from the Australian Transaction Reports and Analysis Centre (AUSTRAC).",
-      "published": "2026-10-06T11:00:30+00:00",
-      "fetched": "2026-10-06T12:17:00.688031+00:00"
-    },
-    {
-      "id": "f8fb69588e3c3227",
-      "title": "The Economics of Consumer Confidence in a Changing Market",
-      "link": "https://nairametrics.com/2026/10/06/the-economics-of-consumer-confidence-in-a-changing-market/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Group Managing Director of Black Pelican Group, a leading name in Nigeria’s premium lifestyle and interior solutions sector, Michael... The post The Economics of Consumer Confidence in a Changing Market appeared first on Nairametrics .",
-      "published": "2026-10-06T10:42:40+00:00",
-      "fetched": "2026-10-06T12:16:59.963323+00:00"
-    },
-    {
-      "id": "413e7aab90720528",
-      "title": "Bosun Tijani unveils Nigerian startup behind National Digital Postcode",
-      "link": "https://nairametrics.com/2026/10/06/bosun-tijani-unveils-nigerian-startup-behind-national-digital-postcode/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Minister of Communications, Innovation and Digital Economy Bosun Tijani has identified Milsat, a Nigerian startup founded by Taslim Saluadeen and Adedamola Baderinwa, as the company behind the technology powering the country’s new National Digital Postcode system. The post Bosun Tijani unveils Nigerian startup behind National Digital Postcode appeared first on Nairametrics .",
-      "published": "2026-10-06T10:33:22+00:00",
-      "fetched": "2026-10-06T12:16:59.963374+00:00"
-    },
-    {
-      "id": "55113f1bbf478d12",
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Risk comes in many forms, even with “safe” investments.",
-      "published": "2026-10-06T10:00:00+00:00",
-      "fetched": "2026-10-06T12:16:59.110960+00:00"
-    },
-    {
-      "id": "ec3fbbb9afe4bcb8",
-      "title": "Elon Musk’s wealth surpasses $1 trillion — making it higher than these countries’ GDPs",
-      "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Is Musk wealthier than the national economy of Poland or Ireland? Find out here.",
-      "published": "2026-10-06T09:56:00+00:00",
-      "fetched": "2026-10-06T12:16:59.110983+00:00"
-    },
-    {
-      "id": "089c17e6011cf5a2",
-      "title": "Antimicrobial resistance in Africa: The data gap behind the crisis",
-      "link": "https://techcabal.com/2026/10/06/amr-in-africa-the-data-gap/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Africa carries one of the world's highest burdens of drug-resistant infections, yet the laboratory data needed to track it is often missing. The bigger health-tech opportunity may be building the systems that make that data usable, not the AI layered on top.",
-      "published": "2026-10-06T09:47:23+00:00",
-      "fetched": "2026-10-06T12:17:00.688059+00:00"
-    },
-    {
-      "id": "5a9c26a3daf5f7aa",
-      "title": "Nigerian Air Force releases names of 25 people killed in Ondo crash",
-      "link": "https://nairametrics.com/2026/10/06/nigerian-air-force-releases-names-of-25-people-killed-in-ondo-crash/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Air Force has released the names of the 25 people who died in the military aircraft crash in Igbokoda, Ondo State, confirming that there were no survivors. The post Nigerian Air Force releases names of 25 people killed in Ondo crash appeared first on Nairametrics .",
-      "published": "2026-10-06T09:42:39+00:00",
-      "fetched": "2026-10-06T12:16:59.963406+00:00"
-    },
-    {
-      "id": "dea7efa2d6d90e64",
-      "title": "Michael Burry says he’s sold out of his top holding — for now",
-      "link": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Michael Burry, the contrarian ex-hedge-fund manager chronicled in “The Big Short,” is selling his top holding at an 8 1/2-year low.",
-      "published": "2026-10-06T09:42:00+00:00",
-      "fetched": "2026-10-06T12:16:59.111009+00:00"
-    },
-    {
-      "id": "b764634e77f3fa69",
-      "title": "Spectranet Marks Customer Service Week, Expands Home Fiber and Launches New Website",
-      "link": "https://nairametrics.com/2026/10/06/spectranet-marks-customer-service-week-expands-home-fiber-and-launches-new-website/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "As the global community celebrates Customer Service Week 2026, Nigeria s leading Internet Service Provider Spectranet has reaffirmed its commitment to placing customers at the centre of its business operations as it embarks on the next chapter of its 15-year journey.In alignment with this year s global theme, The Extra Mile, Spectranet is leveraging the occasion to [ ] The post Spectranet Marks Customer Service Week, Expands Home Fiber and Launches New Website appeared first on Nairametrics .",
-      "published": "2026-10-06T09:32:53+00:00",
-      "fetched": "2026-10-06T12:16:59.963449+00:00"
-    },
-    {
-      "id": "b6fe5d95f8b131ce",
-      "title": "Josien Concludes Rémy Cointreau Distribution Partnership in Nigeria Following Strategic Portfolio Review",
-      "link": "https://nairametrics.com/2026/10/06/josien-concludes-remy-cointreau-distribution-partnership-in-nigeria-following-strategic-portfolio-review/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Last Week, Josien Mercantile Ltd confirmed that it had concluded its appointment as the Nigerian distributor of the Rémy Cointreau portfolio. Josien gave formal notice of its decision to Rémy Cointreau on 30 July 2026. The decision followed a detailed review of Josien s portfolio and of the Nigerian and global spirits market by the company s [ ] The post Josien Concludes Rémy Cointreau Distribution Partnership in Nigeria Following Strategic Portfolio Review appeared first on Nairametrics .",
-      "published": "2026-10-06T09:31:39+00:00",
-      "fetched": "2026-10-06T12:16:59.963498+00:00"
-    },
-    {
-      "id": "02f2cf886797ff17",
-      "title": "DLM Capital Group Delivers Second Coupon Payment on AAA-Rated SBCN",
-      "link": "https://nairametrics.com/2026/10/06/dlm-capital-group-delivers-second-coupon-payment-on-aaa-rated-sbcn/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "DLM Capital Group, the First and Leading Development Investment Bank in the World, has successfully fulfilled its second principal interest (coupon) payment obligation to investors under its ₦9 billion Sovereign Bond-Backed Composite Notes (SBCN) issued under the Group’s ₦30 billion Medium-Term Notes Programme listed on FMDQ Exchange. The second principal and interest (coupon) payment [ ] The post DLM Capital Group Delivers Second Coupon Payment on AAA-Rated SBCN appeared first on Nairametrics .",
-      "published": "2026-10-06T09:30:12+00:00",
-      "fetched": "2026-10-06T12:16:59.963547+00:00"
-    },
-    {
-      "id": "27f5a4e16d5cb44e",
-      "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Stocks are not expensive in an historical context, seasonal factors are supportive and Goldman Sachs hedge fund research forecasts a record high for the S P 500 before year-end.",
-      "published": "2026-10-06T09:20:00+00:00",
-      "fetched": "2026-10-06T12:16:59.111038+00:00"
-    },
-    {
-      "id": "e7dd8907ee08eb76",
-      "title": "Royal Exchange Prudential Life puts assets up for auction after licence revocation",
-      "link": "https://nairametrics.com/2026/10/06/royal-exchange-prudential-life-puts-assets-up-for-auction-after-licence-revocation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Royal Exchange Prudential Life Plc (REPRU) has put its assets up for auction following the revocation of its insurance licence by the... The post Royal Exchange Prudential Life puts assets up for auction after licence revocation appeared first on Nairametrics .",
-      "published": "2026-10-06T09:08:27+00:00",
-      "fetched": "2026-10-06T12:16:59.963579+00:00"
     }
   ]
 }

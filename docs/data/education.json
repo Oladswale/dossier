@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-08T12:19:02.340107+00:00",
+  "updated": "2026-10-08T22:32:21.227424+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "899064e7525d5491",
+      "title": "3 Questions: What is the best path forward for AI in academia?",
+      "link": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
+      "published": "2026-10-08T21:25:00+00:00",
+      "fetched": "2026-10-08T22:32:19.799684+00:00"
+    },
+    {
+      "id": "c63bb5421eca7a6a",
+      "title": "Supporting systems of success",
+      "link": "https://news.mit.edu/2026/supporting-systems-success-1008",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In the MIT class 6.C31 (Hack Yourself) students apply computer science strategies to personal growth goals.",
+      "published": "2026-10-08T21:00:00+00:00",
+      "fetched": "2026-10-08T22:32:19.799710+00:00"
+    },
+    {
+      "id": "27cb593f24c880ca",
+      "title": "Shape-sensing sheet digitally tracks its movement as it bends and twists",
+      "link": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Developed by MIT engineers, this flexible material could be used as a wearable, motion-monitoring “skin” in physical therapy, virtual reality, and gaming.",
+      "published": "2026-10-08T18:00:00+00:00",
+      "fetched": "2026-10-08T22:32:19.799736+00:00"
+    },
     {
       "id": "459a0d34e17b0ac2",
       "title": "The Strange and Brilliant Inventions of Nikola Tesla",
@@ -1472,36 +1502,6 @@
       "summary": "Graduate student Lyonel Tanganco investigates how to improve public policy interventions and address challenges in nutrition, climate, and development.",
       "published": "2026-08-31T20:40:00+00:00",
       "fetched": "2026-09-01T02:12:15.948850+00:00"
-    },
-    {
-      "id": "488e7ac3ed92aa9a",
-      "title": "Gulfstream IV makes its long-awaited return to Lincoln Laboratory",
-      "link": "https://news.mit.edu/2026/gulfstream-iv-makes-long-awaited-return-to-lincoln-laboratory-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The modified aircraft will support an ongoing US Air Force program to assess and enhance the survivability of air and space vehicles.",
-      "published": "2026-08-31T20:00:00+00:00",
-      "fetched": "2026-09-01T02:12:15.948884+00:00"
-    },
-    {
-      "id": "fa7bd5e0a7f7cafc",
-      "title": "At MIT convocation, a warm welcome for the Class of 2030",
-      "link": "https://news.mit.edu/2026/mit-convocation-warm-welcome-class-of-2030-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The Institute is “so glad and so grateful” to have this year’s new undergraduates aboard, President Kornbluth said at the annual greeting ceremony.",
-      "published": "2026-08-31T19:30:00+00:00",
-      "fetched": "2026-09-01T02:12:15.948917+00:00"
-    },
-    {
-      "id": "600253f2c95c3450",
-      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-      "link": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
-      "published": "2026-08-31T19:30:00+00:00",
-      "fetched": "2026-09-01T02:12:15.948943+00:00"
     }
   ]
 }

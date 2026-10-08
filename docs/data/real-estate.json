@@ -1,8 +1,148 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-08T12:19:03.089331+00:00",
+  "updated": "2026-10-08T22:32:22.032262+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "74f1682507a12a9c",
+      "title": "America’s Favorite Countertop Could Be on Its Way Out. What Could Replace Quartz?",
+      "link": "https://www.realtor.com/news/trends/quartz-silicosis-safety-for-homeowners-countertops/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A deadly worker health crisis threatens quartz’s future—and could force homeowners to rethink America’s favorite countertop.",
+      "published": "2026-10-08T22:17:58+00:00",
+      "fetched": "2026-10-08T22:32:22.031587+00:00"
+    },
+    {
+      "id": "4d98d4248871dfc1",
+      "title": "Inside Peyton Manning’s Multimillion-Dollar Real Estate Portfolio: From a $4.6 Million Colorado Mansion to a $5.3 Million Second Home",
+      "link": "https://www.realtor.com/news/sports/peyton-manning-property-portfolio-colorado/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The former Indianapolis Colts and Denver Broncos star, who retired from professional football in 2016, has invested millions in properties.",
+      "published": "2026-10-08T21:39:23+00:00",
+      "fetched": "2026-10-08T22:32:22.031621+00:00"
+    },
+    {
+      "id": "7eb42a06f00c0c7b",
+      "title": "Inside Julianne Moore’s New York City Rooftop Apartment With Spectacular Views, Peculiar Art, and Ikea Furniture",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/julianne-moore-new-york-city-rooftop-apartment-tour/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actress gave a tour of her stunning apartment, which features pieces she's been carefully curating since 1995 and beyond.",
+      "published": "2026-10-08T21:16:05+00:00",
+      "fetched": "2026-10-08T22:32:22.031646+00:00"
+    },
+    {
+      "id": "638d2fa170488fa1",
+      "title": "Trump Administration Unveils New Steps To Bolster Manufactured Housing",
+      "link": "https://www.realtor.com/news/real-estate-news/trump-hud-code-manufactured-housing-action-plan/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "HUD wants to update energy efficiency standards, update design and construction codes, and help scale the industry.",
+      "published": "2026-10-08T20:03:37+00:00",
+      "fetched": "2026-10-08T22:32:22.031666+00:00"
+    },
+    {
+      "id": "bbe76d48c398ac32",
+      "title": "Michael Douglas Reveals Kobe Bryant Frequently Visited Wife Catherine Zeta-Jones’ L.A. Home Before They Married",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/michael-douglas-kobe-bryant-catherine-zeta-jones-visit-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 82-year-old actor made the surprising revelation in his new memoir, \"One Helluva Ride,\" recalling how Bryant lived near Zeta-Jones.",
+      "published": "2026-10-08T19:42:06+00:00",
+      "fetched": "2026-10-08T22:32:22.031689+00:00"
+    },
+    {
+      "id": "01b7db6f0fbbfab6",
+      "title": "Future-Proof Your Home Purchase: How To Uncover Secret Construction Before Buying",
+      "link": "https://www.realtor.com/advice/buy/find-out-what-new-construction-development-on-my-street/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Can homebuyers figure out what changes and developments might come to their prospective street before they happen?",
+      "published": "2026-10-08T19:13:58+00:00",
+      "fetched": "2026-10-08T22:32:22.031708+00:00"
+    },
+    {
+      "id": "74ec7c3b382d461d",
+      "title": "VIDEO: Inside the 3D-Printed Factory Home Built in Just 24 Hours",
+      "link": "https://www.realtor.com/news/trends/azure-3d-printed-home-video-tour/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Azure Printed Homes, based in Gardena, CA, 3-D prints homes from recycled plastic. Time named it one of the best inventions of 2025.",
+      "published": "2026-10-08T18:33:52+00:00",
+      "fetched": "2026-10-08T22:32:22.031728+00:00"
+    },
+    {
+      "id": "834b46a1b96e2d48",
+      "title": "Zak Bagans Buys Famed Underground Las Vegas Cold War Bunker for $4.55M—With Plans for a New Museum",
+      "link": "https://www.realtor.com/news/unique-homes/zak-bagans-buys-las-vegas-underground-house-bunker/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Ghost Adventures host Zak Bagans buys Las Vegas’ iconic Cold War-era Underground House for $4.55M, planning a new subterranean museum.",
+      "published": "2026-10-08T18:33:43+00:00",
+      "fetched": "2026-10-08T22:32:22.031752+00:00"
+    },
+    {
+      "id": "e35beaf53d750394",
+      "title": "Hurricane Isaias: These Homeowners Are in the Path of the First Hurricane of the 2026 Atlantic Season",
+      "link": "https://www.realtor.com/news/trends/hurricane-isaias-path-2026-when-will-it-make-landfall/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Hurricane Isaias, the first hurricane of the 2026 Atlantic season, is rapidly making its approach to the Gulf Coast of the United States.",
+      "published": "2026-10-08T18:00:49+00:00",
+      "fetched": "2026-10-08T22:32:22.031773+00:00"
+    },
+    {
+      "id": "9f12aa073b14d8c8",
+      "title": "Inside the Amenity-Filled 26-Acre New Jersey Compound Headed to Auction Without Reserve",
+      "link": "https://www.realtor.com/news/unique-homes/102-countryside-hopewell-new-jersey-compound-for-sale-without-reserve/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The luxury property is filled with stunning features such as a two-story guest cottage, a pool house, and a movie theater.",
+      "published": "2026-10-08T17:59:03+00:00",
+      "fetched": "2026-10-08T22:32:22.031793+00:00"
+    },
+    {
+      "id": "283d035ae514c224",
+      "title": "Richard Gere Opens Up About His New Life in Spain With Wife Alejandra Silva—as He Reflects on the Dark Side of Hollywood Fame",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/richard-gere-alejandra-silva-life-in-spain/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 77-year-old, who now divides his time between Spain and upstate New York, offered a candid glimpse into his personal life.",
+      "published": "2026-10-08T17:12:45+00:00",
+      "fetched": "2026-10-08T22:32:22.031815+00:00"
+    },
+    {
+      "id": "c39917267170e18e",
+      "title": "Mortgage Rates Hit New 3-Year High as Fed Official Says More Hikes Are Needed",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-fed-hikes-today-october-8-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed mortgages climbed to 7.4% for the week ending Oct. 8, up 12 basis points from last week.",
+      "published": "2026-10-08T16:00:00+00:00",
+      "fetched": "2026-10-08T22:32:22.031836+00:00"
+    },
+    {
+      "id": "a9ff1fed5e1db87a",
+      "title": "HUD Announces 491 Arrests in Yearlong Effort To Find Fugitives in Public Housing",
+      "link": "https://www.realtor.com/news/real-estate-news/hud-arrests-fugitives-public-housing-operation-clean-house/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The U.S. Department of Housing and Urban Development says it helped apprehend almost 500 fugitives in a \"multi-agency, multi-month\" effort.",
+      "published": "2026-10-08T15:55:07+00:00",
+      "fetched": "2026-10-08T22:32:22.031855+00:00"
+    },
+    {
+      "id": "ccdd568e673b5b58",
+      "title": "Prince Harry Reveals He ‘Slipped Into Depression’ and Could Barely Function at Home After Moving to Canada With Meghan Markle",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-slipped-depression-canada-move/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The royal admitted that the sudden absence of stress left him struggling to carry out even the simplest tasks around the house.",
+      "published": "2026-10-08T15:02:25+00:00",
+      "fetched": "2026-10-08T22:32:22.031877+00:00"
+    },
     {
       "id": "bd2238fbfdf612d2",
       "title": "The American Economy Enters Its “Lost Decade”",
@@ -1362,146 +1502,6 @@
       "summary": "As more homeowners are staying put, the need for remodels continues to grow—as do the prices associated with it.",
       "published": "2026-09-29T19:21:39+00:00",
       "fetched": "2026-09-29T21:34:39.599752+00:00"
-    },
-    {
-      "id": "7cd9e0d44fc72e20",
-      "title": "Dylan Sprouse Shares Intimate Glimpse of Home Life With Newborn Daughter—Months After Intruder Scare at Their $2 Million L.A. Property",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dylan-sprouse-barbara-palvin-newborn-daughter-los-angeles-home-intruder/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Just one day after the couple publicly revealed that they had welcomed their first child, Sprouse shared new details about their baby girl.",
-      "published": "2026-09-29T18:40:42+00:00",
-      "fetched": "2026-09-29T21:34:39.599784+00:00"
-    },
-    {
-      "id": "607a690c8f3f6142",
-      "title": "What $285,000 Buys You in San Francisco: A Rare 355-Square-Foot Studio With an Eat-In Kitchen",
-      "link": "https://www.realtor.com/news/unique-homes/san-francisco-soma-studio-apartment-for-sale-285k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tired of high rents? Explore this charming SoMa home with historic Edwardian charm, modern updates, and low HOAs near Salesforce Park.",
-      "published": "2026-09-29T18:27:47+00:00",
-      "fetched": "2026-09-29T21:34:39.599813+00:00"
-    },
-    {
-      "id": "3afef57ac61d6724",
-      "title": "These Home Insurance Blind Spots Threaten Your Equity, If You Ignore Them",
-      "link": "https://www.realtor.com/advice/finance/home-insurance-blind-spots-how-to-spot/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home insurance costs are rising every day, but smart homeowners know about the blind spots in their coverage to save them money and hassle.",
-      "published": "2026-09-29T18:12:48+00:00",
-      "fetched": "2026-09-29T21:34:39.599840+00:00"
-    },
-    {
-      "id": "e67b160bd853b1df",
-      "title": "Josh Brolin Sells $4 Million Atlanta Estate After Slashing Price and Admitting He Didn’t ‘Particularly Like’ the Neighborhood",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/josh-brolin-atlanta-home-sold-price-cut/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Avengers\" actor has sold his Sandy Springs, GA, home for nearly $1 million under the latest asking price.",
-      "published": "2026-09-29T16:39:14+00:00",
-      "fetched": "2026-09-29T17:05:52.271540+00:00"
-    },
-    {
-      "id": "d5113ee10e59eedd",
-      "title": "EXCLUSIVE: Dennis Quaid Slashes Half a Million Dollars Off Price of L.A. Mansion—Weeks After Claiming Hollywood Has Gone ‘Downhill’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dennis-quaid-reduces-asking-price-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Quaid, 72, who hails from Texas, relocated from Los Angeles to Music City with his wife, Laura Savoie, 33, in 2020.",
-      "published": "2026-09-29T16:31:57+00:00",
-      "fetched": "2026-09-29T17:05:52.271579+00:00"
-    },
-    {
-      "id": "4d48dc43d17dc144",
-      "title": "Skip the Renovation: A Fully Restored 1840s Brooklyn Heights Townhouse Hits the Market for $12.75 Million",
-      "link": "https://www.realtor.com/news/unique-homes/brooklyn-heights-townhouse-for-sale-12m/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A 178-year-old Brooklyn Heights townhouse is on the market for $12.75 million after a complete turnkey makeover.",
-      "published": "2026-09-29T16:21:31+00:00",
-      "fetched": "2026-09-29T17:05:52.271608+00:00"
-    },
-    {
-      "id": "f2cc0b4ef4f664a5",
-      "title": "Sheriff Reveals ‘New Possible Ransom Note’ in Nancy Guthrie Abduction Case—7 Months After She Vanished From Arizona Home",
-      "link": "https://www.realtor.com/news/trends/nancy-guthrie-update-new-possible-ransom-note-september-29/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nancy vanished from her Arizona home on Feb. 1; however, little information about her whereabouts have been revealed.",
-      "published": "2026-09-29T15:27:01+00:00",
-      "fetched": "2026-09-29T17:05:52.271638+00:00"
-    },
-    {
-      "id": "c296328ce0a45790",
-      "title": "National Home Values Rise but Still Fail To Keep Pace With Inflation",
-      "link": "https://www.realtor.com/news/trends/home-prices-values-case-shiller-index-july-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home price growth accelerated to 1.9% in July, fueled by tight supply in the Midwest and Northeast against the backdrop of regional divides.",
-      "published": "2026-09-29T14:36:42+00:00",
-      "fetched": "2026-09-29T17:05:52.271665+00:00"
-    },
-    {
-      "id": "1fdc5c8b732d22d2",
-      "title": "Simone Biles and Jonathan Owens Find Buyer for $1.2 Million Texas Home—Just 6 Days After It Hit the Market",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/simone-biles-jonathan-owens-texas-home-sold/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "After settling into their custom abode, Biles—who is listed on the deed alongside her mother—put the pad on the market for $1.2 million.",
-      "published": "2026-09-29T13:19:49+00:00",
-      "fetched": "2026-09-29T17:05:52.271698+00:00"
-    },
-    {
-      "id": "8c8615ef7532b3d2",
-      "title": "The Path to 8% Mortgage Rates",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-464",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "8% mortgage rates are now on the table, and unfortunately, that’s not even the high end of estimates for where we’re going next. With bond yields hitting 20-year peaks and [ ]",
-      "published": "2026-09-29T11:00:03+00:00",
-      "fetched": "2026-09-29T11:39:20.507261+00:00"
-    },
-    {
-      "id": "0be4fb1400759d9b",
-      "title": "Why Miami Is Flunking Homebuilding and Affordability While the Rest of Florida Booms",
-      "link": "https://www.realtor.com/news/trends/homebuilding-affordability-miami-florida-2026-report-card/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Constrained by geography and driven by global wealth, Miami has become Florida's sole failing housing market.",
-      "published": "2026-09-29T09:00:00+00:00",
-      "fetched": "2026-09-29T11:39:20.792160+00:00"
-    },
-    {
-      "id": "08dea021c748ce4c",
-      "title": "Where Deed Fraud Protections Are Strongest—and Where They Fall Short",
-      "link": "https://www.realtor.com/news/trends/deed-fraud-laws-by-state-homeowner-protections/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Older homeowners could pass down $10.2 trillion in 10 states, but nearly half sits outside the strongest deed fraud protections.",
-      "published": "2026-09-29T08:32:00+00:00",
-      "fetched": "2026-09-29T11:39:20.792186+00:00"
-    },
-    {
-      "id": "9909e0da493b8244",
-      "title": "Bel-Air’s Lavish Megamansion ‘La Fin’ Slashes Price to $99.95 Million—and Still Takes Crypto",
-      "link": "https://www.realtor.com/news/unique-homes/bel-air-megamansion-la-fin-slashes-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The L.A. megamansion gets a major $40 million trim—and it features a vodka tasting room, panic room, and crypto payment options.",
-      "published": "2026-09-29T08:04:00+00:00",
-      "fetched": "2026-09-29T11:39:20.792213+00:00"
-    },
-    {
-      "id": "18a5d21ebb4a0d64",
-      "title": "10 Million Seniors Live in Poverty—Even as They Hold Trillions in Housing Wealth",
-      "link": "https://www.realtor.com/news/trends/older-americans-poverty-housing-wealth-costs-aarp-foundation-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "More than 10 million Americans aged 65 and older live in poverty as housing and care costs climb, a new AARP Foundation analysis finds.",
-      "published": "2026-09-28T22:03:17+00:00",
-      "fetched": "2026-09-28T22:40:32.859648+00:00"
     }
   ]
 }
