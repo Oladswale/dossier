@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-09T03:15:25.027411+00:00",
+  "updated": "2026-10-09T12:09:37.200101+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9d1ecac036a92c78",
+      "title": "The Lazy Investor’s Guide to Finding Rental Properties",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1341",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "This is how to find investment properties the lazy way. Many of us work full-time jobs, have kids, or juggle a lot of responsibilities, so we can’t dedicate days each [ ]",
+      "published": "2026-10-09T11:00:04+00:00",
+      "fetched": "2026-10-09T12:09:36.853783+00:00"
+    },
+    {
+      "id": "334eb24dd454a147",
+      "title": "Cash Flow vs. Appreciation: What Matters Most in 2027 (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-781",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Should a rental property put cash in your pocket each month or build serious wealth over time? Cash flow versus appreciation is the oldest debate in real estate investing, but [ ]",
+      "published": "2026-10-09T11:00:01+00:00",
+      "fetched": "2026-10-09T12:09:36.853810+00:00"
+    },
+    {
+      "id": "8dba6f89481a595e",
+      "title": "Global Bond Markets Are in Meltdown—Here’s Why U.S. Homebuyers Should Pay Attention",
+      "link": "https://www.realtor.com/news/trends/global-bond-markets-crisis-treasury-yields-mortgage-rates/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "For the past month, global bond markets have been in the grips of a historic sell-off triggered by a tangle of complex economic issues.",
+      "published": "2026-10-09T09:00:00+00:00",
+      "fetched": "2026-10-09T12:09:37.199616+00:00"
+    },
+    {
+      "id": "6aa92251f1e3dcea",
+      "title": "America’s Hottest Market No More: This New England City Just Dropped Out of the Top 20",
+      "link": "https://www.realtor.com/news/trends/manchester-nh-hottest-markets-report-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Driven by a slowing market pace, longtime leader Manchester, NH, dropped out of the top 20 real estate markets.",
+      "published": "2026-10-09T08:37:00+00:00",
+      "fetched": "2026-10-09T12:09:37.199643+00:00"
+    },
     {
       "id": "74f1682507a12a9c",
       "title": "America’s Favorite Countertop Could Be on Its Way Out. What Could Replace Quartz?",
@@ -1462,46 +1502,6 @@
       "summary": "The city must now identify which homes are truly nonprimary before billing owners, as the surcharge faces a second lawsuit.",
       "published": "2026-09-29T21:11:36+00:00",
       "fetched": "2026-09-29T21:34:39.599625+00:00"
-    },
-    {
-      "id": "c240321e951c6b12",
-      "title": "Craig Conover Almost Bought a Rental Property With the Money He Got After Selling Paige DeSorbo’s Engagement Ring",
-      "link": "https://www.realtor.com/news/reality-tv/craig-conover-paige-desorbo-engagement-ring-rental-property/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Southern Charm\" cast member opened up about the recent sale of a piece of jewelry he planned to propose to his ex-girlfriend with.",
-      "published": "2026-09-29T20:30:41+00:00",
-      "fetched": "2026-09-29T21:34:39.599660+00:00"
-    },
-    {
-      "id": "078076d1549dd87f",
-      "title": "Sylvester Stallone Credits ‘Angel’ Wife Jennifer Flavin for Close Family Dynamic—Inside the Palm Beach Estate She Made ‘Home’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/sylvester-stallone-palm-beach-florida-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Inside the legendary actor's Palm Beach home, vibrant artwork, custom furnishings, and a private gym create a bold, inviting retreat.",
-      "published": "2026-09-29T20:25:00+00:00",
-      "fetched": "2026-09-29T21:34:39.599692+00:00"
-    },
-    {
-      "id": "a2e54babd65e617e",
-      "title": "Stay in Rock History: Kurt Cobain’s Famous 1990s Olympia Apartment Is Listed on Airbnb",
-      "link": "https://www.realtor.com/news/trends/kurt-cobain-olympia-apartment-turned-into-an-airbnb/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Located on Pear Street in Olympia, WA, the space has been updated and filled with Nirvana photos and memorabilia.",
-      "published": "2026-09-29T19:59:48+00:00",
-      "fetched": "2026-09-29T21:34:39.599722+00:00"
-    },
-    {
-      "id": "58edf5ad254b60f1",
-      "title": "The Contractor Pricing Gap: Why Remodeling Quotes Vary So Wildly These Days",
-      "link": "https://www.realtor.com/advice/home-improvement/remodeling-quotes-choosing-a-contractor/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As more homeowners are staying put, the need for remodels continues to grow—as do the prices associated with it.",
-      "published": "2026-09-29T19:21:39+00:00",
-      "fetched": "2026-09-29T21:34:39.599752+00:00"
     }
   ]
 }

@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-09T03:15:24.230650+00:00",
+  "updated": "2026-10-09T12:09:36.687942+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c2d27ef39b2b10de",
+      "title": "David Byrne’s New Book Explores the Strange Afterlife of Good Ideas: From Vermeer’s Paintings to Roman Concrete & Dark Matter",
+      "link": "https://www.openculture.com/2026/10/david-byrnes-new-book-explores-the-strange-afterlife-of-good-ideas.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "David Byrne will always be most widely known as the co-founder and frontman of Talking Heads. That may count among the greatest possible achievements for any artist — to the minds of many an Open Culture reader, at least — but it must occasionally frustrate the man himself. Talking Heads broke up 35 years ago, [ ]",
+      "published": "2026-10-09T08:00:52+00:00",
+      "fetched": "2026-10-09T12:09:36.687783+00:00"
+    },
     {
       "id": "899064e7525d5491",
       "title": "3 Questions: What is the best path forward for AI in academia?",
@@ -1492,16 +1502,6 @@
       "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
       "published": "2026-09-01T04:00:00+00:00",
       "fetched": "2026-09-01T10:35:53.484017+00:00"
-    },
-    {
-      "id": "7ba1c746e9cb9253",
-      "title": "Translating economic growth into better lives",
-      "link": "https://news.mit.edu/2026/translating-economic-growth-into-better-lives-lyonel-tanganco-0831",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Graduate student Lyonel Tanganco investigates how to improve public policy interventions and address challenges in nutrition, climate, and development.",
-      "published": "2026-08-31T20:40:00+00:00",
-      "fetched": "2026-09-01T02:12:15.948850+00:00"
     }
   ]
 }
