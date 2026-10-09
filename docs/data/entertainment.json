@@ -1,8 +1,98 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-08T22:32:19.522035+00:00",
+  "updated": "2026-10-09T03:15:22.772418+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "97ea178a86525452",
+      "title": "Indian Premier League Stands Alone at the Top as Asia Pacific Sports Rights Growth Slows, Media Partners Asia Finds",
+      "link": "https://variety.com/2026/sports/news/indian-premier-league-leads-apac-sports-rights-growth-slows-1236906279/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Indian Premier League remains the only Asia Pacific sports property priced at the top of the global market, according to new research from Media Partners Asia, which expects growth in the region’s sports rights fees to slow to 1%–2% a year through 2030, down from about 10% a year since 2021. The cricket league [ ]",
+      "published": "2026-10-09T03:00:00+00:00",
+      "fetched": "2026-10-09T03:15:22.359355+00:00"
+    },
+    {
+      "id": "c2b79cab928546d3",
+      "title": "‘Law & Order: SVU’ Season 28 Premiere Recap: A Gang Rape Echoing the Cornell 7 Case",
+      "link": "https://variety.com/2026/tv/news/law-and-order-svu-season-28-premiere-volition-gang-rape-cornell-7-1236906037/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Law Order: Special Victims Unit” is renowned for its ripped-from-the-headlines episodes. Who can forget the Trayvon Martin-Paula Deen crossover featuring Cybill Shepherd as a racist celebrity chef or the Gamergate-riffing “Intimidation Game,” where Ice-T shoots Logan Paul’s misogynistic geek on a Manhattan rooftop? The Season 28 premiere of “SVU,” on Oct.",
+      "published": "2026-10-09T01:58:00+00:00",
+      "fetched": "2026-10-09T03:15:22.359399+00:00"
+    },
+    {
+      "id": "a8c23d5a5a8f5699",
+      "title": "Michael Ovitz Ordered to Complete Deposition in Julia Ormond Case After Storming Out Over Jeffrey Epstein Questions",
+      "link": "https://variety.com/2026/film/news/michael-ovitz-ormond-deposition-epstein-1236906246/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A judge on Thursday ordered CAA co-founder Michael Ovitz to complete his deposition in the Julia Ormond sexual assault lawsuit, months after storming out when he was asked about Jeffrey Epstein. Ormond is suing CAA for arranging a meeting for her with Harvey Weinstein in December 1995, after which Weinstein allegedly sexually assaulted her. Ovitz [ ]",
+      "published": "2026-10-09T00:56:23+00:00",
+      "fetched": "2026-10-09T03:15:22.359424+00:00"
+    },
+    {
+      "id": "8c4be31abfd18414",
+      "title": "Hugh Hefner’s Widow Crystal Harris Asks Jessica Biel to ‘Please Reconsider’ Playing His Wife: ‘I Experienced Sexual, Emotional…Physical Abuse’",
+      "link": "https://variety.com/2026/film/news/hugh-hefner-widow-jessica-biel-reconsider-playing-wife-1236906237/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Crystal Harris, who was married to Playboy founder Hugh Hefner until his death in 2017, is asking Jessica Biel to reconsider playing a fictional version of Hefner s wife in the upcoming film Playmates. After Biel s casting was announced, Harris posted her message to Biel on Instagram, saying Please reconsider playing Hugh Hefner s wife if this [ ]",
+      "published": "2026-10-09T00:29:19+00:00",
+      "fetched": "2026-10-09T03:15:22.359450+00:00"
+    },
+    {
+      "id": "1181049fce800d75",
+      "title": "‘Crazy Rich Asians’ Series Greenlit. Constance Wu, Henry Golding, and Michelle Yeoh Returning",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/crazy-rich-asians-hbo-series-constance-wu-henry-golding-1235640112/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The HBO series will see the film's original stars reprise their roles",
+      "published": "2026-10-09T00:22:26+00:00",
+      "fetched": "2026-10-09T03:15:22.466617+00:00"
+    },
+    {
+      "id": "76be7ebd977b07a2",
+      "title": "‘Angel and the Badman’ Review: Zachary Levi Leads Angel Studios’ Fitfully Engaging Remake of a John Wayne Vehicle",
+      "link": "https://variety.com/2026/film/reviews/angel-and-the-badman-review-1236906233/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Inevitably the Angel media company and streaming platform, rebranded from Angel Studios in 2025, has remade the 1947 John Wayne project “Angel and the Badman,” and not just for the angelic title. It s actually the third iteration; a 2009 Hallmark Channel adaptation, shot in wintry British Columbia instead of the dusty, sandy American West, starred [ ]",
+      "published": "2026-10-08T23:56:06+00:00",
+      "fetched": "2026-10-09T03:15:22.359478+00:00"
+    },
+    {
+      "id": "066d7da28bbd4752",
+      "title": "Ice-T on ‘Law & Order: SVU’s’ Longevity and Cultural Impact: ‘I’m on a Good Treadmill, and I Want to Stay on It’",
+      "link": "https://variety.com/2026/biz/news/ice-t-law-order-svu-longevity-cultural-impact-1236905719/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Law Order: Special Victims Unit” has been running since 1999, and Ice-T has been there since almost the beginning. The rapper turned a four-episode stint in the show’s second season into a permanent role as Detective Odafin “Fin” Tutuola. Nearly 30 years later, as the show gears up for the premiere of its 28th [ ]",
+      "published": "2026-10-08T23:11:39+00:00",
+      "fetched": "2026-10-09T03:15:22.359506+00:00"
+    },
+    {
+      "id": "84a42fb49e2f665a",
+      "title": "‘Animals’ Review: Ben Affleck Returns to the Director’s Chair for a Nasty, Compulsive Kidnapping Thriller",
+      "link": "https://variety.com/2026/film/reviews/animals-review-ben-affleck-1236906114/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s for the best that Animals, actor Ben Affleck s sixth outing behind the camera, is being released directly to Netflix — not that this slick, pacy serving of all-star pulp couldn t or wouldn t hold one s attention in the multiplex. But ever since Affleck s rousing, enjoyable political drama Argo won a Best Picture Oscar that it [ ]",
+      "published": "2026-10-08T23:05:48+00:00",
+      "fetched": "2026-10-09T03:15:22.359534+00:00"
+    },
+    {
+      "id": "a7911f62ffe7dc3d",
+      "title": "Marvel’s ‘VisionQuest’ Surprise Premieres at NYCC and Earns Glowing First Reactions: ‘A Worthy Successor’ to ‘WandaVision’",
+      "link": "https://variety.com/2026/tv/news/marvel-visionquest-surprise-premieres-nycc-first-reactions-1236906093/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Marvel debuted the first episode of VisionQuest with a surprise screening to close out its New York Comic Con panel Thursday. Early reactions to the Disney+ show, which is set to premiere Oct. 14, shared on social media were largely positive, and the perspectives ranged from con-goers who just saw the premiere episode to journalists [ ]",
+      "published": "2026-10-08T22:41:58+00:00",
+      "fetched": "2026-10-09T03:15:22.359558+00:00"
+    },
     {
       "id": "65015af2231a5295",
       "title": "Where to Stream ‘Oasis: Don’t Look Back in Anger’ Documentary",
@@ -1412,96 +1502,6 @@
       "summary": "Aaron Sorkin s The Social Reckoning has been unveiled to members of the film press, who are calling the follow-up to The Social Network a solid sequel, a harsh assessment of [Mark] Zuckerberg and a scathing indictment of the current tumultuous state of society. Early reactions, with full reviews coming ahead of this weekend s theatrical release, [ ]",
       "published": "2026-10-05T21:41:54+00:00",
       "fetched": "2026-10-05T23:23:49.958628+00:00"
-    },
-    {
-      "id": "41980be682cbcd5b",
-      "title": "Carey Mulligan and Marcus Mumford Raise $7.65 Million for Children in War Zones (EXCLUSIVE)",
-      "link": "https://variety.com/2026/global/columns/carey-mulligan-marcus-mumford-children-in-conflict-war-zones-1236899517/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Carey Mulligan and Marcus Mumford raised $7.65 million on Sunday night in Los Angeles for Children in Conflict, a nonprofit organization dedicated to protecting, educating and providing mental health support to children living in war zones and high-conflict areas. The couple hosted their annual star-studded Wassail benefit at the El Rey Theatre, marking the first [ ]",
-      "published": "2026-10-05T21:35:31+00:00",
-      "fetched": "2026-10-05T23:23:49.958673+00:00"
-    },
-    {
-      "id": "3117407f26902e04",
-      "title": "‘Free Elizabeth Holmes’ Group Defends Convicted Theranos Founder at ‘You Can See Everything’ Doc Screening: She’s ‘Innocent and Needs to Be Free’",
-      "link": "https://variety.com/2026/film/news/elizabeth-holmes-innocent-you-can-see-everything-1236897075/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In the wild A24 documentary You Can See Everything, Elizabeth Holmes still maintains her innocence in her Theranos fraud case despite being sentenced to 11 years in prison. It turns out, there are a few others who share her beliefs. Ryan Elhosseiny, who runs a group called Just Blood, claims that Holmes is innocent and [ ]",
-      "published": "2026-10-05T21:20:34+00:00",
-      "fetched": "2026-10-05T23:23:49.958721+00:00"
-    },
-    {
-      "id": "69b395828e0aff2e",
-      "title": "Best Horror of October 2026: ‘Other Mommy’ Goes for the Heart, ‘Carrie’ Returns, Josh Hartnett Hunts for Sea Monsters and More",
-      "link": "https://variety.com/lists/horror-movies-to-watch-october-2026/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, the executive digital director of Variety and the publication’s resident horror enthusiast. Please drop me a line at wearl@variety.com if there’s something I should check out for next month’s missive.",
-      "published": "2026-10-05T21:17:56+00:00",
-      "fetched": "2026-10-05T23:23:49.958774+00:00"
-    },
-    {
-      "id": "9b5b3e56b5b34c9f",
-      "title": "Pam Levine Exits Netflix as Marketing & Publicity VP (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/pam-levine-leaves-netflix-marketing-publicity-vp-1236899440/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Pam Levine, Netflix s marketing and publicity VP for the U.S. and Canada, is out at the streamer after a year and a half in her post, Variety has confirmed. Levine joined Netflix in April 2025.",
-      "published": "2026-10-05T21:17:23+00:00",
-      "fetched": "2026-10-05T23:23:49.958818+00:00"
-    },
-    {
-      "id": "e3dc597001e184ff",
-      "title": "‘The Batman II’ Production Paused as Director Matt Reeves ‘Focuses on a Family Matter’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-batman-ii-production-paused-matt-reeves-1235637004/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“Matt has the full support of DC Studios and we look forward to continuing the journey soon,” DC Studios said in a statement",
-      "published": "2026-10-05T21:08:13+00:00",
-      "fetched": "2026-10-05T23:23:50.071404+00:00"
-    },
-    {
-      "id": "12c382a5cde069b2",
-      "title": "Come, Grown Children: Here’s How to Stay in the ‘Hocus Pocus’ Town This October",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-stay-in-salem-ma-2026-book-airbnb-tours-1235636820/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Salem, Massachusetts, serves as the setting for the iconic nineties film; here’s where to book and what to do if you’re visiting this fall",
-      "published": "2026-10-05T20:49:40+00:00",
-      "fetched": "2026-10-05T23:23:50.071439+00:00"
-    },
-    {
-      "id": "55f25022d89ffbc9",
-      "title": "‘American Idol’ Contestant Sentenced to Life Without Parole for Murder of Wife",
-      "link": "https://www.rollingstone.com/music/music-news/american-idol-contestant-sentenced-life-prison-murder-wife-1235636930/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"The layers of deceit, manipulation, and cruelty that you have shown are quite honestly impossible to fathom,\" judge said to Caleb Flynn",
-      "published": "2026-10-05T20:45:42+00:00",
-      "fetched": "2026-10-05T23:23:50.071471+00:00"
-    },
-    {
-      "id": "5c6fd2a5d432fbf8",
-      "title": "Amazon Alternatives: 24 Places to Shop Online Other Than Amazon",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-amazon-alternatives-1136987/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From grocery delivery services to self-care essentials, here are some of the best websites to shop online beyond Amazon",
-      "published": "2026-10-05T20:43:45+00:00",
-      "fetched": "2026-10-05T23:23:50.071498+00:00"
-    },
-    {
-      "id": "b1bd08a91f773ca1",
-      "title": "Paramount+ Ended Its Free Trial, But We Found Two Work-Arounds",
-      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-get-paramount-plus-free-trial-hack-1235504112/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "If you’re looking to check out Paramount+ for free, here are two ways to access the streaming service without paying",
-      "published": "2026-10-05T20:43:00+00:00",
-      "fetched": "2026-10-05T23:23:50.071527+00:00"
     }
   ]
 }

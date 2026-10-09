@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-10-08T22:32:04.904726+00:00",
+  "updated": "2026-10-09T03:15:12.002064+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9a4fbbee1ad2eea7",
+      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+      "published": "2026-10-09T00:52:00+00:00",
+      "fetched": "2026-10-09T03:15:09.656117+00:00"
+    },
+    {
+      "id": "99579b47ad0b507b",
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Seven tips for painlessly moving in retirement.",
+      "published": "2026-10-09T00:03:00+00:00",
+      "fetched": "2026-10-09T03:15:09.656140+00:00"
+    },
+    {
+      "id": "8dfb7cd17057cede",
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+      "published": "2026-10-08T23:57:23+00:00",
+      "fetched": "2026-10-09T03:15:09.775899+00:00"
+    },
     {
       "id": "d3a18ebddf5d449b",
       "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
@@ -1472,36 +1502,6 @@
       "summary": "Paramount Skydance has completed its $110 billion takeover of Warner Bros Discovery, combining two of Hollywood’s biggest entertainment companies in a deal set to reshape the global film and television industry. The post Paramount Skydance completes $110 billion takeover of Warner Bros Discovery appeared first on Nairametrics .",
       "published": "2026-10-06T14:21:13+00:00",
       "fetched": "2026-10-06T21:55:46.206054+00:00"
-    },
-    {
-      "id": "6442fe9be706eb49",
-      "title": "CBN offers N900 billion at first Treasury Bills auction of fourth quarter 2026",
-      "link": "https://nairametrics.com/2026/10/06/cbn-offers-n900-billion-at-first-treasury-bills-auction-of-fourth-quarter-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN), on behalf of the Debt Management Office (DMO), will offer N900 billion in Nigerian Treasury Bills (NTBs) on Wednesday, October 7, 2026, with the one-year instrument accounting for the bulk of the offer. The post CBN offers N900 billion at first Treasury Bills auction of fourth quarter 2026 appeared first on Nairametrics .",
-      "published": "2026-10-06T13:35:46+00:00",
-      "fetched": "2026-10-06T21:55:46.206079+00:00"
-    },
-    {
-      "id": "0885d7d354c440be",
-      "title": "Elon Musk’s net worth hits $1 trillion again after $65 billion gain in 24 hours",
-      "link": "https://nairametrics.com/2026/10/06/elon-musks-net-worth-hits-1-trillion-again-after-65-billion-gain-in-24-hours/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Elon Musk has regained his trillionaire status after his net worth jumped by about $65 billion in 24 hours, driven by gains in SpaceX and Tesla shares. The post Elon Musk’s net worth hits $1 trillion again after $65 billion gain in 24 hours appeared first on Nairametrics .",
-      "published": "2026-10-06T13:18:59+00:00",
-      "fetched": "2026-10-06T21:55:46.206106+00:00"
-    },
-    {
-      "id": "bb022be00eee2426",
-      "title": "Lagos, Kano, Kaduna top Nigeria’s voter register ahead of 2027",
-      "link": "https://nairametrics.com/2026/10/06/lagos-kano-kaduna-top-nigerias-voter-register-ahead-of-2027/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos, Kano and Kaduna have emerged as the three states with the highest number of registered voters in Nigeria ahead of the 2027 general elections, according to the Independent National Electoral Commission (INEC). The post Lagos, Kano, Kaduna top Nigeria’s voter register ahead of 2027 appeared first on Nairametrics .",
-      "published": "2026-10-06T13:13:43+00:00",
-      "fetched": "2026-10-06T21:55:46.206132+00:00"
     }
   ]
 }
