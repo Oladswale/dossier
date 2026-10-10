@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-10T02:54:59.739904+00:00",
+  "updated": "2026-10-10T11:27:05.462681+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "81dfaddc4d5c48ee",
+      "title": "This NJ Town Had Plans for a 200+ Apartment Complex on an Abandoned Mini Mall. Now It’s a Movie Set.",
+      "link": "https://www.realtor.com/news/trends/wayne-nj-mini-mall-movie-filming-miami-vice/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Sydney Sweeney, Austin Butler, and Michael B. Jordan are spending time in a quaint New Jersey town being transformed for their movies.",
+      "published": "2026-10-10T11:00:00+00:00",
+      "fetched": "2026-10-10T11:27:05.462359+00:00"
+    },
     {
       "id": "31aae0e0e68686b7",
       "title": "Saving America’s Aging Homes: Inside the Bipartisan Push for HUD Repair Grants",
@@ -1492,16 +1502,6 @@
       "summary": "Prosecutors have claimed that Ivanna Lisette Ortiz drove to Rihanna's property from Florida on March 8 and fired off multiple shots.",
       "published": "2026-09-30T16:40:41+00:00",
       "fetched": "2026-09-30T17:03:41.449305+00:00"
-    },
-    {
-      "id": "446724695dcaea69",
-      "title": "The Fed’s Favorite Inflation Metric Just Hit 3%—Cooling Urgency for Rate Hike",
-      "link": "https://www.realtor.com/news/trends/pce-hits-3-percent-inflation-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Core PCE inflation cooled to 3% in August, boosting market expectations that the Federal Reserve will pause interest rate hikes.",
-      "published": "2026-09-30T16:12:45+00:00",
-      "fetched": "2026-09-30T17:03:41.449343+00:00"
     }
   ]
 }
