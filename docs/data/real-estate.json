@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-10T11:27:05.462681+00:00",
+  "updated": "2026-10-10T16:26:10.800247+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fc5b65f2746178ea",
+      "title": "This $7.5M Bridgehampton Estate Has Its Own Buddhist Temple, Koi Ponds, and Zen Gardens",
+      "link": "https://www.realtor.com/news/unique-homes/7-5-million-hamptons-estate-boasts-a-buddhist-temple/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 7-bedroom, 7.5-bathroom home in Bridgehampton offers stunning landscape across 4.59-acres and unique architecture.",
+      "published": "2026-10-10T16:17:00+00:00",
+      "fetched": "2026-10-10T16:26:10.799552+00:00"
+    },
+    {
+      "id": "6b56eae0580d8c2c",
+      "title": "‘Spaceship’ Dome Home Touches Down in New Jersey for Under $1 Million",
+      "link": "https://www.realtor.com/news/unique-homes/spaceship-dome-home-jefferson-township-nj/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Look inside this out-of-this-world $915K geodesic dome home for sale on 8 private acres in Jefferson Township, NJ, with lodgelike interior.",
+      "published": "2026-10-10T15:30:00+00:00",
+      "fetched": "2026-10-10T16:26:10.799594+00:00"
+    },
+    {
+      "id": "a8639c5bce6441a5",
+      "title": "Famed West Palm Beach Developer Launches His Latest Luxury Offering on Clear Lake",
+      "link": "https://www.realtor.com/news/trends/berkeley-west-palm-beach-developer-al-adelson-clear-lake/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Al Adelson, a seasoned developer with 50 years experience, is spearheading the development team behind The Berkeley Palm Beach.",
+      "published": "2026-10-10T13:13:00+00:00",
+      "fetched": "2026-10-10T16:26:10.799623+00:00"
+    },
     {
       "id": "81dfaddc4d5c48ee",
       "title": "This NJ Town Had Plans for a 200+ Apartment Complex on an Abandoned Mini Mall. Now It’s a Movie Set.",
@@ -1472,36 +1502,6 @@
       "summary": "The movie mogul, 57, listed the nine-bedroom, 15-bathroom property on Sept. 29, after owning it for decades.",
       "published": "2026-09-30T19:07:27+00:00",
       "fetched": "2026-09-30T21:35:22.359794+00:00"
-    },
-    {
-      "id": "6f2ccbb965776b52",
-      "title": "Ken Griffin Makes Historic Donation To Build Carnegie Mellon Campus in Miami Where He Is Expanding His Property Portfolio",
-      "link": "https://www.realtor.com/news/trends/ken-griffin-carnegie-mellon-donation-miami/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Griffin's donation to his alma mater, including $2M for its Miami campus, cements his commitment to the Wall Street of the South's growth.",
-      "published": "2026-09-30T19:03:03+00:00",
-      "fetched": "2026-09-30T21:35:22.359825+00:00"
-    },
-    {
-      "id": "bb24527406a624d1",
-      "title": "Buying a Foreclosed Home: How a Foreclosure Sale Works",
-      "link": "https://www.realtor.com/advice/buy/what-does-buying-a-foreclosed-home-entail/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Buying a foreclosed home can be a good way to score a deal while house hunting—and for better or worse, inventory is on the rise.",
-      "published": "2026-09-30T17:41:00+00:00",
-      "fetched": "2026-09-30T21:35:22.359855+00:00"
-    },
-    {
-      "id": "68d1051eb992a262",
-      "title": "Woman Accused of Shooting at Rihanna’s $14 Million Beverly Hills Home Found Mentally Fit To Stand Trial",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/woman-who-shot-at-rihannas-beverly-hills-home-found-mentally-fit-to-stand-trial/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Prosecutors have claimed that Ivanna Lisette Ortiz drove to Rihanna's property from Florida on March 8 and fired off multiple shots.",
-      "published": "2026-09-30T16:40:41+00:00",
-      "fetched": "2026-09-30T17:03:41.449305+00:00"
     }
   ]
 }
