@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-11T16:50:54.940976+00:00",
+  "updated": "2026-10-11T21:07:11.876288+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "94f4f30bcdf4f064",
+      "title": "‘Animals’ Star Luis Gerardo Méndez on Working With Ben Affleck and Speaking Out About Immigration: ‘You Could Be Next’",
+      "link": "https://variety.com/2026/film/columns/animals-luis-gerardo-mendez-ben-affleck-immigrant-rights-1236907764/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When Luis Gerardo Méndez got a call from his agents that Ben Affleck wanted to cast him in “Animals,” he was surprised the Oscar winner even knew who he was. “They sent me the script, and it had a very beautiful note at the end from Ben, just saying like, ‘Hey, Luis, I really want [ ]",
+      "published": "2026-10-11T20:27:18+00:00",
+      "fetched": "2026-10-11T21:07:11.487426+00:00"
+    },
+    {
+      "id": "a5733afc9e60a35e",
+      "title": "Taylor Swift Spends Her 100th Week at No. 1 on the Billboard 200, as ‘Life of a Showgirl’ Stays on Top in Week 2 of ‘Encore’ Rebound",
+      "link": "https://variety.com/2026/music/news/taylor-swift-100th-week-billboard-200-number-one-beatles-1236908356/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift is fond of the number 13, but here s betting she also considers the numeral 100 lucky, too. She can now celebrate having 100 weeks at No. 1 on the Billboard 200 chart, for all of her albums combined, further extending a record among solo artists that will be difficult for anyone to catch [ ]",
+      "published": "2026-10-11T20:22:14+00:00",
+      "fetched": "2026-10-11T21:07:11.487486+00:00"
+    },
+    {
+      "id": "ed2ea2362d2ab204",
+      "title": "Why Disney’s Kids & Family Division Is Working With Creators Like Dhar Mann and Nastya: We Need to ‘Meet Kids Where They Are’",
+      "link": "https://variety.com/2026/tv/global/disney-kids-family-creators-dhar-mann-nastya-1236908306/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "During a panel discussion at MipJunior in Cannes on Sunday, Ayo Davis, president of Disney’s Kids Family division, reflected on how the studio was responding to the disruption in viewing habits among younger viewers, including working with some of the same creators who are contributing to that disruption. “I think we can all probably [ ]",
+      "published": "2026-10-11T19:50:58+00:00",
+      "fetched": "2026-10-11T21:07:11.487546+00:00"
+    },
+    {
+      "id": "3459611c7573d9d7",
+      "title": "See Sombr Bring Out Lindsey Buckingham for ‘Go Your Own Way’ at Los Angeles Show",
+      "link": "https://www.rollingstone.com/music/music-news/sombr-lindsey-buckingham-go-your-own-way-los-angeles-show-1235641067/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Neighbourhood's Jesse Rutherford also performs \"Sweater Weather\" at Sombr's Kia Forum gig",
+      "published": "2026-10-11T19:49:58+00:00",
+      "fetched": "2026-10-11T21:07:11.746606+00:00"
+    },
+    {
+      "id": "f888129b9f3a446e",
+      "title": "Globo Bets on ‘To Love Is to Care’ at Mipcom as It Ushers ‘Super Drama’ Concept: ‘Titles That Represent the Best of the Brazilian Telenovela Tradition’",
+      "link": "https://variety.com/2026/tv/global/globo-to-love-is-to-care-mipcom-super-drama-telenovela-1236908154/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Brazilian media powerhouse Globo arrives at Mipcom with “To Love is to Care,” its latest primetime telenovela by lauded author Walcyr Carrasco. The melodrama stars a roster of some of Brazil’s biggest screen stars, including Chay Suede, Letícia Colin, Tony Ramos and Antônio Fagundes. The market marks Globo’s introduction of the telenovela to the international [ ]",
+      "published": "2026-10-11T19:33:29+00:00",
+      "fetched": "2026-10-11T21:07:11.487605+00:00"
+    },
+    {
+      "id": "93d0f3f77348a537",
+      "title": "Sally Field Was Like a ‘Mother Figure’ While Filming ‘Mrs. Doubtfire,’ Says Star Matthew Lawrence: ‘We Really Became a Family Unit’",
+      "link": "https://variety.com/2026/film/news/matthew-lawrence-sally-field-mrs-doubtfire-1236908316/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Matthew Lawrence is reflecting on his experience filming “Mrs. Doubtfire,” where he played Sally Field and Robin Williams’ son. The 1993 film followed Williams as Daniel, a father who disguises himself as the titular Scottish nanny for his three children — played by Lawrence, Lisa Jakub and Mara Wilson — to prove to his estranged [ ]",
+      "published": "2026-10-11T19:26:24+00:00",
+      "fetched": "2026-10-11T21:07:11.487659+00:00"
+    },
+    {
+      "id": "2021cd1d51634cf1",
+      "title": "‘Artemis Fowl’ Animated TV Show Set at Disney",
+      "link": "https://variety.com/2026/tv/news/artemis-fowl-animated-tv-show-disney-1236908229/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Artemis Fowl is coming to TV. An animated series adaptation of the bestselling book franchise has been greenlit for Disney Channel and Disney+. Author Eoin Colfer announced the news during the “25 Years of Artemis Fowl” panel at New York Comic Con.",
+      "published": "2026-10-11T18:45:00+00:00",
+      "fetched": "2026-10-11T21:07:11.487709+00:00"
+    },
+    {
+      "id": "9371ee2e42c4d9aa",
+      "title": "Tom Cruise’s ‘Digger’ Now Stands to Lose $245 Million After Dropping 60% in Second Weekend",
+      "link": "https://variety.com/2026/film/box-office/digger-losing-millions-warner-bros-box-office-1236908217/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Digger will go down in box office history for all the wrong reasons. Tom Cruise and director Alejandro González Iñárritu s R-rated environmental satire is tracking to lose $245 million in its theatrical run, according to knowledgeable sources. It will wind up as one of the biggest flops, not just of the year but potentially of [ ]",
+      "published": "2026-10-11T18:37:32+00:00",
+      "fetched": "2026-10-11T21:07:11.487762+00:00"
+    },
+    {
+      "id": "f55f41e5e398673e",
+      "title": "‘Musk’ Director Alex Gibney Confirms Universal Wavered in Planning Overseas Release, Says He Tried to Interview Elon Musk: ‘His Response Was Writing “Gibney Is a Douche”’",
+      "link": "https://variety.com/2026/film/news/musk-director-alex-gibney-universal-overseas-release-elon-musk-1236908243/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Alex Gibney, director of the 3-hour-and-45-minute Elon Musk-centered documentary “Musk,” discussed the lengths he went to to interview the tech billionaire for the film and why he believes Universal Pictures hesitated to plan an international release in a new interview with The New York Times. Although Musk does not appear in the film (though Gibney [ ]",
+      "published": "2026-10-11T18:04:50+00:00",
+      "fetched": "2026-10-11T21:07:11.487818+00:00"
+    },
+    {
+      "id": "545990be1ce2dad1",
+      "title": "Globo Announces BBC Deal on Teen Werewolf-Vampire Thriller ‘Blood Red,’ Highlights Big Telenovelas and Hot Fiction Formats at Mipcom Showcase",
+      "link": "https://variety.com/2026/tv/global/globo-bbc-deal-blood-red-mipcom-showcase-to-love-is-to-care-1236908256/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Globo has sold to the BBC “Blood Red Under the Moonlight,” a teen werewolf/vampire love triangle thriller now bound for BBC iPlayer and BBC Three. The biggest new announcement at a packed Mipcom Globo Showcase on Sunday evening, the BBC deal marks a milestone for Globo streaming service Globoplay, the first time a Globoplay [ ]",
+      "published": "2026-10-11T18:01:01+00:00",
+      "fetched": "2026-10-11T21:07:11.487891+00:00"
+    },
+    {
+      "id": "bcf489184dd3f8b7",
+      "title": "Robert Pattinson Recalls ‘Primetime’ Script Feeling Like a ‘Grenade’ as A24 Thriller Premieres in London: It Was ‘Original and Funny… and a Little Dangerous’",
+      "link": "https://variety.com/2026/film/festivals/robert-pattinson-primetime-london-film-festival-premiere-1236907553/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Robert Pattinson delighted London Film Festival on Sunday night as he introduced his latest film, Primetime, to an eager audience at BFI Imax. Sporting a dark grey suit and slicked-back hair, Pattinson explained why he decided to come on board the psychological thriller not only as its lead — he portrays former To Catch a [ ]",
+      "published": "2026-10-11T17:53:54+00:00",
+      "fetched": "2026-10-11T21:07:11.487950+00:00"
+    },
+    {
+      "id": "908099f7a03e7fb1",
+      "title": "Pope Leo XIV to Undergo Surgery After Nodule Found in Lung",
+      "link": "https://www.rollingstone.com/culture/culture-news/pope-leo-xiv-undergo-surgery-nodule-lung-1235641026/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"It was detected at a very early stage and is well-localized,\" the pontiff said Sunday. \"The doctors believe that it is best to intervene\"",
+      "published": "2026-10-11T17:35:38+00:00",
+      "fetched": "2026-10-11T21:07:11.746644+00:00"
+    },
+    {
+      "id": "873cf07b93a1d55f",
+      "title": "The 76 Best Albums of 1976",
+      "link": "https://www.rollingstone.com/music/music-lists/best-albums-1976-1235622589/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Disco was king, Frampton came alive, new sounds like dub and punk were rising up, and the radio was full of Stevie Wonder and Kiss",
+      "published": "2026-10-11T17:35:11+00:00",
+      "fetched": "2026-10-11T21:07:11.746672+00:00"
+    },
     {
       "id": "fc6158e0e6306300",
       "title": "Spain Hits Mipcom With Prestige Dramas, Reality Formats, Headed by Can Yaman, ‘Nowhere’ Star Anna Castillo and ‘La Mesias’ Lead Carmen Machi",
@@ -1372,136 +1502,6 @@
       "summary": "Marvel debuted the first episode of VisionQuest with a surprise screening to close out its New York Comic Con panel Thursday. Early reactions to the Disney+ show, which is set to premiere Oct. 14, shared on social media were largely positive, and the perspectives ranged from con-goers who just saw the premiere episode to journalists [ ]",
       "published": "2026-10-08T22:41:58+00:00",
       "fetched": "2026-10-09T03:15:22.359558+00:00"
-    },
-    {
-      "id": "65015af2231a5295",
-      "title": "Where to Stream ‘Oasis: Don’t Look Back in Anger’ Documentary",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-stream-oasis-tour-documentary-online-1235639915/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The new documentary includes behind-the-scenes and concert footage of the band’s 2025 reunion gigs",
-      "published": "2026-10-08T22:31:00+00:00",
-      "fetched": "2026-10-08T22:32:19.353186+00:00"
-    },
-    {
-      "id": "8ae507b4e9ef74f1",
-      "title": "‘Other Mommy’ Review: Jessica Chastain’s Doppelgänger Horror Misfires in Every Direction",
-      "link": "https://variety.com/2026/film/reviews/other-mommy-review-jessica-chastain-doppelganger-horror-1236906167/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "If you enjoyed watching the trailer for “Other Mommy” during every multiplex outing this summer, you’ll get an extended dose of its freneticism during the actual film — right down to an opening title card that appears letter-by-letter while intercut with choppy action. From director Rob Savage, and adapted from the horror novel “Incidents Around [ ]",
-      "published": "2026-10-08T22:25:05+00:00",
-      "fetched": "2026-10-08T22:32:19.225002+00:00"
-    },
-    {
-      "id": "536da70f0f4b7152",
-      "title": "The Pentagon Is Going to Livestream a Firing Squad Execution",
-      "link": "https://www.rollingstone.com/politics/politics-news/pete-hegseth-firing-squad-execution-public-1235640033/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "“No brainer,” Pete Hegseth said of the decision to execute Nidal Hasan by firing squad, announcing that the public will be able to watch",
-      "published": "2026-10-08T22:10:50+00:00",
-      "fetched": "2026-10-08T22:32:19.353216+00:00"
-    },
-    {
-      "id": "b50d5d16c5025fa9",
-      "title": "Matthew Lillard Resented ‘Scooby-Doo’ Movies After His Career Nosedived When the Sequel Flopped: We ‘Sold Our House’ and Had to ‘Downsize Our Lives’",
-      "link": "https://variety.com/2026/film/news/matthew-lillard-resented-scooby-doo-career-failed-sold-house-1236905807/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Matthew Lillard got brutally honest about his love-hate relationship with the Scooby-Doo movies while participating in Variety s Know Their Lines video series. The actor expected to become a blockbuster movie star after landing the role of Shaggy in 2002’s live-action “Scooby-Doo,” which earned $275 million worldwide. But the franchise was short-lived after 2004’s Scooby-Doo 2: [ ]",
-      "published": "2026-10-08T22:02:43+00:00",
-      "fetched": "2026-10-08T22:32:19.225056+00:00"
-    },
-    {
-      "id": "0d36ae03a09b8c0b",
-      "title": "David Corenswet Proves He’s More Than Superman in ‘Mr. Irrelevant,’ a Potential ‘Blind Side’-Style Oscar Vehicle Following NFL Legends Screening in NYC",
-      "link": "https://variety.com/2026/film/awards/david-corenswet-superman-mr-irrelevant-oscars-nfl-screening-1236905819/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Football teams are always looking for an edge. This Oscar season, Paramount may have found one in David Corenswet. The New York Giants took John Tuggle with the 335th pick of the 1983 NFL Draft and that’s how the running back from California became “Mr.",
-      "published": "2026-10-08T21:41:35+00:00",
-      "fetched": "2026-10-08T22:32:19.225099+00:00"
-    },
-    {
-      "id": "6760fb6aac231cbc",
-      "title": "Becoming Elvis Costello: The Legend Goes In-Depth on His New ‘My Aim Is True’ Boxed Set, Origins of the Iconic Name and Glasses, and Finding a Sound and Persona That Transformed Rock Forever",
-      "link": "https://variety.com/2026/music/news/elvis-costello-my-aim-is-true-boxed-set-origins-interview-1236906075/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Oh, it s so funny to be seeing you after so long, My Aim Is True but not so very peculiar to have Elvis Costello s 1977 debut brought back to mind, because, well, talk about an aim that s been unswerving in its impact for 50 years. Or make that almost 50, since the title of the [ ]",
-      "published": "2026-10-08T21:32:03+00:00",
-      "fetched": "2026-10-08T22:32:19.225151+00:00"
-    },
-    {
-      "id": "4048a42fe82a027a",
-      "title": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger",
-      "link": "https://variety.com/2026/tv/news/david-zaslav-exit-package-warner-bros-discovery-paramount-merger-1236905947/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "David Zaslav is out of a job. But he s getting a prodigious sum of $606 million as he leaves Warner Bros. Discovery, the company he fused together and led for more than four years before it agreed to be acquired by David Ellison s Paramount.",
-      "published": "2026-10-08T21:04:53+00:00",
-      "fetched": "2026-10-08T22:32:19.225185+00:00"
-    },
-    {
-      "id": "cc9bf7563e172c34",
-      "title": "‘Crazy Rich Asians’ HBO Series Sets Cast: Constance Wu, Henry Golding, Michelle Yeoh, Ronny Chieng Returning",
-      "link": "https://variety.com/2026/tv/news/crazy-rich-asians-series-cast-constance-wu-henry-golding-michelle-yeoh-1236905874/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Crazy Rich Asians TV series is moving forward at HBO, with four of the film s stars returning. Constance Wu, Henry Golding and Ronny Chieng have all signed on as series regulars in the one-hour original drama series, with Oscar winner Michelle Yeoh recurring. All four will reprise their respective roles from the hit 2018 [ ]",
-      "published": "2026-10-08T21:00:00+00:00",
-      "fetched": "2026-10-08T22:32:19.225219+00:00"
-    },
-    {
-      "id": "0b47120f7635086b",
-      "title": "Marvel’s ‘X-Men ’97’ Season 3 Teaser Debuts at New York Comic-Con",
-      "link": "https://variety.com/2026/tv/news/x-men-97-renewed-season-3-teaser-1236828689/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "X-Men 97 is coming back. The animated Marvel series has been renewed for Season 3 on Disney+ and a first look at the new episodes has been revealed. While at New York Comic Con, head of Marvel television, animation, comics and franchise Brad Winderbaum revealed a clip from Season 3, which opened with someone writing [ ]",
-      "published": "2026-10-08T20:50:32+00:00",
-      "fetched": "2026-10-08T22:32:19.225250+00:00"
-    },
-    {
-      "id": "813bd69bb2d2836b",
-      "title": "‘Your Friendly Neighborhood Spider-Man’ Season 2 Sets Release Date",
-      "link": "https://variety.com/2026/tv/news/your-friendly-neighborhood-spider-man-season-2-release-date-1236828607/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The animated series Your Friendly Neighborhood Spider-Man has set its Season 2 release date on Disney+. The second season will debut Jan. 13, 2027.",
-      "published": "2026-10-08T20:44:40+00:00",
-      "fetched": "2026-10-08T22:32:19.225282+00:00"
-    },
-    {
-      "id": "4dec4482230911cf",
-      "title": "Marvel’s ‘Zodiac’ Sets 2028 Release on Disney+ as New Details Revealed",
-      "link": "https://variety.com/2026/tv/news/marvels-zodiac-sets-2028-release-on-disney-plus-1236904566/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Marvel Television revealed the first logo for its new series “Zodiac,” a live-action spy thriller set for release in 2028. The series will begin shooting in London in the spring, Marvel Television chief Brad Winderbaum said during its New York Comic-Con panel, with casting beginning in the “next couple of weeks.” No additional details were immediately [ ]",
-      "published": "2026-10-08T20:33:47+00:00",
-      "fetched": "2026-10-08T22:32:19.225317+00:00"
-    },
-    {
-      "id": "8e7fff503686e6c2",
-      "title": "Oscars Predictions 2027: Where the Race Stands After ‘Artificial’ NYFF Premiere and Andrew Garfield’s Supporting Actor Push",
-      "link": "https://variety.com/lists/2027-oscars-predictions/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]",
-      "published": "2026-10-08T20:30:00+00:00",
-      "fetched": "2026-10-08T22:32:19.225356+00:00"
-    },
-    {
-      "id": "183f941ba4906d73",
-      "title": "You’re Going to Love Emma Ogier’s Music. Just Wait",
-      "link": "https://www.rollingstone.com/music/music-features/emma-ogier-new-music-interview-1235638737/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "She's linked up with Bright Eyes and Dominic Fike, and gotten shoutouts from Clairo, Gracie Abrams, Audrey Hobert, and Ethel Cain. Her upcoming debut is one of the year's best",
-      "published": "2026-10-08T20:17:02+00:00",
-      "fetched": "2026-10-08T22:32:19.353241+00:00"
     }
   ]
 }

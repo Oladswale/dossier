@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-11T16:50:57.832449+00:00",
+  "updated": "2026-10-11T21:07:13.703176+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7ac6b57b73555455",
+      "title": "Price Cuts Are the Best Concession To Motivate First-Time Buyers, Survey Finds",
+      "link": "https://www.realtor.com/news/trends/price-cuts-seller-concession-motivate-first-time-buyers-neighbors-bank/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Forty percent of first-time buyers said a price reduction is the concession that would most boost their confidence to move forward.",
+      "published": "2026-10-11T16:55:00+00:00",
+      "fetched": "2026-10-11T21:07:13.702590+00:00"
+    },
     {
       "id": "e9137b990c686571",
       "title": "One of Frank Lloyd Wright’s First Commissions Lists near Chicago for $2.4 Million",
@@ -1492,16 +1502,6 @@
       "summary": "When a new-construction home within his price range popped up, this homebuyer switched focus—and saved big on his mortgage.",
       "published": "2026-10-01T08:33:00+00:00",
       "fetched": "2026-10-01T11:54:15.546146+00:00"
-    },
-    {
-      "id": "59f67d381b63b329",
-      "title": "O-Town Frontman Ashley Parker Angel Opens Up About His Shocking Health Scare and Las Vegas Sanctuary",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/o-town-frontman-ashley-parker-angel-opens-up-his-las-vegas-sanctuary/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "See inside Angel's Las Vegas abode where he supports his carefully choreographed wellness ritual after a health scare.",
-      "published": "2026-10-01T08:16:00+00:00",
-      "fetched": "2026-10-01T11:54:15.546169+00:00"
     }
   ]
 }
