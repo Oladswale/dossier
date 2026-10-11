@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-11T11:40:32.508432+00:00",
+  "updated": "2026-10-11T16:50:57.832449+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e9137b990c686571",
+      "title": "One of Frank Lloyd Wright’s First Commissions Lists near Chicago for $2.4 Million",
+      "link": "https://www.realtor.com/news/unique-homes/frank-lloyd-wright-home-river-forest-illinois-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built in 1895, the Chauncey Williams House in River Forest, IL boasts an exaggerated roof and many other wow-worthy features.",
+      "published": "2026-10-11T16:04:00+00:00",
+      "fetched": "2026-10-11T16:50:57.831776+00:00"
+    },
+    {
+      "id": "8edaf5d2782b596d",
+      "title": "Fairy-Tale ‘Carpenter Gothic Victorian’ Hits the Market on Long Island’s Shelter Island",
+      "link": "https://www.realtor.com/news/unique-homes/carpenter-gothic-victorian-for-sale-shelter-island/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built around 1875, the home boasts 2,300 square feet of living space and has been restored for year-round use.",
+      "published": "2026-10-11T15:30:00+00:00",
+      "fetched": "2026-10-11T16:50:57.831817+00:00"
+    },
+    {
+      "id": "db0e6b69b9c287f0",
+      "title": "YouTube Star Kris Krohn Lists Mind-Blowing $14 Million Utah Mansion With a Pool That Transforms Into a Ballroom",
+      "link": "https://www.realtor.com/news/unique-homes/kris-krohn-lists-14-million-utah-compound/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The six-bedroom megamansion, located in Woodland Hills, UT, boasts two connected wings and offers panoramic views of the valley.",
+      "published": "2026-10-11T13:33:00+00:00",
+      "fetched": "2026-10-11T16:50:57.831849+00:00"
+    },
+    {
+      "id": "dce4c21cccd516b3",
+      "title": "‘Verity’ Production Designer Amy Williams Reveals How Modern Scandinavian Architecture Creates ‘Eerie Drama’ in the Film",
+      "link": "https://www.realtor.com/news/unique-homes/house-in-verity-set-design-scandinavian-modern-architecture/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The psychological thriller was shot at a stunning Scandinavian modern estate that blurs the lines between what's natural and what's built.",
+      "published": "2026-10-11T12:15:00+00:00",
+      "fetched": "2026-10-11T16:50:57.831883+00:00"
+    },
     {
       "id": "29a4438ad703cdd6",
       "title": "A Restoration Hardware Stylist Turned an 870-Square-Foot California Bungalow into an Indoor-Outdoor Oasis",
@@ -1462,46 +1502,6 @@
       "summary": "See inside Angel's Las Vegas abode where he supports his carefully choreographed wellness ritual after a health scare.",
       "published": "2026-10-01T08:16:00+00:00",
       "fetched": "2026-10-01T11:54:15.546169+00:00"
-    },
-    {
-      "id": "db4b983395fd1e33",
-      "title": "‘East of Eden’ Writer Zoe Kazan Details Historic Childhood Home in Los Angeles—Where She Grew Up Surrounded by Influential Names in Film",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/zoe-kazan-east-of-eden-los-angeles-childhood-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The multihyphenate Los Angeles native opened up about her Hollywood roots, which go back generations.",
-      "published": "2026-09-30T22:46:31+00:00",
-      "fetched": "2026-10-01T02:38:25.197685+00:00"
-    },
-    {
-      "id": "79e1214b30a8540d",
-      "title": "Mamdani Wants To Turn Lower Manhattan Government Offices Into Nearly 4,000 Apartments",
-      "link": "https://www.realtor.com/news/trends/mamdani-100-gold-street-4000-apartments-affordable-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A plan for 4,000 homes at 100 Gold St. would use 3,000 market-rate apartments to help support 1,000 affordable units.",
-      "published": "2026-09-30T22:24:56+00:00",
-      "fetched": "2026-10-01T02:38:25.197721+00:00"
-    },
-    {
-      "id": "c98bc525f5bdd0cc",
-      "title": "The Fall Maintenance Divide: Homeowners in These Metros Are Most Prepared for the Upcoming Wild-Card Fall Weather",
-      "link": "https://www.realtor.com/advice/home-improvement/fall-home-maintenance-preparedness-metro-rankings-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "With El Nino throwing predictable weather out the window, some homeowners are preparing better than others for fall.",
-      "published": "2026-09-30T22:02:02+00:00",
-      "fetched": "2026-10-01T02:38:25.197752+00:00"
-    },
-    {
-      "id": "570c01961d277ad5",
-      "title": "Senate Sinks Data Center Energy Cost Bill Ahead of Midterms",
-      "link": "https://www.realtor.com/news/real-estate-news/senate-blocks-data-center-energy-cost-bill/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Senate sank a bill aimed at shielding homeowners from data center energy cost after Democrats argued it didn't do enough.",
-      "published": "2026-09-30T21:35:12+00:00",
-      "fetched": "2026-10-01T02:38:25.197781+00:00"
     }
   ]
 }
