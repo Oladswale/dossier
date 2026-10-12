@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-12T13:38:21.950474+00:00",
+  "updated": "2026-10-12T23:51:48.290995+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7152b284f6b73145",
+      "title": "Economists Robert Hall PhD ’67 and Michael Woodford PhD ’83 share Nobel Prize",
+      "link": "https://news.mit.edu/2026/robert-hall-michael-woodford-share-nobel-prize-economics-1012",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The MIT alumni are honored for work that illuminates how government policy can spur growth in response to economic downturns.",
+      "published": "2026-10-12T12:00:00+00:00",
+      "fetched": "2026-10-12T23:51:46.998016+00:00"
+    },
     {
       "id": "0f531a8157e68c68",
       "title": "Economists Robert E. Hall PhD ’67 and Michael Woodford PhD ’83 share Nobel prize",
@@ -1492,16 +1502,6 @@
       "summary": "A new study reveals insights into populations of neurons affected by Huntington’s disease, schizophrenia, addiction, and other disorders.",
       "published": "2026-09-01T15:00:00+00:00",
       "fetched": "2026-09-01T15:37:41.927420+00:00"
-    },
-    {
-      "id": "3ce01e61cbb99863",
-      "title": "How Phone Addiction Keeps You from Achieving a Productive “Flow State”",
-      "link": "https://www.openculture.com/2026/09/how-phone-addiction-keeps-you-from-achieving-a-productive-flow-state.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "If you have an iPhone, try pushing its side button three times in a row. Just like magic, the screen should turn from color into black-and-white, or rather grayscale. (To do the same on an Android phone, you’ll have to dive into settings, then “accessibility,” “vision enhancements,” and “color correction.”) Why would you want that [ ]",
-      "published": "2026-09-01T09:00:35+00:00",
-      "fetched": "2026-09-01T10:35:54.801862+00:00"
     }
   ]
 }

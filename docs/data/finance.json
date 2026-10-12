@@ -1,8 +1,268 @@
 {
   "category": "finance",
-  "updated": "2026-10-12T13:38:06.431101+00:00",
+  "updated": "2026-10-12T23:51:31.950649+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6f99fe1d9b475b87",
+      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "published": "2026-10-12T23:31:00+00:00",
+      "fetched": "2026-10-12T23:51:29.725999+00:00"
+    },
+    {
+      "id": "0796d8a9ba88a158",
+      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
+      "published": "2026-10-12T22:27:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726058+00:00"
+    },
+    {
+      "id": "9080e5fc01a47d8d",
+      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+      "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Brazil’s presidential election is powering optimism in the country’s stock market — and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
+      "published": "2026-10-12T22:00:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726111+00:00"
+    },
+    {
+      "id": "e5389439e668f4da",
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+      "published": "2026-10-12T21:19:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726142+00:00"
+    },
+    {
+      "id": "6ae06dfee0dd15cc",
+      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+      "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
+      "published": "2026-10-12T20:46:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726171+00:00"
+    },
+    {
+      "id": "17583e5a216bf129",
+      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
+      "published": "2026-10-12T20:40:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726199+00:00"
+    },
+    {
+      "id": "74e5e712b5792f50",
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company’s stock was up more than 3% following the release of Muse Wonder and Muse Wonder Full, which analysts expect to drive new business opportunities.",
+      "published": "2026-10-12T19:43:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726232+00:00"
+    },
+    {
+      "id": "70953dc0e7253aef",
+      "title": "FMDA projects N2.499 trillion money-market inflows as system liquidity falls 23.7%",
+      "link": "https://nairametrics.com/2026/10/12/fmda-projects-n2-499-trillion-money-market-inflows-as-system-liquidity-falls-23-7/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's money market is expected to receive approximately N2.499 trillion in inflows during the week beginning October 12, 2026, with maturing Open Market Operations (OMO) bills accounting for nearly all the projected funds, following a 23.68% decline in banking system liquidity. The post FMDA projects N2.499 trillion money-market inflows as system liquidity falls 23.7% appeared first on Nairametrics .",
+      "published": "2026-10-12T19:06:52+00:00",
+      "fetched": "2026-10-12T23:51:30.362301+00:00"
+    },
+    {
+      "id": "cf76e995427a907e",
+      "title": "Nigerian stocks shed N407 billion, banking sell-off drags market lower",
+      "link": "https://nairametrics.com/2026/10/12/nigerian-stocks-shed-n407-billion-banking-sell-off-drags-market-lower/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian stock market began the week on Monday, October 12, 2026, in red as total equities market capitalisation contracted from N161.26 trillion recorded on Friday, October 9, to N160.85 trillion, losing N407.30 billion. The post Nigerian stocks shed N407 billion, banking sell-off drags market lower appeared first on Nairametrics .",
+      "published": "2026-10-12T18:43:50+00:00",
+      "fetched": "2026-10-12T23:51:30.362354+00:00"
+    },
+    {
+      "id": "ec6621fcd118d4a3",
+      "title": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies",
+      "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Oil markets were struggling on Monday to gauge how President Donald Trump’s new declaration of an “energy ceasefire” between Russia and Ukraine might help mitigate a deepening global oil crisis as the Middle East conflict drags on.",
+      "published": "2026-10-12T18:36:00+00:00",
+      "fetched": "2026-10-12T23:51:29.726273+00:00"
+    },
+    {
+      "id": "e0287d34bb79f55c",
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The S P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+      "published": "2026-10-12T18:18:39+00:00",
+      "fetched": "2026-10-12T23:51:29.881904+00:00"
+    },
+    {
+      "id": "d2dfd361a90d697e",
+      "title": "Dangote Refinery heads to Appeal Court over ‘continual fuel import licences’ judgement",
+      "link": "https://nairametrics.com/2026/10/12/dangote-refinery-heads-to-appeal-court-over-continual-fuel-import-licences-judgement/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Petroleum Refinery Petrochemicals FZE has urged the Court of Appeal in Abuja to grant it permission to challenge a recent Federal High Court judgment ordering the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) to continue to grant petroleum product import licences to three major oil marketers — Matrix Energy, AA Rano, and AYM Shafa. The post Dangote Refinery heads to Appeal Court over continual fuel import licences judgement appeared first on Nairametrics .",
+      "published": "2026-10-12T18:13:16+00:00",
+      "fetched": "2026-10-12T23:51:30.362429+00:00"
+    },
+    {
+      "id": "adec178fbe2679d5",
+      "title": "If AI prompts can build your product, will African VCs still invest?",
+      "link": "https://techcabal.com/2026/10/12/african-ai-startups-vc-funding/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Six African investors explain what makes African AI startups fundable: local-language voice products, sticky software, licences and revenue.",
+      "published": "2026-10-12T17:19:52+00:00",
+      "fetched": "2026-10-12T23:51:31.950367+00:00"
+    },
+    {
+      "id": "966264115ba703bb",
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "published": "2026-10-12T17:15:21+00:00",
+      "fetched": "2026-10-12T23:51:29.881939+00:00"
+    },
+    {
+      "id": "6c8778fc1b46253b",
+      "title": "Dangote Refinery extends IPO subscription deadline to October 27",
+      "link": "https://nairametrics.com/2026/10/12/dangote-refinery-extends-ipo-subscription-deadline-to-october-27/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Petroleum Refinery and Petrochemicals FZE has extended the subscription period for its initial public offering (IPO) by two weeks to October 27, 2026, following approval from the Securities and Exchange Commission (SEC). The offer, which opened on September 14, was initially scheduled to close on October 13, but the extension gives prospective investors an [ ] The post Dangote Refinery extends IPO subscription deadline to October 27 appeared first on Nairametrics .",
+      "published": "2026-10-12T16:45:59+00:00",
+      "fetched": "2026-10-12T23:51:30.362486+00:00"
+    },
+    {
+      "id": "a85fc8260aa83292",
+      "title": "Global smartphone shipments plunge 20% to lowest level in 14 years",
+      "link": "https://nairametrics.com/2026/10/12/global-smartphone-shipments-plunge-20-to-lowest-level-in-14-years/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Global smartphone shipments fell 20% year-on-year in the third quarter of 2026 to their lowest level for the period since 2012, as persistent memory shortages and rising component costs disrupted supply and pushed up retail prices. The post Global smartphone shipments plunge 20% to lowest level in 14 years appeared first on Nairametrics .",
+      "published": "2026-10-12T15:45:20+00:00",
+      "fetched": "2026-10-12T23:51:30.362530+00:00"
+    },
+    {
+      "id": "4ebda3147c948c56",
+      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+      "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+      "published": "2026-10-12T15:37:26+00:00",
+      "fetched": "2026-10-12T23:51:29.881968+00:00"
+    },
+    {
+      "id": "93ab04035095e8e5",
+      "title": "Court strikes out charges against alleged fake DG over prosecution loopholes",
+      "link": "https://nairametrics.com/2026/10/12/court-strikes-out-charges-against-alleged-fake-dg-over-prosecution-loopholes/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal High Court in Abuja has struck out the eight-count criminal charges against Adeniyi Adeyemi, the alleged fake Director-General of the Presidential Foreign Intervention Promotion Council (PFIPC), following the discovery of legal loopholes in the prosecution's case. The post Court strikes out charges against alleged fake DG over prosecution loopholes appeared first on Nairametrics .",
+      "published": "2026-10-12T15:35:39+00:00",
+      "fetched": "2026-10-12T23:51:30.362606+00:00"
+    },
+    {
+      "id": "b04d2f7d1997b214",
+      "title": "Aradel and Oando Put Nigeria’s Indigenous Energy Sector on the FTSE Frontier Index",
+      "link": "https://nairametrics.com/2026/10/12/aradel-and-oando-put-nigerias-indigenous-energy-sector-on-the-ftse-frontier-index/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s return to Frontier Market status has brought 31 Nigerian companies into the FTSE Frontier Index Series, including Aradel Holdings and Oando Plc, the only two Nigerian indigenous energy companies among the constituents. Their inclusion is notable not simply because they have entered an international market benchmark, but because it offers a useful lens into [ ] The post Aradel and Oando Put Nigeria’s Indigenous Energy Sector on the FTSE Frontier Index appeared first on Nairametrics .",
+      "published": "2026-10-12T14:57:20+00:00",
+      "fetched": "2026-10-12T23:51:30.362678+00:00"
+    },
+    {
+      "id": "475c9751ae324d2e",
+      "title": "Midea Launches WIN 9JA WIN Promotion with Guaranteed Rewards and Chery Tiggo 2 Pro Grand Prize",
+      "link": "https://nairametrics.com/2026/10/12/midea-launches-win-9ja-win-promotion-with-guaranteed-rewards-and-chery-tiggo-2-pro-grand-prize/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nationwide scratch and win campaign rewards every qualifying shopper and brings the promotion closer to consumers through a multi market Promo Tour Truck programme Opening News LeadMidea has announced the launch of WIN 9JA WIN, a nationwide consumer promotion designed to reward Nigerians who choose Midea home appliances during the 2026 festive shopping season. Running [ ] The post Midea Launches WIN 9JA WIN Promotion with Guaranteed Rewards and Chery Tiggo 2 Pro Grand Prize appeared first on Nairametrics .",
+      "published": "2026-10-12T14:49:28+00:00",
+      "fetched": "2026-10-12T23:51:30.362736+00:00"
+    },
+    {
+      "id": "a4f22615bc8b589f",
+      "title": "Millions of Africans have internet coverage but are not online. Here’s why",
+      "link": "https://techcabal.com/2026/10/12/africans-with-internet-coverage-offline/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Millions of Africans live within reach of mobile broadband but remain offline. Ghana, Egypt, and Niger show why expanding coverage is only part of the solution: people also need affordable devices, trusted services and an internet that serves their everyday needs.",
+      "published": "2026-10-12T14:34:21+00:00",
+      "fetched": "2026-10-12T23:51:31.950416+00:00"
+    },
+    {
+      "id": "0069c5890388dab6",
+      "title": "Send App by Flutterwave Named Headline Sponsor of EbonyLife Place London Launch as Flutterwave Becomes Exclusive Payments Partner",
+      "link": "https://nairametrics.com/2026/10/12/send-app-by-flutterwave-named-headline-sponsor-of-ebonylife-place-london-launch-as-flutterwave-becomes-exclusive-payments-partner/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Partnership brings payment technology and diaspora engagement to Mo Abudu’s new destination for African film, food, fashion, art and music. Send App by Flutterwave today announced its headline sponsorship of the EbonyLife Place London launch, alongside a broader partnership naming Flutterwave as EbonyLife’s exclusive payments partner. The collaboration brings Flutterwave’s payment technology into the venue’s [ ] The post Send App by Flutterwave Named Headline Sponsor of EbonyLife Place London Launch as Flutterwave Becomes Exclusive Payments Partner appeared first on Nairametrics .",
+      "published": "2026-10-12T14:30:52+00:00",
+      "fetched": "2026-10-12T23:51:30.362808+00:00"
+    },
+    {
+      "id": "e788c4c0aeed6970",
+      "title": "NNPC revenue hits N28.54 trillion in eight months",
+      "link": "https://nairametrics.com/2026/10/12/nnpc-revenue-hits-n28-54-trillion-in-eight-months/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "NNPC Limited generated N28.54 trillion in revenue and recorded N2.99 trillion in profit after tax between January and August 2026. The post NNPC revenue hits N28.54 trillion in eight months appeared first on Nairametrics .",
+      "published": "2026-10-12T14:28:45+00:00",
+      "fetched": "2026-10-12T23:51:30.362843+00:00"
+    },
+    {
+      "id": "75ff0d645945c052",
+      "title": "Peter Obi challenges World Bank’s growth outlook, says Nigerians remain worse off",
+      "link": "https://nairametrics.com/2026/10/12/peter-obi-challenges-world-banks-growth-outlook-says-nigerians-remain-worse-off/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Former Anambra State Governor and the presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, has said that the World Bank’s assessment of Nigeria’s improving macroeconomic performance does not reflect the economic realities facing millions of Nigerians, particularly the persistent challenges of poverty, unemployment and declining living standards. The post Peter Obi challenges World Bank’s growth outlook, says Nigerians remain worse off appeared first on Nairametrics .",
+      "published": "2026-10-12T14:18:03+00:00",
+      "fetched": "2026-10-12T23:51:30.362906+00:00"
+    },
+    {
+      "id": "874b316ad64637ec",
+      "title": "INEC flags fake governorship notice targeting six states, warns Nigerians",
+      "link": "https://nairametrics.com/2026/10/12/inec-flags-fake-governorship-notice-targeting-six-states-warns-nigerians/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Independent National Electoral Commission (INEC) has warned Nigerians against a fraudulent publication circulating online that falsely claims to be a special announcement by the Commission regarding governorship candidates in six states. The post INEC flags fake governorship notice targeting six states, warns Nigerians appeared first on Nairametrics .",
+      "published": "2026-10-12T14:08:49+00:00",
+      "fetched": "2026-10-12T23:51:30.362953+00:00"
+    },
+    {
+      "id": "a97f0e3b68d96fb6",
+      "title": "TikTok distances itself from Northern Nigeria blackout; cause remains unclear",
+      "link": "https://nairametrics.com/2026/10/12/tiktok-distances-itself-from-northern-nigeria-blackout-cause-remains-unclear/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "TikTok has denied implementing restrictions on access to its platform in parts of Northern Nigeria, saying it is engaging relevant stakeholders to resolve the disruption reported by users. The post TikTok distances itself from Northern Nigeria blackout; cause remains unclear appeared first on Nairametrics .",
+      "published": "2026-10-12T14:07:55+00:00",
+      "fetched": "2026-10-12T23:51:30.362994+00:00"
+    },
     {
       "id": "ed8e59828e54a970",
       "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
@@ -1242,266 +1502,6 @@
       "summary": "Every Nigerian founder who sells, sources, or hires across borders eventually hits the same wall. The money leaves, or is supposed to arrive, and then it disappears into a chain of intermediaries nobody can explain. A supplier in Guangzhou says the wire never landed.",
       "published": "2026-10-09T10:51:40+00:00",
       "fetched": "2026-10-09T12:09:23.737732+00:00"
-    },
-    {
-      "id": "d5ab48c17a6c5d84",
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-      "published": "2026-10-09T10:04:00+00:00",
-      "fetched": "2026-10-09T12:09:23.219729+00:00"
-    },
-    {
-      "id": "5b79d509746485dd",
-      "title": "FG petrol discount not funded by budget, absorbed by NNPC Retail margin",
-      "link": "https://nairametrics.com/2026/10/09/fg-petrol-discount-not-funded-by-budget-absorbed-by-nnpc-retail-margin/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has said the petrol discount at NNPC Retail Limited stations is funded entirely by the retailer’s margins, not the federal budget or the Federation Account. The post FG petrol discount not funded by budget, absorbed by NNPC Retail margin appeared first on Nairametrics .",
-      "published": "2026-10-09T09:41:27+00:00",
-      "fetched": "2026-10-09T12:09:23.737763+00:00"
-    },
-    {
-      "id": "0ff929231542de2b",
-      "title": "Funding the Frontline of Health: CoElevate Calls on West African Innovators in Water, Sanitation and Pharmaceutical R&D",
-      "link": "https://nairametrics.com/2026/10/09/funding-the-frontline-of-health-coelevate-calls-on-west-african-innovators-in-water-sanitation-and-pharmaceutical-rd/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A new round of catalytic funding is looking for founders who are solving problems that sit at the root of Africa s health challenges. Behind many of Africa s health headlines is a quieter set of questions. Can families reach clean water?",
-      "published": "2026-10-09T09:30:15+00:00",
-      "fetched": "2026-10-09T12:09:23.737803+00:00"
-    },
-    {
-      "id": "a25208ad065d9a98",
-      "title": "NLC gives FG two-week ultimatum to reduce petrol prices, renegotiate minimum wage",
-      "link": "https://nairametrics.com/2026/10/09/nlc-gives-fg-two-week-ultimatum-to-reduce-petrol-prices-renegotiate-minimum-wage/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Labour Congress (NLC) has given the Federal Government two weeks to reduce petrol prices, begin minimum wage renegotiations and address other outstanding workers’ demands. The post NLC gives FG two-week ultimatum to reduce petrol prices, renegotiate minimum wage appeared first on Nairametrics .",
-      "published": "2026-10-09T09:28:37+00:00",
-      "fetched": "2026-10-09T12:09:23.737831+00:00"
-    },
-    {
-      "id": "4f61ec8971b60d82",
-      "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-09T09:15:00+00:00",
-      "fetched": "2026-10-09T12:09:23.219756+00:00"
-    },
-    {
-      "id": "de5dbe6c743e64fa",
-      "title": "Why the price of this one ETF has gone exponential",
-      "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "An exchange-traded fund tied to freight futures is surging.",
-      "published": "2026-10-09T09:12:00+00:00",
-      "fetched": "2026-10-09T12:09:23.219775+00:00"
-    },
-    {
-      "id": "80489893855727bd",
-      "title": "Jelly Roll and Bunnie Xo set to sell $7 million Tennessee home he gave her in divorce",
-      "link": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Jelly Roll and Bunnie Xo are bidding farewell to their $7 million Tennessee home, which the country singer handed over to his former wife following their divorce.",
-      "published": "2026-10-09T08:58:00+00:00",
-      "fetched": "2026-10-09T12:09:23.219801+00:00"
-    },
-    {
-      "id": "1401a6e0596fed23",
-      "title": "The 20-metre neobank: How Mukuru is solving the gap between receiving cash and spending it",
-      "link": "https://techcabal.com/2026/10/09/mukuru-digital-financial-services/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "For the Spanish-born executive, the future of African fintech is about eliminating the friction that hinders how people receive, store, move, and spend their money.",
-      "published": "2026-10-09T08:53:24+00:00",
-      "fetched": "2026-10-09T12:09:25.317741+00:00"
-    },
-    {
-      "id": "bfee5899608dd1cf",
-      "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
-      "link": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The artificial-intelligence build-out is most often associated with the dot-com boom at the end of the last century, but quants at one Wall Street giant have identified another parallel: the bell-bottomed, polyester suit, high-inflation era of the late 1970s.",
-      "published": "2026-10-09T08:49:00+00:00",
-      "fetched": "2026-10-09T12:09:23.219832+00:00"
-    },
-    {
-      "id": "19f046b68087ca71",
-      "title": "Femi Otedola gains N1.48 trillion in Q3 2026",
-      "link": "https://nairametrics.com/2026/10/09/femi-otedola-gains-n1-48-trillion-in-q3-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian billionaire Femi Otedola recorded a N1.48 trillion increase in the market value of his investment in First HoldCo during the third quarter of 2026. The post Femi Otedola gains N1.48 trillion in Q3 2026 appeared first on Nairametrics .",
-      "published": "2026-10-09T08:47:05+00:00",
-      "fetched": "2026-10-09T12:09:23.737853+00:00"
-    },
-    {
-      "id": "df9f7f062ce264ff",
-      "title": "Investing in Scale: What the Dangote Refinery IPO Means for Institutional Portfolios",
-      "link": "https://nairametrics.com/2026/10/09/investing-in-scale-what-the-dangote-refinery-ipo-means-for-institutional-portfolios/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Dangote Petroleum Refinery and Petrochemicals FZE public offer brings an industrial asset of exceptional scale to Nigeria’s equity market. For institutional investors, however, the central question is not whether the refinery is strategically important. It is whether the shares, at the offer price and within the proposed ownership structure, offer appropriate risk-adjusted exposure for [ ] The post Investing in Scale: What the Dangote Refinery IPO Means for Institutional Portfolios appeared first on Nairametrics .",
-      "published": "2026-10-09T08:31:10+00:00",
-      "fetched": "2026-10-09T12:09:23.737890+00:00"
-    },
-    {
-      "id": "3ce8c00f2f0e0031",
-      "title": "ICRC demands full capacity operation of 700MW Zungeru Hydropower Plant",
-      "link": "https://nairametrics.com/2026/10/09/icrc-demands-full-capacity-operation-of-700mw-zungeru-hydropower-plant/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Infrastructure Concession Regulatory Commission (ICRC) has warned stakeholders that the $1.3 billion, 700-megawatt Zungeru Hydropower Project cannot be allowed to operate below capacity. The post ICRC demands full capacity operation of 700MW Zungeru Hydropower Plant appeared first on Nairametrics .",
-      "published": "2026-10-09T07:30:33+00:00",
-      "fetched": "2026-10-09T12:09:23.737911+00:00"
-    },
-    {
-      "id": "a24ad452061b7b68",
-      "title": "Nigeria to adopt Ethiopia’s mechanised farming model to boost food security – Shettima",
-      "link": "https://nairametrics.com/2026/10/09/nigeria-to-adopt-ethiopias-mechanised-farming-model-to-boost-food-security-shettima/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria plans to adopt Ethiopia’s large-scale mechanised farming model to boost agricultural productivity, achieve food self-sufficiency and position the sector as a major driver of economic growth. The post Nigeria to adopt Ethiopia’s mechanised farming model to boost food security – Shettima appeared first on Nairametrics .",
-      "published": "2026-10-09T07:23:25+00:00",
-      "fetched": "2026-10-09T12:09:23.737941+00:00"
-    },
-    {
-      "id": "3df545d997eee5e7",
-      "title": "Lagos Life maker Vatar raises $500,000 one week after launch",
-      "link": "https://techcabal.com/2026/10/09/lagos-life-maker-vatar-raises-500000/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Vatar Inc., the company behind the viral Nigerian browser game Lagos Life, has closed a $500,000 angel round at a $10 million valuation.",
-      "published": "2026-10-09T07:17:46+00:00",
-      "fetched": "2026-10-09T12:09:25.317758+00:00"
-    },
-    {
-      "id": "11e26604fc79cbad",
-      "title": "FMDQ CEO pushes hedging products development before the next market shock",
-      "link": "https://nairametrics.com/2026/10/09/fmdq-ceo-pushes-hedging-products-development-before-the-next-market-shock/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Managing Director and Chief Executive Officer of FMDQ Group, Zeal Akaraiwe, has urged Nigerian regulators and market infrastructure institutions to develop deeper hedging markets while foreign exchange conditions remain stable, rather than waiting for another market shock. The post FMDQ CEO pushes hedging products development before the next market shock appeared first on Nairametrics .",
-      "published": "2026-10-09T06:50:02+00:00",
-      "fetched": "2026-10-09T12:09:23.737966+00:00"
-    },
-    {
-      "id": "17625844793f2a33",
-      "title": "AU: Meet South African researcher Sifiso Falala named AfCRA interim CEO",
-      "link": "https://nairametrics.com/2026/10/09/au-meet-south-african-researcher-sifiso-falala-named-afcra-interim-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "An accomplished South African researcher, Dr Sifiso Falala, has been named interim Chief Executive Officer (CEO) of the Africa Credit Rating Agency (AfCRA). The post AU: Meet South African researcher Sifiso Falala named AfCRA interim CEO appeared first on Nairametrics .",
-      "published": "2026-10-09T06:37:08+00:00",
-      "fetched": "2026-10-09T12:09:23.737987+00:00"
-    },
-    {
-      "id": "f5351abf117aa9cf",
-      "title": "Why Moove is leaving the Nigerian market it was built in",
-      "link": "https://techcabal.com/2026/10/09/moove-exits-nigeria-after-uber/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Moove's future is in robotaxi depots in the United States, so its Nigerian business, which had challenges, no longer represents a solid business.",
-      "published": "2026-10-09T06:30:00+00:00",
-      "fetched": "2026-10-09T12:09:25.317774+00:00"
-    },
-    {
-      "id": "71917637e5c21a01",
-      "title": "Government debt claims 80% of new and supplementary listings on NGX",
-      "link": "https://nairametrics.com/2026/10/09/government-debt-claims-80-of-new-and-supplementary-listings-on-ngx/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Government securities dominated new and supplementary listings on the Nigerian Exchange (NGX) in the first nine months of 2026, accounting for approximately N11.08 trillion, or 80% of the N13.86 trillion in identifiable listing value recorded during the period. The post Government debt claims 80% of new and supplementary listings on NGX appeared first on Nairametrics .",
-      "published": "2026-10-09T06:29:14+00:00",
-      "fetched": "2026-10-09T12:09:23.738011+00:00"
-    },
-    {
-      "id": "e1f7ceae73608f6b",
-      "title": "FAAN plans 25-day closure of Owerri airport runway for repairs, expansion",
-      "link": "https://nairametrics.com/2026/10/09/faan-plans-25-day-closure-of-owerri-airport-runway-for-repairs-expansion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Airports Authority of Nigeria (FAAN) has announced plans to temporarily close the runway at Sam Mbakwe International Cargo Airport in Owerri, Imo State, for 25 days to carry out essential repairs, resurfacing and expansion works. The post FAAN plans 25-day closure of Owerri airport runway for repairs, expansion appeared first on Nairametrics .",
-      "published": "2026-10-09T06:07:40+00:00",
-      "fetched": "2026-10-09T12:09:23.738035+00:00"
-    },
-    {
-      "id": "08b75b15cb5f426a",
-      "title": "👨🏿‍🚀TechCabal Daily – Moove-ing on",
-      "link": "https://techcabal.com/2026/10/09/techcabal-daily-mooving-on/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: PiggyVest, Class of 2016 Moove exits Nigeria SA offshore gambling plans Who secured the bag? 💰",
-      "published": "2026-10-09T06:01:29+00:00",
-      "fetched": "2026-10-09T12:09:25.317795+00:00"
-    },
-    {
-      "id": "ec44ec3ef7719c3d",
-      "title": "WTO raises 2026 global trade growth forecast to 3.9% despite Middle East war",
-      "link": "https://nairametrics.com/2026/10/09/wto-raises-2026-global-trade-growth-forecast-to-3-9-despite-middle-east-war/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The World Trade Organization (WTO) has raised its forecast for global merchandise trade growth to 3.9% in 2026 despite disruptions to international supply chains caused by the ongoing conflict in the Middle East. The post WTO raises 2026 global trade growth forecast to 3.9% despite Middle East war appeared first on Nairametrics .",
-      "published": "2026-10-09T05:59:18+00:00",
-      "fetched": "2026-10-09T12:09:23.738061+00:00"
-    },
-    {
-      "id": "19b6198bd048a2d3",
-      "title": "Nigeria’s state revenues rise 93% in real terms as capital spending expands — World Bank",
-      "link": "https://nairametrics.com/2026/10/09/nigerias-state-revenues-rise-93-in-real-terms-as-capital-spending-expands-world-bank/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "State government revenues in Nigeria rose by 93% in real terms between 2023 and 2025, while expenditure increased by 92%, as higher public receipts supported an expansion in capital spending, according to the World Bank. The post Nigeria’s state revenues rise 93% in real terms as capital spending expands — World Bank appeared first on Nairametrics .",
-      "published": "2026-10-09T05:47:33+00:00",
-      "fetched": "2026-10-09T12:09:23.738092+00:00"
-    },
-    {
-      "id": "419438e07911ce41",
-      "title": "Nigeria’s net foreign reserves rise to record $46 billion",
-      "link": "https://nairametrics.com/2026/10/09/nigerias-net-foreign-reserves-rise-to-record-46-billion-2/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s net foreign reserves have risen to $46 billion, while stability in the foreign exchange market is helping to strengthen investor confidence, Central Bank of Nigeria (CBN) Governor Olayemi Cardoso has said. The post Nigeria’s net foreign reserves rise to record $46 billion appeared first on Nairametrics .",
-      "published": "2026-10-09T05:27:55+00:00",
-      "fetched": "2026-10-09T12:09:23.738118+00:00"
-    },
-    {
-      "id": "9a4fbbee1ad2eea7",
-      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
-      "published": "2026-10-09T00:52:00+00:00",
-      "fetched": "2026-10-09T03:15:09.656117+00:00"
-    },
-    {
-      "id": "99579b47ad0b507b",
-      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Seven tips for painlessly moving in retirement.",
-      "published": "2026-10-09T00:03:00+00:00",
-      "fetched": "2026-10-09T03:15:09.656140+00:00"
-    },
-    {
-      "id": "8dfb7cd17057cede",
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-      "published": "2026-10-08T23:57:23+00:00",
-      "fetched": "2026-10-09T03:15:09.775899+00:00"
     }
   ]
 }
