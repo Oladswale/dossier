@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-11T21:07:13.703176+00:00",
+  "updated": "2026-10-12T02:48:35.173114+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e9138e604d7e0617",
+      "title": "Mortgage Rates Will Remain Above 7% Through 2027, Top Economist Forecasts",
+      "link": "https://www.realtor.com/news/trends/mortgage-rate-forecast-mba-fratantoni-2027/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "MBA Chief Economist Mike Fratantoni predicts mortgage rates will remain above 7% through next year, due to inflation and budget deficits.",
+      "published": "2026-10-11T23:23:48+00:00",
+      "fetched": "2026-10-12T02:48:35.172523+00:00"
+    },
     {
       "id": "7ac6b57b73555455",
       "title": "Price Cuts Are the Best Concession To Motivate First-Time Buyers, Survey Finds",
@@ -1492,16 +1502,6 @@
       "summary": "Homebuyers can retain control over their borrowing costs and gain up to $28,400 in purchasing power by taking proactive steps.",
       "published": "2026-10-01T09:00:00+00:00",
       "fetched": "2026-10-01T11:54:15.546112+00:00"
-    },
-    {
-      "id": "f72d2a9c136b3dca",
-      "title": "‘Buying New Construction Meant I Could Score a 5.25% Mortgage Rate—and $30K in Incentives’",
-      "link": "https://www.realtor.com/news/first-person/buying-new-construction-incentives-mortgage-buydowns/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "When a new-construction home within his price range popped up, this homebuyer switched focus—and saved big on his mortgage.",
-      "published": "2026-10-01T08:33:00+00:00",
-      "fetched": "2026-10-01T11:54:15.546146+00:00"
     }
   ]
 }
