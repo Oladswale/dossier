@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-13T04:04:40.702639+00:00",
+  "updated": "2026-10-13T13:01:14.934211+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2358e4e0dfbaeb72",
+      "title": "The Names of Nearly 4 Million Enslaved People in Former British Colonies Are Now Searchable Online, Helping Descendants Find Lost Ancestors",
+      "link": "https://www.openculture.com/2026/10/names-of-nearly-4-million-enslaved-people-in-former-british-colonies-are-searchable-online.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "A few years ago, we featured here on Open Culture the Freedmen’s Bureau Project database, which contains searchable information on formerly enslaved people in the United States after its Civil War. With nearly 1.8 million men, women, and children registered there when it first opened to the public, it has remained a valuable resource for [ ]",
+      "published": "2026-10-13T09:02:36+00:00",
+      "fetched": "2026-10-13T13:01:14.933995+00:00"
+    },
+    {
+      "id": "75099b22c4dceb51",
+      "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",
+      "link": "https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new approach can program these cells inside the body and shows promise against diseases caused by dysfunctional T cells, including lymphoma and autoimmune hepatitis.",
+      "published": "2026-10-13T09:00:00+00:00",
+      "fetched": "2026-10-13T13:01:10.864460+00:00"
+    },
+    {
+      "id": "1a9f0556bcc3e4a7",
+      "title": "The Bialetti Moka Express: The History of Italy’s Iconic Coffee Maker, and How to Use It the Right Way",
+      "link": "https://www.openculture.com/2026/10/how-to-use-the-bialetti-moka-pot-the-right-way.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "I am sure that many an Open Culture reader has a Bialetti Moka Express in their kitchen. I know I do, but I must add that I knew little about its history and apparently even less about how to properly use one. Coffee expert and author of The World Atlas of Coffee James Hoffmann introduces [ ]",
+      "published": "2026-10-13T08:00:20+00:00",
+      "fetched": "2026-10-13T13:01:14.934034+00:00"
+    },
     {
       "id": "597d6ef3379de963",
       "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
@@ -1472,36 +1502,6 @@
       "summary": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be achieved, scientists report.",
       "published": "2026-09-02T14:00:00+00:00",
       "fetched": "2026-09-02T15:25:56.610949+00:00"
-    },
-    {
-      "id": "b24e6b8722faddfd",
-      "title": "How Leonardo da Vinci’s Procrastination Contributed to His Creativity",
-      "link": "https://www.openculture.com/2026/09/how-leonardo-da-vincis-procrastination-contributed-to-his-creativity.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "At the height of their productivity as Beatles, neither Paul McCartney nor John Lennon could read or write music notation. Clearly it didn’t keep them from making a cultural impact, and as with so much else in life, they regarded it humorously. As McCartney has said, they used to liken themselves to ancient Egyptian pharaohs, [ ]",
-      "published": "2026-09-02T09:00:44+00:00",
-      "fetched": "2026-09-02T10:01:22.921411+00:00"
-    },
-    {
-      "id": "0311fdc5a9b6d792",
-      "title": "Watch the Completely Unsafe, Vertigo-Inducing Footage of Workers Building New York’s Iconic Skyscrapers",
-      "link": "https://www.openculture.com/2026/09/watch-the-footage-of-workers-building-new-yorks-iconic-skyscrapers.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Would anyone in their right mind sign up for a job that had a high risk of mortality/disability? Or a job where red hot metal is being hurled directly at your face? Back in the 1920s this was the lot of the men who built New York’s skyline, the men who constructed the Chrysler Building [ ]",
-      "published": "2026-09-02T08:00:15+00:00",
-      "fetched": "2026-09-02T10:01:22.921473+00:00"
-    },
-    {
-      "id": "80d9cc8b529af519",
-      "title": "Walter Torous named executive director of MIT Center for Real Estate",
-      "link": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
-      "published": "2026-09-01T21:25:00+00:00",
-      "fetched": "2026-09-02T01:35:35.564019+00:00"
     }
   ]
 }

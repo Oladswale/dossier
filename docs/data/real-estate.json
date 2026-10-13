@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-13T04:04:41.627292+00:00",
+  "updated": "2026-10-13T13:01:15.583410+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "afa0fc44afe56eb8",
+      "title": "Nearly Half of Buyers Get Concessions as Fed Warns Prices Must Drop",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-468",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "A Fed official says what we’re all thinking: home prices must drop—and sellers seem to have gotten the message. Per a recent Redfin report, 44.7% of home sales included seller [ ]",
+      "published": "2026-10-13T11:00:41+00:00",
+      "fetched": "2026-10-13T13:01:15.293406+00:00"
+    },
+    {
+      "id": "e5282d7a7851fd77",
+      "title": "Florida Could Cut Property Taxes to Zero for Millions—but Experts Warn of a Big Catch for Buyers",
+      "link": "https://www.realtor.com/news/real-estate-news/florida-homestead-tax-exemption-impact-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Voters are three weeks from deciding whether to radically reform the state's property tax system. Here's what it means.",
+      "published": "2026-10-13T09:00:00+00:00",
+      "fetched": "2026-10-13T13:01:15.582908+00:00"
+    },
+    {
+      "id": "86c45d910670562d",
+      "title": "Inside a NYC $80 Million Megamansion: Cold Plunge, Garage Bar, and Wine Cellar",
+      "link": "https://www.realtor.com/news/unique-homes/80-million-upper-east-side-mansion-most-expensive/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "This $80 million Upper East Side mansion with a 6,000-bottle wine cellar is among the most expensive listings this week.",
+      "published": "2026-10-13T08:17:00+00:00",
+      "fetched": "2026-10-13T13:01:15.582933+00:00"
+    },
     {
       "id": "f21351a9ace6cfc6",
       "title": "Credit Score Shake-Up Could Help Millions Buy a Home—but Lenders Say There’s a Hidden Risk",
@@ -1472,36 +1502,6 @@
       "summary": "The U.S. economy added just 29,000 jobs in September, well below economists' forecasts, as the unemployment rate increased.",
       "published": "2026-10-02T13:13:11+00:00",
       "fetched": "2026-10-02T16:53:08.671578+00:00"
-    },
-    {
-      "id": "d5c75febf3fd7020",
-      "title": "7 Real Estate Tax Benefits to Supercharge Your Rental Returns in 2027",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1338",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "We’re always talking about cash flow, appreciation, and loan paydown, but tax benefits are some of the most understated and overlooked advantages of real estate investing. Do you want to [ ]",
-      "published": "2026-10-02T11:00:44+00:00",
-      "fetched": "2026-10-02T16:53:08.294979+00:00"
-    },
-    {
-      "id": "40d0b1e8e8d728e8",
-      "title": "How Much Should a House Hack Make in 2027? (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-778",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Can the numbers on your house hack still work when your tenant s rent doesn t come close to covering the mortgage? And if it won t cash flow, how much should a [ ]",
-      "published": "2026-10-02T11:00:41+00:00",
-      "fetched": "2026-10-02T16:53:08.295027+00:00"
-    },
-    {
-      "id": "c15a1e753c5b89ce",
-      "title": "Homebuyers Gain the Upper Hand as Active Listings Surge—With the Biggest Increases in These 3 Cities",
-      "link": "https://www.realtor.com/news/trends/homebuyers-gain-upper-hand-inventory-surge-report-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Despite rising mortgage rates, resilient buyers are gaining leverage due to a nationwide surge in inventory.",
-      "published": "2026-10-02T09:00:00+00:00",
-      "fetched": "2026-10-02T11:26:16.461180+00:00"
     }
   ]
 }
