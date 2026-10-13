@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-12T23:51:48.290995+00:00",
+  "updated": "2026-10-13T04:04:40.702639+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "597d6ef3379de963",
+      "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
+      "link": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Deb Roy contends there should be someone who is “answerable” for every piece of text in public life, no matter its origins.",
+      "published": "2026-10-13T04:00:00+00:00",
+      "fetched": "2026-10-13T04:04:39.743262+00:00"
+    },
+    {
+      "id": "e6e5af334d49868a",
+      "title": "Exploring how plants thrive in a changing environment",
+      "link": "https://news.mit.edu/2026/exploring-how-plants-thrive-david-des-marais-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Associate Professor David Des Marais studies how plants interact with their surroundings and adapt over time.",
+      "published": "2026-10-13T04:00:00+00:00",
+      "fetched": "2026-10-13T04:04:39.743297+00:00"
+    },
     {
       "id": "7152b284f6b73145",
       "title": "Economists Robert Hall PhD ’67 and Michael Woodford PhD ’83 share Nobel Prize",
@@ -1482,26 +1502,6 @@
       "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
       "published": "2026-09-01T21:25:00+00:00",
       "fetched": "2026-09-02T01:35:35.564019+00:00"
-    },
-    {
-      "id": "583204af794ebfdd",
-      "title": "Cognition and consciousness arise from analog computations, says new theory",
-      "link": "https://news.mit.edu/2026/cognition-consciousness-arise-from-analog-computations-says-new-theory-0901",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The brain's ability to generate quick, nimble volitional thought — and a unified awareness of thought and experience — arises from analog computations, MIT neuroscientists argue in a new review.",
-      "published": "2026-09-01T20:35:00+00:00",
-      "fetched": "2026-09-02T01:35:35.564063+00:00"
-    },
-    {
-      "id": "89628394214bfc96",
-      "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
-      "link": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new study reveals insights into populations of neurons affected by Huntington’s disease, schizophrenia, addiction, and other disorders.",
-      "published": "2026-09-01T15:00:00+00:00",
-      "fetched": "2026-09-01T15:37:41.927420+00:00"
     }
   ]
 }

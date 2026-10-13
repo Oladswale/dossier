@@ -1,8 +1,48 @@
 {
   "category": "finance",
-  "updated": "2026-10-12T23:51:31.950649+00:00",
+  "updated": "2026-10-13T04:04:28.576134+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1e3ad2a5a57b8667",
+      "title": "BREAKING: IMF raises Nigeria’s growth forecast to 4.2%, acknowledges Nigerians are suffering",
+      "link": "https://nairametrics.com/2026/10/13/imf-raises-nigerias-growth-forecast-to-4-2-acknowledges-nigerians-are-suffering/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The IMF also called for immediate relief from rising food and energy costs stating that they are mindful that Nigerians are suffering. The post BREAKING: IMF raises Nigeria’s growth forecast to 4.2%, acknowledges Nigerians are suffering appeared first on Nairametrics .",
+      "published": "2026-10-13T03:53:14+00:00",
+      "fetched": "2026-10-13T04:04:27.958029+00:00"
+    },
+    {
+      "id": "f18a997fad827ddb",
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+      "published": "2026-10-13T02:00:00+00:00",
+      "fetched": "2026-10-13T04:04:27.456196+00:00"
+    },
+    {
+      "id": "e2168145f72f37f1",
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+      "published": "2026-10-13T01:26:41+00:00",
+      "fetched": "2026-10-13T04:04:27.664364+00:00"
+    },
+    {
+      "id": "4a2bbd7e7a8a400e",
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+      "published": "2026-10-13T00:18:00+00:00",
+      "fetched": "2026-10-13T04:04:27.456244+00:00"
+    },
     {
       "id": "6f99fe1d9b475b87",
       "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
@@ -1462,46 +1502,6 @@
       "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
       "published": "2026-10-09T12:01:26+00:00",
       "fetched": "2026-10-09T21:54:41.166605+00:00"
-    },
-    {
-      "id": "393f6ca1f240bb3e",
-      "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
-      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
-      "published": "2026-10-09T11:41:00+00:00",
-      "fetched": "2026-10-09T12:09:23.219667+00:00"
-    },
-    {
-      "id": "a1a601fe970a4163",
-      "title": "Google Opens AI content detection tool to users worldwide",
-      "link": "https://nairametrics.com/2026/10/09/google-opens-ai-content-detection-tool-to-users-worldwide/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Google has expanded access to its SynthID Detector, allowing people worldwide to check images, videos and audio files for signs that they were generated using artificial intelligence (AI). The post Google Opens AI content detection tool to users worldwide appeared first on Nairametrics .",
-      "published": "2026-10-09T11:37:34+00:00",
-      "fetched": "2026-10-09T12:09:23.737692+00:00"
-    },
-    {
-      "id": "14fb73c9c0080d77",
-      "title": "What a banker discovered when he started listening to farmers",
-      "link": "https://techcabal.com/2026/10/09/watson-matsa-banks-understand-african/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Don’t get Watson Matsa started on farmers and banks, as we did. He talks on why banks don’t understand farmers from an insider point of view.",
-      "published": "2026-10-09T11:18:29+00:00",
-      "fetched": "2026-10-09T12:09:25.317717+00:00"
-    },
-    {
-      "id": "0fa724af556e180d",
-      "title": "What Should Nigerian Businesses Look for in an International Payments Partner?",
-      "link": "https://nairametrics.com/2026/10/09/what-should-nigerian-businesses-look-for-in-an-international-payments-partner/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Every Nigerian founder who sells, sources, or hires across borders eventually hits the same wall. The money leaves, or is supposed to arrive, and then it disappears into a chain of intermediaries nobody can explain. A supplier in Guangzhou says the wire never landed.",
-      "published": "2026-10-09T10:51:40+00:00",
-      "fetched": "2026-10-09T12:09:23.737732+00:00"
     }
   ]
 }
