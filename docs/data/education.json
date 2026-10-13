@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-10-13T13:01:14.934211+00:00",
+  "updated": "2026-10-13T22:00:33.718709+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7820b2aa87939755",
+      "title": "Hiroshi Ishii honored for contributions to global design and human-computer interaction",
+      "link": "https://news.mit.edu/2026/hiroshi-ishii-honored-for-contributions-global-design-human-computer-interaction-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT Media Lab professor received the IDSA Special Achievement Award for three decades of research integrating physical and digital environments.",
+      "published": "2026-10-13T21:10:00+00:00",
+      "fetched": "2026-10-13T22:00:32.765600+00:00"
+    },
+    {
+      "id": "7e33a8cad60c3aa4",
+      "title": "How artificial neural networks build their own learning machinery",
+      "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.",
+      "published": "2026-10-13T21:00:00+00:00",
+      "fetched": "2026-10-13T22:00:32.765637+00:00"
+    },
+    {
+      "id": "bf8c5eb9b9e4d430",
+      "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
+      "link": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT Lincoln Laboratory hosted the National Security Commission on Emerging Biotechnology (NSCEB) on Sept. 3, for a stop on its national roadshow. Advancing Massachusetts as a defense-biotechnology hub Massachusetts has identified biotechnology as a priority technology area under its Strategic Hub for Innovation, Exchange, and Leadership in Defense (SHIELD) initiative.",
+      "published": "2026-10-13T20:40:00+00:00",
+      "fetched": "2026-10-13T22:00:32.767006+00:00"
+    },
+    {
+      "id": "8c396f96cf6e2896",
+      "title": "MIT Farm is growing",
+      "link": "https://news.mit.edu/2026/mit-farm-growing-1013",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Co-founders Aleks Banaś and Zachary Rapaport see architecture and farming as deeply complementary disciplines. Their nascent club is having a sizeable impact at the Institute.",
+      "published": "2026-10-13T19:30:00+00:00",
+      "fetched": "2026-10-13T22:00:32.767048+00:00"
+    },
     {
       "id": "2358e4e0dfbaeb72",
       "title": "The Names of Nearly 4 Million Enslaved People in Former British Colonies Are Now Searchable Online, Helping Descendants Find Lost Ancestors",
@@ -102,6 +142,16 @@
       "summary": "David Byrne will always be most widely known as the co-founder and frontman of Talking Heads. That may count among the greatest possible achievements for any artist — to the minds of many an Open Culture reader, at least — but it must occasionally frustrate the man himself. Talking Heads broke up 35 years ago, [ ]",
       "published": "2026-10-09T08:00:52+00:00",
       "fetched": "2026-10-09T12:09:36.687783+00:00"
+    },
+    {
+      "id": "41e6b9c640fef8af",
+      "title": "3 Questions: What is the best path forward for AI in academia?",
+      "link": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
+      "published": "2026-10-08T21:25:00+00:00",
+      "fetched": "2026-10-13T22:00:32.767110+00:00"
     },
     {
       "id": "899064e7525d5491",
@@ -332,6 +382,16 @@
       "summary": "Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to transportation and other multifaceted systems.",
       "published": "2026-10-02T19:30:00+00:00",
       "fetched": "2026-10-02T21:28:46.282819+00:00"
+    },
+    {
+      "id": "564d49f4c7ae34a0",
+      "title": "Documenting the tech worker movement",
+      "link": "https://news.mit.edu/2026/documenting-tech-worker-movement-1002",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed.",
+      "published": "2026-10-02T17:00:00+00:00",
+      "fetched": "2026-10-13T22:00:32.767230+00:00"
     },
     {
       "id": "31d04b5f6447ea31",
@@ -1442,66 +1502,6 @@
       "summary": "In some rare cases, adaptations and interpretations of a literary work can surpass the source. Despite hundreds of valiant efforts on the part of fans, filmmakers, game/toy designers, and radio producers, this has never been true of the fully-realized fantasy world in J.R.R. Tolkien’s The Hobbit and The Lord of the Rings trilogy (not that it’s ever [ ]",
       "published": "2026-09-03T08:00:51+00:00",
       "fetched": "2026-09-03T10:11:36.672770+00:00"
-    },
-    {
-      "id": "d2bb497c42f1e142",
-      "title": "New qubit architecture enables faster, more accurate operations",
-      "link": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "This advance could be a big step toward developing a scalable, practical quantum computer.",
-      "published": "2026-09-03T04:00:00+00:00",
-      "fetched": "2026-09-03T10:11:34.839043+00:00"
-    },
-    {
-      "id": "69ba213b99074734",
-      "title": "Giving farmers a more sustainable way to protect crops",
-      "link": "https://news.mit.edu/2026/robigo-gives-farmers-more-sustainable-way-protect-crops-0903",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Led by Andee Wallace PhD ’20, Robigo uses cutting-edge biotechnology to engineer microbes to fight pests, reducing the need for harmful chemical pesticides.",
-      "published": "2026-09-03T04:00:00+00:00",
-      "fetched": "2026-09-03T10:11:34.839085+00:00"
-    },
-    {
-      "id": "a7affe07896ceebc",
-      "title": "Building foundations that last",
-      "link": "https://news.mit.edu/2026/building-foundations-that-last-iwnetim-abate-0902",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Assistant Professor Iwnetim Abate creates space for ambitious research and sustainable growth for his graduate students.",
-      "published": "2026-09-02T20:35:00+00:00",
-      "fetched": "2026-09-03T01:39:10.481536+00:00"
-    },
-    {
-      "id": "8f86b204b6a08e39",
-      "title": "From MIT to IBM, expediting AI and quantum deployment",
-      "link": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
-      "published": "2026-09-02T20:25:00+00:00",
-      "fetched": "2026-09-03T01:39:10.481563+00:00"
-    },
-    {
-      "id": "956e3afce488ead3",
-      "title": "System helps humans predict when self-driving cars will make mistakes",
-      "link": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
-      "published": "2026-09-02T15:00:00+00:00",
-      "fetched": "2026-09-02T15:25:56.610913+00:00"
-    },
-    {
-      "id": "0e6f757eaedb5dea",
-      "title": "New research shows a neutrino laser is impossible",
-      "link": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be achieved, scientists report.",
-      "published": "2026-09-02T14:00:00+00:00",
-      "fetched": "2026-09-02T15:25:56.610949+00:00"
     }
   ]
 }

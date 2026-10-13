@@ -1,8 +1,278 @@
 {
   "category": "finance",
-  "updated": "2026-10-13T13:00:52.370949+00:00",
+  "updated": "2026-10-13T22:00:17.288170+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9f35071e452474e0",
+      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
+      "published": "2026-10-13T21:02:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255530+00:00"
+    },
+    {
+      "id": "cbbdb05c615e7c37",
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+      "published": "2026-10-13T21:01:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255578+00:00"
+    },
+    {
+      "id": "b4dec5df2a470997",
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+      "published": "2026-10-13T20:48:37+00:00",
+      "fetched": "2026-10-13T21:59:59.604572+00:00"
+    },
+    {
+      "id": "8baa712e57b27946",
+      "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
+      "published": "2026-10-13T20:41:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255617+00:00"
+    },
+    {
+      "id": "d1e42cc0c9e84cdd",
+      "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns.",
+      "published": "2026-10-13T20:32:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255645+00:00"
+    },
+    {
+      "id": "b0672bd57051c98e",
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "published": "2026-10-13T20:30:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255674+00:00"
+    },
+    {
+      "id": "c54260f2443fc9ae",
+      "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
+      "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
+      "published": "2026-10-13T20:27:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255714+00:00"
+    },
+    {
+      "id": "cf39b4a326ba028e",
+      "title": "Micron’s stock extends declines as China competition heats up",
+      "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
+      "published": "2026-10-13T20:25:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255735+00:00"
+    },
+    {
+      "id": "60e066bbef7c583e",
+      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "published": "2026-10-13T20:16:00+00:00",
+      "fetched": "2026-10-13T21:59:59.255760+00:00"
+    },
+    {
+      "id": "0c6284aeca53905e",
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
+      "published": "2026-10-13T19:46:12+00:00",
+      "fetched": "2026-10-13T21:59:59.604540+00:00"
+    },
+    {
+      "id": "9eaaa69b40d1fd09",
+      "title": "NGX sheds N144.54 billion as bearish pressure persists",
+      "link": "https://nairametrics.com/2026/10/13/ngx-sheds-n144-54-billion-as-bearish-pressure-persists/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Bearish sentiment extended its grip on the Nigerian Exchange (NGX) on Tuesday, October 13, 2026, pulling equity market capitalization down by N144.54 billion in a single trading session. The post NGX sheds N144.54 billion as bearish pressure persists appeared first on Nairametrics .",
+      "published": "2026-10-13T18:33:47+00:00",
+      "fetched": "2026-10-13T22:00:16.585812+00:00"
+    },
+    {
+      "id": "c07c1043023599b7",
+      "title": "US denies 35,767 work permits to Green Card applicants as rejection rate rises to 44%",
+      "link": "https://nairametrics.com/2026/10/13/us-denies-35767-work-permits-to-green-card-applicants-as-rejection-rate-rises-to-44/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The United States Citizenship and Immigration Services (USCIS) denied 35,767 work permit applications from foreign nationals seeking Green Cards between April and June 2026, as the rejection rate climbed to 44%. The post US denies 35,767 work permits to Green Card applicants as rejection rate rises to 44% appeared first on Nairametrics .",
+      "published": "2026-10-13T18:25:42+00:00",
+      "fetched": "2026-10-13T22:00:16.585858+00:00"
+    },
+    {
+      "id": "d203cb44367161b5",
+      "title": "Nigeria risks losing $1 billion in annual export earnings over EU rules – NEPC",
+      "link": "https://nairametrics.com/2026/10/13/nigeria-risks-losing-1-billion-in-annual-export-earnings-over-eu-rules-nepc/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria risks losing more than $1 billion in annual export earnings if exporters fail to comply with the European Union Deforestation Regulation (EUDR), the Nigerian Export Promotion Council (NEPC) has warned. The post Nigeria risks losing $1 billion in annual export earnings over EU rules – NEPC appeared first on Nairametrics .",
+      "published": "2026-10-13T17:36:25+00:00",
+      "fetched": "2026-10-13T22:00:16.585911+00:00"
+    },
+    {
+      "id": "d96c19b67d302d32",
+      "title": "CashAfrica brings mobile tap-to-pay to Chicken Republic outlets",
+      "link": "https://techcabal.com/2026/10/13/cashafrica-chicken-republic-partnership/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "CashAfrica now enables customers make payments by tapping their smartphones on payment terminals at Chicken Republic outlets.",
+      "published": "2026-10-13T17:36:15+00:00",
+      "fetched": "2026-10-13T22:00:17.287874+00:00"
+    },
+    {
+      "id": "36668bee6db2ad18",
+      "title": "Netflix enters football’s most valuable market with landmark 2030 World Cup deal",
+      "link": "https://nairametrics.com/2026/10/13/netflix-enters-footballs-most-valuable-market-with-landmark-2030-world-cup-deal/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Netflix has secured exclusive broadcasting rights for the 2030 FIFA Men’s World Cup in Spain and Andorra, marking a significant expansion of the streaming company’s sports business as competition for premium live sporting events intensifies. The post Netflix enters football’s most valuable market with landmark 2030 World Cup deal appeared first on Nairametrics .",
+      "published": "2026-10-13T16:12:42+00:00",
+      "fetched": "2026-10-13T22:00:16.585969+00:00"
+    },
+    {
+      "id": "10302296ea8dd759",
+      "title": "Fortis Global’s 805% rally in 9 months shrinks to 126% after adjustment",
+      "link": "https://nairametrics.com/2026/10/13/fortis-globals-805-rally-in-9-months-shrinks-to-126-after-adjustment/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Fortis Global Insurance Plc emerged as the best-performing stock on the Nigerian Exchange in the first nine months of 2026, with its share price rising 805% from 20 kobo at the end of 2025 to N1.81 by September 30. The post Fortis Global’s 805% rally in 9 months shrinks to 126% after adjustment appeared first on Nairametrics .",
+      "published": "2026-10-13T15:55:32+00:00",
+      "fetched": "2026-10-13T22:00:16.586016+00:00"
+    },
+    {
+      "id": "af536ceab55e0168",
+      "title": "This Kenyan founder built a tool to help startups find funding faster",
+      "link": "https://techcabal.com/2026/10/13/startup-map-hub-to-help-founders-raise/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Launched in October 2025, Startup Map Hub helps founders find funding opportunities, check their eligibility, and prepare applications.",
+      "published": "2026-10-13T15:45:49+00:00",
+      "fetched": "2026-10-13T22:00:17.287908+00:00"
+    },
+    {
+      "id": "02da210fe1ae5aee",
+      "title": "Daraju CP offers 23% return: Is the extra income worth the risk?",
+      "link": "https://nairametrics.com/2026/10/13/daraju-cp-offers-23-return-is-the-extra-income-worth-the-risk/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Daraju Industries Limited has opened an offer of up to N10 billion Series 4 Commercial Paper under its N50 billion Commercial Paper Programme. The post Daraju CP offers 23% return: Is the extra income worth the risk? appeared first on Nairametrics .",
+      "published": "2026-10-13T15:38:48+00:00",
+      "fetched": "2026-10-13T22:00:16.586052+00:00"
+    },
+    {
+      "id": "e60d502b837896d4",
+      "title": "Amaanah non-interest finance company officially launches, opens new pathways to ethical finance and financial inclusion",
+      "link": "https://nairametrics.com/2026/10/13/amaanah-non-interest-finance-company-officially-launches-opens-new-pathways-to-ethical-finance-and-financial-inclusion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Amaanah Non-Interest Finance Company, the first CBN-licensed Non-Interest Finance Company in Nigeria, officially launched today the 1st of October 2026 in Lagos, unveiling a range of financial solutions designed to expand access to ethical finance and create practical pathways for individuals and businesses to build assets, grow and pursue greater financial independence. The company was [ ] The post Amaanah non-interest finance company officially launches, opens new pathways to ethical finance and financial inclusion appeared first on Nairametrics .",
+      "published": "2026-10-13T15:38:40+00:00",
+      "fetched": "2026-10-13T22:00:16.586102+00:00"
+    },
+    {
+      "id": "20ff8b1e743eb469",
+      "title": "Africa Bitcoin Corporation’s boardroom battle leaves just two directors standing",
+      "link": "https://techcabal.com/2026/10/13/africa-bitcoin-corporation-boardroom-war/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Africa Bitcoin Corporation is left with two directors after four resign amid a shareholder dispute over board appointments, while regulatory findings continue to cloud the company’s leadership.",
+      "published": "2026-10-13T15:36:21+00:00",
+      "fetched": "2026-10-13T22:00:17.287955+00:00"
+    },
+    {
+      "id": "ab3d755c877913c9",
+      "title": "Dangote Refinery’s Ebitda hits $5.5 billion as 9-month profit surges to $4.73 billion",
+      "link": "https://nairametrics.com/2026/10/13/dangote-refinerys-ebitda-hits-5-5-billion-as-9-month-profit-surges-to-4-73-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Petroleum Refinery and Petrochemicals FZE has released its financial results for the nine months ended September 30, 2026, reporting a net profit of $4.73 billion, compared with a net loss of $117.2 million recorded in the corresponding period of 2025. The post Dangote Refinery s Ebitda hits $5.5 billion as 9-month profit surges to $4.73 billion appeared first on Nairametrics .",
+      "published": "2026-10-13T15:31:17+00:00",
+      "fetched": "2026-10-13T22:00:16.586146+00:00"
+    },
+    {
+      "id": "77f0c2175dacb0ad",
+      "title": "Nigerians used 90% of 2025’s internet data volume in eight months",
+      "link": "https://techcabal.com/2026/10/13/nigerians-2026-internet-data-consumption/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigerians used 90% of 2025’s internet data in eight months, putting pressure on telecom operators to expand capacity and maintain reliable connections.",
+      "published": "2026-10-13T15:08:30+00:00",
+      "fetched": "2026-10-13T22:00:17.287985+00:00"
+    },
+    {
+      "id": "0315c9dbf7247a1b",
+      "title": "Ewa launches deal room grant pool to put more capital behind africa’s creative businesses",
+      "link": "https://nairametrics.com/2026/10/13/ewa-launches-deal-room-grant-pool-to-put-more-capital-behind-africas-creative-businesses/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Entertainment Week Africa is introducing a grant pool for standout businesses in its 2026 Deal Room, expanding a programme designed to connect creative businesses with investors, mentors and commercial opportunities. Entertainment Week Africa (EWA) is introducing a new Deal Room Grant Pool for its 2026 edition, creating a direct funding opportunity for standout creative businesses [ ] The post Ewa launches deal room grant pool to put more capital behind africa s creative businesses appeared first on Nairametrics .",
+      "published": "2026-10-13T14:32:48+00:00",
+      "fetched": "2026-10-13T22:00:16.586196+00:00"
+    },
+    {
+      "id": "0f2d6ef9157755f8",
+      "title": "Nigeria’s oil output hits 1.53 million bpd, maintains OPEC quota for fifth month",
+      "link": "https://nairametrics.com/2026/10/13/nigerias-oil-output-hits-1-53-million-bpd-maintains-opec-quota-for-fifth-month/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria maintained compliance with its production quota set by the Organization of the Petroleum Exporting Countries (OPEC) for the fifth consecutive month in September, as crude oil output rose to 1.53 million barrels per day (bpd) from 1.50 million bpd in August. The post Nigeria’s oil output hits 1.53 million bpd, maintains OPEC quota for fifth month appeared first on Nairametrics .",
+      "published": "2026-10-13T14:18:56+00:00",
+      "fetched": "2026-10-13T22:00:16.586244+00:00"
+    },
+    {
+      "id": "5f544c0236e5445a",
+      "title": "eTranzact announces Board changes following ownership transition",
+      "link": "https://nairametrics.com/2026/10/13/etranzact-announces-board-changes-following-ownership-transition/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "eTranzact International Plc has announced changes to the composition of its Board of Directors following the completion of a shareholding transaction that resulted in a change in the Company s majority ownership structure. In a notification to Nigerian Exchange Limited (NGX) and the investing public, the Company disclosed that Access Bank Plc, Meristem Trustees Limited (as [ ] The post eTranzact announces Board changes following ownership transition appeared first on Nairametrics .",
+      "published": "2026-10-13T13:47:25+00:00",
+      "fetched": "2026-10-13T22:00:16.586289+00:00"
+    },
+    {
+      "id": "62c4e1f931586de2",
+      "title": "Sunbeth global concepts announces ₦150 billion commercial paper issuance to support 2026/27 cocoa season procurement",
+      "link": "https://nairametrics.com/2026/10/13/sunbeth-global-concepts-announces-%e2%82%a6150-billion-commercial-paper-issuance-to-support-2026-27-cocoa-season-procurement/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sunbeth Global Concepts Limited has announced plans to raise up to ₦150 billion under its approved ₦500 billion Commercial Paper Issuance Programme to finance cocoa procurement for the new 2026/27 cocoa season. The proceeds will fund short-term working capital requirements for cocoa purchases at origin, supporting the company’s international trading commitments and the procurement of [ ] The post Sunbeth global concepts announces ₦150 billion commercial paper issuance to support 2026/27 cocoa season procurement appeared first on Nairametrics .",
+      "published": "2026-10-13T13:45:04+00:00",
+      "fetched": "2026-10-13T22:00:16.586349+00:00"
+    },
+    {
+      "id": "7fec9440284aad8b",
+      "title": "NIBSS adopts Transactility’s jPOS technology for National Payment Stack",
+      "link": "https://nairametrics.com/2026/10/13/nibss-adopts-ransactilitys-jpos-technology-for-national-payment-stack/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigeria Inter-Bank Settlement System (NIBSS) has adopted payment processing technology from Transactility Inc. to develop its National Payment Stack (NPS), a next-generation instant payments platform designed to support Nigeria’s evolving payments ecosystem. The post NIBSS adopts Transactility s jPOS technology for National Payment Stack appeared first on Nairametrics .",
+      "published": "2026-10-13T13:14:06+00:00",
+      "fetched": "2026-10-13T22:00:16.586395+00:00"
+    },
     {
       "id": "c4e131d44c8061c9",
       "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
@@ -42,6 +312,16 @@
       "summary": "eTranzact International Plc has reshaped its board following Trademarks Global Concepts Limited’s acquisition of a controlling 56.18% stake in the company. The post eTranzact board reshaped as Trademarks acquires controlling stake appeared first on Nairametrics .",
       "published": "2026-10-13T12:28:52+00:00",
       "fetched": "2026-10-13T13:00:50.761918+00:00"
+    },
+    {
+      "id": "9742f4b2782a65b6",
+      "title": "Berkshire Opens Money Market Fund to Investors With N10,000 Minimum Subscription",
+      "link": "https://nairametrics.com/2026/10/13/new-money-market-fund-opens-to-investors-with-minimum-n10000-subscription/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Berkshire Asset Management Limited has opened subscriptions for its N2 billion Money Market Fund, allowing retail and institutional investors to participate with a minimum investment of N10,000. The post Berkshire Opens Money Market Fund to Investors With N10,000 Minimum Subscription appeared first on Nairametrics .",
+      "published": "2026-10-13T12:15:27+00:00",
+      "fetched": "2026-10-13T22:00:16.586438+00:00"
     },
     {
       "id": "7d04ec24d2e14098",
@@ -1222,286 +1502,6 @@
       "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
       "published": "2026-10-10T19:44:00+00:00",
       "fetched": "2026-10-10T20:45:47.321022+00:00"
-    },
-    {
-      "id": "f88132c0d7f7135e",
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "fetched": "2026-10-10T20:45:47.321042+00:00"
-    },
-    {
-      "id": "38ada350f7d6cf1b",
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "fetched": "2026-10-10T20:45:47.321060+00:00"
-    },
-    {
-      "id": "ea31df1cdea25197",
-      "title": "Dangote Refinery IPO: How United Capital is taking Nigeria’s Biggest Investment Opportunity Beyond Its Borders",
-      "link": "https://nairametrics.com/2026/10/10/dangote-refinery-ipo-how-united-capital-is-taking-nigerias-biggest-investment-opportunity-beyond-its-borders/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For most of the last four decades, Nigeria has lived with an uncomfortable contradiction. As Africa s largest crude oil producer, it shipped barrels out to the world and bought back the petrol, diesel and aviation fuel that kept its economy running. Its state-owned refineries in Port Harcourt, Warri and Kaduna spent years running far below [ ] The post Dangote Refinery IPO: How United Capital is taking Nigeria’s Biggest Investment Opportunity Beyond Its Borders appeared first on Nairametrics .",
-      "published": "2026-10-10T17:37:53+00:00",
-      "fetched": "2026-10-10T20:45:47.906859+00:00"
-    },
-    {
-      "id": "97113f2da161190b",
-      "title": "SEC disowns WayvePay, warns Nigerians against investing through platform",
-      "link": "https://nairametrics.com/2026/10/10/sec-disowns-wayvepay-warns-nigerians-against-investing-through-platform/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Securities and Exchange Commission (SEC) has disowned online investment platform WayvePay, warning Nigerians against investing through the company over concerns about suspected fraudulent activities. The post SEC disowns WayvePay, warns Nigerians against investing through platform appeared first on Nairametrics .",
-      "published": "2026-10-10T17:10:51+00:00",
-      "fetched": "2026-10-10T20:45:47.906898+00:00"
-    },
-    {
-      "id": "6404e582bd1193ae",
-      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-      "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
-      "published": "2026-10-10T16:50:00+00:00",
-      "fetched": "2026-10-10T20:45:47.321093+00:00"
-    },
-    {
-      "id": "8c7693bdad4e0b9f",
-      "title": "Best performing balanced mutual funds in Nigeria as of September 2026",
-      "link": "https://nairametrics.com/2026/10/10/best-performing-balanced-mutual-funds-in-nigeria-as-of-september-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's balanced mutual fund segment recorded a strong increase in net asset value (NAV), reaching N191.02 billion as of September 2026, up 23.94% from N154.13 billion at the end of August, as the segment continued to benefit from investment activity across equities and fixed-income securities. The post Best performing balanced mutual funds in Nigeria as of September 2026 appeared first on Nairametrics .",
-      "published": "2026-10-10T16:49:37+00:00",
-      "fetched": "2026-10-10T20:45:47.906934+00:00"
-    },
-    {
-      "id": "3a004304768c7cc3",
-      "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
-      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-      "published": "2026-10-10T16:00:00+00:00",
-      "fetched": "2026-10-10T16:25:57.323806+00:00"
-    },
-    {
-      "id": "4a740e5e3948a4c5",
-      "title": "Dangote Refinery IPO: United Capital’s InvestNow App still opens for participation till close date",
-      "link": "https://nairametrics.com/2026/10/10/dangote-refinery-ipo-united-capitals-investnow-app-still-opens-for-participation-till-close-date/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "United Capital is providing investors with digital access to the ongoing Dangote Petroleum Refinery IPO through its InvestNow platform, as the N2.15 trillion public offer approaches its October 13, 2026 closing date. The post Dangote Refinery IPO: United Capital s InvestNow App still opens for participation till close date appeared first on Nairametrics .",
-      "published": "2026-10-10T15:42:52+00:00",
-      "fetched": "2026-10-10T16:25:58.185210+00:00"
-    },
-    {
-      "id": "b781083ceaaeaf99",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-10T15:05:00+00:00",
-      "fetched": "2026-10-10T16:25:57.323867+00:00"
-    },
-    {
-      "id": "a66ccd42431d5662",
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-      "published": "2026-10-10T15:00:01+00:00",
-      "fetched": "2026-10-10T16:25:57.390096+00:00"
-    },
-    {
-      "id": "85d9a30a97f2454b",
-      "title": "The Nigerian founders who turned travel frustrations into a fintech",
-      "link": "https://techcabal.com/2026/10/10/timon-founders-and-visa-hurdles/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Facing a backlog at the American Embassy in Lagos that threatened to run out of time for their interview window, Ayorinde and his team scrambled for help. Investor Kola Aina of Ventures Platform, which had backed the startup, intervened, according to Ayorinde, reaching out to contacts who could help expedite their visa interviews at the US embassy. The embassy eventually granted the visas with days to spare.",
-      "published": "2026-10-10T13:49:42+00:00",
-      "fetched": "2026-10-10T16:25:58.870508+00:00"
-    },
-    {
-      "id": "1215845c63e90c4a",
-      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
-      "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "This year’s flu season has arrived about seven weeks earlier than in 2025 or 2024.",
-      "published": "2026-10-10T13:19:00+00:00",
-      "fetched": "2026-10-10T16:25:57.323903+00:00"
-    },
-    {
-      "id": "8132f9e5b8ea56fb",
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“People in the U.S. need to wake up.”",
-      "published": "2026-10-10T13:15:00+00:00",
-      "fetched": "2026-10-10T16:25:57.323934+00:00"
-    },
-    {
-      "id": "1ae5171bb2f83fe5",
-      "title": "Long leases slash entry barrier into Lagos real estate by up to 70% — Sanni Faruq",
-      "link": "https://nairametrics.com/2026/10/10/long-leases-slash-entry-barrier-into-lagos-real-estate-by-up-to-70-sanni-faruq/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In an exclusive interview with Nairametrics, Sanni Faruq, Lead Consultant at Senior Homes and Properties, a real estate company specialising in long-lease arrangements, discussed changing buyer preferences in the Lagos property market. He also shared insights into how demand for these arrangements is evolving among different categories of buyers. The post Long leases slash entry barrier into Lagos real estate by up to 70% — Sanni Faruq appeared first on Nairametrics .",
-      "published": "2026-10-10T13:04:50+00:00",
-      "fetched": "2026-10-10T16:25:58.185308+00:00"
-    },
-    {
-      "id": "68f5ff02cd9113bf",
-      "title": "Winter is coming and energy bills are climbing. ‘Everything just keeps going up.’",
-      "link": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Expensive utility bills have become an increasingly sharp thorn for Americans’ wallets, but warmer weather this winter and energy assistance programs can help.",
-      "published": "2026-10-10T13:00:00+00:00",
-      "fetched": "2026-10-10T16:25:57.323971+00:00"
-    },
-    {
-      "id": "159fb1a18378c9f7",
-      "title": "SEC DG proposes investment funds to finance university hostels",
-      "link": "https://nairametrics.com/2026/10/10/sec-dg-proposes-investment-funds-to-finance-university-hostels/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Director-General of the Securities and Exchange Commission (SEC), Dr Emomotimi Agama, has proposed the establishment of investment funds to finance student hostel construction in Nigerian universities, as institutions struggle with inadequate accommodation facilities. The post SEC DG proposes investment funds to finance university hostels appeared first on Nairametrics .",
-      "published": "2026-10-10T12:35:29+00:00",
-      "fetched": "2026-10-10T16:25:58.185360+00:00"
-    },
-    {
-      "id": "a70686086c32134f",
-      "title": "Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
-      "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The P/E ratios have contracted and the CDS spreads have widened in all three cases, but Nvidia appears unscathed",
-      "published": "2026-10-10T12:30:00+00:00",
-      "fetched": "2026-10-10T16:25:57.324003+00:00"
-    },
-    {
-      "id": "0c7a323ed3a16fd4",
-      "title": "‘What you don’t know is greater than anything you do know’: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
-      "link": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.",
-      "published": "2026-10-10T12:00:00+00:00",
-      "fetched": "2026-10-10T16:25:57.324036+00:00"
-    },
-    {
-      "id": "e2ca37cbca88d7de",
-      "title": "SEC DG warns shortage of credible issuers could inflate asset prices",
-      "link": "https://nairametrics.com/2026/10/10/sec-dg-warns-shortage-of-credible-issuers-could-inflate-asset-prices/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Director-General of the Securities and Exchange Commission (SEC), Dr Emomotimi Agama, has warned that a shortage of credible issuers in Nigeria’s capital market could drive up the prices of existing assets rather than support genuine market development. The post SEC DG warns shortage of credible issuers could inflate asset prices appeared first on Nairametrics .",
-      "published": "2026-10-10T11:33:31+00:00",
-      "fetched": "2026-10-10T16:25:58.185416+00:00"
-    },
-    {
-      "id": "9ccc92bf52232d91",
-      "title": "Fitch revises Nigeria’s credit outlook to positive, affirms ‘B’ rating",
-      "link": "https://nairametrics.com/2026/10/10/fitch-revises-nigerias-credit-outlook-to-positive-affirms-b-rating/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Fitch Ratings has revised Nigeria’s credit outlook to Positive from Stable while affirming its long-term issuer default ratings at ‘B’. The post Fitch revises Nigeria’s credit outlook to positive, affirms ‘B’ rating appeared first on Nairametrics .",
-      "published": "2026-10-10T11:19:11+00:00",
-      "fetched": "2026-10-10T11:26:47.415314+00:00"
-    },
-    {
-      "id": "532fe6b1ee64d113",
-      "title": "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
-      "link": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Wall Street has continued to blur the lines between investing and gambling with one recently launched exchange-traded fund.",
-      "published": "2026-10-10T11:00:00+00:00",
-      "fetched": "2026-10-10T11:26:46.371941+00:00"
-    },
-    {
-      "id": "b1df361e4fefed7f",
-      "title": "Naira likely to break below N1,300/$ amid high FX supply",
-      "link": "https://nairametrics.com/2026/10/10/naira-likely-to-break-below-n1300-amid-high-fx-supply/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian currency is projected to trade stable to bullish, with a 6-month target in the N1,250/$-1350/$ corridor, supported by CBN interventions and market confidence. The post Naira likely to break below N1,300/$ amid high FX supply appeared first on Nairametrics .",
-      "published": "2026-10-10T10:57:37+00:00",
-      "fetched": "2026-10-10T11:26:47.415342+00:00"
-    },
-    {
-      "id": "2d37a0ff5d37d104",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "published": "2026-10-10T10:30:00+00:00",
-      "fetched": "2026-10-10T11:26:46.371975+00:00"
-    },
-    {
-      "id": "5f3961de5820755e",
-      "title": "Lagos launches up to N200 billion 10-year bond: Key takeaways for investors",
-      "link": "https://nairametrics.com/2026/10/10/lagos-launches-up-to-n200-billion-10-year-bond-key-takeaways-for-investors/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has opened its Series 5 Fixed Rate Bond offer to raise up to N200 billion under its N1 trillion Debt and Hybrid Instruments Issuance Programme. The post Lagos launches up to N200 billion 10-year bond: Key takeaways for investors appeared first on Nairametrics .",
-      "published": "2026-10-10T09:41:16+00:00",
-      "fetched": "2026-10-10T11:26:47.415367+00:00"
-    },
-    {
-      "id": "fbe099f9e8c9be5f",
-      "title": "Nigeria records world’s highest diesel price increase at 82.7% – Report",
-      "link": "https://nairametrics.com/2026/10/10/nigeria-records-worlds-highest-diesel-price-increase-at-82-7-report/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria recorded the world’s highest diesel price increase, at 82.7%, between February and August 2026, according to the United Nations Conference on Trade and Development (UNCTAD). The post Nigeria records world’s highest diesel price increase at 82.7% Report appeared first on Nairametrics .",
-      "published": "2026-10-10T09:26:21+00:00",
-      "fetched": "2026-10-10T11:26:47.415394+00:00"
-    },
-    {
-      "id": "a9119d5936718581",
-      "title": "UN names Nigeria among oil exporters set to benefit from higher energy prices",
-      "link": "https://nairametrics.com/2026/10/10/un-names-nigeria-among-oil-exporters-set-to-benefit-from-higher-energy-prices/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria is among the oil and gas exporters positioned to benefit from higher global energy prices, although rising refined fuel costs could offset some of the gains. The post UN names Nigeria among oil exporters set to benefit from higher energy prices appeared first on Nairametrics .",
-      "published": "2026-10-10T08:25:21+00:00",
-      "fetched": "2026-10-10T11:26:47.415416+00:00"
-    },
-    {
-      "id": "837e24a9c007fcb8",
-      "title": "Best performing Nigerian stocks for the week ended October 9, 2026",
-      "link": "https://nairametrics.com/2026/10/10/best-performing-nigerian-stocks-for-the-week-ended-october-9-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian equities closed lower for the second straight week, with the benchmark NGX All-Share Index (ASI) declining 0.97% to close at 248,363.55 points from 250,808.27 points. The post Best performing Nigerian stocks for the week ended October 9, 2026 appeared first on Nairametrics .",
-      "published": "2026-10-10T08:22:59+00:00",
-      "fetched": "2026-10-10T11:26:47.415437+00:00"
-    },
-    {
-      "id": "07638c0776f855a9",
-      "title": "Why AI success in Africa hinges on power infrastructure — Gary Chomse",
-      "link": "https://nairametrics.com/2026/10/10/why-ai-success-in-africa-hinges-on-power-infrastructure-gary-chomse/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In this interview with Nairametrics, Gary Chomse, Regional Director for Central and Southern Africa, explores why power, cooling and compute must now be treated as a connected ecosystem. The post Why AI success in Africa hinges on power infrastructure — Gary Chomse appeared first on Nairametrics .",
-      "published": "2026-10-10T07:15:56+00:00",
-      "fetched": "2026-10-10T11:26:47.415463+00:00"
     }
   ]
 }
