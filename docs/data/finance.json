@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-10-13T22:00:17.288170+00:00",
+  "updated": "2026-10-14T02:18:39.295406+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "53a5070e17097aed",
+      "title": "China's exports likely grew by double-digits in September",
+      "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The country's customs agency is due to release September trade data on Wednesday.",
+      "published": "2026-10-14T01:16:02+00:00",
+      "fetched": "2026-10-14T02:18:37.931857+00:00"
+    },
+    {
+      "id": "e248447192b58993",
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+      "published": "2026-10-13T23:05:12+00:00",
+      "fetched": "2026-10-14T02:18:37.931889+00:00"
+    },
     {
       "id": "9f35071e452474e0",
       "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
@@ -1482,26 +1502,6 @@
       "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
       "published": "2026-10-10T19:44:00+00:00",
       "fetched": "2026-10-10T20:45:47.320968+00:00"
-    },
-    {
-      "id": "c887985aa6a823c1",
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "fetched": "2026-10-10T20:45:47.320997+00:00"
-    },
-    {
-      "id": "5f01183986fad453",
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-      "published": "2026-10-10T19:44:00+00:00",
-      "fetched": "2026-10-10T20:45:47.321022+00:00"
     }
   ]
 }
