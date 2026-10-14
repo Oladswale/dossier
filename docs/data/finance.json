@@ -1,8 +1,308 @@
 {
   "category": "finance",
-  "updated": "2026-10-14T10:41:42.396419+00:00",
+  "updated": "2026-10-14T16:01:37.360349+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "74dac95b32236ae0",
+      "title": "Why Emmanuel Obiechina ditched dedicated apps to build a bank inside your DMs",
+      "link": "https://techcabal.com/2026/10/14/how-emmanuel-obiechina-built-kira-ai/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Building Y-Queue took Emmanuel Obiechina and his co-founders just three weeks. Convincing people to use it proved to be an entirely different education. Long before he conceived Kira AI—his WhatsApp-based banking and payments platform—Obiechina saw a clean engineering solution to a persistent campus headache.",
+      "published": "2026-10-14T15:54:16+00:00",
+      "fetched": "2026-10-14T16:01:37.360038+00:00"
+    },
+    {
+      "id": "11352b79eca045dc",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "published": "2026-10-14T15:49:35+00:00",
+      "fetched": "2026-10-14T16:01:35.457678+00:00"
+    },
+    {
+      "id": "d2a9dbfc565d7ea5",
+      "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The COLA is aimed at helping about 68 million beneficiaries keep pace with inflation.",
+      "published": "2026-10-14T15:33:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255244+00:00"
+    },
+    {
+      "id": "61845b28ff3abf38",
+      "title": "OPay’s $1.28 lending problem in Nigeria",
+      "link": "https://techcabal.com/2026/10/14/opay-1-28-lending-problem-nigeria/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Every $10 (₦13,329.7) borrowed from OPay generated $2.55 (₦3,399.07) in loan-financing revenue in H1 2026. The figure includes late-payment penalties, not just interest, and offers a glimpse into the revenue lenders need to cover the risk of borrower defaults.",
+      "published": "2026-10-14T15:31:31+00:00",
+      "fetched": "2026-10-14T16:01:37.360085+00:00"
+    },
+    {
+      "id": "85f83fe14435a63e",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+      "published": "2026-10-14T15:18:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255294+00:00"
+    },
+    {
+      "id": "23dce78136285412",
+      "title": "Lagos gives MTN, Airtel, others 30 days to verify betting firms’ licences",
+      "link": "https://nairametrics.com/2026/10/14/lagos-gives-mtn-airtel-others-30-days-to-verify-betting-firms-licences/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Lagos State Lotteries and Gaming Authority has given mobile network operators (MNOs), including MTN, Airtel, Globacom, 9mobile, and licensed value-added service (VAS) providers 30 days to verify the licensing and tax compliance status of gaming businesses using their platforms to offer services in the state. The post Lagos gives MTN, Airtel, others 30 days to verify betting firms’ licences appeared first on Nairametrics .",
+      "published": "2026-10-14T15:09:38+00:00",
+      "fetched": "2026-10-14T16:01:36.452290+00:00"
+    },
+    {
+      "id": "f90653ffc66653a3",
+      "title": "Micron wins praise from Elon Musk for not being too greedy",
+      "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.",
+      "published": "2026-10-14T15:07:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255326+00:00"
+    },
+    {
+      "id": "8521340f647e409a",
+      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "published": "2026-10-14T15:00:33+00:00",
+      "fetched": "2026-10-14T16:01:35.457712+00:00"
+    },
+    {
+      "id": "858e84c55fb58bbb",
+      "title": "Eko Power Limited Affirms Its Status as Lagos State’s Licensed Electricity Distribution Company",
+      "link": "https://nairametrics.com/2026/10/14/eko-power-limited-affirms-its-status-as-lagos-states-licensed-electricity-distribution-company/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Eko Power Limited is the distribution company licensed by the Lagos State Electricity Regulatory Commission (LASERC) to distribute power in the southern parts of Lagos State. Eko Power Limited s establishment follows a formal legal transition mandated by the Electricity Act 2023 (as amended) and the 2023 amendment to the Constitution of the Federal Republic of [ ] The post Eko Power Limited Affirms Its Status as Lagos State s Licensed Electricity Distribution Company appeared first on Nairametrics .",
+      "published": "2026-10-14T14:56:05+00:00",
+      "fetched": "2026-10-14T16:01:36.452353+00:00"
+    },
+    {
+      "id": "4841583cb26fc96b",
+      "title": "RMB Nigeria Wins Merchant Bank of the Year for Eighth Time, Earns Deal Advisory Excellence Honour",
+      "link": "https://nairametrics.com/2026/10/14/rmb-nigeria-wins-merchant-bank-of-the-year-for-eighth-time-earns-deal-advisory-excellence-honour/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "RMB Nigeria has secured two honours at the 2026 BusinessDay Bank and Other Financial Institutions (BAFI) Awards, winning Merchant Bank of the Year for the eighth time and Deal Advisory Excellence of the Year. The eighth Merchant Bank of the Year award marks a significant milestone for RMB Nigeria and underscores the bank’s consistent performance, [ ] The post RMB Nigeria Wins Merchant Bank of the Year for Eighth Time, Earns Deal Advisory Excellence Honour appeared first on Nairametrics .",
+      "published": "2026-10-14T14:51:54+00:00",
+      "fetched": "2026-10-14T16:01:36.452412+00:00"
+    },
+    {
+      "id": "3e099de1ba5029ed",
+      "title": "FTN Cocoa revenue surges 310% to N5.65 billion in 2025 amid high production costs",
+      "link": "https://nairametrics.com/2026/10/14/ftn-cocoa-revenue-surges-310-to-n5-65-billion-in-2025-amid-high-production-costs/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "FTN Cocoa Processors Plc has released its 2025 financial statements, recording a sharp increase in revenue for the year ended December 31, 2025, with sales rising 310.5% to N5.65 billion from N1.38 billion in 2024. The post FTN Cocoa revenue surges 310% to N5.65 billion in 2025 amid high production costs appeared first on Nairametrics .",
+      "published": "2026-10-14T14:49:28+00:00",
+      "fetched": "2026-10-14T16:01:36.452452+00:00"
+    },
+    {
+      "id": "1b57a5e07ad1346f",
+      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+      "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+      "published": "2026-10-14T14:17:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255357+00:00"
+    },
+    {
+      "id": "b3801e6279f68175",
+      "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+      "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Fed admits it can’t cool Big Tech’s spending spree. Tehran says it can, and it just named the targets.",
+      "published": "2026-10-14T14:17:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255385+00:00"
+    },
+    {
+      "id": "675f70e954e42bd5",
+      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+      "published": "2026-10-14T14:08:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255413+00:00"
+    },
+    {
+      "id": "1af29d397edc4562",
+      "title": "The fierce fintech race for financial loyalty in South Africa goes beyond payments",
+      "link": "https://techcabal.com/2026/10/14/south-africas-fierce-fintech-race/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "South Africa’s fintechs are moving beyond customer acquisition to capture everyday spending, build lasting financial relationships and turn digital payments into sustainable revenue.",
+      "published": "2026-10-14T14:07:52+00:00",
+      "fetched": "2026-10-14T16:01:37.360117+00:00"
+    },
+    {
+      "id": "60350f75e0cab0e6",
+      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
+      "published": "2026-10-14T13:46:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255438+00:00"
+    },
+    {
+      "id": "74a6bfd10680c95d",
+      "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "”I earn $110,000 a year.”",
+      "published": "2026-10-14T13:45:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255458+00:00"
+    },
+    {
+      "id": "ab14285eeccf4b37",
+      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+      "published": "2026-10-14T13:31:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255488+00:00"
+    },
+    {
+      "id": "bb4c4900326e0478",
+      "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "published": "2026-10-14T13:28:00+00:00",
+      "fetched": "2026-10-14T16:01:35.255513+00:00"
+    },
+    {
+      "id": "ebe72e07f9d11492",
+      "title": "iPhone Duo pre-order opens Friday, October 16: What you should know",
+      "link": "https://techcabal.com/2026/10/14/iphone-duo-pre-order-october-16/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Apple's first foldable iPhone starts at $1,999 in the US, and the first buyers get their phones on Friday, October 23.",
+      "published": "2026-10-14T13:03:57+00:00",
+      "fetched": "2026-10-14T16:01:37.360142+00:00"
+    },
+    {
+      "id": "1e3850bdf19c26ca",
+      "title": "How Leadway Is Redefining SME Support Through Visibility and Market Access",
+      "link": "https://nairametrics.com/2026/10/14/how-leadway-is-redefining-sme-support-through-visibility-and-market-access/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "For Nigeria’s small and medium-sized businesses, growth is often discussed through the lens of access to finance. Yet, while capital remains critical, the ability to reach customers, build visibility, and access credible marketplaces is just as important to turning a promising business into a sustainable one. The sector s scale makes that conversation particularly significant.",
+      "published": "2026-10-14T12:52:10+00:00",
+      "fetched": "2026-10-14T16:01:36.452507+00:00"
+    },
+    {
+      "id": "89a727c353794acc",
+      "title": "No Security, No Economy: Restoring Safety as the Precondition for Sustainable Growth",
+      "link": "https://nairametrics.com/2026/10/14/no-security-no-economy-restoring-safety-as-the-precondition-for-sustainable-growth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "No business plan can survive in a war zone. No farmer will invest in a field they cannot safely reach. No infrastructure can generate value when it is perpetually under attack.",
+      "published": "2026-10-14T12:45:16+00:00",
+      "fetched": "2026-10-14T16:01:36.452554+00:00"
+    },
+    {
+      "id": "1f1629563487987f",
+      "title": "Dangote’s $16 billion Kenya refinery project gets court clearance to proceed",
+      "link": "https://nairametrics.com/2026/10/14/dangotes-16-billion-kenya-refinery-project-gets-court-clearance-to-proceed/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "A Kenyan court has lifted an earlier restriction on the development of Aliko Dangote's proposed $16 billion oil refinery in Kenya, allowing the project to proceed despite an ongoing legal dispute over land ownership and environmental concerns. The post Dangote s $16 billion Kenya refinery project gets court clearance to proceed appeared first on Nairametrics .",
+      "published": "2026-10-14T12:41:46+00:00",
+      "fetched": "2026-10-14T16:01:36.452596+00:00"
+    },
+    {
+      "id": "ed8cbc98e38eacce",
+      "title": "Nigeria seeks $78.5 billion investment for 65 projects at IMF-World Bank meeting",
+      "link": "https://nairametrics.com/2026/10/14/nigeria-seeks-78-5-billion-investment-for-65-projects-at-imf-world-bank-meeting/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria has unveiled 65 investment projects requiring a combined $78.5 billion in capital as the Federal Government seeks to attract domestic and foreign investors, create jobs and accelerate economic growth. The post Nigeria seeks $78.5 billion investment for 65 projects at IMF-World Bank meeting appeared first on Nairametrics .",
+      "published": "2026-10-14T12:25:59+00:00",
+      "fetched": "2026-10-14T16:01:36.452632+00:00"
+    },
+    {
+      "id": "5f05b6c41f0d343a",
+      "title": "SCGN unveils governance publications as AI conversation spurs call for stronger african representation in technology infrastructure",
+      "link": "https://nairametrics.com/2026/10/14/scgn-unveils-governance-publications-as-ai-conversation-spurs-call-for-stronger-african-representation-in-technology-infrastructure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Society for Corporate Governance Nigeria (SCGN) has reinforced its drive to advance governance knowledge and responsible leadership with the launch of two corporate governance publications at its 2026 Annual Corporate Governance Conference, where discussions also highlighted the need for stronger African participation in the development and control of artificial intelligence (AI).The publications, Corporate Governance [ ] The post SCGN unveils governance publications as AI conversation spurs call for stronger african representation in technology infrastructure appeared first on Nairametrics .",
+      "published": "2026-10-14T12:18:27+00:00",
+      "fetched": "2026-10-14T16:01:36.452682+00:00"
+    },
+    {
+      "id": "f741e3437cdd6c5f",
+      "title": "Oil marketers say FG’s petrol discount excludes them, seek 60-day extension",
+      "link": "https://nairametrics.com/2026/10/14/oil-marketers-say-fgs-petrol-discount-excludes-them-seek-60-day-extension/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Oil marketers have called on the Federal Government to extend its 30-day petrol discount window to 60 days and include independent marketers, arguing that the current arrangement may limit its reach and benefits for consumers. The post Oil marketers say FG’s petrol discount excludes them, seek 60-day extension appeared first on Nairametrics .",
+      "published": "2026-10-14T12:16:55+00:00",
+      "fetched": "2026-10-14T16:01:36.452727+00:00"
+    },
+    {
+      "id": "ac9dcd24c6472c17",
+      "title": "Cascador and Sterling launch $200 million fund to derisk startup loans",
+      "link": "https://techcabal.com/2026/10/14/cascador-sterling-startup-loans/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Cascador and Sterling Bank have set up a $200 million fund to help Nigerian startups get bank loans by sharing the risk of borrowers defaulting.",
+      "published": "2026-10-14T11:41:44+00:00",
+      "fetched": "2026-10-14T16:01:37.360169+00:00"
+    },
+    {
+      "id": "83e324cbd88a0335",
+      "title": "Zenith bank deepens commitment to girl-child development, empowers 300 schoolgirls",
+      "link": "https://nairametrics.com/2026/10/14/zenith-bank-deepens-commitment-to-girl-child-development-empowers-300-schoolgirls/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Zenith Bank Plc has launched the maiden edition of its Girl-Child Empowerment Programme, themed “Banking on Her Tomorrow,” bringing together 300 schoolgirls aged 13 to 17 from selected schools across Lagos for a day of learning, mentorship and personal development. Held on Monday, October 12, 2026, at the Civic Centre, Victoria Island, Lagos, the programme [ ] The post Zenith bank deepens commitment to girl-child development, empowers 300 schoolgirls appeared first on Nairametrics .",
+      "published": "2026-10-14T11:01:00+00:00",
+      "fetched": "2026-10-14T16:01:36.452781+00:00"
+    },
+    {
+      "id": "d92ee9d65465505d",
+      "title": "Food and beverage workers urge Reps to reject proposed soft drinks tax",
+      "link": "https://nairametrics.com/2026/10/14/food-and-beverage-workers-urge-reps-to-reject-proposed-soft-drinks-tax/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Union of Food, Beverage and Tobacco Employees (NUFBTE) has urged the House of Representatives to reject the proposed amendment to Nigeria's soft drinks tax, warning that it could lead to factory closures, job losses and further challenges for the manufacturing sector. The post Food and beverage workers urge Reps to reject proposed soft drinks tax appeared first on Nairametrics .",
+      "published": "2026-10-14T10:49:47+00:00",
+      "fetched": "2026-10-14T16:01:36.452825+00:00"
+    },
+    {
+      "id": "10bfe014337232e8",
+      "title": "Egyptian billionaire Ahmed Elsewedy’s company secures $2.2 billion power contract in Saudi Arabia",
+      "link": "https://nairametrics.com/2026/10/14/egyptian-billionaire-ahmed-elsewedys-company-secures-2-2-billion-power-contract-in-saudi-arabia/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Egyptian billionaire Ahmed Elsewedy’s Elsewedy Electric has secured a $2.2 billion contract alongside China’s Sinohydro to expand Saudi Arabia’s Rabigh 2 Independent Power Plant. The post Egyptian billionaire Ahmed Elsewedy’s company secures $2.2 billion power contract in Saudi Arabia appeared first on Nairametrics .",
+      "published": "2026-10-14T10:43:19+00:00",
+      "fetched": "2026-10-14T16:01:36.452866+00:00"
+    },
     {
       "id": "c8bb34ffb2a70ee5",
       "title": "Single-digit inflation will save Nigeria $10 billion — Taiwo Oyedele",
@@ -82,6 +382,16 @@
       "summary": "Nigeria's gold prices are steady at N178K per gram despite a strengthening Nigerian currency and the US central bank's hawkish tilt. Gold sellers in the main gold markets in Nigeria, Lagos, Kano, and Abuja, usually charge a domestic premium of 5%–10% above the spot rate. The post Nigeria gold holds steady at N178K/g despite strong naira appeared first on Nairametrics .",
       "published": "2026-10-14T09:20:30+00:00",
       "fetched": "2026-10-14T10:41:41.122418+00:00"
+    },
+    {
+      "id": "84a4e63b10e56bbb",
+      "title": "CBN Governor Yemi Cardoso appointed AFC Chairman",
+      "link": "https://nairametrics.com/2026/10/14/cbn-governor-yemi-cardoso-appointed-afc-chairman/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Governor of the Central Bank of Nigeria (CBN), Yemi Cardoso, has been appointed as the Chairman of the Africa Finance Corporation (AFC). AFC President and CEO, Samaila Zubairu, disclosed the appointment on Wednesday on the sidelines of the IMF meeting in Bangkok, Thailand. Cardoso replaces Mrs Ireti Samuel-Ogbu, who has chaired the AFC Board [ ] The post CBN Governor Yemi Cardoso appointed AFC Chairman appeared first on Nairametrics .",
+      "published": "2026-10-14T09:17:50+00:00",
+      "fetched": "2026-10-14T16:01:36.452935+00:00"
     },
     {
       "id": "2eded7e8ab17a0f5",
@@ -1192,316 +1502,6 @@
       "summary": "The Independent National Electoral Commission (INEC) has warned Nigerians against a fraudulent publication circulating online that falsely claims to be a special announcement by the Commission regarding governorship candidates in six states. The post INEC flags fake governorship notice targeting six states, warns Nigerians appeared first on Nairametrics .",
       "published": "2026-10-12T14:08:49+00:00",
       "fetched": "2026-10-12T23:51:30.362953+00:00"
-    },
-    {
-      "id": "a97f0e3b68d96fb6",
-      "title": "TikTok distances itself from Northern Nigeria blackout; cause remains unclear",
-      "link": "https://nairametrics.com/2026/10/12/tiktok-distances-itself-from-northern-nigeria-blackout-cause-remains-unclear/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "TikTok has denied implementing restrictions on access to its platform in parts of Northern Nigeria, saying it is engaging relevant stakeholders to resolve the disruption reported by users. The post TikTok distances itself from Northern Nigeria blackout; cause remains unclear appeared first on Nairametrics .",
-      "published": "2026-10-12T14:07:55+00:00",
-      "fetched": "2026-10-12T23:51:30.362994+00:00"
-    },
-    {
-      "id": "ed8e59828e54a970",
-      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I’m in my 60s, recently retired and living my best life.”",
-      "published": "2026-10-12T13:16:00+00:00",
-      "fetched": "2026-10-12T13:38:04.956796+00:00"
-    },
-    {
-      "id": "e112eee0fededb06",
-      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-      "link": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "One highly rated fund manager shares some top picks, including two names many U.S. investors will be unfamiliar with.",
-      "published": "2026-10-12T13:12:00+00:00",
-      "fetched": "2026-10-12T13:38:04.956857+00:00"
-    },
-    {
-      "id": "06ae4ccf0f53d9ab",
-      "title": "Peter Obi faults Tinubu over N7.7 trillion debt interest payments in six months",
-      "link": "https://nairametrics.com/2026/10/12/peter-obi-faults-tinubu-over-n7-7-trillion-debt-interest-payments-in-six-months/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Former Anambra State Governor Peter Obi has criticised President Bola Tinubu’s administration over N7.7 trillion in debt interest payments in the first half of 2026, arguing that improvements in economic indicators have not translated into better living conditions for Nigerians. The post Peter Obi faults Tinubu over N7.7 trillion debt interest payments in six months appeared first on Nairametrics .",
-      "published": "2026-10-12T13:11:19+00:00",
-      "fetched": "2026-10-12T13:38:05.491690+00:00"
-    },
-    {
-      "id": "d8b76a0eacefe020",
-      "title": "OPEC slashes 2026 oil demand forecast by over 70% to 400,000 bpd",
-      "link": "https://nairametrics.com/2026/10/12/opec-slashes-2026-oil-demand-forecast-by-over-70-to-400000-bpd/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Organisation of the Petroleum Exporting Countries (OPEC) has reduced its global oil demand growth forecast for 2026 by more than 70%, from 1.4 million barrels per day (bpd) to 400,000 bpd, reflecting weaker-than-anticipated demand growth during the year. The post OPEC slashes 2026 oil demand forecast by over 70% to 400,000 bpd appeared first on Nairametrics .",
-      "published": "2026-10-12T12:24:58+00:00",
-      "fetched": "2026-10-12T13:38:05.491753+00:00"
-    },
-    {
-      "id": "f65a096d4d95f99a",
-      "title": "Nigeria’s lost purchasing power: How a decade of economic shocks changed money",
-      "link": "https://nairametrics.com/2026/10/12/nigerias-lost-purchasing-power-how-a-decade-of-economic-shocks-changed-money/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s economy has undergone a profound transformation over the past decade, with currency depreciation, rising inflation, fuel subsidy removal and high interest rates eroding household purchasing power even as nominal wages, government revenue and financial market valuations increased. The post Nigeria’s lost purchasing power: How a decade of economic shocks changed money appeared first on Nairametrics .",
-      "published": "2026-10-12T12:18:05+00:00",
-      "fetched": "2026-10-12T13:38:05.491815+00:00"
-    },
-    {
-      "id": "889d9096522b8020",
-      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "2026-10-12T12:15:00+00:00",
-      "fetched": "2026-10-12T13:38:04.956903+00:00"
-    },
-    {
-      "id": "ea6c7f2f2dc463fc",
-      "title": "How Lagos Life turned a viral game into an ad business",
-      "link": "https://techcabal.com/2026/10/12/lagos-life-advertising-revenue-running-costs/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "This is Follow the Money, our weekly series that unpacks the earnings, business, and scaling strategies of African fintechs, financial institutions, companies, and governments. A new edition drops every Monday. Between October 1 and 9, 2026, Lagos Life, the city-based simulation game, went from an overnight project to a business claiming more than $170,000 in earned [ ]",
-      "published": "2026-10-12T12:10:42+00:00",
-      "fetched": "2026-10-12T13:38:06.430748+00:00"
-    },
-    {
-      "id": "a36486cf823279d6",
-      "title": "Jim Ovia to earn N8.7 billion in Zenith Bank interim dividend for H1 2026",
-      "link": "https://nairametrics.com/2026/10/12/jim-ovia-to-earn-n8-7-billion-in-zenith-bank-interim-dividend-for-h1-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zenith Bank founder and former chairman Jim Ovia is set to receive approximately N8.7 billion in interim dividends for the first half of 2026, following the bank's decision to increase its dividend payout to shareholders. The post Jim Ovia to earn N8.7 billion in Zenith Bank interim dividend for H1 2026 appeared first on Nairametrics .",
-      "published": "2026-10-12T11:39:13+00:00",
-      "fetched": "2026-10-12T13:38:05.491863+00:00"
-    },
-    {
-      "id": "d4a8b32b66bdf6e4",
-      "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
-      "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Stuart Kaiser, of Citigroup, recommends buying iShares Russell 2000 exchange-traded fund call options before the consumer-price index for September is released on Wednesday.",
-      "published": "2026-10-12T11:30:00+00:00",
-      "fetched": "2026-10-12T13:38:04.956937+00:00"
-    },
-    {
-      "id": "0f7a095b2b3c8257",
-      "title": "Public notice on gaming licensing, tax compliance and facilitation of gaming services through telecommunications and vas platforms in lagos state.",
-      "link": "https://nairametrics.com/2026/10/12/public-notice-on-gaming-licensing-tax-compliance-and-facilitation-of-gaming-services-through-telecommunications-and-vas-platforms-in-lagos-state/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "To: all telecommunication operators, mobile network operators (mnos), licensed value-added service (vas) aggregators and vas providers facilitating lottery, betting and gaming services in lagos state The Lagos State Lotteries and Gaming Authority (“the Authority”), being the statutory regulatory body responsible for the regulation and control of lottery and gaming activities in Lagos State pursuant to [ ] The post Public notice on gaming licensing, tax compliance and facilitation of gaming services through telecommunications and vas platforms in lagos state. appeared first on Nairametrics .",
-      "published": "2026-10-12T11:09:26+00:00",
-      "fetched": "2026-10-12T13:38:05.491939+00:00"
-    },
-    {
-      "id": "83a61b774a0d91c9",
-      "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
-      "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A troubling rise in prices might trigger an interest-rate move at the Fed’s meeting in late October.",
-      "published": "2026-10-12T11:00:00+00:00",
-      "fetched": "2026-10-12T13:38:04.956978+00:00"
-    },
-    {
-      "id": "dd4e3590d37ea224",
-      "title": "TCL Launches 2026 Mini LED TVs and Smart Home Innovations",
-      "link": "https://nairametrics.com/2026/10/12/tcl-launches-2026-mini-led-tvs-and-smart-home-innovations/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "TCL, a global leader in consumer electronics and the world’s No.1 Mini LED and Ultra Large Screen TV Brand (75”+)¹, has showcased its latest consumer electronics and home appliance portfolio for Nigeria during its West Africa regional launch event in Côte d’Ivoire. Bringing together media, business partners, retailers, distributors, industry stakeholders and content creators from [ ] The post TCL Launches 2026 Mini LED TVs and Smart Home Innovations appeared first on Nairametrics .",
-      "published": "2026-10-12T10:48:13+00:00",
-      "fetched": "2026-10-12T13:38:05.492003+00:00"
-    },
-    {
-      "id": "1f4c944014f8bc7b",
-      "title": "Nigerian banks should be compelled to lend to productive sectors – Expert",
-      "link": "https://nairametrics.com/2026/10/12/nigerian-banks-should-be-compelled-to-lend-to-productive-sectors-expert/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian banks should be required to direct more credit to productive sectors such as agriculture, manufacturing and construction to accelerate job creation and ensure that the benefits of economic reforms reach ordinary citizens. The post Nigerian banks should be compelled to lend to productive sectors – Expert appeared first on Nairametrics .",
-      "published": "2026-10-12T10:42:01+00:00",
-      "fetched": "2026-10-12T13:38:05.492057+00:00"
-    },
-    {
-      "id": "00c5b2c7ca0a85cb",
-      "title": "Dollar trading in Nigeria nearly doubles to $3.37 billion in one week",
-      "link": "https://nairametrics.com/2026/10/12/dollar-trading-in-nigeria-nearly-doubles-to-3-37-billion-in-one-week/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The value of dollars traded in Nigeria’s foreign exchange market nearly doubled to $3.37 billion in the week ended October 9, 2026, from $1.70 billion the previous week, marking a sharp recovery in trading activity. The post Dollar trading in Nigeria nearly doubles to $3.37 billion in one week appeared first on Nairametrics .",
-      "published": "2026-10-12T10:41:35+00:00",
-      "fetched": "2026-10-12T13:38:05.492105+00:00"
-    },
-    {
-      "id": "bf47628fef30af3a",
-      "title": "In A Year, Coca-Cola’s Billion-Dollar Investments And Initiatives Power Nigeria’s Impact Value Chain",
-      "link": "https://nairametrics.com/2026/10/12/in-a-year-coca-colas-billion-dollar-investments-and-initiatives-power-nigerias-impact-value-chain/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For so long, conversations about investment in Nigeria have often centred on foreign capital, infrastructure projects and government interventions. Yet, beneath those headline-grabbing developments lies a vast network of businesses, suppliers and service providers whose economic contributions quietly sustain livelihoods across the country. A Socio-Economic Impact Assessment conducted by global consultancy Steward Redqueen has shed [ ] The post In A Year, Coca-Cola s Billion-Dollar Investments And Initiatives Power Nigeria’s Impact Value Chain appeared first on Nairametrics .",
-      "published": "2026-10-12T10:28:19+00:00",
-      "fetched": "2026-10-12T13:38:05.492175+00:00"
-    },
-    {
-      "id": "4dba7003eec8000a",
-      "title": "Infinite Partners raises $169.3 million to back South African growth businesses",
-      "link": "https://techcabal.com/2026/10/12/infinite-partners-169-million-fund/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Infinite Partners has raised $169.3 million to invest in established South African mid-market businesses, with early investments in enterprise software firm e4 and digital infrastructure company CYNK.",
-      "published": "2026-10-12T10:16:59+00:00",
-      "fetched": "2026-10-12T13:38:06.430790+00:00"
-    },
-    {
-      "id": "800e08d8c442603a",
-      "title": "World Bank targets $5.79 billion for Nigeria, bets on 850,000 jobs",
-      "link": "https://nairametrics.com/2026/10/12/world-bank-targets-5-79-billion-for-nigeria-bets-on-850000-jobs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The World Bank Group says it is helping mobilise up to $5.79 billion in private financing for Nigeria in fiscal year 2026, with one of its major programmes expected to support about 850,000 direct and indirect jobs. The post World Bank targets $5.79 billion for Nigeria, bets on 850,000 jobs appeared first on Nairametrics .",
-      "published": "2026-10-12T10:10:30+00:00",
-      "fetched": "2026-10-12T13:38:05.492219+00:00"
-    },
-    {
-      "id": "caf89c570d42de35",
-      "title": "Nigerian startups raise $11.3 million in September 2026, down 97% from August",
-      "link": "https://nairametrics.com/2026/10/12/nigerian-startups-raise-11-3-million-in-september-2026-down-97-from-august/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s startup ecosystem recorded a sharp moderation in funding in September 2026, with nine startups attracting a combined $11.3 million, compared with $364.1 million raised by 20 startups in August. The post Nigerian startups raise $11.3 million in September 2026, down 97% from August appeared first on Nairametrics .",
-      "published": "2026-10-12T10:07:06+00:00",
-      "fetched": "2026-10-12T13:38:05.492268+00:00"
-    },
-    {
-      "id": "fbd91c32387bd9a4",
-      "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A stronger dollar, higher bond market yields and elevated gas prices are already tightening financial conditions in the U.S. to the point that Kevin Warsh may not even need to hike rates.",
-      "published": "2026-10-12T09:23:00+00:00",
-      "fetched": "2026-10-12T13:38:04.957013+00:00"
-    },
-    {
-      "id": "549d544f2227c856",
-      "title": "Almost half of Nigerian workers earn less than $150 monthly, report finds",
-      "link": "https://techcabal.com/2026/10/12/paidhr-salary-report/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "PaidHR's salary report reveals that 46 out of every 100 Nigerian workers earn below ₦200,000 ($150) monthly.",
-      "published": "2026-10-12T09:15:05+00:00",
-      "fetched": "2026-10-12T13:38:06.430822+00:00"
-    },
-    {
-      "id": "493ae168906652e0",
-      "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
-      "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Goldman Sachs is leaning more heavily into stocks for the remainder of the year. That’s down to earnings and a market that is cheaper overall.",
-      "published": "2026-10-12T09:14:00+00:00",
-      "fetched": "2026-10-12T13:38:04.957047+00:00"
-    },
-    {
-      "id": "1c53dc859de5fad7",
-      "title": "Kenya’s central bank seeks powers to take over struggling fintechs",
-      "link": "https://techcabal.com/2026/10/12/kenyas-cbk-seeks-powers-fintechs/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Central Bank of Kenya (CBK) is seeking powers to take over struggling payment companies and sell their businesses to protect customer money.",
-      "published": "2026-10-12T09:08:35+00:00",
-      "fetched": "2026-10-12T13:38:06.430853+00:00"
-    },
-    {
-      "id": "6630411433d407b4",
-      "title": "Access Women Network Partners Evolve Charity Trust to Support Schoolgirls Across 12 Nigerian States.",
-      "link": "https://nairametrics.com/2026/10/12/access-women-network-partners-evolve-charity-trust-to-support-schoolgirls-across-12-nigerian-states/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Access Women Network (AWN) has partnered with Evolve Charity Trust to provide essential school supplies to girls across 17 schools in 12 states in Nigeria, reinforcing its commitment to supporting education, empowering young girls and creating opportunities for a brighter future.The initiative will reach students in Lagos, Abuja, Akwa Ibom, Rivers (Port Harcourt), Kaduna, Kano, [ ] The post Access Women Network Partners Evolve Charity Trust to Support Schoolgirls Across 12 Nigerian States. appeared first on Nairametrics .",
-      "published": "2026-10-12T08:46:44+00:00",
-      "fetched": "2026-10-12T13:38:05.492323+00:00"
-    },
-    {
-      "id": "0a7b387b53a94629",
-      "title": "Global multidimensional poverty rises by 51.5 million, Nigeria reverses gains",
-      "link": "https://nairametrics.com/2026/10/12/global-multidimensional-poverty-rises-by-51-5-million-nigeria-reverses-gains/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The number of people living in multidimensional poverty worldwide has risen by 51.5 million to 1.2 billion, marking the first increase since the global index was launched in 2010, according to the 2026 update of the global Multidimensional Poverty Index (MPI). The post Global multidimensional poverty rises by 51.5 million, Nigeria reverses gains appeared first on Nairametrics .",
-      "published": "2026-10-12T08:30:23+00:00",
-      "fetched": "2026-10-12T13:38:05.492373+00:00"
-    },
-    {
-      "id": "efc81f468ee77ab3",
-      "title": "Zenith Bank to launch maiden girl-child empowerment programme",
-      "link": "https://nairametrics.com/2026/10/12/zenith-bank-to-launch-maiden-girl-child-empowerment-programme/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Zenith Bank Plc is set to launch the maiden edition of its Girl-Child Empowerment Programme, an initiative aimed at inspiring young girls to dream boldly, develop the skills and confidence to pursue their aspirations, and prepare for meaningful opportunities in the future. The event, themed “Banking On Her Tomorrow,” is the brainchild of the Bank’s [ ] The post Zenith Bank to launch maiden girl-child empowerment programme appeared first on Nairametrics .",
-      "published": "2026-10-12T08:30:01+00:00",
-      "fetched": "2026-10-12T13:38:05.492432+00:00"
-    },
-    {
-      "id": "e01aebcab65a304e",
-      "title": "👨🏿‍🚀TechCabal Daily – OPay’s new Standard",
-      "link": "https://techcabal.com/2026/10/12/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-opays-new-standard/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Standard Bank invests in OPay Airtel Money IPO falls slightly short ARC Ride tripled revenue, but losses grew Ecobank eyes Africa-China trade",
-      "published": "2026-10-12T07:35:49+00:00",
-      "fetched": "2026-10-12T13:38:06.430887+00:00"
-    },
-    {
-      "id": "894b53523d75e9d8",
-      "title": "Jeff Bezos hits world’s 2nd-richest status as net worth rises $122 billion in 2026",
-      "link": "https://nairametrics.com/2026/10/12/jeff-bezos-hits-worlds-2nd-richest-status-as-net-worth-rises-122-billion-in-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Amazon founder Jeff Bezos has emerged as the world's second-richest person after his net worth increased by $122 billion over the past year. The post Jeff Bezos hits world s 2nd-richest status as net worth rises $122 billion in 2026 appeared first on Nairametrics .",
-      "published": "2026-10-12T06:54:48+00:00",
-      "fetched": "2026-10-12T13:38:05.492474+00:00"
-    },
-    {
-      "id": "60d44ec874060a2a",
-      "title": "Nigeria’s external reserves gain $115 million in six days, hit $55.07 billion",
-      "link": "https://nairametrics.com/2026/10/12/nigerias-external-reserves-gain-115-million-in-six-days-hit-55-07-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s foreign exchange reserves rose by approximately $115 million in six days to $55.07 billion as of October 8, 2026, extending the upward trend recorded in September. The post Nigeria’s external reserves gain $115 million in six days, hit $55.07 billion appeared first on Nairametrics .",
-      "published": "2026-10-12T06:46:47+00:00",
-      "fetched": "2026-10-12T13:38:05.492521+00:00"
-    },
-    {
-      "id": "aa114b46827ac68a",
-      "title": "States, FCT collect N2.64 trillion taxes from workers as PAYE jumps 40.3%",
-      "link": "https://nairametrics.com/2026/10/12/states-fct-collect-n2-64-trillion-taxes-from-workers-as-paye-jumps-40-3/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s 36 states and the Federal Capital Territory (FCT) collected N2.64 trillion in Pay-As-You-Earn (PAYE) tax in 2025, up 40.4% from N1.88 trillion in 2024. The post States, FCT collect N2.64 trillion taxes from workers as PAYE jumps 40.3% appeared first on Nairametrics .",
-      "published": "2026-10-12T06:39:20+00:00",
-      "fetched": "2026-10-12T13:38:05.492565+00:00"
-    },
-    {
-      "id": "e3202d139b4d5615",
-      "title": "Sanwo-Olu Targets 3,000MW Electricity Supply for Lagos by March 2027",
-      "link": "https://nairametrics.com/2026/10/11/sanwo-olu-targets-3000mw-electricity-supply-for-lagos-by-march-2027/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has announced plans to increase electricity supply to above 3,000 megawatts (MW) from the current level... The post Sanwo-Olu Targets 3,000MW Electricity Supply for Lagos by March 2027 appeared first on Nairametrics .",
-      "published": "2026-10-11T18:39:55+00:00",
-      "fetched": "2026-10-11T21:06:56.023043+00:00"
     }
   ]
 }

@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-14T10:41:59.255375+00:00",
+  "updated": "2026-10-14T16:01:54.067308+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a2c53118c90d9f5c",
+      "title": "Social Security Benefits Will Rise 3.6% in 2027—but Some Key Costs Are Rising Faster",
+      "link": "https://www.realtor.com/news/trends/social-security-cola-2027-3-8-percent-increase-news/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average retired worker will get about $75 more a month, as advocates renew calls to change how Social Security tracks inflation.",
+      "published": "2026-10-14T15:24:00+00:00",
+      "fetched": "2026-10-14T16:01:54.066652+00:00"
+    },
+    {
+      "id": "07e9a10f4eb7fd4e",
+      "title": "Mortgage Applications Fall Again as Higher Interest Rates Sideline Buyers",
+      "link": "https://www.realtor.com/news/trends/mortgage-applications-interest-rates-october-14-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Purchase Index, which measures the volume of mortgage applications to purchase a single-family home, decreased 4% from one week earlier.",
+      "published": "2026-10-14T14:45:41+00:00",
+      "fetched": "2026-10-14T16:01:54.066688+00:00"
+    },
+    {
+      "id": "adacf5f969fe8d0f",
+      "title": "Inflation Jumps to 3.7% in Troubling Sign for Mortgage Rates",
+      "link": "https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inflation continued to hammer the cost of goods, especially gasoline the latest Consumer Price Index report showed.",
+      "published": "2026-10-14T13:03:59+00:00",
+      "fetched": "2026-10-14T16:01:54.066713+00:00"
+    },
+    {
+      "id": "b1512ded0c4a5747",
+      "title": "Long-Term Rentals: Everything You Need to Know Before You Self-Manage",
+      "link": "https://www.biggerpockets.com/blog/rookie-783",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Thinking about investing in long-term rentals? Finding the property is only half the battle. Getting it rent-ready, landing great tenants, and keeping everything running smoothly is where successful landlords get [ ]",
+      "published": "2026-10-14T11:00:47+00:00",
+      "fetched": "2026-10-14T16:01:53.690319+00:00"
+    },
+    {
+      "id": "7c544746d3cdc62b",
+      "title": "From a $55K Rental to BiggerPockets CEO and Financial Freedom",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1343",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "16 years ago, Eric Augustyn had the same fear that keeps many of us up at night: What if I get fired? He had just survived the 2008 financial crash, [ ]",
+      "published": "2026-10-14T11:00:17+00:00",
+      "fetched": "2026-10-14T16:01:53.690356+00:00"
+    },
     {
       "id": "c00adf12d291468a",
       "title": "High-End Homebuyers Are Flocking to Areas With Top-Rated Public Schools—Here’s Where",
@@ -1452,56 +1502,6 @@
       "summary": "This \"architecturally unique\" home in Oregon City features three bedrooms and three bathrooms and has had only one owner.",
       "published": "2026-10-04T17:19:00+00:00",
       "fetched": "2026-10-04T20:32:05.580462+00:00"
-    },
-    {
-      "id": "21c599613b8a439a",
-      "title": "Waterfront ‘Taj Mahal’ on Mississippi’s ‘Secret Coast’ Returns to the Market With $2.5 Million Price Tag",
-      "link": "https://www.realtor.com/news/unique-homes/taj-mahal-estate-mississippi-ocean-springs-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Located on nearly 1-acre with 126-feet of water frontage in Ocean Springs, MS, the unfinished estate is designed to emulate the Taj Mahal.",
-      "published": "2026-10-04T15:30:00+00:00",
-      "fetched": "2026-10-04T16:01:56.385465+00:00"
-    },
-    {
-      "id": "41ea3057fd1d202e",
-      "title": "Four Seasons Targets Lake Austin for Its First Residential Complex, Defying Market Softness",
-      "link": "https://www.realtor.com/news/trends/four-seasons-lake-austin-luxury-residential-development/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Legendary luxury name Four Seasons is opening its first residential-only development along the upscale shores of Lake Austin.",
-      "published": "2026-10-04T13:13:00+00:00",
-      "fetched": "2026-10-04T16:01:56.385499+00:00"
-    },
-    {
-      "id": "02f59fedf216e413",
-      "title": "How Craftsman Architecture Created a Highly Sought-After Style of Home To Rebel Against Mass Production",
-      "link": "https://www.realtor.com/news/unique-homes/craftsman-homes-design-style-architectural-history/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Emerging at the turn of the century against mass production, this character-filled architectural style still resonates today.",
-      "published": "2026-10-04T11:07:00+00:00",
-      "fetched": "2026-10-04T11:23:34.325326+00:00"
-    },
-    {
-      "id": "559020aa96432518",
-      "title": "REVEALED: All the Celebrities Who Have Flocked to Nashville in Pursuit of a Slower Life—and Fewer Paparazzi",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrities-move-nashville-tennessee-relocate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "These stars have traded their busy lives in Los Angeles and New York for a slower vibe in Tennessee.",
-      "published": "2026-10-03T20:01:00+00:00",
-      "fetched": "2026-10-03T20:15:42.881693+00:00"
-    },
-    {
-      "id": "a0b2b18328adb0fb",
-      "title": "Tiger Woods Spearheads Gated Golf Community in Texas with Luxury Homes Starting at $1M",
-      "link": "https://www.realtor.com/news/real-estate-news/tiger-woods-bluejack-ranch-development-fort-worth-andy-mitchell/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A luxury residential golf community spearheaded by golf legend Tiger Woods is opening this fall outside of Fort Worth, TX. Bluejack Ranch is the 914-acre followup to Bluejack National, a highly-rated",
-      "published": "2026-10-03T18:13:00+00:00",
-      "fetched": "2026-10-03T20:15:42.881718+00:00"
     }
   ]
 }

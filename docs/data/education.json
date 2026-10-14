@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-14T10:41:58.510662+00:00",
+  "updated": "2026-10-14T16:01:53.267796+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5f5fe93cecc76b7f",
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
+      "published": "2026-10-14T15:00:00+00:00",
+      "fetched": "2026-10-14T16:01:52.157050+00:00"
+    },
     {
       "id": "f13b486c34345771",
       "title": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
@@ -1492,16 +1502,6 @@
       "summary": "Colleagues remember Rose as an enthusiastic and gracious friend who had recently started a promising research track at MIT.",
       "published": "2026-09-03T17:00:00+00:00",
       "fetched": "2026-09-03T20:11:39.504237+00:00"
-    },
-    {
-      "id": "67923de5e1ca8598",
-      "title": "Fabrication platform could enable flexible, transparent next-generation photonic chips",
-      "link": "https://news.mit.edu/2026/fabrication-platform-could-enable-flexible-transparent-next-generation-photonic-chips-0903",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "This scalable process produces high-performance chips for applications like discreet wearables or pliable augmented-reality displays.",
-      "published": "2026-09-03T15:45:00+00:00",
-      "fetched": "2026-09-03T20:11:39.504263+00:00"
     }
   ]
 }
