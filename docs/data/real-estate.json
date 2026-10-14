@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-14T02:18:55.660706+00:00",
+  "updated": "2026-10-14T10:41:59.255375+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c00adf12d291468a",
+      "title": "High-End Homebuyers Are Flocking to Areas With Top-Rated Public Schools—Here’s Where",
+      "link": "https://www.realtor.com/news/trends/high-end-homebuyers-flock-to-areas-with-top-rated-schools/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tiny Marco Island, in the Naples-Marco Island, FL, metro area, has an elementary school that draws wealthy buyers from all over.",
+      "published": "2026-10-14T09:00:00+00:00",
+      "fetched": "2026-10-14T10:41:59.254729+00:00"
+    },
+    {
+      "id": "ffa0000d3596ef94",
+      "title": "This $995K Waterfront Property Comes With Its Own Private Island—and an 1800s Farmhouse",
+      "link": "https://www.realtor.com/news/unique-homes/most-popular-home-private-island-middlesex-va/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 22.8-acre Middlesex, VA, property with a private island, 1800s farmhouse, and beaches tops the week’s most popular homes list.",
+      "published": "2026-10-14T08:37:00+00:00",
+      "fetched": "2026-10-14T10:41:59.254764+00:00"
+    },
+    {
+      "id": "b76ee4254bd135d7",
+      "title": "More Adult Kids Are Going ‘No Contact’ With Parents. How Will It Affect Generational Wealth?",
+      "link": "https://www.realtor.com/news/trends/adult-kids-no-contact-wealth-transfer/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A perceived rise in estrangement between adult children and parents could affect the housing market and intergenerational wealth transfer.",
+      "published": "2026-10-14T08:18:00+00:00",
+      "fetched": "2026-10-14T10:41:59.254789+00:00"
+    },
     {
       "id": "b7107c4985f416c9",
       "title": "Bidding Wars Fade Across Texas as Most Buyers Face Zero Opponents",
@@ -162,6 +192,16 @@
       "summary": "A Fed official says what we’re all thinking: home prices must drop—and sellers seem to have gotten the message. Per a recent Redfin report, 44.7% of home sales included seller [ ]",
       "published": "2026-10-13T11:00:41+00:00",
       "fetched": "2026-10-13T13:01:15.293406+00:00"
+    },
+    {
+      "id": "002d90db4bb00d58",
+      "title": "Florida Homestead Tax Vote Could Affect 60% of Homeowners",
+      "link": "https://www.realtor.com/news/real-estate-news/florida-homestead-tax-exemption-impact-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Voters are three weeks from deciding whether to radically reform the state's property tax system. Here's what it means.",
+      "published": "2026-10-13T09:00:00+00:00",
+      "fetched": "2026-10-14T10:41:59.254928+00:00"
     },
     {
       "id": "3d7cd30c8bcf4588",
@@ -1462,46 +1502,6 @@
       "summary": "A luxury residential golf community spearheaded by golf legend Tiger Woods is opening this fall outside of Fort Worth, TX. Bluejack Ranch is the 914-acre followup to Bluejack National, a highly-rated",
       "published": "2026-10-03T18:13:00+00:00",
       "fetched": "2026-10-03T20:15:42.881718+00:00"
-    },
-    {
-      "id": "53abd43e0f9a60f5",
-      "title": "Denver’s Historic $10.75 Million ‘Tom Shane’ Estate Hits the Market as City’s Second-Most Expensive Home",
-      "link": "https://www.realtor.com/news/unique-homes/denver-historic-tudor-revival-estate-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Denver's historic $10.75M Tudor Revival estate in Country Club hits the market, featuring 10,000 sq ft and rich art deco heritage.",
-      "published": "2026-10-03T17:33:00+00:00",
-      "fetched": "2026-10-03T20:15:42.881736+00:00"
-    },
-    {
-      "id": "709315c594b0ffd7",
-      "title": "Ex-MLB Star James Shields Cuts Price on Modern Rancho Santa Fe Estate to $19.9M",
-      "link": "https://www.realtor.com/news/sports/james-shields-rancho-santa-fe-mansion-price-drop/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Former MLB pitcher James Shields cuts the price on his modern Rancho Santa Fe estate to $19.9M, complete with a hidden safe room.",
-      "published": "2026-10-03T16:16:00+00:00",
-      "fetched": "2026-10-03T20:15:42.881751+00:00"
-    },
-    {
-      "id": "bcfeb45ff0eff217",
-      "title": "Off-Grid Earthship Home Hits the Market for $625K in Wyoming",
-      "link": "https://www.realtor.com/news/unique-homes/wyoming-off-grid-earthship-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An Earthship home built from 1,343 tires on 55 acres in Wyoming hits the market for $625,000. It features a 66-foot greenhouse.",
-      "published": "2026-10-03T15:30:00+00:00",
-      "fetched": "2026-10-03T20:15:42.881765+00:00"
-    },
-    {
-      "id": "3a4e36328f5f445e",
-      "title": "Westchester’s Priciest Listing Hits the Market for $16 Million with 360-Degree Water Views",
-      "link": "https://www.realtor.com/news/unique-homes/westchesters-priciest-listing-16m-mamaroneck-waterfront-estate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore Westchester's priciest listing: a $16M Mamaroneck estate on Premium Point with water views, pool, and private beach access.",
-      "published": "2026-10-03T13:03:00+00:00",
-      "fetched": "2026-10-03T15:17:31.611987+00:00"
     }
   ]
 }

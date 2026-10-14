@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-14T02:18:54.910056+00:00",
+  "updated": "2026-10-14T10:41:58.510662+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f13b486c34345771",
+      "title": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
+      "link": "https://www.openculture.com/2026/10/why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classics-still-look-so-good.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dollars into current ones, it comes out to $480 million. The most expensive film ever made up to [ ]",
+      "published": "2026-10-14T09:00:07+00:00",
+      "fetched": "2026-10-14T10:41:58.510369+00:00"
+    },
+    {
+      "id": "356d1f3a67916be9",
+      "title": "Soviet-Era Illustrations of J. R. R. Tolkien’s The Hobbit (1976)",
+      "link": "https://www.openculture.com/2026/10/soviet-era-illustrations-of-j-r-r-tolkiens-the-hobbit-1976.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Until I read J. R. R.",
+      "published": "2026-10-14T08:00:40+00:00",
+      "fetched": "2026-10-14T10:41:58.510425+00:00"
+    },
     {
       "id": "7820b2aa87939755",
       "title": "Hiroshi Ishii honored for contributions to global design and human-computer interaction",
@@ -1482,26 +1502,6 @@
       "summary": "This scalable process produces high-performance chips for applications like discreet wearables or pliable augmented-reality displays.",
       "published": "2026-09-03T15:45:00+00:00",
       "fetched": "2026-09-03T20:11:39.504263+00:00"
-    },
-    {
-      "id": "7a102577935180d9",
-      "title": "Wes Anderson Picks Nine of His Favorite Criterion Films",
-      "link": "https://www.openculture.com/2026/09/wes-anderson-picks-nine-of-his-favorite-criterion-films.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Many an internet cinephile has wondered aloud if the Criterion Closet is a real place, or just a set thrown together to make videos when famous directors like Christopher Nolan, Francis Ford Coppola, or Jim Jarmusch drop by. It turns out indeed to exist, not only at Criterion’s offices in New York, but also elsewhere. [ ]",
-      "published": "2026-09-03T09:00:20+00:00",
-      "fetched": "2026-09-03T10:11:36.672707+00:00"
-    },
-    {
-      "id": "0c43fd1bf440d4ed",
-      "title": "Discover J.R.R. Tolkien’s Personal Book Cover Designs for The Lord of the Rings Trilogy",
-      "link": "https://www.openculture.com/2026/09/j-r-r-tolkiens-personal-book-cover-designs-for-the-lord-of-the-rings.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "In some rare cases, adaptations and interpretations of a literary work can surpass the source. Despite hundreds of valiant efforts on the part of fans, filmmakers, game/toy designers, and radio producers, this has never been true of the fully-realized fantasy world in J.R.R. Tolkien’s The Hobbit and The Lord of the Rings trilogy (not that it’s ever [ ]",
-      "published": "2026-09-03T08:00:51+00:00",
-      "fetched": "2026-09-03T10:11:36.672770+00:00"
     }
   ]
 }
