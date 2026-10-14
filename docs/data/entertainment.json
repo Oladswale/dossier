@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-14T16:01:51.841935+00:00",
+  "updated": "2026-10-14T21:01:32.444626+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fc7e477ea8aedbc4",
+      "title": "Fox’s $22 Billion Roku Deal Approved by Shareholders of Both Companies",
+      "link": "https://variety.com/2026/tv/news/fox-roku-acquisition-approved-shareholders-1236912437/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In an expected development, shareholders for both Fox Corp. and Roku voted to approve Fox s $22 billion acquisition of the streaming-video platform company. At separate special meetings of shareholders Wednesday to vote on the deal, the majority of shares owned by Fox Corp.",
+      "published": "2026-10-14T20:42:13+00:00",
+      "fetched": "2026-10-14T21:01:32.185253+00:00"
+    },
+    {
+      "id": "edeba06e95be176b",
+      "title": "YouTube to Label AI-Generated Songs Across Its Platforms: Listeners ‘Want Transparency’",
+      "link": "https://variety.com/2026/music/news/youtube-to-label-ai-generated-songs-music-1236912408/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "YouTube will label AI-generated songs across its main website and YouTube Music, the latest service to publicly mark tracks as not produced by humans. “Generative AI is opening up new ways for artists to create, experiment, and share music,” YouTube said in a blog post on Wednesday. “As these tools evolve, our listeners have told us [ ]",
+      "published": "2026-10-14T20:31:28+00:00",
+      "fetched": "2026-10-14T21:01:32.185317+00:00"
+    },
+    {
+      "id": "3ad5c438e1a3da18",
+      "title": "Markus Schleinzer on Sandra Hüller, Star of His Austrian Oscar Entry ‘Rose’ and a Berlin Best Lead Performance Winner: ‘She’s the Queen’",
+      "link": "https://variety.com/2026/film/global/markus-schleinzer-sandra-huller-austria-oscar-viff-1236912348/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "As a filmmaker, Markus Schleinzer owes much to his 17-year career as a casting director. “Directing a movie and being a casting director are quite similar jobs,” he tells Variety. Both require making the right choices under pressure and persuading others to believe in them.",
+      "published": "2026-10-14T20:19:19+00:00",
+      "fetched": "2026-10-14T21:01:32.185382+00:00"
+    },
+    {
+      "id": "68931048b4f2e80d",
+      "title": "Sally Rooney Speaks Out on Her Books Being Removed from U.K. Shelves Over Palestine Action Support: ‘I Am Wholly Prepared to Accept the Consequences’",
+      "link": "https://variety.com/2026/biz/news/sally-rooney-uk-book-ban-palestine-action-israel-normal-people-1236912423/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sally Rooney is sticking to her guns. The Irish author behind the bestselling novels “Conversations with Friends” and “Normal People” — the latter adapted into an award-winning miniseries that launched the careers of Paul Mescal and Daisy Edgar-Jones — has claimed spoken out about being forced to not sell her books in the U.K. over [ ]",
+      "published": "2026-10-14T20:18:35+00:00",
+      "fetched": "2026-10-14T21:01:32.185437+00:00"
+    },
+    {
+      "id": "23e048ac357ccb21",
+      "title": "How a Controversial Hepatitis B Study Was Funded by the CDC Amid a Global Swirl of Criticism",
+      "link": "https://www.rollingstone.com/politics/politics-news/hepatitis-b-vaccine-study-documents-cdc-1235642201/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "As experts questioned the ethics of the study, documents show that expiring funds forced a rushed vote in Denmark, where the researchers’ university is based",
+      "published": "2026-10-14T19:39:56+00:00",
+      "fetched": "2026-10-14T21:01:32.301824+00:00"
+    },
+    {
+      "id": "5a5c04326cfa5b09",
+      "title": "How to Get Tickets to the 2026 ‘Christmas Spectacular Starring the Radio City Rockettes’ Online",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/radio-city-rockettes-christmas-spectacular-tickets-get-deals-discounts-1235459226/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "This year marks the 93rd season of the iconic New York City holiday show, and here's how to score the best ticket deals to see it live",
+      "published": "2026-10-14T19:30:11+00:00",
+      "fetched": "2026-10-14T21:01:32.301863+00:00"
+    },
+    {
+      "id": "365b002093486f30",
+      "title": "Rosalía’s ‘Magnolias’ Sees 300 Percent Stream Surge After ‘SNL’",
+      "link": "https://www.rollingstone.com/music/music-latin/aturday-night-snl-performance-stream-bump-1235642528/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Spanish singer’s evocative performance went viral this week",
+      "published": "2026-10-14T19:20:05+00:00",
+      "fetched": "2026-10-14T21:01:32.301889+00:00"
+    },
+    {
+      "id": "c3e9490d1f87c7dd",
+      "title": "New Numbers Show Just How Badly Trump Wrecked the Economy",
+      "link": "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Inflation and gas prices are up — and they're not coming down anytime soon",
+      "published": "2026-10-14T19:15:13+00:00",
+      "fetched": "2026-10-14T21:01:32.301914+00:00"
+    },
+    {
+      "id": "265819251869fb36",
+      "title": "Variety’s 2026 Artisans to Watch: ‘Obsession’ Makeup Head, ‘Project Hail Mary’ Animation Supervisor, ‘La Bola Negra’ Composer and More",
+      "link": "https://variety.com/lists/varietys-2026-artisans-to-watch-obsession-la-bola-negra/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In 2026, moviegoers came back to cinemas, packing theaters to see blockbusters like “The Odyssey,” “Project Hail Mary,” “Spider-Man: Brand New Day,” “Toy Story 5,” “Michael” and “The Super Mario Galaxy Movie” and low-budget films like “Backrooms” and “Obsession.” But all those movies needed skilled artisans to complete the directors visions, including those on Variety’s [ ]",
+      "published": "2026-10-14T19:15:00+00:00",
+      "fetched": "2026-10-14T21:01:32.185492+00:00"
+    },
+    {
+      "id": "f1f9a57894550192",
+      "title": "Jeremy Allen White and Mikey Madison on the Perils of Social Media",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/jeremy-allen-white-mikey-madison-social-reckoning-interview-1235642394/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Social Reckoning co-stars stop by the Rolling Stone Studio to discuss their new movie, playing real people, and their own ups and downs with life online",
+      "published": "2026-10-14T19:00:26+00:00",
+      "fetched": "2026-10-14T21:01:32.301943+00:00"
+    },
+    {
+      "id": "293791c11640fec9",
+      "title": "‘Maximum Pleasure Guaranteed’ Renewed for Season 2 at Apple TV",
+      "link": "https://variety.com/2026/tv/news/maximum-pleasure-guaranteed-season-2-apple-tv-1236912202/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Maximum Pleasure Guaranteed has been renewed for a second season at Apple TV. Per the official logline, the series stars follows newly divorced mom Paula (Tatiana Maslany) as she falls down a dangerous rabbit hole of blackmail, murder and youth soccer. Convinced she witnessed a crime — while simultaneously struggling through a custody battle and [ ]",
+      "published": "2026-10-14T19:00:00+00:00",
+      "fetched": "2026-10-14T21:01:32.185545+00:00"
+    },
+    {
+      "id": "b9ec8871a4babcf5",
+      "title": "Bob Daly to Step Down as Chair of AFI Board of Directors (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/bob-daly-step-down-chair-of-afi-board-of-directors-1236912235/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After 17 years of leadership, Bob Daly will step down as chair of the American Film Institute Board of Directors at the next trustee meeting on Wednesday, Oct. 21, Variety can reveal exclusively. Daly, former Warner Bros.",
+      "published": "2026-10-14T18:49:53+00:00",
+      "fetched": "2026-10-14T21:01:32.185587+00:00"
+    },
+    {
+      "id": "868549b01e43c0d1",
+      "title": "Box Office: ‘Street Fighter’ Aims for $30 Million Opening, ‘You Can See Everything’ Could Score $8 Million Start",
+      "link": "https://variety.com/2026/film/box-office/street-fighter-box-office-opening-weekend-projections-1236910614/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Strength in numbers? Movie theater operators are hoping the adage proves true as four new movies aim to bolster the October box office. Paramount s video game adaptation “Street Fighter” will lead over fellow newcomers, with opening weekend estimates of $25 million to $35 million from 3,500 North American theaters.",
+      "published": "2026-10-14T18:45:14+00:00",
+      "fetched": "2026-10-14T21:01:32.185642+00:00"
+    },
+    {
+      "id": "66100527f13bc3dc",
+      "title": "Warner Records Names Jim Roppo Vice Chairman",
+      "link": "https://variety.com/2026/music/news/warner-records-jim-roppo-vice-chairman-1236912271/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Just hours after his departure from Republic Records was announced, Jim Roppo has been officially named vice chairman of Warner Records Group. He will be based in Los Angeles and report to Chairman CEO Aaron Bay-Schuck; his start date will be confirmed in the coming weeks. Roppo joins the company following nearly three decades [ ]",
+      "published": "2026-10-14T18:33:55+00:00",
+      "fetched": "2026-10-14T21:01:32.185682+00:00"
+    },
+    {
+      "id": "c5c95c2cf24c71f7",
+      "title": "Shop Owner Says Kelly Clarkson ‘Used Her Fame to Try to Destroy Our Business’",
+      "link": "https://www.rollingstone.com/culture/culture-news/kelly-clarkson-brooklyn-shop-art-of-play-owner-interview-1235642589/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "A visit to the Brooklyn store at the center of a celebrity spat, where patrons and staff are trying to get back to business as usual",
+      "published": "2026-10-14T18:05:51+00:00",
+      "fetched": "2026-10-14T21:01:32.301971+00:00"
+    },
+    {
+      "id": "f012ffac0e17b613",
+      "title": "Mark Duplass Joins Cast of Hulu’s Erotic Thriller Limited Series ‘Victoria’",
+      "link": "https://variety.com/2026/tv/news/mark-duplass-hulu-victoria-cast-erotic-thriller-1236910823/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Mark Duplass has been added to the cast of Hulu s limited series “Victoria,” joining previously announced stars Li Jun Li and Diane Lane. The San Francisco-set drama is described as an “erotic thriller” that follows a con woman who finds herself in the elite world of venture capital and a “dark web of power, luxury [ ]",
+      "published": "2026-10-14T18:00:00+00:00",
+      "fetched": "2026-10-14T21:01:32.185730+00:00"
+    },
+    {
+      "id": "8d5e9bffeb31283c",
+      "title": "Rachel Chinouriri: An Indie-Pop Leading Light Gets Very Real",
+      "link": "https://www.rollingstone.com/music/music-album-reviews/rachel-chinouriri-i-think-i-spoke-too-soon-album-review-1235637822/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "On I Think I Spoke Too Soon , the British singer-songwriter reevaluates how she wants to be treated in all kinds of relationships, especially the one she has with herself",
+      "published": "2026-10-14T17:42:19+00:00",
+      "fetched": "2026-10-14T21:01:32.301998+00:00"
+    },
+    {
+      "id": "895e72a30a467d12",
+      "title": "Kanye West Slapped With Nearly $200,000 in Legal Fees and Costs in Malibu Mansion Fiasco",
+      "link": "https://www.rollingstone.com/music/music-news/kanye-west-tony-saxon-malibu-mansion-dispute-1235642498/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Plaintiff Tony Saxon was previously awarded $140,000 for injuries suffered while working at the rapper-producer’s $57 million Malibu beach home",
+      "published": "2026-10-14T17:32:53+00:00",
+      "fetched": "2026-10-14T21:01:32.302041+00:00"
+    },
+    {
+      "id": "5067eeb88224fa93",
+      "title": "Adéla Defends Rachel Chinouriri After Fan Ripped Down Promo Posters",
+      "link": "https://www.rollingstone.com/music/music-news/adela-defends-rachel-chinouriri-ripped-down-posters-1235642465/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Returning from a brief social media hiatus, Adéla encouraged fans to be more respectful of other artists",
+      "published": "2026-10-14T17:06:57+00:00",
+      "fetched": "2026-10-14T21:01:32.302067+00:00"
+    },
+    {
+      "id": "d04d6254f437edd9",
+      "title": "Sally Rooney Books No Longer Sold in U.K. Due to Palestine Action Support",
+      "link": "https://www.rollingstone.com/culture/culture-news/sally-rooney-palestine-action-royalties-ban-1235642539/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The author and her publisher say the UK's ban of Palestine Action means Rooney's work must leave shelves.",
+      "published": "2026-10-14T17:04:24+00:00",
+      "fetched": "2026-10-14T21:01:32.302090+00:00"
+    },
     {
       "id": "ab75c8fed7405875",
       "title": "How Empress Of Found a New Sense of Home on ‘Dream House’",
@@ -1302,206 +1502,6 @@
       "summary": "Three filmmakers at the forefront of China’s women-led cinema boom – Shao Yihui, Yang Lina and Yin Lichuan – have new titles on the slate of sales agent Parallax Films, which is shopping them to buyers at the Asian Contents Film Market (ACFM) in Busan. In the short “Winning at Sleep,” Shao turns her [ ]",
       "published": "2026-10-12T01:21:54+00:00",
       "fetched": "2026-10-12T02:48:32.635657+00:00"
-    },
-    {
-      "id": "e45e6648ce14f121",
-      "title": "Locarno Title ‘Rapture’ Director Dominic Sangma Confronts Unregulated Stone Mining in Busan Asian Project Market Drama ‘Veil of Dust’",
-      "link": "https://variety.com/2026/film/markets-festivals/stone-mining-drama-veil-dust-busan-asian-project-market-1236908610/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A villager maimed by a mining blast and his wife’s fight for compensation open up a story of exploitation, complicity and indigenous belief in “Veil of Dust,” the new project from “Rapture” director Dominic Sangma. The project is part of the Asian Project Market, which runs within the Busan International Film Festival’s Asian Contents [ ]",
-      "published": "2026-10-12T01:10:45+00:00",
-      "fetched": "2026-10-12T02:48:32.635712+00:00"
-    },
-    {
-      "id": "0dfd78de53646c77",
-      "title": "‘The Sea Speaks His Name’ Review: Absorbing Indonesian Political Thriller Is an Ode to Disappeared Activists",
-      "link": "https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In an age where some call themselves activists merely through social media posting, stories of the dangers, consequences and occasional, very hard-won rewards of boots-on-the-ground political activism have additional potency. Though Yosep Anggi Noen s compellingly angry and anguished The Sea Speaks His Name is set predominantly in the 1990s, chronicling grassroots student resistance to Indonesian [ ]",
-      "published": "2026-10-12T00:55:39+00:00",
-      "fetched": "2026-10-12T02:48:32.635766+00:00"
-    },
-    {
-      "id": "1ed3f3bd614c32a4",
-      "title": "Sylvia Chang Backs Malaysian Grief Drama ‘One Fine Day,’ About a Family Undone by Their Daughter’s Murder, at Busan Asian Project Market",
-      "link": "https://variety.com/2026/film/markets-festivals/sylvia-chang-one-fine-day-busan-asian-project-market-1236908599/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A family torn apart by the unsolved murder of their young daughter tries to keep living day to day in “One Fine Day,” a Malaysian drama from director Tan Seng Kiat with Asian film icon Sylvia Chang aboard as executive producer. The project is part of the Asian Project Market, which runs within the Busan [ ]",
-      "published": "2026-10-12T00:52:12+00:00",
-      "fetched": "2026-10-12T02:48:32.635818+00:00"
-    },
-    {
-      "id": "72ed3b42d5027dea",
-      "title": "Polygamy, Ghosts and Grief Collide in ‘Marlina’ Director Mouly Surya’s Busan Asian Project Market Drama ‘The Wife Who Can See Dead People (Or Jinn)’",
-      "link": "https://variety.com/2026/film/markets-festivals/mouly-surya-polygamy-ghost-drama-busan-asian-project-market-1236908594/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A young bride who sees ghosts joins a polygamous Muslim household and forms a bond with one of her husband’s other wives in “The Wife Who Can See Dead People (Or Jinn),” the new project from Indonesian director Mouly Surya (“Marlina the Murderer in Four Acts”). The project is part of the Asian Project Market, [ ]",
-      "published": "2026-10-12T00:39:58+00:00",
-      "fetched": "2026-10-12T02:48:32.635873+00:00"
-    },
-    {
-      "id": "2899bf55e06a1407",
-      "title": "Andrew Garfield Reacts to Oscar Buzz as ‘Artificial’ Gets Resounding London Reception: ‘So Flattered That Anyone Is Going to See This Film in the First Place’",
-      "link": "https://variety.com/2026/film/festivals/andrew-garfield-reacts-artificial-oscar-buzz-london-premiere-1236907596/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Artificial isn t hitting theaters until December, but Andrew Garfield is already sparking Oscar buzz for his performance as OpenAI CEO Sam Altman. Luca Guadagnino s tech tale, which follows the five-day period in 2023 when Altman was fired and then rehired, earned rave reviews after its world premiere at New York Film Festival last week. Both [ ]",
-      "published": "2026-10-12T00:36:39+00:00",
-      "fetched": "2026-10-12T02:48:32.635925+00:00"
-    },
-    {
-      "id": "be62f93e9661b41f",
-      "title": "Reza Rahadian Turns His Grandmother’s Decades in Exile Into Busan Asian Project Market Drama ‘Casparina’",
-      "link": "https://variety.com/2026/film/markets-festivals/reza-rahadians-exile-drama-casparina-busan-asian-project-market-1236908582/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A journalist stripped of her Indonesian citizenship in 1965 comes home decades later to children who grew up without her in “Casparina,” the second feature from actor-director Reza Rahadian, inspired by the life of his grandmother Francisca Casparina Fanggidaej. The project is part of the Asian Project Market, which runs within the Busan International Film [ ]",
-      "published": "2026-10-12T00:25:23+00:00",
-      "fetched": "2026-10-12T02:48:32.635976+00:00"
-    },
-    {
-      "id": "94f4f30bcdf4f064",
-      "title": "‘Animals’ Star Luis Gerardo Méndez on Working With Ben Affleck and Speaking Out About Immigration: ‘You Could Be Next’",
-      "link": "https://variety.com/2026/film/columns/animals-luis-gerardo-mendez-ben-affleck-immigrant-rights-1236907764/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "When Luis Gerardo Méndez got a call from his agents that Ben Affleck wanted to cast him in “Animals,” he was surprised the Oscar winner even knew who he was. “They sent me the script, and it had a very beautiful note at the end from Ben, just saying like, ‘Hey, Luis, I really want [ ]",
-      "published": "2026-10-11T20:27:18+00:00",
-      "fetched": "2026-10-11T21:07:11.487426+00:00"
-    },
-    {
-      "id": "a5733afc9e60a35e",
-      "title": "Taylor Swift Spends Her 100th Week at No. 1 on the Billboard 200, as ‘Life of a Showgirl’ Stays on Top in Week 2 of ‘Encore’ Rebound",
-      "link": "https://variety.com/2026/music/news/taylor-swift-100th-week-billboard-200-number-one-beatles-1236908356/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Taylor Swift is fond of the number 13, but here s betting she also considers the numeral 100 lucky, too. She can now celebrate having 100 weeks at No. 1 on the Billboard 200 chart, for all of her albums combined, further extending a record among solo artists that will be difficult for anyone to catch [ ]",
-      "published": "2026-10-11T20:22:14+00:00",
-      "fetched": "2026-10-11T21:07:11.487486+00:00"
-    },
-    {
-      "id": "ed2ea2362d2ab204",
-      "title": "Why Disney’s Kids & Family Division Is Working With Creators Like Dhar Mann and Nastya: We Need to ‘Meet Kids Where They Are’",
-      "link": "https://variety.com/2026/tv/global/disney-kids-family-creators-dhar-mann-nastya-1236908306/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "During a panel discussion at MipJunior in Cannes on Sunday, Ayo Davis, president of Disney’s Kids Family division, reflected on how the studio was responding to the disruption in viewing habits among younger viewers, including working with some of the same creators who are contributing to that disruption. “I think we can all probably [ ]",
-      "published": "2026-10-11T19:50:58+00:00",
-      "fetched": "2026-10-11T21:07:11.487546+00:00"
-    },
-    {
-      "id": "3459611c7573d9d7",
-      "title": "See Sombr Bring Out Lindsey Buckingham for ‘Go Your Own Way’ at Los Angeles Show",
-      "link": "https://www.rollingstone.com/music/music-news/sombr-lindsey-buckingham-go-your-own-way-los-angeles-show-1235641067/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Neighbourhood's Jesse Rutherford also performs \"Sweater Weather\" at Sombr's Kia Forum gig",
-      "published": "2026-10-11T19:49:58+00:00",
-      "fetched": "2026-10-11T21:07:11.746606+00:00"
-    },
-    {
-      "id": "f888129b9f3a446e",
-      "title": "Globo Bets on ‘To Love Is to Care’ at Mipcom as It Ushers ‘Super Drama’ Concept: ‘Titles That Represent the Best of the Brazilian Telenovela Tradition’",
-      "link": "https://variety.com/2026/tv/global/globo-to-love-is-to-care-mipcom-super-drama-telenovela-1236908154/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Brazilian media powerhouse Globo arrives at Mipcom with “To Love is to Care,” its latest primetime telenovela by lauded author Walcyr Carrasco. The melodrama stars a roster of some of Brazil’s biggest screen stars, including Chay Suede, Letícia Colin, Tony Ramos and Antônio Fagundes. The market marks Globo’s introduction of the telenovela to the international [ ]",
-      "published": "2026-10-11T19:33:29+00:00",
-      "fetched": "2026-10-11T21:07:11.487605+00:00"
-    },
-    {
-      "id": "93d0f3f77348a537",
-      "title": "Sally Field Was Like a ‘Mother Figure’ While Filming ‘Mrs. Doubtfire,’ Says Star Matthew Lawrence: ‘We Really Became a Family Unit’",
-      "link": "https://variety.com/2026/film/news/matthew-lawrence-sally-field-mrs-doubtfire-1236908316/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Matthew Lawrence is reflecting on his experience filming “Mrs. Doubtfire,” where he played Sally Field and Robin Williams’ son. The 1993 film followed Williams as Daniel, a father who disguises himself as the titular Scottish nanny for his three children — played by Lawrence, Lisa Jakub and Mara Wilson — to prove to his estranged [ ]",
-      "published": "2026-10-11T19:26:24+00:00",
-      "fetched": "2026-10-11T21:07:11.487659+00:00"
-    },
-    {
-      "id": "2021cd1d51634cf1",
-      "title": "‘Artemis Fowl’ Animated TV Show Set at Disney",
-      "link": "https://variety.com/2026/tv/news/artemis-fowl-animated-tv-show-disney-1236908229/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Artemis Fowl is coming to TV. An animated series adaptation of the bestselling book franchise has been greenlit for Disney Channel and Disney+. Author Eoin Colfer announced the news during the “25 Years of Artemis Fowl” panel at New York Comic Con.",
-      "published": "2026-10-11T18:45:00+00:00",
-      "fetched": "2026-10-11T21:07:11.487709+00:00"
-    },
-    {
-      "id": "9371ee2e42c4d9aa",
-      "title": "Tom Cruise’s ‘Digger’ Now Stands to Lose $245 Million After Dropping 60% in Second Weekend",
-      "link": "https://variety.com/2026/film/box-office/digger-losing-millions-warner-bros-box-office-1236908217/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Digger will go down in box office history for all the wrong reasons. Tom Cruise and director Alejandro González Iñárritu s R-rated environmental satire is tracking to lose $245 million in its theatrical run, according to knowledgeable sources. It will wind up as one of the biggest flops, not just of the year but potentially of [ ]",
-      "published": "2026-10-11T18:37:32+00:00",
-      "fetched": "2026-10-11T21:07:11.487762+00:00"
-    },
-    {
-      "id": "f55f41e5e398673e",
-      "title": "‘Musk’ Director Alex Gibney Confirms Universal Wavered in Planning Overseas Release, Says He Tried to Interview Elon Musk: ‘His Response Was Writing “Gibney Is a Douche”’",
-      "link": "https://variety.com/2026/film/news/musk-director-alex-gibney-universal-overseas-release-elon-musk-1236908243/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Alex Gibney, director of the 3-hour-and-45-minute Elon Musk-centered documentary “Musk,” discussed the lengths he went to to interview the tech billionaire for the film and why he believes Universal Pictures hesitated to plan an international release in a new interview with The New York Times. Although Musk does not appear in the film (though Gibney [ ]",
-      "published": "2026-10-11T18:04:50+00:00",
-      "fetched": "2026-10-11T21:07:11.487818+00:00"
-    },
-    {
-      "id": "545990be1ce2dad1",
-      "title": "Globo Announces BBC Deal on Teen Werewolf-Vampire Thriller ‘Blood Red,’ Highlights Big Telenovelas and Hot Fiction Formats at Mipcom Showcase",
-      "link": "https://variety.com/2026/tv/global/globo-bbc-deal-blood-red-mipcom-showcase-to-love-is-to-care-1236908256/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Globo has sold to the BBC “Blood Red Under the Moonlight,” a teen werewolf/vampire love triangle thriller now bound for BBC iPlayer and BBC Three. The biggest new announcement at a packed Mipcom Globo Showcase on Sunday evening, the BBC deal marks a milestone for Globo streaming service Globoplay, the first time a Globoplay [ ]",
-      "published": "2026-10-11T18:01:01+00:00",
-      "fetched": "2026-10-11T21:07:11.487891+00:00"
-    },
-    {
-      "id": "bcf489184dd3f8b7",
-      "title": "Robert Pattinson Recalls ‘Primetime’ Script Feeling Like a ‘Grenade’ as A24 Thriller Premieres in London: It Was ‘Original and Funny… and a Little Dangerous’",
-      "link": "https://variety.com/2026/film/festivals/robert-pattinson-primetime-london-film-festival-premiere-1236907553/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Robert Pattinson delighted London Film Festival on Sunday night as he introduced his latest film, Primetime, to an eager audience at BFI Imax. Sporting a dark grey suit and slicked-back hair, Pattinson explained why he decided to come on board the psychological thriller not only as its lead — he portrays former To Catch a [ ]",
-      "published": "2026-10-11T17:53:54+00:00",
-      "fetched": "2026-10-11T21:07:11.487950+00:00"
-    },
-    {
-      "id": "908099f7a03e7fb1",
-      "title": "Pope Leo XIV to Undergo Surgery After Nodule Found in Lung",
-      "link": "https://www.rollingstone.com/culture/culture-news/pope-leo-xiv-undergo-surgery-nodule-lung-1235641026/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"It was detected at a very early stage and is well-localized,\" the pontiff said Sunday. \"The doctors believe that it is best to intervene\"",
-      "published": "2026-10-11T17:35:38+00:00",
-      "fetched": "2026-10-11T21:07:11.746644+00:00"
-    },
-    {
-      "id": "873cf07b93a1d55f",
-      "title": "The 76 Best Albums of 1976",
-      "link": "https://www.rollingstone.com/music/music-lists/best-albums-1976-1235622589/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Disco was king, Frampton came alive, new sounds like dub and punk were rising up, and the radio was full of Stevie Wonder and Kiss",
-      "published": "2026-10-11T17:35:11+00:00",
-      "fetched": "2026-10-11T21:07:11.746672+00:00"
-    },
-    {
-      "id": "fc6158e0e6306300",
-      "title": "Spain Hits Mipcom With Prestige Dramas, Reality Formats, Headed by Can Yaman, ‘Nowhere’ Star Anna Castillo and ‘La Mesias’ Lead Carmen Machi",
-      "link": "https://variety.com/2026/tv/markets-festivals/movistar-plus-mediaset-the-mediapro-studio-atresmedia-rtve-1236893901/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "'Forever Home' Courtesy of Imagina Sales",
-      "published": "2026-10-11T16:37:06+00:00",
-      "fetched": "2026-10-11T16:50:54.483776+00:00"
     }
   ]
 }

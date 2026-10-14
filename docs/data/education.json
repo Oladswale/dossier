@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-14T16:01:53.267796+00:00",
+  "updated": "2026-10-14T21:01:33.592622+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7f68c92bb38c5dda",
+      "title": "MIT remembers Thomas Rose, a brilliant researcher and generous colleague",
+      "link": "https://news.mit.edu/2026/mit-remembers-thomas-rose-1014",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Faculty, students, staff, family, and friends gathered to remember the assistant professor and archaeometallurgist who died last month.",
+      "published": "2026-10-14T18:30:00+00:00",
+      "fetched": "2026-10-14T21:01:32.729785+00:00"
+    },
     {
       "id": "5f5fe93cecc76b7f",
       "title": "Researchers improve weather forecasts looking two to six weeks out",
@@ -1492,16 +1502,6 @@
       "summary": "Duane Boning, MIT’s vice provost for international activities, discusses the Institute’s approach to global engagement.",
       "published": "2026-09-03T19:15:00+00:00",
       "fetched": "2026-09-03T20:11:39.504200+00:00"
-    },
-    {
-      "id": "455b81b03e3e7416",
-      "title": "Assistant Professor Thomas Rose, an expert in archaeometallurgy, dies at 37",
-      "link": "https://news.mit.edu/2026/mit-assistant-professor-thomas-rose-archaeometallurgy-expert-dies-0903",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Colleagues remember Rose as an enthusiastic and gracious friend who had recently started a promising research track at MIT.",
-      "published": "2026-09-03T17:00:00+00:00",
-      "fetched": "2026-09-03T20:11:39.504237+00:00"
     }
   ]
 }

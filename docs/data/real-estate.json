@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-14T16:01:54.067308+00:00",
+  "updated": "2026-10-14T21:01:34.199158+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d4f08e8572e6ba0a",
+      "title": "Philadelphia’s Deed Fraud Cases Have Surged 15% This Year",
+      "link": "https://www.realtor.com/news/trends/philadelphia-deed-fraud-cases-surged-in-past-year-district-attorney/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Philadelphia has received 152 reports of deed fraud so far in 2026, almost matching the 159 reports filed by the end of the year in 2025.",
+      "published": "2026-10-14T20:56:35+00:00",
+      "fetched": "2026-10-14T21:01:34.198362+00:00"
+    },
+    {
+      "id": "56de0ff4b7deaaa3",
+      "title": "Fed Interest Rate Hike Seems More Likely This Month After Alarming Inflation Data",
+      "link": "https://www.realtor.com/news/real-estate-news/cpi-inflation-report-fed-interest-rate-hike-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Markets wasted no time pricing in the new inflation data, with investors raising the probability of a Fed rate hike in October to 35%.",
+      "published": "2026-10-14T19:50:52+00:00",
+      "fetched": "2026-10-14T21:01:34.198400+00:00"
+    },
+    {
+      "id": "808549ead9df334e",
+      "title": "HGTV’S Charlie Kawas Opens Up About Sharing Cancer Treatment on ‘Botched Homes’: ‘It’s a Tough Place To Be In’",
+      "link": "https://www.realtor.com/news/reality-tv/charlie-kawas-botched-homes-hgtv-cancer-journey-interview/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The TV host opened up about his goal to inspire others with his story, and the best tips for home renovations.",
+      "published": "2026-10-14T19:39:36+00:00",
+      "fetched": "2026-10-14T21:01:34.198433+00:00"
+    },
+    {
+      "id": "ada6734834112845",
+      "title": "Billy Crystal Reveals the One Item That Survived Devastating Fire at His L.A. Home of 46 Years",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/billy-crystal-item-survived-los-angeles-home-california-wildfire/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actor lost his longtime Pacific Palisades residence in January 2025, when a series of fires swept through Southern California.",
+      "published": "2026-10-14T18:47:11+00:00",
+      "fetched": "2026-10-14T21:01:34.198460+00:00"
+    },
+    {
+      "id": "5e1ad6c62e79ef53",
+      "title": "El Niño Storms Threaten To Turn Extravagant Halloween Decor Into Liabilities for Homeowners",
+      "link": "https://www.realtor.com/news/trends/el-nino-storms-halloween-decor-liabilities-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Elaborate Halloween displays can make your home the talk of the town, but severe weather can quickly turn them into costly liabilities.",
+      "published": "2026-10-14T18:21:05+00:00",
+      "fetched": "2026-10-14T21:01:34.198489+00:00"
+    },
+    {
+      "id": "4ee16d855103f03b",
+      "title": "Escalation Clause Can Win Your Dream Home—but at a Cost",
+      "link": "https://www.realtor.com/advice/finance/escalation-clause-usage-bidding-war/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An escalation clause is a useful tool to stay in contention when buying a home, but revealing what you're willing to pay could backfire.",
+      "published": "2026-10-14T18:08:40+00:00",
+      "fetched": "2026-10-14T21:01:34.198516+00:00"
+    },
+    {
+      "id": "897cb6c0523bda06",
+      "title": "Alexander Brothers’ Dark Secrets Exposed in Chilling New ‘Wolves of Real Estate’ Trailer",
+      "link": "https://www.realtor.com/news/trends/wolves-of-real-estate-alexander-brothers-trailer-docuseries/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Peacock has unveiled a new trailer for its upcoming three-part docuseries, \"The Wolves of Real Estate: The Alexander Brothers.\"",
+      "published": "2026-10-14T17:27:58+00:00",
+      "fetched": "2026-10-14T21:01:34.198543+00:00"
+    },
+    {
+      "id": "41b6e74c6865bcaf",
+      "title": "A Secret Celebrity Hideaway With a Sports Complex Near Joshua Tree Just Hit the Market for $2.95 Million",
+      "link": "https://www.realtor.com/news/unique-homes/sun-via-yucca-valley-desert-compound-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside Sun Via: A Yucca Valley compound near Joshua Tree featuring boutique resort amenities, custom finishes, and total privacy.",
+      "published": "2026-10-14T16:50:27+00:00",
+      "fetched": "2026-10-14T21:01:34.198570+00:00"
+    },
+    {
+      "id": "45482165fde8d87a",
+      "title": "Inside Kelly Clarkson’s Multimillion-Dollar Property Portfolio: From a Montana Ranch to Lavish California Mansions",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kelly-clarkson-home-personal-matter-talk-show/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "From a mansion in Tennessee and a California estate to a Montana ranch, Clarkson has owned an array of remarkable properties.",
+      "published": "2026-10-14T16:33:00+00:00",
+      "fetched": "2026-10-14T21:01:34.198600+00:00"
+    },
     {
       "id": "a2c53118c90d9f5c",
       "title": "Social Security Benefits Will Rise 3.6% in 2027—but Some Key Costs Are Rising Faster",
@@ -62,6 +152,16 @@
       "summary": "Tiny Marco Island, in the Naples-Marco Island, FL, metro area, has an elementary school that draws wealthy buyers from all over.",
       "published": "2026-10-14T09:00:00+00:00",
       "fetched": "2026-10-14T10:41:59.254729+00:00"
+    },
+    {
+      "id": "bfc359b189c6bb63",
+      "title": "This Waterfront Property Comes With Its Own Private Island—and an 1800s Farmhouse",
+      "link": "https://www.realtor.com/news/unique-homes/most-popular-home-private-island-middlesex-va/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 22.8-acre Middlesex, VA, property with a private island, 1800s farmhouse, and beaches tops the week’s most popular homes list.",
+      "published": "2026-10-14T08:37:00+00:00",
+      "fetched": "2026-10-14T21:01:34.198664+00:00"
     },
     {
       "id": "ffa0000d3596ef94",
@@ -1402,106 +1502,6 @@
       "summary": "The mother of two, who made history as the youngest White House press secretary, announced in August that she would be leaving her role.",
       "published": "2026-10-05T16:23:46+00:00",
       "fetched": "2026-10-05T23:23:52.149528+00:00"
-    },
-    {
-      "id": "47e5df4f3caaea11",
-      "title": "Tennessee HOA Tries To Ban Security Cameras, but Residents Protest",
-      "link": "https://www.realtor.com/news/trends/tennessee-hoa-ban-security-cameras-nolensville-bent-creek/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Homeowners in the Bent Creek Townhomes community in Nolensville, TN, are pushing back against a new HOA rule banning security cameras.",
-      "published": "2026-10-05T14:50:16+00:00",
-      "fetched": "2026-10-05T23:23:52.149554+00:00"
-    },
-    {
-      "id": "e199c745e4cd6fac",
-      "title": "Kody and Robyn Exit ‘Sister Wives’ as Remaining Cast Unpacks $1.5 Million Coyote Pass Fallout",
-      "link": "https://www.realtor.com/news/reality-tv/sister-wives-robyn-kody-brown-departure-coyote-pass-land/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Over a year after the $1.5 million sale of the family's Coyote Pass property, Kody and Robyn Brown have left the \"Sister Wives\" cast.",
-      "published": "2026-10-05T14:45:00+00:00",
-      "fetched": "2026-10-05T23:23:52.149584+00:00"
-    },
-    {
-      "id": "8da8fda4da6d7870",
-      "title": "EXCLUSIVE: Sharon Osbourne Slashes $1 Million From Price of L.A. Mansion She Shared With Late Husband Ozzy",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/sharon-ozzy-osbourne-los-angeles-mansion-for-sale-price-cut/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The sprawling property was snapped up by the Hollywood power couple in 2015 for $11.85 million. Sharon previously listed it for $17 million.",
-      "published": "2026-10-05T13:29:30+00:00",
-      "fetched": "2026-10-05T23:23:52.149632+00:00"
-    },
-    {
-      "id": "5bad6689588e4949",
-      "title": "From Accidental Landlord to 40+ Apartment Units (While Working Full-Time)",
-      "link": "https://www.biggerpockets.com/blog/rookie-779",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Buying rentals one house at a time works, but what happens when you do the math and realize it ll take 20 years to change your life? That’s the exact wall [ ]",
-      "published": "2026-10-05T11:00:46+00:00",
-      "fetched": "2026-10-05T12:47:11.493223+00:00"
-    },
-    {
-      "id": "6b63327ea805aa6b",
-      "title": "You Don’t Need Dozens of Rentals to Reach Financial Freedom (He Tried It)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1339",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You don’t need to buy dozens of rental properties to have financial freedom. And if you ask today’s guest, less is usually more. For over a decade, John Crutchfield was [ ]",
-      "published": "2026-10-05T11:00:46+00:00",
-      "fetched": "2026-10-05T12:47:11.493269+00:00"
-    },
-    {
-      "id": "0ce28d6313aa6f5c",
-      "title": "The ‘Silver Tsunami’ Could Solve the Inventory Problem—and Create a Demand Problem",
-      "link": "https://www.realtor.com/news/trends/silver-tsunami-housing-inventory-demand-home-prices/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"silver tsunami\" could erase today’s housing inventory deficit—but slower demand and a mismatch in supply could create a new problem.",
-      "published": "2026-10-05T09:00:00+00:00",
-      "fetched": "2026-10-05T12:47:11.901783+00:00"
-    },
-    {
-      "id": "781d50c146e4b3a1",
-      "title": "Gen Z Is Holding Out for Sub-5% Mortgages. It’s In for a Rude Awakening",
-      "link": "https://www.realtor.com/advice/finance/below-5-mortgages-gen-z-money-monday/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "With mortgage rates at a yearly high and the economy struggling, how is the next generation ever supposed to become homeowners?",
-      "published": "2026-10-05T08:36:00+00:00",
-      "fetched": "2026-10-05T12:47:11.901822+00:00"
-    },
-    {
-      "id": "86a064f4f979870f",
-      "title": "Housing Week Ahead: Hottest Markets, Mortgage Rates, and Home Loan Reforms",
-      "link": "https://www.realtor.com/news/trends/weekly-housing-video-data-reports-october-5-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The week ahead is light on market indicators, but will bring several exclusive new reports from the Realtor.com economics team.",
-      "published": "2026-10-05T08:17:00+00:00",
-      "fetched": "2026-10-05T12:47:11.901853+00:00"
-    },
-    {
-      "id": "5acaf39a13a8d609",
-      "title": "$20 Million Tennessee Compound Comes with a Music Studio, Helipad—and Its Own Wedding Venue",
-      "link": "https://www.realtor.com/news/unique-homes/tennessee-compound-wedding-venue-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 118-acre property just outside Columbia, TN, is listed for nearly three times what is sold for last years.",
-      "published": "2026-10-04T21:01:00+00:00",
-      "fetched": "2026-10-05T02:33:39.337908+00:00"
-    },
-    {
-      "id": "2bee331e3d556e61",
-      "title": "Frank Lloyd Wright-Inspired Home Tucked Away on 5 Wooded Acres Is Listed for $1.23 Million Near Portland",
-      "link": "https://www.realtor.com/news/unique-homes/frank-lloyd-wright-inspired-home-for-sale-oregon-city/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "This \"architecturally unique\" home in Oregon City features three bedrooms and three bathrooms and has had only one owner.",
-      "published": "2026-10-04T17:19:00+00:00",
-      "fetched": "2026-10-04T20:32:05.580462+00:00"
     }
   ]
 }

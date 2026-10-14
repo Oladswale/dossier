@@ -1,8 +1,198 @@
 {
   "category": "finance",
-  "updated": "2026-10-14T16:01:37.360349+00:00",
+  "updated": "2026-10-14T21:01:17.976232+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4e0929b298fa73ff",
+      "title": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
+      "link": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Baby boomers have been the biggest force driving home sales over the last few years. Many of them are moving to be close to family, and in particular, their grandchildren.",
+      "published": "2026-10-14T20:39:00+00:00",
+      "fetched": "2026-10-14T21:01:17.021999+00:00"
+    },
+    {
+      "id": "e5793a051c946735",
+      "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+      "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "CoreWeave’s bonds issued six months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%",
+      "published": "2026-10-14T20:36:00+00:00",
+      "fetched": "2026-10-14T21:01:17.022060+00:00"
+    },
+    {
+      "id": "3b5d066de927dbe2",
+      "title": "Why Dell’s stock was one of the S&P 500’s biggest laggards on Wednesday",
+      "link": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "An analyst sees limited room for Dell and HPE shares to continue climbing, as dynamics could shift within the market for memory components.",
+      "published": "2026-10-14T20:21:00+00:00",
+      "fetched": "2026-10-14T21:01:17.022094+00:00"
+    },
+    {
+      "id": "7401f31971b21cdb",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "published": "2026-10-14T20:20:46+00:00",
+      "fetched": "2026-10-14T21:01:17.183339+00:00"
+    },
+    {
+      "id": "ce17e4486dcc188d",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "published": "2026-10-14T20:06:28+00:00",
+      "fetched": "2026-10-14T21:01:17.183294+00:00"
+    },
+    {
+      "id": "1f85e93731906b7a",
+      "title": "US cuts deadline for refugees to challenge status termination to 10 days",
+      "link": "https://nairametrics.com/2026/10/14/us-cuts-deadline-for-refugees-to-challenge-status-termination-to-10-days/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The United States government has reduced the period allowed for refugees to challenge the termination of their legal status from 30 days to 10 days, raising concerns over the possibility of increased deportations. The post US cuts deadline for refugees to challenge status termination to 10 days appeared first on Nairametrics .",
+      "published": "2026-10-14T19:47:33+00:00",
+      "fetched": "2026-10-14T21:01:17.500705+00:00"
+    },
+    {
+      "id": "b543e334a3c52cac",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "”I earn $110,000 a year.”",
+      "published": "2026-10-14T19:15:00+00:00",
+      "fetched": "2026-10-14T21:01:17.022145+00:00"
+    },
+    {
+      "id": "d6a49b5c7eedc368",
+      "title": "NNPC advances IPO plans, addresses governance, financial reporting gaps",
+      "link": "https://nairametrics.com/2026/10/14/nnpc-advances-ipo-plans-addresses-governance-financial-reporting-gaps/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian National Petroleum Company Limited (NNPC Ltd.) is advancing plans for its initial public offering (IPO) as it implements governance reforms and addresses financial reporting gaps identified by its advisers ahead of a potential capital market listing. The post NNPC advances IPO plans, addresses governance, financial reporting gaps appeared first on Nairametrics .",
+      "published": "2026-10-14T19:04:46+00:00",
+      "fetched": "2026-10-14T21:01:17.500757+00:00"
+    },
+    {
+      "id": "7a455b1c5786809c",
+      "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+      "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Market participants and economists are split on the question of whether or not the Federal Reserve will raise interest rates by another quarter-point in two weeks.",
+      "published": "2026-10-14T19:04:00+00:00",
+      "fetched": "2026-10-14T21:01:17.022173+00:00"
+    },
+    {
+      "id": "bd26964e3d0a7c14",
+      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
+      "published": "2026-10-14T18:53:00+00:00",
+      "fetched": "2026-10-14T21:01:17.022202+00:00"
+    },
+    {
+      "id": "2efea78707174bd3",
+      "title": "NGX rebounds, investors recover N103.9 billion as oil, banking stocks rise",
+      "link": "https://nairametrics.com/2026/10/14/ngx-rebounds-investors-recover-n103-9-billion-as-oil-banking-stocks-rise/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market returned to positive territory on Wednesday, October 14, 2026, as investor wealth expanded by N103.90 billion in a single trading session, lifting the total market capitalization of listed equities to N160.81 trillion. The post NGX rebounds, investors recover N103.9 billion as oil, banking stocks rise appeared first on Nairametrics .",
+      "published": "2026-10-14T18:51:01+00:00",
+      "fetched": "2026-10-14T21:01:17.500801+00:00"
+    },
+    {
+      "id": "7e2effe4033578c8",
+      "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+      "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "‘I don’t think you should jack up rates into this environment right now,’ says head of fixed-income at Aptus Capital Advisors",
+      "published": "2026-10-14T18:27:00+00:00",
+      "fetched": "2026-10-14T21:01:17.022231+00:00"
+    },
+    {
+      "id": "d6b5b82cbf59f870",
+      "title": "CAF raises annual funding for African football federations to $700,000, marking 250% growth since 2021",
+      "link": "https://nairametrics.com/2026/10/14/caf-raises-annual-funding-for-african-football-federations-to-700000-marking-250-growth-since-2021/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Confederation of African Football (CAF) has increased its annual financial support to its 54 member associations, raising the maximum subvention available to each federation to $700,000 as the continental football body expands its investment in football development and institutional capacity. The post CAF raises annual funding for African football federations to $700,000, marking 250% growth since 2021 appeared first on Nairametrics .",
+      "published": "2026-10-14T18:12:20+00:00",
+      "fetched": "2026-10-14T21:01:17.500846+00:00"
+    },
+    {
+      "id": "f63977a28d5d2670",
+      "title": "Dangote Group, Botswana exchange commend NGX group for boosting cross-border collaboration",
+      "link": "https://nairametrics.com/2026/10/14/dangote-group-botswana-exchange-commend-ngx-group-for-boosting-cross-border-collaboration/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Industries Limited and the Botswana Stock Exchange (BSE) have commended Nigerian Exchange Group (NGX Group) for bringing African exchanges together to expand cross-border investment opportunities through the ongoing roadshow for the Dangote Petroleum Refinery and Petrochemicals FZE offer. The post Dangote Group, Botswana exchange commend NGX group for boosting cross-border collaboration appeared first on Nairametrics .",
+      "published": "2026-10-14T18:02:36+00:00",
+      "fetched": "2026-10-14T21:01:17.500890+00:00"
+    },
+    {
+      "id": "63b4efc9171334c3",
+      "title": "LAWMA to deploy surveillance cameras across Lagos to curb illegal dumping",
+      "link": "https://nairametrics.com/2026/10/14/lawma-to-deploy-surveillance-cameras-across-lagos-to-curb-illegal-dumping/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Lagos Waste Management Authority (LAWMA) plans to install surveillance cameras at strategic locations across Lagos State to strengthen monitoring and curb illegal waste dumping. The post LAWMA to deploy surveillance cameras across Lagos to curb illegal dumping appeared first on Nairametrics .",
+      "published": "2026-10-14T17:29:19+00:00",
+      "fetched": "2026-10-14T21:01:17.500926+00:00"
+    },
+    {
+      "id": "abd406d50156d55f",
+      "title": "Top 10 African countries with the cheapest electricity prices in Q3 2026",
+      "link": "https://nairametrics.com/2026/10/14/top-10-african-countries-with-the-cheapest-electricity-prices-in-q3-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa recorded an average electricity price of $0.141 per kilowatt-hour (kWh) for residential consumers and $0.134 per kWh for businesses in the third quarter of 2026. The post Top 10 African countries with the cheapest electricity prices in Q3 2026 appeared first on Nairametrics .",
+      "published": "2026-10-14T17:28:50+00:00",
+      "fetched": "2026-10-14T21:01:17.500962+00:00"
+    },
+    {
+      "id": "85f583a97bf05cf7",
+      "title": "Bank of Uganda raises benchmark interest rate to 12% amid currency, inflation pressures",
+      "link": "https://nairametrics.com/2026/10/14/bank-of-uganda-raises-benchmark-interest-rate-to-12-amid-currency-inflation-pressures/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Bank of Uganda (BoU) has raised its benchmark interest rate by 225 basis points to 12%, tightening monetary policy in response to the Ugandan shilling’s depreciation, worsening external balances, and rising inflation risks. The post Bank of Uganda raises benchmark interest rate to 12% amid currency, inflation pressures appeared first on Nairametrics .",
+      "published": "2026-10-14T17:16:59+00:00",
+      "fetched": "2026-10-14T21:01:17.501031+00:00"
+    },
+    {
+      "id": "92eeef04528e9f09",
+      "title": "FG approves N40.7 billion for healthcare delivery, expands coverage",
+      "link": "https://nairametrics.com/2026/10/14/fg-approves-n40-7-billion-for-healthcare-delivery-in-q3-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has approved N40.7 billion for healthcare delivery under the Basic Health Care Provision Fund (BHCPF) for the third quarter of 2026. The post FG approves N40.7 billion for healthcare delivery, expands coverage appeared first on Nairametrics .",
+      "published": "2026-10-14T17:11:08+00:00",
+      "fetched": "2026-10-14T21:01:17.501069+00:00"
+    },
+    {
+      "id": "a08739f19a966958",
+      "title": "Nigeria’s identity agency says its database is locally hosted and managed by staff",
+      "link": "https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "NIMC says Nigeria’s national identity database is hosted locally and managed by its employees. But as more agencies connect to the system, protecting Nigerians’ personal information depends on access controls and accountability—not just where the data is stored.",
+      "published": "2026-10-14T16:39:39+00:00",
+      "fetched": "2026-10-14T21:01:17.976021+00:00"
+    },
     {
       "id": "74dac95b32236ae0",
       "title": "Why Emmanuel Obiechina ditched dedicated apps to build a bank inside your DMs",
@@ -1312,196 +1502,6 @@
       "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
       "published": "2026-10-12T20:40:00+00:00",
       "fetched": "2026-10-12T23:51:29.726199+00:00"
-    },
-    {
-      "id": "74e5e712b5792f50",
-      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
-      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The company’s stock was up more than 3% following the release of Muse Wonder and Muse Wonder Full, which analysts expect to drive new business opportunities.",
-      "published": "2026-10-12T19:43:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726232+00:00"
-    },
-    {
-      "id": "70953dc0e7253aef",
-      "title": "FMDA projects N2.499 trillion money-market inflows as system liquidity falls 23.7%",
-      "link": "https://nairametrics.com/2026/10/12/fmda-projects-n2-499-trillion-money-market-inflows-as-system-liquidity-falls-23-7/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's money market is expected to receive approximately N2.499 trillion in inflows during the week beginning October 12, 2026, with maturing Open Market Operations (OMO) bills accounting for nearly all the projected funds, following a 23.68% decline in banking system liquidity. The post FMDA projects N2.499 trillion money-market inflows as system liquidity falls 23.7% appeared first on Nairametrics .",
-      "published": "2026-10-12T19:06:52+00:00",
-      "fetched": "2026-10-12T23:51:30.362301+00:00"
-    },
-    {
-      "id": "cf76e995427a907e",
-      "title": "Nigerian stocks shed N407 billion, banking sell-off drags market lower",
-      "link": "https://nairametrics.com/2026/10/12/nigerian-stocks-shed-n407-billion-banking-sell-off-drags-market-lower/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian stock market began the week on Monday, October 12, 2026, in red as total equities market capitalisation contracted from N161.26 trillion recorded on Friday, October 9, to N160.85 trillion, losing N407.30 billion. The post Nigerian stocks shed N407 billion, banking sell-off drags market lower appeared first on Nairametrics .",
-      "published": "2026-10-12T18:43:50+00:00",
-      "fetched": "2026-10-12T23:51:30.362354+00:00"
-    },
-    {
-      "id": "ec6621fcd118d4a3",
-      "title": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies",
-      "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Oil markets were struggling on Monday to gauge how President Donald Trump’s new declaration of an “energy ceasefire” between Russia and Ukraine might help mitigate a deepening global oil crisis as the Middle East conflict drags on.",
-      "published": "2026-10-12T18:36:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726273+00:00"
-    },
-    {
-      "id": "e0287d34bb79f55c",
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The S P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
-      "published": "2026-10-12T18:18:39+00:00",
-      "fetched": "2026-10-12T23:51:29.881904+00:00"
-    },
-    {
-      "id": "d2dfd361a90d697e",
-      "title": "Dangote Refinery heads to Appeal Court over ‘continual fuel import licences’ judgement",
-      "link": "https://nairametrics.com/2026/10/12/dangote-refinery-heads-to-appeal-court-over-continual-fuel-import-licences-judgement/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Petroleum Refinery Petrochemicals FZE has urged the Court of Appeal in Abuja to grant it permission to challenge a recent Federal High Court judgment ordering the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) to continue to grant petroleum product import licences to three major oil marketers — Matrix Energy, AA Rano, and AYM Shafa. The post Dangote Refinery heads to Appeal Court over continual fuel import licences judgement appeared first on Nairametrics .",
-      "published": "2026-10-12T18:13:16+00:00",
-      "fetched": "2026-10-12T23:51:30.362429+00:00"
-    },
-    {
-      "id": "adec178fbe2679d5",
-      "title": "If AI prompts can build your product, will African VCs still invest?",
-      "link": "https://techcabal.com/2026/10/12/african-ai-startups-vc-funding/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Six African investors explain what makes African AI startups fundable: local-language voice products, sticky software, licences and revenue.",
-      "published": "2026-10-12T17:19:52+00:00",
-      "fetched": "2026-10-12T23:51:31.950367+00:00"
-    },
-    {
-      "id": "966264115ba703bb",
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-      "published": "2026-10-12T17:15:21+00:00",
-      "fetched": "2026-10-12T23:51:29.881939+00:00"
-    },
-    {
-      "id": "6c8778fc1b46253b",
-      "title": "Dangote Refinery extends IPO subscription deadline to October 27",
-      "link": "https://nairametrics.com/2026/10/12/dangote-refinery-extends-ipo-subscription-deadline-to-october-27/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Petroleum Refinery and Petrochemicals FZE has extended the subscription period for its initial public offering (IPO) by two weeks to October 27, 2026, following approval from the Securities and Exchange Commission (SEC). The offer, which opened on September 14, was initially scheduled to close on October 13, but the extension gives prospective investors an [ ] The post Dangote Refinery extends IPO subscription deadline to October 27 appeared first on Nairametrics .",
-      "published": "2026-10-12T16:45:59+00:00",
-      "fetched": "2026-10-12T23:51:30.362486+00:00"
-    },
-    {
-      "id": "a85fc8260aa83292",
-      "title": "Global smartphone shipments plunge 20% to lowest level in 14 years",
-      "link": "https://nairametrics.com/2026/10/12/global-smartphone-shipments-plunge-20-to-lowest-level-in-14-years/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Global smartphone shipments fell 20% year-on-year in the third quarter of 2026 to their lowest level for the period since 2012, as persistent memory shortages and rising component costs disrupted supply and pushed up retail prices. The post Global smartphone shipments plunge 20% to lowest level in 14 years appeared first on Nairametrics .",
-      "published": "2026-10-12T15:45:20+00:00",
-      "fetched": "2026-10-12T23:51:30.362530+00:00"
-    },
-    {
-      "id": "4ebda3147c948c56",
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-      "published": "2026-10-12T15:37:26+00:00",
-      "fetched": "2026-10-12T23:51:29.881968+00:00"
-    },
-    {
-      "id": "93ab04035095e8e5",
-      "title": "Court strikes out charges against alleged fake DG over prosecution loopholes",
-      "link": "https://nairametrics.com/2026/10/12/court-strikes-out-charges-against-alleged-fake-dg-over-prosecution-loopholes/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal High Court in Abuja has struck out the eight-count criminal charges against Adeniyi Adeyemi, the alleged fake Director-General of the Presidential Foreign Intervention Promotion Council (PFIPC), following the discovery of legal loopholes in the prosecution's case. The post Court strikes out charges against alleged fake DG over prosecution loopholes appeared first on Nairametrics .",
-      "published": "2026-10-12T15:35:39+00:00",
-      "fetched": "2026-10-12T23:51:30.362606+00:00"
-    },
-    {
-      "id": "b04d2f7d1997b214",
-      "title": "Aradel and Oando Put Nigeria’s Indigenous Energy Sector on the FTSE Frontier Index",
-      "link": "https://nairametrics.com/2026/10/12/aradel-and-oando-put-nigerias-indigenous-energy-sector-on-the-ftse-frontier-index/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s return to Frontier Market status has brought 31 Nigerian companies into the FTSE Frontier Index Series, including Aradel Holdings and Oando Plc, the only two Nigerian indigenous energy companies among the constituents. Their inclusion is notable not simply because they have entered an international market benchmark, but because it offers a useful lens into [ ] The post Aradel and Oando Put Nigeria’s Indigenous Energy Sector on the FTSE Frontier Index appeared first on Nairametrics .",
-      "published": "2026-10-12T14:57:20+00:00",
-      "fetched": "2026-10-12T23:51:30.362678+00:00"
-    },
-    {
-      "id": "475c9751ae324d2e",
-      "title": "Midea Launches WIN 9JA WIN Promotion with Guaranteed Rewards and Chery Tiggo 2 Pro Grand Prize",
-      "link": "https://nairametrics.com/2026/10/12/midea-launches-win-9ja-win-promotion-with-guaranteed-rewards-and-chery-tiggo-2-pro-grand-prize/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nationwide scratch and win campaign rewards every qualifying shopper and brings the promotion closer to consumers through a multi market Promo Tour Truck programme Opening News LeadMidea has announced the launch of WIN 9JA WIN, a nationwide consumer promotion designed to reward Nigerians who choose Midea home appliances during the 2026 festive shopping season. Running [ ] The post Midea Launches WIN 9JA WIN Promotion with Guaranteed Rewards and Chery Tiggo 2 Pro Grand Prize appeared first on Nairametrics .",
-      "published": "2026-10-12T14:49:28+00:00",
-      "fetched": "2026-10-12T23:51:30.362736+00:00"
-    },
-    {
-      "id": "a4f22615bc8b589f",
-      "title": "Millions of Africans have internet coverage but are not online. Here’s why",
-      "link": "https://techcabal.com/2026/10/12/africans-with-internet-coverage-offline/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Millions of Africans live within reach of mobile broadband but remain offline. Ghana, Egypt, and Niger show why expanding coverage is only part of the solution: people also need affordable devices, trusted services and an internet that serves their everyday needs.",
-      "published": "2026-10-12T14:34:21+00:00",
-      "fetched": "2026-10-12T23:51:31.950416+00:00"
-    },
-    {
-      "id": "0069c5890388dab6",
-      "title": "Send App by Flutterwave Named Headline Sponsor of EbonyLife Place London Launch as Flutterwave Becomes Exclusive Payments Partner",
-      "link": "https://nairametrics.com/2026/10/12/send-app-by-flutterwave-named-headline-sponsor-of-ebonylife-place-london-launch-as-flutterwave-becomes-exclusive-payments-partner/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Partnership brings payment technology and diaspora engagement to Mo Abudu’s new destination for African film, food, fashion, art and music. Send App by Flutterwave today announced its headline sponsorship of the EbonyLife Place London launch, alongside a broader partnership naming Flutterwave as EbonyLife’s exclusive payments partner. The collaboration brings Flutterwave’s payment technology into the venue’s [ ] The post Send App by Flutterwave Named Headline Sponsor of EbonyLife Place London Launch as Flutterwave Becomes Exclusive Payments Partner appeared first on Nairametrics .",
-      "published": "2026-10-12T14:30:52+00:00",
-      "fetched": "2026-10-12T23:51:30.362808+00:00"
-    },
-    {
-      "id": "e788c4c0aeed6970",
-      "title": "NNPC revenue hits N28.54 trillion in eight months",
-      "link": "https://nairametrics.com/2026/10/12/nnpc-revenue-hits-n28-54-trillion-in-eight-months/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "NNPC Limited generated N28.54 trillion in revenue and recorded N2.99 trillion in profit after tax between January and August 2026. The post NNPC revenue hits N28.54 trillion in eight months appeared first on Nairametrics .",
-      "published": "2026-10-12T14:28:45+00:00",
-      "fetched": "2026-10-12T23:51:30.362843+00:00"
-    },
-    {
-      "id": "75ff0d645945c052",
-      "title": "Peter Obi challenges World Bank’s growth outlook, says Nigerians remain worse off",
-      "link": "https://nairametrics.com/2026/10/12/peter-obi-challenges-world-banks-growth-outlook-says-nigerians-remain-worse-off/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Former Anambra State Governor and the presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, has said that the World Bank’s assessment of Nigeria’s improving macroeconomic performance does not reflect the economic realities facing millions of Nigerians, particularly the persistent challenges of poverty, unemployment and declining living standards. The post Peter Obi challenges World Bank’s growth outlook, says Nigerians remain worse off appeared first on Nairametrics .",
-      "published": "2026-10-12T14:18:03+00:00",
-      "fetched": "2026-10-12T23:51:30.362906+00:00"
-    },
-    {
-      "id": "874b316ad64637ec",
-      "title": "INEC flags fake governorship notice targeting six states, warns Nigerians",
-      "link": "https://nairametrics.com/2026/10/12/inec-flags-fake-governorship-notice-targeting-six-states-warns-nigerians/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Independent National Electoral Commission (INEC) has warned Nigerians against a fraudulent publication circulating online that falsely claims to be a special announcement by the Commission regarding governorship candidates in six states. The post INEC flags fake governorship notice targeting six states, warns Nigerians appeared first on Nairametrics .",
-      "published": "2026-10-12T14:08:49+00:00",
-      "fetched": "2026-10-12T23:51:30.362953+00:00"
     }
   ]
 }
