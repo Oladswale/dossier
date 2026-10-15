@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-15T10:25:50.218697+00:00",
+  "updated": "2026-10-15T15:50:05.221363+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ab60854520c6aee6",
+      "title": "Building trust in governments through digital platforms",
+      "link": "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
+      "published": "2026-10-15T13:45:00+00:00",
+      "fetched": "2026-10-15T15:50:04.165889+00:00"
+    },
     {
       "id": "5538e9db4bb95c80",
       "title": "The Megaprojects That Even the Ancient Romans Couldn’t Pull Off: Rerouting the Tiber, Digging a Canal, and More",
@@ -1492,16 +1502,6 @@
       "summary": "MIT anthropologist Chris Walley developed a project for people in Southeast Chicago to tell their histories — an approach any community can adopt.",
       "published": "2026-09-04T04:00:00+00:00",
       "fetched": "2026-09-04T10:01:42.968396+00:00"
-    },
-    {
-      "id": "74774f61bd1494ad",
-      "title": "How architects turned a hulking brick box into MIT’s newest academic hub",
-      "link": "https://news.mit.edu/2026/how-architects-turned-hulking-brick-box-newest-academic-hub-0904",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A venerable storage facility has become a 21st-century architectural tour de force. Here are the key decisions that transformed the Met Warehouse.",
-      "published": "2026-09-04T04:00:00+00:00",
-      "fetched": "2026-09-04T10:01:42.968430+00:00"
     }
   ]
 }
