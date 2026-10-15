@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-15T02:00:01.440862+00:00",
+  "updated": "2026-10-15T10:25:51.172497+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a5b97a1234978050",
+      "title": "Fleeing High Rent in Major Cities? Why These ‘Affordable Refuge’ Metros Are Getting Pricier",
+      "link": "https://www.realtor.com/news/trends/fleeing-high-rent-in-major-cities-why-these-affordable-refuge-metros-are-getting-pricier/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Renters are willing to move to new metros to find an affordable place to live, turning up the heat on cities like St. Louis and Minneapolis.",
+      "published": "2026-10-15T09:00:00+00:00",
+      "fetched": "2026-10-15T10:25:51.171865+00:00"
+    },
+    {
+      "id": "0ed77cd3dcb6999d",
+      "title": "Tour Big Bear Lake’s Most Expensive Listing: A $15 Million Mountain-Modern Waterfront Retreat",
+      "link": "https://www.realtor.com/news/unique-homes/big-bear-modern-15-million-estate-luxury/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The massive estate features seven bedrooms and 1.63 private acres with rare lake frontage in the four-season vacation destination.",
+      "published": "2026-10-15T08:46:00+00:00",
+      "fetched": "2026-10-15T10:25:51.171916+00:00"
+    },
+    {
+      "id": "a97c68e5ea9d61b7",
+      "title": "Inside Country Star Becca Bowen’s South Carolina Sanctuary Filled With Tributes to Dolly Parton and Her Grandpa",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/country-singer-becca-bowen-south-carolina-home-keeps-her-connected-to-family-and-dolly-parton/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The country singer, who considers Dolly Parton and her grandfather to be her greatest inspirations, honors both in her Palmetto State abode.",
+      "published": "2026-10-15T08:11:00+00:00",
+      "fetched": "2026-10-15T10:25:51.171949+00:00"
+    },
     {
       "id": "aa400becfe5e9b3b",
       "title": "Kelly Ripa and Mark Consuelos Prepare Their Upper East Side Townhouse for a New Family Member",
@@ -1472,36 +1502,6 @@
       "summary": "Zhang has been accused of working as an unregistered agent of the People's Republic of China and surveilling a Taiwanese individual.",
       "published": "2026-10-05T20:54:17+00:00",
       "fetched": "2026-10-05T23:23:52.149352+00:00"
-    },
-    {
-      "id": "25d9b33904677b90",
-      "title": "Ohio Man Fought Foreclosure on His $4.5M Mansion for 15 Years. Now, He Faces Eviction",
-      "link": "https://www.realtor.com/news/trends/ohio-louis-telerico-eviction-foreclosure-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "After a decade and a half of a constant legal battle, Louis Telerico has still not given up on his dream of remaining in the home.",
-      "published": "2026-10-05T20:24:04+00:00",
-      "fetched": "2026-10-05T23:23:52.149381+00:00"
-    },
-    {
-      "id": "af8caf6070b943f5",
-      "title": "Barndominium Raising: How Much Does It Cost To Build This Trendy Home?",
-      "link": "https://www.realtor.com/advice/buy/how-much-does-it-cost-to-build-a-barndominium/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Barndominiums are trendy, beautiful, and surprisingly affordable. Here's how much it would cost to build your barndominium dream home.",
-      "published": "2026-10-05T19:24:00+00:00",
-      "fetched": "2026-10-05T23:23:52.149408+00:00"
-    },
-    {
-      "id": "bbd281ec84874d2e",
-      "title": "Why Seattle’s $22 Minimum Wage Hike Isn’t Beating Real Estate",
-      "link": "https://www.realtor.com/news/real-estate-news/seattle-new-minimum-wage-2027-rising-housing-costs/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Seattle's minimum wage will cross the $22 threshold next year—but homeownership remains out of reach for most low-income workers.",
-      "published": "2026-10-05T18:33:25+00:00",
-      "fetched": "2026-10-05T23:23:52.149439+00:00"
     }
   ]
 }

@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-15T02:00:00.858376+00:00",
+  "updated": "2026-10-15T10:25:50.218697+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5538e9db4bb95c80",
+      "title": "The Megaprojects That Even the Ancient Romans Couldn’t Pull Off: Rerouting the Tiber, Digging a Canal, and More",
+      "link": "https://www.openculture.com/2026/10/the-megaprojects-even-the-ancient-romans-couldnt-pull-off.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Some would call the United States of America the mightiest empire the world has ever known. Yet over the past half-century or so, it has shown a strange inability to build domestic infrastructure, at least at the efficiency or on the scale seen elsewhere in the world. (This will not come as news to American [ ]",
+      "published": "2026-10-15T09:00:05+00:00",
+      "fetched": "2026-10-15T10:25:50.218407+00:00"
+    },
+    {
+      "id": "f9eedb17c5c63a5d",
+      "title": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
+      "link": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch through layers of Freudian interpretation and Surrealist appreciation. We cannot help “regarding the scores of bizarre monsters”—allegories for sins and punishments far more [ ]",
+      "published": "2026-10-15T08:00:54+00:00",
+      "fetched": "2026-10-15T10:25:50.218477+00:00"
+    },
+    {
+      "id": "957ce462fb36161d",
+      "title": "Q&A: The “collision” between AI, your brain, and society",
+      "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+      "published": "2026-10-15T04:00:00+00:00",
+      "fetched": "2026-10-15T10:25:48.823933+00:00"
+    },
     {
       "id": "7f68c92bb38c5dda",
       "title": "MIT remembers Thomas Rose, a brilliant researcher and generous colleague",
@@ -1472,36 +1502,6 @@
       "summary": "A venerable storage facility has become a 21st-century architectural tour de force. Here are the key decisions that transformed the Met Warehouse.",
       "published": "2026-09-04T04:00:00+00:00",
       "fetched": "2026-09-04T10:01:42.968430+00:00"
-    },
-    {
-      "id": "53d6c7b06e0bb4f3",
-      "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
-      "link": "https://news.mit.edu/2026/faculty-receive-promotions-school-architecture-and-planning-0903",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The range of faculty disciplines showcases the breadth of research and scholarship across the school.",
-      "published": "2026-09-03T20:50:00+00:00",
-      "fetched": "2026-09-04T01:32:39.547611+00:00"
-    },
-    {
-      "id": "0494d1d10fec43ee",
-      "title": "A home a world away from home",
-      "link": "https://news.mit.edu/2026/home-world-away-home-0921",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "One graduate student family treasures the community they found alongside other MIT student parents.",
-      "published": "2026-09-03T19:30:00+00:00",
-      "fetched": "2026-09-21T21:16:56.584926+00:00"
-    },
-    {
-      "id": "2fdd07b56d8a8c19",
-      "title": "3 Questions: The essential role of international engagement",
-      "link": "https://news.mit.edu/2026/3-questions-essential-role-of-international-engagement-0903",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Duane Boning, MIT’s vice provost for international activities, discusses the Institute’s approach to global engagement.",
-      "published": "2026-09-03T19:15:00+00:00",
-      "fetched": "2026-09-03T20:11:39.504200+00:00"
     }
   ]
 }
