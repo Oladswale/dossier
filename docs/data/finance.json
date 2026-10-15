@@ -1,8 +1,88 @@
 {
   "category": "finance",
-  "updated": "2026-10-14T21:01:17.976232+00:00",
+  "updated": "2026-10-15T01:59:45.086790+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b5da4ffbf6d14b3a",
+      "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
+      "published": "2026-10-15T01:07:00+00:00",
+      "fetched": "2026-10-15T01:59:43.630801+00:00"
+    },
+    {
+      "id": "3502c512ed87cdd8",
+      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+      "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
+      "published": "2026-10-15T00:02:00+00:00",
+      "fetched": "2026-10-15T01:59:43.630856+00:00"
+    },
+    {
+      "id": "7cef4e57401a76dd",
+      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
+      "published": "2026-10-14T23:36:00+00:00",
+      "fetched": "2026-10-15T01:59:43.630891+00:00"
+    },
+    {
+      "id": "0f7e7e88a9da8406",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "published": "2026-10-14T22:45:00+00:00",
+      "fetched": "2026-10-15T01:59:43.630927+00:00"
+    },
+    {
+      "id": "275d1565050eab66",
+      "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+      "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.",
+      "published": "2026-10-14T22:25:00+00:00",
+      "fetched": "2026-10-15T01:59:43.630978+00:00"
+    },
+    {
+      "id": "f29dc9255e35728f",
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+      "published": "2026-10-14T22:24:00+00:00",
+      "fetched": "2026-10-15T01:59:43.631014+00:00"
+    },
+    {
+      "id": "19a6884b7f928c86",
+      "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+      "link": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The CEO’s the U.S.’s biggest banks all chimed in on the risks of related to the massive AI buildout, but how there’s still no sign that investments need to slow down.",
+      "published": "2026-10-14T22:23:00+00:00",
+      "fetched": "2026-10-15T01:59:43.631054+00:00"
+    },
+    {
+      "id": "3e209d88c9799b13",
+      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+      "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Buckle up: Small-cap stocks just hit a market milestone they’d rather avoid.",
+      "published": "2026-10-14T21:54:00+00:00",
+      "fetched": "2026-10-15T01:59:43.631126+00:00"
+    },
     {
       "id": "4e0929b298fa73ff",
       "title": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
@@ -1414,94 +1494,14 @@
       "fetched": "2026-10-13T04:04:27.958029+00:00"
     },
     {
-      "id": "f18a997fad827ddb",
-      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-      "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
-      "published": "2026-10-13T02:00:00+00:00",
-      "fetched": "2026-10-13T04:04:27.456196+00:00"
-    },
-    {
-      "id": "e2168145f72f37f1",
-      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "id": "966264115ba703bb",
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
       "source": "CNBC Finance",
       "category": "finance",
-      "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-      "published": "2026-10-13T01:26:41+00:00",
-      "fetched": "2026-10-13T04:04:27.664364+00:00"
-    },
-    {
-      "id": "4a2bbd7e7a8a400e",
-      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
-      "published": "2026-10-13T00:18:00+00:00",
-      "fetched": "2026-10-13T04:04:27.456244+00:00"
-    },
-    {
-      "id": "6f99fe1d9b475b87",
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "2026-10-12T23:31:00+00:00",
-      "fetched": "2026-10-12T23:51:29.725999+00:00"
-    },
-    {
-      "id": "0796d8a9ba88a158",
-      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
-      "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
-      "published": "2026-10-12T22:27:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726058+00:00"
-    },
-    {
-      "id": "9080e5fc01a47d8d",
-      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-      "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Brazil’s presidential election is powering optimism in the country’s stock market — and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
-      "published": "2026-10-12T22:00:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726111+00:00"
-    },
-    {
-      "id": "e5389439e668f4da",
-      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
-      "published": "2026-10-12T21:19:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726142+00:00"
-    },
-    {
-      "id": "6ae06dfee0dd15cc",
-      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
-      "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
-      "published": "2026-10-12T20:46:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726171+00:00"
-    },
-    {
-      "id": "17583e5a216bf129",
-      "title": "Microsoft hits a big milestone that solidifies its revival",
-      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
-      "published": "2026-10-12T20:40:00+00:00",
-      "fetched": "2026-10-12T23:51:29.726199+00:00"
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "published": "2026-10-13T02:58:11+00:00",
+      "fetched": "2026-10-15T01:59:43.709081+00:00"
     }
   ]
 }
