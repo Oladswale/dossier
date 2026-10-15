@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-15T15:50:05.941149+00:00",
+  "updated": "2026-10-15T20:35:35.770233+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "69f1531590610c9b",
+      "title": "The Plaza Hotel Is Closing for 4 Years—Here’s What That Means for Its Condo Residents",
+      "link": "https://www.realtor.com/news/trends/plaza-hotel-closing-renovations-manhattan-condo-impact/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The iconic New York City landmark is shuttering for renovations, raising questions about what that means for its condo residents.",
+      "published": "2026-10-15T20:05:22+00:00",
+      "fetched": "2026-10-15T20:35:35.769557+00:00"
+    },
+    {
+      "id": "65737be0b3ae029d",
+      "title": "A ‘Trump Bump’ to Social Security Is Coming in 2027—With a Catch",
+      "link": "https://www.realtor.com/advice/finance/social-security-cola-2027-homeownership-catch/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The COLA is meant to help consumers adjust to inflation—but is it enough?",
+      "published": "2026-10-15T18:19:52+00:00",
+      "fetched": "2026-10-15T20:35:35.769594+00:00"
+    },
+    {
+      "id": "1d9294eacb3401fe",
+      "title": "Michael Douglas Details His Journey From Humble NYC Apartment to Lavish 190-Acre Mallorca Estate",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/michael-douglas-homes-throughout-life-new-york-spain/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The famed actor recalls the impactful places he's resided in since he was a child splitting time between New York and Los Angeles.",
+      "published": "2026-10-15T17:36:25+00:00",
+      "fetched": "2026-10-15T20:35:35.769625+00:00"
+    },
+    {
+      "id": "b1df1fc1444da952",
+      "title": "HUD Layoffs Caused Delays and Confusion in Housing Programs, Independent Report Finds",
+      "link": "https://www.realtor.com/news/real-estate-news/hud-layoffs-staffing-cuts-gao-report-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Many of those who left were among its most experienced people, and many agencies that work with HUD say it's become harder to work with.",
+      "published": "2026-10-15T16:27:45+00:00",
+      "fetched": "2026-10-15T20:35:35.769653+00:00"
+    },
+    {
+      "id": "e03d72db6ec8ddc8",
+      "title": "Mortgage Rates Hold Steady at 3-Year High as Bond Market Stabilizes",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-inflation-today-october-15-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed mortgages held steady at 7.4% for the week ending Oct. 15, same as last week.",
+      "published": "2026-10-15T16:00:00+00:00",
+      "fetched": "2026-10-15T20:35:35.769680+00:00"
+    },
     {
       "id": "74e935b199083991",
       "title": "Meghan Markle Says ‘It’s Great to Be Back’ as She and Prince Harry Step Out Together for Major Milestone",
@@ -22,6 +72,16 @@
       "summary": "Dreyer shared a glimpse at her new living situation, while confirming that she is \"recently divorced\" from her ex-husband, Brian Fichera.",
       "published": "2026-10-15T14:37:39+00:00",
       "fetched": "2026-10-15T15:50:05.940531+00:00"
+    },
+    {
+      "id": "d4db2b53eecb9be9",
+      "title": "Mortgage Bankers Release Plan To Lower Borrowing Costs for Homebuyers",
+      "link": "https://www.realtor.com/news/real-estate-news/mortgage-bankers-affordability-policy-roadmap-lower-costs/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "During the MBA's annual convention in Chicago, the trade group released a wide-ranging road map to improving housing affordability.",
+      "published": "2026-10-15T13:54:33+00:00",
+      "fetched": "2026-10-15T20:35:35.769727+00:00"
     },
     {
       "id": "75742ef144cf35bc",
@@ -1442,66 +1502,6 @@
       "summary": "The Lennar investment is just the latest of several bets Abel has made on U.S. homebuilders since taking over the CEO position from Buffett.",
       "published": "2026-10-06T16:26:26+00:00",
       "fetched": "2026-10-06T21:56:03.375493+00:00"
-    },
-    {
-      "id": "f6314d070368d3bd",
-      "title": "Serena Williams, Justin Verlander, Devin Booker, and More Star Athletes Share Glimpses Inside the Lavish Homes They Relax In",
-      "link": "https://www.realtor.com/news/sports/inside-homes-of-iconic-athletes-serena-williams/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The biggest names in sports share a glimpse inside their homes, showcasing the spaces where they kick back and relax.",
-      "published": "2026-10-06T16:13:02+00:00",
-      "fetched": "2026-10-06T21:56:03.375509+00:00"
-    },
-    {
-      "id": "edb55677e8d1ea6d",
-      "title": "Dr. Phil Lists Palatial Beverly Hills Estate for $67.5 Million—More Than Double What He Paid",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dr-phil-beverly-hills-california-mansion-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The TV personality and his wife purchased the property in 2010 for $29.8 million, before completing the residence the following year.",
-      "published": "2026-10-06T15:09:55+00:00",
-      "fetched": "2026-10-06T21:56:03.375524+00:00"
-    },
-    {
-      "id": "57bfc92d176d086c",
-      "title": "Real Estate Mogul Ryan Serhant Launches Chicago Expansion of Rapidly Growing Brokerage",
-      "link": "https://www.realtor.com/news/trends/ryan-serhant-chicago-launch-expansion-brokerage/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Ryan Serhant is expanding his groundbreaking AI-native real estate technology company into another major market with SERHANT. Illinois.",
-      "published": "2026-10-06T13:02:07+00:00",
-      "fetched": "2026-10-06T21:56:03.375539+00:00"
-    },
-    {
-      "id": "e854c6dc11296028",
-      "title": "America Doesn’t Have a Housing “Shortage” (It’s Something Much Worse)",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-466",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "For years, we’ve been told that the United States is short millions of homes, and that building more units is the key to solving the affordable housing crisis. But a [ ]",
-      "published": "2026-10-06T11:00:35+00:00",
-      "fetched": "2026-10-06T12:17:17.282236+00:00"
-    },
-    {
-      "id": "3bd2c4fba7d104d9",
-      "title": "Florida’s Affordability Advantage Is Gone: Inside the Sharp Drop in East Coast Migration to Miami",
-      "link": "https://www.realtor.com/news/trends/east-coast-buyers-lead-to-sharp-drop-in-miami-migration/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Driven by surging living costs, middle-class homebuyers are being squeezed out of Miami as the city transforms into an ultraluxury market.",
-      "published": "2026-10-06T09:00:00+00:00",
-      "fetched": "2026-10-06T12:17:17.800954+00:00"
-    },
-    {
-      "id": "b53ae13a5f849ea0",
-      "title": "The Post-it Note Inheritance Trend—and the Family Fights It Can Leave Behind",
-      "link": "https://www.realtor.com/news/trends/post-it-note-will-inheritance-estate-planning/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Sticky notes can show who wants what—but they may carry little legal weight when heirs disagree over an estate.",
-      "published": "2026-10-06T08:33:00+00:00",
-      "fetched": "2026-10-06T12:17:17.800992+00:00"
     }
   ]
 }

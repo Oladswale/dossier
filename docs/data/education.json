@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-15T15:50:05.221363+00:00",
+  "updated": "2026-10-15T20:35:34.966419+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6de4efc3392c9cda",
+      "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
+      "link": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The cliffs don’t always collapse in the runaway process that scientists had expected.",
+      "published": "2026-10-15T18:00:00+00:00",
+      "fetched": "2026-10-15T20:35:33.884280+00:00"
+    },
     {
       "id": "ab60854520c6aee6",
       "title": "Building trust in governments through digital platforms",
@@ -1492,16 +1502,6 @@
       "summary": "In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the cells.",
       "published": "2026-09-04T04:00:00+00:00",
       "fetched": "2026-09-04T10:01:42.968354+00:00"
-    },
-    {
-      "id": "366877d6544c81b5",
-      "title": "Stories from the steel mills: A model for sharing workers’ histories",
-      "link": "https://news.mit.edu/2026/steel-mill-stories-sharing-workers-histories-model-0904",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT anthropologist Chris Walley developed a project for people in Southeast Chicago to tell their histories — an approach any community can adopt.",
-      "published": "2026-09-04T04:00:00+00:00",
-      "fetched": "2026-09-04T10:01:42.968396+00:00"
     }
   ]
 }
