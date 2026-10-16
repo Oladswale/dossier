@@ -1,8 +1,58 @@
 {
   "category": "finance",
-  "updated": "2026-10-15T20:35:12.395273+00:00",
+  "updated": "2026-10-16T01:49:45.357954+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0bfa0279a10297d1",
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+      "published": "2026-10-15T23:29:00+00:00",
+      "fetched": "2026-10-16T01:49:44.433747+00:00"
+    },
+    {
+      "id": "27d8a08cfa746981",
+      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+      "published": "2026-10-15T23:00:01+00:00",
+      "fetched": "2026-10-16T01:49:44.545450+00:00"
+    },
+    {
+      "id": "862e04bc3951d887",
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+      "published": "2026-10-15T21:56:00+00:00",
+      "fetched": "2026-10-16T01:49:44.433842+00:00"
+    },
+    {
+      "id": "fcfd0b6a62e308e7",
+      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+      "published": "2026-10-15T21:23:00+00:00",
+      "fetched": "2026-10-16T01:49:44.433883+00:00"
+    },
+    {
+      "id": "355ca98b74eb0d3e",
+      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+      "published": "2026-10-15T21:21:00+00:00",
+      "fetched": "2026-10-16T01:49:44.433922+00:00"
+    },
     {
       "id": "b042e46db72dc264",
       "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
@@ -1452,56 +1502,6 @@
       "summary": "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns.",
       "published": "2026-10-13T20:32:00+00:00",
       "fetched": "2026-10-13T21:59:59.255645+00:00"
-    },
-    {
-      "id": "b0672bd57051c98e",
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-13T20:30:00+00:00",
-      "fetched": "2026-10-13T21:59:59.255674+00:00"
-    },
-    {
-      "id": "c54260f2443fc9ae",
-      "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-      "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
-      "published": "2026-10-13T20:27:00+00:00",
-      "fetched": "2026-10-13T21:59:59.255714+00:00"
-    },
-    {
-      "id": "cf39b4a326ba028e",
-      "title": "Micron’s stock extends declines as China competition heats up",
-      "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
-      "published": "2026-10-13T20:25:00+00:00",
-      "fetched": "2026-10-13T21:59:59.255735+00:00"
-    },
-    {
-      "id": "60e066bbef7c583e",
-      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "2026-10-13T20:16:00+00:00",
-      "fetched": "2026-10-13T21:59:59.255760+00:00"
-    },
-    {
-      "id": "0c6284aeca53905e",
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
-      "published": "2026-10-13T19:46:12+00:00",
-      "fetched": "2026-10-13T21:59:59.604540+00:00"
     }
   ]
 }

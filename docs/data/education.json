@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-15T20:35:34.966419+00:00",
+  "updated": "2026-10-16T01:50:00.867067+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9324a06244e76922",
+      "title": "Suzy Nelson transformed student life at MIT",
+      "link": "https://news.mit.edu/2026/suzy-nelson-transformed-student-life-at-mit-1015",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Over the last decade, the vice chancellor has refocused the Institute’s approach to student life to center on student well-being.",
+      "published": "2026-10-15T21:35:00+00:00",
+      "fetched": "2026-10-16T01:49:59.846377+00:00"
+    },
+    {
+      "id": "380dbed5737d2321",
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
+      "published": "2026-10-15T21:00:00+00:00",
+      "fetched": "2026-10-16T01:49:59.846414+00:00"
+    },
+    {
+      "id": "c5479ed8c85328f5",
+      "title": "AI model decodes the language cells use to communicate",
+      "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
+      "published": "2026-10-15T20:50:00+00:00",
+      "fetched": "2026-10-16T01:49:59.846446+00:00"
+    },
     {
       "id": "6de4efc3392c9cda",
       "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
@@ -1472,36 +1502,6 @@
       "summary": "Many who read this will remember watching television on a black-and-white set at some point in their lives. Fewer will remember doing so because only black-and-white sets existed. Of course, your own experience will depend upon your country of origin.",
       "published": "2026-09-04T08:00:05+00:00",
       "fetched": "2026-09-04T10:01:44.679889+00:00"
-    },
-    {
-      "id": "d4475b598e87dcc9",
-      "title": "Media Advisory: Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest",
-      "link": "https://news.mit.edu/2026/media-advisory-governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The five-day festival will explore the future of science, technology, art and design from Wednesday, Sept. 30 to Sunday, Oct. 4",
-      "published": "2026-09-04T04:00:00+00:00",
-      "fetched": "2026-10-01T22:03:13.449631+00:00"
-    },
-    {
-      "id": "728e8478b556f28d",
-      "title": "Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest",
-      "link": "https://news.mit.edu/2026/governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The five-day festival will explore the future of science, technology, art and design from Wednesday, Sept. 30 to Sunday, Oct. 4",
-      "published": "2026-09-04T04:00:00+00:00",
-      "fetched": "2026-09-04T19:57:20.191885+00:00"
-    },
-    {
-      "id": "00112e762c8301fa",
-      "title": "New method allows scientists to follow gene activity over time in the same cells",
-      "link": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the cells.",
-      "published": "2026-09-04T04:00:00+00:00",
-      "fetched": "2026-09-04T10:01:42.968354+00:00"
     }
   ]
 }
