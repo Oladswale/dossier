@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-16T01:50:01.485753+00:00",
+  "updated": "2026-10-16T10:13:07.889025+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9ed39c29ef9e6635",
+      "title": "Millionaire Renters Are Surging—Why the Rich Aren’t Buying",
+      "link": "https://www.realtor.com/news/trends/millionaire-renters-triple-since-2020-rentcafe/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Seven-figure households are renting in greater numbers as mobility, liquidity, and luxury housing reshape the buy vs. rent calculus.",
+      "published": "2026-10-16T09:00:00+00:00",
+      "fetched": "2026-10-16T10:13:07.888447+00:00"
+    },
+    {
+      "id": "0155ecf2f452368e",
+      "title": "‘We Moved 7,000 Miles From Oregon to New Zealand To Get a Fresh Start in Our 60s’",
+      "link": "https://www.realtor.com/news/first-person/move-oregon-new-zealand-fresh-start-investment-visa/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Semiretired Oregon couple Andrew and Kendall Crosby moved to Auckland, New Zealand, on an investment-to-residency visa.",
+      "published": "2026-10-16T08:35:00+00:00",
+      "fetched": "2026-10-16T10:13:07.888490+00:00"
+    },
     {
       "id": "8e17231b28157f7f",
       "title": "Inside the $12.5 Million Colorado Estate With a Hidden Mountainside Car Gallery and a Hydraulic Elevator",
@@ -1482,26 +1502,6 @@
       "summary": "The NFL player, who recently snapped up a Hidden Hills mansion in his move to the Los Angeles Rams, is passionate about holiday displays.",
       "published": "2026-10-06T21:12:08+00:00",
       "fetched": "2026-10-06T21:56:03.375364+00:00"
-    },
-    {
-      "id": "7e63d5b541a5888b",
-      "title": "Most Americans Want To Age at Home. Not Enough Have Successfully Planned Financially for It.",
-      "link": "https://www.realtor.com/advice/finance/age-at-home-financing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "More homeowners in their golden years are staying put, but doing so comes at a price, especially for those who need long-term care.",
-      "published": "2026-10-06T19:03:35+00:00",
-      "fetched": "2026-10-06T21:56:03.375385+00:00"
-    },
-    {
-      "id": "a169fe7afea5dbc9",
-      "title": "Michael Douglas Reveals ‘Incredibly Difficult’ Home Life With Catherine Zeta-Jones as Their $9 Million Mansion Lingers on the Market",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/michael-douglas-catherine-zeta-jones-marriage-hudson-new-york-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Douglas, 82, reflected on the highs and lows of his 25-year marriage to Zeta-Jones, 57, in his new memoir, “One Helluva Ride.\"",
-      "published": "2026-10-06T19:00:22+00:00",
-      "fetched": "2026-10-06T21:56:03.375408+00:00"
     }
   ]
 }
