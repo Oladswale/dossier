@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-16T15:38:17.765516+00:00",
+  "updated": "2026-10-16T20:09:01.432518+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d642091b1cb44d4b",
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "link": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+      "published": "2026-10-16T16:00:00+00:00",
+      "fetched": "2026-10-16T20:09:00.461974+00:00"
+    },
     {
       "id": "13d2ec0a172c209c",
       "title": "How Vincent van Gogh’s Sister-in-Law Worked Tirelessly to Make Him Famous",
@@ -1492,16 +1502,6 @@
       "summary": "In 1927, Bertrand Russell delivered a lecture titled “Why I Am Not a Christian.” At the time, such a declaration was still fairly bold, as was the reasoning he provided for it. Nearly three decades thereafter, he included in his collection Portraits from Memory another, shorter piece, “Why I Am Not a Communist.” That description [ ]",
       "published": "2026-09-07T08:00:08+00:00",
       "fetched": "2026-09-07T20:50:41.558669+00:00"
-    },
-    {
-      "id": "e819780eae6900cd",
-      "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
-      "link": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The work is part of a multiyear effort to develop a distributed sensor network for relaying data collected from this critical region.",
-      "published": "2026-09-04T16:25:00+00:00",
-      "fetched": "2026-09-04T19:57:20.191857+00:00"
     }
   ]
 }

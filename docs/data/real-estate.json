@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-16T15:38:18.361772+00:00",
+  "updated": "2026-10-16T20:09:02.089696+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "060f0d5713042c78",
+      "title": "Inside Katie Zacharia’s Family Life With Hollywood Producer Husband and 4 Kids as She’s ‘Fired’ From Donald Trump’s White House",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/white-house-press-secretary-katie-zacharia-home-family-life/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Zacharaia, who recently replaced Karoline Leavitt as Trump's chief spokesperson, has spent years balancing her career with raising her kids.",
+      "published": "2026-10-16T19:14:04+00:00",
+      "fetched": "2026-10-16T20:09:02.088829+00:00"
+    },
+    {
+      "id": "23fe1082c21f8347",
+      "title": "Fraudster Posed as Swiss Real Estate Investor and 49ers Player, FBI Says",
+      "link": "https://www.realtor.com/news/real-estate-news/daejon-love-49ers-real-estate-fraud-fbi/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Daejon Labrayae Love, 35, of Sacramento County, allegedly told some of the victims that his family was one of the wealthiest in Switzerland.",
+      "published": "2026-10-16T18:40:51+00:00",
+      "fetched": "2026-10-16T20:09:02.088872+00:00"
+    },
+    {
+      "id": "134818698756147c",
+      "title": "Inside Sitcom Producer Chuck Lorre’s Impressive Bicoastal Real Estate Portfolio",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/chuck-lorre-sitcom-producer-real-estate-portfolio/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The legendary sitcom producer has made his mark on the TV industry and picked up some lavish properties along the way.",
+      "published": "2026-10-16T17:56:24+00:00",
+      "fetched": "2026-10-16T20:09:02.088907+00:00"
+    },
+    {
+      "id": "d8022258d5a2e83d",
+      "title": "Katy Perry and Orlando Bloom Could Face New Legal Showdown Over $15 Million Mansion as Former Owner Demands Millions",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/katy-perry-orlando-bloom-court-carl-westcott-legal-battle-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The singer, 41, and the actor, 49, could be questioned about millions of dollars allegedly still owed to businessman Carl Westcott.",
+      "published": "2026-10-16T17:30:53+00:00",
+      "fetched": "2026-10-16T20:09:02.088941+00:00"
+    },
+    {
+      "id": "c96a8e07ae06e461",
+      "title": "EXCLUSIVE: NBA Star LaMelo Ball Lists $2.6 Million Charlotte Condo After Blockbuster Minnesota Timberwolves Trade",
+      "link": "https://www.realtor.com/news/sports/lamelo-ball-charlotte-condo-for-sale-minnesota-timberwolves-trade/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 25-year-old, who spent six seasons with the Hornets before joining Minnesota, is parting ways with his four-bedroom condo.",
+      "published": "2026-10-16T17:18:32+00:00",
+      "fetched": "2026-10-16T20:09:02.088972+00:00"
+    },
+    {
+      "id": "cccfe0fefbe6c1ef",
+      "title": "These Loans Are Helping Real Estate Investors Buy and Rent Out Homes—So Why Doesn’t Everyone Get One?",
+      "link": "https://www.realtor.com/advice/finance/dscr-loans-for-real-estate-investors/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With debt service coverage ratio (DSCR) loans, you make the case that the home you want to buy will pay for itself.",
+      "published": "2026-10-16T17:14:59+00:00",
+      "fetched": "2026-10-16T20:09:02.089006+00:00"
+    },
+    {
+      "id": "80edbd2217af9e7e",
+      "title": "The Cold Reality of 2026 Heating Bills: Are You Ready for the Spike?",
+      "link": "https://www.realtor.com/advice/finance/winter-2026-heating-bills-homeowner-budgeting-tips/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Heating bills will skyrocket this year, due to a variety of issues, but smarthomeowers can plan now for what's to come.",
+      "published": "2026-10-16T17:08:36+00:00",
+      "fetched": "2026-10-16T20:09:02.089035+00:00"
+    },
+    {
+      "id": "43ca7d503ec473af",
+      "title": "A Generation of Young Millionaires Is Choosing Rent Over Ownership",
+      "link": "https://www.realtor.com/news/trends/millionaire-renters-triple-since-2020-rentcafe/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Seven-figure households are renting in greater numbers as mobility, liquidity, and luxury housing reshape the buy vs. rent calculus.",
+      "published": "2026-10-16T16:48:00+00:00",
+      "fetched": "2026-10-16T20:09:02.089066+00:00"
+    },
+    {
+      "id": "dfa40072fcdca906",
+      "title": "Record-Breaking $82.5 Million Laguna Beach Estate Sells With Rotating Bed Under the Stars",
+      "link": "https://www.realtor.com/news/unique-homes/laguna-beach-rockledge-road-record-breaking-home-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "See inside the record-breaking $82.5 million Laguna Beach megamansion featuring a rotating bed, stargazing roof, and floating Pacific views.",
+      "published": "2026-10-16T16:46:53+00:00",
+      "fetched": "2026-10-16T20:09:02.089096+00:00"
+    },
     {
       "id": "8e28514433d27b98",
       "title": "California Wildfire Costs for Homeowners Will Rise 85% in Two Decades, Forecast Says",
@@ -42,6 +132,16 @@
       "summary": "As mortgage rates edge closer to historical highs, a welcomed reprieve came in the form of a pause on the rate rise this week.",
       "published": "2026-10-16T14:02:00+00:00",
       "fetched": "2026-10-16T15:38:18.361341+00:00"
+    },
+    {
+      "id": "a0a4186d06db6e41",
+      "title": "How to Turn Your Equity Into Rentals with a HELOC or Cash-Out Refi (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-784",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Pulling equity out of your home to buy your next rental can feel like free money, but it isn t. Whether you use a HELOC or a cash-out refinance, if you [ ]",
+      "published": "2026-10-16T11:00:27+00:00",
+      "fetched": "2026-10-16T20:09:01.740429+00:00"
     },
     {
       "id": "16e4c36eb611d544",
@@ -1402,106 +1502,6 @@
       "summary": "The 47-year-old actor initially listed the residence, known as the Seyler House, for just shy of $10 million in July 2025.",
       "published": "2026-10-07T16:23:31+00:00",
       "fetched": "2026-10-07T22:20:17.854325+00:00"
-    },
-    {
-      "id": "23dc2169cec8c7df",
-      "title": "13 Million High-Risk Homes Sit Outside FEMA Flood Zones as El Niño Looms",
-      "link": "https://www.realtor.com/news/trends/13-million-high-risk-homes-fema-flood-zones-el-nino/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nearly 13 million high-risk properties sit outside FEMA’s mapped flood zones, where just 2% carried federal flood insurance as of April.",
-      "published": "2026-10-07T15:29:21+00:00",
-      "fetched": "2026-10-07T22:20:17.854360+00:00"
-    },
-    {
-      "id": "ae4c0fda79c05563",
-      "title": "Comparing Short-Term Rental Insurance? 5 Questions That Reveal What You’re Actually Looking At",
-      "link": "https://www.biggerpockets.com/blog/how-to-compare-short-term-rental-insurance",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "A screwdriver, a hammer, a saw, and a wrench come from the same toolbox but are for different jobs. You wouldn t grab one at random and expect it to do [ ]",
-      "published": "2026-10-07T15:29:16+00:00",
-      "fetched": "2026-10-07T22:20:17.399187+00:00"
-    },
-    {
-      "id": "9a5773c62fa6e553",
-      "title": "Philanthropy Could Help Fast-Track Adoption of Manufactured Housing, JPMorgan Says",
-      "link": "https://www.realtor.com/news/real-estate-news/jpmorgan-manufactured-housing-mass-hacienda-philanthropy/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Modular construction could change the homebuilding business. But it needs philanthropic support to scale and reach the market.",
-      "published": "2026-10-07T15:15:10+00:00",
-      "fetched": "2026-10-07T22:20:17.854386+00:00"
-    },
-    {
-      "id": "25bcf37f9403a7fd",
-      "title": "Property Winterization for Landlords: How to Keep a Frozen Pipe From Becoming a Denied Claim",
-      "link": "https://www.biggerpockets.com/blog/property-winterization-for-landlords",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Right now, frozen pipes probably aren’t on your radar. But your insurance company is already thinking about them. Cold snaps don’t follow your calendar.",
-      "published": "2026-10-07T14:33:05+00:00",
-      "fetched": "2026-10-07T22:20:17.399239+00:00"
-    },
-    {
-      "id": "73b7ec373548e323",
-      "title": "Tropical Storm Isaias Tracks Toward U.S. With State of Emergency in Place: Where It Will Hit and Which Homeowners Should Prepare",
-      "link": "https://www.realtor.com/news/trends/tropical-storm-isaias-tracking-florida-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tropical Storm Isaias is likely to form into a hurricane by this weekend, bringing heavy rain and damaging winds to those living in the Gulf",
-      "published": "2026-10-07T14:33:00+00:00",
-      "fetched": "2026-10-07T22:20:17.854415+00:00"
-    },
-    {
-      "id": "75a83ea8f4cc8280",
-      "title": "Dolly Parton’s Estate Claims Nephew Put Up Barbed Wire To Evade Summons as Bitter Legal Battle Continues",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-estate-nephew-bryan-seaver-evaded-summons-barbed-wire/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Seaver, who announced the hitmaker’s death on Aug. 25, was fired from his role as head of security at Parton’s properties on Sept. 16.",
-      "published": "2026-10-07T14:25:44+00:00",
-      "fetched": "2026-10-07T22:20:17.854448+00:00"
-    },
-    {
-      "id": "7d3836433c7900f2",
-      "title": "Mortgage Applications Continue To Drop After Rates Surge to 3-Year High",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-apply-for-loan-october-7-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "For the week ending on Oct. 7, MBA's Market Composite Index—a measure of total mortgage loan application volume—decreased 4.2%.",
-      "published": "2026-10-07T13:29:00+00:00",
-      "fetched": "2026-10-07T22:20:17.854477+00:00"
-    },
-    {
-      "id": "827c87a0e39d4827",
-      "title": "Zach Bryan Drops $18 Million on Sprawling Tennessee Estate With Recording Studio—Months After Marrying Samantha Leonard",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/zach-bryan-buys-tennessee-home-wife/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 40-acre estate offers the newlyweds plenty of privacy, while also providing Bryan with space galore to work on his music.",
-      "published": "2026-10-07T12:15:31+00:00",
-      "fetched": "2026-10-07T22:20:17.854506+00:00"
-    },
-    {
-      "id": "049332f76f1f5ed9",
-      "title": "The AI Tools That Save Real Estate Investors Time and Money (Weekly!)",
-      "link": "https://www.biggerpockets.com/blog/rookie-780",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Still using AI like a fancy search engine? Then you re leaving hours of your week, and a lot of money, on the table. Using the right AI tools in your [ ]",
-      "published": "2026-10-07T11:00:56+00:00",
-      "fetched": "2026-10-07T12:08:27.484584+00:00"
-    },
-    {
-      "id": "07f0f702f76b2b0f",
-      "title": "Scott Galloway: Stop Being an Earner, Start Being an Owner",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1340",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Get a good corporate job, save some money, and start investing ASAP. If you’re going to buy a house, do it here. That’s Scott Galloway’s advice, or, as you may [ ]",
-      "published": "2026-10-07T11:00:01+00:00",
-      "fetched": "2026-10-07T12:08:27.484633+00:00"
     }
   ]
 }
