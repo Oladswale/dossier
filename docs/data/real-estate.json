@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-17T14:30:12.511168+00:00",
+  "updated": "2026-10-17T19:45:16.018306+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8580a537cd1790d9",
+      "title": "Behind the Brick Facade of This 140-Year-Old NYC Townhouse Lies a Surprising Resort-Style Oasis",
+      "link": "https://www.realtor.com/news/unique-homes/upper-west-side-townhouse-indoor-pool-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside a $10.45M Upper West Side townhouse featuring a rare 41-foot heated indoor pool, spa, private garden, and historic 1886 character.",
+      "published": "2026-10-17T18:01:00+00:00",
+      "fetched": "2026-10-17T19:45:16.017572+00:00"
+    },
+    {
+      "id": "f86238e9495d8a8c",
+      "title": "For the First Time Since 1967, This Historic 1927 Denver Tudor Is Up for Grabs",
+      "link": "https://www.realtor.com/news/unique-homes/denver-park-hill-historic-1927-tudor-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A historic 1927 Tudor in Denver’s Park Hill hits the market for $1.59M—offered for the first time since 1967. Take a look inside.",
+      "published": "2026-10-17T17:13:00+00:00",
+      "fetched": "2026-10-17T19:45:16.017615+00:00"
+    },
+    {
+      "id": "b203b98986fb4ce2",
+      "title": "A Rare $22 Million I.M. Pei-Designed Mansion Just Hit the Market in Texas for the First Time Ever",
+      "link": "https://www.realtor.com/news/unique-homes/im-pei-texas-mansion-22m-westover-hills/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Step inside I.M. Pei's largest residential marvel: a Texas estate listed for the first time ever. Explore the iconic $22 million home.",
+      "published": "2026-10-17T16:33:00+00:00",
+      "fetched": "2026-10-17T19:45:16.017648+00:00"
+    },
+    {
+      "id": "50ca648563c8c6d0",
+      "title": "Inside the $5.4 Million Cape Cod Dream Home Built for Ultimate Luxury Entertaining",
+      "link": "https://www.realtor.com/news/unique-homes/cape-cod-waterfront-estate-mashpee-5m/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside a $5.4M Cape Cod waterfront estate in Mashpee with two kitchens, a heated pool, private dock, and heated driveway on Ashumet Pond.",
+      "published": "2026-10-17T16:01:00+00:00",
+      "fetched": "2026-10-17T19:45:16.017677+00:00"
+    },
+    {
+      "id": "6e865ee5aca01821",
+      "title": "A Cold War Missile Silo 182 Feet Underground Is for Sale in Kansas for $1.6 Million",
+      "link": "https://www.realtor.com/news/unique-homes/cold-war-missile-silo-home-kansas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A Cold War missile silo 182 feet underground in Kansas is on the market, featuring blast doors and 2,500 square feet of living space.",
+      "published": "2026-10-17T15:30:00+00:00",
+      "fetched": "2026-10-17T19:45:16.017706+00:00"
+    },
     {
       "id": "5e389c8a8bb89f5c",
       "title": "Former HarperCollins CEO Lists $5 Million Frank Lloyd Wright-Inspired Hamptons Retreat",
@@ -32,6 +82,16 @@
       "summary": "Neighbors banded together to oust two squatters who illegally moved into a Queens home after its owner died.",
       "published": "2026-10-17T10:00:00+00:00",
       "fetched": "2026-10-17T14:30:12.510873+00:00"
+    },
+    {
+      "id": "2aa583a57b54c567",
+      "title": "The Real Amendment 3 Before Florida Voters: 5 Things Floridians Should Know About Property Tax Relief",
+      "link": "https://www.realtor.com/news/opinion/amendment-3-florida-homestead-tax-exemption/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Amendment 3 would put money back into the pockets of eligible homeowners, writes Chuck Bonfiglio Jr., 2026 president of Florida Realtors®.",
+      "published": "2026-10-17T00:31:22+00:00",
+      "fetched": "2026-10-17T19:45:16.017768+00:00"
     },
     {
       "id": "5856819baed60f8e",
@@ -1442,66 +1502,6 @@
       "summary": "The average rate on 30-year fixed mortgages climbed to 7.4% for the week ending Oct. 8, up 12 basis points from last week.",
       "published": "2026-10-08T16:00:00+00:00",
       "fetched": "2026-10-08T22:32:22.031836+00:00"
-    },
-    {
-      "id": "a9ff1fed5e1db87a",
-      "title": "HUD Announces 491 Arrests in Yearlong Effort To Find Fugitives in Public Housing",
-      "link": "https://www.realtor.com/news/real-estate-news/hud-arrests-fugitives-public-housing-operation-clean-house/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The U.S. Department of Housing and Urban Development says it helped apprehend almost 500 fugitives in a \"multi-agency, multi-month\" effort.",
-      "published": "2026-10-08T15:55:07+00:00",
-      "fetched": "2026-10-08T22:32:22.031855+00:00"
-    },
-    {
-      "id": "ccdd568e673b5b58",
-      "title": "Prince Harry Reveals He ‘Slipped Into Depression’ and Could Barely Function at Home After Moving to Canada With Meghan Markle",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-slipped-depression-canada-move/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The royal admitted that the sudden absence of stress left him struggling to carry out even the simplest tasks around the house.",
-      "published": "2026-10-08T15:02:25+00:00",
-      "fetched": "2026-10-08T22:32:22.031877+00:00"
-    },
-    {
-      "id": "bd2238fbfdf612d2",
-      "title": "The American Economy Enters Its “Lost Decade”",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-467",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "America could enter what nobody wants—a “lost decade.” No huge gains, no massive price drops, just a slow, stagnating market where inflation eats away at the returns we once thought [ ]",
-      "published": "2026-10-08T11:00:42+00:00",
-      "fetched": "2026-10-08T12:19:02.622666+00:00"
-    },
-    {
-      "id": "c409826a2e2fbcea",
-      "title": "Affordable Starter Homes Are Still a Reality in These Top Cities for Flexible First-Time Buyers",
-      "link": "https://www.realtor.com/news/trends/affordable-starter-homes-top-cities-first-time-buyers-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Midwest metros like Kansas City and St. Louis lead the nation in affordable starter-home inventory and neighborhood options.",
-      "published": "2026-10-08T09:00:00+00:00",
-      "fetched": "2026-10-08T12:19:03.088917+00:00"
-    },
-    {
-      "id": "0bddfea05f2f424f",
-      "title": "Massachusetts Ballot Question Would Legalize Smaller Lots for Starter Homes",
-      "link": "https://www.realtor.com/news/real-estate-news/massachusetts-question-7-ballot-initiative-small-lots-starter-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "This fall, Massachusetts voters will decide on whether to allow homes on smaller lots. Boosters hope it will promote starter homes.",
-      "published": "2026-10-08T08:32:00+00:00",
-      "fetched": "2026-10-08T12:19:03.088939+00:00"
-    },
-    {
-      "id": "3323e9d030838cad",
-      "title": "HGTV’s Jonathan Knight Spent Big on a Custom Luxury Kitchen—Even Though He Admits He Doesn’t Cook",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/new-kids-on-the-block-and-hgtv-star-jonathan-knight-opens-up-massachusetts-farmhouse-he-fixed-for-himself/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The New Kids on the Block star opens up about his 7-acre Essex compound, custom antique farmhouse kitchen, and quiet Massachusetts life.",
-      "published": "2026-10-08T08:13:00+00:00",
-      "fetched": "2026-10-08T12:19:03.088959+00:00"
     }
   ]
 }
