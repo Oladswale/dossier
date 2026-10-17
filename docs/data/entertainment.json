@@ -1,8 +1,58 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-17T01:44:51.375489+00:00",
+  "updated": "2026-10-17T09:46:45.161811+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c1d059bbc4661e7b",
+      "title": "Coen Brothers Bring Their Trademark Humor to Lumière Award Ceremony With a Profane Thank-You to Cinema’s Inventors",
+      "link": "https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "To the sound of the Gipsy Kings’ Spanish-language rendition of “Hotel California,” Joel and Ethan Coen took the stage at Lyon’s Lumière Film Festival on Friday evening to receive the Lumière Award, celebrating four decades of filmmaking with a characteristically irreverent tribute to the inventors of cinema. “Thank you to the Lumières for inventing the [ ]",
+      "published": "2026-10-17T09:20:02+00:00",
+      "fetched": "2026-10-17T09:46:44.875251+00:00"
+    },
+    {
+      "id": "fd11302b1c69621c",
+      "title": "Miley Cyrus Embraces Being the Anti-Pop Pop Star With Her First ‘Bass Persuades’ Concert at Hollywood Bowl: Concert Review",
+      "link": "https://variety.com/2026/music/news/miley-cyrus-bass-persuades-hollywood-bowl-concert-review-1236914661/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After she descended from a B-stage in the middle of the stands at the Hollywood Bowl on Friday night, Miley Cyrus sat hunched over on the main stage, visibly sapped by the 200-foot trek back to the spotlight. You guys gave me so much energy, but you also took a little energy out of me, [ ]",
+      "published": "2026-10-17T07:53:16+00:00",
+      "fetched": "2026-10-17T09:46:44.875300+00:00"
+    },
+    {
+      "id": "9a77dd40c67ecb49",
+      "title": "‘Renoir’ Producers Join Asia-Europe Co-Production Panel at Tokyo Market as Japanese Accelerator Atmovie Global Track Partners With Ties That Bind",
+      "link": "https://variety.com/2026/film/markets-festivals/renoir-producers-asia-europe-co-production-panel-tiffcom-1236914637/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Producers behind Hayakawa Chie’s Cannes competition title “Renoir” are among the speakers at a session on Asia-Europe co-production at Tokyo s TIFFCOM market on Oct. 30, as Japanese accelerator Atmovie Global Track formalizes a partnership with Europe-based workshop Ties That Bind. The open panel, titled “Building Creative Partnerships,” will examine how producers and directors work together [ ]",
+      "published": "2026-10-17T05:37:19+00:00",
+      "fetched": "2026-10-17T09:46:44.875351+00:00"
+    },
+    {
+      "id": "1c3c8e9cf16c259f",
+      "title": "Harry Styles Performs New Song Written for Liam Payne on Anniversary of His Death",
+      "link": "https://www.rollingstone.com/music/music-news/harry-styles-liam-payne-new-song-msg-1235644335/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer debuted the unreleased song \"What Is Enough\" in honor of his former One Direction bandmate",
+      "published": "2026-10-17T03:46:48+00:00",
+      "fetched": "2026-10-17T09:46:45.043709+00:00"
+    },
+    {
+      "id": "67b78abded624727",
+      "title": "Miley Cyrus Setlist: Every Song Played at ‘Bass Persuades – Live at the Hollywood Bowl’",
+      "link": "https://variety.com/2026/music/news/miley-cyrus-setlist-hollywood-bowl-los-angeles-1236914492/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Miley Cyrus kicked off her Miley: Bass Persuades Live at the Hollywood Bowl shows on Friday night at the famed Los Angeles venue, giving her first headlining performance in years. The pop star, who is going mononomously as just Miley for this era, announced this pair of Friday and Sunday shows in early September [ ]",
+      "published": "2026-10-17T03:37:30+00:00",
+      "fetched": "2026-10-17T09:46:44.875390+00:00"
+    },
     {
       "id": "23ba09c5e274d454",
       "title": "How Netflix’s Messy Transition Will Rock Hollywood: Looking at You, NBCU",
@@ -1452,56 +1502,6 @@
       "summary": "\"I want to unreservedly apologise to her for what I did and for the distress and hurt I caused that night,\" former Black Midi singer says. \"It was a huge mistake\"",
       "published": "2026-10-14T21:53:17+00:00",
       "fetched": "2026-10-15T01:59:59.559671+00:00"
-    },
-    {
-      "id": "2295d5fd083f6298",
-      "title": "Critics Vindicate ‘Artificial’ After Messy Amazon MGM Breakup (and the Studios vs. Talent Wars Around AI Are Just Beginning)",
-      "link": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Looks like “Artificial” is the real thing. Luca Guadagnino’s genre-blending movie about the evils of artificial intelligence (and one of its fathers, Sam Altman) had a triumphant U.K. premiere at the London Film Festival on Sunday.",
-      "published": "2026-10-14T21:49:13+00:00",
-      "fetched": "2026-10-15T01:59:59.364923+00:00"
-    },
-    {
-      "id": "0999073c86cd88ce",
-      "title": "Zach Bryan Announces 2027 Stadium Tour Dates, John Fogerty, Ryan Bingham, More to Support",
-      "link": "https://variety.com/2026/music/news/zach-bryan-2027-stadium-tour-dates-1236912502/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Just days after announcing his “Young Manhood and Other Donatable Organs” EP will be dropping this week — and not long after he broke the attendance record at Robert Kraft s Gillette Stadium while wearing a Free Palestine shirt — Zach Bryan has announced a stadium tour in support of the release, which will take him [ ]",
-      "published": "2026-10-14T21:27:47+00:00",
-      "fetched": "2026-10-15T01:59:59.364975+00:00"
-    },
-    {
-      "id": "adc23935e2be1fef",
-      "title": "The Unbelievable Daejon Love Story Will Now Be a Netflix Special",
-      "link": "https://www.rollingstone.com/culture/culture-news/daejon-love-scammer-football-netflix-documentary-1235642833/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The streamer said Tuesday Untold: Wide Deceiver will “unpack the internet nickname and the far darker story it exposed\"",
-      "published": "2026-10-14T21:21:22+00:00",
-      "fetched": "2026-10-15T01:59:59.559705+00:00"
-    },
-    {
-      "id": "fc7e477ea8aedbc4",
-      "title": "Fox’s $22 Billion Roku Deal Approved by Shareholders of Both Companies",
-      "link": "https://variety.com/2026/tv/news/fox-roku-acquisition-approved-shareholders-1236912437/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In an expected development, shareholders for both Fox Corp. and Roku voted to approve Fox s $22 billion acquisition of the streaming-video platform company. At separate special meetings of shareholders Wednesday to vote on the deal, the majority of shares owned by Fox Corp.",
-      "published": "2026-10-14T20:42:13+00:00",
-      "fetched": "2026-10-14T21:01:32.185253+00:00"
-    },
-    {
-      "id": "edeba06e95be176b",
-      "title": "YouTube to Label AI-Generated Songs Across Its Platforms: Listeners ‘Want Transparency’",
-      "link": "https://variety.com/2026/music/news/youtube-to-label-ai-generated-songs-music-1236912408/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "YouTube will label AI-generated songs across its main website and YouTube Music, the latest service to publicly mark tracks as not produced by humans. “Generative AI is opening up new ways for artists to create, experiment, and share music,” YouTube said in a blog post on Wednesday. “As these tools evolve, our listeners have told us [ ]",
-      "published": "2026-10-14T20:31:28+00:00",
-      "fetched": "2026-10-14T21:01:32.185317+00:00"
     }
   ]
 }
