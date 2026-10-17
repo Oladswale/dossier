@@ -1,8 +1,78 @@
 {
   "category": "finance",
-  "updated": "2026-10-16T20:08:42.998882+00:00",
+  "updated": "2026-10-17T01:44:41.991048+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5a79449123f569ce",
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "published": "2026-10-16T21:59:00+00:00",
+      "fetched": "2026-10-17T01:44:40.997444+00:00"
+    },
+    {
+      "id": "c1da662df0d05550",
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+      "published": "2026-10-16T21:43:00+00:00",
+      "fetched": "2026-10-17T01:44:40.997492+00:00"
+    },
+    {
+      "id": "8b3dd49d98ac8d36",
+      "title": "Brent hits $110 as global oil fears threaten Nigeria’s petrol price relief",
+      "link": "https://nairametrics.com/2026/10/16/brent-hits-110-as-global-oil-fears-threaten-nigerias-petrol-price-relief/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Brent crude oil prices rose to $110 per barrel on Friday for the first time since May, as renewed attacks on energy infrastructure in the Middle East and Russia heightened supply concerns and weakened prospects for a sustained price decline. The global benchmark gained 3.7%, recording its second consecutive weekly advance as traders increased bets [ ] The post Brent hits $110 as global oil fears threaten Nigeria’s petrol price relief appeared first on Nairametrics .",
+      "published": "2026-10-16T21:38:45+00:00",
+      "fetched": "2026-10-17T01:44:41.556826+00:00"
+    },
+    {
+      "id": "d7ae0c33bcbd40db",
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "published": "2026-10-16T21:30:00+00:00",
+      "fetched": "2026-10-17T01:44:40.997539+00:00"
+    },
+    {
+      "id": "402830221c92ecce",
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "published": "2026-10-16T21:21:00+00:00",
+      "fetched": "2026-10-17T01:44:40.997570+00:00"
+    },
+    {
+      "id": "7b86b930b0950725",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "published": "2026-10-16T21:15:00+00:00",
+      "fetched": "2026-10-17T01:44:40.997606+00:00"
+    },
+    {
+      "id": "0064f6c7bbdb0f89",
+      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "published": "2026-10-16T20:58:00+00:00",
+      "fetched": "2026-10-17T01:44:40.997641+00:00"
+    },
     {
       "id": "c1c22996901a5150",
       "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
@@ -1432,76 +1502,6 @@
       "summary": "The COLA is aimed at helping about 68 million beneficiaries keep pace with inflation.",
       "published": "2026-10-14T15:33:00+00:00",
       "fetched": "2026-10-14T16:01:35.255244+00:00"
-    },
-    {
-      "id": "61845b28ff3abf38",
-      "title": "OPay’s $1.28 lending problem in Nigeria",
-      "link": "https://techcabal.com/2026/10/14/opay-1-28-lending-problem-nigeria/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Every $10 (₦13,329.7) borrowed from OPay generated $2.55 (₦3,399.07) in loan-financing revenue in H1 2026. The figure includes late-payment penalties, not just interest, and offers a glimpse into the revenue lenders need to cover the risk of borrower defaults.",
-      "published": "2026-10-14T15:31:31+00:00",
-      "fetched": "2026-10-14T16:01:37.360085+00:00"
-    },
-    {
-      "id": "85f83fe14435a63e",
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-14T15:18:00+00:00",
-      "fetched": "2026-10-14T16:01:35.255294+00:00"
-    },
-    {
-      "id": "23dce78136285412",
-      "title": "Lagos gives MTN, Airtel, others 30 days to verify betting firms’ licences",
-      "link": "https://nairametrics.com/2026/10/14/lagos-gives-mtn-airtel-others-30-days-to-verify-betting-firms-licences/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Lotteries and Gaming Authority has given mobile network operators (MNOs), including MTN, Airtel, Globacom, 9mobile, and licensed value-added service (VAS) providers 30 days to verify the licensing and tax compliance status of gaming businesses using their platforms to offer services in the state. The post Lagos gives MTN, Airtel, others 30 days to verify betting firms’ licences appeared first on Nairametrics .",
-      "published": "2026-10-14T15:09:38+00:00",
-      "fetched": "2026-10-14T16:01:36.452290+00:00"
-    },
-    {
-      "id": "f90653ffc66653a3",
-      "title": "Micron wins praise from Elon Musk for not being too greedy",
-      "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.",
-      "published": "2026-10-14T15:07:00+00:00",
-      "fetched": "2026-10-14T16:01:35.255326+00:00"
-    },
-    {
-      "id": "8521340f647e409a",
-      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
-      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-      "published": "2026-10-14T15:00:33+00:00",
-      "fetched": "2026-10-14T16:01:35.457712+00:00"
-    },
-    {
-      "id": "858e84c55fb58bbb",
-      "title": "Eko Power Limited Affirms Its Status as Lagos State’s Licensed Electricity Distribution Company",
-      "link": "https://nairametrics.com/2026/10/14/eko-power-limited-affirms-its-status-as-lagos-states-licensed-electricity-distribution-company/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Eko Power Limited is the distribution company licensed by the Lagos State Electricity Regulatory Commission (LASERC) to distribute power in the southern parts of Lagos State. Eko Power Limited s establishment follows a formal legal transition mandated by the Electricity Act 2023 (as amended) and the 2023 amendment to the Constitution of the Federal Republic of [ ] The post Eko Power Limited Affirms Its Status as Lagos State s Licensed Electricity Distribution Company appeared first on Nairametrics .",
-      "published": "2026-10-14T14:56:05+00:00",
-      "fetched": "2026-10-14T16:01:36.452353+00:00"
-    },
-    {
-      "id": "4841583cb26fc96b",
-      "title": "RMB Nigeria Wins Merchant Bank of the Year for Eighth Time, Earns Deal Advisory Excellence Honour",
-      "link": "https://nairametrics.com/2026/10/14/rmb-nigeria-wins-merchant-bank-of-the-year-for-eighth-time-earns-deal-advisory-excellence-honour/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "RMB Nigeria has secured two honours at the 2026 BusinessDay Bank and Other Financial Institutions (BAFI) Awards, winning Merchant Bank of the Year for the eighth time and Deal Advisory Excellence of the Year. The eighth Merchant Bank of the Year award marks a significant milestone for RMB Nigeria and underscores the bank’s consistent performance, [ ] The post RMB Nigeria Wins Merchant Bank of the Year for Eighth Time, Earns Deal Advisory Excellence Honour appeared first on Nairametrics .",
-      "published": "2026-10-14T14:51:54+00:00",
-      "fetched": "2026-10-14T16:01:36.452412+00:00"
     }
   ]
 }
