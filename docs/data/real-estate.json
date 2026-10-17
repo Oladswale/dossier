@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-17T09:46:47.016474+00:00",
+  "updated": "2026-10-17T14:30:12.511168+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5e389c8a8bb89f5c",
+      "title": "Former HarperCollins CEO Lists $5 Million Frank Lloyd Wright-Inspired Hamptons Retreat",
+      "link": "https://www.realtor.com/news/unique-homes/east-hampton-frank-lloyd-wright-estate-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Former HarperCollins CEO Jane Friedman lists her $5M Frank Lloyd Wright-inspired East Hampton Zen retreat featuring a koi pond and pool.",
+      "published": "2026-10-17T14:01:00+00:00",
+      "fetched": "2026-10-17T14:30:12.510830+00:00"
+    },
+    {
+      "id": "a41bc62c80dcaf1c",
+      "title": "The ‘Whimsymaxxing’ Trend Has Made Its Way to Luxury Real Estate—See Which Funky Amenities Developers Are Brewing Up",
+      "link": "https://www.realtor.com/news/unique-homes/whimsymaxxing-trend-luxury-real-estate-florida-amenities/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Developers in Florida are taking note of the internet's obsession with making life a little bit more quirky.",
+      "published": "2026-10-17T12:33:00+00:00",
+      "fetched": "2026-10-17T14:30:12.510855+00:00"
+    },
+    {
+      "id": "ff950be48758bcab",
+      "title": "Queens Neighbors Band Together To Evict ‘Psychopath Squatter’ From $915K Home",
+      "link": "https://www.realtor.com/news/trends/queens-bayside-squatter-vernon-glass-evicted-public-administrator/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Neighbors banded together to oust two squatters who illegally moved into a Queens home after its owner died.",
+      "published": "2026-10-17T10:00:00+00:00",
+      "fetched": "2026-10-17T14:30:12.510873+00:00"
+    },
     {
       "id": "5856819baed60f8e",
       "title": "The Real Amendment 3 Before Florida Voters: 5 Things Floridians Should Know About Property Tax Relief",
@@ -1472,36 +1502,6 @@
       "summary": "The New Kids on the Block star opens up about his 7-acre Essex compound, custom antique farmhouse kitchen, and quiet Massachusetts life.",
       "published": "2026-10-08T08:13:00+00:00",
       "fetched": "2026-10-08T12:19:03.088959+00:00"
-    },
-    {
-      "id": "a1f8d013fd66c7a5",
-      "title": "Disgraced CIA Agent Must Forfeit $100 Million Worth of Luxury Florida Properties in Stolen Gold Plot",
-      "link": "https://www.realtor.com/news/trends/cia-david-rush-gold-bars-luxury-florida-real-estate/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rush used his position to acquire gold bars and make purchases of four luxury real estate properties, luxury watches, and at least one car.",
-      "published": "2026-10-07T21:33:11+00:00",
-      "fetched": "2026-10-07T22:20:17.854053+00:00"
-    },
-    {
-      "id": "fcb453eb634a4cf3",
-      "title": "Odell Beckham Jr. Joins Vikings After Giants Release—Weeks After Admitting He ‘Never Wanted To Leave’ New York",
-      "link": "https://www.realtor.com/news/sports/odell-beckham-jr-signs-with-vikings-released-ny-giants/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Beckham’s move to Minnesota comes just over a week after New York parted ways with the three-time Pro Bowler.",
-      "published": "2026-10-07T20:51:07+00:00",
-      "fetched": "2026-10-07T22:20:17.854099+00:00"
-    },
-    {
-      "id": "8b528ba601af5daf",
-      "title": "‘The Sopranos’ Star Steven Van Zandt Tacks Nearly $4 Million Onto Asking Price of Eclectic Greenwich Village Penthouse",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/steven-van-zandt-new-york-penthouse-price-increase/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The rocker and actor purchased the sprawling duplex, located in a renovated Greenwich Village church, in 2008.",
-      "published": "2026-10-07T20:22:49+00:00",
-      "fetched": "2026-10-07T22:20:17.854137+00:00"
     }
   ]
 }
