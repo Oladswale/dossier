@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-18T01:41:44.039188+00:00",
+  "updated": "2026-10-18T09:59:08.091388+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "04f20faf7b061bd5",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "link": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "published": "2026-10-18T04:00:00+00:00",
+      "fetched": "2026-10-18T09:59:07.178593+00:00"
+    },
     {
       "id": "d642091b1cb44d4b",
       "title": "Fostering community amid Kendall Square’s innovation",
@@ -1492,16 +1502,6 @@
       "summary": "Lloyd Kahn worked as an insurance broker before quitting in 1965. Then, he took a turn into the DIY building movement that emerged with the 1960s counterculture. Soon enough, he found himself editing the influential Whole Earth Catalog and publishing Shelter in 1973, a book still considered the bible of hand-built homes.",
       "published": "2026-09-07T09:02:06+00:00",
       "fetched": "2026-09-07T10:49:47.202736+00:00"
-    },
-    {
-      "id": "8de2c363b08f9278",
-      "title": "Bertrand Russell Explains Why Karl Marx’s Philosophy Produced the Disaster of Communism",
-      "link": "https://www.openculture.com/2026/09/bertrand-russell-explains-why-karl-marxs-philosophy-produced-the-disaster-of-communism.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "In 1927, Bertrand Russell delivered a lecture titled “Why I Am Not a Christian.” At the time, such a declaration was still fairly bold, as was the reasoning he provided for it. Nearly three decades thereafter, he included in his collection Portraits from Memory another, shorter piece, “Why I Am Not a Communist.” That description [ ]",
-      "published": "2026-09-07T08:00:08+00:00",
-      "fetched": "2026-09-07T20:50:41.558669+00:00"
     }
   ]
 }
