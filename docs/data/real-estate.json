@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-17T19:45:16.018306+00:00",
+  "updated": "2026-10-18T01:41:44.736799+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ad88a3d5c5ba2f98",
+      "title": "New Luxury Community Offers Rare Waterfront Living Near the Las Vegas Strip",
+      "link": "https://www.realtor.com/news/trends/la-cova-henderson-southshore-lake-las-vegas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "La Cova, inside of the exclusive SouthShore Lake Las Vegas community in Henderson, NV offers golf course living without the cost.",
+      "published": "2026-10-17T20:40:00+00:00",
+      "fetched": "2026-10-18T01:41:44.736264+00:00"
+    },
     {
       "id": "8580a537cd1790d9",
       "title": "Behind the Brick Facade of This 140-Year-Old NYC Townhouse Lies a Surprising Resort-Style Oasis",
@@ -1492,16 +1502,6 @@
       "summary": "The 77-year-old, who now divides his time between Spain and upstate New York, offered a candid glimpse into his personal life.",
       "published": "2026-10-08T17:12:45+00:00",
       "fetched": "2026-10-08T22:32:22.031815+00:00"
-    },
-    {
-      "id": "c39917267170e18e",
-      "title": "Mortgage Rates Hit New 3-Year High as Fed Official Says More Hikes Are Needed",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-fed-hikes-today-october-8-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed mortgages climbed to 7.4% for the week ending Oct. 8, up 12 basis points from last week.",
-      "published": "2026-10-08T16:00:00+00:00",
-      "fetched": "2026-10-08T22:32:22.031836+00:00"
     }
   ]
 }
