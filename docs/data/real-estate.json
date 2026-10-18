@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-18T14:56:47.047074+00:00",
+  "updated": "2026-10-18T19:44:35.318838+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "571be8269c7c1fe2",
+      "title": "Inside the $4.25 Million Cape Cod Lakefront Estate Built by the Founder of Josh Cellars",
+      "link": "https://www.realtor.com/news/unique-homes/josh-cellars-founder-cape-cod-home-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside Josh Cellars founder’s $4.25M Cape Cod estate featuring a secret wine room, chef’s kitchen, and serene Scargo Lake access.",
+      "published": "2026-10-18T18:17:00+00:00",
+      "fetched": "2026-10-18T19:44:35.318127+00:00"
+    },
+    {
+      "id": "658b69777d2f347a",
+      "title": "The Ex-Microsoft Exec Who Outbid Cher for an Antique Archway Is Selling His $9.75 Million Seattle Estate",
+      "link": "https://www.realtor.com/news/unique-homes/seattle-washington-park-mansion-cher-archway-microsoft-exec/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An ex-Microsoft exec's $9.75M Seattle estate—featuring European antiques that outbid Cher—just got a $2M price cut. See inside.",
+      "published": "2026-10-18T17:43:00+00:00",
+      "fetched": "2026-10-18T19:44:35.318171+00:00"
+    },
+    {
+      "id": "74534a76ac34bcee",
+      "title": "This 1891 Church Loft Is Listed for $750K—Step Inside To See Its Unexpected Transformation",
+      "link": "https://www.realtor.com/news/unique-homes/denver-church-loft-for-sale-sanctuary-lofts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Look inside a $749,900 Denver loft in an 1891 converted church featuring stained glass, historic brickwork, and modern open-plan living.",
+      "published": "2026-10-18T16:14:00+00:00",
+      "fetched": "2026-10-18T19:44:35.318206+00:00"
+    },
+    {
+      "id": "c64a5ec50832b68e",
+      "title": "This Turnkey 1960s Vermont A-Frame Comes Fully Furnished for $399K—Firewood Included",
+      "link": "https://www.realtor.com/news/unique-homes/vermont-furnished-a-frame-cabin-for-sale-399k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A sweet 1965 A-frame cabin in Wilmington, VT, is listed for $399,000. It's fully furnished and just 10 minutes from Mount Snow ski slopes.",
+      "published": "2026-10-18T15:30:00+00:00",
+      "fetched": "2026-10-18T19:44:35.318240+00:00"
+    },
     {
       "id": "c798df2ba06ada5d",
       "title": "Iconic 1880s Waterfront Social Club Hits Market for First Time in 50 Years—With a $1.2 Million Price Cut",
@@ -1462,46 +1502,6 @@
       "summary": "The 82-year-old actor made the surprising revelation in his new memoir, \"One Helluva Ride,\" recalling how Bryant lived near Zeta-Jones.",
       "published": "2026-10-08T19:42:06+00:00",
       "fetched": "2026-10-08T22:32:22.031689+00:00"
-    },
-    {
-      "id": "01b7db6f0fbbfab6",
-      "title": "Future-Proof Your Home Purchase: How To Uncover Secret Construction Before Buying",
-      "link": "https://www.realtor.com/advice/buy/find-out-what-new-construction-development-on-my-street/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Can homebuyers figure out what changes and developments might come to their prospective street before they happen?",
-      "published": "2026-10-08T19:13:58+00:00",
-      "fetched": "2026-10-08T22:32:22.031708+00:00"
-    },
-    {
-      "id": "74ec7c3b382d461d",
-      "title": "VIDEO: Inside the 3D-Printed Factory Home Built in Just 24 Hours",
-      "link": "https://www.realtor.com/news/trends/azure-3d-printed-home-video-tour/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Azure Printed Homes, based in Gardena, CA, 3-D prints homes from recycled plastic. Time named it one of the best inventions of 2025.",
-      "published": "2026-10-08T18:33:52+00:00",
-      "fetched": "2026-10-08T22:32:22.031728+00:00"
-    },
-    {
-      "id": "834b46a1b96e2d48",
-      "title": "Zak Bagans Buys Famed Underground Las Vegas Cold War Bunker for $4.55M—With Plans for a New Museum",
-      "link": "https://www.realtor.com/news/unique-homes/zak-bagans-buys-las-vegas-underground-house-bunker/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Ghost Adventures host Zak Bagans buys Las Vegas’ iconic Cold War-era Underground House for $4.55M, planning a new subterranean museum.",
-      "published": "2026-10-08T18:33:43+00:00",
-      "fetched": "2026-10-08T22:32:22.031752+00:00"
-    },
-    {
-      "id": "e35beaf53d750394",
-      "title": "Hurricane Isaias: These Homeowners Are in the Path of the First Hurricane of the 2026 Atlantic Season",
-      "link": "https://www.realtor.com/news/trends/hurricane-isaias-path-2026-when-will-it-make-landfall/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Hurricane Isaias, the first hurricane of the 2026 Atlantic season, is rapidly making its approach to the Gulf Coast of the United States.",
-      "published": "2026-10-08T18:00:49+00:00",
-      "fetched": "2026-10-08T22:32:22.031773+00:00"
     }
   ]
 }
