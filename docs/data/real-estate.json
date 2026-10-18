@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-18T09:59:08.768939+00:00",
+  "updated": "2026-10-18T14:56:47.047074+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c798df2ba06ada5d",
+      "title": "Iconic 1880s Waterfront Social Club Hits Market for First Time in 50 Years—With a $1.2 Million Price Cut",
+      "link": "https://www.realtor.com/news/unique-homes/narragansett-reading-room-price-drop/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore Narragansett's historic Reading Room estate. Listed for the first time in 50 years, this Victorian got a $1.2M price drop.",
+      "published": "2026-10-18T14:10:00+00:00",
+      "fetched": "2026-10-18T14:56:47.046541+00:00"
+    },
+    {
+      "id": "4489ba28cc846644",
+      "title": "Ritz-Carlton Penthouse on Fort Lauderdale Beach To Be Auctioned to Highest Bidder",
+      "link": "https://www.realtor.com/news/trends/ritz-carlton-penthouse-fort-lauderdale-beach-auction/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An oceanfront single-level penthouse in the Ritz-Carlton Residences on Fort Lauderdale Beach will soon be up for grabs at auction.",
+      "published": "2026-10-18T10:02:00+00:00",
+      "fetched": "2026-10-18T14:56:47.046579+00:00"
+    },
     {
       "id": "ad88a3d5c5ba2f98",
       "title": "New Luxury Community Offers Rare Waterfront Living Near the Las Vegas Strip",
@@ -1482,26 +1502,6 @@
       "summary": "Hurricane Isaias, the first hurricane of the 2026 Atlantic season, is rapidly making its approach to the Gulf Coast of the United States.",
       "published": "2026-10-08T18:00:49+00:00",
       "fetched": "2026-10-08T22:32:22.031773+00:00"
-    },
-    {
-      "id": "9f12aa073b14d8c8",
-      "title": "Inside the Amenity-Filled 26-Acre New Jersey Compound Headed to Auction Without Reserve",
-      "link": "https://www.realtor.com/news/unique-homes/102-countryside-hopewell-new-jersey-compound-for-sale-without-reserve/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The luxury property is filled with stunning features such as a two-story guest cottage, a pool house, and a movie theater.",
-      "published": "2026-10-08T17:59:03+00:00",
-      "fetched": "2026-10-08T22:32:22.031793+00:00"
-    },
-    {
-      "id": "283d035ae514c224",
-      "title": "Richard Gere Opens Up About His New Life in Spain With Wife Alejandra Silva—as He Reflects on the Dark Side of Hollywood Fame",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/richard-gere-alejandra-silva-life-in-spain/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 77-year-old, who now divides his time between Spain and upstate New York, offered a candid glimpse into his personal life.",
-      "published": "2026-10-08T17:12:45+00:00",
-      "fetched": "2026-10-08T22:32:22.031815+00:00"
     }
   ]
 }
