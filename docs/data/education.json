@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-19T17:49:45.410010+00:00",
+  "updated": "2026-10-19T21:46:34.351796+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8d91e2cab6ae4b55",
+      "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
+      "link": "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS.",
+      "published": "2026-10-19T21:15:00+00:00",
+      "fetched": "2026-10-19T21:46:33.306561+00:00"
+    },
+    {
+      "id": "973ce7a49d96b666",
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+      "published": "2026-10-19T18:20:00+00:00",
+      "fetched": "2026-10-19T21:46:33.306603+00:00"
+    },
     {
       "id": "d6236dcdb15309fc",
       "title": "The Dark Story Behind Edgar Allan Poe’s Most Famous Photograph, Taken Four Days After a Laudanum Overdose",
@@ -1482,26 +1502,6 @@
       "summary": "When the historian Timothy Snyder left Yale for the University of Toronto in 2024, he took with him the practice of occasionally putting his course lectures online, making them available to anyone who cares to learn from them. Above, you can watch ten lectures from his recent course Hitler and Stalin Today. In this course: [ ]",
       "published": "2026-09-09T08:00:10+00:00",
       "fetched": "2026-09-09T10:12:59.931430+00:00"
-    },
-    {
-      "id": "b7a20b8c0964c9be",
-      "title": "Frank Lloyd Wright’s Secret Career as a Japanese Art Dealer & How It Shaped His Architecture",
-      "link": "https://www.openculture.com/2026/09/frank-lloyd-wrights-secret-career-as-a-japanese-art-dealer.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Frank Lloyd Wright was often strapped for cash. In that respect, he had something in common with Vincent van Gogh, who passed most of his much shorter life in more dire circumstances. Unlike Wright, who enjoyed decades of fame at the pinnacle of the American architectural profession, van Gogh remained practically unknown until after his [ ]",
-      "published": "2026-09-08T16:00:43+00:00",
-      "fetched": "2026-09-08T20:22:33.793179+00:00"
-    },
-    {
-      "id": "cca519601fce9ea7",
-      "title": "How the Japanese Practice of “Forest Bathing”—Or Just Hanging Out in the Woods—Can Lower Stress Levels and Fight Disease",
-      "link": "https://www.openculture.com/2026/09/japanese-practice-of-forest-bathing.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "When the U.S. media began reporting on the phenomenon of “forest bathing” as a therapy for mental and physical health, the online commentariat—as it will—mocked the concept relentlessly as yet another pretentious, bourgeois repackaging of something thoroughly mundane. Didn’t we just used to call it “going outside”?",
-      "published": "2026-09-08T07:10:03+00:00",
-      "fetched": "2026-09-08T10:09:26.239626+00:00"
     }
   ]
 }
