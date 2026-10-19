@@ -1,8 +1,128 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-18T19:44:33.727851+00:00",
+  "updated": "2026-10-19T01:59:00.047891+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3a4a029b161f7659",
+      "title": "Inde Navarrette on Meeting Pamela Anderson, Hosting ‘SNL’ and X-Men Stunt Training",
+      "link": "https://variety.com/2026/film/news/inde-navarrette-hosting-snl-x-men-stunt-training-1236916105/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Obsession” star Inde Navarrette had quite the busy weekend, going from the Academy Museum Gala on Saturday to the Newport Beach Film Festival on Sunday. Navarrette attended the festival, which runs until Thursday in Newport Beach, as one of Variety’s 10 Actors to Watch, who were celebrated during the festival’s Honor Brunch. While speaking with [ ]",
+      "published": "2026-10-19T00:40:41+00:00",
+      "fetched": "2026-10-19T01:58:59.654153+00:00"
+    },
+    {
+      "id": "e7e8a49d63c256ef",
+      "title": "‘The Simpsons’ Surprise: Apu Is Heard for the First Time in Nearly a Decade, as Sunil Malhotra Takes Over for Hank Azaria (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/the-simpsons-apu-new-voice-sunil-malhotra-hank-azaria-1236915177/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This article contains major spoilers for the Oct. 18 episode of The Simpsons, The Revengening, which aired Sunday night on Fox. “The Simpsons” has pulled off its own October surprise: Apu Nahasapeemapetilon is back.",
+      "published": "2026-10-19T00:30:00+00:00",
+      "fetched": "2026-10-19T01:58:59.654190+00:00"
+    },
+    {
+      "id": "42a0afa7a449f43c",
+      "title": "Katseye Says They’re ‘So Proud’ of Sophia Ahead of Her Return to the Group: ‘She’s Our Sister’",
+      "link": "https://variety.com/2026/music/news/katseye-sophia-return-1236916064/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Katseye is excited to welcome Sophia Laforteza back to the group after a brief hiatus. Members Lara Raj, Daniela Avanzini, Megan Skiendiel and Yoonchae Jeung shared their support for their sister on the carpet at the Victoria s Secret Fashion Show on Sunday. “We are so happy that she’s coming back, Raj told E!",
+      "published": "2026-10-18T23:47:38+00:00",
+      "fetched": "2026-10-19T01:58:59.654218+00:00"
+    },
+    {
+      "id": "d5f85c7b3b620dc9",
+      "title": "Taika Waititi Confirms His ‘Star Wars’ Movie Has Been Put ‘on Ice’ Indefinitely",
+      "link": "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taika Waititi’s “Star Wars” movie, which has been in development since 2020, is officially on hold, the director confirmed while promoting his latest film “Klara and the Sun.” “I hate to break this to you, but we re going to actually put it on ice and we re working on a different thing together,” Waititi told Inverse [ ]",
+      "published": "2026-10-18T23:39:01+00:00",
+      "fetched": "2026-10-19T01:58:59.654244+00:00"
+    },
+    {
+      "id": "37797cb51e303073",
+      "title": "Jason Sudeikis Hopes to Continue ‘Ted Lasso’ for Season 5, Says Coverage of Split From Olivia Wilde Missed a ‘Million Little Things’: ‘It’s Always More Complicated’",
+      "link": "https://variety.com/2026/tv/news/jason-sudeikis-wants-ted-lasso-season-5-olivia-wilde-split-1236916062/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jason Sudeikis opened up on a recent episode of “Talk Easy with Sam Fragoso,” discussing his hopes for “Ted Lasso” Season 5, how the show “saved” him from “self-harm” and what the public got wrong about his closely followed 2020 split from ex Olivia Wilde. Sudeikis and Fragoso talked “Ted Lasso” up top, as the [ ]",
+      "published": "2026-10-18T23:17:40+00:00",
+      "fetched": "2026-10-19T01:58:59.654271+00:00"
+    },
+    {
+      "id": "9e607590f9b61ab7",
+      "title": "Here Are the Best Podcasts About Songwriting",
+      "link": "https://www.rollingstone.com/music/music-features/best-songwriting-podcasts-music-industry-1235644396/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Seven essential shows highlighting creators and collaborators dive deep into how inspiration becomes a finished recording",
+      "published": "2026-10-18T23:12:39+00:00",
+      "fetched": "2026-10-19T01:58:59.861372+00:00"
+    },
+    {
+      "id": "2d0d9e9c7bdaf386",
+      "title": "‘Glee’ Reunion: Chris Colfer Joins Darren Criss Onstage to Perform ‘Baby It’s Cold Outside’ During London Concert",
+      "link": "https://variety.com/2026/tv/news/glee-reunion-chris-colfer-darren-criss-perform-duet-1236916050/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Darren Criss one-night-only concert at the Royal Albert Hall in London became a “Glee” reunion when the singer surprised audiences by bringing out Chris Colfer and performing “Baby It’s Cold Outside” as an homage to their characters on the hit show, Kurt Hummel and Blaine Anderson. Criss began the song solo, telling the audience he d [ ]",
+      "published": "2026-10-18T22:15:53+00:00",
+      "fetched": "2026-10-19T01:58:59.654297+00:00"
+    },
+    {
+      "id": "2d6322e05c0f513c",
+      "title": "Julianne Moore Says ‘The Debut’ Is ‘One of the Best Scripts I’ve Ever Read’ as Jesse Eisenberg’s Musical Comedy Closes London Film Festival on a High Note",
+      "link": "https://variety.com/2026/film/festivals/julianne-moore-jesse-eisenberg-the-debut-london-premiere-1236915637/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Debut ended London Film Festival on a high note Sunday night as director Jesse Eisenberg and star Julianne Moore gushed over each other to a packed audience at the Royal Festival Hall. I mean, this movie stars my favorite person, Julianne Moore, Eisenberg began as the duo came onstage to introduce the musical comedy. [ ]",
+      "published": "2026-10-18T20:40:12+00:00",
+      "fetched": "2026-10-19T01:58:59.654325+00:00"
+    },
+    {
+      "id": "c9fa5db5a6b3fd3d",
+      "title": "Joe Manganiello Says Ben Affleck’s Scrapped Batman Film Would Have Seen Deathstroke ‘Dismantle Batman’s Entire Life’ and Kill Commissioner Gordon",
+      "link": "https://variety.com/2026/film/news/joe-manganiello-ben-afflecks-batman-film-deathstroke-1236915997/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Joe Manganiello, who was set to reprise the role of Deathstroke in Ben Affleck’s scrapped Batman film, is telling all about what would have happened had the superhero film made it to theaters. In his new memoir “Bloodlines,” published on Tuesday, the actor wrote that Affleck, who was attached as the writer, director, producer and [ ]",
+      "published": "2026-10-18T20:12:37+00:00",
+      "fetched": "2026-10-19T01:58:59.654361+00:00"
+    },
+    {
+      "id": "a30598159bbd6137",
+      "title": "See Red Hot Chili Peppers, Dave Grohl Perform at Silverlake Conservatory’s 25th Anniversary Show",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/rhcp-dave-grohl-vince-staples-silverlake-conservatory-25-1235644482/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Saturday’s concert at Hollywood Palladium in L.A. raised money for SCM, which provides free music lessons to children in need",
+      "published": "2026-10-18T20:03:36+00:00",
+      "fetched": "2026-10-19T01:58:59.861398+00:00"
+    },
+    {
+      "id": "97ca9ee3186a3c20",
+      "title": "How to Watch ‘Snapped: Killer Moms’ Online Without Cable",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-snapped-killer-moms-online-free-without-cable-1235643698/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The new Snapped spin-off looks at true-crime cases where mothers turned to violence to protect their children",
+      "published": "2026-10-18T20:01:00+00:00",
+      "fetched": "2026-10-19T01:58:59.861414+00:00"
+    },
+    {
+      "id": "b293d5aa178bffde",
+      "title": "Taylor Swift’s ‘The Life of a Showgirl’ Spends 15th Week at No. 1 on Albums Chart",
+      "link": "https://variety.com/2026/music/news/taylor-swift-the-life-of-a-showgirl-15th-week-no-1-chart-1236915983/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift holds steady at No. 1 on the Billboard 200 as The Life of a Showgirl spends a 15th non-consecutive week atop the chart. This week, Showgirl earned an additional 87,000 equivalent album units thanks to its Encore edition, which touted four new tracks including the Hot 100-topping Patient Zero.",
+      "published": "2026-10-18T19:49:28+00:00",
+      "fetched": "2026-10-19T01:58:59.654386+00:00"
+    },
     {
       "id": "b99bdb586c6a0ff6",
       "title": "Betty McGuire, ‘Growing Pains’ Actress, Dies at 100",
@@ -1382,126 +1502,6 @@
       "summary": "At times, he had a streak of Andy Kaufman’s antisocial hostility in him, as if comedy was his way of testing both himself and the audience, seeing what they would accept, and seeing if he would be accepted.",
       "published": "2026-10-16T03:43:27+00:00",
       "fetched": "2026-10-16T10:13:05.467149+00:00"
-    },
-    {
-      "id": "b0ee4792e8e99b4e",
-      "title": "The ‘GTA VI’ Soundtrack Is Getting a Big Physical Media Rollout — Even if the Game Itself Isn’t",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/grand-theft-auto-vi-soundtrack-vinyl-buy-online-1235643548/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "You can pick up multiple vinyl variants of the soundtrack to the digital-download-only game",
-      "published": "2026-10-16T03:37:44+00:00",
-      "fetched": "2026-10-16T10:13:05.615848+00:00"
-    },
-    {
-      "id": "ef1f53a26cdfb01d",
-      "title": "Tate McRae Can’t Be Contained in Lavish New ‘Housewife’ Video",
-      "link": "https://www.rollingstone.com/music/music-news/tate-mcrae-housewife-video-new-song-1235643487/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The pop singer's new song sees her push a baby carriage stuffed with cash and gallivanting with her suitors",
-      "published": "2026-10-16T03:06:26+00:00",
-      "fetched": "2026-10-16T10:13:05.615879+00:00"
-    },
-    {
-      "id": "558c10bcedf40155",
-      "title": "Why Did Netflix Boot Bela Bajaria?",
-      "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Fear and loathing are running high as Hollywood processes Thursday’s shock firing of Bela Bajaria from her post as Netflix chief content officer. Yes, the company that popularized the “keeper test” is known for abrupt exits. But despite Netflix’s recent stock struggles, many considered Bajaria too big to fail.",
-      "published": "2026-10-16T01:43:38+00:00",
-      "fetched": "2026-10-16T01:49:59.239865+00:00"
-    },
-    {
-      "id": "d6131301a630ea3e",
-      "title": "‘I’m Not Allowed to Drive’: Billy Joel Shares Health Update as He Prepares to Sell Vintage Motorcycles",
-      "link": "https://www.rollingstone.com/music/music-news/billy-joel-health-update-vintage-motorcycle-auction-1235643682/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer was diagnosed with a brain disorder and stepped away from live performances last year",
-      "published": "2026-10-16T01:39:13+00:00",
-      "fetched": "2026-10-16T01:49:59.438572+00:00"
-    },
-    {
-      "id": "ff07557f397c6f15",
-      "title": "Olivia Rodrigo and Chappell Roan Compete on Game Shows Hosted by David Byrne in the Retro Video for ‘Expectations’ Remix",
-      "link": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-video-david-byrne-1236913618/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Olivia Rodrigo and Chappell Roan appear on vintage game shows in the retro music video for the Expectations remix, featuring appearances from musician David Byrne and producer Dan Nigro. The clip, directed by Bardia Zeinali, shows Rodrigo and Roan (in her first-ever feature) appearing on sets clearly inspired by Family Feud and Hollywood Squares. Byrne [ ]",
-      "published": "2026-10-16T00:25:33+00:00",
-      "fetched": "2026-10-16T01:49:59.239926+00:00"
-    },
-    {
-      "id": "ef0eadbc32ce860c",
-      "title": "Olivia Rodrigo Taps Chappell Roan (and David Byrne) for Retro ‘Expectations’ Remix",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-chappell-roan-expectations-remix-1235642153/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Rodrigo's first-ever remix gets a delightfully campy video featuring the Talking Heads frontman",
-      "published": "2026-10-16T00:17:12+00:00",
-      "fetched": "2026-10-16T01:49:59.438607+00:00"
-    },
-    {
-      "id": "13e886d819df43d1",
-      "title": "Broker Accused of Illegally Buying 18.5 Million Tickets to Beyoncé, Post Malone, and More",
-      "link": "https://www.rollingstone.com/music/music-news/beyonce-post-malone-pitbull-concerts-ticket-broker-lawsuit-1235643546/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The DOJ alleges the company bought 7,624 tickets to a single Renaissance concert and made about $833,323 in profit scalping them",
-      "published": "2026-10-16T00:00:29+00:00",
-      "fetched": "2026-10-16T01:49:59.438640+00:00"
-    },
-    {
-      "id": "2f3923950fa16180",
-      "title": "The 27 Best ‘American Horror Story’ Characters, Ranked",
-      "link": "https://variety.com/lists/american-horror-story-characters-ranked/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“American Horror Story” has given audiences a lot to chew on over the years: wildly inventive themes, sadistic imagery, over-the-top performances and gleefully macabre mythology. But arguably its greatest contribution to television since its debut in 2011 is its characters, an ever-expanding company of ill-fated spooks and kooks who rarely find a happy ending, and [ ]",
-      "published": "2026-10-16T00:00:00+00:00",
-      "fetched": "2026-10-16T01:49:59.239981+00:00"
-    },
-    {
-      "id": "b63ef707dee4999d",
-      "title": "Jenna Ortega Says She Hopes ‘Klara and the Sun’ Encourages People to ‘Put Down the Computers and Phones’ as Dystopian Film World Premieres in London",
-      "link": "https://variety.com/2026/film/festivals/jenna-ortega-klara-and-the-sun-put-down-phones-london-premiere-1236912808/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jenna Ortega hopes that her new film, the dystopian sci-fi Klara and the Sun, can remind people to live in the moment in the age of AI and all-consuming technology. I think we gotta put our focus on one another and put down the computers and phones, the star told Variety on the red carpet [ ]",
-      "published": "2026-10-15T22:43:11+00:00",
-      "fetched": "2026-10-16T01:49:59.240031+00:00"
-    },
-    {
-      "id": "446aedf1dd9b05b1",
-      "title": "Steven Soderbergh to Help Finish ‘The Batman 2’ Filming After Matt Reeves Stepped Away for Family Matter",
-      "link": "https://variety.com/2026/film/news/steven-soderbergh-finish-batman-2-matt-reeves-stepped-away-1236913552/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Steven Soderbergh is stepping in to help complete The Batman Part II while director Matt Reeves is on hiatus dealing with a personal matter, Variety has confirmed. As Matt Reeves continues to attend to an ongoing family matter, Steven Soderbergh, as an admirer of Matt’s work, approached Matt and will step in, with the full [ ]",
-      "published": "2026-10-15T22:33:01+00:00",
-      "fetched": "2026-10-16T01:49:59.240085+00:00"
-    },
-    {
-      "id": "4cd8d4fd88e4531d",
-      "title": "Netflix Shocker: Bela Bajaria Leaving After 10 Years Amid Layoffs, Peter Rice to Replace as Chief Content Officer",
-      "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-leaving-layoffs-1236913504/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In a major executive shake-up, Bela Bajaria is out at Netflix after 10 years at the streamer, most recently serving as its chief content officer. She will be replaced by former Disney and Fox executive Peter Rice, as first reported by Puck. As chief content officer, Rice will lead Netflix’s global content organization, overseeing scripted [ ]",
-      "published": "2026-10-15T21:37:29+00:00",
-      "fetched": "2026-10-16T01:49:59.240135+00:00"
-    },
-    {
-      "id": "5703148ab3cf8f6c",
-      "title": "Taylor Sheridan’s ‘Frisco King’ Starring Samuel L. Jackson Sets Release Date (TV News Roundup)",
-      "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-oct-12-1236909160/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Samuel L. Jackson is the new returning king in town in Taylor Sheridan’s “Frisco King,” where he reprises his role of Russell Lee Washington Jr.. The New Orleans gangster establishes a new kingdom in Frisco, Texas, where he discovers a hustler running his business amid the suburban town.",
-      "published": "2026-10-15T21:31:29+00:00",
-      "fetched": "2026-10-16T01:49:59.240186+00:00"
     }
   ]
 }
