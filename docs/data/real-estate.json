@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-19T01:59:01.874329+00:00",
+  "updated": "2026-10-19T11:21:24.864615+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "18fb20eaa04ce5f0",
+      "title": "The 7% Mortgage Rate Paradox: Buyers Gain Leverage but Lose $22K in Purchasing Power",
+      "link": "https://www.realtor.com/news/trends/mortgage-rate-buyers-leverage-purchasing-power-market-clock-report-q3-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "As mortgage rates topping 7% slash buyers' purchasing power, mounting inventory is shifting the national housing market in their favor.",
+      "published": "2026-10-19T09:00:00+00:00",
+      "fetched": "2026-10-19T11:21:24.863987+00:00"
+    },
+    {
+      "id": "8ffbbfb8192af7d0",
+      "title": "Thousands of Homeowners Are About To See Their Mortgages Jump $1K a Month After Taking a Common Loan Risk",
+      "link": "https://www.realtor.com/advice/finance/arm-rates-increase-2026-over-one-thousand-money-monday/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "These homeowners took a common risk with their mortgages. For some it paid off; for others, their bill's about to go up $1,000 a month.",
+      "published": "2026-10-19T08:33:00+00:00",
+      "fetched": "2026-10-19T11:21:24.864027+00:00"
+    },
+    {
+      "id": "953bb4c9dd0f4175",
+      "title": "Housing Week Ahead: Investor Homebuyer Report, Pending Sales, New Construction",
+      "link": "https://www.realtor.com/news/trends/weekly-housing-video-data-reports-october-19-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The week ahead holds a full slate of new reports from the Realtor.com economics team as well as market indicators to watch.",
+      "published": "2026-10-19T08:17:00+00:00",
+      "fetched": "2026-10-19T11:21:24.864054+00:00"
+    },
     {
       "id": "571be8269c7c1fe2",
       "title": "Inside the $4.25 Million Cape Cod Lakefront Estate Built by the Founder of Josh Cellars",
@@ -1472,36 +1502,6 @@
       "summary": "The former Indianapolis Colts and Denver Broncos star, who retired from professional football in 2016, has invested millions in properties.",
       "published": "2026-10-08T21:39:23+00:00",
       "fetched": "2026-10-08T22:32:22.031621+00:00"
-    },
-    {
-      "id": "7eb42a06f00c0c7b",
-      "title": "Inside Julianne Moore’s New York City Rooftop Apartment With Spectacular Views, Peculiar Art, and Ikea Furniture",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/julianne-moore-new-york-city-rooftop-apartment-tour/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actress gave a tour of her stunning apartment, which features pieces she's been carefully curating since 1995 and beyond.",
-      "published": "2026-10-08T21:16:05+00:00",
-      "fetched": "2026-10-08T22:32:22.031646+00:00"
-    },
-    {
-      "id": "638d2fa170488fa1",
-      "title": "Trump Administration Unveils New Steps To Bolster Manufactured Housing",
-      "link": "https://www.realtor.com/news/real-estate-news/trump-hud-code-manufactured-housing-action-plan/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "HUD wants to update energy efficiency standards, update design and construction codes, and help scale the industry.",
-      "published": "2026-10-08T20:03:37+00:00",
-      "fetched": "2026-10-08T22:32:22.031666+00:00"
-    },
-    {
-      "id": "bbe76d48c398ac32",
-      "title": "Michael Douglas Reveals Kobe Bryant Frequently Visited Wife Catherine Zeta-Jones’ L.A. Home Before They Married",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/michael-douglas-kobe-bryant-catherine-zeta-jones-visit-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 82-year-old actor made the surprising revelation in his new memoir, \"One Helluva Ride,\" recalling how Bryant lived near Zeta-Jones.",
-      "published": "2026-10-08T19:42:06+00:00",
-      "fetched": "2026-10-08T22:32:22.031689+00:00"
     }
   ]
 }
