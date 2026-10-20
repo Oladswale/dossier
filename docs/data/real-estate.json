@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-20T10:29:58.314262+00:00",
+  "updated": "2026-10-20T15:53:29.166163+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "56df051d4925d35e",
+      "title": "Pending Home Sales Plunge 7.3% in Troubling Sign for Fall Housing Market",
+      "link": "https://www.realtor.com/news/trends/pending-home-sales-fall-september-2026-housing-update/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Contract signings fell 7.3% last month compared to August, and were down plunged 11.3% compared to September 2025.",
+      "published": "2026-10-20T14:00:00+00:00",
+      "fetched": "2026-10-20T15:53:29.165417+00:00"
+    },
+    {
+      "id": "bc593f0dbb3137bb",
+      "title": "Reimagined Cobble Hill Townhouse Closes Under Asking for $12.25 Million",
+      "link": "https://www.realtor.com/news/unique-homes/brooklyn-cobble-hill-townhouse-sale-487-henry-street/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Look inside the reimagined Cobble Hill townhouse that just sold off market for $12.25 million after a celebrity dispute and price reduction.",
+      "published": "2026-10-20T13:36:05+00:00",
+      "fetched": "2026-10-20T15:53:29.165456+00:00"
+    },
+    {
+      "id": "6aebcc4e6a1a8be0",
+      "title": "Home Construction Drops as Builders Confront Higher Mortgage Rates",
+      "link": "https://www.realtor.com/news/trends/residential-starts-home-construction-census-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Single-family housing starts fell last month to a seasonally adjusted annual rate of 859,000, down 4.6% from August.",
+      "published": "2026-10-20T13:33:42+00:00",
+      "fetched": "2026-10-20T15:53:29.165484+00:00"
+    },
+    {
+      "id": "663f5267c2acb8a2",
+      "title": "EXCLUSIVE: Dolly Parton’s Former West Hollywood Retreat Pulled From Rental Market",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-former-west-hollywood-home-removed-from-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Parton, who passed away on Aug. 25, purchased the two-bedroom, two-bathroom property in 2007 for $1.2 million.",
+      "published": "2026-10-20T12:59:08+00:00",
+      "fetched": "2026-10-20T15:53:29.165517+00:00"
+    },
+    {
+      "id": "5af59ceb624c60be",
+      "title": "The “2nd Wave” of the Commercial Real Estate Crash Is Close",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-470",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Commercial real estate prices have fallen 20%-50% from their peaks just a few years ago—but the slide may not be over yet. A “second wave” of the commercial real estate [ ]",
+      "published": "2026-10-20T11:00:53+00:00",
+      "fetched": "2026-10-20T15:53:28.687566+00:00"
+    },
     {
       "id": "4690b8660809c596",
       "title": "Why You Can’t Take Your Low Mortgage Rate to a New Home",
@@ -1452,56 +1502,6 @@
       "summary": "Tour designer Aaron Hom’s $750K Oakland bungalow. See how the stylist maximized an 870-sq-ft space with elevated indoor-outdoor living.",
       "published": "2026-10-10T18:46:00+00:00",
       "fetched": "2026-10-10T20:46:01.124906+00:00"
-    },
-    {
-      "id": "e9ebc019c929858c",
-      "title": "Gilded Age San Francisco Estate Built for Timber Baron Lists for $27 Million",
-      "link": "https://www.realtor.com/news/unique-homes/doe-house-the-gilded-age-san-francisco-estate-lists-for-27-million/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 7-bedroom home was completed just two years after the 1906 earthquake and fire destroyed much of San Francisco.",
-      "published": "2026-10-10T18:13:00+00:00",
-      "fetched": "2026-10-10T20:46:01.124935+00:00"
-    },
-    {
-      "id": "236a9a904934a444",
-      "title": "VIDEO: New Jersey Residents Protest $1.8B Data Center in Their Neighborhood",
-      "link": "https://www.realtor.com/news/trends/kenilworth-nj-data-center-protest-coreweave-video/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Residents of Kenilworth, NJ are taking to the streets to rally against the construction of a massive new data center.",
-      "published": "2026-10-10T17:01:00+00:00",
-      "fetched": "2026-10-10T20:46:01.124956+00:00"
-    },
-    {
-      "id": "8f5fd34dda2df364",
-      "title": "The MLB Playoffs Put a Wealth Divide on Display. Housing Has One, Too.",
-      "link": "https://www.realtor.com/news/sports/dodgers-brewers-playoffs-housing-wealth-divide/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Dodgers and Brewers enter the NLCS with vastly different payrolls. America’s homebuyers are playing with unequal resources, too.",
-      "published": "2026-10-10T16:55:00+00:00",
-      "fetched": "2026-10-10T20:46:01.124979+00:00"
-    },
-    {
-      "id": "fc5b65f2746178ea",
-      "title": "This $7.5M Bridgehampton Estate Has Its Own Buddhist Temple, Koi Ponds, and Zen Gardens",
-      "link": "https://www.realtor.com/news/unique-homes/7-5-million-hamptons-estate-boasts-a-buddhist-temple/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 7-bedroom, 7.5-bathroom home in Bridgehampton offers stunning landscape across 4.59-acres and unique architecture.",
-      "published": "2026-10-10T16:17:00+00:00",
-      "fetched": "2026-10-10T16:26:10.799552+00:00"
-    },
-    {
-      "id": "6b56eae0580d8c2c",
-      "title": "‘Spaceship’ Dome Home Touches Down in New Jersey for Under $1 Million",
-      "link": "https://www.realtor.com/news/unique-homes/spaceship-dome-home-jefferson-township-nj/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Look inside this out-of-this-world $915K geodesic dome home for sale on 8 private acres in Jefferson Township, NJ, with lodgelike interior.",
-      "published": "2026-10-10T15:30:00+00:00",
-      "fetched": "2026-10-10T16:26:10.799594+00:00"
     }
   ]
 }
