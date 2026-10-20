@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-20T02:16:41.601794+00:00",
+  "updated": "2026-10-20T10:29:58.314262+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4690b8660809c596",
+      "title": "Why You Can’t Take Your Low Mortgage Rate to a New Home",
+      "link": "https://www.realtor.com/news/real-estate-news/portable-mortgages-assumable-rates-feasibility-new-bill/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With mortgage rates on a brutal climb, Washington has once again brought up the idea of creating portable mortgages.",
+      "published": "2026-10-20T09:00:00+00:00",
+      "fetched": "2026-10-20T10:29:58.313665+00:00"
+    },
+    {
+      "id": "d53396dcb47b36eb",
+      "title": "America’s Landlords Are Aging. Will Their Heirs Take On the Job?",
+      "link": "https://www.realtor.com/news/trends/aging-landlords-heirs-inherited-rental-properties/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Millions of small rentals depend on hands-on family management. As older landlords pass them down, heirs may outsource or sell.",
+      "published": "2026-10-20T08:43:00+00:00",
+      "fetched": "2026-10-20T10:29:58.313724+00:00"
+    },
+    {
+      "id": "788d6d91d6c757ac",
+      "title": "This $100 Million Fort Lauderdale Waterfront Megamansion Takes Up ‘Entire End of the Street’",
+      "link": "https://www.realtor.com/news/unique-homes/fort-lauderdale-unbuilt-waterfront-megamansion-100-million-most-expensive/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A seven-bedroom mansion planned for Fort Lauderdale, but not slated for completion until 2028, has just hit the market.",
+      "published": "2026-10-20T08:17:00+00:00",
+      "fetched": "2026-10-20T10:29:58.313758+00:00"
+    },
+    {
+      "id": "f3640c0aab65fab7",
+      "title": "Luxury Hot Spots for Outdoor Lovers: How Portland and Denver Stack Up",
+      "link": "https://www.realtor.com/news/trends/portland-denver-luxury-real-estate-prices-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Denver and Portland both \"sell buyers on the outdoors with mountain access, trail networks, and ski terrain within an easy drive.\"",
+      "published": "2026-10-20T08:11:00+00:00",
+      "fetched": "2026-10-20T10:29:58.313786+00:00"
+    },
     {
       "id": "f01b39daf5ce93f6",
       "title": "Kelly Ripa and Mark Consuelos Reveal a ‘Parasite’ Has Prevented Their New Rescue Dog From Coming Home",
@@ -1462,46 +1502,6 @@
       "summary": "Look inside this out-of-this-world $915K geodesic dome home for sale on 8 private acres in Jefferson Township, NJ, with lodgelike interior.",
       "published": "2026-10-10T15:30:00+00:00",
       "fetched": "2026-10-10T16:26:10.799594+00:00"
-    },
-    {
-      "id": "a8639c5bce6441a5",
-      "title": "Famed West Palm Beach Developer Launches His Latest Luxury Offering on Clear Lake",
-      "link": "https://www.realtor.com/news/trends/berkeley-west-palm-beach-developer-al-adelson-clear-lake/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Al Adelson, a seasoned developer with 50 years experience, is spearheading the development team behind The Berkeley Palm Beach.",
-      "published": "2026-10-10T13:13:00+00:00",
-      "fetched": "2026-10-10T16:26:10.799623+00:00"
-    },
-    {
-      "id": "81dfaddc4d5c48ee",
-      "title": "This NJ Town Had Plans for a 200+ Apartment Complex on an Abandoned Mini Mall. Now It’s a Movie Set.",
-      "link": "https://www.realtor.com/news/trends/wayne-nj-mini-mall-movie-filming-miami-vice/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Sydney Sweeney, Austin Butler, and Michael B. Jordan are spending time in a quaint New Jersey town being transformed for their movies.",
-      "published": "2026-10-10T11:00:00+00:00",
-      "fetched": "2026-10-10T11:27:05.462359+00:00"
-    },
-    {
-      "id": "31aae0e0e68686b7",
-      "title": "Saving America’s Aging Homes: Inside the Bipartisan Push for HUD Repair Grants",
-      "link": "https://www.realtor.com/news/trends/americas-aging-homes-housing-shortage-repair-costs/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Older homes are carrying more of the housing market’s affordability burden, even as repair and maintenance costs climb.",
-      "published": "2026-10-09T20:59:49+00:00",
-      "fetched": "2026-10-09T21:54:58.713499+00:00"
-    },
-    {
-      "id": "ab41a8382fd8f9e0",
-      "title": "‘New Girl’ Star Jake Johnson Lists Private Pasadena Retreat for $3.3 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/new-girl-star-jake-johnson-lists-private-pasadena-retreat-for-3-3-million/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor, best known for portraying Nick Miller on the hit comedy series, is looking to part ways with the four-bedroom home.",
-      "published": "2026-10-09T19:48:08+00:00",
-      "fetched": "2026-10-09T21:54:58.713540+00:00"
     }
   ]
 }

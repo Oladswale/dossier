@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-20T02:16:41.089185+00:00",
+  "updated": "2026-10-20T10:29:57.415725+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f4ce63cd13f0a8de",
+      "title": "Doctor Who’s Tom Baker Plays Douglas Adams’ Digital “Agent” in the AI-Predicting Hyperland (1990)",
+      "link": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams-digital-agentdoctor-whos-tom-baker-plays-douglas-adams-digital-agent-in-the-ai-predicting-hyperland-1990.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Cast your mind, if you will, back to the year 2020. It now feels like a different time, what with the spreading COVID-19 pandemic and the heated sociopolitical battles being waged online, and indeed in the (socially distanced) streets. That spring, we featured here on Open Culture an amusing retro-technological diversion called Hyperland.",
+      "published": "2026-10-20T09:00:25+00:00",
+      "fetched": "2026-10-20T10:29:57.415440+00:00"
+    },
+    {
+      "id": "99b68fdeadb14a1b",
+      "title": "Hear How Clare Torry’s Vocals on Pink Floyd’s “The Great Gig in the Sky” Made the Song Go from Pretty Good to Downright Great",
+      "link": "https://www.openculture.com/2026/10/how-clare-torry-made-gig-in-the-sky-great.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Smack in the middle of Pink Floyd’s classic Dark Side of the Moon sits a song many listeners may hear as an extended bridge between the two true centerpieces, “Time” and “Money.” But I’ve always thought of “The Great Gig in the Sky” as the album’s true center, a swirling, swinging, soulful prog-rock masterpiece, carried to [ ]",
+      "published": "2026-10-20T08:00:24+00:00",
+      "fetched": "2026-10-20T10:29:57.415505+00:00"
+    },
+    {
+      "id": "b269f979e37a8232",
+      "title": "MIT spinout makes surgical stitching more like applying a sticky note",
+      "link": "https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "SanaHeal has developed a biologically compatible adhesive that sticks to wet tissues to simplify a variety of surgeries.",
+      "published": "2026-10-20T04:00:00+00:00",
+      "fetched": "2026-10-20T10:29:56.403053+00:00"
+    },
     {
       "id": "8d91e2cab6ae4b55",
       "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
@@ -1472,36 +1502,6 @@
       "summary": "Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debris from the brain and keeps it healthy.",
       "published": "2026-09-09T18:00:00+00:00",
       "fetched": "2026-09-09T20:06:13.826124+00:00"
-    },
-    {
-      "id": "7c81218c8b9960c7",
-      "title": "An electrochemical approach turns ammonia into pure hydrogen",
-      "link": "https://news.mit.edu/2026/electrochemical-approach-turns-ammonia-into-pure-hydrogen-0909",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An MIT team has demonstrated a more efficient way to extract pure hydrogen gas from hydrogen carrier molecules.",
-      "published": "2026-09-09T15:00:00+00:00",
-      "fetched": "2026-09-09T15:23:33.422133+00:00"
-    },
-    {
-      "id": "6da39802fdb40511",
-      "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
-      "link": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Today, we’re surrounded by technologies we could justifiably describe as time thieves. In ancient Greece, those who wanted to know where their time was going consulted a device they called a “water thief.” The roots of the clepsydra, or water clock, go back as far as the sixteenth century BC, with evidence of such devices [ ]",
-      "published": "2026-09-09T09:00:26+00:00",
-      "fetched": "2026-09-09T10:12:59.931398+00:00"
-    },
-    {
-      "id": "99cf309bac44f94b",
-      "title": "Historian Timothy Snyder Teaches a Free Course on Hitler, Stalin & How “It” Can Happen Here",
-      "link": "https://www.openculture.com/2026/09/historian-timothy-snyder-teaches-a-free-course-on-hitler-stalin-how-it-can-happen-here.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "When the historian Timothy Snyder left Yale for the University of Toronto in 2024, he took with him the practice of occasionally putting his course lectures online, making them available to anyone who cares to learn from them. Above, you can watch ten lectures from his recent course Hitler and Stalin Today. In this course: [ ]",
-      "published": "2026-09-09T08:00:10+00:00",
-      "fetched": "2026-09-09T10:12:59.931430+00:00"
     }
   ]
 }
