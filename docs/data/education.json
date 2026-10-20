@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-20T15:53:28.112489+00:00",
+  "updated": "2026-10-20T20:56:31.154041+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "10502c84a76dd17e",
+      "title": "Doctor Who’s Tom Baker Plays Douglas Adams’ Digital “Agent” in the AI-Predicting Hyperland (1990)",
+      "link": "https://www.openculture.com/2026/10/doctor-whos-tom-baker-plays-douglas-adams.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Cast your mind, if you will, back to the year 2020. It now feels like a different time, what with the spreading COVID-19 pandemic and the heated sociopolitical battles being waged online, and indeed in the (socially distanced) streets. That spring, we featured here on Open Culture an amusing retro-technological diversion called Hyperland.",
+      "published": "2026-10-20T09:00:25+00:00",
+      "fetched": "2026-10-20T20:56:31.153791+00:00"
+    },
     {
       "id": "f4ce63cd13f0a8de",
       "title": "Doctor Who’s Tom Baker Plays Douglas Adams’ Digital “Agent” in the AI-Predicting Hyperland (1990)",
@@ -1492,16 +1502,6 @@
       "summary": "MIT researchers show implanted nanoantennas can be activated wirelessly to kill brain cancer cells without damage to healthy tissue.",
       "published": "2026-09-09T20:00:00+00:00",
       "fetched": "2026-09-10T01:38:48.836429+00:00"
-    },
-    {
-      "id": "e73469c45ceea5a3",
-      "title": "A burst of “pink noise” may lead to more restorative sleep",
-      "link": "https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debris from the brain and keeps it healthy.",
-      "published": "2026-09-09T18:00:00+00:00",
-      "fetched": "2026-09-09T20:06:13.826124+00:00"
     }
   ]
 }

@@ -1,8 +1,118 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-20T15:53:29.166163+00:00",
+  "updated": "2026-10-20T20:56:31.912586+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "dd72f284e9ff7d90",
+      "title": "College Towns Finally Built More Student Housing—Now, Some Have Too Much",
+      "link": "https://www.realtor.com/news/trends/student-housing-boom-college-towns-oversupply/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New student apartments are opening faster than demand in some university markets, pushing occupancy and rents lower.",
+      "published": "2026-10-20T20:51:27+00:00",
+      "fetched": "2026-10-20T20:56:31.911803+00:00"
+    },
+    {
+      "id": "c1c14144f025403e",
+      "title": "Prince Harry Reveals Why He and Meghan Markle Moved Their Family From California to the U.K.: ‘I Didn’t Know How Important It Was’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-reveals-why-he-and-meghan-markle-moved-from-california-to-uk/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Harry, 42, explained that the opportunity to enroll his children in British schools was particularly meaningful to him.",
+      "published": "2026-10-20T20:45:35+00:00",
+      "fetched": "2026-10-20T20:56:31.911845+00:00"
+    },
+    {
+      "id": "5a64ed072488c48d",
+      "title": "Putting Off Even Small Home Repairs Could Cost Homeowners Nearly $2K More Today",
+      "link": "https://www.realtor.com/advice/home-improvement/putting-off-even-small-home-repairs-cost-to-homeowners/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In a perfect world, homeowners would tackle repairs as soon as issues arise. The reality, however, is that most put them off.",
+      "published": "2026-10-20T20:14:09+00:00",
+      "fetched": "2026-10-20T20:56:31.911877+00:00"
+    },
+    {
+      "id": "bddbab5232a2e50e",
+      "title": "Creative Homeowner Hacks to Give Leftover Halloween Pumpkins New Life",
+      "link": "https://www.realtor.com/advice/home-improvement/clever-things-you-can-do-with-leftover-halloween-pumpkins/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Before you fill your garbage bin with has-been giant squash, we've got some ideas for ways to recycle them. Check out these 11 ways to repurpose your pumpkins, and maybe you'll be inspired!",
+      "published": "2026-10-20T19:32:00+00:00",
+      "fetched": "2026-10-20T20:56:31.911930+00:00"
+    },
+    {
+      "id": "6d4b8ea9ce80b4e8",
+      "title": "Frank Lloyd Wright Home Taliesin West Is Closed Indefinitely After Fatal Accident",
+      "link": "https://www.realtor.com/news/trends/frank-lloyd-wright-taliesin-west-closed-indefinitely-death-college-president/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A visiting dignitary was on a tour of Wright’s renowned Taliesin West home on Friday when he was struck by roofing material.",
+      "published": "2026-10-20T19:29:00+00:00",
+      "fetched": "2026-10-20T20:56:31.911965+00:00"
+    },
+    {
+      "id": "1cbe8367cae76dc6",
+      "title": "Tyler Perry Snaps Up $30 Million Puerto Rico Mansion While His $57 Million California Estate Remains Unsold",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/tyler-perry-buys-mansion-in-puerto-rico/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The movie mogul, 57, recently picked up the pad, which sprawls across 14,475 square feet and is situated on a 1.47-acre lot.",
+      "published": "2026-10-20T18:58:55+00:00",
+      "fetched": "2026-10-20T20:56:31.911994+00:00"
+    },
+    {
+      "id": "c5b6bea451cedc6a",
+      "title": "‘Real Housewives’ Star Lisa Barlow Reveals She Just Put a ‘Stunning’ Addition on Her Salt Lake City Dream Home",
+      "link": "https://www.realtor.com/news/reality-tv/lisa-barlow-housewives-new-addition-salt-lake-city-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The reality TV star says she's currently obsessed with home renovation, years after sharing plans to build an amenity-filled home nearby.",
+      "published": "2026-10-20T17:56:26+00:00",
+      "fetched": "2026-10-20T20:56:31.912026+00:00"
+    },
+    {
+      "id": "813dd491e9c296b3",
+      "title": "Inside a $1.2 Million Time Capsule—Complete With Indoor Pool and 3 Kitchens",
+      "link": "https://www.realtor.com/news/unique-homes/indoor-pool-home-goose-creek-sc/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nestled in Goose Creek, SC, this 1958 \"architectural chameleon\" offers 5,390 square feet of untouched midcentury quirk and an indoor pool.",
+      "published": "2026-10-20T17:22:12+00:00",
+      "fetched": "2026-10-20T20:56:31.912055+00:00"
+    },
+    {
+      "id": "bf62bcb0facf711c",
+      "title": "Alex Cooper Welcomes First Baby After Revealing Nursery Plans Inside $11 Million Los Angeles Mansion",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/alex-cooper-matt-kaplan-welcome-baby-los-angeles-home-nursery/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 32-year-old internet personality took to Instagram to reveal that she and Kaplan, 42, were officially parents.",
+      "published": "2026-10-20T16:05:47+00:00",
+      "fetched": "2026-10-20T20:56:31.912080+00:00"
+    },
+    {
+      "id": "4539a5a6d300c6c1",
+      "title": "Robert F. Kennedy’s Granddaughter Kyle Kennedy Dies at 42 at Massachusetts Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/robert-kennedy-granddaughter-kyle-dead-massachusetts-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kennedy passed away on Sept. 21, and the cause of death is still pending.",
+      "published": "2026-10-20T15:32:57+00:00",
+      "fetched": "2026-10-20T20:56:31.912106+00:00"
+    },
+    {
+      "id": "44ad8f0798edcead",
+      "title": "Pending Home Sales Plunge to All-Time Low in Troubling Sign for Fall Housing Market",
+      "link": "https://www.realtor.com/news/trends/pending-home-sales-fall-september-2026-housing-update/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Contract signings fell 7.3% last month compared to August, and were down 11.3% compared to September 2025.",
+      "published": "2026-10-20T14:00:00+00:00",
+      "fetched": "2026-10-20T20:56:31.912132+00:00"
+    },
     {
       "id": "56df051d4925d35e",
       "title": "Pending Home Sales Plunge 7.3% in Troubling Sign for Fall Housing Market",
@@ -1392,116 +1502,6 @@
       "summary": "Most rookies think you need dozens of rentals before you can walk away from your job. But what if the fastest way to replace your income didn’t require building a [ ]",
       "published": "2026-10-12T11:00:09+00:00",
       "fetched": "2026-10-12T13:38:22.684030+00:00"
-    },
-    {
-      "id": "b0a9485ae94127bf",
-      "title": "Midterm Election Housing Ballot Measures Every Homeowner Needs To Know",
-      "link": "https://www.realtor.com/news/real-estate-news/2026-midterm-election-homeowners-ballot-measures-property-tax/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Voters in 10 states will have the chance to approve ballot measures this year, including a half-dozen changes to property taxes.",
-      "published": "2026-10-12T09:00:00+00:00",
-      "fetched": "2026-10-12T23:51:48.910693+00:00"
-    },
-    {
-      "id": "4f9d333fe750c1fa",
-      "title": "Homeowner’s Guide to the Midterm Election Ballot Measures: Key Initiatives on Property Taxes, Zoning, and Affordable Housing",
-      "link": "https://www.realtor.com/news/real-estate-news/2026-midterm-election-homeowners-ballot-measures-property-tax/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Voters in 10 states will have the chance to approve ballot measures this year, including a half-dozen changes to property taxes.",
-      "published": "2026-10-12T09:00:00+00:00",
-      "fetched": "2026-10-12T13:38:22.949313+00:00"
-    },
-    {
-      "id": "587b554870a79dbc",
-      "title": "Mortgage Rates Hitting 8% This Year Is Not Impossible—and Yet, That Shouldn’t Be Buyers’ Biggest Concern",
-      "link": "https://www.realtor.com/advice/finance/mortgage-rates-8-percent-2026-money-monday/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As mortgage rates continue to climb, buyers are concerned when they'll hit their peak. Is 8% bound to be that number?",
-      "published": "2026-10-12T08:37:00+00:00",
-      "fetched": "2026-10-12T13:38:22.949349+00:00"
-    },
-    {
-      "id": "0be0a1eea4be1e8f",
-      "title": "Housing Week Ahead: Home Sales, Luxury Trends, and New Inflation Data",
-      "link": "https://www.realtor.com/news/trends/housing-week-ahead-video-data-reports-october-12-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The coming week will bring a steady stream of housing market indicators, as well as new reports from the Realtor.com economics team.",
-      "published": "2026-10-12T08:17:00+00:00",
-      "fetched": "2026-10-12T13:38:22.949380+00:00"
-    },
-    {
-      "id": "e9138e604d7e0617",
-      "title": "Mortgage Rates Will Remain Above 7% Through 2027, Top Economist Forecasts",
-      "link": "https://www.realtor.com/news/trends/mortgage-rate-forecast-mba-fratantoni-2027/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "MBA Chief Economist Mike Fratantoni predicts mortgage rates will remain above 7% through next year, due to inflation and budget deficits.",
-      "published": "2026-10-11T23:23:48+00:00",
-      "fetched": "2026-10-12T02:48:35.172523+00:00"
-    },
-    {
-      "id": "7ac6b57b73555455",
-      "title": "Price Cuts Are the Best Concession To Motivate First-Time Buyers, Survey Finds",
-      "link": "https://www.realtor.com/news/trends/price-cuts-seller-concession-motivate-first-time-buyers-neighbors-bank/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Forty percent of first-time buyers said a price reduction is the concession that would most boost their confidence to move forward.",
-      "published": "2026-10-11T16:55:00+00:00",
-      "fetched": "2026-10-11T21:07:13.702590+00:00"
-    },
-    {
-      "id": "e9137b990c686571",
-      "title": "One of Frank Lloyd Wright’s First Commissions Lists near Chicago for $2.4 Million",
-      "link": "https://www.realtor.com/news/unique-homes/frank-lloyd-wright-home-river-forest-illinois-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built in 1895, the Chauncey Williams House in River Forest, IL boasts an exaggerated roof and many other wow-worthy features.",
-      "published": "2026-10-11T16:04:00+00:00",
-      "fetched": "2026-10-11T16:50:57.831776+00:00"
-    },
-    {
-      "id": "8edaf5d2782b596d",
-      "title": "Fairy-Tale ‘Carpenter Gothic Victorian’ Hits the Market on Long Island’s Shelter Island",
-      "link": "https://www.realtor.com/news/unique-homes/carpenter-gothic-victorian-for-sale-shelter-island/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built around 1875, the home boasts 2,300 square feet of living space and has been restored for year-round use.",
-      "published": "2026-10-11T15:30:00+00:00",
-      "fetched": "2026-10-11T16:50:57.831817+00:00"
-    },
-    {
-      "id": "db0e6b69b9c287f0",
-      "title": "YouTube Star Kris Krohn Lists Mind-Blowing $14 Million Utah Mansion With a Pool That Transforms Into a Ballroom",
-      "link": "https://www.realtor.com/news/unique-homes/kris-krohn-lists-14-million-utah-compound/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The six-bedroom megamansion, located in Woodland Hills, UT, boasts two connected wings and offers panoramic views of the valley.",
-      "published": "2026-10-11T13:33:00+00:00",
-      "fetched": "2026-10-11T16:50:57.831849+00:00"
-    },
-    {
-      "id": "dce4c21cccd516b3",
-      "title": "‘Verity’ Production Designer Amy Williams Reveals How Modern Scandinavian Architecture Creates ‘Eerie Drama’ in the Film",
-      "link": "https://www.realtor.com/news/unique-homes/house-in-verity-set-design-scandinavian-modern-architecture/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The psychological thriller was shot at a stunning Scandinavian modern estate that blurs the lines between what's natural and what's built.",
-      "published": "2026-10-11T12:15:00+00:00",
-      "fetched": "2026-10-11T16:50:57.831883+00:00"
-    },
-    {
-      "id": "29a4438ad703cdd6",
-      "title": "A Restoration Hardware Stylist Turned an 870-Square-Foot California Bungalow into an Indoor-Outdoor Oasis",
-      "link": "https://www.realtor.com/news/unique-homes/aaron-hom-oakland-craftsman-bungalow-lists-for-750k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tour designer Aaron Hom’s $750K Oakland bungalow. See how the stylist maximized an 870-sq-ft space with elevated indoor-outdoor living.",
-      "published": "2026-10-10T18:46:00+00:00",
-      "fetched": "2026-10-10T20:46:01.124906+00:00"
     }
   ]
 }
