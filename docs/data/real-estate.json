@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-19T21:46:34.977183+00:00",
+  "updated": "2026-10-20T02:16:41.601794+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f01b39daf5ce93f6",
+      "title": "Kelly Ripa and Mark Consuelos Reveal a ‘Parasite’ Has Prevented Their New Rescue Dog From Coming Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kelly-ripa-mark-consuelos-new-dog-parasite/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A health issue has prevented the married TV show hosts from bringing their new dog home to their $27 million townhouse.",
+      "published": "2026-10-19T22:36:22+00:00",
+      "fetched": "2026-10-20T02:16:41.601271+00:00"
+    },
+    {
+      "id": "fa7838c18c1452d9",
+      "title": "Inside Elizabeth Holmes’ Secret Oceanfront Rental Seen in ‘You Can See Everything’ Documentary a Month Before She’s Sent to Prison",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/elizabeth-holmes-you-can-see-everything-home-del-mar-california/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Theranos founder's new documentary was filmed in secret at an ultraprivate home she rented before going to prison.",
+      "published": "2026-10-19T22:23:57+00:00",
+      "fetched": "2026-10-20T02:16:41.601312+00:00"
+    },
+    {
+      "id": "8e599961de85b24e",
+      "title": "Chelsea Luxury Condo With Hudson River Views Is Manhattan’s Most Expensive Sale This Week",
+      "link": "https://www.realtor.com/news/trends/chelsea-luxury-condo-sold-551-21st-street-manhattan/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 17th-floor corner unit at 551 West 21st St. in Chelsea is a rare four-bedroom condo boasting impressive 11-foot ceilings.",
+      "published": "2026-10-19T21:50:44+00:00",
+      "fetched": "2026-10-20T02:16:41.601344+00:00"
+    },
     {
       "id": "255a337c41d47aaf",
       "title": "Is ‘Giving While Living’ the Best Way To Hand Down Your Home to the Next Generation?",
@@ -1472,36 +1502,6 @@
       "summary": "The actor, best known for portraying Nick Miller on the hit comedy series, is looking to part ways with the four-bedroom home.",
       "published": "2026-10-09T19:48:08+00:00",
       "fetched": "2026-10-09T21:54:58.713540+00:00"
-    },
-    {
-      "id": "c6050110dc636b87",
-      "title": "Trump Launches New Investigation into Fed Gov. Lisa Cook Over Mortgage Fraud Allegations",
-      "link": "https://www.realtor.com/news/real-estate-news/trump-lisa-cook-new-investigation-mortgage-fraud-attorney-general/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In a memo to Attorney General Todd Blanche on Friday, Trump directed the AG to establish a committee to investigate Cook.",
-      "published": "2026-10-09T19:29:24+00:00",
-      "fetched": "2026-10-09T21:54:58.713572+00:00"
-    },
-    {
-      "id": "ef9b5efb4c9ce360",
-      "title": "Rents Are Falling. So Why Are More Middle-Income Renters Falling Behind?",
-      "link": "https://www.realtor.com/news/trends/middle-income-renters-falling-behind-rent/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New data show rent-payment problems rising up the income ladder as high housing costs collide with a softer labor market.",
-      "published": "2026-10-09T18:01:40+00:00",
-      "fetched": "2026-10-09T21:54:58.713600+00:00"
-    },
-    {
-      "id": "92b2a76925dcbd13",
-      "title": "Tour This $3.5 Million NYC Landmark Penthouse With a Sprawling Private Terrace, Outdoor Shower, and Garden",
-      "link": "https://www.realtor.com/news/unique-homes/tour-this-new-york-city-penthouse-broad-exchange/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Located in a historic landmark, this $3.5 million listing offers plenty of features that are rare to find in Manhattan.",
-      "published": "2026-10-09T16:57:13+00:00",
-      "fetched": "2026-10-09T21:54:58.713629+00:00"
     }
   ]
 }

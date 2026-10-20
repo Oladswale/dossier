@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-10-19T21:46:17.759674+00:00",
+  "updated": "2026-10-20T02:16:25.500921+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f71e3a4362d8a770",
+      "title": "Three big takeaways from the IMF-World Bank meetings",
+      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "published": "2026-10-20T00:33:34+00:00",
+      "fetched": "2026-10-20T02:16:24.008935+00:00"
+    },
+    {
+      "id": "21f493d7fcef4a4f",
+      "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
+      "published": "2026-10-19T21:58:00+00:00",
+      "fetched": "2026-10-20T02:16:23.776849+00:00"
+    },
     {
       "id": "0a776261ea63179d",
       "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
@@ -1482,26 +1502,6 @@
       "summary": "Larry McDonald says the S P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
       "published": "2026-10-16T14:28:00+00:00",
       "fetched": "2026-10-16T15:38:00.586108+00:00"
-    },
-    {
-      "id": "b33092eb9666b4b5",
-      "title": "A stock-market ‘sell’ signal has been silenced — but these Bank of America strategists say it’s too early to buy",
-      "link": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Even though October’s correction has brought about some relief for bond markets and revivified the rate sensitive sectors of the stock market, Bank of America’s strategists recommend staying risk-off until after the midterms and the next Fed meeting.",
-      "published": "2026-10-16T14:14:00+00:00",
-      "fetched": "2026-10-16T15:38:00.586131+00:00"
-    },
-    {
-      "id": "05b0bf283ec50f92",
-      "title": "TeXcellence 5.0: Why Africa Must Move from Digital Adoption to Ownership, Execution and Economic Value",
-      "link": "https://nairametrics.com/2026/10/16/texcellence-5-0-why-africa-must-move-from-digital-adoption-to-ownership-execution-and-economic-value/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Africa s digital future will not be determined merely by how quickly its governments, businesses and citizens adopt technology, but by how effectively the continent builds, owns and deploys the infrastructure, intellectual property and institutions needed to convert innovation into sustainable economic value.This was the central message emerging from the fifth edition of TeXcellence, organised by [ ] The post TeXcellence 5.0: Why Africa Must Move from Digital Adoption to Ownership, Execution and Economic Value appeared first on Nairametrics .",
-      "published": "2026-10-16T14:05:00+00:00",
-      "fetched": "2026-10-16T15:38:01.135099+00:00"
     }
   ]
 }
