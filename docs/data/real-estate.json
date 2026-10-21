@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-20T20:56:31.912586+00:00",
+  "updated": "2026-10-21T02:10:12.373884+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "64bf2c340a696521",
+      "title": "Baltimore Mortgage Fraud Ring Drove Hundreds of Homes Into Foreclosure, Lawsuits Claim",
+      "link": "https://www.realtor.com/news/real-estate-news/baltimore-dscr-mortgage-fraud-foreclosures-lawsuit-update/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Lenders say Benjamin Eidlisz and Eluzer Gold violated RICO laws and bilked them out of millions in fraudulent Baltimore real estate deals.",
+      "published": "2026-10-20T22:55:38+00:00",
+      "fetched": "2026-10-21T02:10:12.373198+00:00"
+    },
+    {
+      "id": "73ce97d751a5f62d",
+      "title": "Bones Found at Philadelphia ‘House of Horrors’ During Investigation Into 7 Missing Women",
+      "link": "https://www.realtor.com/news/trends/bones-found-philadelphia-pa-house-of-horrors-7-missing-women/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A growing body of disturbing evidence is emerging from the Philadelphia home of late pornographer Raymond Charles Horsch.",
+      "published": "2026-10-20T22:08:49+00:00",
+      "fetched": "2026-10-21T02:10:12.373236+00:00"
+    },
+    {
+      "id": "89679af3458fe141",
+      "title": "EXCLUSIVE: What Really Happens Behind Off-Limits Doors at One of Las Vegas’ Most Iconic Casinos",
+      "link": "https://www.realtor.com/news/reality-tv/secret-life-of-a-vegas-casino-golden-nugget-behind-the-scenes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"Secret Life of a Vegas Casino\" reveals how Golden Nugget staff use hidden design tricks and strict security to keep guests gambling.",
+      "published": "2026-10-20T21:33:18+00:00",
+      "fetched": "2026-10-21T02:10:12.373266+00:00"
+    },
+    {
+      "id": "8eca9529a23f60e1",
+      "title": "Inside Christina Applegate’s Los Angeles Home—Where She’s Lived Since 1995 and Found Sanctuary During Health Battle",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/christina-applegate-los-angeles-family-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actress, who was misdiagnosed with multiple sclerosis, has retreated to her home as a safe place amid health issues.",
+      "published": "2026-10-20T21:09:57+00:00",
+      "fetched": "2026-10-21T02:10:12.373294+00:00"
+    },
     {
       "id": "dd72f284e9ff7d90",
       "title": "College Towns Finally Built More Student Housing—Now, Some Have Too Much",
@@ -1462,46 +1502,6 @@
       "summary": "The raid was conducted as part of a criminal fraud investigation into Omar’s immigration paperwork, which was filled out by her late father.",
       "published": "2026-10-12T16:19:44+00:00",
       "fetched": "2026-10-12T23:51:48.910628+00:00"
-    },
-    {
-      "id": "2895b7c9bbc61f62",
-      "title": "‘Secret Lives of Mormon Wives’ Star Mikayla Matthews Breaks Down in Tears as She Moves Out of Home That Made Her ‘Depressed and Sick’",
-      "link": "https://www.realtor.com/news/reality-tv/mormon-wives-mikayla-matthews-moving-out-utah-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Matthews broke down as she left her longtime Utah home, revealing plans to build a new house amid her health struggles.",
-      "published": "2026-10-12T14:31:39+00:00",
-      "fetched": "2026-10-12T23:51:48.910659+00:00"
-    },
-    {
-      "id": "37479abaced91b02",
-      "title": "Impeccably Preserved Frank Lloyd Wright-Designed Usonian Lists in Minneapolis for $2.5 Million",
-      "link": "https://www.realtor.com/news/unique-homes/frank-lloyd-wright-neils-house-minneapolis-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Designed to blend into the landscape with strong horizontal lines and an abundance of natural light, Frank Lloyd Wright s Usonian homes were built from the 1930s until his death in",
-      "published": "2026-10-12T12:17:24+00:00",
-      "fetched": "2026-10-12T13:38:22.949265+00:00"
-    },
-    {
-      "id": "2ab42bf0eba09e51",
-      "title": "From $12/Hour to 3 Rental Properties and Traveling the World",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1342",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Anyone can invest in real estate. You don’t need a fancy degree, a big bank account, or a high-paying job to get started. Arden Williams and his then-girlfriend were both [ ]",
-      "published": "2026-10-12T11:00:54+00:00",
-      "fetched": "2026-10-12T13:38:22.683981+00:00"
-    },
-    {
-      "id": "9f89070612a74875",
-      "title": "He Doesn’t Own These Rentals (But They Helped Him Quit His Job)",
-      "link": "https://www.biggerpockets.com/blog/rookie-782",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Most rookies think you need dozens of rentals before you can walk away from your job. But what if the fastest way to replace your income didn’t require building a [ ]",
-      "published": "2026-10-12T11:00:09+00:00",
-      "fetched": "2026-10-12T13:38:22.684030+00:00"
     }
   ]
 }

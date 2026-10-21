@@ -1,8 +1,68 @@
 {
   "category": "finance",
-  "updated": "2026-10-20T20:56:15.239698+00:00",
+  "updated": "2026-10-21T02:09:56.473561+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9267b4b724995de8",
+      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Super Micro unexpectedly disclosed that its revenue and profitability could be much stronger than originally anticipated.",
+      "published": "2026-10-21T00:15:00+00:00",
+      "fetched": "2026-10-21T02:09:55.448831+00:00"
+    },
+    {
+      "id": "4878d025892de75a",
+      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
+      "published": "2026-10-21T00:14:00+00:00",
+      "fetched": "2026-10-21T02:09:55.448869+00:00"
+    },
+    {
+      "id": "bb34ac2190d29091",
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
+      "published": "2026-10-21T00:12:00+00:00",
+      "fetched": "2026-10-21T02:09:55.448904+00:00"
+    },
+    {
+      "id": "a7ab4bb251ed0309",
+      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts.",
+      "published": "2026-10-20T23:10:00+00:00",
+      "fetched": "2026-10-21T02:09:55.448932+00:00"
+    },
+    {
+      "id": "8c3f0a82f4cea61f",
+      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
+      "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Some analysts question whether people will actually take advantage of Walmart’s new bundle, and how easy it is to make sense of the benefits.",
+      "published": "2026-10-20T21:47:00+00:00",
+      "fetched": "2026-10-21T02:09:55.448996+00:00"
+    },
+    {
+      "id": "c389da4dccbb78b6",
+      "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+      "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Research can prove a lot of facts, but that doesn’t mean it changes how people act.",
+      "published": "2026-10-20T20:57:00+00:00",
+      "fetched": "2026-10-21T02:09:55.449022+00:00"
+    },
     {
       "id": "28414c714db99f48",
       "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
@@ -1442,66 +1502,6 @@
       "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
       "published": "2026-10-18T13:00:00+00:00",
       "fetched": "2026-10-18T14:56:21.392596+00:00"
-    },
-    {
-      "id": "cf02c8e7446cb63b",
-      "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-      "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A “triple-top” reversal chart pattern is pointing to a period of underperformance for the S P 500 — perhaps a long one.",
-      "published": "2026-10-18T12:00:00+00:00",
-      "fetched": "2026-10-18T14:56:21.392661+00:00"
-    },
-    {
-      "id": "1c1472863c11b763",
-      "title": "Nigeria’s inflation mirage: Food prices fall, but core pressures mount",
-      "link": "https://nairametrics.com/2026/10/18/nigerias-inflation-mirage-food-prices-fall-but-core-pressures-mount/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s headline inflation fell to 14.63% in September 2026, down from 15.39% in August and 20.98% in September 2025, according to the National Bureau of Statistics (NBS, 15 October 2026). The post Nigeria’s inflation mirage: Food prices fall, but core pressures mount appeared first on Nairametrics .",
-      "published": "2026-10-18T09:47:00+00:00",
-      "fetched": "2026-10-18T09:58:52.286625+00:00"
-    },
-    {
-      "id": "e1f8f5ce3333ccfa",
-      "title": "‘Nigeria Rising’: Oyedele says reforms are changing how world sees Nigeria",
-      "link": "https://nairametrics.com/2026/10/18/nigeria-rising-oyedele-says-reforms-are-changing-how-world-sees-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government says Nigeria is beginning to change how it is perceived internationally, pointing to its tax overhaul and broader economic reforms as evidence that the country is moving towards sustainable growth and shared prosperity. The post ‘Nigeria Rising’: Oyedele says reforms are changing how world sees Nigeria appeared first on Nairametrics .",
-      "published": "2026-10-18T09:19:21+00:00",
-      "fetched": "2026-10-18T09:58:52.286690+00:00"
-    },
-    {
-      "id": "eea7afe317836c81",
-      "title": "Veritas Kapital Assurance swings to N3.16 billion pre-tax profit in 2025, as profit after tax rises 86%",
-      "link": "https://nairametrics.com/2026/10/18/veritas-kapital-assurance-swings-to-n3-16-billion-pre-tax-profit-in-2025-as-profit-after-tax-rises-86/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Veritas Kapital Assurance Plc reported a profit after tax of N3.046 billion for 2025, up from N1.634 billion in 2024, and a pre-tax profit of N3.156 billion against a loss of N1.485 billion a year earlier. The post Veritas Kapital Assurance swings to N3.16 billion pre-tax profit in 2025, as profit after tax rises 86% appeared first on Nairametrics .",
-      "published": "2026-10-18T08:29:05+00:00",
-      "fetched": "2026-10-18T09:58:52.286743+00:00"
-    },
-    {
-      "id": "307c118d8e2b5de2",
-      "title": "Niger bans petrol, diesel exports to prioritise domestic fuel supply",
-      "link": "https://nairametrics.com/2026/10/18/niger-bans-petrol-diesel-exports-to-prioritise-domestic-fuel-supply/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Republic of Niger has banned the export of premium petrol and diesel as part of measures to prioritise domestic fuel supply amid growing concerns over disruptions to global petroleum markets. The post Niger bans petrol, diesel exports to prioritise domestic fuel supply appeared first on Nairametrics .",
-      "published": "2026-10-18T07:33:28+00:00",
-      "fetched": "2026-10-18T09:58:52.286787+00:00"
-    },
-    {
-      "id": "2c74b1285191746e",
-      "title": "Navy uncovers illegal refinery with 114,500 litres of petroleum products, arrests 10",
-      "link": "https://nairametrics.com/2026/10/18/navy-uncovers-illegal-refinery-with-114500-litres-of-petroleum-products-arrests-10/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Navy has uncovered a suspected illegal refining site containing approximately 114,500 litres of petroleum products in Rivers State, while arresting 10 suspected drug offenders in a separate joint operation with the National Drug Law Enforcement Agency (NDLEA) in Delta State. The post Navy uncovers illegal refinery with 114,500 litres of petroleum products, arrests 10 appeared first on Nairametrics .",
-      "published": "2026-10-18T07:04:22+00:00",
-      "fetched": "2026-10-18T09:58:52.286835+00:00"
     }
   ]
 }
