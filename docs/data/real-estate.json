@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-21T10:41:11.251229+00:00",
+  "updated": "2026-10-21T16:11:02.645352+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9ba19275b6162f9c",
+      "title": "EXCLUSIVE: Betsey Johnson Takes Her Modern $7 Million Hidden Hills Ranch Off the Market",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/betsey-johsnon-hidden-hills-modern-ranch-off-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The legendary fashion designer listed the ultramodern property just a year after snapping it up.",
+      "published": "2026-10-21T16:07:29+00:00",
+      "fetched": "2026-10-21T16:11:02.644606+00:00"
+    },
+    {
+      "id": "60bee58131fae052",
+      "title": "Mortgage Applications To Buy a Home Fall 18% From Last Year as Housing Slump Deepens",
+      "link": "https://www.realtor.com/news/trends/mortgage-applications-falling-mba-october-21-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Interest rates decreased slightly week over week, but the volume of mortgage applications continued to fall.",
+      "published": "2026-10-21T14:25:47+00:00",
+      "fetched": "2026-10-21T16:11:02.644640+00:00"
+    },
+    {
+      "id": "4f9edd16f37eca7b",
+      "title": "EXCLUSIVE: Tyler Perry Slashes Price of Wyoming Home by $3.5 Million After Buying Mansion in Puerto Rico",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/tyler-perry-wyoming-home-for-sale-price-cut/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Perry is looking to cut ties with several of his real estate jewels—having put his Wyoming and California properties on the selling block.",
+      "published": "2026-10-21T13:33:47+00:00",
+      "fetched": "2026-10-21T16:11:02.644677+00:00"
+    },
+    {
+      "id": "baba9f11c714b0e8",
+      "title": "EXCLUSIVE: Dolly Parton’s Former Hollywood Home Returns to Market at Reduced Price",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-former-west-hollywood-home-for-rent-price-cut/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The property first hit the market in July for $12,000 a month. It then disappeared from the rental block, before being relisted.",
+      "published": "2026-10-21T12:55:35+00:00",
+      "fetched": "2026-10-21T16:11:02.644708+00:00"
+    },
+    {
+      "id": "ffebd0e3385cd878",
+      "title": "How to Start Your Rental Portfolio in 2027 (No Experience, Little Money)",
+      "link": "https://www.biggerpockets.com/blog/rookie-786",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "What would you do if you had to start your real estate portfolio over with little money and no experience? We’d do it a lot differently the second time around! [ ]",
+      "published": "2026-10-21T11:00:45+00:00",
+      "fetched": "2026-10-21T16:11:02.306437+00:00"
+    },
+    {
+      "id": "7e1842ab47974895",
+      "title": "Was Dave Ramsey Right About Rentals? (Don’t Use Debt)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1346",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You want to buy a rental property, so you put 20% down and get a mortgage to cover the rest. This is how most investors buy real estate, but some [ ]",
+      "published": "2026-10-21T11:00:29+00:00",
+      "fetched": "2026-10-21T16:11:02.306480+00:00"
+    },
     {
       "id": "25a562b97bf9f54b",
       "title": "Small Investors Made Gains in Housing Market This Year as Congress Limited Big Institutions",
@@ -1442,66 +1502,6 @@
       "summary": "Voters are three weeks from deciding whether to radically reform the state's property tax system. Here's what it means.",
       "published": "2026-10-13T09:00:00+00:00",
       "fetched": "2026-10-13T13:01:15.582908+00:00"
-    },
-    {
-      "id": "86c45d910670562d",
-      "title": "Inside a NYC $80 Million Megamansion: Cold Plunge, Garage Bar, and Wine Cellar",
-      "link": "https://www.realtor.com/news/unique-homes/80-million-upper-east-side-mansion-most-expensive/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "This $80 million Upper East Side mansion with a 6,000-bottle wine cellar is among the most expensive listings this week.",
-      "published": "2026-10-13T08:17:00+00:00",
-      "fetched": "2026-10-13T13:01:15.582933+00:00"
-    },
-    {
-      "id": "f21351a9ace6cfc6",
-      "title": "Credit Score Shake-Up Could Help Millions Buy a Home—but Lenders Say There’s a Hidden Risk",
-      "link": "https://www.realtor.com/news/real-estate-news/fha-credit-score-changes-vantagescore-mortgage-risk/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Federal Housing Administration's push to modernize credit scores could change the system, but it also brings new risk, analysts say.",
-      "published": "2026-10-12T22:23:44+00:00",
-      "fetched": "2026-10-12T23:51:48.910367+00:00"
-    },
-    {
-      "id": "0bbd20ac4293e99a",
-      "title": "Long Beach Homes Sustain Significant Damage Following Tropical Storm Rachel, and 8 Buildings Have Been Red-Tagged",
-      "link": "https://www.realtor.com/news/trends/long-beach-california-homes-significant-damage-tropical-storm-rachel/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Long Beach officials estimate $1.5 million to $3.5 million will be needed to repair damages from Tropical Storm Rachel over the weekend.",
-      "published": "2026-10-12T21:32:09+00:00",
-      "fetched": "2026-10-12T23:51:48.910404+00:00"
-    },
-    {
-      "id": "af421609b8f90e82",
-      "title": "Beach Boys Star Mike Love Goes to Extreme Lengths To Protect His $43 Million Lake Tahoe Home From Developers",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/beach-boys-mike-love-lake-tahoe-estate-expansion-protection-developers/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 85-year-old musician took several steps to protect the dwelling and the surrounding forest and wildlife.",
-      "published": "2026-10-12T21:13:16+00:00",
-      "fetched": "2026-10-12T23:51:48.910434+00:00"
-    },
-    {
-      "id": "a8b250c5a6bf5c94",
-      "title": "Struggling Homeowners Feeling ‘House Poor’ Have More Breathing Room Than They Think",
-      "link": "https://www.realtor.com/advice/finance/mortgage-holders-house-hidden-savings-budget/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Owning a home is more expensive than ever, but there are still ways to save money, if you're willing to jump off auto-pilot.",
-      "published": "2026-10-12T20:27:14+00:00",
-      "fetched": "2026-10-12T23:51:48.910464+00:00"
-    },
-    {
-      "id": "1c7b2b0afd40f23f",
-      "title": "Park Avenue Penthouse Tops Manhattan Luxury Sales This Week at $25 Million",
-      "link": "https://www.realtor.com/news/trends/manhattan-luxury-sales-park-avenue-olshan-report-october-12-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The most expensive sale in Manhattan last week was a $25 million penthouse that hasn't ever been lived in and comes fully furnished.",
-      "published": "2026-10-12T20:01:19+00:00",
-      "fetched": "2026-10-12T23:51:48.910490+00:00"
     }
   ]
 }
