@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-21T02:10:12.373884+00:00",
+  "updated": "2026-10-21T10:41:11.251229+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "25a562b97bf9f54b",
+      "title": "Small Investors Made Gains in Housing Market This Year as Congress Limited Big Institutions",
+      "link": "https://www.realtor.com/news/trends/small-investors-made-housing-gains-as-congress-limited-big-institutions/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Investors might have slowed their home purchases as Washington scrutinized their industry. But they remain a steady force in the market.",
+      "published": "2026-10-21T09:00:00+00:00",
+      "fetched": "2026-10-21T10:41:11.250566+00:00"
+    },
+    {
+      "id": "e65437dec42f01cb",
+      "title": "Mapped: Where Homeowners Pay the Lowest Property Tax Bills Under 0.5%",
+      "link": "https://www.realtor.com/news/trends/map-property-tax-rate-by-state-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "There are the five states where the effective property tax rate on owner-occupied property falls below half a percentage point.",
+      "published": "2026-10-21T08:48:00+00:00",
+      "fetched": "2026-10-21T10:41:11.250602+00:00"
+    },
+    {
+      "id": "c903c723f0d502e9",
+      "title": "This $340K Texas Home Hides a Professional Skate and BMX Bowl in the Backyard",
+      "link": "https://www.realtor.com/news/unique-homes/texas-ranch-home-skate-bmx-bowl/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An unassuming $340,000 Texas ranch home featuring a backyard skate bowl tops this week’s list of the most popular real estate listings.",
+      "published": "2026-10-21T08:32:00+00:00",
+      "fetched": "2026-10-21T10:41:11.250637+00:00"
+    },
     {
       "id": "64bf2c340a696521",
       "title": "Baltimore Mortgage Fraud Ring Drove Hundreds of Homes Into Foreclosure, Lawsuits Claim",
@@ -382,6 +412,16 @@
       "summary": "In the latest episode of \"The Kardashians,\" Kylie joined Kourtney for a tour of her home, which has been undergoing extensive renovations.",
       "published": "2026-10-19T14:46:38+00:00",
       "fetched": "2026-10-19T17:49:46.093033+00:00"
+    },
+    {
+      "id": "c6de53595f0d408c",
+      "title": "Building a 6-Property Portfolio While Working a W-2 and Raising 6 Kids",
+      "link": "https://www.biggerpockets.com/blog/rookie-785",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Ever made a money decision you d give anything to redo? You can t rewind the clock, but you can try again, even with a full-time job and a full house! Welcome [ ]",
+      "published": "2026-10-19T11:00:57+00:00",
+      "fetched": "2026-10-21T10:41:10.785249+00:00"
     },
     {
       "id": "d6e4b1d2204456e2",
@@ -1462,46 +1502,6 @@
       "summary": "The most expensive sale in Manhattan last week was a $25 million penthouse that hasn't ever been lived in and comes fully furnished.",
       "published": "2026-10-12T20:01:19+00:00",
       "fetched": "2026-10-12T23:51:48.910490+00:00"
-    },
-    {
-      "id": "45c709fa66193913",
-      "title": "George Foreman’s $6 Million Texas Estate Hits the Market—Complete With a 50-Car Garage and Kitchen Where He Filmed His Famous Grill Commercials",
-      "link": "https://www.realtor.com/news/sports/george-foreman-houston-texas-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Houston-area property spans approximately 13.49 acres and features an 11,968-square-foot Mediterranean-style mansion.",
-      "published": "2026-10-12T19:12:19+00:00",
-      "fetched": "2026-10-12T23:51:48.910520+00:00"
-    },
-    {
-      "id": "c8b19ef78d55a463",
-      "title": "A Third of Pandemic-Era Homebuyers Regret Their Real Estate Purchase",
-      "link": "https://www.realtor.com/advice/finance/homes-bought-during-covid-pandemic-buyers-remorse/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Buying a home can be a high-stakes decision under pressure, and for many in recent years, buyer's remorse has become a real problem.",
-      "published": "2026-10-12T17:36:29+00:00",
-      "fetched": "2026-10-12T23:51:48.910567+00:00"
-    },
-    {
-      "id": "3b062e227ddaf7fd",
-      "title": "EXCLUSIVE: NBA Star Precious Achiuwa Snaps Up $1.8 Million Miami Condo in Celebrity-Favored Luxury Tower",
-      "link": "https://www.realtor.com/news/sports/sacramento-kings-nba-precious-achiuwa-buys-miami-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Achiuwa is expanding his real estate portfolio after signing a contract for a $1.84 million condo inside a lavish Miami development.",
-      "published": "2026-10-12T17:13:49+00:00",
-      "fetched": "2026-10-12T23:51:48.910596+00:00"
-    },
-    {
-      "id": "26993e2d728da4a6",
-      "title": "Rep. Ilhan Omar’s Home Searched in Raid Led by Homeland Security",
-      "link": "https://www.realtor.com/news/trends/ilhan-omar-dc-home-raid-criminal-investigation-homeland-security/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The raid was conducted as part of a criminal fraud investigation into Omar’s immigration paperwork, which was filled out by her late father.",
-      "published": "2026-10-12T16:19:44+00:00",
-      "fetched": "2026-10-12T23:51:48.910628+00:00"
     }
   ]
 }

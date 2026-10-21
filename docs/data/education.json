@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-21T02:10:11.634922+00:00",
+  "updated": "2026-10-21T10:41:10.387565+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a569279c4a8bd54b",
+      "title": "In 1897, London’s Lampposts Dispensed Hot Coffee, Tea, and “Fluid Beef”",
+      "link": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Any reader of Victorian literature will wonder how much a ha’penny was actually worth in those days. For a little more than a year at the very end of that period, it could buy you a cup of coffee, cocoa, milk, tea, or “fluid beef” — which would pour out of a lamppost on the [ ]",
+      "published": "2026-10-21T09:00:04+00:00",
+      "fetched": "2026-10-21T10:41:10.387286+00:00"
+    },
+    {
+      "id": "50dcaf3a68842100",
+      "title": "Sears Sold 75,000 DIY Mail Order Homes Between 1908 and 1939, and Transformed American Life",
+      "link": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Two of the books that most shaped American culture both happened to bear the nickname “The Big Book.” While the second of these, the A.A. Manual, published in 1939, changed the country with 12-Step recovery groups, the first of these, the Sears Catalog, transformed America with mass consumption, offering customers in every part of the [ ]",
+      "published": "2026-10-21T08:00:54+00:00",
+      "fetched": "2026-10-21T10:41:10.387348+00:00"
+    },
+    {
+      "id": "ceff48e4bb5a3816",
+      "title": "Tod Machover’s new symphony plays with AI while reflecting on democracy",
+      "link": "https://news.mit.edu/2026/tod-machover-new-symphony-plays-ai-while-reflecting-democracy-1021",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The MIT composer’s inventive “already and not yet,” premiering at the Boston Symphony Orchestra, uses new AI tools to create interplay with musicians while thematically exploring the fortunes of democracy.",
+      "published": "2026-10-21T04:00:00+00:00",
+      "fetched": "2026-10-21T10:41:09.286410+00:00"
+    },
     {
       "id": "69ff65f93d104bfb",
       "title": "MIT student team CERBERUZ wins NASA LunaRecycle Centennial Challenge, turning lunar trash into tools",
@@ -1472,36 +1502,6 @@
       "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
       "published": "2026-09-11T13:45:00+00:00",
       "fetched": "2026-09-11T15:19:53.780858+00:00"
-    },
-    {
-      "id": "fb518c3475434532",
-      "title": "Scientists Discover the Earliest Evidence of Drug Use in 25,000-Year-Old Teeth",
-      "link": "https://www.openculture.com/2026/09/scientists-discover-the-earliest-evidence-of-drug-use-in-25000-year-old-teeth.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Image by Fakhri “Scientists Discover the Earliest Evidence of Drug Use in Really Old Teeth” may sound like odd headline language, at least by the traditional standards of the New York Times. But then, the teeth in question are, indeed, really old. “Archaeologists have pushed the timeline of human drug use back further than ever before [ ]",
-      "published": "2026-09-11T09:00:05+00:00",
-      "fetched": "2026-09-11T10:04:22.964787+00:00"
-    },
-    {
-      "id": "c6dcd459a988ba46",
-      "title": "“Evil Mickey Mouse” Invades Japan in a 1934 Japanese Anime Propaganda Film",
-      "link": "https://www.openculture.com/2026/09/evil-mickey-mouse-japanese-anime-propaganda-film.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Before the Japanese fell completely, one hundred percent in love with anything and everything Disney (I mean, seriously, they love it), Mickey Mouse represented something completely different: Pure American imperialist evil. At least he did in this 1934 animated propaganda cartoon Omochabako series dai san wa: Ehon senkya-hyakusanja-rokunen (Toybox Series 3: Picture Book 1936) by [ ]",
-      "published": "2026-09-11T08:00:41+00:00",
-      "fetched": "2026-09-11T10:04:22.964846+00:00"
-    },
-    {
-      "id": "fb97c0bb18b517ff",
-      "title": "Route 66 Turns 100 This Year: Take a Tour of America’s Most Famous Highway",
-      "link": "https://www.openculture.com/2026/09/route-66-turns-100-this-year-take-a-tour-of-americas-most-famous-highway.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "This past summer, the United States of America celebrated 250 years of independence. But for a great many Americana-lovers around the world, this year also brings another, even more resonant date: the 100th anniversary of the establishment of Route 66. In the months leading up to November 11th, the official birthday of what John Steinbeck [ ]",
-      "published": "2026-09-10T15:35:12+00:00",
-      "fetched": "2026-09-10T20:08:40.538810+00:00"
     }
   ]
 }
