@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-21T16:11:01.977537+00:00",
+  "updated": "2026-10-21T20:56:51.970829+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9041a48da6db1223",
+      "title": "Making room to explore",
+      "link": "https://news.mit.edu/2026/fan-wang-making-room-to-explore-1021",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Fan Wang is recognized as “Committed to Caring” for creating a supportive environment for ambitious research and student well-being.",
+      "published": "2026-10-21T20:45:00+00:00",
+      "fetched": "2026-10-21T20:56:51.356163+00:00"
+    },
+    {
+      "id": "df0be8e79faf018b",
+      "title": "For students with their sights set on space medicine, a new community takes flight",
+      "link": "https://news.mit.edu/2026/mit-doctors-without-gravity-takes-flight-1021",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT’s Doctors Without Gravity club connects health and space science enthusiasts.",
+      "published": "2026-10-21T20:40:00+00:00",
+      "fetched": "2026-10-21T20:56:51.356189+00:00"
+    },
     {
       "id": "a569279c4a8bd54b",
       "title": "In 1897, London’s Lampposts Dispensed Hot Coffee, Tea, and “Fluid Beef”",
@@ -1482,26 +1502,6 @@
       "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
       "published": "2026-09-14T04:00:00+00:00",
       "fetched": "2026-09-14T11:02:44.361199+00:00"
-    },
-    {
-      "id": "0522af13e4bdeee2",
-      "title": "MIT spinout turns plastic waste into resilient building materials",
-      "link": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
-      "published": "2026-09-14T04:00:00+00:00",
-      "fetched": "2026-09-14T11:02:44.361236+00:00"
-    },
-    {
-      "id": "7bc0a326e8a3e95e",
-      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
-      "link": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
-      "published": "2026-09-11T13:45:00+00:00",
-      "fetched": "2026-09-11T15:19:53.780858+00:00"
     }
   ]
 }
