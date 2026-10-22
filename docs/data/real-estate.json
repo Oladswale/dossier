@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-21T20:56:52.703547+00:00",
+  "updated": "2026-10-22T02:04:28.619131+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4ac0c97d89d49b3e",
+      "title": "Is the ‘Kidulting’ Boom Really Nostalgia for an Affordable Adulthood?",
+      "link": "https://www.realtor.com/news/trends/kidulting-boom-housing-affordability-millennials-gen-z/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Toy sales to adults are surging. Research suggests tough savings goals could change how people weigh small pleasures against future plans.",
+      "published": "2026-10-21T22:05:56+00:00",
+      "fetched": "2026-10-22T02:04:28.618639+00:00"
+    },
+    {
+      "id": "455829ed69ee857f",
+      "title": "Toledo Evacuations: How To Find Out If High-Risk Chemical Tanks Are Threatening Your Neighborhood",
+      "link": "https://www.realtor.com/news/trends/toledo-evacuations-chemical-tanks-neighborhood/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Toledo, OH, chemical leak has forced homeowners from their homes and left residents in the area concerned about the next steps.",
+      "published": "2026-10-21T21:33:52+00:00",
+      "fetched": "2026-10-22T02:04:28.618667+00:00"
+    },
     {
       "id": "f3a7b184597eab2e",
       "title": "Top Housing Economist Issues Grim Forecast Revision as Higher Rates Slam the Market",
@@ -1482,26 +1502,6 @@
       "summary": "If you own rental property, you ve probably had that moment: You get a letter from the IRS, or you hear about someone else getting audited, and your stomach drops even [ ]",
       "published": "2026-10-13T15:55:06+00:00",
       "fetched": "2026-10-13T22:00:34.070571+00:00"
-    },
-    {
-      "id": "fea1e912dfe2ac70",
-      "title": "President Donald Trump Asks Kimberly Guilfoyle To Resign as Greece Ambassador—Threatening Her Glamorous New Life Abroad",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kimberly-guilfoyle-greece-lifestyle-don-trump-jr/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Guilfoyle was appointed to the role of U.S. ambassador to Greece by President Donald Trump and moved to Athens in November.",
-      "published": "2026-10-13T15:27:00+00:00",
-      "fetched": "2026-10-13T22:00:34.552610+00:00"
-    },
-    {
-      "id": "6141aa694a5d6952",
-      "title": "EXCLUSIVE: NFL Legend Ray Lewis’ Former Maryland Mansion Lists for $1.5 Million—After Complete Overhaul",
-      "link": "https://www.realtor.com/news/sports/nfl-ray-lewis-baltimore-ravens-former-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The former linebacker, who helped lead the Ravens to two Super Bowl victories, purchased the Owings Mills residence in 1999.",
-      "published": "2026-10-13T14:50:39+00:00",
-      "fetched": "2026-10-13T22:00:34.552636+00:00"
     }
   ]
 }

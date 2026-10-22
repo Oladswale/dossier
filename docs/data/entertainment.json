@@ -1,8 +1,198 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-21T20:56:51.063665+00:00",
+  "updated": "2026-10-22T02:04:26.642740+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3f47550ce41c224d",
+      "title": "Ella Langley Pays Tribute to Dolly Parton With Smoldering Version of ‘Jolene’",
+      "link": "https://www.rollingstone.com/music/music-country/ella-langley-performs-jolene-dolly-parton-tribute-concert-1235646106/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The \"Choosin' Texas\" star offered a fiery rendition of the country legend's 1974 hit during the CMA's I Will Always Love You tribute",
+      "published": "2026-10-22T01:56:26+00:00",
+      "fetched": "2026-10-22T02:04:26.460627+00:00"
+    },
+    {
+      "id": "ca92ef6b3b52b7c0",
+      "title": "‘Petal Dance’ Director Ishikawa Hiroshi Ends 13-Year Feature Hiatus With ‘The Blue We Touch’ (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/markets-festivals/petal-dance-director-blue-we-touch-1236919383/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Japanese filmmaker Ishikawa Hiroshi, whose credits include “Tokyo.sora,” “Su-ki-da.” and “Petal Dance,” is back with his first feature in 13 years. His new film, “the blue we touch” (original title: “Awo no Jo”), is in post-production and will be released in Japan in 2027 by Bitters End, which unveiled the project ahead of the Tokyo [ ]",
+      "published": "2026-10-22T01:28:39+00:00",
+      "fetched": "2026-10-22T02:04:26.278238+00:00"
+    },
+    {
+      "id": "28717fe4a45274cc",
+      "title": "John Anderson, Country Music Hall of Famer With Unmistakable Voice, Dead at 71",
+      "link": "https://www.rollingstone.com/music/music-country/john-anderson-dead-obit-1235646322/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Florida, native was known for an idiosyncratic warble, which he used to power hits like \"Swingin',\" \"Seminole Wind,\" and \"Wild and Blue\"",
+      "published": "2026-10-22T01:22:06+00:00",
+      "fetched": "2026-10-22T02:04:26.460653+00:00"
+    },
+    {
+      "id": "a2db8db5446510f8",
+      "title": "Jack Avery Testifies He’s ‘Very Scared’ of Ex Accused of Murder Plot, Wins Sole Custody of Daughter",
+      "link": "https://www.rollingstone.com/music/music-news/jack-avery-gabbie-gonzalez-murder-plot-custody-daughter-1235646294/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Why Don’t We singer took the stand for the first time to testify about an alleged dark web murder-for-hire plot targeting him",
+      "published": "2026-10-22T01:10:28+00:00",
+      "fetched": "2026-10-22T02:04:26.460680+00:00"
+    },
+    {
+      "id": "b59075392f949189",
+      "title": "Ranbir Kapoor, Yash Epic ‘Ramayana: Part One’ Sets Pay-Per-View Release on JioHotstar After Theatrical Run",
+      "link": "https://variety.com/2026/film/news/ranbir-kapoor-yash-ramayana-jiohotstar-pay-per-view-release-1236919377/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Nitesh Tiwari’s “Ramayana: Part One,” starring Ranbir Kapoor and Yash, will be available to buy on demand from streamer JioHotstar in India after its theatrical run. The deal between JioHotstar and Prime Focus Studios will see the film sold as a separate on-demand purchase on the platform. The companies described it as the first pay-per-view [ ]",
+      "published": "2026-10-22T01:05:09+00:00",
+      "fetched": "2026-10-22T02:04:26.278285+00:00"
+    },
+    {
+      "id": "6a7c798203806a1e",
+      "title": "Vietnamese Whodunit ‘Karaoke Murder’ Sets Record With Same-Weekend Opening on Four Continents (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/vietnamese-whodunit-karaoke-murder-four-continent-release-1236919373/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Vietnamese whodunit “Karaoke Murder” will open in cinemas across North America, Europe, Australia and Asia on the same weekend, a first for a film from Vietnam, according to its backers. The film, titled “Án Mạng Karaoke” in Vietnamese, will bow nationwide at home on Oct. 30.",
+      "published": "2026-10-22T00:49:00+00:00",
+      "fetched": "2026-10-22T02:04:26.278326+00:00"
+    },
+    {
+      "id": "fd19b921fcd4a9bd",
+      "title": "Aaron Carter Estate Reaches Settlement With Walgreens Over Xanax Prescriptions",
+      "link": "https://www.rollingstone.com/music/music-news/aaron-carter-estate-settlement-walgreens-xanax-prescription-1235646315/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer's family settled wrongful death claims against the company and another pharmacy that filled Carter's prescriptions before his death in 2022",
+      "published": "2026-10-22T00:39:38+00:00",
+      "fetched": "2026-10-22T02:04:26.460702+00:00"
+    },
+    {
+      "id": "67c0b75fc7365695",
+      "title": "Iron Maiden’s Nicko McBrain Rejected an Invite to Golf With Trump, Says He Should Be ‘Put in Jail’: ‘I’m Not Amused by the Narcissism’",
+      "link": "https://variety.com/2026/music/news/iron-maidens-nicko-mcbrain-rejected-invite-trump-1236919360/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Nicko McBrain, the long-time drummer for heavy metal band Iron Maiden, recently admitted he’d been invited to play golf with Donald Trump, but turned down the offer because of his staunch anti-MAGA beliefs — and that the president and his “bunch of cronies,” in McBrain’s words, “should be put in jail.” Like Trump, McBrain resides [ ]",
+      "published": "2026-10-22T00:17:19+00:00",
+      "fetched": "2026-10-22T02:04:26.278367+00:00"
+    },
+    {
+      "id": "f5f2d632be1dd4c3",
+      "title": "Hur Jin-ho Thanks Singapore Festival for Protecting Freedom of Expression as ‘The Assassin(s)’ Opens, SGIFF Chair Boo Junfeng Says: ‘We Refuse to Show Anything That Has Been Censored’",
+      "link": "https://variety.com/2026/film/festivals/hur-jin-ho-thanks-singapore-festival-assassins-opens-1236919346/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "South Korean director Hur Jin-ho thanked the Singapore International Film Festival (SGIFF) for defending freedom of expression as his political thriller “The Assassin(s)” opened the festival’s 37th edition on Wednesday, two weeks after the Korea s conservative opposition asked SGIFF to pull it. “I am truly grateful to the film festival for protecting artistic freedom and [ ]",
+      "published": "2026-10-21T23:29:53+00:00",
+      "fetched": "2026-10-22T02:04:26.278411+00:00"
+    },
+    {
+      "id": "9728d39a03b2a5b8",
+      "title": "‘Paper Tiger’ Producer Rodrigo Teixeira Set for GLAFF’s First Visionary Award, Presented by Wagner Moura (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/rodrigo-teixeira-glaff-visionary-award-wagner-moura-1236919290/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Two-time Oscar-nominated producer Rodrigo Teixeira will receive the inaugural Árbol de la Vida Visionary Award at the GuadaLAjara Film Festival (GLAFF), the Los Angeles offshoot of the Guadalajara International Film Festival, on Nov. 6. The honor will be presented by Oscar-nominated actor Wagner Moura ahead of a screening of James Gray’s “Paper Tiger,” which Teixeira [ ]",
+      "published": "2026-10-21T22:35:07+00:00",
+      "fetched": "2026-10-22T02:04:26.278452+00:00"
+    },
+    {
+      "id": "523a321d13d98a66",
+      "title": "Olivia Cooke on Returning to ‘Slow Horses,’ On-Set Injuries and That Shocking Finale Cliffhanger: ‘I Want a Showdown!’",
+      "link": "https://variety.com/2026/tv/news/slow-horses-season-6-finale-olivia-cooke-interview-1236917817/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: The following article contains plot details from “Judgement Day,” the Season 6 finale of “Slow Horses,” now streaming on Apple TV. “Hello, River.” Those two fateful words announced Olivia Cooke’s return to “Slow Horses” after a four-season absence from the Apple TV spy drama. Cooke’s MI5 agent Sidonie Baker made a brief but [ ]",
+      "published": "2026-10-21T22:30:00+00:00",
+      "fetched": "2026-10-22T02:04:26.278491+00:00"
+    },
+    {
+      "id": "4584c6be1a50a89f",
+      "title": "Garth Brooks Adds New Dates to Tour — Here’s Where You Can Grab Tickets",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-garth-brooks-tour-tickets-online-1235597488/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Blame It All on My Roots Tour will roll through Tulsa, Kansas City, and Seattle, with three shows in each city",
+      "published": "2026-10-21T22:15:03+00:00",
+      "fetched": "2026-10-22T02:04:26.460736+00:00"
+    },
+    {
+      "id": "216541cf29b08fbe",
+      "title": "‘Glee’ Reboot: Who’s Coming Back? Will Rachel Sing Olivia Rodrigo? How MAGA Is Sue? And More Fan Questions",
+      "link": "https://variety.com/lists/glee-reboot-actors-return-sue-maga-fan-questions/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "What have we missed on Glee ? For six glorious, terrifying seasons from 2009 to 2015, we witnessed Ryan Murphy bring a fever dream to life. With each new episode, the musical dramedy series unique blend of satire and earnestness had girls, the gays and their allies pondering: What song that should be sung by Mercedes [ ]",
+      "published": "2026-10-21T22:00:00+00:00",
+      "fetched": "2026-10-22T02:04:26.278527+00:00"
+    },
+    {
+      "id": "48d504fcde374fea",
+      "title": "The Country Music Association’s Dolly Parton Tribute Airs Tonight — Here’s How to Watch for Free",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-dolly-parton-cma-tribute-special-live-free-stream-abc-1235646101/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The two-hour special features stars like Reba McEntire, Carrie Underwood, and Lainey Wilson. Here’s how to tune in without paying",
+      "published": "2026-10-21T22:00:00+00:00",
+      "fetched": "2026-10-22T02:04:26.460760+00:00"
+    },
+    {
+      "id": "1af0acb5e97ad21e",
+      "title": "Alexander Skarsgård on His Wacky ‘Wicker’ Red Carpet Looks: From Clear Shoes and a Multicolored Skirt to a Gray Wig Inspired by Co-Star Olivia Colman",
+      "link": "https://variety.com/2026/film/columns/alexander-skarsgard-wicker-red-carpet-looks-1236919284/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Alexander Skarsgård knows how to make an entrance. The Swedish actor has been turning heads with his wacky red carpet looks while promoting his new fantasy romance “Wicker.” At the London premiere earlier this month, he donned a metallic gold Saint Laurent suit. If that wasn’t bold enough, he slipped into a pair of clear [ ]",
+      "published": "2026-10-21T21:56:32+00:00",
+      "fetched": "2026-10-22T02:04:26.278567+00:00"
+    },
+    {
+      "id": "7f29094fdcd73b8e",
+      "title": "Talking Heads Reunite for Coffee-Table Book",
+      "link": "https://www.rollingstone.com/music/music-news/talking-heads-new-feeling-book-1235646227/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "New Feeling , due in May, will feature handwritten lyrics, original album sketches, and private photos",
+      "published": "2026-10-21T21:45:37+00:00",
+      "fetched": "2026-10-22T02:04:26.460778+00:00"
+    },
+    {
+      "id": "d9475411c7da4b1d",
+      "title": "‘Abbott Elementary’ Season 6 Premiere Hits 6.3 Million Viewers in Seven Days (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/abbott-elementary-season-6-premiere-ratings-1236919286/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The school year is off to a strong start: Abbott Elementary returned to ABC with the premiere of its sixth season on Oct. 7 and achieved its strongest viewership in a year. After seven days of viewing, the Season 6 premiere reached a total of 6.3 million viewers and a across all platforms.",
+      "published": "2026-10-21T21:30:00+00:00",
+      "fetched": "2026-10-22T02:04:26.278600+00:00"
+    },
+    {
+      "id": "3daa7309907ed207",
+      "title": "Here’s How to Watch Timberwolves Games This NBA Season",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-minnesota-timberwolves-nba-games-live-local-free-1235646063/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Tuning into the Timberwolves is easier than you think. For fans of Minnesota’s basketball team, we’ll show you the best way to do it",
+      "published": "2026-10-21T21:30:00+00:00",
+      "fetched": "2026-10-22T02:04:26.460801+00:00"
+    },
+    {
+      "id": "67ba1b8909e676b3",
+      "title": "Ticketing Sites Unveil Promo Codes and Prices for Brewers vs. Rays World Series Tickets Online",
+      "link": "https://www.rollingstone.com/product-recommendations/tickets/find-brewers-rays-world-series-tickets-online-deals-prices-1235645530/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "They may not be a 'Timeless Ticket,' but these stubs are guaranteed to get you in the game for the Fall Classic",
+      "published": "2026-10-21T21:06:18+00:00",
+      "fetched": "2026-10-22T02:04:26.460821+00:00"
+    },
     {
       "id": "9718f52f89c34d4a",
       "title": "Meta’s Almost $10 Billion Legal Costs Take Huge Toll on Q3 Earnings, Wall Street Shrugs",
@@ -1312,196 +1502,6 @@
       "summary": "The president continues making erratic public statements as his party struggles to mitigate expected midterm losses",
       "published": "2026-10-19T20:26:04+00:00",
       "fetched": "2026-10-19T21:46:32.921078+00:00"
-    },
-    {
-      "id": "9f24877ea9fabadb",
-      "title": "Richard Riehle, Character Actor and ‘Office Space’ Scene-Stealer, Dead at 78",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/richard-riehle-office-space-dead-obituary-1235644975/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The prolific actor amassed hundreds of credits across film and TV, including Casino, Bridesmaids, Glory, and numerous Star Trek shows",
-      "published": "2026-10-19T20:09:22+00:00",
-      "fetched": "2026-10-19T21:46:32.921114+00:00"
-    },
-    {
-      "id": "23d4d77f5266c766",
-      "title": "Kris Bowers Set to Compose Original Score For Disney’s Animated Feature ‘Hexed’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/artisans/news/kris-bowers-composer-original-score-hexed-disney-1236916751/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Academy Award winning composer Kris Bowers is set to score the music for the upcoming Disney animated feature “Hexed.” The film stars Hailee Steinfeld, Rashida Jones, Jodie Foster and Walton Goggins in a magical coming-of-age saga. “Hexed” follows an unconventional teenage girl who discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled [ ]",
-      "published": "2026-10-19T19:48:06+00:00",
-      "fetched": "2026-10-19T21:46:32.710898+00:00"
-    },
-    {
-      "id": "9f927a33461ad17c",
-      "title": "Hunter Schafer Reveals She Had Gender-Affirming Bottom Surgery",
-      "link": "https://variety.com/2026/film/news/hunter-schafer-bottom-surgery-1236916742/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Hunter Schafer has undergone bottom surgery, the Euphoria star revealed. “I just had bottom surgery in December, which was amazing, and I love it so much,” Schafer told Elle magazine, referring to the gender-affirming operation that alters a person s genitals to align with their gender identity. For a long time I’ve embraced the gender-expansive part [ ]",
-      "published": "2026-10-19T19:47:48+00:00",
-      "fetched": "2026-10-19T21:46:32.710950+00:00"
-    },
-    {
-      "id": "aa2f4375e59380f5",
-      "title": "A Guide to the 5 Best Sites to Buy GLP-1 Shots & Pills Online",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-glp-1-pills-shots-online-sites-prices-1235554853/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Following a usage surge in recent years, here's where you can safely buy popular GLP-1 medications like Wegovy and Ozempic without a traditional prescription",
-      "published": "2026-10-19T19:43:48+00:00",
-      "fetched": "2026-10-19T21:46:32.921145+00:00"
-    },
-    {
-      "id": "dba44342410609eb",
-      "title": "Harry Styles Finds the Right Words on Liam Payne Tribute Song",
-      "link": "https://www.rollingstone.com/music/music-features/harry-styles-liam-payne-tribute-rare-glimpse-into-grief-1235644599/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer let us into his search for some semblance of understanding, knowing how his words have been picked apart before for far less than such immense grief",
-      "published": "2026-10-19T19:41:51+00:00",
-      "fetched": "2026-10-19T21:46:32.921175+00:00"
-    },
-    {
-      "id": "04e370ac9f17cdc7",
-      "title": "‘Sense and Sensibility’ Screenwriter on Book-to-Screen Changes and Why Jane Austen Is So Adaptable: ‘She’s Almost Like Shakespeare’",
-      "link": "https://variety.com/2026/film/features/sense-and-sensibility-screenwriter-book-screen-jane-austen-1236916568/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Diana Reid has more to say about Sense and Sensibility. The screenwriter for Georgia Oakley s 2026 adaptation starring Daisy Edgar-Jones and Esmé Creed-Miles grew up watching the 1995 version, from screenwriter and star Emma Thompson. When she was initially pitched the idea to create her own interpretation, she wasn t sure it could be done because [ ]",
-      "published": "2026-10-19T19:34:29+00:00",
-      "fetched": "2026-10-19T21:46:32.711003+00:00"
-    },
-    {
-      "id": "c1da84217ec41af1",
-      "title": "Trump Plans to Target Americans Behind on Student Loans",
-      "link": "https://www.rollingstone.com/politics/politics-news/trump-plans-penalize-americans-defaulting-student-loans-1235644979/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Department of Education has been preparing to sic debt collectors on millions of borrowers, The Washington Sun reports",
-      "published": "2026-10-19T19:26:11+00:00",
-      "fetched": "2026-10-19T21:46:32.921202+00:00"
-    },
-    {
-      "id": "afa4e65943c39e75",
-      "title": "The Hottest Special Guest in Country Music Right Now? James Talarico",
-      "link": "https://www.rollingstone.com/music/music-features/james-talarico-country-concerts-the-chicks-kacey-musgraves-1235644746/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Democratic Senate candidate from Texas has shared the stage with the Chicks and popped up at Willie Nelson and Kacey Musgraves concerts",
-      "published": "2026-10-19T19:25:09+00:00",
-      "fetched": "2026-10-19T21:46:32.921230+00:00"
-    },
-    {
-      "id": "8861dfe99bf7eeba",
-      "title": "Richard Riehle, Character Actor in ‘Office Space,’ ‘Star Trek,’ ‘Bridesmaids’ and More, Dies at 78",
-      "link": "https://variety.com/2026/film/news/richard-riehle-dead-office-space-star-trek-bridesmaids-actor-1236916721/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Richard Riehle, known for playing Tom Smykowski in Office Space and many other character actor roles, died of natural causes Oct. 15 in Los Angeles, Variety has confirmed. He was 78.",
-      "published": "2026-10-19T19:17:38+00:00",
-      "fetched": "2026-10-19T21:46:32.711050+00:00"
-    },
-    {
-      "id": "27515eb85ac700d6",
-      "title": "Jon Stewart Is Staying at ‘The Daily Show’ Through 2028",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/jon-stewart-daily-show-hosting-duties-2028-1235644916/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Stewart will continue anchoring The Daily Show every Monday",
-      "published": "2026-10-19T19:09:45+00:00",
-      "fetched": "2026-10-19T21:46:32.921255+00:00"
-    },
-    {
-      "id": "319d3e5d6f03b32f",
-      "title": "Bob Dylan’s Brand-New Arrangement of ‘Tangled Up in Blue’ Is Absolutely Stunning",
-      "link": "https://www.rollingstone.com/music/music-features/bob-dylan-new-tangled-up-in-blue-lyrics-1235644929/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "At the launch of his Lights of Autumn European tour in Norway, Dylan unveiled a radically stripped-down rendition of the 1975 Blood on the Tracks classic, which includes two new verses",
-      "published": "2026-10-19T18:48:28+00:00",
-      "fetched": "2026-10-19T21:46:32.921311+00:00"
-    },
-    {
-      "id": "f24c11bf945257b5",
-      "title": "Gwyneth Paltrow Sets First Lead TV Role in A24 Drama ‘The Apology’ at Netflix",
-      "link": "https://variety.com/2026/tv/news/gwyneth-paltrow-a24-the-apology-first-lead-tv-role-1236916711/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Gwyneth Paltrow has taken her first-ever lead television role in an upcoming A24 drama series titled The Apology, which has landed a two-season order at Netflix. The Oscar winner will play Evelyn Amspoker, whose son was murdered 18 years ago in a cold case that gripped the nation. When a stranger suddenly appears and confesses, [ ]",
-      "published": "2026-10-19T18:46:48+00:00",
-      "fetched": "2026-10-19T21:46:32.711094+00:00"
-    },
-    {
-      "id": "99a00bbc0a305132",
-      "title": "Taye Diggs, Neil Patrick Harris, Rachel Zegler Join ‘Rent’ 30th-Anniversary Concert",
-      "link": "https://www.rollingstone.com/culture/culture-news/rent-anniversary-benefit-concert-nph-taye-diggs-rachel-new-1235644813/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The new cast members will join original Broadway cast members and Broadway stars for the one-night-only performance",
-      "published": "2026-10-19T17:52:01+00:00",
-      "fetched": "2026-10-19T21:46:32.921343+00:00"
-    },
-    {
-      "id": "927ad34ee9fa11ee",
-      "title": "Dolly Parton to Be Celebrated at L.A. Tribute Concert Featuring Instrumental Renditions of ‘Jolene,’ ‘9 to 5’ and ‘I Will Always Love You’",
-      "link": "https://variety.com/2026/music/news/dolly-parton-candlelight-tribute-concert-la-buy-ticekts-1236916659/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Just two months after Dolly Parton s death, fans will have another opportunity to celebrate the country music legend s extraordinary catalog. Fever s popular Candlelight concert series is bringing a tribute to Parton to the Ritz-Carlton in Marina del Rey on Oct. 30, featuring classical arrangements of some of her best-known songs performed by a live string [ ]",
-      "published": "2026-10-19T17:47:46+00:00",
-      "fetched": "2026-10-19T17:49:43.915187+00:00"
-    },
-    {
-      "id": "e1436d477339713d",
-      "title": "A$AP Rocky Discovers the Wonders of Nature in Trippy New ‘Shroom Clouds’ Video",
-      "link": "https://www.rollingstone.com/music/music-news/asap-shroom-clouds-music-video-1235644870/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The finally-completed track — which Rocky first performed live in 2021 — will be included on of Don't Be Dumb deluxe edition Disc 2",
-      "published": "2026-10-19T17:33:40+00:00",
-      "fetched": "2026-10-19T17:49:44.062826+00:00"
-    },
-    {
-      "id": "1049bc8895f4fea1",
-      "title": "Nathan Fielder and Elizabeth Holmes Are This Year’s Ultimate Deep-Cut Halloween Costume Duo",
-      "link": "https://variety.com/2026/shopping/news/nathan-fielder-elizabeth-holmes-halloween-costume-shop-1236916602/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "First came the laptop harness from &#x201c;The Rehearsal.&#x201d; Now it&#x2019;s a pair of $8 headphones from &#x201c;You Can See Everything.&#x201d; Once again, Nathan Fielder has become an unlikely source of affordable Halloween costume inspiration, this time courtesy of his buzzy Elizabeth Holmes documentary. The comedian and filmmaker&#x2019;s latest accessory &#x2014; a pair of black, foam-padded [ ]",
-      "published": "2026-10-19T17:24:12+00:00",
-      "fetched": "2026-10-19T17:49:43.915245+00:00"
-    },
-    {
-      "id": "fbf640aa49db1295",
-      "title": "Maeve Communications Launches New York-Based Communications Company (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/maeve-communications-launches-new-communications-company-1236916597/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Maeve Communications, co-founded by industry veterans Laura Puig and Michelle Ciciyasvili, announced Monday the launch of its new publicity and strategic communications company. The New York-based company will focus on entertainment, media and talent services offering project-based consultation and executive coaching services. “The conversation to start our own company began in 2019 while working together [ ]",
-      "published": "2026-10-19T17:22:00+00:00",
-      "fetched": "2026-10-19T17:49:43.915304+00:00"
-    },
-    {
-      "id": "6379459a55ef9bc1",
-      "title": "Tim McGraw’s Country Music Hall of Fame Induction Was One the Most Emotional in Its History",
-      "link": "https://www.rollingstone.com/music/music-features/tim-mcgraw-country-music-hall-of-fame-speech-faith-hill-1235644579/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Nashville star delivered a tearful speech that shouted out his wife Faith Hill, who was in the audience, and watched Lady A perform \"Live Like You Were Dying\"",
-      "published": "2026-10-19T17:21:37+00:00",
-      "fetched": "2026-10-19T17:49:44.062870+00:00"
-    },
-    {
-      "id": "a146a751688740fe",
-      "title": "Banijay CEO Marco Bassetti Urges European Producers to Fight for Better Terms of Trade With Hollywood: Studios and Streamers Should Provide ‘Rewards for Creativity’",
-      "link": "https://variety.com/2026/film/global/banijay-ceo-marco-bassetti-european-terms-trade-hollywood-1236916272/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Marco Bassetti, CEO of London-based Banijay Entertainment, the world’s largest independent studio, called for European producers to hold their ground when it comes to negotiating terms of trade with the U.S. studios and streamers during a fireside chat at Rome s MIA market titled What does it mean today to be a European champion in an [ ]",
-      "published": "2026-10-19T17:14:44+00:00",
-      "fetched": "2026-10-19T17:49:43.915389+00:00"
     }
   ]
 }
