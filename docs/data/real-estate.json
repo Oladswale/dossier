@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-22T10:43:42.674904+00:00",
+  "updated": "2026-10-22T16:08:43.197173+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e914ee0e1f50983e",
+      "title": "Mortgage Rates Drop for First Time in 2 Months as Stock Market Jitters Drive Investors to Bonds",
+      "link": "https://www.realtor.com/news/trends/mortgage-rates-drop-today-october-22-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The average rate on 30-year fixed home loans decreased to 7.32% for the week ending Oct. 22, according to Freddie Mac.",
+      "published": "2026-10-22T16:00:00+00:00",
+      "fetched": "2026-10-22T16:08:43.196464+00:00"
+    },
+    {
+      "id": "354dcce2ff8d8a4d",
+      "title": "Treasury Unveils Rules for Big Investor Homebuyers After Congress Set Limits",
+      "link": "https://www.realtor.com/news/real-estate-news/treasury-rules-institutional-investor-homebuyers-regulation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Treasury Department released its long-awaited guidance on how it plans to constrain institutional investors in the housing market.",
+      "published": "2026-10-22T15:55:54+00:00",
+      "fetched": "2026-10-22T16:08:43.196502+00:00"
+    },
+    {
+      "id": "a44295cc42bf7e81",
+      "title": "Solidcore Founder Anne Mahlum Unveils Plans for Massive 10-Bedroom Dream Home as She Prepares for ‘More Babies’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/solidcore-founder-anne-mahlum-reveals-plans-for-dream-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The fitness entrepreneur, 46, shared an AI-generated rendering of the planned residence on Instagram.",
+      "published": "2026-10-22T15:38:14+00:00",
+      "fetched": "2026-10-22T16:08:43.196536+00:00"
+    },
+    {
+      "id": "f19a65f8eff624b4",
+      "title": "NYC Poised To Pass COPA, Giving Nonprofits an Edge in Apartment Sales",
+      "link": "https://www.realtor.com/news/real-estate-news/nyc-copa-bill-apartment-building-sales/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The revised law would cover about 2,100 buildings and give qualified nonprofits a first shot when owners decide to sell.",
+      "published": "2026-10-22T13:58:53+00:00",
+      "fetched": "2026-10-22T16:08:43.196565+00:00"
+    },
+    {
+      "id": "1600c3267f7959a4",
+      "title": "U.S. Is Missing 4.3 Million Households as Priced-Out Young Adults Stay Home",
+      "link": "https://www.realtor.com/news/trends/millions-missing-households-young-adults-stay-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rising adult cohabitation and housing market constraints have created a 4.3 million household deficit in the U.S.",
+      "published": "2026-10-22T13:28:30+00:00",
+      "fetched": "2026-10-22T16:08:43.196593+00:00"
+    },
+    {
+      "id": "40a97cd41b2e0c03",
+      "title": "If You’re Making More Money Than Ever But Still Feel Broke, Hear This",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-471",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The affordability crisis isn’t improving. Gas is above $4 per gallon, inflation just hit 3.7%, and paychecks aren’t keeping pace. This is a tough spot for the American economy, but [ ]",
+      "published": "2026-10-22T11:00:18+00:00",
+      "fetched": "2026-10-22T16:08:42.630502+00:00"
+    },
     {
       "id": "e6061fb81d717a9d",
       "title": "California Voters Set To Decide on $25 Billion Program for Homebuyers—and Billionaires Tax",
@@ -1442,66 +1502,6 @@
       "summary": "A perceived rise in estrangement between adult children and parents could affect the housing market and intergenerational wealth transfer.",
       "published": "2026-10-14T08:18:00+00:00",
       "fetched": "2026-10-14T10:41:59.254789+00:00"
-    },
-    {
-      "id": "b7107c4985f416c9",
-      "title": "Bidding Wars Fade Across Texas as Most Buyers Face Zero Opponents",
-      "link": "https://www.realtor.com/news/trends/texas-buyers-less-competition-bidding-wars/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The number of real estate agents who said their buyers didn’t have to compete against other offers rose from 57% in 2025 to 69% in 2026.",
-      "published": "2026-10-13T22:20:49+00:00",
-      "fetched": "2026-10-14T02:18:55.660176+00:00"
-    },
-    {
-      "id": "553238ff6d08107b",
-      "title": "FHA Official Predicts ‘Significant Acceleration’ in Manufactured Housing Under New Rules",
-      "link": "https://www.realtor.com/news/real-estate-news/fha-commissioner-hud-matt-jones-manufactured-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Matt Jones, a Donald Trump appointee at HUD, says recent reforms to federal rules for manufactured homes could spur a boom in the sector.",
-      "published": "2026-10-13T21:58:42+00:00",
-      "fetched": "2026-10-14T02:18:55.660206+00:00"
-    },
-    {
-      "id": "0f945263aa87d869",
-      "title": "Meghan Markle and Prince Harry Prepare for First Joint Outing as They Embrace New Life in U.K.",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-joint-outing-uk-move/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Sussexes, who relocated to the U.K. in August with their two children, are turning their attention to their professional lives.",
-      "published": "2026-10-13T21:30:09+00:00",
-      "fetched": "2026-10-13T22:00:34.552362+00:00"
-    },
-    {
-      "id": "9f590988629a54c6",
-      "title": "Homeowners Keep Seeing Renovation Budgets Change Midproject: What’s Causing the Costly Surprises",
-      "link": "https://www.realtor.com/advice/finance/renovation-budgets-added-expenses/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Whether it's a bathroom update, kitchen refresh, or anything in between, homeowners budgeting for renovations need to plan for pivots, too.",
-      "published": "2026-10-13T20:46:42+00:00",
-      "fetched": "2026-10-13T22:00:34.552401+00:00"
-    },
-    {
-      "id": "5e2b20f5147e9b39",
-      "title": "Gen Z’s Fear of Mortgages Is Keeping Them Trapped in the Endless Cycle of Renting",
-      "link": "https://www.realtor.com/advice/finance/what-gen-z-should-know-about-mortgages-myths/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage myths run rampant, especially in the age of social media. So it's no wonder the next generation fears a mortgage is a trap.",
-      "published": "2026-10-13T20:19:57+00:00",
-      "fetched": "2026-10-13T22:00:34.552431+00:00"
-    },
-    {
-      "id": "64c5595853da9c23",
-      "title": "Inside Aston Martin’s First Single-Family Estate: A Glass-Walled $19.5 Million Hudson Valley Compound",
-      "link": "https://www.realtor.com/news/unique-homes/aston-martin-hudson-valley-compound-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Aston Martin unveils Sylvan Rock, its first single-family estate in the Hudson Valley, just under two hours from Manhattan.",
-      "published": "2026-10-13T19:49:46+00:00",
-      "fetched": "2026-10-13T22:00:34.552460+00:00"
     }
   ]
 }

@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-22T10:43:41.933725+00:00",
+  "updated": "2026-10-22T16:08:42.234379+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c3b67cfc2373993b",
+      "title": "Christopher Lee Reads Edgar Allan Poe: “The Raven,” “The Fall of the House of Usher,” “The Murders in the Rue Morgue” & More",
+      "link": "https://www.openculture.com/2026/10/christopher-lee-reads-edgar-allan-poe-the-fall-of-the-house-of-usher.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Sir Christopher Lee and Edgar Allan Poe went way back. Or at least they went as far back as 1969, the year of The Oblong Box, a loose and lurid film adaptation of the eponymous story starring Lee and the also Poe-associated Vincent Price. Lee plays the doctor to whom a gang of grave-robbers delivers [ ]",
+      "published": "2026-10-22T09:00:33+00:00",
+      "fetched": "2026-10-22T16:08:42.234089+00:00"
+    },
     {
       "id": "a405878d6d142023",
       "title": "What Ancient Latin Sounded Like, And How We Know It",
@@ -1492,16 +1502,6 @@
       "summary": "Researchers reveal how communities of marine bacteria divide the task of degrading fucoidan, a key player in ocean carbon storage.",
       "published": "2026-09-14T20:30:00+00:00",
       "fetched": "2026-09-14T21:05:27.173594+00:00"
-    },
-    {
-      "id": "d5c43fc89426dd3b",
-      "title": "How the Silk Road Actually Worked (and What Could Go Terribly Wrong On It)",
-      "link": "https://www.openculture.com/2026/09/how-the-silk-road-actually-worked-and-what-could-go-terribly-wrong-on-it.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "You don’t have to spend a long time reading up on the Silk Road before you see the term itself (“Silk Road”) called a misnomer. In fact, what we refer to by that name comprises a whole network of trade routes connecting Asia, Africa, and Europe, whose traffic constantly shifted over a millennium and a [ ]",
-      "published": "2026-09-14T09:00:50+00:00",
-      "fetched": "2026-09-14T11:02:45.616281+00:00"
     }
   ]
 }
