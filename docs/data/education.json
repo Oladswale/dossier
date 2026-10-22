@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-22T16:08:42.234379+00:00",
+  "updated": "2026-10-22T20:53:55.091686+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a343869fc58a4a71",
+      "title": "This design software reimagines everyday objects as self-aware devices",
+      "link": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+      "published": "2026-10-22T20:45:00+00:00",
+      "fetched": "2026-10-22T20:53:53.961643+00:00"
+    },
+    {
+      "id": "3b9c23485df70f36",
+      "title": "MIT’s Kavanaugh Fellowship: From invention to impact",
+      "link": "https://news.mit.edu/2026/mit-kavanaugh-fellowship-from-invention-to-impact-1022",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Kavanaugh Translational Fellows Program helps scholars turn promising research into successful businesses.",
+      "published": "2026-10-22T20:20:00+00:00",
+      "fetched": "2026-10-22T20:53:53.961681+00:00"
+    },
     {
       "id": "c3b67cfc2373993b",
       "title": "Christopher Lee Reads Edgar Allan Poe: “The Raven,” “The Fall of the House of Usher,” “The Murders in the Rue Morgue” & More",
@@ -1482,26 +1502,6 @@
       "summary": "We no longer live in a time when college freshmen get shocked by much of the reading material assigned to them. Counterintuitively, the texts that do retain their power to disturb young minds (presuming they can read texts in the first place) tend to skew old — and in one prominent case, about 2,400 years [ ]",
       "published": "2026-09-15T15:08:01+00:00",
       "fetched": "2026-09-15T15:46:20.369360+00:00"
-    },
-    {
-      "id": "27fd466d0ac41565",
-      "title": "Why Incompetent People Think They’re Amazing: An Animated Lesson from David Dunning (of the Famous “Dunning-Kruger Effect”)",
-      "link": "https://www.openculture.com/2026/09/why-incompetent-people-think-theyre-amazing-an-animated-lesson-from-david-dunning.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The business world has long had special jargon for the Kafkaesque incompetence bedeviling the ranks of upper management. There is “the Peter principle,” first described in a satirical book of the same name in 1968. More recently, we have the positive notion of “failing upward.” The concept has inspired a mantra, “fail harder, fail faster,” [ ]",
-      "published": "2026-09-15T08:00:39+00:00",
-      "fetched": "2026-09-15T15:46:20.369425+00:00"
-    },
-    {
-      "id": "5fb930dee60a5d27",
-      "title": "Marine bacteria team up to break down one of the ocean's toughest carbon-storing molecules",
-      "link": "https://news.mit.edu/2026/marine-bacteria-team-up-to-break-down-carbon-storing-molecules-0914",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Researchers reveal how communities of marine bacteria divide the task of degrading fucoidan, a key player in ocean carbon storage.",
-      "published": "2026-09-14T20:30:00+00:00",
-      "fetched": "2026-09-14T21:05:27.173594+00:00"
     }
   ]
 }

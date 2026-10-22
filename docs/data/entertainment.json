@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-22T16:08:40.928682+00:00",
+  "updated": "2026-10-22T20:53:53.708883+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0042ddded7d846b3",
+      "title": "DOJ Probes Allegations of Corruption Against Corey Lewandowski",
+      "link": "https://www.rollingstone.com/politics/politics-news/doj-investigates-corey-lewandowski-contracts-dhs-1235646898/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The gatekeeper and alleged lover to former Secretary Kristi Noem has been accused of soliciting payments in exchange for DHS contracts",
+      "published": "2026-10-22T20:51:18+00:00",
+      "fetched": "2026-10-22T20:53:53.568753+00:00"
+    },
+    {
+      "id": "9e8f14f06fb2ed2f",
+      "title": "The ‘Terrifier’ Trilogy Is Returning to Theaters for a Halloween Run",
+      "link": "https://variety.com/2026/film/news/terrifier-trilogy-theaters-hallowen-1236921713/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Art the Clown is back for another round of big-screen terror. The “Terrifier” trilogy is headed back to theaters, just in time for spooky season. 2016 s “Terrifier,” 2022 s “Terrifier 2 and 2024 s “Terrifier 3 will have showtimes at Regal theaters nationwide on Halloween weekend, from Oct.",
+      "published": "2026-10-22T20:46:57+00:00",
+      "fetched": "2026-10-22T20:53:53.499887+00:00"
+    },
+    {
+      "id": "a229d14e3e5d7bf9",
+      "title": "Jenna Ortega Does Not Read Reviews, Watch Her Own Movies or Check the Box Office — and Plans to ‘Be Off TV for a While’ After ‘Wednesday’ Ends",
+      "link": "https://variety.com/2026/film/news/jenna-ortega-movie-reviews-tv-break-wendesday-ends-1236920075/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jenna Ortega opened up to Vogue magazine as part of a new cover story about her nonexistent relationship to how the public receives her movies. In other words, the Wednesday star does not watch her own movies or read reviews (because that would send me into a psychosis of some sort ) or check the box [ ]",
+      "published": "2026-10-22T20:35:34+00:00",
+      "fetched": "2026-10-22T20:53:53.499947+00:00"
+    },
+    {
+      "id": "7c6f29346bd983b0",
+      "title": "Ellen Burstyn on Going for the EGOT With Her Favorite Poems and Being Over ‘The Exorcist’: ‘It’s Enough Already’",
+      "link": "https://variety.com/2026/film/awards/ellen-burstyn-egot-grammys-exorcist-awards-1236921700/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "I asked Ellen Burstyn where a Grammy would go, if she ever won one. She stands up to show me. I wonder if I took my iPad off the stand and walked you into my office, where they all are, she says, immediately reaching for it over a video Zoom.",
+      "published": "2026-10-22T20:30:48+00:00",
+      "fetched": "2026-10-22T20:53:53.499999+00:00"
+    },
+    {
+      "id": "000a727e3a1a2273",
+      "title": "Bianna Golodryga in Talks for New Roles at Politico, CBS News",
+      "link": "https://variety.com/2026/tv/news/bianna-golodryga-politico-cbs-news-cnn-talks-1236921781/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Bianna Golodryga, the global-affairs journalist who announced Thursday that she plans to leave CNN, is in talks that could have her working for two different news organizations at the same time. Golodrya, who recently has served as an anchor for CNN s international service as well as a fill-in for both Christiane Amanpour and Fareed Zakaria [ ]",
+      "published": "2026-10-22T20:29:06+00:00",
+      "fetched": "2026-10-22T20:53:53.500043+00:00"
+    },
+    {
+      "id": "967e3be60225cd07",
+      "title": "‘Black Shine, From ‘State of Silence’ Director Santiago Maza, ’ Delves Into the Aftermath of a 2006 Mining Tragedy That Buried 63 Miners",
+      "link": "https://variety.com/2026/film/global/morelia-film-festival-black-shine-aftermath-mining-tragedy-1236918375/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Mexico’s Santiago Maza, whose fourth feature-length doc “State of Silence,” (“Estado de Silencio”), a passion project of Diego Luna, snagged the best feature award at Chile’s 2024 Santiago Film Festival (Sanfic), has premiered his latest work, “Black Shine” (“El brillo negro”) at the Morelia Film Festival where it competes for the top prize among the [ ]",
+      "published": "2026-10-22T20:23:57+00:00",
+      "fetched": "2026-10-22T20:53:53.500100+00:00"
+    },
+    {
+      "id": "d52336aa42086183",
+      "title": "John Mayer Launches New Label Sob Rock Records",
+      "link": "https://www.rollingstone.com/music/music-news/john-mayer-new-label-sob-rock-records-1235646820/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Musician will release “Tom and Jerry,” his first single since his 2021’s Sob Rock , on the his new label",
+      "published": "2026-10-22T20:18:36+00:00",
+      "fetched": "2026-10-22T20:53:53.568792+00:00"
+    },
+    {
+      "id": "bfbf7b986b14f60a",
+      "title": "Agencies and Producers Back U.S. Tax Incentive as ‘First Step’ Toward Hollywood Recovery",
+      "link": "https://variety.com/2026/film/news/american-entertainment-alliance-film-incentive-1236921707/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "A coalition of Hollywood talent agencies and independent producers said Thursday that it supports the proposed U.S. tax incentive for film and TV production as a first step, but that more will need to be done to revive the industry. The American Entertainment Alliance which includes CAA, WME and UTA is pushing for [ ]",
+      "published": "2026-10-22T20:13:06+00:00",
+      "fetched": "2026-10-22T20:53:53.500145+00:00"
+    },
+    {
+      "id": "c2fd36dcedd84468",
+      "title": "Charli xcx Joins Martin Scorsese’s ‘What Happens at Night’ With Leonardo DiCaprio and Jennifer Lawrence (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/charli-xcx-martin-scorsese-what-happens-at-night-1236919507/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Charli xcx and Martin Scorsese s collaboration is extending beyond the cover for her new album Music, Fashion, Film. Sources tell Variety that the pop star has a cameo in the Oscar-winning director s upcoming movie What Happens at Night alongside Leonardo DiCaprio and Jennifer Lawrence. Described as a Gothic psychological horror film, the Apple and StudioCanal [ ]",
+      "published": "2026-10-22T20:12:35+00:00",
+      "fetched": "2026-10-22T20:53:53.500193+00:00"
+    },
+    {
+      "id": "acf922e5b712cc54",
+      "title": "Lucia Aniello, Mike Flanagan, Karyn Kusama, Boots Riley and Lesli Linka Glatter Among Mentors for DGA Women’s Steering Committee",
+      "link": "https://variety.com/2026/film/news/dga-womens-steering-committee-mentors-mentees-1236919338/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Directors Guild of America’s Women’s Steering Committee has announced its seventh class of mentors and mentees. The mentorship program pairs mid-career women and nonbinary directors with established mentors to help them navigate the early days of their careers. Lucia Aniello (“Hacks,” “Broad City”), Mike Flanagan (“Carrie,” upcoming “The Exorcist: Martyrs”), Boots Riley (“I Love [ ]",
+      "published": "2026-10-22T20:10:30+00:00",
+      "fetched": "2026-10-22T20:53:53.500247+00:00"
+    },
+    {
+      "id": "f2f92122ebeeee23",
+      "title": "‘The Celebrity Traitors UK’ Season 2 Isn’t Available in the U.S., But We Found a Way to Stream",
+      "link": "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-the-celebrity-traitors-uk-season-2-in-us-stream-1235635442/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The newest season of the hit reality show features major stars, including Bella Ramsey, James Blunt, and Jerry Hall — here’s how fans in the United States can watch",
+      "published": "2026-10-22T20:00:07+00:00",
+      "fetched": "2026-10-22T20:53:53.568833+00:00"
+    },
+    {
+      "id": "a56cf861f0f3635a",
+      "title": "Sacha Baron Cohen Says Marvel Worried Casting a Jewish Actor as the Devil in ‘Ironheart’ Would Be Antisemitic",
+      "link": "https://variety.com/2026/film/news/sacha-baron-cohen-marvel-jewish-actor-devil-antisemitic-1236921673/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sacha Baron Cohen opened up about his experience signing on to play the demon Mephisto in the Marvel Cinematic Universe during a live “Happy Sad Confused” conversation at New York’s 92nd Street Y. The actor, currently on tour promoting “Ali G: Who Iz I?,” recalled how the creative team working on last year s Disney+ series [ ]",
+      "published": "2026-10-22T19:47:35+00:00",
+      "fetched": "2026-10-22T20:53:53.500298+00:00"
+    },
+    {
+      "id": "1b5aa3c40a67f1f8",
+      "title": "‘Halloweentown 5’ in Development at Disney",
+      "link": "https://variety.com/2026/tv/news/halloweentown-5-disney-1236921734/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney is in early development on a fifth film in its popular Halloweentown series. While plot details are not yet known, the new movie is being written by Lily Houghton and Ryan Koehn based on characters by Paul Bernbaum, who wrote the first Halloweentown film in 1998. Casting is not confirmed either, though multiple cast [ ]",
+      "published": "2026-10-22T19:36:12+00:00",
+      "fetched": "2026-10-22T20:53:53.500342+00:00"
+    },
+    {
+      "id": "46329e367b82243c",
+      "title": "Tom Skerritt, ‘Alien’ and ‘Picket Fences’ Actor, Dead at 93",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/tom-skerritt-alien-picket-fences-actor-dead-obituary-1235646827/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Emmy-winning actor also appeared in Top Gun , M*A*S*H , and Contact , as well as an arc on Cheers",
+      "published": "2026-10-22T19:27:27+00:00",
+      "fetched": "2026-10-22T20:53:53.568867+00:00"
+    },
+    {
+      "id": "58a59a9cb7b9b299",
+      "title": "Guess Who’s Hosting the Halloween Episode of ‘SNL’?",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-hosts-john-mulaney-phoebe-bridgers-druski-1235646799/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Hosts and musical guests on upcoming Saturday Night Live episodes include Phoebe Bridgers, John Mulaney, Druski, and Inde Navarrette, among others",
+      "published": "2026-10-22T19:13:12+00:00",
+      "fetched": "2026-10-22T20:53:53.568898+00:00"
+    },
+    {
+      "id": "02bfe3e74ea6670d",
+      "title": "Eminem’s Former Employee Pleads Guilty to Leaking Rapper’s Unreleased Music",
+      "link": "https://www.rollingstone.com/music/music-news/eminem-former-employee-guilty-leaking-unreleased-music-1235646780/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Joseph Strange, who worked for rapper for 14 years, faces five years in prison on charge of criminal infringement of a copyright",
+      "published": "2026-10-22T18:33:20+00:00",
+      "fetched": "2026-10-22T20:53:53.568927+00:00"
+    },
+    {
+      "id": "df9d086a8a3910a3",
+      "title": "John Anderson: His Essential Songs",
+      "link": "https://www.rollingstone.com/music/music-country-lists/john-anderson-best-songs-1235646530/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From his CMA Single of the Year “Swingin’” to “Seminole Wind,” an homage to his home state of Florida, the must-hear recordings by the late Country Music Hall of Fame vocalist",
+      "published": "2026-10-22T17:25:06+00:00",
+      "fetched": "2026-10-22T20:53:53.568967+00:00"
+    },
+    {
+      "id": "38298a0829fb993d",
+      "title": "My Chemical Romance Mark Grand Immortal Dictator’s Birthday With a Bang at Hollywood Bowl",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/my-chemical-romance-black-parade-hollywood-bowl-setlist-1235645418/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Band played their classic 2006 album The Black Parade and featured a new set design and plot twists for their first night at the famed L.A. venue",
+      "published": "2026-10-22T16:41:16+00:00",
+      "fetched": "2026-10-22T20:53:53.569000+00:00"
+    },
+    {
+      "id": "34140963fa200202",
+      "title": "IAMDDB on Israel Sharing AI Video Using Her Image Without Consent: ‘I Stand for Humanity’",
+      "link": "https://www.rollingstone.com/music/music-news/israel-sharing-ai-video-iamddb-image-without-consent-1235645765/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“I do not support genocide, the killing of innocent people, or the suffering of women, children, and families,” singer writes",
+      "published": "2026-10-22T16:31:36+00:00",
+      "fetched": "2026-10-22T20:53:53.569032+00:00"
+    },
+    {
+      "id": "28aef9b43180f17d",
+      "title": "Why a New Box Set and Podcast Will Change How You Think About Stanley Kubrick",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/stanley-kubrick-criterion-box-set-podcast-1235633905/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "‘The Complete Kubrick’ doesn’t just collect all of the filmmaker’s work in one impeccable package. It gives you an incredible peek at the man behind it all",
+      "published": "2026-10-22T16:30:00+00:00",
+      "fetched": "2026-10-22T20:53:53.569065+00:00"
+    },
     {
       "id": "50c0e242c002019f",
       "title": "‘Tangles’ Wins Grand Jury Prize at Animation Is Film Festival",
@@ -1302,206 +1502,6 @@
       "summary": "The event featuring Gillian Welch and David Rawlings, Holly Bowling, and others, will “be a coming together of the Deadhead community,” the drummer tells Rolling Stone",
       "published": "2026-10-20T18:27:57+00:00",
       "fetched": "2026-10-20T20:56:29.654948+00:00"
-    },
-    {
-      "id": "4f9d1927905fe270",
-      "title": "Angel Reese Drops New Reebok Sneakers Amid a Legendary WNBA Championship Run",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-angel-reese-barbie-doll-online-best-sites-1235598051/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Atlanta Dream star is making moves on and off the court, with a fresh drop of signature sneakers and a restock of her sold-out Barbie doll",
-      "published": "2026-10-20T17:42:28+00:00",
-      "fetched": "2026-10-20T20:56:29.654981+00:00"
-    },
-    {
-      "id": "42028c7139b05601",
-      "title": "Spotify Removes 75 Million Songs Identified as ‘AI-Generated Slop or Spam’",
-      "link": "https://www.rollingstone.com/music/music-news/spotify-removes-50-million-spam-songs-1235645433/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The streaming service cut the slop tracks in favor of “more music made by authentic, human artists,” with 50 million more being filtered from recommendations made to listeners",
-      "published": "2026-10-20T17:20:35+00:00",
-      "fetched": "2026-10-20T20:56:29.655018+00:00"
-    },
-    {
-      "id": "0961bc2e37d08229",
-      "title": "‘Human Made, Human Paid’: The Largest U.S. Musicians Union Is Demanding AI Protections",
-      "link": "https://www.rollingstone.com/music/music-news/human-made-human-paid-musicians-union-afm-labor-agreement-1235645099/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "American Federation of Musicians asking major labels to give artists a contract with AI protections and compensation",
-      "published": "2026-10-20T17:15:32+00:00",
-      "fetched": "2026-10-20T20:56:29.655047+00:00"
-    },
-    {
-      "id": "f2007bcc9cf9e14a",
-      "title": "‘Mayor of Kingstown’ Season 5 Drops Release Date and First Look Photos at Jeremy Renner’s Final Episodes",
-      "link": "https://variety.com/2026/tv/news/mayor-of-kingstown-season-5-release-date-first-look-photos-1236917594/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Mayor of Kingstown, the Taylor Sheridan-created crime series starring Jeremy Renner, will return for its fifth and final season on Jan. 15. Accompanying the news, Paramount+ released 15 photos from the season, which picks up in the wake of Tracy s murder and the vengeance visited upon Callahan by Mike (Renner) and Kyle McLusky (Taylor Handley), [ ]",
-      "published": "2026-10-20T15:50:19+00:00",
-      "fetched": "2026-10-20T15:53:26.202951+00:00"
-    },
-    {
-      "id": "8fb8597c75bf690c",
-      "title": "Robert Pattinson Was Bribed to Star in ‘Primetime’ With 200 Zyn Canisters and a Note That Read: ‘Dear Chris Han-Zyn’",
-      "link": "https://variety.com/2026/film/news/robert-pattinson-bribed-zyn-primetime-1236917479/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "How do you get an A-list actor to star in your movie? If it s Robert Pattinson, the answer is a whole lot of nicotine. The Batman and Odyssey star is generating Oscar buzz for his portrayal of To Catch a Predator host Chris Hansen in A24 s Primetime.",
-      "published": "2026-10-20T15:31:34+00:00",
-      "fetched": "2026-10-20T15:53:26.203011+00:00"
-    },
-    {
-      "id": "0f2340794a6d6bbe",
-      "title": "‘Sinners’ Music Exhibition Opens at California African American Museum",
-      "link": "https://variety.com/2026/film/columns/sinners-music-exhibition-california-african-american-museum-1236917400/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "An exhibition dedicated to the music of Ryan Coogler’s Oscar-winning “Sinners” has opened at the California African American Museum. “Sinners: Sounds That Summon” is on view Oct. 20-March 14.",
-      "published": "2026-10-20T15:30:00+00:00",
-      "fetched": "2026-10-20T15:53:26.203072+00:00"
-    },
-    {
-      "id": "2f8e01b1fa82c2d6",
-      "title": "Patrick Dempsey Signs With Gersh (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/patrick-dempsey-gersh-talent-agency-1236917448/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Patrick Dempsey has signed with Gersh for representation. The Emmy and Golden Globe Award-nominated actor is a big get for the company, which is the fourth largest talent and literary agency in the world. Dempsey currently stars in and executive produces the Fox series Memory of a Killer, which streams on Hulu.",
-      "published": "2026-10-20T15:15:00+00:00",
-      "fetched": "2026-10-20T15:53:26.203113+00:00"
-    },
-    {
-      "id": "ec0c7916b126ab53",
-      "title": "Christina Applegate Says She Was Misdiagnosed With Multiple Sclerosis: ‘It’s Very Confusing’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/christina-applegate-no-multiple-sclerosis-1235645349/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"You don't get misdiagnosed and then all of the sudden I'm better,\" actress says on MeSsy podcast",
-      "published": "2026-10-20T15:08:15+00:00",
-      "fetched": "2026-10-20T15:53:26.398423+00:00"
-    },
-    {
-      "id": "36671accf0c34546",
-      "title": "Health Struggles Drove Kyedae from Streaming. Now She’s Back",
-      "link": "https://www.rollingstone.com/culture/culture-features/kyedae-streaming-return-exclusive-1235642561/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The streamer talks about the \"wake up call\" that started her hiatus and why she decided now is the time to return",
-      "published": "2026-10-20T15:08:03+00:00",
-      "fetched": "2026-10-20T15:53:26.398458+00:00"
-    },
-    {
-      "id": "f983a4a7a60764f1",
-      "title": "The Beatles Immersive Experience, Featuring Sets and Props From Sam Mendes’ Biopics, Set for Liverpool",
-      "link": "https://variety.com/2026/film/global/the-beatles-experience-biopics-sets-and-props-liverpool-1236917321/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Once the cameras stop rolling on Sam Mendes epic four-part biopic series about the members of the Beatles, many of the sets and props are going to have a new life celebrating the band in their native home. A 100,000 sq. ft Beatles experience has been announced for Liverpool, moving the existing The Beatles Story [ ]",
-      "published": "2026-10-20T15:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.203157+00:00"
-    },
-    {
-      "id": "ad4f507917a0321a",
-      "title": "Atlanta Hawks Strike Streaming Alliance With Amazon’s Prime Video",
-      "link": "https://variety.com/2026/tv/news/atlanta-hawks-streaming-rights-amazon-prime-video-1236917019/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Atlanta Hawks are just the latest sports team to figure out the best way for their games to stream. Local Hawks games will be made available to Prime Video subscribers across a five-state region starting in the 2026-2027 season, according to Andrew Saltzman, president of business enterprise and chief commercial officer of the Atlanta [ ]",
-      "published": "2026-10-20T15:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.203197+00:00"
-    },
-    {
-      "id": "d92212fd37b6b9a4",
-      "title": "How to Watch Indiana Pacers Games This Season",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-indiana-pacers-games-live-local-1235644885/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here's what Pacers fans need to know about catching locally broadcast games live",
-      "published": "2026-10-20T15:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.398482+00:00"
-    },
-    {
-      "id": "19e3ae236f21a6b7",
-      "title": "U2 to Play Halftime Show for NFL’s Thanksgiving Eve Game in What League Calls ‘a New NFL Holiday Tradition’",
-      "link": "https://variety.com/2026/music/news/u2-halftime-show-nfl-thanksgiving-eve-sofi-stadium-netflix-1236917446/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Although Thanksgiving Eve has not yet been recognized by everyone as a holiday in its own right, the National Football League is instituting what it calls a new NFL holiday tradition — a halftime performance by a major musical act for the game streaming on Netflix the night before turkey day. The artist selected for [ ]",
-      "published": "2026-10-20T14:51:49+00:00",
-      "fetched": "2026-10-20T15:53:26.203266+00:00"
-    },
-    {
-      "id": "84026769dc9ac798",
-      "title": "NBA 2026-2027: Here’s Where to Watch Regular Season Games Live Online",
-      "link": "https://variety.com/shop/how-to-watch-nba-schedule-dates-times-1235092524/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After winning the NBA Finals for the first time in 53 years back in June, the New York Knicks are at the top of the pro basketball league. With so many storylines, drama on and off the court and high championship expectations for all 30 leagues in the league, the 2026-27 NBA season officially tips [ ]",
-      "published": "2026-10-20T14:45:22+00:00",
-      "fetched": "2026-10-20T15:53:26.203307+00:00"
-    },
-    {
-      "id": "f834365f4ce31574",
-      "title": "Cleo Sol Announces First-Ever North American Arena Tour Dates",
-      "link": "https://variety.com/2026/music/news/cleo-sol-gentlewoman-north-american-arena-tour-dates-1236917439/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "With her intentionally low-key public profile, British R B singer-songwriter Cleo Sol is the kind of artist you think flies under the radar — until she sells out three nights at New York’s prestigious Radio City Music Hall, as she did in early 2025, and fills the opulent venue with rabidly passionate fans. She tends to [ ]",
-      "published": "2026-10-20T14:19:51+00:00",
-      "fetched": "2026-10-20T15:53:26.203354+00:00"
-    },
-    {
-      "id": "cccd3379fe4d7309",
-      "title": "Spotify Inks Licensing Deal With Believe Music for AI Remixing Tool",
-      "link": "https://variety.com/2026/music/news/spotify-inks-licensing-deal-believe-music-ai-remixing-tool-1236917404/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spotify has struck a content licensing deal with the France-based independent music company Believe ahead of its forthcoming AI-powered remixing tool, an agreement that also covers Believe s digital distribution division TuneCore. The deal is the latest in Spotify’s stable of agreements with music companies for the tool, following agreements with Universal Music Group, Merlin and [ ]",
-      "published": "2026-10-20T14:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.203406+00:00"
-    },
-    {
-      "id": "e70f55e6ed5db1cd",
-      "title": "Solitary Confinement and Soft Rock in a Notorious Russian Prison",
-      "link": "https://www.rollingstone.com/politics/politics-features/evan-gershkovich-book-excerpt-inside-moscow-prison-1235644004/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "In an excerpt from This Cursed Beautiful Land , journalist Evan Gershkovich writes about getting locked up after his 2023 arrest",
-      "published": "2026-10-20T14:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.398508+00:00"
-    },
-    {
-      "id": "4f2e87b8607212e6",
-      "title": "The 2027 Grammys’ Best Rap Album Nominees May Not Be the Usual Suspects",
-      "link": "https://www.rollingstone.com/music/music-features/grammys-2027-best-rap-album-predictions-nominees-1235644526/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Look for Don Toliver to score his first Best Rap Album nomination, and strong showings by J. Cole, Cardi B, and A$AP Rocky",
-      "published": "2026-10-20T13:54:38+00:00",
-      "fetched": "2026-10-20T15:53:26.398537+00:00"
-    },
-    {
-      "id": "e156ee1d46ce0f54",
-      "title": "Rosalía, Daddy Yankee, and Silvana Estrada to Perform at 2026 Latin Grammys",
-      "link": "https://www.rollingstone.com/music/music-latin/latin-grammy-2026-performers-rosalia-daddy-yankee-1235645073/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Anitta, Banda Los Recoditos, Jorge Drexler, Kany García, Juanes, Carín León, Mon Laferte, Vivir Quintana, Rawayana, Elena Rose, and Xavi will also perform at the ceremony",
-      "published": "2026-10-20T13:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.398568+00:00"
-    },
-    {
-      "id": "0355f8773a5918dd",
-      "title": "Alex Warren and Megan Moroney Want to Share It All",
-      "link": "https://www.rollingstone.com/music/music-features/alex-warren-megan-moroney-musicians-on-musicians-1235644262/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Two chart-topping stars find common ground on the joys and perils of playing live and being as vulnerable as humanly possible",
-      "published": "2026-10-20T13:00:00+00:00",
-      "fetched": "2026-10-20T15:53:26.398593+00:00"
     }
   ]
 }

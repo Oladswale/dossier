@@ -1,8 +1,128 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-22T16:08:43.197173+00:00",
+  "updated": "2026-10-22T20:53:55.792089+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "890f2ef137e82b31",
+      "title": "Rebecca Gayheart Reflects on Eric Dane’s Final Days and the Gift He Left Their Daughters",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/eric-dane-final-days-memoir-death-rebecca-gayheart-kids/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Gayheart reflected on the family’s time together before his death—and the deeply personal memoir he left behind.",
+      "published": "2026-10-22T20:43:47+00:00",
+      "fetched": "2026-10-22T20:53:55.791183+00:00"
+    },
+    {
+      "id": "54d12e9c248ed8f9",
+      "title": "NYC Council Passes COPA, Giving Nonprofits First Shot at Troubled Buildings",
+      "link": "https://www.realtor.com/news/real-estate-news/nyc-copa-bill-apartment-building-sales/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The revised law would cover about 2,100 buildings and give qualified nonprofits a first shot when owners decide to sell.",
+      "published": "2026-10-22T20:42:00+00:00",
+      "fetched": "2026-10-22T20:53:55.791221+00:00"
+    },
+    {
+      "id": "24ef866336d1068b",
+      "title": "Jackson Pollock’s Former ‘Urban Treehouse’ in Greenwich Village Has Hit the Market for $2 Million",
+      "link": "https://www.realtor.com/news/unique-homes/jackson-pollock-greenwich-village-loft-hits-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The legendary painter resided in the home nearly a century ago. It's now available as a modern loft with much of its original charm.",
+      "published": "2026-10-22T20:13:25+00:00",
+      "fetched": "2026-10-22T20:53:55.791256+00:00"
+    },
+    {
+      "id": "e2501062e2586ccd",
+      "title": "Notorious $4.4 Million San Francisco Squatter Mansion Is Set To Be Auctioned Off",
+      "link": "https://www.realtor.com/news/trends/san-francisco-squatter-mansion-sea-cliff-auction/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "San Francisco authorities have paved the way for the mansion at the center of a squatter dispute to be sold later this year.",
+      "published": "2026-10-22T19:39:25+00:00",
+      "fetched": "2026-10-22T20:53:55.791284+00:00"
+    },
+    {
+      "id": "0fe5f3cd2f9d64fb",
+      "title": "Jenna Bush Hager’s Home Erupts in Chaos After Chipmunk Runs Inside: ‘Get It Out!’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jenna-bush-hager-home-chipmunk-runs-inside/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Hager recounted the incident during an episode of “Today With Jenna & Sheinelle,” sharing footage that her elder daughter, Mila, recorded.",
+      "published": "2026-10-22T19:16:46+00:00",
+      "fetched": "2026-10-22T20:53:55.791318+00:00"
+    },
+    {
+      "id": "bbc6bc45eeb28717",
+      "title": "Pumpkin Prices at All-Time High—How To Grow Your Own Next Year in Your Backyard",
+      "link": "https://www.realtor.com/advice/home-improvement/pumpkin-prices-at-all-time-high-how-to-grow-your-own/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Halloween is just around the corner, and if you've shelled out a pretty penny for your pumpkins, maybe you should grow your own at home.",
+      "published": "2026-10-22T19:13:24+00:00",
+      "fetched": "2026-10-22T20:53:55.791349+00:00"
+    },
+    {
+      "id": "ccf70b17b3e27762",
+      "title": "Simone Biles Reveals Emotional Toll of Saying Goodbye to Her Texas Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/simone-biles-reaction-to-sale-of-texas-home-tiktok/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Biles listed the Texas property for $1.2 million mere weeks ago. Days after hitting the market, the home was sold.",
+      "published": "2026-10-22T18:56:59+00:00",
+      "fetched": "2026-10-22T20:53:55.791376+00:00"
+    },
+    {
+      "id": "aa9644cd20655ea4",
+      "title": "Judge Judy Sheindlin’s Final Episode Ends Onscreen Chapter: Inside the Sprawling Greenwich Estate She’ll Retire To",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/judge-judy-justice-final-episode-greenwich-ct-estate-retirement/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "After 30 years in front of the screen, Judy Sheindlin is entering a new chapter from her lavish home in Greenwich, CT.",
+      "published": "2026-10-22T18:37:19+00:00",
+      "fetched": "2026-10-22T20:53:55.791428+00:00"
+    },
+    {
+      "id": "0a9b518b77c8519f",
+      "title": "He Designed Beverly Hills’ Most Expensive Estate—Now His Personal $4.2 Million South Pasadena Sanctuary Is for Sale",
+      "link": "https://www.realtor.com/news/unique-homes/bob-ray-offenhauser-south-pasadena-estate-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Famed architect Bob Ray Offenhauser’s private $4.2 million South Pasadena sanctuary hits the market for the first time in nearly 50 years.",
+      "published": "2026-10-22T18:19:52+00:00",
+      "fetched": "2026-10-22T20:53:55.791467+00:00"
+    },
+    {
+      "id": "6bfed4f074c9ad6c",
+      "title": "America’s Homes Are Aging and Crumbling, but Homeowner Equity Is Going Elsewhere",
+      "link": "https://www.realtor.com/news/trends/americas-homes-aging-equity-heloc-debt/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Beyond a shortage of available homes, the U.S. is grappling with an aging housing stock desperately in need of updates and repairs.",
+      "published": "2026-10-22T18:08:19+00:00",
+      "fetched": "2026-10-22T20:53:55.791497+00:00"
+    },
+    {
+      "id": "a884c86858be8527",
+      "title": "The Villages Seeks $180 Million Cash Infusion To Fund 800-Acre Expansion of the Florida Retirement Community",
+      "link": "https://www.realtor.com/news/trends/the-villages-florida-high-yeild-bonds-debt-expansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With the planned expansion, the population of The Villages would reach roughly 260,000 people and more than 130,000 homes by 2045.",
+      "published": "2026-10-22T17:24:04+00:00",
+      "fetched": "2026-10-22T20:53:55.791525+00:00"
+    },
+    {
+      "id": "64a4b0009652d835",
+      "title": "Aaron Rodgers’ Family Rift Faces Fresh Scrutiny After His Parents Sell Their California Home and Brother Jordan Settles in Puerto Rico",
+      "link": "https://www.realtor.com/news/sports/aaron-rodger-family-reconciliation-questioned-parents-sell-california-home-brother-puerto-rico/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Aaron's relationship with his younger brother, Jordan, reportedly remains strained despite the quarterback’s public comments.",
+      "published": "2026-10-22T16:24:30+00:00",
+      "fetched": "2026-10-22T20:53:55.791557+00:00"
+    },
     {
       "id": "e914ee0e1f50983e",
       "title": "Mortgage Rates Drop for First Time in 2 Months as Stock Market Jitters Drive Investors to Bonds",
@@ -12,6 +132,16 @@
       "summary": "The average rate on 30-year fixed home loans decreased to 7.32% for the week ending Oct. 22, according to Freddie Mac.",
       "published": "2026-10-22T16:00:00+00:00",
       "fetched": "2026-10-22T16:08:43.196464+00:00"
+    },
+    {
+      "id": "56a772a70062f3e1",
+      "title": "Treasury Unveils New Rules for Big Investor Homebuyers After Congress Set Limits",
+      "link": "https://www.realtor.com/news/real-estate-news/treasury-rules-institutional-investor-homebuyers-regulation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Treasury Department released its long-awaited guidance on how it plans to constrain institutional investors in the housing market.",
+      "published": "2026-10-22T15:55:54+00:00",
+      "fetched": "2026-10-22T20:53:55.791593+00:00"
     },
     {
       "id": "354dcce2ff8d8a4d",
@@ -1372,136 +1502,6 @@
       "summary": "Elaborate Halloween displays can make your home the talk of the town, but severe weather can quickly turn them into costly liabilities.",
       "published": "2026-10-14T18:21:05+00:00",
       "fetched": "2026-10-14T21:01:34.198489+00:00"
-    },
-    {
-      "id": "4ee16d855103f03b",
-      "title": "Escalation Clause Can Win Your Dream Home—but at a Cost",
-      "link": "https://www.realtor.com/advice/finance/escalation-clause-usage-bidding-war/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An escalation clause is a useful tool to stay in contention when buying a home, but revealing what you're willing to pay could backfire.",
-      "published": "2026-10-14T18:08:40+00:00",
-      "fetched": "2026-10-14T21:01:34.198516+00:00"
-    },
-    {
-      "id": "897cb6c0523bda06",
-      "title": "Alexander Brothers’ Dark Secrets Exposed in Chilling New ‘Wolves of Real Estate’ Trailer",
-      "link": "https://www.realtor.com/news/trends/wolves-of-real-estate-alexander-brothers-trailer-docuseries/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Peacock has unveiled a new trailer for its upcoming three-part docuseries, \"The Wolves of Real Estate: The Alexander Brothers.\"",
-      "published": "2026-10-14T17:27:58+00:00",
-      "fetched": "2026-10-14T21:01:34.198543+00:00"
-    },
-    {
-      "id": "41b6e74c6865bcaf",
-      "title": "A Secret Celebrity Hideaway With a Sports Complex Near Joshua Tree Just Hit the Market for $2.95 Million",
-      "link": "https://www.realtor.com/news/unique-homes/sun-via-yucca-valley-desert-compound-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Inside Sun Via: A Yucca Valley compound near Joshua Tree featuring boutique resort amenities, custom finishes, and total privacy.",
-      "published": "2026-10-14T16:50:27+00:00",
-      "fetched": "2026-10-14T21:01:34.198570+00:00"
-    },
-    {
-      "id": "45482165fde8d87a",
-      "title": "Inside Kelly Clarkson’s Multimillion-Dollar Property Portfolio: From a Montana Ranch to Lavish California Mansions",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kelly-clarkson-home-personal-matter-talk-show/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "From a mansion in Tennessee and a California estate to a Montana ranch, Clarkson has owned an array of remarkable properties.",
-      "published": "2026-10-14T16:33:00+00:00",
-      "fetched": "2026-10-14T21:01:34.198600+00:00"
-    },
-    {
-      "id": "a2c53118c90d9f5c",
-      "title": "Social Security Benefits Will Rise 3.6% in 2027—but Some Key Costs Are Rising Faster",
-      "link": "https://www.realtor.com/news/trends/social-security-cola-2027-3-8-percent-increase-news/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average retired worker will get about $75 more a month, as advocates renew calls to change how Social Security tracks inflation.",
-      "published": "2026-10-14T15:24:00+00:00",
-      "fetched": "2026-10-14T16:01:54.066652+00:00"
-    },
-    {
-      "id": "07e9a10f4eb7fd4e",
-      "title": "Mortgage Applications Fall Again as Higher Interest Rates Sideline Buyers",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-interest-rates-october-14-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Purchase Index, which measures the volume of mortgage applications to purchase a single-family home, decreased 4% from one week earlier.",
-      "published": "2026-10-14T14:45:41+00:00",
-      "fetched": "2026-10-14T16:01:54.066688+00:00"
-    },
-    {
-      "id": "adacf5f969fe8d0f",
-      "title": "Inflation Jumps to 3.7% in Troubling Sign for Mortgage Rates",
-      "link": "https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Inflation continued to hammer the cost of goods, especially gasoline the latest Consumer Price Index report showed.",
-      "published": "2026-10-14T13:03:59+00:00",
-      "fetched": "2026-10-14T16:01:54.066713+00:00"
-    },
-    {
-      "id": "b1512ded0c4a5747",
-      "title": "Long-Term Rentals: Everything You Need to Know Before You Self-Manage",
-      "link": "https://www.biggerpockets.com/blog/rookie-783",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Thinking about investing in long-term rentals? Finding the property is only half the battle. Getting it rent-ready, landing great tenants, and keeping everything running smoothly is where successful landlords get [ ]",
-      "published": "2026-10-14T11:00:47+00:00",
-      "fetched": "2026-10-14T16:01:53.690319+00:00"
-    },
-    {
-      "id": "7c544746d3cdc62b",
-      "title": "From a $55K Rental to BiggerPockets CEO and Financial Freedom",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1343",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "16 years ago, Eric Augustyn had the same fear that keeps many of us up at night: What if I get fired? He had just survived the 2008 financial crash, [ ]",
-      "published": "2026-10-14T11:00:17+00:00",
-      "fetched": "2026-10-14T16:01:53.690356+00:00"
-    },
-    {
-      "id": "c00adf12d291468a",
-      "title": "High-End Homebuyers Are Flocking to Areas With Top-Rated Public Schools—Here’s Where",
-      "link": "https://www.realtor.com/news/trends/high-end-homebuyers-flock-to-areas-with-top-rated-schools/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tiny Marco Island, in the Naples-Marco Island, FL, metro area, has an elementary school that draws wealthy buyers from all over.",
-      "published": "2026-10-14T09:00:00+00:00",
-      "fetched": "2026-10-14T10:41:59.254729+00:00"
-    },
-    {
-      "id": "bfc359b189c6bb63",
-      "title": "This Waterfront Property Comes With Its Own Private Island—and an 1800s Farmhouse",
-      "link": "https://www.realtor.com/news/unique-homes/most-popular-home-private-island-middlesex-va/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 22.8-acre Middlesex, VA, property with a private island, 1800s farmhouse, and beaches tops the week’s most popular homes list.",
-      "published": "2026-10-14T08:37:00+00:00",
-      "fetched": "2026-10-14T21:01:34.198664+00:00"
-    },
-    {
-      "id": "ffa0000d3596ef94",
-      "title": "This $995K Waterfront Property Comes With Its Own Private Island—and an 1800s Farmhouse",
-      "link": "https://www.realtor.com/news/unique-homes/most-popular-home-private-island-middlesex-va/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 22.8-acre Middlesex, VA, property with a private island, 1800s farmhouse, and beaches tops the week’s most popular homes list.",
-      "published": "2026-10-14T08:37:00+00:00",
-      "fetched": "2026-10-14T10:41:59.254764+00:00"
-    },
-    {
-      "id": "b76ee4254bd135d7",
-      "title": "More Adult Kids Are Going ‘No Contact’ With Parents. How Will It Affect Generational Wealth?",
-      "link": "https://www.realtor.com/news/trends/adult-kids-no-contact-wealth-transfer/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A perceived rise in estrangement between adult children and parents could affect the housing market and intergenerational wealth transfer.",
-      "published": "2026-10-14T08:18:00+00:00",
-      "fetched": "2026-10-14T10:41:59.254789+00:00"
     }
   ]
 }
