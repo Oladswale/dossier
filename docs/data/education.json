@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-23T16:00:26.904900+00:00",
+  "updated": "2026-10-23T20:42:03.897396+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "97d1f28654135b47",
+      "title": "Reinforcing the value of human understanding at MIT",
+      "link": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
+      "published": "2026-10-23T19:35:00+00:00",
+      "fetched": "2026-10-23T20:42:03.062129+00:00"
+    },
+    {
+      "id": "7ad8ccd63d2c5ae2",
+      "title": "Gunter Stein, control systems and theory expert, dies at 84",
+      "link": "https://news.mit.edu/2026/gunter-stein-control-systems-theory-expert-dies-1023",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Longtime EECS adjunct professor and LIDS researcher was known for an influential essay on the need for engineers to “respect the unstable.”",
+      "published": "2026-10-23T18:25:00+00:00",
+      "fetched": "2026-10-23T20:42:03.062170+00:00"
+    },
     {
       "id": "ad70fc9f2b83cd2f",
       "title": "Watch Rome Rise, Fall, and Rise Again in a Three-Minute 3D Timelapse",
@@ -1482,26 +1502,6 @@
       "summary": "The event featured ventures solving problems in manufacturing, cybersecurity, health care spending, and more.",
       "published": "2026-09-16T04:00:00+00:00",
       "fetched": "2026-09-16T10:21:42.497350+00:00"
-    },
-    {
-      "id": "286002b72e37f826",
-      "title": "Measure by measure, studying society accurately",
-      "link": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
-      "published": "2026-09-16T04:00:00+00:00",
-      "fetched": "2026-09-16T10:21:42.497384+00:00"
-    },
-    {
-      "id": "af6e8ddd554dda17",
-      "title": "How MIT student communities help develop lifelong skills and connections",
-      "link": "https://news.mit.edu/2026/how-mit-student-communities-help-develop-lifelong-skills-connections-0915",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Members of the Institute’s fraternities, sororities, and independent living groups translate their MIT experiences into cherished memories, friendships, and lessons about leadership and service.",
-      "published": "2026-09-15T20:40:00+00:00",
-      "fetched": "2026-09-16T01:52:58.568111+00:00"
     }
   ]
 }
