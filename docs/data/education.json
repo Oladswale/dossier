@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-23T02:08:43.596235+00:00",
+  "updated": "2026-10-23T10:35:19.387980+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ad70fc9f2b83cd2f",
+      "title": "Watch Rome Rise, Fall, and Rise Again in a Three-Minute 3D Timelapse",
+      "link": "https://www.openculture.com/2026/10/watch-rome-rise-fall-and-rise-again-in-a-three-minute-3d-timelapse.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Scholars disagree on when, exactly, Rome fell. But if you watch the new video from City 3D Timelapse above, you’ll understand the lack of debate on the question of whether it fell. Around the turn of the sixth century AD, buildings start vanishing at a rate that soon turns alarming; long before the end of [ ]",
+      "published": "2026-10-23T08:00:05+00:00",
+      "fetched": "2026-10-23T10:35:19.387795+00:00"
+    },
+    {
+      "id": "4a782d9566ea235b",
+      "title": "Q&A: How AI came to model the “messy” human mind",
+      "link": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+      "published": "2026-10-23T04:00:00+00:00",
+      "fetched": "2026-10-23T10:35:18.598697+00:00"
+    },
+    {
+      "id": "952952b200fb7fc5",
+      "title": "Persistence, teamwork, and some healthy competition",
+      "link": "https://news.mit.edu/2026/persistence-teamwork-healthy-competition-veronica-calzadilla-sosa-1023",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Senior Veronica Calzadilla Sosa has taken the long route toward her MIT degree and found a supportive community along the way.",
+      "published": "2026-10-23T04:00:00+00:00",
+      "fetched": "2026-10-23T10:35:18.598720+00:00"
+    },
     {
       "id": "a343869fc58a4a71",
       "title": "This design software reimagines everyday objects as self-aware devices",
@@ -1472,36 +1502,6 @@
       "summary": "Members of the Institute’s fraternities, sororities, and independent living groups translate their MIT experiences into cherished memories, friendships, and lessons about leadership and service.",
       "published": "2026-09-15T20:40:00+00:00",
       "fetched": "2026-09-16T01:52:58.568111+00:00"
-    },
-    {
-      "id": "d3b219bb3b1a477f",
-      "title": "MIT makes progress on campus climate goals",
-      "link": "https://news.mit.edu/2026/mit-makes-progress-campus-climate-goals-0915",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Innovative strategies, technologies, and collaborations are helping MIT advance solutions on campus and beyond.",
-      "published": "2026-09-15T19:55:00+00:00",
-      "fetched": "2026-09-15T20:30:47.348220+00:00"
-    },
-    {
-      "id": "9654c43573e0297e",
-      "title": "3 Questions: Putting nuclear waste into perspective",
-      "link": "https://news.mit.edu/2026/3-questions-putting-nuclear-waste-into-perspective-0915",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Professor Haruko Wainwright believes the risks posed by radioactive wastes cannot be properly assessed without also considering the hazards of chemical wastes.",
-      "published": "2026-09-15T19:30:00+00:00",
-      "fetched": "2026-09-15T20:30:47.348245+00:00"
-    },
-    {
-      "id": "3c529966ca186997",
-      "title": "The Radical Ideas of Plato’s Republic: An In-Depth Introduction",
-      "link": "https://www.openculture.com/2026/09/the-radical-ideas-of-platos-republic-an-in-depth-introduction.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "We no longer live in a time when college freshmen get shocked by much of the reading material assigned to them. Counterintuitively, the texts that do retain their power to disturb young minds (presuming they can read texts in the first place) tend to skew old — and in one prominent case, about 2,400 years [ ]",
-      "published": "2026-09-15T15:08:01+00:00",
-      "fetched": "2026-09-15T15:46:20.369360+00:00"
     }
   ]
 }

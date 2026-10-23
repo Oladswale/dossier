@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-23T02:08:44.149462+00:00",
+  "updated": "2026-10-23T10:35:19.867732+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e15db73b77e89731",
+      "title": "California Could Lose Up to 75% of Its Beaches—and Billions in Property Are Exposed",
+      "link": "https://www.realtor.com/news/trends/california-fifth-assessment-beach-erosion-property-risk/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "California’s beaches are retreating into some of the country’s most expensive real estate—and protecting homes can cost the beach itself.",
+      "published": "2026-10-23T09:00:00+00:00",
+      "fetched": "2026-10-23T10:35:19.867268+00:00"
+    },
     {
       "id": "051cad079983f068",
       "title": "Chip and Joanna Gaines Tackle Their ‘Most Ambitious’ Renovation With a Texas Mansion in the Newest ‘Fixer Upper’ Spinoff",
@@ -1492,16 +1502,6 @@
       "summary": "Philadelphia has received 152 reports of deed fraud so far in 2026, almost matching the 159 reports filed by the end of the year in 2025.",
       "published": "2026-10-14T20:56:35+00:00",
       "fetched": "2026-10-14T21:01:34.198362+00:00"
-    },
-    {
-      "id": "56de0ff4b7deaaa3",
-      "title": "Fed Interest Rate Hike Seems More Likely This Month After Alarming Inflation Data",
-      "link": "https://www.realtor.com/news/real-estate-news/cpi-inflation-report-fed-interest-rate-hike-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Markets wasted no time pricing in the new inflation data, with investors raising the probability of a Fed rate hike in October to 35%.",
-      "published": "2026-10-14T19:50:52+00:00",
-      "fetched": "2026-10-14T21:01:34.198400+00:00"
     }
   ]
 }
