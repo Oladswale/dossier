@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-22T20:53:55.792089+00:00",
+  "updated": "2026-10-23T02:08:44.149462+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "051cad079983f068",
+      "title": "Chip and Joanna Gaines Tackle Their ‘Most Ambitious’ Renovation With a Texas Mansion in the Newest ‘Fixer Upper’ Spinoff",
+      "link": "https://www.realtor.com/news/reality-tv/chip-gaines-fixer-upper-spinoff-bought-a-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Chip and Joanna Gaines are set to transform a 15,000-square-foot estate in their latest renovation TV series.",
+      "published": "2026-10-22T21:32:48+00:00",
+      "fetched": "2026-10-23T02:08:44.148870+00:00"
+    },
+    {
+      "id": "7abc40494fb47183",
+      "title": "Trump Launches Task Force on Manufactured Homes and Orders Affordability Reforms",
+      "link": "https://www.realtor.com/news/real-estate-news/trump-executive-order-housing-afforability-manufactured-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "President Donald Trump signed an executive order aimed at housing affordability with days to go before the midterm elections.",
+      "published": "2026-10-22T21:31:30+00:00",
+      "fetched": "2026-10-23T02:08:44.148906+00:00"
+    },
+    {
+      "id": "033627163fee714d",
+      "title": "Serial Killer Joel Rifkin’s Long Island Home Closes for $670K After Months on the Market",
+      "link": "https://www.realtor.com/news/trends/serial-killer-joel-rifkin-east-meadow-new-york-home-sold-price/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Long Island home where notorious serial killer Joel Rifkin brutally murdered and dismembered numerous women has found a new owner.",
+      "published": "2026-10-22T21:06:14+00:00",
+      "fetched": "2026-10-23T02:08:44.148939+00:00"
+    },
     {
       "id": "890f2ef137e82b31",
       "title": "Rebecca Gayheart Reflects on Eric Dane’s Final Days and the Gift He Left Their Daughters",
@@ -1472,36 +1502,6 @@
       "summary": "Markets wasted no time pricing in the new inflation data, with investors raising the probability of a Fed rate hike in October to 35%.",
       "published": "2026-10-14T19:50:52+00:00",
       "fetched": "2026-10-14T21:01:34.198400+00:00"
-    },
-    {
-      "id": "808549ead9df334e",
-      "title": "HGTV’S Charlie Kawas Opens Up About Sharing Cancer Treatment on ‘Botched Homes’: ‘It’s a Tough Place To Be In’",
-      "link": "https://www.realtor.com/news/reality-tv/charlie-kawas-botched-homes-hgtv-cancer-journey-interview/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The TV host opened up about his goal to inspire others with his story, and the best tips for home renovations.",
-      "published": "2026-10-14T19:39:36+00:00",
-      "fetched": "2026-10-14T21:01:34.198433+00:00"
-    },
-    {
-      "id": "ada6734834112845",
-      "title": "Billy Crystal Reveals the One Item That Survived Devastating Fire at His L.A. Home of 46 Years",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/billy-crystal-item-survived-los-angeles-home-california-wildfire/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor lost his longtime Pacific Palisades residence in January 2025, when a series of fires swept through Southern California.",
-      "published": "2026-10-14T18:47:11+00:00",
-      "fetched": "2026-10-14T21:01:34.198460+00:00"
-    },
-    {
-      "id": "5e1ad6c62e79ef53",
-      "title": "El Niño Storms Threaten To Turn Extravagant Halloween Decor Into Liabilities for Homeowners",
-      "link": "https://www.realtor.com/news/trends/el-nino-storms-halloween-decor-liabilities-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Elaborate Halloween displays can make your home the talk of the town, but severe weather can quickly turn them into costly liabilities.",
-      "published": "2026-10-14T18:21:05+00:00",
-      "fetched": "2026-10-14T21:01:34.198489+00:00"
     }
   ]
 }
