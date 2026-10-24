@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-24T09:53:06.167247+00:00",
+  "updated": "2026-10-24T14:56:49.242777+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d4a4ac780e0348de",
+      "title": "A 1915 Willis Polk House in Berkeley Gets Its Soul Back—and Finds a Buyer",
+      "link": "https://www.realtor.com/news/unique-homes/willis-polk-berkeley-home-restoration-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside an iconic 1915 Willis Polk Berkeley estate restored with Hermès wallpaper, vibrant art, and a heated pool. Sold for under $3M.",
+      "published": "2026-10-24T14:10:00+00:00",
+      "fetched": "2026-10-24T14:56:49.242209+00:00"
+    },
+    {
+      "id": "838685b73db79163",
+      "title": "Inside the $28M Waterfront Estate Offering Panoramic Lake Washington Views—and a Primary Bigger Than an NYC Apartment",
+      "link": "https://www.realtor.com/news/unique-homes/medina-hamptons-style-waterfront-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A $28M Hamptons-style waterfront estate hits the market in Medina, WA, boasting panoramic Lake Washington views and a 550 sq ft closet.",
+      "published": "2026-10-24T13:22:00+00:00",
+      "fetched": "2026-10-24T14:56:49.242242+00:00"
+    },
+    {
+      "id": "4b50ef2cfdcaedb0",
+      "title": "VIDEO: AirBnb Cracks Down On Hosts Who Force Guests to Do Chores",
+      "link": "https://www.realtor.com/news/trends/airbnb-crackdown-hosts-chores-video/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "AirBnb rolled out new rules this week prohibiting hosts from making guests strip beds or do dishes before checkout.",
+      "published": "2026-10-24T12:34:00+00:00",
+      "fetched": "2026-10-24T14:56:49.242262+00:00"
+    },
+    {
+      "id": "1d263a38e95185b0",
+      "title": "No Noise, No New Construction: Why Savvy Homebuyers Are Embracing Graveyard Views",
+      "link": "https://www.realtor.com/news/trends/buy-home-next-to-graveyard-price-benefits/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While cemetery-adjacent homes can take longer to sell, they rarely suffer price cuts because they offer guaranteed quiet neighbors.",
+      "published": "2026-10-24T11:00:00+00:00",
+      "fetched": "2026-10-24T14:56:49.242283+00:00"
+    },
     {
       "id": "260f06675d6cbbbf",
       "title": "Dolly Parton’s Estate Taps Niece as Brand Ambassador as Legal Battle With Nephew Continues",
@@ -1462,46 +1502,6 @@
       "summary": "Michael Bloomberg's philanthropic organization is bringing funding to 30 cities in hopes of speeding homebuilding reforms.",
       "published": "2026-10-15T21:39:09+00:00",
       "fetched": "2026-10-16T01:50:01.485310+00:00"
-    },
-    {
-      "id": "6e219713fc66ebff",
-      "title": "EXCLUSIVE: HGTV Star Alison Victoria Takes Aim at ‘Boring’ Las Vegas Homes With a Radical New Design Trend",
-      "link": "https://www.realtor.com/news/reality-tv/exclusive-sin-city-rehab-star-alison-victoria-takes-a-gamble-on-modern-design-as-she-updates-the-boring-style-of-las-vegas-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Sin City Rehab\" star predicts nontraditional kitchens are the future of home design in Las Vegas and beyond.",
-      "published": "2026-10-15T21:32:11+00:00",
-      "fetched": "2026-10-16T01:50:01.485343+00:00"
-    },
-    {
-      "id": "f99cb05201485313",
-      "title": "Kanye West Ordered To Pay Additional $181K in Lawsuit Tied to Gut Renovation of Former Malibu Mansion",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kanye-west-malibu-mansion-gut-renovation-lawsuit/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tony Saxon, a record collector who was not a licensed contractor, claims to have sustained severe injuries during the gut renovation.",
-      "published": "2026-10-15T21:00:32+00:00",
-      "fetched": "2026-10-16T01:50:01.485370+00:00"
-    },
-    {
-      "id": "69f1531590610c9b",
-      "title": "The Plaza Hotel Is Closing for 4 Years—Here’s What That Means for Its Condo Residents",
-      "link": "https://www.realtor.com/news/trends/plaza-hotel-closing-renovations-manhattan-condo-impact/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The iconic New York City landmark is shuttering for renovations, raising questions about what that means for its condo residents.",
-      "published": "2026-10-15T20:05:22+00:00",
-      "fetched": "2026-10-15T20:35:35.769557+00:00"
-    },
-    {
-      "id": "65737be0b3ae029d",
-      "title": "A ‘Trump Bump’ to Social Security Is Coming in 2027—With a Catch",
-      "link": "https://www.realtor.com/advice/finance/social-security-cola-2027-homeownership-catch/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The COLA is meant to help consumers adjust to inflation—but is it enough?",
-      "published": "2026-10-15T18:19:52+00:00",
-      "fetched": "2026-10-15T20:35:35.769594+00:00"
     }
   ]
 }
