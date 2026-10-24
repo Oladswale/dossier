@@ -1,8 +1,58 @@
 {
   "category": "finance",
-  "updated": "2026-10-23T20:41:48.573329+00:00",
+  "updated": "2026-10-24T02:07:58.250412+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "92e48814ffc7d92a",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+      "published": "2026-10-23T22:49:00+00:00",
+      "fetched": "2026-10-24T02:07:21.729391+00:00"
+    },
+    {
+      "id": "92298dea8c79e1ac",
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+      "published": "2026-10-23T22:00:00+00:00",
+      "fetched": "2026-10-24T02:07:21.729435+00:00"
+    },
+    {
+      "id": "a78597e80c4f1d9b",
+      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+      "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+      "published": "2026-10-23T21:46:00+00:00",
+      "fetched": "2026-10-24T02:07:21.729467+00:00"
+    },
+    {
+      "id": "5015bddc9743e6c1",
+      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT T and T-Mobile.",
+      "published": "2026-10-23T21:11:00+00:00",
+      "fetched": "2026-10-24T02:07:21.729505+00:00"
+    },
+    {
+      "id": "edf70b66dc018708",
+      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+      "published": "2026-10-23T20:50:00+00:00",
+      "fetched": "2026-10-24T02:07:21.729544+00:00"
+    },
     {
       "id": "c36b43fbec92df45",
       "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
@@ -1452,56 +1502,6 @@
       "summary": "LemFi launches the biggest product expansion in its history, adding UK savings, credit, and data eSIM in 100+ destinations A rebuilt app brings transfers, savings, credit and connectivity together in one platform for people building financial lives across borders New global brand, Ambition has no passport , reflects LemFi s evolution from remittances into a broader financial [ ] The post LemFi launches its biggest product expansion yet alongside a new global brand, ‘Ambition has no passport’ appeared first on Nairametrics .",
       "published": "2026-10-21T15:58:48+00:00",
       "fetched": "2026-10-21T16:10:45.118018+00:00"
-    },
-    {
-      "id": "fa9df1178c7790f6",
-      "title": "NGX fines 15 companies N123.17 million for late filings, experts seek tougher sanctions",
-      "link": "https://nairametrics.com/2026/10/21/ngx-fines-15-companies-n123-17-million-for-late-filings-experts-seek-tougher-sanctions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Exchange (NGX) has listed penalties totalling N123.17 million against 15 companies for late submission of audited and interim financial statements, renewing concerns over repeated disclosure breaches among listed firms. The post NGX fines 15 companies N123.17 million for late filings, experts seek tougher sanctions appeared first on Nairametrics .",
-      "published": "2026-10-21T15:44:10+00:00",
-      "fetched": "2026-10-21T16:10:45.118066+00:00"
-    },
-    {
-      "id": "dc7109cfdeb59b88",
-      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-      "published": "2026-10-21T15:30:50+00:00",
-      "fetched": "2026-10-21T16:10:44.739605+00:00"
-    },
-    {
-      "id": "2c3bc0cf63103669",
-      "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors are for sure facing “bubbles,” but Ken Griffin isn’t telling investors to dump those stocks.",
-      "published": "2026-10-21T15:27:00+00:00",
-      "fetched": "2026-10-21T16:10:44.421363+00:00"
-    },
-    {
-      "id": "9c0e0ae016b14442",
-      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
-      "published": "2026-10-21T15:00:00+00:00",
-      "fetched": "2026-10-21T16:10:44.421406+00:00"
-    },
-    {
-      "id": "405a7c07c7fb3343",
-      "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
-      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-      "published": "2026-10-21T14:45:00+00:00",
-      "fetched": "2026-10-21T16:10:44.421451+00:00"
     }
   ]
 }

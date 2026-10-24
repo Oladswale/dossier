@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-23T20:42:03.897396+00:00",
+  "updated": "2026-10-24T02:08:13.823392+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f0bc66d2e66ca80a",
+      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "link": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
+      "published": "2026-10-23T21:00:00+00:00",
+      "fetched": "2026-10-24T02:08:12.949086+00:00"
+    },
     {
       "id": "97d1f28654135b47",
       "title": "Reinforcing the value of human understanding at MIT",
@@ -1492,16 +1502,6 @@
       "summary": "For decades following World War II, the world was left wondering how the atrocities of the Holocaust could have been perpetrated in the midst of—and, most horrifically, by—a modern and civilized society. How did people come to engage in a willing and systematic extermination of their neighbors? Psychologists, whose field had grown into a grudgingly [ ]",
       "published": "2026-09-16T08:00:21+00:00",
       "fetched": "2026-09-16T10:21:43.807406+00:00"
-    },
-    {
-      "id": "034be2c5ad538d2c",
-      "title": "MIT startups inspire with impressive presentations at Demo Day 2026",
-      "link": "https://news.mit.edu/2026/mit-startups-inspire-with-impressive-presentations-demo-day-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The event featured ventures solving problems in manufacturing, cybersecurity, health care spending, and more.",
-      "published": "2026-09-16T04:00:00+00:00",
-      "fetched": "2026-09-16T10:21:42.497350+00:00"
     }
   ]
 }
