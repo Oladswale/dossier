@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-25T15:06:47.089680+00:00",
+  "updated": "2026-10-25T20:03:30.366114+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ec435bfb6bc31501",
+      "title": "Why Housing Affordability Is the Top Issue for Gen Z Voters Ahead of Midterms",
+      "link": "https://www.realtor.com/news/real-estate-news/gen-z-housing-affordability-midterm-election-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Gen Z sees housing affordability as the No. 1 issue this midterm election season.",
+      "published": "2026-10-25T18:01:00+00:00",
+      "fetched": "2026-10-25T20:03:30.365615+00:00"
+    },
+    {
+      "id": "e910630f40f94a6f",
+      "title": "Victorian in the Front, Glass in the Back: DC’s Iconic ‘Barcode House’ Is Listed for $1.65 Million",
+      "link": "https://www.realtor.com/news/unique-homes/iconic-barcode-house-for-sale-dupont-circle-dc/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore DC's iconic $1.65M \"Barcode House\" in Dupont Circle. Historic 1912 Victorian meets a modern glass rear, plus rental potential.",
+      "published": "2026-10-25T17:33:00+00:00",
+      "fetched": "2026-10-25T20:03:30.365643+00:00"
+    },
+    {
+      "id": "2890c88762fd6ebd",
+      "title": "A Midcentury Pumphouse on the Rappahannock River Was Transformed Into a Jaw-Dropping $1.15 Miillio Retreat",
+      "link": "https://www.realtor.com/news/unique-homes/fredericksburg-pumphouse-waterfront-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A 1947 Fredericksburg pumphouse turned $1.15M waterfront home features treehouse views, river frontage, and original industrial pumps.",
+      "published": "2026-10-25T17:18:00+00:00",
+      "fetched": "2026-10-25T20:03:30.365661+00:00"
+    },
+    {
+      "id": "e523c3ce86938796",
+      "title": "Take a Look Inside a $3.3 Million Revolutionary War-Era Home in Newburyport",
+      "link": "https://www.realtor.com/news/unique-homes/historic-1777-georgian-home-newburyport-ma-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore the restored 1777 William Pierce Johnson House in Newburyport, MA. It features eight fireplaces and historic charm.",
+      "published": "2026-10-25T16:01:00+00:00",
+      "fetched": "2026-10-25T20:03:30.365678+00:00"
+    },
     {
       "id": "258dd5010a245561",
       "title": "A TikTok Creator Bought This Historic 1921 Church To Host Ghost Tours. Now It’s for Sale for $225K.",
@@ -1462,46 +1502,6 @@
       "summary": "Seven-figure households are renting in greater numbers as mobility, liquidity, and luxury housing reshape the buy vs. rent calculus.",
       "published": "2026-10-16T16:48:00+00:00",
       "fetched": "2026-10-16T20:09:02.089066+00:00"
-    },
-    {
-      "id": "dfa40072fcdca906",
-      "title": "Record-Breaking $82.5 Million Laguna Beach Estate Sells With Rotating Bed Under the Stars",
-      "link": "https://www.realtor.com/news/unique-homes/laguna-beach-rockledge-road-record-breaking-home-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "See inside the record-breaking $82.5 million Laguna Beach megamansion featuring a rotating bed, stargazing roof, and floating Pacific views.",
-      "published": "2026-10-16T16:46:53+00:00",
-      "fetched": "2026-10-16T20:09:02.089096+00:00"
-    },
-    {
-      "id": "8e28514433d27b98",
-      "title": "California Wildfire Costs for Homeowners Will Rise 85% in Two Decades, Forecast Says",
-      "link": "https://www.realtor.com/news/trends/california-wildfire-damage-annual-cost-homeowners-terner-center-forecast/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "California's wildfire challenges have quickly risen in recent years, and could grow yet more if the state doesn't prepare.",
-      "published": "2026-10-16T15:24:10+00:00",
-      "fetched": "2026-10-16T15:38:18.361272+00:00"
-    },
-    {
-      "id": "9dbbca1ff0a5f074",
-      "title": "5 Moody Gothic Victorian Homes You Can Buy for Under $500K Right Now",
-      "link": "https://www.realtor.com/news/unique-homes/gothic-victorian-homes-under-500k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Tour five spooky Gothic Victorian homes—all priced below $500,000—from tower rooms in New York to an Indiana residence with a ballroom.",
-      "published": "2026-10-16T14:30:00+00:00",
-      "fetched": "2026-10-16T15:38:18.361301+00:00"
-    },
-    {
-      "id": "ffaf23adb35594e8",
-      "title": "Elizabeth Holmes Shares Intimate Look Inside Her San Diego Home in Nathan Fielder’s ‘You Can See Everything’ Documentary",
-      "link": "https://www.realtor.com/news/trends/elizabeth-holmes-san-diego-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The disgraced Theranos founder opened her San Diego home to Nathan Fielder to document the days leading up to her prison sentence.",
-      "published": "2026-10-16T14:30:00+00:00",
-      "fetched": "2026-10-16T15:38:18.361322+00:00"
     }
   ]
 }
