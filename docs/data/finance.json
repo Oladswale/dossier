@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-10-25T01:53:49.688778+00:00",
+  "updated": "2026-10-25T10:14:09.348481+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d3419a29a8afd859",
+      "title": "IMF blames over-optimistic tax estimates, weak implementation for revenue shortfalls",
+      "link": "https://nairametrics.com/2026/10/25/imf-blames-over-optimistic-tax-estimates-weak-implementation-for-revenue-shortfalls/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The International Monetary Fund (IMF) has identified over-optimistic tax revenue projections, weak policy implementation and limited administrative capacity as key reasons governments often fall short of their revenue targets. The post IMF blames over-optimistic tax estimates, weak implementation for revenue shortfalls appeared first on Nairametrics .",
+      "published": "2026-10-25T08:40:31+00:00",
+      "fetched": "2026-10-25T10:14:08.898170+00:00"
+    },
+    {
+      "id": "6fc7cddd2e1f2d0c",
+      "title": "AfDB raises $2.5 billion in global bond as orders hit $4.8 billion",
+      "link": "https://nairametrics.com/2026/10/25/afdb-raises-2-5-billion-in-global-bond-as-orders-hit-4-8-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The African Development Bank (AfDB) has raised $2.5 billion through a three-year global benchmark bond after investor orders reached $4.8 billion, nearly twice the amount issued. The post AfDB raises $2.5 billion in global bond as orders hit $4.8 billion appeared first on Nairametrics .",
+      "published": "2026-10-25T07:52:25+00:00",
+      "fetched": "2026-10-25T10:14:08.898219+00:00"
+    },
+    {
+      "id": "08b2718a5528711d",
+      "title": "Nigeria’s net FX flows rise to $22.5 billion in Q2 2026, highest since Q4 2019",
+      "link": "https://nairametrics.com/2026/10/25/nigerias-net-fx-flows-rise-to-22-5-billion-in-q2-2026-highest-since-q4-2019/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s net foreign exchange (FX) flows rose to $22.50 billion in the second quarter of 2026, the highest level since the fourth quarter of 2019. The post Nigeria’s net FX flows rise to $22.5 billion in Q2 2026, highest since Q4 2019 appeared first on Nairametrics .",
+      "published": "2026-10-25T06:56:01+00:00",
+      "fetched": "2026-10-25T10:14:08.898273+00:00"
+    },
     {
       "id": "b5b86307c7bb8a62",
       "title": "Africa Prudential’s pre-tax profit hits N4.07 billion in 9M as interest income jumps 46%",
@@ -1472,36 +1502,6 @@
       "summary": "Nigeria’s decision to reduce its Monetary Policy Rate (MPR) from 26.5 per cent to 23 per cent represents a significant shift in the country’s monetary policy direction, with important implications for businesses, investors and the wider economy. While the reduction does not automatically translate into cheaper loans or immediate economic relief, it presents an opportunity [ ] The post Nigeria’s Interest Rate Reset: What the Reduction in MPR Means for Businesses appeared first on Nairametrics .",
       "published": "2026-10-22T09:19:11+00:00",
       "fetched": "2026-10-22T10:43:23.802532+00:00"
-    },
-    {
-      "id": "25aeefb1d061efb8",
-      "title": "A top strategist has a warning for retail investors chasing the AI rally",
-      "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
-      "published": "2026-10-22T09:07:00+00:00",
-      "fetched": "2026-10-22T10:43:23.027274+00:00"
-    },
-    {
-      "id": "209b86190dab2b0d",
-      "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
-      "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
-      "published": "2026-10-22T09:04:00+00:00",
-      "fetched": "2026-10-22T10:43:23.027311+00:00"
-    },
-    {
-      "id": "e5f7a0f750a07d7c",
-      "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
-      "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
-      "published": "2026-10-22T09:03:00+00:00",
-      "fetched": "2026-10-22T10:43:23.027343+00:00"
     }
   ]
 }
