@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-24T19:53:28.630938+00:00",
+  "updated": "2026-10-25T01:54:05.862906+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "012f6647f5ce99d5",
+      "title": "Ashland Wants To Be Known as ‘Storytown.’ The Rogue Valley Already Has Plenty of Material.",
+      "link": "https://www.realtor.com/news/trends/ashland-wants-to-be-known-as-storytown-the-rogue-valley-already-has-plenty-of-material/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A homecoming filmmaker is pushing Oregon’s Shakespeare town past its summer season.",
+      "published": "2026-10-24T20:17:00+00:00",
+      "fetched": "2026-10-25T01:54:05.862226+00:00"
+    },
     {
       "id": "d67a598f7382b72f",
       "title": "These Celebrities Waited Years to Purchase the Dream Homes They Couldn’t Stop Thinking About",
@@ -1492,16 +1502,6 @@
       "summary": "Pulling equity out of your home to buy your next rental can feel like free money, but it isn t. Whether you use a HELOC or a cash-out refinance, if you [ ]",
       "published": "2026-10-16T11:00:27+00:00",
       "fetched": "2026-10-16T20:09:01.740429+00:00"
-    },
-    {
-      "id": "16e4c36eb611d544",
-      "title": "20% of Homes See Price Cuts (Sellers Face Reality) | Oct. 2026 Housing Market Update",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1344",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Seller desperation just hit a recent peak, creating a major buying opportunity in the housing market. Over 20% of properties saw a price cut in the past four weeks, and [ ]",
-      "published": "2026-10-16T11:00:18+00:00",
-      "fetched": "2026-10-16T15:38:18.135594+00:00"
     }
   ]
 }

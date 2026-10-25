@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-10-24T19:53:12.303214+00:00",
+  "updated": "2026-10-25T01:53:49.688778+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b5b86307c7bb8a62",
+      "title": "Africa Prudential’s pre-tax profit hits N4.07 billion in 9M as interest income jumps 46%",
+      "link": "https://nairametrics.com/2026/10/24/africa-prudentials-pre-tax-profit-hits-n4-07-billion-in-9m-as-interest-income-jumps-46/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa Prudential Plc has reported a 34.79% year-on-year increase in profit before tax to N4.07 billion for the nine months ended September 30, 2026, compared with N3.02 billion in the corresponding period of 2025. The post Africa Prudential’s pre-tax profit hits N4.07 billion in 9M as interest income jumps 46% appeared first on Nairametrics .",
+      "published": "2026-10-24T20:10:34+00:00",
+      "fetched": "2026-10-25T01:53:49.140308+00:00"
+    },
     {
       "id": "5a194fe94bfd2584",
       "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
@@ -1492,16 +1502,6 @@
       "summary": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
       "published": "2026-10-22T09:03:00+00:00",
       "fetched": "2026-10-22T10:43:23.027343+00:00"
-    },
-    {
-      "id": "da2a1590cad6523f",
-      "title": "How Nigeria Can Attract Private Capital for Reliable, Affordable Electricity",
-      "link": "https://nairametrics.com/2026/10/22/how-nigeria-can-attract-private-capital-for-reliable-affordable-electricity/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A food seller has to choose between buying fuel for her generator and restocking her freezer with fish and chicken. If she buys fuel, she has less to restock with. If she restocks, a power cut can spoil what she bought.",
-      "published": "2026-10-22T09:02:12+00:00",
-      "fetched": "2026-10-22T10:43:23.802592+00:00"
     }
   ]
 }
