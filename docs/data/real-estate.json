@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-25T10:14:25.307329+00:00",
+  "updated": "2026-10-25T15:06:47.089680+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "258dd5010a245561",
+      "title": "A TikTok Creator Bought This Historic 1921 Church To Host Ghost Tours. Now It’s for Sale for $225K.",
+      "link": "https://www.realtor.com/news/unique-homes/converted-church-for-sale-fredonia-pa-225k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A 1921 converted church in Fredonia, PA, is listed for $225,00. It features live-in potential, 2.4 acres, and a large cemetery.",
+      "published": "2026-10-25T14:14:00+00:00",
+      "fetched": "2026-10-25T15:06:47.089312+00:00"
+    },
+    {
+      "id": "8a80aee90c6d6415",
+      "title": "Why Luxury Buyers in Brooklyn Are Shelling Out Millions to Live Next to a Famous Cemetery",
+      "link": "https://www.realtor.com/news/trends/greenwood-heights-bellrose-luxury-condos-brooklyn/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In a city where wide open spaces are rare, The Bellrose overlooking Green-Wood Cemetery in Brooklyn is drawing well-heeled buyers.",
+      "published": "2026-10-25T12:49:00+00:00",
+      "fetched": "2026-10-25T15:06:47.089333+00:00"
+    },
     {
       "id": "012f6647f5ce99d5",
       "title": "Ashland Wants To Be Known as ‘Storytown.’ The Rogue Valley Already Has Plenty of Material.",
@@ -1482,26 +1502,6 @@
       "summary": "The disgraced Theranos founder opened her San Diego home to Nathan Fielder to document the days leading up to her prison sentence.",
       "published": "2026-10-16T14:30:00+00:00",
       "fetched": "2026-10-16T15:38:18.361322+00:00"
-    },
-    {
-      "id": "b28d9367857b93f7",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 7.4% Rate",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-october-15/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As mortgage rates edge closer to historical highs, a welcomed reprieve came in the form of a pause on the rate rise this week.",
-      "published": "2026-10-16T14:02:00+00:00",
-      "fetched": "2026-10-16T15:38:18.361341+00:00"
-    },
-    {
-      "id": "a0a4186d06db6e41",
-      "title": "How to Turn Your Equity Into Rentals with a HELOC or Cash-Out Refi (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-784",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Pulling equity out of your home to buy your next rental can feel like free money, but it isn t. Whether you use a HELOC or a cash-out refinance, if you [ ]",
-      "published": "2026-10-16T11:00:27+00:00",
-      "fetched": "2026-10-16T20:09:01.740429+00:00"
     }
   ]
 }
