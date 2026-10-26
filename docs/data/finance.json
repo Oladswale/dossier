@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-10-25T20:03:13.769826+00:00",
+  "updated": "2026-10-26T01:55:42.466529+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c73505a3b1fd4855",
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "published": "2026-10-26T01:50:00+00:00",
+      "fetched": "2026-10-26T01:55:41.119078+00:00"
+    },
     {
       "id": "a72422317f102a18",
       "title": "NDLEA arrests South African woman with 36.65kg of cocaine at Lagos airport",
@@ -1492,16 +1502,6 @@
       "summary": "“Nothing has been set aside for his needs.”",
       "published": "2026-10-22T14:15:00+00:00",
       "fetched": "2026-10-22T16:08:23.806749+00:00"
-    },
-    {
-      "id": "5818c780e514a7ff",
-      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
-      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
-      "published": "2026-10-22T14:00:00+00:00",
-      "fetched": "2026-10-22T16:08:23.806780+00:00"
     }
   ]
 }

@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-25T20:03:30.366114+00:00",
+  "updated": "2026-10-26T01:55:59.136482+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "23116013dc36d290",
+      "title": "This $8 Million Rancho Santa Fe Estate Features a Secret Botanical Garden with a 100-Year-Old Dragon Tree",
+      "link": "https://www.realtor.com/news/unique-homes/rancho-santa-fe-estate-botanical-garden-18245-paseo-victoria/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore an $8M Rancho Santa Fe estate featuring 3+ acres of private botanical gardens, a 100-year-old dragon tree, and ocean views.",
+      "published": "2026-10-26T01:44:00+00:00",
+      "fetched": "2026-10-26T01:55:59.135912+00:00"
+    },
     {
       "id": "ec435bfb6bc31501",
       "title": "Why Housing Affordability Is the Top Issue for Gen Z Voters Ahead of Midterms",
@@ -1492,16 +1502,6 @@
       "summary": "Heating bills will skyrocket this year, due to a variety of issues, but smarthomeowers can plan now for what's to come.",
       "published": "2026-10-16T17:08:36+00:00",
       "fetched": "2026-10-16T20:09:02.089035+00:00"
-    },
-    {
-      "id": "43ca7d503ec473af",
-      "title": "A Generation of Young Millionaires Is Choosing Rent Over Ownership",
-      "link": "https://www.realtor.com/news/trends/millionaire-renters-triple-since-2020-rentcafe/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Seven-figure households are renting in greater numbers as mobility, liquidity, and luxury housing reshape the buy vs. rent calculus.",
-      "published": "2026-10-16T16:48:00+00:00",
-      "fetched": "2026-10-16T20:09:02.089066+00:00"
     }
   ]
 }
