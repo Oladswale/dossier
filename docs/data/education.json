@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-26T01:55:58.310180+00:00",
+  "updated": "2026-10-26T11:38:20.785020+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "54bdda232fb48e9b",
+      "title": "Harry Houdini Died 100 Years Ago This Halloween: Was He Really Killed by a Punch to the Stomach?",
+      "link": "https://www.openculture.com/2026/10/harry-houdini-died-100-years-ago-this-halloween.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "This Halloween marks the 100th anniversary of the death of famed escape artist Harry Houdini. Today, most of us know more about the manner of that death than we do about any of the feats of escape artistry that made him famous in the first place. As the story goes, he’d mastered his own body [ ]",
+      "published": "2026-10-26T09:00:06+00:00",
+      "fetched": "2026-10-26T11:38:20.784729+00:00"
+    },
+    {
+      "id": "91c42625422cc578",
+      "title": "Hear an Hour of the Jazzy Background Music from the Original 1967 Spider-Man Cartoon",
+      "link": "https://www.openculture.com/2026/10/an-hour-of-the-jazzy-background-music-from-the-original-1967-spider-man-cartoon.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Ray Ellis had a six-decade career as a producer, arranger, and jazz composer. And while he’s best known for arranging music for Billie Holiday’s Lady in Satin (1958), he also enjoyed a long career orchestrating music for television. Working under a pseudonym “Yvette Blais” (his wife’s name), Ellis composed background music for the cartoon studio Filmation between 1968 and 1982.",
+      "published": "2026-10-26T08:00:29+00:00",
+      "fetched": "2026-10-26T11:38:20.784799+00:00"
+    },
+    {
+      "id": "57b89cc2f28a668f",
+      "title": "Watch the universe emerge from the dark ages, with Lumina",
+      "link": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first 2 billion years, in greater detail and volume than ever before.",
+      "published": "2026-10-26T04:00:00+00:00",
+      "fetched": "2026-10-26T11:38:19.978377+00:00"
+    },
     {
       "id": "f0bc66d2e66ca80a",
       "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
@@ -1472,36 +1502,6 @@
       "summary": "A new device uses reconfigurable motion to mimic the firing behavior of a neuron, which could lead to more efficient computing.",
       "published": "2026-09-16T18:00:00+00:00",
       "fetched": "2026-09-16T20:30:10.171376+00:00"
-    },
-    {
-      "id": "26f4fa5b3a3bf362",
-      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-      "link": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
-      "published": "2026-09-16T15:00:00+00:00",
-      "fetched": "2026-09-16T15:38:08.672412+00:00"
-    },
-    {
-      "id": "fb4eef26f9dafe8c",
-      "title": "The Genius Logic of the NATO Phonetic Alphabet: How It Was Created & How It Works",
-      "link": "https://www.openculture.com/2026/09/the-genius-logic-of-the-nato-phonetic-alphabet-how-it-was-created-how-it-works.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Most of us can rattle off the first few words-that-stand-for-letters of the NATO phonetic alphabet. Alfa, Bravo, and Charlie no doubt come right to mind, and depending on how many war movies you’ve seen, so may Delta, Echo, and Foxtrot. But how many of us would recognize Kilo, Mike, and Sierra?",
-      "published": "2026-09-16T09:00:32+00:00",
-      "fetched": "2026-09-16T10:21:43.807343+00:00"
-    },
-    {
-      "id": "0ad628f61bd5d442",
-      "title": "Watch Footage from the Psychology Experiment That Shocked the World: Milgram’s Obedience Study (1961)",
-      "link": "https://www.openculture.com/2026/09/watch-footage-from-milgrams-obedience-study.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "For decades following World War II, the world was left wondering how the atrocities of the Holocaust could have been perpetrated in the midst of—and, most horrifically, by—a modern and civilized society. How did people come to engage in a willing and systematic extermination of their neighbors? Psychologists, whose field had grown into a grudgingly [ ]",
-      "published": "2026-09-16T08:00:21+00:00",
-      "fetched": "2026-09-16T10:21:43.807406+00:00"
     }
   ]
 }
