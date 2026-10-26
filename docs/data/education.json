@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-26T11:38:20.785020+00:00",
+  "updated": "2026-10-26T17:43:11.053335+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "39e76c19c50742d6",
+      "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
+      "link": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "This targeted approach could offer a way to prevent the recurrence of aggressive brain tumors.",
+      "published": "2026-10-26T15:00:00+00:00",
+      "fetched": "2026-10-26T17:43:10.263141+00:00"
+    },
     {
       "id": "54bdda232fb48e9b",
       "title": "Harry Houdini Died 100 Years Ago This Halloween: Was He Really Killed by a Punch to the Stomach?",
@@ -1492,16 +1502,6 @@
       "summary": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions about the universe and translate them into an immersive multimedia experience.",
       "published": "2026-09-16T18:30:00+00:00",
       "fetched": "2026-09-16T20:30:10.171339+00:00"
-    },
-    {
-      "id": "72628e686636bf5f",
-      "title": "Nanoscale mechanics could enable brain-inspired computing",
-      "link": "https://news.mit.edu/2026/nanoscale-mechanics-could-enable-brain-inspired-computing-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new device uses reconfigurable motion to mimic the firing behavior of a neuron, which could lead to more efficient computing.",
-      "published": "2026-09-16T18:00:00+00:00",
-      "fetched": "2026-09-16T20:30:10.171376+00:00"
     }
   ]
 }
