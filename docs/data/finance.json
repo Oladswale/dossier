@@ -1,8 +1,98 @@
 {
   "category": "finance",
-  "updated": "2026-10-26T17:42:55.068462+00:00",
+  "updated": "2026-10-26T21:57:54.837964+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ffbf23e302fbed14",
+      "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+      "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
+      "published": "2026-10-26T21:46:00+00:00",
+      "fetched": "2026-10-26T21:57:53.847937+00:00"
+    },
+    {
+      "id": "79c427e06d8f730c",
+      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+      "published": "2026-10-26T21:44:00+00:00",
+      "fetched": "2026-10-26T21:57:53.847977+00:00"
+    },
+    {
+      "id": "3846b28eac7bad67",
+      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
+      "published": "2026-10-26T21:04:00+00:00",
+      "fetched": "2026-10-26T21:57:53.848009+00:00"
+    },
+    {
+      "id": "766f855c26dc6947",
+      "title": "With the Anthropic IPO, the devil is in the details",
+      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
+      "published": "2026-10-26T20:50:00+00:00",
+      "fetched": "2026-10-26T21:57:53.848038+00:00"
+    },
+    {
+      "id": "8122c9450f0615fb",
+      "title": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
+      "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analysts like to overhype stock-market rallies in the fall, but the numbers show Santa only arrives once a year",
+      "published": "2026-10-26T20:09:00+00:00",
+      "fetched": "2026-10-26T21:57:53.848077+00:00"
+    },
+    {
+      "id": "17fb31a24faf3363",
+      "title": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
+      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Big life decisions in your 30s and 40s will determine just how well you retire.",
+      "published": "2026-10-26T19:42:00+00:00",
+      "fetched": "2026-10-26T21:57:53.848117+00:00"
+    },
+    {
+      "id": "8f83729e427b29fa",
+      "title": "NGX rallies as equity market cap reaches record N163.1 trillion",
+      "link": "https://nairametrics.com/2026/10/26/ngx-rallies-as-equity-market-cap-reaches-record-n163-1-trillion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Exchange Limited (NGX) market capitalisation reached a record N163.16 trillion on Monday, October 26, 2026. The post NGX rallies as equity market cap reaches record N163.1 trillion appeared first on Nairametrics .",
+      "published": "2026-10-26T18:23:34+00:00",
+      "fetched": "2026-10-26T21:57:54.248496+00:00"
+    },
+    {
+      "id": "c0d38fc1c9b587b1",
+      "title": "US moves to tighten employment-based green card requirements for foreign workers",
+      "link": "https://nairametrics.com/2026/10/26/us-moves-to-tighten-employment-based-green-card-requirements-for-foreign-workers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The United States government is moving to revise employment-based green card sponsorship requirements following the completion of a federal review of proposed changes to the Permanent Labor Certification (PERM) programme. The post US moves to tighten employment-based green card requirements for foreign workers appeared first on Nairametrics .",
+      "published": "2026-10-26T17:50:59+00:00",
+      "fetched": "2026-10-26T21:57:54.248546+00:00"
+    },
+    {
+      "id": "0bdab9be056f4cf2",
+      "title": "International Breweries’ 9M 2026 pre-tax profit rises 22% to N90.44 billion",
+      "link": "https://nairametrics.com/2026/10/26/international-breweries-9m-2026-pre-tax-profit-rises-22-to-n90-44-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "International Breweries Plc recorded a 21.86% increase in pre-tax profit to N90.44 billion for the nine months ended September 2026, but a sharp increase in income tax expenses reduced profit after tax by 5.74% to N54.51 billion. The post International Breweries 9M 2026 pre-tax profit rises 22% to N90.44 billion appeared first on Nairametrics .",
+      "published": "2026-10-26T17:49:34+00:00",
+      "fetched": "2026-10-26T21:57:54.248594+00:00"
+    },
     {
       "id": "884c7c001e26572c",
       "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
@@ -1412,96 +1502,6 @@
       "summary": "French President Emmanuel Macron and Nigerian President Bola Ahmed Tinubu have agreed to postpone the French leader’s planned state visit to Nigeria until early 2027. The post Macron, Tinubu agree to postpone French President’s state visit to Nigeria until 2027 appeared first on Nairametrics .",
       "published": "2026-10-23T14:01:02+00:00",
       "fetched": "2026-10-23T20:41:47.858111+00:00"
-    },
-    {
-      "id": "97c4ae065091fcac",
-      "title": "Chude Jideonwo: The entrepreneur betting on Africa’s largest media conglomerate",
-      "link": "https://nairametrics.com/2026/10/23/chude-jideonwo-the-entrepreneur-betting-on-africas-largest-media-conglomerate/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "From a 15-year-old author finding his way into Nigeria’s media industry to an entrepreneur with ambitions of building Africa’s answer to Berkshire Hathaway, Chude Jideonwo has spent much of his life thinking about the power of media and the institutions behind it. The post Chude Jideonwo: The entrepreneur betting on Africa’s largest media conglomerate appeared first on Nairametrics .",
-      "published": "2026-10-23T13:51:59+00:00",
-      "fetched": "2026-10-23T20:41:47.858164+00:00"
-    },
-    {
-      "id": "9cdb28e63f4b596a",
-      "title": "First HoldCo’s pre-tax profit rises 60.84% to N911.24 billion in 9M 2026",
-      "link": "https://nairametrics.com/2026/10/23/first-holdcos-pre-tax-profit-rises-60-84-to-n911-24-billion-in-9m-2026266/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "First HoldCo Plc has reported a 60.84% year-on-year increase in group profit before tax to N911.24 billion for the nine months ended September 30, 2026, compared with N566.54 billion in the corresponding period of 2025. The post First HoldCo’s pre-tax profit rises 60.84% to N911.24 billion in 9M 2026 appeared first on Nairametrics .",
-      "published": "2026-10-23T13:26:00+00:00",
-      "fetched": "2026-10-23T20:41:47.858212+00:00"
-    },
-    {
-      "id": "ffba33e8279f3184",
-      "title": "UN appoints five Nigerians to global digital policy consultation group",
-      "link": "https://nairametrics.com/2026/10/23/un-appoints-five-nigerians-to-global-digital-policy-consultation-group/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Five Nigerians have been appointed to the United Nations Group on the Information Society’s Multistakeholder Consultation Group (UNGIS-MCG), a 92-member body established to strengthen stakeholder participation in global digital policy discussions. The post UN appoints five Nigerians to global digital policy consultation group appeared first on Nairametrics .",
-      "published": "2026-10-23T12:53:30+00:00",
-      "fetched": "2026-10-23T20:41:47.858259+00:00"
-    },
-    {
-      "id": "6a7fdeb3b0dbbcd8",
-      "title": "Africa’s deep tech ambitions are running into an ecosystem raised on software",
-      "link": "https://techcabal.com/2026/10/23/africa-deep-tech-ambitions-software/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Africa’s deep tech ambitions are growing, but limited infrastructure, funding, talent and policy support make building harder.",
-      "published": "2026-10-23T12:47:56+00:00",
-      "fetched": "2026-10-23T15:59:53.724620+00:00"
-    },
-    {
-      "id": "0aacb91310f220f6",
-      "title": "Nigeria’s Ebola case sparks travel dispute, Switzerland denies patient visited Congo",
-      "link": "https://nairametrics.com/2026/10/23/nigerias-ebola-case-sparks-travel-dispute-switzerland-denies-patient-visited-congo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Swiss government has denied that the Ebola patient identified in Nigeria travelled to the Democratic Republic of the Congo (DRC), contradicting earlier claims by Ugandan authorities about her movements before she fell ill. The post Nigeria’s Ebola case sparks travel dispute, Switzerland denies patient visited Congo appeared first on Nairametrics .",
-      "published": "2026-10-23T11:20:05+00:00",
-      "fetched": "2026-10-23T20:41:47.858321+00:00"
-    },
-    {
-      "id": "1c3623a1e3e28915",
-      "title": "Umahi Accuses Landmark Africa of Land Grabbing, Threatens Legal Action",
-      "link": "https://nairametrics.com/2026/10/23/umahi-accuses-landmark-africa-of-land-grabbing-threatens-legal-action/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s Minister of Works, David Umahi, has accused Landmark Africa of “land grabbing” along the Lagos beachfront and threatened legal action against its Chief Executive Officer, Paul Onwuanibe, over claims about the Lagos-Calabar Coastal Highway’s impact on the business. The post Umahi Accuses Landmark Africa of Land Grabbing, Threatens Legal Action appeared first on Nairametrics .",
-      "published": "2026-10-23T11:08:02+00:00",
-      "fetched": "2026-10-23T20:41:47.858370+00:00"
-    },
-    {
-      "id": "6a076720837227f9",
-      "title": "Why Bolt is practically giving away its annual subscription in Kenya",
-      "link": "https://techcabal.com/2026/10/23/bolt-plus-launched-in-kenya/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Bolt Plus faces two rivals. Uber One costs KES 280 ($2) monthly and covers rides, food and groceries. Glovo Prime costs KES 400 ($3) monthly for deliveries from restaurants, supermarkets and shops.",
-      "published": "2026-10-23T11:07:22+00:00",
-      "fetched": "2026-10-23T15:59:53.724649+00:00"
-    },
-    {
-      "id": "c7ef0559becfc6dc",
-      "title": "Ibile Holdings takes majority ownership of LASACO as stake rises to 51%",
-      "link": "https://nairametrics.com/2026/10/23/ibile-holdings-takes-majority-ownership-of-lasaco-as-stake-rises-to-51/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ibile Holdings Limited has increased its stake in LASACO Assurance Plc to 51%, crossing the 50% ownership threshold following the insurer’s 2026 rights issue. The post Ibile Holdings takes majority ownership of LASACO as stake rises to 51% appeared first on Nairametrics .",
-      "published": "2026-10-23T11:06:03+00:00",
-      "fetched": "2026-10-23T20:41:47.858411+00:00"
-    },
-    {
-      "id": "5cd2bd3909102a32",
-      "title": "CBN bills surge to N5.6 trillion, drive 74% of money supply increase in September",
-      "link": "https://nairametrics.com/2026/10/23/cbn-bills-surge-to-n5-6-trillion-drive-74-of-money-supply-increase-in-september/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Central Bank bills held by money-holding sectors surged to N5.60 trillion in September 2026 from just N9.68 billion in August, accounting for 74.4% of the monthly increase in the country’s broad money supply. The post CBN bills surge to N5.6 trillion, drive 74% of money supply increase in September appeared first on Nairametrics .",
-      "published": "2026-10-23T10:57:58+00:00",
-      "fetched": "2026-10-23T20:41:47.858460+00:00"
     }
   ]
 }

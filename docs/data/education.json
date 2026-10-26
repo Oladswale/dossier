@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-26T17:43:11.053335+00:00",
+  "updated": "2026-10-26T21:58:05.842248+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a299f940c1bcef69",
+      "title": "Hashim Sarkis to step down as dean of the School of Architecture and Planning",
+      "link": "https://news.mit.edu/2026/hashim-sarkis-steps-down-dean-school-architecture-planning-1026",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "During a dozen years of leadership, Sarkis championed projects that advanced research, education, and public engagement, and helped design thrive at MIT.",
+      "published": "2026-10-26T20:30:00+00:00",
+      "fetched": "2026-10-26T21:58:05.176007+00:00"
+    },
+    {
+      "id": "23f27f38cbc124d0",
+      "title": "At New York Climate Week 2026, MIT connects with a global network",
+      "link": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
+      "published": "2026-10-26T19:00:00+00:00",
+      "fetched": "2026-10-26T21:58:05.176044+00:00"
+    },
     {
       "id": "39e76c19c50742d6",
       "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
@@ -1482,26 +1502,6 @@
       "summary": "Combining a background in private law practice with a passion for problem-solving, Wilcoxson supports MIT's mission and principles through his work as counsel.",
       "published": "2026-09-16T20:55:00+00:00",
       "fetched": "2026-09-17T01:57:11.123775+00:00"
-    },
-    {
-      "id": "6752f0f229e8b893",
-      "title": "“Technology is the equalizer”",
-      "link": "https://news.mit.edu/2026/technology-is-the-equalizer-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Using knowledge gained from MIT’s free learning materials, an educator in rural India builds apps to reach students who can’t make it to school.",
-      "published": "2026-09-16T20:40:00+00:00",
-      "fetched": "2026-09-17T01:57:11.123810+00:00"
-    },
-    {
-      "id": "4916aeaf1def5d0b",
-      "title": "New artist residency program at MIT expands views of the cosmos",
-      "link": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions about the universe and translate them into an immersive multimedia experience.",
-      "published": "2026-09-16T18:30:00+00:00",
-      "fetched": "2026-09-16T20:30:10.171339+00:00"
     }
   ]
 }
