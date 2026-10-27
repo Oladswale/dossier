@@ -1,8 +1,108 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-27T02:33:59.237918+00:00",
+  "updated": "2026-10-27T11:08:11.960549+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0cd0c3bd6f7fed01",
+      "title": "David Bowie Immersive Concert Experience ‘Stage’ From Brett Morgen to World Premiere at Berlin Film Festival",
+      "link": "https://variety.com/2026/film/global/david-bowie-immersive-concert-experience-stage-berlin-1236931930/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The world premiere of the David Bowie immersive concert experience, “Stage,” has been set for Feb. 14 at Berlin’s Uber Arena, presented in association with the Berlin Film Festival. The experience, which combines previously unseen Bowie concert footage and immersive sound and light, is designed around recently discovered and restored footage from the 1978 Isolar [ ]",
+      "published": "2026-10-27T11:00:00+00:00",
+      "fetched": "2026-10-27T11:08:11.563407+00:00"
+    },
+    {
+      "id": "eff7a651dd1a1d13",
+      "title": "Noah Wyle Named People’s 2026 Sexiest Man Alive",
+      "link": "https://variety.com/2026/tv/news/noah-wyle-people-2026-sexiest-man-alive-1236931645/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After heating up emergency rooms since 1994, Noah Wyle has officially been named People’s Sexiest Man Alive for the first time. In his People interview for the prize, The Pitt star said he was in disbelief when he got the news. “I thought that sounded like a prank — just not in a million years [ ]",
+      "published": "2026-10-27T10:08:39+00:00",
+      "fetched": "2026-10-27T11:08:11.563437+00:00"
+    },
+    {
+      "id": "4c27aecbc9618a4c",
+      "title": "‘Tokyo Vice’ Producer, Netflix Executive Urge Changes to Japan’s Production Incentive at MPA Seminar as Government Readies Unified Content Body",
+      "link": "https://variety.com/2026/film/festivals/tokyo-vice-producer-netflix-exec-urge-japan-incentive-reform-mpa-1236931907/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Tokyo Vice” producer Alex Boden and Netflix production policy director Deb Richards urged changes to Japan’s international production incentive at the Motion Picture Association’s annual seminar at the Tokyo International Film Festival, as the government prepares a new body to bring its scattered content-industry support under one roof. Boden, the London-based producer who spent almost [ ]",
+      "published": "2026-10-27T08:45:36+00:00",
+      "fetched": "2026-10-27T11:08:11.563466+00:00"
+    },
+    {
+      "id": "9f925d5ffecfd281",
+      "title": "Netflix Docuseries ‘The One About Matthew Perry’ Is a Tragic, Mournful Portrait of Addiction: TV Review",
+      "link": "https://variety.com/2026/tv/reviews/the-one-about-matthew-perry-review-netflix-1236931448/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "There are not a lot of famous people in “The One About Matthew Perry.” None of the late actor’s “Friends” castmates sat for an interview for the three-part Netflix docuseries; neither did Perry’s longtime friend and “Simpsons” star Hank Azaria, who knew Perry as a striving young actor in L.A., or later collaborators like Bradley [ ]",
+      "published": "2026-10-27T07:01:00+00:00",
+      "fetched": "2026-10-27T11:08:11.563492+00:00"
+    },
+    {
+      "id": "b1614d318fd3c579",
+      "title": "Donnie Iris, Pittsburgh’s Favorite Rocker, Who Scored Hits With the Jaggerz and as a Solo Artist, Dies at 83",
+      "link": "https://variety.com/2026/music/obituaries-people-news/donnie-iris-dead-pittsburgh-rocker-jaggerz-rapper-ah-leah-1236931843/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Donnie Iris, regarded as Pittsburgh s biggest hometown rock hero for a six-decade career that included hit singles in the 1960s and 80s, died Monday at 83. He had been fighting bladder cancer for three years. Iris biggest chart success came as a member of the Jaggerz, who reached No.",
+      "published": "2026-10-27T04:30:55+00:00",
+      "fetched": "2026-10-27T11:08:11.563518+00:00"
+    },
+    {
+      "id": "45e2278fa8e0ca83",
+      "title": "‘Mirzapur’ Tops a Decade of Indian Streaming as New Commissions Fall, IMDb Report Finds (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/mirzapur-indian-streaming-commissions-fall-imdb-report-1236931765/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Viewer interest in Indian shows on IMDb rose about 17-fold over the past decade, even as the number of new shows and seasons commissioned in the country has dropped for two straight years, according to a new IMDb study that traces the growth of Indian streaming through its most popular titles. 10 Years of Streaming [ ]",
+      "published": "2026-10-27T04:30:00+00:00",
+      "fetched": "2026-10-27T11:08:11.563541+00:00"
+    },
+    {
+      "id": "e09fe7988234f951",
+      "title": "Tokyo Jury President Rolf de Heer on FIAPF’s New A-List: ‘It Matters a Great Deal to Some People, and Not at All to Others’",
+      "link": "https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "FIAPF’s decision to make A-list status official, with Tokyo among the 17 festivals named, is unlikely to change much about the event, according to the filmmaker leading its competition jury. Australian filmmaker Rolf de Heer, the director of “Bad Boy Bubby” and “Ten Canoes,” was asked at the 39th Tokyo International Film Festival’s jury press [ ]",
+      "published": "2026-10-27T03:41:10+00:00",
+      "fetched": "2026-10-27T11:08:11.563567+00:00"
+    },
+    {
+      "id": "2289db488f5b38fe",
+      "title": "Jon Stewart Trolls Trump’s Nicki Minaj Fixation After ‘Beautiful Ass’ Comment: ‘He’s Like Yogi Bear Floating Towards a Pie’",
+      "link": "https://variety.com/2026/tv/news/jon-stewart-nicki-minaj-trump-daily-show-1236931839/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On Monday night’s episode of “The Daily Show,” Jon Stewart trolled Donald Trump’s fixation on Nicki Minaj as the president’s odd remarks about the rapper s “beautiful ass” have been making the rounds across the internet. Stewart began the evening’s show by focusing on the midterm elections, and the issues that voters are, “for some reason,” [ ]",
+      "published": "2026-10-27T03:39:24+00:00",
+      "fetched": "2026-10-27T11:08:11.563593+00:00"
+    },
+    {
+      "id": "62d994ce612b220b",
+      "title": "‘Ghosts: The Possession of Button House’ Scares Up U.K., Ireland Box Office Win",
+      "link": "https://variety.com/2026/film/box-office/ghosts-the-possession-of-button-house-uk-ireland-box-office-1236931821/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Lionsgate U.K. s horror-comedy Ghosts: The Possession of Button House debuted at the summit of the U.K. and Ireland box office, collecting £2.4 million ($3.2 million) across its opening weekend.",
+      "published": "2026-10-27T03:28:11+00:00",
+      "fetched": "2026-10-27T11:08:11.563622+00:00"
+    },
+    {
+      "id": "8b5604507e5ec152",
+      "title": "Taylor Swift, Inducted Into Nashville Songwriters Hall of Fame, Says ‘There Is No Music Community Like This Music Community. I Know, I Checked All the Communities’",
+      "link": "https://variety.com/2026/music/news/taylor-swift-inducted-speech-nashville-songwriters-hall-fame-1236931794/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taylor Swift looked back on her earliest days crafting songs in Music City as she was inducted Monday into the Nashville Songwriters Hall of Fame, becoming its youngest member at 36. Swift was inducted by former tourmate Brad Paisley, whom she teased, and serenaded by Lainey Wilson, whom she praised, before launching into a lengthy [ ]",
+      "published": "2026-10-27T02:55:14+00:00",
+      "fetched": "2026-10-27T11:08:11.563646+00:00"
+    },
     {
       "id": "8c9938723c096b2e",
       "title": "Jay-Z to Headline Super Bowl LXI Halftime Show: ‘A Dream Come True’",
@@ -1402,106 +1502,6 @@
       "summary": "Bill Maher appears to be on good terms with Trumpworld. The 70-year-old HBO host joined Kid Rock and Stephen A. Smith as President Trump’s White House dinner guests earlier this month, and, following the dinner, Trump intimated to reporters that Maher’s criticisms of him on his late-night program are mostly bluster, and he “likes me [ ]",
       "published": "2026-10-24T02:27:40+00:00",
       "fetched": "2026-10-24T09:53:04.198427+00:00"
-    },
-    {
-      "id": "56a4d52fb17c4591",
-      "title": "Kartik Aaryan’s ‘Captain India’ Set Amid Houthi Conflict in Yemen (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/kartik-aaryan-captain-india-houthi-conflict-yemen-1236930090/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kartik Aaryan’s upcoming action drama “Captain India” is set amid the Houthi conflict in Yemen, Variety understands. The film marks Aaryan’s first turn as a pilot. Shimit Amin directs the project, which is based on a real humanitarian evacuation.",
-      "published": "2026-10-24T02:26:30+00:00",
-      "fetched": "2026-10-24T09:53:04.198454+00:00"
-    },
-    {
-      "id": "87326baa6e72d5ef",
-      "title": "Ken Atchity, ‘The Meg’ Producer and Literary Agent, Dies at 82",
-      "link": "https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kenneth Atchity, The Meg producer and literary agent, died on Monday. He was 82. Across his career as a literary manager, producer and writer, Atchity produced more than 30 films; wrote over 20 books; negotiated publishing and entertainment deals; and published hundreds of additional titles through his own imprint, Story Merchant Books.",
-      "published": "2026-10-24T00:59:59+00:00",
-      "fetched": "2026-10-24T02:08:12.186110+00:00"
-    },
-    {
-      "id": "cd4f284feca771d0",
-      "title": "The Best Noise-Canceling Headphones of 2026, Tested",
-      "link": "https://www.rollingstone.com/product-recommendations/tech/best-noise-canceling-headphones-1235398146/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From tried-and-true models to manufacturers that may not be on your radar, these are the best ANC headphones right now",
-      "published": "2026-10-23T23:48:05+00:00",
-      "fetched": "2026-10-24T02:08:12.425344+00:00"
-    },
-    {
-      "id": "a38e47dd26fb5f3a",
-      "title": "Ethan Klein Confirms He’ll ‘Remove Ownership’ From ‘H3 Podcast’ After Wife Accuses Him of Cheating",
-      "link": "https://www.rollingstone.com/culture/culture-news/ethan-klein-remove-ownership-h3-podcast-wife-accused-affair-1235647518/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Hila Klein, who co-hosts H3 Podcast with her husband, accused him of having an over six-month-long affair with an unnamed person",
-      "published": "2026-10-23T22:32:09+00:00",
-      "fetched": "2026-10-24T02:08:12.425386+00:00"
-    },
-    {
-      "id": "104448e81e8dc320",
-      "title": "Sacha Baron Cohen Says Donald Trump Has ‘Elements of Brilliance’ and ‘We Were Too Easy to Dismiss Him as a Nincompoop’",
-      "link": "https://variety.com/2026/film/news/sacha-baron-cohen-donald-trump-brilliance-nincompoop-ali-g-1236930008/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "20 years after retiring Ali G, Sacha Baron Cohen has dusted off his tracksuit collection and reprised the character for “Ali G: Who Iz I?,” now open in theaters before coming to Amazon Prime Oct. 30. The comedian first brought Ali G to audiences at the turn of the century with “Da Ali G Show,” [ ]",
-      "published": "2026-10-23T22:18:01+00:00",
-      "fetched": "2026-10-24T02:08:12.186170+00:00"
-    },
-    {
-      "id": "20bbe65e4f0d9c39",
-      "title": "Sandra Hüller Joins ‘Avengers: Doomsday’ in Cameo Role",
-      "link": "https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Oscar nominee Sandra Hüller will make a cameo in Marvel s Avengers: Doomsday. News of Hüller s top-secret role comes as directors Anthony and Joe Russo are in post-production on the project, ahead of its Dec. 18 release date.",
-      "published": "2026-10-23T22:02:10+00:00",
-      "fetched": "2026-10-24T02:08:12.186219+00:00"
-    },
-    {
-      "id": "12c382a5cde069b2",
-      "title": "Come, Grown Children: Here’s How to Stay in the ‘Hocus Pocus’ Town This October",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-stay-in-salem-ma-2026-book-airbnb-tours-1235636820/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Salem, Massachusetts, serves as the setting for the iconic nineties film; here’s where to book and what to do if you’re visiting this fall",
-      "published": "2026-10-23T21:17:06+00:00",
-      "fetched": "2026-10-24T02:08:12.425420+00:00"
-    },
-    {
-      "id": "fcc5c2a674b9f325",
-      "title": "Lily Allen’s Sex-Toy Advent Calendar Is a Different Kind of Stocking Stuffer",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/lily-allen-lovehoney-sex-toys-advent-calendar-shop-online-1235646991/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer's curated Lovehoney collection features an Advent calendar with an array of different sex toys, plus five more standalone products",
-      "published": "2026-10-23T21:07:00+00:00",
-      "fetched": "2026-10-24T02:08:12.425447+00:00"
-    },
-    {
-      "id": "6aeef89de8f47873",
-      "title": "Stevie Wonder Files Lawsuit to Evict Woman Living on His Property Rent-Free for 38 Years",
-      "link": "https://www.rollingstone.com/music/music-news/stevie-wonder-lawsuit-evict-woman-rent-free-house-1235647480/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Carmen Efferson, reportedly singer's one-time fiancée, had been living in Wonder's Hollywood Hills home since 1988, but oral arrangement broke down over insurance inspectors",
-      "published": "2026-10-23T21:00:27+00:00",
-      "fetched": "2026-10-24T02:08:12.425477+00:00"
-    },
-    {
-      "id": "f355b91a399b37fa",
-      "title": "‘Law & Order: SVU’ Sets Stephanie March to Return as Alexandra Cabot",
-      "link": "https://variety.com/2026/tv/news/law-order-svu-stephanie-march-return-alexandra-cabot-1236929966/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Assistant district attorney Alexandra Cabot is back. Stephanie March will appear in the ninth episode of Law Order: Special Victims Unit Season 28 to reprise the role she has played in more than 100 episodes. March was a member of the main SVU cast from Season 2 in 2000 to Season 5 in 2003, [ ]",
-      "published": "2026-10-23T20:30:00+00:00",
-      "fetched": "2026-10-23T20:42:02.625133+00:00"
     }
   ]
 }

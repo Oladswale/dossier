@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-27T02:34:00.929027+00:00",
+  "updated": "2026-10-27T11:08:13.459898+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "dbb304d7ae4ac21a",
+      "title": "Fed Expected To Leave Interest Rates Unchanged With Midterms 1 Week Away",
+      "link": "https://www.realtor.com/news/real-estate-news/fed-interest-rate-meeting-decision-mortgages-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Fed Chairman Kevin Warsh and the other members of the Federal Open Market Committee will cast their votes on rate policy on Wednesday.",
+      "published": "2026-10-27T09:00:00+00:00",
+      "fetched": "2026-10-27T11:08:13.459544+00:00"
+    },
+    {
+      "id": "01ed56d196dec707",
+      "title": "Is the Housing Affordability Crisis Becoming a Generational Wealth Fight?",
+      "link": "https://www.realtor.com/news/trends/housing-affordability-generational-wealth-2026-midterms/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With the midterms a week away, one of the top issues for young voters is housing affordability and how it directly affects them.",
+      "published": "2026-10-27T08:47:00+00:00",
+      "fetched": "2026-10-27T11:08:13.459563+00:00"
+    },
+    {
+      "id": "6186516892eb930e",
+      "title": "Manhattan Renters Now Need To Make $215K To Afford the Typical Apartment, as Rents Surge",
+      "link": "https://www.realtor.com/news/trends/nyc-rent-manhattan-income-required-q3-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rents in Manhattan rose 8.3% year over year, pushing those who can afford it to look to buying instead.",
+      "published": "2026-10-27T08:19:00+00:00",
+      "fetched": "2026-10-27T11:08:13.459577+00:00"
+    },
+    {
+      "id": "4fc0e186bb26e8a2",
+      "title": "Boca Raton Waterfront Megamansion Is Listed for $125 Million With a Wellness Wing and Custom Home Theater",
+      "link": "https://www.realtor.com/news/unique-homes/boca-raton-waterfront-megamansion-125-million-most-expensive/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A waterfront estate aimed at the ultrawealthy includes every amenity imaginable, from a wellness wing to a custom home theater.",
+      "published": "2026-10-27T08:07:00+00:00",
+      "fetched": "2026-10-27T11:08:13.459591+00:00"
+    },
     {
       "id": "f775271693512fe0",
       "title": "Manhattan Luxury Market Booms as Wealthy Buyers Shrug Off Pied-à-Terre Tax",
@@ -1462,46 +1502,6 @@
       "summary": "Inside Josh Cellars founder’s $4.25M Cape Cod estate featuring a secret wine room, chef’s kitchen, and serene Scargo Lake access.",
       "published": "2026-10-18T18:17:00+00:00",
       "fetched": "2026-10-18T19:44:35.318127+00:00"
-    },
-    {
-      "id": "658b69777d2f347a",
-      "title": "The Ex-Microsoft Exec Who Outbid Cher for an Antique Archway Is Selling His $9.75 Million Seattle Estate",
-      "link": "https://www.realtor.com/news/unique-homes/seattle-washington-park-mansion-cher-archway-microsoft-exec/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An ex-Microsoft exec's $9.75M Seattle estate—featuring European antiques that outbid Cher—just got a $2M price cut. See inside.",
-      "published": "2026-10-18T17:43:00+00:00",
-      "fetched": "2026-10-18T19:44:35.318171+00:00"
-    },
-    {
-      "id": "74534a76ac34bcee",
-      "title": "This 1891 Church Loft Is Listed for $750K—Step Inside To See Its Unexpected Transformation",
-      "link": "https://www.realtor.com/news/unique-homes/denver-church-loft-for-sale-sanctuary-lofts/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Look inside a $749,900 Denver loft in an 1891 converted church featuring stained glass, historic brickwork, and modern open-plan living.",
-      "published": "2026-10-18T16:14:00+00:00",
-      "fetched": "2026-10-18T19:44:35.318206+00:00"
-    },
-    {
-      "id": "c64a5ec50832b68e",
-      "title": "This Turnkey 1960s Vermont A-Frame Comes Fully Furnished for $399K—Firewood Included",
-      "link": "https://www.realtor.com/news/unique-homes/vermont-furnished-a-frame-cabin-for-sale-399k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A sweet 1965 A-frame cabin in Wilmington, VT, is listed for $399,000. It's fully furnished and just 10 minutes from Mount Snow ski slopes.",
-      "published": "2026-10-18T15:30:00+00:00",
-      "fetched": "2026-10-18T19:44:35.318240+00:00"
-    },
-    {
-      "id": "c798df2ba06ada5d",
-      "title": "Iconic 1880s Waterfront Social Club Hits Market for First Time in 50 Years—With a $1.2 Million Price Cut",
-      "link": "https://www.realtor.com/news/unique-homes/narragansett-reading-room-price-drop/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore Narragansett's historic Reading Room estate. Listed for the first time in 50 years, this Victorian got a $1.2M price drop.",
-      "published": "2026-10-18T14:10:00+00:00",
-      "fetched": "2026-10-18T14:56:47.046541+00:00"
     }
   ]
 }
