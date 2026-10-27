@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-26T21:58:05.842248+00:00",
+  "updated": "2026-10-27T02:34:00.190264+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d32b81a1c253dd9f",
+      "title": "J-PAL North America launches Homelessness Evaluation Resource Hub to drive evidence-informed approaches to housing stability",
+      "link": "https://news.mit.edu/2026/j-pal-north-america-launches-homelessness-evaluation-resource-hub-1026",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The hub serves as a free, online repository of essential content for policymakers, practitioners, and researchers seeking to leverage rigorous research to inform their approaches to homelessness.",
+      "published": "2026-10-26T23:00:00+00:00",
+      "fetched": "2026-10-27T02:33:59.487010+00:00"
+    },
     {
       "id": "a299f940c1bcef69",
       "title": "Hashim Sarkis to step down as dean of the School of Architecture and Planning",
@@ -1492,16 +1502,6 @@
       "summary": "The autonomous system could speed up testing of high-tech materials for applications such as solar cells, sensors, video displays, and quantum technologies.",
       "published": "2026-09-17T04:00:00+00:00",
       "fetched": "2026-09-17T10:31:06.931022+00:00"
-    },
-    {
-      "id": "30a983f4f5fd0628",
-      "title": "Faces of MIT: Jay Wilcoxson",
-      "link": "https://news.mit.edu/2026/faces-of-mit-jay-wilcoxson-0916",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Combining a background in private law practice with a passion for problem-solving, Wilcoxson supports MIT's mission and principles through his work as counsel.",
-      "published": "2026-09-16T20:55:00+00:00",
-      "fetched": "2026-09-17T01:57:11.123775+00:00"
     }
   ]
 }

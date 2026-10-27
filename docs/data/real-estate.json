@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-26T21:58:06.411663+00:00",
+  "updated": "2026-10-27T02:34:00.929027+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f775271693512fe0",
+      "title": "Manhattan Luxury Market Booms as Wealthy Buyers Shrug Off Pied-à-Terre Tax",
+      "link": "https://www.realtor.com/news/trends/manhattan-luxury-market-prices-pied-a-terre-tax-olshan-october-26-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Last week, 36 contracts were signed at $4 million and above, eight more than the previous week, and the most since the first week of June.",
+      "published": "2026-10-26T21:59:03+00:00",
+      "fetched": "2026-10-27T02:34:00.928369+00:00"
+    },
     {
       "id": "601f1941f9c30a91",
       "title": "Sophia Bush Explains Why She Kept Her ‘Embarrassing’ Affinity for Interior Design Out of Her Memoir",
@@ -182,6 +192,16 @@
       "summary": "Have you ever thought, maybe real estate investing isn’t worth it anymore? Lindsay Barrientos didn’t start buying rentals after the 2008 crash or ride the low-interest-rate wave in 2021. She [ ]",
       "published": "2026-10-26T11:00:50+00:00",
       "fetched": "2026-10-26T11:38:21.070252+00:00"
+    },
+    {
+      "id": "19bd5c5b806288e6",
+      "title": "Turning $12K in Rent Payments Into a $1.3M Real Estate Portfolio",
+      "link": "https://www.biggerpockets.com/blog/rookie-788",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "So you ran the numbers and the cash flow shows negative? You don’t have to give up on rentals. With a few smarter assumptions, the right strategy, or the right [ ]",
+      "published": "2026-10-26T11:00:14+00:00",
+      "fetched": "2026-10-27T02:34:00.575063+00:00"
     },
     {
       "id": "f359e92e9f79bcac",
@@ -1482,26 +1502,6 @@
       "summary": "Explore Narragansett's historic Reading Room estate. Listed for the first time in 50 years, this Victorian got a $1.2M price drop.",
       "published": "2026-10-18T14:10:00+00:00",
       "fetched": "2026-10-18T14:56:47.046541+00:00"
-    },
-    {
-      "id": "4489ba28cc846644",
-      "title": "Ritz-Carlton Penthouse on Fort Lauderdale Beach To Be Auctioned to Highest Bidder",
-      "link": "https://www.realtor.com/news/trends/ritz-carlton-penthouse-fort-lauderdale-beach-auction/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An oceanfront single-level penthouse in the Ritz-Carlton Residences on Fort Lauderdale Beach will soon be up for grabs at auction.",
-      "published": "2026-10-18T10:02:00+00:00",
-      "fetched": "2026-10-18T14:56:47.046579+00:00"
-    },
-    {
-      "id": "ad88a3d5c5ba2f98",
-      "title": "New Luxury Community Offers Rare Waterfront Living Near the Las Vegas Strip",
-      "link": "https://www.realtor.com/news/trends/la-cova-henderson-southshore-lake-las-vegas/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "La Cova, inside of the exclusive SouthShore Lake Las Vegas community in Henderson, NV offers golf course living without the cost.",
-      "published": "2026-10-17T20:40:00+00:00",
-      "fetched": "2026-10-18T01:41:44.736264+00:00"
     }
   ]
 }
