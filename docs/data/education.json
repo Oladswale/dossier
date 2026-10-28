@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-28T11:48:39.574729+00:00",
+  "updated": "2026-10-28T17:29:01.862718+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0a7d5bc2976e4709",
+      "title": "3 Questions: Why infrastructure is entering a defining era",
+      "link": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
+      "published": "2026-10-28T16:00:00+00:00",
+      "fetched": "2026-10-28T17:29:01.288956+00:00"
+    },
     {
       "id": "2120b5720fe3b8a5",
       "title": "Inside the Making of the Sagrada Família, Barcelona’s 144-Year Megaproject",
@@ -1492,16 +1502,6 @@
       "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
       "published": "2026-09-18T16:30:00+00:00",
       "fetched": "2026-09-18T20:03:11.458298+00:00"
-    },
-    {
-      "id": "e373c9cb0e3ed822",
-      "title": "A new understanding of how enzymes influence bacterial protein production",
-      "link": "https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Novel research expands scientific understanding of how RNA shapes the reading of genetic information.",
-      "published": "2026-09-18T16:20:00+00:00",
-      "fetched": "2026-09-18T20:03:11.458319+00:00"
     }
   ]
 }
