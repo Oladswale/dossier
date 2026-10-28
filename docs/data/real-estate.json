@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-28T17:29:02.679271+00:00",
+  "updated": "2026-10-28T21:56:21.743393+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b38b516f9c3c04c6",
+      "title": "Mike Tyson’s Former Hollywood Hills Home Has Hit the Market for $3.5 Million—as Boxer’s Previous Connecticut Mansion Struggles To Find a Buyer",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/mike-tyson-former-hollywood-hills-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 60-year-old boxer previously lived in the dwelling, which features four bedrooms, 4.5 bathrooms, and a gorgeous outdoor pool space.",
+      "published": "2026-10-28T21:47:05+00:00",
+      "fetched": "2026-10-28T21:56:21.742663+00:00"
+    },
+    {
+      "id": "de2845c66a64dda5",
+      "title": "Home Insurance ‘Loyalty Tax’: How Staying With Your Agent Is Draining Your Wallet",
+      "link": "https://www.realtor.com/advice/finance/homeowners-insurance-auto-renew-costs-pros-cons/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Being a loyal customer typically is a good thing, but when it comes to insurance, it may behoove you to shop around every so often.",
+      "published": "2026-10-28T21:42:13+00:00",
+      "fetched": "2026-10-28T21:56:21.742702+00:00"
+    },
+    {
+      "id": "1d3fb0733b84587e",
+      "title": "EXCLUSIVE: TikTokers Savannah and Cole LaBrant Trim $200K From Price of Tennessee Family Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/tiktokers-savannah-cole-labrant-cut-price-of-tennessee-family-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Savannah, 33, and Cole, 29, purchased the elegant Nashville home in November 2022 for $4.5 million. They first listed it in October 2024.",
+      "published": "2026-10-28T20:41:44+00:00",
+      "fetched": "2026-10-28T21:56:21.742735+00:00"
+    },
+    {
+      "id": "547f4ad8987e223a",
+      "title": "Home Prices Are Falling Fastest in These Cities, Giving Buyers an Edge",
+      "link": "https://www.realtor.com/news/trends/home-prices-falling-fast-cities-austin-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Prices are declining rapidly in many of the largest U.S. housing markets. One Texas metro area saw prices fall nearly 10% in a single year.",
+      "published": "2026-10-28T20:34:46+00:00",
+      "fetched": "2026-10-28T21:56:21.742764+00:00"
+    },
+    {
+      "id": "c8b4d42386e9aac1",
+      "title": "Richard Simmons’ Property Sells for $3.8 Million as New Buyer Plans To ‘Restore’ the Home—Over a Year After the Fitness Icon’s Death",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/richard-simmons-property-sold-over-year-after-his-death/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Simmons, who died days after his 76th birthday, had owned the home for decades—and spent an increasing amount of time hiding away there.",
+      "published": "2026-10-28T19:04:52+00:00",
+      "fetched": "2026-10-28T21:56:21.742801+00:00"
+    },
+    {
+      "id": "99bda7d5170ee769",
+      "title": "Billionaires Fighting California’s Wealth Tax Have Put $333 Million Into Political Ad Machine Ahead of Elections",
+      "link": "https://www.realtor.com/news/trends/billionaires-california-wealth-tax-ballot-midterm-elections/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "California's billionaires are relying on a well-funded PAC to defeat Proposition 40, a proposed wealth tax on the state's ultrarich.",
+      "published": "2026-10-28T18:02:42+00:00",
+      "fetched": "2026-10-28T21:56:21.742831+00:00"
+    },
+    {
+      "id": "47f6406362e4ec60",
+      "title": "Fed Pauses Interest Rate Hikes for Now as Key Midterm Elections Loom",
+      "link": "https://www.realtor.com/news/real-estate-news/fed-meeting-decision-interest-rate-warsh-speech-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Fed Chairman Kevin Warsh joined the majority of the FOMC to vote in favor of leaving the benchmark interest rate unchanged on Wednesday.",
+      "published": "2026-10-28T18:01:28+00:00",
+      "fetched": "2026-10-28T21:56:21.742859+00:00"
+    },
+    {
+      "id": "ef620da6e598aca4",
+      "title": "Jessa Duggar Is Expecting Baby No. 7—Inside the Midcentury ‘Fixer-Upper’ the Growing Family Calls Home",
+      "link": "https://www.realtor.com/news/reality-tv/jessa-duggar-ben-seewald-inside-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"19 Kids and Counting\" alum shared that she is preparing to welcome a seventh child into the growing family's Arkansas home.",
+      "published": "2026-10-28T17:46:18+00:00",
+      "fetched": "2026-10-28T21:56:21.742888+00:00"
+    },
+    {
+      "id": "53f35ab1081c931e",
+      "title": "Do Turnkey Rentals Deliver? A Look at Rent to Retirement’s Track Record",
+      "link": "https://www.biggerpockets.com/blog/do-turnkey-rentals-deliver-a-look-at-rent-to-retirements-track-record",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Turnkey rentals are built on a simple promise: The provider delivers a rent-ready home, places a tenant, lines up property management, and gives the buyer a projection of what the [ ]",
+      "published": "2026-10-28T17:31:41+00:00",
+      "fetched": "2026-10-28T21:56:21.384329+00:00"
+    },
     {
       "id": "23199987773c27b2",
       "title": "Jennifer Lopez Reveals What Lives ‘Rent Free’ in Her Head as She Helps Fans Cover Their Housing Costs",
@@ -52,6 +142,16 @@
       "summary": "Mortgage rates declined for the second week in a row, offering would-be borrowers slight relief.",
       "published": "2026-10-28T13:49:16+00:00",
       "fetched": "2026-10-28T17:29:02.678659+00:00"
+    },
+    {
+      "id": "5d2ec97b194841a1",
+      "title": "Pregnant Savannah Chrisley Addresses ‘Huge’ Age Gap With Fiancé—as It’s Revealed He Was Imprisoned With Her Dad",
+      "link": "https://www.realtor.com/news/reality-tv/pregnant-savannah-chrisley-age-gap-fiance-identity/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 29-year-old real estate agent announced on Oct. 27 that she was both pregnant and engaged to a mystery man.",
+      "published": "2026-10-28T13:46:45+00:00",
+      "fetched": "2026-10-28T21:56:21.742979+00:00"
     },
     {
       "id": "b90ecbae09f26cb7",
@@ -1402,106 +1502,6 @@
       "summary": "Before you fill your garbage bin with has-been giant squash, we've got some ideas for ways to recycle them. Check out these 11 ways to repurpose your pumpkins, and maybe you'll be inspired!",
       "published": "2026-10-20T19:32:00+00:00",
       "fetched": "2026-10-20T20:56:31.911930+00:00"
-    },
-    {
-      "id": "6d4b8ea9ce80b4e8",
-      "title": "Frank Lloyd Wright Home Taliesin West Is Closed Indefinitely After Fatal Accident",
-      "link": "https://www.realtor.com/news/trends/frank-lloyd-wright-taliesin-west-closed-indefinitely-death-college-president/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A visiting dignitary was on a tour of Wright’s renowned Taliesin West home on Friday when he was struck by roofing material.",
-      "published": "2026-10-20T19:29:00+00:00",
-      "fetched": "2026-10-20T20:56:31.911965+00:00"
-    },
-    {
-      "id": "1cbe8367cae76dc6",
-      "title": "Tyler Perry Snaps Up $30 Million Puerto Rico Mansion While His $57 Million California Estate Remains Unsold",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/tyler-perry-buys-mansion-in-puerto-rico/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The movie mogul, 57, recently picked up the pad, which sprawls across 14,475 square feet and is situated on a 1.47-acre lot.",
-      "published": "2026-10-20T18:58:55+00:00",
-      "fetched": "2026-10-20T20:56:31.911994+00:00"
-    },
-    {
-      "id": "c5b6bea451cedc6a",
-      "title": "‘Real Housewives’ Star Lisa Barlow Reveals She Just Put a ‘Stunning’ Addition on Her Salt Lake City Dream Home",
-      "link": "https://www.realtor.com/news/reality-tv/lisa-barlow-housewives-new-addition-salt-lake-city-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The reality TV star says she's currently obsessed with home renovation, years after sharing plans to build an amenity-filled home nearby.",
-      "published": "2026-10-20T17:56:26+00:00",
-      "fetched": "2026-10-20T20:56:31.912026+00:00"
-    },
-    {
-      "id": "813dd491e9c296b3",
-      "title": "Inside a $1.2 Million Time Capsule—Complete With Indoor Pool and 3 Kitchens",
-      "link": "https://www.realtor.com/news/unique-homes/indoor-pool-home-goose-creek-sc/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nestled in Goose Creek, SC, this 1958 \"architectural chameleon\" offers 5,390 square feet of untouched midcentury quirk and an indoor pool.",
-      "published": "2026-10-20T17:22:12+00:00",
-      "fetched": "2026-10-20T20:56:31.912055+00:00"
-    },
-    {
-      "id": "bf62bcb0facf711c",
-      "title": "Alex Cooper Welcomes First Baby After Revealing Nursery Plans Inside $11 Million Los Angeles Mansion",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/alex-cooper-matt-kaplan-welcome-baby-los-angeles-home-nursery/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 32-year-old internet personality took to Instagram to reveal that she and Kaplan, 42, were officially parents.",
-      "published": "2026-10-20T16:05:47+00:00",
-      "fetched": "2026-10-20T20:56:31.912080+00:00"
-    },
-    {
-      "id": "4539a5a6d300c6c1",
-      "title": "Robert F. Kennedy’s Granddaughter Kyle Kennedy Dies at 42 at Massachusetts Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/robert-kennedy-granddaughter-kyle-dead-massachusetts-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Kennedy passed away on Sept. 21, and the cause of death is still pending.",
-      "published": "2026-10-20T15:32:57+00:00",
-      "fetched": "2026-10-20T20:56:31.912106+00:00"
-    },
-    {
-      "id": "44ad8f0798edcead",
-      "title": "Pending Home Sales Plunge to All-Time Low in Troubling Sign for Fall Housing Market",
-      "link": "https://www.realtor.com/news/trends/pending-home-sales-fall-september-2026-housing-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Contract signings fell 7.3% last month compared to August, and were down 11.3% compared to September 2025.",
-      "published": "2026-10-20T14:00:00+00:00",
-      "fetched": "2026-10-20T20:56:31.912132+00:00"
-    },
-    {
-      "id": "56df051d4925d35e",
-      "title": "Pending Home Sales Plunge 7.3% in Troubling Sign for Fall Housing Market",
-      "link": "https://www.realtor.com/news/trends/pending-home-sales-fall-september-2026-housing-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Contract signings fell 7.3% last month compared to August, and were down plunged 11.3% compared to September 2025.",
-      "published": "2026-10-20T14:00:00+00:00",
-      "fetched": "2026-10-20T15:53:29.165417+00:00"
-    },
-    {
-      "id": "bc593f0dbb3137bb",
-      "title": "Reimagined Cobble Hill Townhouse Closes Under Asking for $12.25 Million",
-      "link": "https://www.realtor.com/news/unique-homes/brooklyn-cobble-hill-townhouse-sale-487-henry-street/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Look inside the reimagined Cobble Hill townhouse that just sold off market for $12.25 million after a celebrity dispute and price reduction.",
-      "published": "2026-10-20T13:36:05+00:00",
-      "fetched": "2026-10-20T15:53:29.165456+00:00"
-    },
-    {
-      "id": "6aebcc4e6a1a8be0",
-      "title": "Home Construction Drops as Builders Confront Higher Mortgage Rates",
-      "link": "https://www.realtor.com/news/trends/residential-starts-home-construction-census-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Single-family housing starts fell last month to a seasonally adjusted annual rate of 859,000, down 4.6% from August.",
-      "published": "2026-10-20T13:33:42+00:00",
-      "fetched": "2026-10-20T15:53:29.165484+00:00"
     }
   ]
 }

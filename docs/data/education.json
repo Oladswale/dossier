@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-10-28T17:29:01.862718+00:00",
+  "updated": "2026-10-28T21:56:20.806682+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "219dea328df4e170",
+      "title": "Capturing the complete process of embryonic development",
+      "link": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By tracking over 1 million cells, researchers created a detailed map of embryonic development in mice. It could provide development and disease insights.",
+      "published": "2026-10-28T20:30:00+00:00",
+      "fetched": "2026-10-28T21:56:19.996292+00:00"
+    },
+    {
+      "id": "6d1c0c712f9d2078",
+      "title": "Seven MIT affiliates elected to the National Academy of Medicine for 2026",
+      "link": "https://news.mit.edu/2026/mit-affiliates-elected-national-academy-medicine-1028",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Michael Yaffe and six MIT alumni are honored for their outstanding professional achievement and commitment to service.",
+      "published": "2026-10-28T18:55:00+00:00",
+      "fetched": "2026-10-28T21:56:19.996329+00:00"
+    },
+    {
+      "id": "0c3415257a0782b9",
+      "title": "How the biggest Alzheimer’s risk gene disrupts the process of insulating neurons",
+      "link": "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers showed that the APOE4 gene variant suppresses molecular signaling needed for oligodendrocytes to myelinate neurons and also demonstrated a proof-of-concept fix.",
+      "published": "2026-10-28T18:25:00+00:00",
+      "fetched": "2026-10-28T21:56:19.996366+00:00"
+    },
+    {
+      "id": "3d6069b91abc8c08",
+      "title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
+      "link": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT engineers designed a robotic enteroscope that can inch through the hard-to-reach small intestine, making biopsies and drug delivery easier.",
+      "published": "2026-10-28T18:00:00+00:00",
+      "fetched": "2026-10-28T21:56:19.996396+00:00"
+    },
     {
       "id": "0a7d5bc2976e4709",
       "title": "3 Questions: Why infrastructure is entering a defining era",
@@ -1462,46 +1502,6 @@
       "summary": "We venerate Galileo Galilei for daring to speak the scientific truth in the face of severe institutional opposition. He publicly acknowledged that the Earth revolves around the Sun in a time when the Church would rather he didn’t, displaying a bloody-mindedness that he seems to have acquired with age. Decades earlier, in the first stage [ ]",
       "published": "2026-09-21T09:00:34+00:00",
       "fetched": "2026-09-21T11:12:20.918104+00:00"
-    },
-    {
-      "id": "e7f011c5a77fc225",
-      "title": "Unmasking “zombie cells” in aging tissue with an AI-powered barcode",
-      "link": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Tracking down senescent cells, which accumulate as we age, could help diagnose age-related disorders and guide researchers working on new treatments.",
-      "published": "2026-09-21T09:00:00+00:00",
-      "fetched": "2026-09-21T11:12:19.459955+00:00"
-    },
-    {
-      "id": "4840b86097418747",
-      "title": "Listen to 4+ Hours of Jazz & Classical Music from Haruki Murakami’s Novels",
-      "link": "https://www.openculture.com/2026/09/listen-to-4-hours-of-jazz-classical-music-from-haruki-murakamis-novels.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Before he became a novelist, Haruki Murakami ran a jazz bar in Tokyo, and music has filled his novels ever since. For your listening pleasure, NTS Radio has created two playlists of the jazz and classical music referenced in his fiction. Together, they run nearly five hours and feature everyone from John Coltrane, Bill Evans, [ ]",
-      "published": "2026-09-21T07:30:33+00:00",
-      "fetched": "2026-09-21T11:12:20.918161+00:00"
-    },
-    {
-      "id": "d720f519ee3897c4",
-      "title": "MIT researchers are mapping extreme weather risks — and building tools to act on them",
-      "link": "https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The Climate Grand Challenges “New World of Weather” project shows how modeling, planning tools, and infrastructure analysis are translating research into real-world resilience.",
-      "published": "2026-09-18T16:55:00+00:00",
-      "fetched": "2026-09-18T20:03:11.458269+00:00"
-    },
-    {
-      "id": "6696bee795b622e7",
-      "title": "A new chapter for MIT Reads",
-      "link": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
-      "published": "2026-09-18T16:30:00+00:00",
-      "fetched": "2026-09-18T20:03:11.458298+00:00"
     }
   ]
 }

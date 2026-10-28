@@ -1,8 +1,138 @@
 {
   "category": "finance",
-  "updated": "2026-10-28T17:28:45.717066+00:00",
+  "updated": "2026-10-28T21:56:04.734210+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7e3f79e2df281d15",
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "published": "2026-10-28T21:45:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496052+00:00"
+    },
+    {
+      "id": "e99ec87fcdab2f64",
+      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+      "published": "2026-10-28T21:30:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496101+00:00"
+    },
+    {
+      "id": "8f38d42bdd9fdc18",
+      "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
+      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
+      "published": "2026-10-28T21:27:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496138+00:00"
+    },
+    {
+      "id": "9ed86dfa008db7db",
+      "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+      "published": "2026-10-28T21:07:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496170+00:00"
+    },
+    {
+      "id": "2b0133e4deb4d92b",
+      "title": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
+      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
+      "published": "2026-10-28T20:58:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496208+00:00"
+    },
+    {
+      "id": "24e507ac11951736",
+      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
+      "published": "2026-10-28T20:49:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496238+00:00"
+    },
+    {
+      "id": "417c9194f6292957",
+      "title": "Here’s what just sent Oracle’s stock soaring",
+      "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
+      "published": "2026-10-28T20:38:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496276+00:00"
+    },
+    {
+      "id": "26491bbcd5533e7f",
+      "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+      "published": "2026-10-28T20:18:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496304+00:00"
+    },
+    {
+      "id": "b96bda1f97a185f5",
+      "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+      "link": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analyst predicts the ‘mother of all maintenance seasons’ for refineries that have been running at high capacity",
+      "published": "2026-10-28T20:16:00+00:00",
+      "fetched": "2026-10-28T21:56:03.496333+00:00"
+    },
+    {
+      "id": "d419e15fb356b83d",
+      "title": "NGX stocks shed N718.95 billion in midweek bearish run as ASI dips 1,107 points",
+      "link": "https://nairametrics.com/2026/10/28/ngx-stocks-shed-n718-95-billion-in-midweek-bearish-run-as-asi-dips-1107-points/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market reversed recent gains on Wednesday, October 28, 2026, erasing N718.95 billion in equity market value. The post NGX stocks shed N718.95 billion in midweek bearish run as ASI dips 1,107 points appeared first on Nairametrics .",
+      "published": "2026-10-28T18:50:17+00:00",
+      "fetched": "2026-10-28T21:56:04.194115+00:00"
+    },
+    {
+      "id": "6ede42c40081fd9f",
+      "title": "Flutterwave CEO on why African fintechs want to become banks",
+      "link": "https://techcabal.com/2026/10/28/flutterwave-ceo-on-fintechs-and-banking/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Flutterwave CEO, Olugbenga Agboola argued that African fintechs are becoming banks because payments alone are no longer enough.",
+      "published": "2026-10-28T18:25:21+00:00",
+      "fetched": "2026-10-28T21:56:04.733992+00:00"
+    },
+    {
+      "id": "beb95908decedfdf",
+      "title": "How Africa’s fragmented payment systems are holding back cross-border trade",
+      "link": "https://techcabal.com/2026/10/28/cross-border-trade-fragment-moonshot/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "African countries must harmonise regulatory requirements, connect payment systems and invest in shared financial infrastructure to make cross-border trade faster and cheaper.",
+      "published": "2026-10-28T18:09:16+00:00",
+      "fetched": "2026-10-28T21:56:04.734035+00:00"
+    },
+    {
+      "id": "c1aabdd842edb5a7",
+      "title": "Botswana seeks Dangote supply deal to shield against fuel shocks",
+      "link": "https://nairametrics.com/2026/10/28/botswana-seeks-dangote-supply-deal-to-shield-against-fuel-shocks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Botswana is seeking a fuel supply agreement with Aliko Dangote as part of efforts to diversify its petroleum sources and protect the country against supply disruptions linked to the Iran war. The post Botswana seeks Dangote supply deal to shield against fuel shocks appeared first on Nairametrics .",
+      "published": "2026-10-28T17:49:28+00:00",
+      "fetched": "2026-10-28T21:56:04.194164+00:00"
+    },
     {
       "id": "383ecfd560c952bc",
       "title": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
@@ -1372,136 +1502,6 @@
       "summary": "Songmei brings more than two decades of corporate and institutional banking leadership to scale Flutterwave s enterprise payment rails and commercial partnerships across Greater China and Asia Flutterwave, Africa’s leading payments technology company, has today announced the appointment of Guo Songmei as Regional Vice President of Sales and Partnerships, Greater China and Asia. Based across Shenzhen, [ ] The post Flutterwave Appoints Guo Songmei as Regional VP of Sales and Partnerships, Greater China and Asia to Expand Its Asia–Africa Trade appeared first on Nairametrics .",
       "published": "2026-10-26T17:29:16+00:00",
       "fetched": "2026-10-26T17:42:54.503481+00:00"
-    },
-    {
-      "id": "9a1f94c2af0bf8b8",
-      "title": "From Compliance to Confidence: How ESG Is Reshaping Shareholder Administration in Nigeria",
-      "link": "https://nairametrics.com/2026/10/26/from-compliance-to-confidence-how-esg-is-reshaping-shareholder-administration-in-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Next Test of Governance Is Operational Governance is no longer judged by what companies say, it is increasingly judged by what they can prove. For listed companies, Environmental, Social, and Governance (ESG) related issues are increasingly moving beyond policy statements and sustainability reports. The next test of credibility is whether governance can be evidenced [ ] The post From Compliance to Confidence: How ESG Is Reshaping Shareholder Administration in Nigeria appeared first on Nairametrics .",
-      "published": "2026-10-26T17:27:04+00:00",
-      "fetched": "2026-10-26T17:42:54.503550+00:00"
-    },
-    {
-      "id": "66021a61f8110eca",
-      "title": "From AI Experimentation to Enterprise Transformation: Why People Must Come First",
-      "link": "https://nairametrics.com/2026/10/26/from-ai-experimentation-to-enterprise-transformation-why-people-must-come-first/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Artificial intelligence is moving into the workplace faster than many organisations can adapt. Employees are experimenting with generative AI tools, teams are identifying new ways to automate tasks, while business leaders are under increasing pressure to determine what AI means for their operations and competitiveness. Beyond these, the most important question for organisations is not [ ] The post From AI Experimentation to Enterprise Transformation: Why People Must Come First appeared first on Nairametrics .",
-      "published": "2026-10-26T17:26:11+00:00",
-      "fetched": "2026-10-26T17:42:54.503608+00:00"
-    },
-    {
-      "id": "fa4ed10c5f94e003",
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "published": "2026-10-26T17:19:00+00:00",
-      "fetched": "2026-10-26T17:42:54.066109+00:00"
-    },
-    {
-      "id": "e3a03119e3d607cb",
-      "title": "FG Unveils Economic Policy Framework, Targets Policy Consistency and Investor Confidence",
-      "link": "https://nairametrics.com/2026/10/26/fg-unveils-economic-policy-framework-targets-policy-consistency-and-investor-confidence/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has unveiled a draft Economic Policy Framework for Nigeria aimed at promoting policy consistency, strengthening investor confidence and driving sustainable economic growth. The post FG Unveils Economic Policy Framework, Targets Policy Consistency and Investor Confidence appeared first on Nairametrics .",
-      "published": "2026-10-26T17:04:33+00:00",
-      "fetched": "2026-10-26T17:42:54.503652+00:00"
-    },
-    {
-      "id": "38cb894fe1cb2e02",
-      "title": "The brutal financial reality behind government AI adoption in Africa",
-      "link": "https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "African governments offer AI companies a route to revenue and scale. But lengthy tenders, demanding eligibility rules and upfront delivery costs can strain startups’ cash reserves before payment arrives.",
-      "published": "2026-10-26T16:36:38+00:00",
-      "fetched": "2026-10-26T17:42:55.068148+00:00"
-    },
-    {
-      "id": "3e5ce0185011afcc",
-      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-      "published": "2026-10-26T16:15:00+00:00",
-      "fetched": "2026-10-26T17:42:54.066177+00:00"
-    },
-    {
-      "id": "3ef0ef6109b358cc",
-      "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
-      "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "TS Lombard says the AI investment theme is a bubble destined to pop. What investors shouldn’t try to do is time when that will happen.",
-      "published": "2026-10-26T16:05:00+00:00",
-      "fetched": "2026-10-26T17:42:54.066214+00:00"
-    },
-    {
-      "id": "59db9c7b8a0ae544",
-      "title": "Moniepoint trims engineering, product teams, creates new roles",
-      "link": "https://nairametrics.com/2026/10/26/moniepoint-trims-engineering-product-teams-creates-new-roles/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Moniepoint says it is trimming down its engineering and product teams as part of a restructuring aimed at improving operational efficiency and supporting its expansion into new markets. The fintech company, in a holding statement issued on Monday, said the changes would result in fewer roles in some areas, while creating new positions, including platform [ ] The post Moniepoint trims engineering, product teams, creates new roles appeared first on Nairametrics .",
-      "published": "2026-10-26T16:01:13+00:00",
-      "fetched": "2026-10-26T17:42:54.503702+00:00"
-    },
-    {
-      "id": "4b70759cd67a0d6a",
-      "title": "Nollywood shoots up to 90% of films without proper script development – MBO Capital",
-      "link": "https://nairametrics.com/2026/10/26/nollywood-shoots-up-to-90-of-films-without-proper-script-development-mbo-capital/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "An estimated 80% to 90% of Nollywood films proceed into production without adequate script development, as limited access to patient capital continues to affect storytelling quality and production standards in Nigeria's film industry. The post Nollywood shoots up to 90% of films without proper script development – MBO Capital appeared first on Nairametrics .",
-      "published": "2026-10-26T15:38:12+00:00",
-      "fetched": "2026-10-26T17:42:54.503758+00:00"
-    },
-    {
-      "id": "c2c303512fe40ec8",
-      "title": "Anthropic files for IPO, plans Nasdaq listing under ticker ANT",
-      "link": "https://nairametrics.com/2026/10/26/anthropic-files-for-ipo-plans-nasdaq-listing-under-ticker-ant/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Anthropic, the artificial intelligence company behind Claude, has filed a registration statement with the United States Securities and Exchange Commission (SEC) for a proposed initial public offering (IPO), marking a major step towards becoming a publicly traded company. The post Anthropic files for IPO, plans Nasdaq listing under ticker ANT appeared first on Nairametrics .",
-      "published": "2026-10-26T15:30:16+00:00",
-      "fetched": "2026-10-26T17:42:54.503802+00:00"
-    },
-    {
-      "id": "409e2281b86cd6bc",
-      "title": "IEA says global energy markets may not return to pre-war levels in 2027",
-      "link": "https://nairametrics.com/2026/10/26/iea-says-global-energy-markets-may-not-return-to-pre-war-levels-in-2027/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The International Energy Agency (IEA) has warned that global energy markets may not return to conditions recorded before the Iran war in 2027, as the conflict continues to disrupt oil and gas supplies and drive up energy prices worldwide. The post IEA says global energy markets may not return to pre-war levels in 2027 appeared first on Nairametrics .",
-      "published": "2026-10-26T15:24:03+00:00",
-      "fetched": "2026-10-26T17:42:54.503870+00:00"
-    },
-    {
-      "id": "7f89c15ce1044d3a",
-      "title": "FG says Nigeria could declare Ebola outbreak over by December 7",
-      "link": "https://nairametrics.com/2026/10/26/fg-says-nigeria-could-declare-ebola-outbreak-over-by-december-7/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government says Nigeria could declare the Ebola outbreak over as early as December 7, 2026, if no further confirmed or probable cases are detected. The post FG says Nigeria could declare Ebola outbreak over by December 7 appeared first on Nairametrics .",
-      "published": "2026-10-26T15:19:46+00:00",
-      "fetched": "2026-10-26T17:42:54.503908+00:00"
-    },
-    {
-      "id": "f3e0764b09a6f49e",
-      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
-      "published": "2026-10-26T15:15:00+00:00",
-      "fetched": "2026-10-26T17:42:54.066280+00:00"
     }
   ]
 }
