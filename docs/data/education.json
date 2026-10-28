@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-10-28T02:42:56.734412+00:00",
+  "updated": "2026-10-28T11:48:39.574729+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2120b5720fe3b8a5",
+      "title": "Inside the Making of the Sagrada Família, Barcelona’s 144-Year Megaproject",
+      "link": "https://www.openculture.com/2026/10/inside-the-making-of-the-sagrada-familia-barcelonas-144-year-megaproject.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "To get a sense of Sagrada Família’s popularity with YouTubers, you have only to take a look at the related Open Culture posts linked below. As will hardly escape your attention, most subjects that consistently draw the attention of the GoPro class are not nineteenth-century Catholic churches. But Antoni Gaudí’s masterpiece, whose construction alone has [ ]",
+      "published": "2026-10-28T09:00:07+00:00",
+      "fetched": "2026-10-28T11:48:39.574470+00:00"
+    },
+    {
+      "id": "3bb3dc1860566188",
+      "title": "The Vibrant Color Wheels Designed by Goethe, Newton & Other Theorists of Color (1665–1810)",
+      "link": "https://www.openculture.com/2026/10/the-vibrant-color-wheels-designed-by-goethe-newton-other-theorists.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Maybe it’s the cloistered headiness of Rene Descartes, or the rigorous austerity of Isaac Newton; maybe it’s all the leathern breeches, gray waistcoats, sallow faces, and powdered wigs… but we tend not to associate Enlightenment Europe with an explosion of color theory. Yet philosophers of the late 17th and 18th centuries were obsessed with light [ ]",
+      "published": "2026-10-28T08:00:51+00:00",
+      "fetched": "2026-10-28T11:48:39.574532+00:00"
+    },
+    {
+      "id": "d60a6d6fb8dd0c55",
+      "title": "Making machines that can listen",
+      "link": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+      "published": "2026-10-28T04:00:00+00:00",
+      "fetched": "2026-10-28T11:48:38.981378+00:00"
+    },
     {
       "id": "8d800dd6545c14b3",
       "title": "Learner collaborates with MIT peers to develop book of AI insights",
@@ -1472,36 +1502,6 @@
       "summary": "Novel research expands scientific understanding of how RNA shapes the reading of genetic information.",
       "published": "2026-09-18T16:20:00+00:00",
       "fetched": "2026-09-18T20:03:11.458319+00:00"
-    },
-    {
-      "id": "d6a6993cb334241c",
-      "title": "Rage Against the Machines: From the Luddites to the AI Data Center Backlash",
-      "link": "https://www.openculture.com/2026/09/rage-against-the-machines-from-the-luddites-to-the-ai-data-center-backlash.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "One often-repeated anecdote about Milton Friedman has the famous economist visiting a canal under construction in nineteen-sixties China. Noticing the sheer number of human laborers digging away with shovels, he asked the official in charge why they weren’t getting the work done faster with excavators and other modern machines. The bureaucrat explained to him that [ ]",
-      "published": "2026-09-18T08:00:05+00:00",
-      "fetched": "2026-09-18T10:07:36.679238+00:00"
-    },
-    {
-      "id": "04de157394f4b4f4",
-      "title": "Fueling a return journey from Mars",
-      "link": "https://news.mit.edu/2026/fueling-return-journey-from-mars-lanie-mckinney-0918",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "PhD candidate Lanie McKinney is building technology to convert the Red Planet’s atmosphere into propellant for bringing astronauts home.",
-      "published": "2026-09-18T04:00:00+00:00",
-      "fetched": "2026-09-18T10:07:35.621544+00:00"
-    },
-    {
-      "id": "1c8bb92ba7906d66",
-      "title": "Meet the 2026 tenured professors in the School of Humanities, Arts, and Social Sciences",
-      "link": "https://news.mit.edu/2026/tenured-professors-school-humanities-arts-social-sciences-0917",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Faculty members granted tenure in Comparative Media Studies/Writing, Economics, Political Science, and Theater.",
-      "published": "2026-09-17T20:50:00+00:00",
-      "fetched": "2026-09-18T01:44:11.653610+00:00"
     }
   ]
 }

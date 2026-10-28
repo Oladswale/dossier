@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-28T02:42:57.538867+00:00",
+  "updated": "2026-10-28T11:48:40.124001+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7314347da9f3a5fa",
+      "title": "The New FIRE Movement That Includes Rentals",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1349",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "There’s a new FIRE movement—and this time, it includes real estate. You’ve probably heard of the FIRE movement before (financial independence, retire early). It’s a strategy that combines frugal living, [ ]",
+      "published": "2026-10-28T11:00:54+00:00",
+      "fetched": "2026-10-28T11:48:39.852162+00:00"
+    },
+    {
+      "id": "7b8d8b22e3d00efd",
+      "title": "8 Ways to Use Your Home Equity to Buy a Rental Property in 2027",
+      "link": "https://www.biggerpockets.com/blog/rookie-789",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Saving for a down payment can take years for some, but if your home is worth more than you owe on it, you might already have the money to buy [ ]",
+      "published": "2026-10-28T11:00:10+00:00",
+      "fetched": "2026-10-28T11:48:39.852203+00:00"
+    },
+    {
+      "id": "4073b64ddf3074d9",
+      "title": "Is Buying an Investment Property Still Worth It? The Investors Still Buying Have Changed Their Playbook",
+      "link": "https://www.realtor.com/news/trends/is-buying-investment-property-worth-it-investor-report-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "High rates, falling rents, and rising costs are squeezing investment returns. New data shows how today’s investors still make the math work.",
+      "published": "2026-10-28T09:00:00+00:00",
+      "fetched": "2026-10-28T11:48:40.123476+00:00"
+    },
+    {
+      "id": "492493923973bf16",
+      "title": "Baby’s First Home: Parents Are Now Saving for Their Kids’ Down Payment Before Kindergarten",
+      "link": "https://www.realtor.com/news/trends/parents-young-children-down-payment-savings-coldwell-banker-survey-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Four in five parents with young children are considering or actively saving for their child’s future down payment before kindergarten.",
+      "published": "2026-10-28T08:59:00+00:00",
+      "fetched": "2026-10-28T11:48:40.123517+00:00"
+    },
+    {
+      "id": "74beb58369897470",
+      "title": "A Clifftop Compound With 2 Brand-New Cabins in Idaho Hits the Market",
+      "link": "https://www.realtor.com/news/unique-homes/most-popular-homes-stanley-idaho-cliff-cabins/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Perched on an Idaho cliff, a mountain compound tops this week’s most popular homes, alongside an off-grid haven and cavern bunker.",
+      "published": "2026-10-28T08:46:00+00:00",
+      "fetched": "2026-10-28T11:48:40.123549+00:00"
+    },
     {
       "id": "d133f0bb430da62b",
       "title": "Bethenny Frankel Hits Back at Andy Cohen for Dismissing a Future Return to ‘RHONY’—Despite Relocating to Florida",
@@ -1452,56 +1502,6 @@
       "summary": "Denver and Portland both \"sell buyers on the outdoors with mountain access, trail networks, and ski terrain within an easy drive.\"",
       "published": "2026-10-20T08:11:00+00:00",
       "fetched": "2026-10-20T10:29:58.313786+00:00"
-    },
-    {
-      "id": "f01b39daf5ce93f6",
-      "title": "Kelly Ripa and Mark Consuelos Reveal a ‘Parasite’ Has Prevented Their New Rescue Dog From Coming Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kelly-ripa-mark-consuelos-new-dog-parasite/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A health issue has prevented the married TV show hosts from bringing their new dog home to their $27 million townhouse.",
-      "published": "2026-10-19T22:36:22+00:00",
-      "fetched": "2026-10-20T02:16:41.601271+00:00"
-    },
-    {
-      "id": "fa7838c18c1452d9",
-      "title": "Inside Elizabeth Holmes’ Secret Oceanfront Rental Seen in ‘You Can See Everything’ Documentary a Month Before She’s Sent to Prison",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/elizabeth-holmes-you-can-see-everything-home-del-mar-california/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Theranos founder's new documentary was filmed in secret at an ultraprivate home she rented before going to prison.",
-      "published": "2026-10-19T22:23:57+00:00",
-      "fetched": "2026-10-20T02:16:41.601312+00:00"
-    },
-    {
-      "id": "8e599961de85b24e",
-      "title": "Chelsea Luxury Condo With Hudson River Views Is Manhattan’s Most Expensive Sale This Week",
-      "link": "https://www.realtor.com/news/trends/chelsea-luxury-condo-sold-551-21st-street-manhattan/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 17th-floor corner unit at 551 West 21st St. in Chelsea is a rare four-bedroom condo boasting impressive 11-foot ceilings.",
-      "published": "2026-10-19T21:50:44+00:00",
-      "fetched": "2026-10-20T02:16:41.601344+00:00"
-    },
-    {
-      "id": "255a337c41d47aaf",
-      "title": "Is ‘Giving While Living’ the Best Way To Hand Down Your Home to the Next Generation?",
-      "link": "https://www.realtor.com/advice/finance/giving-while-living-hand-down-home-next-generation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Giving your house to the next generation may not be the best use of it.",
-      "published": "2026-10-19T20:46:20+00:00",
-      "fetched": "2026-10-19T21:46:34.976515+00:00"
-    },
-    {
-      "id": "0642e3d6abef59d8",
-      "title": "‘Virgin River’ Star Ben Hollingsworth Reveals Why He Chose To Raise His Kids Outside Los Angeles",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/ben-hollingsworth-move-british-columbia-canada-kids/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 42-year-old actor spoke to Fox News Digital about the importance of giving his children the freedom he experienced growing up.",
-      "published": "2026-10-19T20:12:52+00:00",
-      "fetched": "2026-10-19T21:46:34.976556+00:00"
     }
   ]
 }
