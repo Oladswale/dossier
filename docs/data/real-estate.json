@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-27T21:31:17.406818+00:00",
+  "updated": "2026-10-28T02:42:57.538867+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d133f0bb430da62b",
+      "title": "Bethenny Frankel Hits Back at Andy Cohen for Dismissing a Future Return to ‘RHONY’—Despite Relocating to Florida",
+      "link": "https://www.realtor.com/news/reality-tv/bethenny-frankel-andy-cohen-rhony-return-florida-relocation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Bravo alum's future on the show appears less likely than ever in the wake of a public spat with Andy Cohen and a Florida relocation.",
+      "published": "2026-10-27T21:53:30+00:00",
+      "fetched": "2026-10-28T02:42:57.538323+00:00"
+    },
     {
       "id": "b23383f6bb1db584",
       "title": "Texas Home Featured in Elizabeth Holmes Documentary Hits the Market for $2.25 Million",
@@ -1492,16 +1502,6 @@
       "summary": "The 42-year-old actor spoke to Fox News Digital about the importance of giving his children the freedom he experienced growing up.",
       "published": "2026-10-19T20:12:52+00:00",
       "fetched": "2026-10-19T21:46:34.976556+00:00"
-    },
-    {
-      "id": "745981866d744837",
-      "title": "Hurricane Damage Is Costly—and Your HOA Could Demand Thousands Extra",
-      "link": "https://www.realtor.com/advice/finance/hurricane-homeowner-hoa-costs-special-assestment/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "HOA assessments can drain homeowner savings after storms, even if they've been paying their dues dutifully.",
-      "published": "2026-10-19T18:47:50+00:00",
-      "fetched": "2026-10-19T21:46:34.976586+00:00"
     }
   ]
 }

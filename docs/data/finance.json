@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-10-27T21:31:00.934880+00:00",
+  "updated": "2026-10-28T02:42:41.106264+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8f5bd6264fffcaff",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+      "published": "2026-10-27T22:18:00+00:00",
+      "fetched": "2026-10-28T02:42:39.923412+00:00"
+    },
+    {
+      "id": "8fb8d089b508aedf",
+      "title": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
+      "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
+      "published": "2026-10-27T21:41:00+00:00",
+      "fetched": "2026-10-28T02:42:39.923462+00:00"
+    },
     {
       "id": "6b96d6a9202b3b41",
       "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
@@ -1482,26 +1502,6 @@
       "summary": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
       "published": "2026-10-25T14:00:00+00:00",
       "fetched": "2026-10-25T15:06:32.838117+00:00"
-    },
-    {
-      "id": "5da344cc138a112a",
-      "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-      "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The nine months between Election Day and June 30 have seen the S P 500 deliver an average return of 15.5% going back to 1950.",
-      "published": "2026-10-25T13:00:00+00:00",
-      "fetched": "2026-10-25T15:06:32.838152+00:00"
-    },
-    {
-      "id": "1b66f217a7c839d8",
-      "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
-      "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
-      "published": "2026-10-25T12:44:00+00:00",
-      "fetched": "2026-10-25T15:06:32.838171+00:00"
     }
   ]
 }
