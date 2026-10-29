@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-28T21:56:21.743393+00:00",
+  "updated": "2026-10-29T03:01:47.370116+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "74c18a7d81aed5b6",
+      "title": "Home Prices Are Falling in These Markets, but Rising Insurance Costs Are Eating Into the Savings",
+      "link": "https://www.realtor.com/news/trends/falling-home-prices-rising-home-insurance-costs/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Home prices are falling in some markets, but rising insurance costs are eating into the monthly savings buyers might expect.",
+      "published": "2026-10-28T22:42:20+00:00",
+      "fetched": "2026-10-29T03:01:47.369850+00:00"
+    },
+    {
+      "id": "f68f98e74261b93f",
+      "title": "EXCLUSIVE: Inside an $11 Million, Fully Furnished Corona Del Mar Home Where Retractable Glass Walls Bring the Outdoors In",
+      "link": "https://www.realtor.com/news/unique-homes/corona-del-mar-california-11-million-glass-wall-home-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A fully furnished contemporary home in Corona Del Mar is defined by gorgeous glass, which seamlessly connects the interior and exterior.",
+      "published": "2026-10-28T22:26:48+00:00",
+      "fetched": "2026-10-29T03:01:47.369869+00:00"
+    },
     {
       "id": "b38b516f9c3c04c6",
       "title": "Mike Tyson’s Former Hollywood Hills Home Has Hit the Market for $3.5 Million—as Boxer’s Previous Connecticut Mansion Struggles To Find a Buyer",
@@ -1482,26 +1502,6 @@
       "summary": "Harry, 42, explained that the opportunity to enroll his children in British schools was particularly meaningful to him.",
       "published": "2026-10-20T20:45:35+00:00",
       "fetched": "2026-10-20T20:56:31.911845+00:00"
-    },
-    {
-      "id": "5a64ed072488c48d",
-      "title": "Putting Off Even Small Home Repairs Could Cost Homeowners Nearly $2K More Today",
-      "link": "https://www.realtor.com/advice/home-improvement/putting-off-even-small-home-repairs-cost-to-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In a perfect world, homeowners would tackle repairs as soon as issues arise. The reality, however, is that most put them off.",
-      "published": "2026-10-20T20:14:09+00:00",
-      "fetched": "2026-10-20T20:56:31.911877+00:00"
-    },
-    {
-      "id": "bddbab5232a2e50e",
-      "title": "Creative Homeowner Hacks to Give Leftover Halloween Pumpkins New Life",
-      "link": "https://www.realtor.com/advice/home-improvement/clever-things-you-can-do-with-leftover-halloween-pumpkins/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Before you fill your garbage bin with has-been giant squash, we've got some ideas for ways to recycle them. Check out these 11 ways to repurpose your pumpkins, and maybe you'll be inspired!",
-      "published": "2026-10-20T19:32:00+00:00",
-      "fetched": "2026-10-20T20:56:31.911930+00:00"
     }
   ]
 }

@@ -1,8 +1,108 @@
 {
   "category": "finance",
-  "updated": "2026-10-28T21:56:04.734210+00:00",
+  "updated": "2026-10-29T03:01:35.360836+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "cc370037c1f783d8",
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+      "published": "2026-10-29T01:58:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477762+00:00"
+    },
+    {
+      "id": "4527947a69aac403",
+      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "An agreement between the companies could come next week, Bloomberg reported",
+      "published": "2026-10-29T00:20:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477786+00:00"
+    },
+    {
+      "id": "860d2ede10c38b19",
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "published": "2026-10-29T00:10:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477809+00:00"
+    },
+    {
+      "id": "66dd2911401fe1c4",
+      "title": "Grey launches Paycheck, targets growth beyond three million users",
+      "link": "https://techcabal.com/2026/10/29/grey-paycheck-fx-salary-accounts-moonshot/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The company, which has processed nearly $5 billion in payments since inception and recorded a 170% year-on-year increase in total payment volume, announced the new product at Moonshot by TechCabal 2026 in Lagos, Nigeria on Wednesday.",
+      "published": "2026-10-28T23:37:20+00:00",
+      "fetched": "2026-10-29T03:01:35.360668+00:00"
+    },
+    {
+      "id": "e6649d8fef13250a",
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+      "published": "2026-10-28T23:18:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477824+00:00"
+    },
+    {
+      "id": "e0e431db8301aa1c",
+      "title": "Africa’s digital economy needs more than apps to scale",
+      "link": "https://techcabal.com/2026/10/29/africas-digital-economy-needs-more-apps/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Africa’s digital economy needs more than apps that connect users to services. It also depends on reliable transport, location data, access to financing, and shared infrastructure that businesses can build. That was a central theme of the “Beyond the App: Building the Infrastructure Behind Africa’s Everyday Economy” panel at Moonshot by TechCabal 2026.",
+      "published": "2026-10-28T23:08:53+00:00",
+      "fetched": "2026-10-29T03:01:35.360707+00:00"
+    },
+    {
+      "id": "0c73e67e4b73c8d0",
+      "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+      "published": "2026-10-28T23:02:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477839+00:00"
+    },
+    {
+      "id": "fa4ed10c5f94e003",
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "published": "2026-10-28T22:41:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477857+00:00"
+    },
+    {
+      "id": "400acb6099c585ad",
+      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
+      "published": "2026-10-28T22:25:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477874+00:00"
+    },
+    {
+      "id": "8b42cbb86cce87a8",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+      "published": "2026-10-28T22:00:00+00:00",
+      "fetched": "2026-10-29T03:01:33.477890+00:00"
+    },
     {
       "id": "7e3f79e2df281d15",
       "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
@@ -1402,106 +1502,6 @@
       "summary": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
       "published": "2026-10-26T21:44:00+00:00",
       "fetched": "2026-10-26T21:57:53.847977+00:00"
-    },
-    {
-      "id": "3846b28eac7bad67",
-      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
-      "published": "2026-10-26T21:04:00+00:00",
-      "fetched": "2026-10-26T21:57:53.848009+00:00"
-    },
-    {
-      "id": "766f855c26dc6947",
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
-      "published": "2026-10-26T20:50:00+00:00",
-      "fetched": "2026-10-26T21:57:53.848038+00:00"
-    },
-    {
-      "id": "8122c9450f0615fb",
-      "title": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
-      "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Analysts like to overhype stock-market rallies in the fall, but the numbers show Santa only arrives once a year",
-      "published": "2026-10-26T20:09:00+00:00",
-      "fetched": "2026-10-26T21:57:53.848077+00:00"
-    },
-    {
-      "id": "17fb31a24faf3363",
-      "title": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
-      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Big life decisions in your 30s and 40s will determine just how well you retire.",
-      "published": "2026-10-26T19:42:00+00:00",
-      "fetched": "2026-10-26T21:57:53.848117+00:00"
-    },
-    {
-      "id": "8f83729e427b29fa",
-      "title": "NGX rallies as equity market cap reaches record N163.1 trillion",
-      "link": "https://nairametrics.com/2026/10/26/ngx-rallies-as-equity-market-cap-reaches-record-n163-1-trillion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Exchange Limited (NGX) market capitalisation reached a record N163.16 trillion on Monday, October 26, 2026. The post NGX rallies as equity market cap reaches record N163.1 trillion appeared first on Nairametrics .",
-      "published": "2026-10-26T18:23:34+00:00",
-      "fetched": "2026-10-26T21:57:54.248496+00:00"
-    },
-    {
-      "id": "c0d38fc1c9b587b1",
-      "title": "US moves to tighten employment-based green card requirements for foreign workers",
-      "link": "https://nairametrics.com/2026/10/26/us-moves-to-tighten-employment-based-green-card-requirements-for-foreign-workers/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United States government is moving to revise employment-based green card sponsorship requirements following the completion of a federal review of proposed changes to the Permanent Labor Certification (PERM) programme. The post US moves to tighten employment-based green card requirements for foreign workers appeared first on Nairametrics .",
-      "published": "2026-10-26T17:50:59+00:00",
-      "fetched": "2026-10-26T21:57:54.248546+00:00"
-    },
-    {
-      "id": "0bdab9be056f4cf2",
-      "title": "International Breweries’ 9M 2026 pre-tax profit rises 22% to N90.44 billion",
-      "link": "https://nairametrics.com/2026/10/26/international-breweries-9m-2026-pre-tax-profit-rises-22-to-n90-44-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "International Breweries Plc recorded a 21.86% increase in pre-tax profit to N90.44 billion for the nine months ended September 2026, but a sharp increase in income tax expenses reduced profit after tax by 5.74% to N54.51 billion. The post International Breweries 9M 2026 pre-tax profit rises 22% to N90.44 billion appeared first on Nairametrics .",
-      "published": "2026-10-26T17:49:34+00:00",
-      "fetched": "2026-10-26T21:57:54.248594+00:00"
-    },
-    {
-      "id": "884c7c001e26572c",
-      "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
-      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
-      "published": "2026-10-26T17:32:00+00:00",
-      "fetched": "2026-10-26T17:42:54.066059+00:00"
-    },
-    {
-      "id": "87f18089e7bb42ce",
-      "title": "179 ports on paper, seven days at the gate: Inside Africa’s cargo bottleneck",
-      "link": "https://techcabal.com/2026/10/26/the-bottleneck-inside-africas-179-ports/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Africa has 179 mapped maritime ports, but access alone does not make freight affordable. DHL’s Toby Maier explains how customs delays, port bottlenecks and unreliable inland connections drive up the cost of moving goods.",
-      "published": "2026-10-26T17:29:34+00:00",
-      "fetched": "2026-10-26T17:42:55.068100+00:00"
-    },
-    {
-      "id": "810b25882715b93c",
-      "title": "Flutterwave Appoints Guo Songmei as Regional VP of Sales and Partnerships, Greater China and Asia to Expand Its Asia–Africa Trade",
-      "link": "https://nairametrics.com/2026/10/26/flutterwave-appoints-guo-songmei-as-regional-vp-of-sales-and-partnerships-greater-china-and-asia-to-expand-its-asia-africa-trade/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Songmei brings more than two decades of corporate and institutional banking leadership to scale Flutterwave s enterprise payment rails and commercial partnerships across Greater China and Asia Flutterwave, Africa’s leading payments technology company, has today announced the appointment of Guo Songmei as Regional Vice President of Sales and Partnerships, Greater China and Asia. Based across Shenzhen, [ ] The post Flutterwave Appoints Guo Songmei as Regional VP of Sales and Partnerships, Greater China and Asia to Expand Its Asia–Africa Trade appeared first on Nairametrics .",
-      "published": "2026-10-26T17:29:16+00:00",
-      "fetched": "2026-10-26T17:42:54.503481+00:00"
     }
   ]
 }
