@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-29T03:01:46.660232+00:00",
+  "updated": "2026-10-29T11:52:19.349013+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b0ed9e4ebab95eef",
+      "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
+      "link": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Researchers hope to use these sensors to help people with amputation achieve more natural movements with their prosthetic limbs.",
+      "published": "2026-10-29T10:00:00+00:00",
+      "fetched": "2026-10-29T11:51:13.796363+00:00"
+    },
+    {
+      "id": "4bb41598e8c13163",
+      "title": "New system gives users more control over their online experience",
+      "link": "https://news.mit.edu/2026/new-system-gives-users-more-control-over-online-experience-1029",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Social.Wiki framework enables anyone to easily edit social websites within the system, while allowing them to choose the content they see.",
+      "published": "2026-10-29T04:00:00+00:00",
+      "fetched": "2026-10-29T11:51:13.796399+00:00"
+    },
     {
       "id": "219dea328df4e170",
       "title": "Capturing the complete process of embryonic development",
@@ -1482,26 +1502,6 @@
       "summary": "New Audit Division leader brings track record of collaboration, deep knowledge of audit program and MIT operations to role.",
       "published": "2026-09-21T17:00:00+00:00",
       "fetched": "2026-09-21T17:15:25.157330+00:00"
-    },
-    {
-      "id": "239eb583c15e543e",
-      "title": "Batteries that safely break down in the GI tract could improve ingestible devices",
-      "link": "https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Made from “bioresorbable” materials, the new batteries could power capsules for drug delivery, sensing, and other applications.",
-      "published": "2026-09-21T15:00:00+00:00",
-      "fetched": "2026-09-21T17:15:25.157368+00:00"
-    },
-    {
-      "id": "6bc5b3178e20f91e",
-      "title": "When Galileo Calculated the Precise Dimensions of Hell in Dante’s Inferno",
-      "link": "https://www.openculture.com/2026/09/when-galileo-calculated-the-precise-dimensions-of-hell-in-dantes-inferno.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "We venerate Galileo Galilei for daring to speak the scientific truth in the face of severe institutional opposition. He publicly acknowledged that the Earth revolves around the Sun in a time when the Church would rather he didn’t, displaying a bloody-mindedness that he seems to have acquired with age. Decades earlier, in the first stage [ ]",
-      "published": "2026-09-21T09:00:34+00:00",
-      "fetched": "2026-09-21T11:12:20.918104+00:00"
     }
   ]
 }

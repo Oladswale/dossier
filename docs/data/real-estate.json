@@ -1,8 +1,78 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-29T03:01:47.370116+00:00",
+  "updated": "2026-10-29T11:52:19.967174+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "370cc7a091bafb62",
+      "title": "Pending Sales Just Fell Below 2008 Levels",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-473",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Pending home sales just hit their lowest level on record since the NAR started tracking them in 2001—and they fell in all 50 of the country s biggest metros. Winter hasn’t [ ]",
+      "published": "2026-10-29T11:00:52+00:00",
+      "fetched": "2026-10-29T11:52:19.630715+00:00"
+    },
+    {
+      "id": "8c322799b2c2cd7a",
+      "title": "Mapped: Where Incomes Rose the Fastest in 2026, and What You Need To Afford the Typical Home in Every State",
+      "link": "https://www.realtor.com/news/trends/map-incomes-rise-fastest-national-median-housing-affordability-census/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Despite modest wage gains, surging mortgage rates have pushed median-priced homes out of reach in all 50 states.",
+      "published": "2026-10-29T09:00:00+00:00",
+      "fetched": "2026-10-29T11:52:19.966395+00:00"
+    },
+    {
+      "id": "b31de9ded09b0804",
+      "title": "Midwestern Charm Wins: Why a Sweet Wisconsin Enclave Is the Country’s New Top Housing Market",
+      "link": "https://www.realtor.com/news/trends/wsj-rdc-top-housing-market-q3-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Appleton, WI, located 30 minutes from Green Bay, won the top spot thanks to its low cost of living and robust housing market.",
+      "published": "2026-10-29T08:48:00+00:00",
+      "fetched": "2026-10-29T11:52:19.966438+00:00"
+    },
+    {
+      "id": "fe42cd4427c97584",
+      "title": "Tour a $13 Million Gut-Renovated Brooklyn Heights Townhouse With Private Outdoor Space",
+      "link": "https://www.realtor.com/news/unique-homes/brooklyn-heights-new-york-townhouse-tour-13-million/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 19th-century masterpiece has been completely restored on the outside and renovated with classic features on the inside.",
+      "published": "2026-10-29T08:37:00+00:00",
+      "fetched": "2026-10-29T11:52:19.966465+00:00"
+    },
+    {
+      "id": "bfb7d9280f9879fc",
+      "title": "A Rare Bright Spot for Los Angeles Renters: Housing Costs Are Finally Cooling Down",
+      "link": "https://www.realtor.com/news/trends/los-angeles-rent-drop-q3-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "L.A. County rents are finally dropping, led by smaller apartments, giving local renters a rare and much-needed break on housing costs.",
+      "published": "2026-10-29T08:33:00+00:00",
+      "fetched": "2026-10-29T11:52:19.966493+00:00"
+    },
+    {
+      "id": "34f9138a3ec59deb",
+      "title": "See Inside ‘Botched’ Star Dr. Terry Dubrow’s Never-Before-Seen Beverly Hills Office After Heather Dubrow’s Makeover",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/botched-terry-dubrow-office-makeover/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Dr. Terry Dubrow moved his practice from Newport Beach to Beverly Hills—and gave it a complete transformation.",
+      "published": "2026-10-29T08:17:00+00:00",
+      "fetched": "2026-10-29T11:52:19.966528+00:00"
+    },
+    {
+      "id": "bd8fdad5d7e032d8",
+      "title": "Vacancy and ‘Zombie Foreclosure’ Rates Decline as Housing Supply Remains Tight",
+      "link": "https://www.realtor.com/news/trends/vacancy-zombie-foreclosure-rates-decline-attom-q3-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Even with vacancies decreasing and zombie properties falling to 3%, the country is still short an estimated 4 million housing units.",
+      "published": "2026-10-29T04:01:00+00:00",
+      "fetched": "2026-10-29T11:52:19.966570+00:00"
+    },
     {
       "id": "74c18a7d81aed5b6",
       "title": "Home Prices Are Falling in These Markets, but Rising Insurance Costs Are Eating Into the Savings",
@@ -1432,76 +1502,6 @@
       "summary": "There are the five states where the effective property tax rate on owner-occupied property falls below half a percentage point.",
       "published": "2026-10-21T08:48:00+00:00",
       "fetched": "2026-10-21T10:41:11.250602+00:00"
-    },
-    {
-      "id": "c903c723f0d502e9",
-      "title": "This $340K Texas Home Hides a Professional Skate and BMX Bowl in the Backyard",
-      "link": "https://www.realtor.com/news/unique-homes/texas-ranch-home-skate-bmx-bowl/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An unassuming $340,000 Texas ranch home featuring a backyard skate bowl tops this week’s list of the most popular real estate listings.",
-      "published": "2026-10-21T08:32:00+00:00",
-      "fetched": "2026-10-21T10:41:11.250637+00:00"
-    },
-    {
-      "id": "64bf2c340a696521",
-      "title": "Baltimore Mortgage Fraud Ring Drove Hundreds of Homes Into Foreclosure, Lawsuits Claim",
-      "link": "https://www.realtor.com/news/real-estate-news/baltimore-dscr-mortgage-fraud-foreclosures-lawsuit-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Lenders say Benjamin Eidlisz and Eluzer Gold violated RICO laws and bilked them out of millions in fraudulent Baltimore real estate deals.",
-      "published": "2026-10-20T22:55:38+00:00",
-      "fetched": "2026-10-21T02:10:12.373198+00:00"
-    },
-    {
-      "id": "73ce97d751a5f62d",
-      "title": "Bones Found at Philadelphia ‘House of Horrors’ During Investigation Into 7 Missing Women",
-      "link": "https://www.realtor.com/news/trends/bones-found-philadelphia-pa-house-of-horrors-7-missing-women/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A growing body of disturbing evidence is emerging from the Philadelphia home of late pornographer Raymond Charles Horsch.",
-      "published": "2026-10-20T22:08:49+00:00",
-      "fetched": "2026-10-21T02:10:12.373236+00:00"
-    },
-    {
-      "id": "89679af3458fe141",
-      "title": "EXCLUSIVE: What Really Happens Behind Off-Limits Doors at One of Las Vegas’ Most Iconic Casinos",
-      "link": "https://www.realtor.com/news/reality-tv/secret-life-of-a-vegas-casino-golden-nugget-behind-the-scenes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "\"Secret Life of a Vegas Casino\" reveals how Golden Nugget staff use hidden design tricks and strict security to keep guests gambling.",
-      "published": "2026-10-20T21:33:18+00:00",
-      "fetched": "2026-10-21T02:10:12.373266+00:00"
-    },
-    {
-      "id": "8eca9529a23f60e1",
-      "title": "Inside Christina Applegate’s Los Angeles Home—Where She’s Lived Since 1995 and Found Sanctuary During Health Battle",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/christina-applegate-los-angeles-family-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actress, who was misdiagnosed with multiple sclerosis, has retreated to her home as a safe place amid health issues.",
-      "published": "2026-10-20T21:09:57+00:00",
-      "fetched": "2026-10-21T02:10:12.373294+00:00"
-    },
-    {
-      "id": "dd72f284e9ff7d90",
-      "title": "College Towns Finally Built More Student Housing—Now, Some Have Too Much",
-      "link": "https://www.realtor.com/news/trends/student-housing-boom-college-towns-oversupply/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New student apartments are opening faster than demand in some university markets, pushing occupancy and rents lower.",
-      "published": "2026-10-20T20:51:27+00:00",
-      "fetched": "2026-10-20T20:56:31.911803+00:00"
-    },
-    {
-      "id": "c1c14144f025403e",
-      "title": "Prince Harry Reveals Why He and Meghan Markle Moved Their Family From California to the U.K.: ‘I Didn’t Know How Important It Was’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-reveals-why-he-and-meghan-markle-moved-from-california-to-uk/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Harry, 42, explained that the opportunity to enroll his children in British schools was particularly meaningful to him.",
-      "published": "2026-10-20T20:45:35+00:00",
-      "fetched": "2026-10-20T20:56:31.911845+00:00"
     }
   ]
 }
