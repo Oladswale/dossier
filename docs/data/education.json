@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-10-29T11:52:19.349013+00:00",
+  "updated": "2026-10-29T17:40:05.217458+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5fe44667e61e9a8b",
+      "title": "Next Haunt: A scary “problem set” in the basement of Next House",
+      "link": "https://news.mit.edu/2026/next-haunt-scary-problem-set-basement-next-house-1029",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "For more than a decade, MIT students have turned Next House’s basement into a spooky escape-room style test of puzzles, teamwork, and ingenuity.",
+      "published": "2026-10-29T15:55:00+00:00",
+      "fetched": "2026-10-29T17:39:34.863090+00:00"
+    },
     {
       "id": "b0ed9e4ebab95eef",
       "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
@@ -1492,16 +1502,6 @@
       "summary": "This summer, BSG-MSRP-Bio student Marina Milea investigated how lung cancers become resistant to targeted therapies, gaining hands-on research experience in the Jacks Lab at the Koch Institute.",
       "published": "2026-09-21T20:35:00+00:00",
       "fetched": "2026-09-21T21:16:56.584663+00:00"
-    },
-    {
-      "id": "cdeae64a69a5bd95",
-      "title": "Carter Stubbs named Institute auditor",
-      "link": "https://news.mit.edu/2026/carter-stubbs-named-institute-auditor-0921",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New Audit Division leader brings track record of collaboration, deep knowledge of audit program and MIT operations to role.",
-      "published": "2026-09-21T17:00:00+00:00",
-      "fetched": "2026-09-21T17:15:25.157330+00:00"
     }
   ]
 }
