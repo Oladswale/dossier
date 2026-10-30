@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-30T17:18:04.607726+00:00",
+  "updated": "2026-10-30T21:43:28.218309+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "1d6dab08a38e27b1",
+      "title": "Hotel and Travel Industry Groups Back U.S. Film Incentive as Tourism Draw",
+      "link": "https://variety.com/2026/film/news/hotel-travel-industry-film-incentive-tourism-1236935564/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Lobbying groups representing the hotel and travel industries have endorsed a 20% federal tax incentive for film and TV production, arguing that domestic filming attracts tourism from abroad. The American Hotel Lodging Association and the U.S. Travel Association have joined an alliance of film industry stakeholders in pushing for the bill.",
+      "published": "2026-10-30T21:42:09+00:00",
+      "fetched": "2026-10-30T21:43:27.889640+00:00"
+    },
+    {
+      "id": "fe7fd93d46132530",
+      "title": "‘The Celebrity Traitors’: [SPOILER] and [SPOILER] Win in Nail-Biting Season 2 Finale",
+      "link": "https://variety.com/2026/tv/global/the-celebrity-traitors-finale-recap-faithfuls-sebastian-croft-romesh-ranganathan-win-1236935297/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This post contains spoilers for the finale episode of the U.K. version of The Celebrity Traitors Season 2, now streaming on BBC iPlayer. It was the feel-good ending hardly anyone expected: “The Traitors” season finale resulted in an unexpected win by Faithfuls Sebastian Croft and Romesh Ranganathan, as both Traitors King Kenny and [ ]",
+      "published": "2026-10-30T21:38:07+00:00",
+      "fetched": "2026-10-30T21:43:27.889679+00:00"
+    },
+    {
+      "id": "708b11d31319b6cd",
+      "title": "Jennifer Lawrence Says ‘Absolutely F—ing Not’ to Transforming Into X-Men’s Mystique Again",
+      "link": "https://variety.com/2026/film/news/jennifer-lawrence-refuses-mystique-transformation-x-men-1236933335/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jennifer Lawrence played the X-Men character Mystique four times on the big screen between 2011 and 2019, and it appears she has no interest whatsoever in slipping back into the mutant s iconic blue skin. In fact, the Oscar winner s days of undergoing any extreme makeup and/or prosthetics-driven character transformation are likely over. My favorite part [ ]",
+      "published": "2026-10-30T21:31:01+00:00",
+      "fetched": "2026-10-30T21:43:27.889706+00:00"
+    },
+    {
+      "id": "d3f3808440837e16",
+      "title": "‘Grief Is Universal — And Very Specific’: Diana Silvers on Her Devastatingly Beautiful New Record",
+      "link": "https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Her new folk album Daughter of Sorts is a reflection on loss and the transition from girlhood to womanhood",
+      "published": "2026-10-30T21:28:52+00:00",
+      "fetched": "2026-10-30T21:43:28.079370+00:00"
+    },
+    {
+      "id": "27f5fc60db85bbdf",
+      "title": "Dr. Martens Just Dropped ‘Exorcist’ Boots Ahead of the New Movie, and We’re Possessed",
+      "link": "https://www.rollingstone.com/product-recommendations/style/shop-dr-martens-exorcist-boots-october-2026-1235650614/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "With Mike Flanagan's Exorcist film on the horizon, Dr. Martens is giving horror fans something to scream about with two limited-edition styles inspired by the original 1973 classic",
+      "published": "2026-10-30T21:09:23+00:00",
+      "fetched": "2026-10-30T21:43:28.079396+00:00"
+    },
+    {
+      "id": "87096c3800df1533",
+      "title": "Léa Seydoux Getting American Cinematheque Retrospective (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/lea-seydoux-american-cinematheque-retrospective-1236935548/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Léa Seydoux is getting an American Cinematheque retrospective celebrating her extensive filmography. Over the course of two decades, Seydoux has built an acclaimed career in independent filmmaking (the Cannes Palme d Or winner “Blue is the Warmest Color”) and major productions (Denis Villeneuve s “Dune” movies and two James Bond films). Seydoux s American Cinematheque retrospective runs Thurs.",
+      "published": "2026-10-30T21:00:00+00:00",
+      "fetched": "2026-10-30T21:43:27.889738+00:00"
+    },
+    {
+      "id": "b6dfe9524c2ec1c4",
+      "title": "Inside BOYNEXTDOOR’s Bags as They Get Ready for Their First North American Tour",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/boynextdoor-interview-tour-essentials-favorite-products-1235650555/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Ahead of the North American leg of the KNOCK ON Vol. 2 Tour, Sungho, Riwoo, Jaehyun, Taesan, Leehan, and Woonhak give us a peek inside their bags and share their tour essentials",
+      "published": "2026-10-30T20:54:07+00:00",
+      "fetched": "2026-10-30T21:43:28.079434+00:00"
+    },
+    {
+      "id": "6fe49b1a433d7f58",
+      "title": "‘The Mosquito Bowl’ Star Tom Francis on Singing in the Movie Last Minute and the ‘Visceral and Intense’ World War II Scenes",
+      "link": "https://variety.com/2026/film/columns/mosquito-bowl-tom-francis-singing-visceral-intense-wwii-1236931824/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This story reveals major details about Peter Berg s new real-life World War II film The Mosquito Bowl. When British actor Tom Francis signed with his U.S. agents at CAA, he made his aspirations very clear.",
+      "published": "2026-10-30T20:44:25+00:00",
+      "fetched": "2026-10-30T21:43:27.889768+00:00"
+    },
+    {
+      "id": "0b8b5d6ed6a000ae",
+      "title": "Jack Antonoff and Margaret Qualley File for Divorce",
+      "link": "https://www.rollingstone.com/music/music-news/jack-antonoff-margaret-qualley-divorce-1235650655/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The couple, who started dating in 2021 and married in 2023, split over the summer",
+      "published": "2026-10-30T20:41:29+00:00",
+      "fetched": "2026-10-30T21:43:28.079449+00:00"
+    },
+    {
+      "id": "9323ae2b237729e9",
+      "title": "Paramount+ Acquires Rights to Moonbug Series From the ‘Blippi’ and ‘CoComelon’ Universes (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/paramount-blippi-cocomelon-moonbug-series-1236935530/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Paramount+ has acquired non-exclusive rights to several kids franchises from Moonbug Entertainment, including series from the “CoComelon” and “Blippi” universes. Under the new deal, some Moonbug series will begin appearing on Paramount+ starting Nov. 1.",
+      "published": "2026-10-30T20:30:00+00:00",
+      "fetched": "2026-10-30T21:43:27.889796+00:00"
+    },
+    {
+      "id": "b9f8cf17eea2d6ab",
+      "title": "‘A Few Good Men’ Review: Broadway Revival Breathes New Life Into Aaron Sorkin’s Courtroom Classic",
+      "link": "https://variety.com/2026/legit/reviews/a-few-good-men-review-broadway-revival-aaron-sorkin-bradley-whitford-1236935521/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Aaron Sorkin isn’t known for his Dickensian charactonyms, but in the exceptional revival of “A Few Good Men” at Lincoln Center’s Vivian Beaumont Theater, the name Joanne Galloway stands out. Although the character often goes by the gender-neutral nickname Jo, she is still a gal fighting for respect in a man s world. Jo’s status as [ ]",
+      "published": "2026-10-30T20:18:39+00:00",
+      "fetched": "2026-10-30T21:43:27.889823+00:00"
+    },
+    {
+      "id": "e568e0209d906b4a",
+      "title": "‘Criminal Minds: Evolution’ to End With Season 20 at Paramount+",
+      "link": "https://variety.com/2026/tv/news/criminal-minds-evolution-final-season-20-paramount-1236935501/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Criminal Minds: Evolution will end with its upcoming 20th season on Paramount+, Variety has learned. The long-running procedural was originally revived for Season 16 at the streamer back in 2022. Season 19 aired between May and July earlier this year.",
+      "published": "2026-10-30T20:00:00+00:00",
+      "fetched": "2026-10-30T21:43:27.889850+00:00"
+    },
+    {
+      "id": "619b65ab33f1a216",
+      "title": "‘Iron Man’ Cinematographer Matthew Libatique Says AI ‘Could Replace Marvel’ VFX, but They’ll Never ‘Use AI Actors’",
+      "link": "https://variety.com/2026/film/global/iron-man-matthew-libatique-ai-could-replace-marvel-vfx-1236934879/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Stepping outside the airport in Mallorca, three-time Oscar-nominee cinematographer Matthew Libatique was taken aback by the light. He briefly delayed greetings so he could take it all in: the way the autumnal sun kissed baby-pink buildings and glistened against the island’s shores before setting behind the mountains. This is an experience the veteran DP shared [ ]",
+      "published": "2026-10-30T19:30:32+00:00",
+      "fetched": "2026-10-30T21:43:27.889877+00:00"
+    },
+    {
+      "id": "24d883f5ca955ca8",
+      "title": "Skydance Sets Comms and Publicity Leadership Team, With Several Execs Departing",
+      "link": "https://variety.com/2026/film/news/skydance-communications-pr-publicity-leadership-exec-departures-1236935492/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The leadership teams across divisions at the new Skydance are continuing to be hashed out, three weeks after the Paramount-Warner Bros. Discovery merger closed. On Friday, Skydance chief communications officer Melissa Zukerman announced the senior members of her team in a memo to staff and announced the departures of several execs.",
+      "published": "2026-10-30T19:19:44+00:00",
+      "fetched": "2026-10-30T21:43:27.889900+00:00"
+    },
+    {
+      "id": "dc319f3006b3e0e3",
+      "title": "Hear Glen Hansard’s Posthumously Released Pogues Cover Honoring Shane MacGowan",
+      "link": "https://www.rollingstone.com/music/music-news/glen-hansard-posthumous-release-pogues-cover-shane-macgowan-1235650610/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Hansard’s live cover of the Pogues’ “Smoke in a Bottle” is a highlight of an upcoming MacGowan tribute album that also features Bruce Springsteen and U2",
+      "published": "2026-10-30T19:02:28+00:00",
+      "fetched": "2026-10-30T21:43:28.079469+00:00"
+    },
+    {
+      "id": "e322ca0314112c3f",
+      "title": "Dropkick Murphys Singer Interviews Bruce Springsteen, Joan Baez, Chuck D for New Video Series",
+      "link": "https://www.rollingstone.com/music/music-news/dropkick-murphys-ken-casey-bruce-springsteen-interview-1235650482/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The first episode of Ken Casey’s new Home of the Brave Backstage series is available now",
+      "published": "2026-10-30T18:49:26+00:00",
+      "fetched": "2026-10-30T21:43:28.079485+00:00"
+    },
+    {
+      "id": "522b77c83b25fa41",
+      "title": "Comeback or Farewell? Guns N’ Roses, Black Crowes, and Friends Salute Aerosmith at Hollywood Bowl",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/aerosmith-guns-n-roses-black-crowes-hollywood-bowl-set-list-1235650380/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "During the first of their two-night “California Dream On: Aerosmith Friends” concerts, drummer Joey Kramer played part of the set along with Dave Grohl and John Douglas",
+      "published": "2026-10-30T18:33:12+00:00",
+      "fetched": "2026-10-30T21:43:28.079505+00:00"
+    },
+    {
+      "id": "7ec3cd04f3b6c40f",
+      "title": "The New ‘ACOTAR’ Book Is Finally Here, and Amazon Is Discounting the Original Series to Celebrate",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/court-of-thorns-and-roses-box-set-deal-discount-1235343100/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The latest installment in the fantasy series just hit shelves, and the first five books are now discounted for less than $50",
+      "published": "2026-10-30T18:18:39+00:00",
+      "fetched": "2026-10-30T21:43:28.079522+00:00"
+    },
+    {
+      "id": "955033fc4635c15e",
+      "title": "From Artist-Approved Headphones to Diamonds and Decor, Here Are 18 Luxury Gifts Worth Giving This Year",
+      "link": "https://www.rollingstone.com/product-recommendations/gift-guide/best-luxury-gift-guide-1234644291/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From fancy tech to designer accessories, these are the best gifts for loved ones you want to spoil a little (or a lot)",
+      "published": "2026-10-30T17:55:00+00:00",
+      "fetched": "2026-10-30T21:43:28.079537+00:00"
+    },
+    {
+      "id": "31eb0bf7d1717fb6",
+      "title": "Gracie Abrams, Dominic Fike, Daddy Yankee, and All the Songs You Need to Know This Week",
+      "link": "https://www.rollingstone.com/music/music-features/gracie-abrams-dominic-fike-songs-you-need-to-know-1235650270/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+      "published": "2026-10-30T17:33:49+00:00",
+      "fetched": "2026-10-30T21:43:28.079552+00:00"
+    },
     {
       "id": "ae832be29f2c3442",
       "title": "Rolling Stone Editors’ Picks, October 2026: Our Favorite Products, Sips, and Services of the Month",
@@ -1302,206 +1502,6 @@
       "summary": "The My Morning Jacket frontman will release his debut memoir One Wonders in April with reflections on his musical career and mental health journey",
       "published": "2026-10-28T18:23:15+00:00",
       "fetched": "2026-10-28T21:56:19.627445+00:00"
-    },
-    {
-      "id": "fb4f1dbf9efd1459",
-      "title": "Garth Brooks Doesn’t Let Oklahoma Forget Where He Came From in Rowdy Homecoming",
-      "link": "https://www.rollingstone.com/music/music-features/garth-brooks-oklahoma-concert-review-1235649275/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The country star's Sunday matinee concert in Tulsa found him shouting out local dive bars and taking requests",
-      "published": "2026-10-28T17:05:15+00:00",
-      "fetched": "2026-10-28T17:29:00.896884+00:00"
-    },
-    {
-      "id": "8a742b9849dc38a5",
-      "title": "Variety’s 10 Actors to Watch Detail Tapping Into Dark Characters and Gaining Confidence at Newport Beach Film Festival",
-      "link": "https://variety.com/2026/awards/fashion/10-actors-to-watch-panel-newport-beach-film-festival-video-1236932443/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Get used to seeing these faces this awards season. Variety s 2026 10 Actors to Watch took the stage in Newport Beach, California, for a conversation about performance, craft and process on October 18. Variety moderated this conversation in partnership with Newport Beach Film Festival.",
-      "published": "2026-10-28T17:05:00+00:00",
-      "fetched": "2026-10-28T17:29:00.687485+00:00"
-    },
-    {
-      "id": "f7348acad2e56e31",
-      "title": "‘The Diplomat,’ ‘Nobody Wants This,’ ‘East of Eden’ Among Series to Take Part in Netflix’s ‘FYSee: The Fall Edit’ Awards Showcase (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/netflix-fysee-fall-edit-diplomat-nobody-wants-this-1236932579/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "It may be film awards season, but Netflix hasn t forgotten about its TV contenders. The streamer is set to throw its fourth annual “FYSee: The Fall Edit” fall awards showcase, taking place the first two weekends of November at Netflix s Tudum Theater in Hollywood. Among the series set to be showcased via screenings and panels [ ]",
-      "published": "2026-10-28T17:00:00+00:00",
-      "fetched": "2026-10-28T17:29:00.687554+00:00"
-    },
-    {
-      "id": "774684157e59e7ad",
-      "title": "Guided by Voices Welcome 2027 by Announcing ‘Speculation and Gossip’",
-      "link": "https://www.rollingstone.com/music/music-news/guided-by-voices-speculation-and-gossip-album-1235648797/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The first single off new album Designed for Use is a barreling, muscled track that turns a piece of mundane packaging copy into a motto",
-      "published": "2026-10-28T17:00:00+00:00",
-      "fetched": "2026-10-28T17:29:00.896925+00:00"
-    },
-    {
-      "id": "b93781411571b68e",
-      "title": "Ozzy Osbourne’s Last Black Sabbath Concert Will Be Available On Vinyl",
-      "link": "https://www.rollingstone.com/music/music-news/ozzy-osbournes-back-to-the-beginning-film-soundtrack-1235649235/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Following its theatrical release, film and soundtrack versions of Back to the Beginning will be available on DVD, Blu-ray, CD, and vinyl with special bonus material",
-      "published": "2026-10-28T16:52:33+00:00",
-      "fetched": "2026-10-28T17:29:00.896960+00:00"
-    },
-    {
-      "id": "bd2eaaab31d7f17e",
-      "title": "‘Beast in Me’ Season 2 Casts John Goodman",
-      "link": "https://variety.com/2026/tv/news/beast-in-me-season-2-cast-john-goodman-1236933352/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "John Goodman has joined The Beast in Me Season 2 at Netflix, Variety has learned. The second season of the series was announced in September, with Season 1 star Claire Danes set to return as Aggie Wiggs. Goodman will play Jack, Aggie s father.",
-      "published": "2026-10-28T16:45:00+00:00",
-      "fetched": "2026-10-28T17:29:00.687602+00:00"
-    },
-    {
-      "id": "75a2afe99188acc7",
-      "title": "The Georgia Bulldogs Tap OutKast for Fresh, Clean Merch Collection Ahead of Florida Rivalry Game",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/outkast-georgia-bulldogs-merch-where-to-buy-online-1235649261/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The limited-edition apparel and on-field collection comes before Georgia hosts Florida for the first time — here's where to shop the pieces while they're in stock",
-      "published": "2026-10-28T16:44:05+00:00",
-      "fetched": "2026-10-28T17:29:00.896995+00:00"
-    },
-    {
-      "id": "ecde7f60e58a0027",
-      "title": "Skydance Sets Finance Leadership Team Following Paramount-Warner Bros. Merger",
-      "link": "https://variety.com/2026/film/news/skydance-finance-leadership-appointments-paramount-warner-bros-1236933430/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Skydance Corp., the new company formed from David Ellison s massive Paramount-Warner Bros. Discovery merger, has established the leadership team overseeing financial operations across the business. Ellison and Ynon Kreiz, co-CEO of Skydance, previously announced the senior leadership team for the new company (a day before the deal officially closed).",
-      "published": "2026-10-28T16:43:17+00:00",
-      "fetched": "2026-10-28T17:29:00.687649+00:00"
-    },
-    {
-      "id": "7897af4fad896f02",
-      "title": "‘Sunrise on the Reaping’ Reunites Jennifer Lawrence With Woody Harrelson: ‘So Emotional’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/jennifer-lawrence-reunion-josh-hutcherson-woody-harrelson-1235649193/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "For the first time in over a decade, Lawrence fell back into step alongside Josh Hutcherson and Harrelson on the set of new Hunger Games movie",
-      "published": "2026-10-28T16:21:35+00:00",
-      "fetched": "2026-10-28T17:29:00.897028+00:00"
-    },
-    {
-      "id": "5e92abdf7d839cb0",
-      "title": "Kathleen Kennedy to Lead LA Olympics Opening and Closing Ceremonies After ‘Star Wars’ Exit, Replacing Peter Rice",
-      "link": "https://variety.com/2026/film/news/kathleen-kennedy-la-olympics-ceremonies-peter-rice-1236933433/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Kathleen Kennedy, the former head of Lucasfilm, has been tapped as head of ceremonies and content for the 2028 Los Angeles Olympics. She s replacing Peter Rice, who was hired as Netflix s chief content officer earlier this week and took over for Bela Bajaria. He will remain involved with the LA28 Games as executive producer, as [ ]",
-      "published": "2026-10-28T16:18:56+00:00",
-      "fetched": "2026-10-28T17:29:00.687697+00:00"
-    },
-    {
-      "id": "a7351b54865bba6d",
-      "title": "John Carpenter to Receive Filmmaker of the Year at ACE Eddie Awards",
-      "link": "https://variety.com/2026/awards/news/john-carpenter-ace-eddie-awards-filmmaker-of-the-year-1236932593/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Filmmaker, screenwriter, producer and composer John Carpenter will receive the American Cinema Editors (ACE) Golden Eddie Filmmaker of the Year award at the 77th annual ACE Eddie Awards. Editors Bonnie Koehler and Christopher Nelson will also receive ACE Career Achievement awards during the ceremony, which recognizes the best film editing achievements of the year across [ ]",
-      "published": "2026-10-28T16:00:00+00:00",
-      "fetched": "2026-10-28T17:29:00.687739+00:00"
-    },
-    {
-      "id": "dfd126645567f5d6",
-      "title": "‘Pride and Prejudice’ Trailer: Emma Corrin and Jack Lowden Reboot Elizabeth Bennet and Mr. Darcy’s Love Story for Netflix",
-      "link": "https://variety.com/2026/tv/global/pride-and-prejudice-trailer-emma-corrin-jack-lowden-netflix-series-1236481706/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Netflix has released the trailer for its upcoming “Pride and Prejudice” limited series, starring Emma Corrin and Jack Lowden as adversaries-to-lovers Elizabeth Bennet and Mr. Darcy. The six-part series is a faithful adaptation of Jane Austen’s 1813 novel penned by Everything I Know About Love author Dolly Alderton, centering on the will-they-won t-they love story of [ ]",
-      "published": "2026-10-28T15:26:35+00:00",
-      "fetched": "2026-10-28T17:29:00.687799+00:00"
-    },
-    {
-      "id": "bf18c7b0cab2cb03",
-      "title": "How DC’s Progressive ‘Absolute’ Line Has Reinvigorated Modern Comics",
-      "link": "https://www.rollingstone.com/culture/culture-features/inside-dc-comics-absolute-batman-superman-wonder-woman-1235647159/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The alternate universe series is grim, political, and more popular than anything else in 20 years",
-      "published": "2026-10-28T15:16:35+00:00",
-      "fetched": "2026-10-28T17:29:00.897055+00:00"
-    },
-    {
-      "id": "9ae9cb2e7567caa5",
-      "title": "Fox News Ratings Sink a Staggering 27% in October, but It Still Has Much a Larger Audience Than CNN or MS NOW",
-      "link": "https://variety.com/2026/tv/news/fox-news-ratings-plunge-october-2026-cnn-ms-now-1236933379/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In the lead-up to the 2026 midterm elections, Fox News lost more than a quarter of its overall viewing audience in the month of October, according to new data. That said, the network remains the most-watched news outlet on cable, well ahead of rivals CNN and MS NOW. For October 2026, Fox News is on [ ]",
-      "published": "2026-10-28T15:10:23+00:00",
-      "fetched": "2026-10-28T17:29:00.687840+00:00"
-    },
-    {
-      "id": "636dd72a86d81476",
-      "title": "Jamie Dornan Says There’s ‘Pressure’ to Taking Over Aragorn Role in ‘Lord of the Rings: Hunt for Gollum’: I’m Not ‘Trying to Outdo’ Viggo Mortensen",
-      "link": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-lord-of-rings-1236933354/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jamie Dornan is stepping into the shoes of Aragorn in The Lord of the Rings: The Hunt for Gollum, after the hero was famously played by Viggo Mortensen in the original LOTR trilogy. Dornan spoke to L Officiel (translated by Slash Film) about taking on the role and playing a younger version in the prequel. “There’s [ ]",
-      "published": "2026-10-28T15:02:36+00:00",
-      "fetched": "2026-10-28T17:29:00.687895+00:00"
-    },
-    {
-      "id": "df6fa746591317f6",
-      "title": "How a Four-Sentence Bedtime Story Became the Horror Hit ‘Other Mommy’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/other-mommy-book-author-josh-malerman-true-story-1235648414/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Indie rocker and bestselling author Josh Malerman's latest nightmare-inducing novel sees a big-screen adaptation starring Jessica Chastain",
-      "published": "2026-10-28T15:00:00+00:00",
-      "fetched": "2026-10-28T17:29:00.897084+00:00"
-    },
-    {
-      "id": "022109ae02a57cb6",
-      "title": "Russell Brand Takes Stand In Rape Trial — Says People Have Abandoned Him",
-      "link": "https://www.rollingstone.com/culture/culture-news/russell-brand-testimony-rape-trial-1235649140/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The former actor and comedian has maintained his sexual encounters were all consensual, as multiple women spanning a decade accuse him of assault",
-      "published": "2026-10-28T14:58:41+00:00",
-      "fetched": "2026-10-28T17:29:00.897114+00:00"
-    },
-    {
-      "id": "89801a2d3eb25bba",
-      "title": "Bob Dylan Played ‘Not Dark Yet’ for First Time in Seven Years, and Totally Reimagined It",
-      "link": "https://www.rollingstone.com/music/music-news/bob-dylan-not-dark-yet-first-time-seven-years-1235649184/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "He shaved two minutes off the Time Out of Mind classic, but added in a distinct reggae touch and made some of the darkest lyrics of his career feel significantly less dreary",
-      "published": "2026-10-28T14:53:21+00:00",
-      "fetched": "2026-10-28T17:29:00.897147+00:00"
-    },
-    {
-      "id": "54b08ec13af1e29f",
-      "title": "Foo Fighters Go Back to the Start on ‘Kimmel’ With ‘This Is a Call’",
-      "link": "https://www.rollingstone.com/music/music-news/foo-fighters-perform-this-is-a-call-kimmel-1235649146/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The band's latest selection for their week of performances on the late-night series was first released as the lead single from their debut album Foo Fighters in 1995",
-      "published": "2026-10-28T14:48:47+00:00",
-      "fetched": "2026-10-28T17:29:00.897178+00:00"
-    },
-    {
-      "id": "593976f5a09aba68",
-      "title": "Versant Expands Suite of FAST Channels With 4 New Selections From CNBC, E!, Oxygen",
-      "link": "https://variety.com/2026/tv/news/versant-expands-fast-channels-4-new-cnbc-e-oxygen-1236933344/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Versant may best be known for the cable channels that provide the bulk of its revenue, but the company continues to build out new-media extensions. The owner of MS NOW, CNBC and USA is launching four new free ad-supported streaming networks based on programming franchises from CNBC, Oxygen and E!. When these new options debut, [ ]",
-      "published": "2026-10-28T14:45:00+00:00",
-      "fetched": "2026-10-28T17:29:00.687936+00:00"
     }
   ]
 }

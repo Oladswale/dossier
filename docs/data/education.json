@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-10-30T17:18:05.587934+00:00",
+  "updated": "2026-10-30T21:43:29.220361+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "87f4ee5dec64427c",
+      "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "link": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+      "published": "2026-10-30T20:15:00+00:00",
+      "fetched": "2026-10-30T21:43:28.419537+00:00"
+    },
+    {
+      "id": "c7a658aefd9f7190",
+      "title": "J-PAL North America launches ARTEMIS to train early-career researchers",
+      "link": "https://news.mit.edu/2026/j-pal-north-america-launches-artemis-train-early-career-researchers-1030",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Applied Research Training in Evaluation, Methods, and Impact Studies program provides dedicated support to help researchers overcome barriers to pursue and obtain funding for randomized evaluations.",
+      "published": "2026-10-30T19:30:00+00:00",
+      "fetched": "2026-10-30T21:43:28.419560+00:00"
+    },
+    {
+      "id": "98f9f07000c14bfc",
+      "title": "Study pinpoints states with steepest warming trends since 1980",
+      "link": "https://news.mit.edu/2026/study-pinpoints-states-with-steepest-warming-trends-1030",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The findings indicate where adaptive measures are needed most around the United States.",
+      "published": "2026-10-30T19:15:00+00:00",
+      "fetched": "2026-10-30T21:43:28.419572+00:00"
+    },
+    {
+      "id": "5b295f6331dc8d11",
+      "title": "Q&A: Hey AI, who should I vote for this year?",
+      "link": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
+      "published": "2026-10-30T19:00:00+00:00",
+      "fetched": "2026-10-30T21:43:28.419588+00:00"
+    },
     {
       "id": "73e35ca7bac8bcf0",
       "title": "Watch 150 Classic Horror and Suspense Films Free Online: Nosferatu, The Cabinet of Dr. Caligari, Carnival of Souls, Night of the Living Dead & More",
@@ -1462,46 +1502,6 @@
       "summary": "Precision, repeatability, and fun are the focus in mechanical engineering course 2.70 (Fundamentals of Precision Product Design).",
       "published": "2026-09-23T04:00:00+00:00",
       "fetched": "2026-09-23T10:21:13.180087+00:00"
-    },
-    {
-      "id": "8420f7e75b0d880e",
-      "title": "Featured video: Behind the lens at Lincoln Laboratory",
-      "link": "https://news.mit.edu/2026/featured-video-niki-fandel-behind-lens-lincoln-laboratory-0922",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Staff photographer Niki Fandel captures the people and technology advancing Lincoln Laboratory’s national security mission.",
-      "published": "2026-09-22T20:55:00+00:00",
-      "fetched": "2026-09-23T01:58:30.706725+00:00"
-    },
-    {
-      "id": "5f48c60cc09a163c",
-      "title": "How the brain keeps its options straight at decision time",
-      "link": "https://news.mit.edu/2026/how-brain-keeps-its-options-straight-at-decision-time-0922",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Making a decision requires juggling a set of options without getting them confused or losing track of them. A new MIT study shows how neurons encode information to maximize clarity throughout the process.",
-      "published": "2026-09-22T20:00:00+00:00",
-      "fetched": "2026-09-22T20:32:27.360203+00:00"
-    },
-    {
-      "id": "bd54fdc3d525d3c6",
-      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "link": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.",
-      "published": "2026-09-22T19:00:00+00:00",
-      "fetched": "2026-09-22T20:32:27.360238+00:00"
-    },
-    {
-      "id": "e72491eabf0359f6",
-      "title": "How Alan Turing and His Fellow Codebreakers Broke the Nazis’ “Unbreakable” Enigma Code",
-      "link": "https://www.openculture.com/2026/09/how-alan-turing-and-his-fellow-codebreakers-broke-the-nazis-unbreakable-enigma-code.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "There was a time when you could just go out and buy an Enigma machine. In the early nineteen-twenties, any organization with a need to keep its communications secret could order a few of those brand-new devices from Germany and rest assured that any messages encoded using them would be safe from prying eyes. It [ ]",
-      "published": "2026-09-22T09:00:26+00:00",
-      "fetched": "2026-09-22T15:48:26.036577+00:00"
     }
   ]
 }

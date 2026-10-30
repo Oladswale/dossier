@@ -1,8 +1,158 @@
 {
   "category": "finance",
-  "updated": "2026-10-30T17:17:50.064356+00:00",
+  "updated": "2026-10-30T21:43:15.171578+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "452c2735f5ba9fff",
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+      "published": "2026-10-30T21:30:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188772+00:00"
+    },
+    {
+      "id": "3ef21cfc3d7a3779",
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+      "published": "2026-10-30T21:23:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188793+00:00"
+    },
+    {
+      "id": "db39cf7eeb851b67",
+      "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+      "published": "2026-10-30T20:48:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188820+00:00"
+    },
+    {
+      "id": "798621511bf8d766",
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "published": "2026-10-30T20:42:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188838+00:00"
+    },
+    {
+      "id": "a7a6f87d4c1d3449",
+      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+      "published": "2026-10-30T20:29:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188852+00:00"
+    },
+    {
+      "id": "356e02415769522b",
+      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+      "published": "2026-10-30T20:28:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188869+00:00"
+    },
+    {
+      "id": "face0792a253c02c",
+      "title": "Bitcoin drops below $77,000 as $6 billion Binance hack rattles crypto market",
+      "link": "https://nairametrics.com/2026/10/30/bitcoin-drops-below-77000-as-6-billion-binance-hack-rattles-crypto-market/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Bitcoin fell below $77,000 for the first time in more than a month on Friday, following a record security breach at Binance that resulted in the theft of more than $6 billion on October 29, and renewed concerns about the safety of cryptocurrency holdings. The post Bitcoin drops below $77,000 as $6 billion Binance hack rattles crypto market appeared first on Nairametrics .",
+      "published": "2026-10-30T20:27:16+00:00",
+      "fetched": "2026-10-30T21:43:13.922960+00:00"
+    },
+    {
+      "id": "e059fb2547e5e973",
+      "title": "The selloff in tech stocks is shifting into overdrive",
+      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Technology stocks had been priced for perfection. They are now getting hammered.",
+      "published": "2026-10-30T20:26:00+00:00",
+      "fetched": "2026-10-30T21:43:13.188884+00:00"
+    },
+    {
+      "id": "f51f4ee580f48565",
+      "title": "Cadbury Nigeria: Mondelez gets paid, minorities please wait",
+      "link": "https://nairametrics.com/2026/10/30/cadbury-nigeria-mondelez-gets-paid-minorities-please-wait/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Cadbury Nigeria s nine-month numbers read like a recovery story. The related-party notes read more like the accounts of a well-run Mondelez branch office. Cadbury Nigeria s nine-month profit of N10.1 billion already beats its whole of 2025.",
+      "published": "2026-10-30T20:17:46+00:00",
+      "fetched": "2026-10-30T21:43:13.923001+00:00"
+    },
+    {
+      "id": "d94bd1cdac964870",
+      "title": "Custodian Investment’s nine-month pre-tax profit rises 25.52% to N66.20 billion",
+      "link": "https://nairametrics.com/2026/10/30/custodian-investments-nine-month-pre-tax-profit-rises-25-52-to-n66-20-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Custodian Investment Plc reported a pre-tax profit of N66.20 billion for the nine months ended September 30, 2026, representing a 25.52% increase from N52.74 billion in the corresponding period of 2025. The post Custodian Investment s nine-month pre-tax profit rises 25.52% to N66.20 billion appeared first on Nairametrics .",
+      "published": "2026-10-30T20:03:37+00:00",
+      "fetched": "2026-10-30T21:43:13.923030+00:00"
+    },
+    {
+      "id": "97675fc7c311c536",
+      "title": "eTranzact’s nine-month profit after tax declines 42.7% to N1.38 billion",
+      "link": "https://nairametrics.com/2026/10/30/etranzacts-nine-month-profit-after-tax-declines-42-7-to-n1-38-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "eTranzact International Plc reported a 42.7% decline in profit after tax to N1.38 billion for the nine months ended September 30, 2026, compared with N2.41 billion recorded in the corresponding period of 2025, as rising operating expenses weighed on profitability. The post eTranzact’s nine-month profit after tax declines 42.7% to N1.38 billion appeared first on Nairametrics .",
+      "published": "2026-10-30T19:59:08+00:00",
+      "fetched": "2026-10-30T21:43:13.923064+00:00"
+    },
+    {
+      "id": "1cfba626e18e59b0",
+      "title": "Cornerstone Insurance’s nine-month pre-tax profit declines 6.93% to N7.74 billion",
+      "link": "https://nairametrics.com/2026/10/30/cornerstone-insurances-nine-month-pre-tax-profit-declines-6-93-to-n7-74-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Cornerstone Insurance Plc has released its unaudited financial results for the nine months ended September 30, 2026, reporting a pre-tax profit of N7.74 billion, representing a 6.93% decline from N8.32 billion in the corresponding period of 2025. The post Cornerstone Insurance s nine-month pre-tax profit declines 6.93% to N7.74 billion appeared first on Nairametrics .",
+      "published": "2026-10-30T19:35:37+00:00",
+      "fetched": "2026-10-30T21:43:13.923090+00:00"
+    },
+    {
+      "id": "6126a85b53c7019c",
+      "title": "Oando records N74.65 billion pre-tax loss in 9M 2026 as finance costs hit N235.23 billion",
+      "link": "https://nairametrics.com/2026/10/30/oando-records-n74-65-billion-pre-tax-loss-in-9m-2026-as-finance-costs-hit-n235-23-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Oando Plc recorded a pre-tax loss of N74.65 billion for the nine months ended September 30, 2026, compared with a pre-tax profit of N19.46 billion in the corresponding period of 2025, as high net finance costs outweighed a recovery in operating profit. The post Oando records N74.65 billion pre-tax loss in 9M 2026 as finance costs hit N235.23 billion appeared first on Nairametrics .",
+      "published": "2026-10-30T19:24:06+00:00",
+      "fetched": "2026-10-30T21:43:13.923115+00:00"
+    },
+    {
+      "id": "8fb58f67b4d66377",
+      "title": "FG begins N50,000 monthly cash relief for vulnerable Nigerian households",
+      "link": "https://nairametrics.com/2026/10/30/fg-begins-n50000-monthly-cash-relief-for-vulnerable-nigerian-households/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has commenced a monthly cash relief programme offering N50,000 to vulnerable Nigerian households to cushion the effects of rising living costs. The post FG begins N50,000 monthly cash relief for vulnerable Nigerian households appeared first on Nairametrics .",
+      "published": "2026-10-30T18:19:21+00:00",
+      "fetched": "2026-10-30T21:43:13.923137+00:00"
+    },
+    {
+      "id": "05c41d29df7d428d",
+      "title": "Julius Berger’s cashew and regional expansion unit loses N25.8 billion in 9M 2026",
+      "link": "https://nairametrics.com/2026/10/30/julius-bergers-cashew-and-regional-expansion-unit-loses-n25-8-billion-in-9m-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Julius Berger Nigeria Plc’s Diversification segment recorded an operating loss of N25.77 billion in the nine months ended September 30, 2026, almost four times the N6.49 billion loss reported a year earlier. The post Julius Berger s cashew and regional expansion unit loses N25.8 billion in 9M 2026 appeared first on Nairametrics .",
+      "published": "2026-10-30T18:02:18+00:00",
+      "fetched": "2026-10-30T21:43:13.923167+00:00"
+    },
     {
       "id": "97372ac434d8e3b6",
       "title": "The big winners of the tech wreck are biopharma stocks",
@@ -12,6 +162,16 @@
       "summary": "The shares of large drugmakers like Lilly, Gilead and J J keep hitting record highs.",
       "published": "2026-10-30T17:13:00+00:00",
       "fetched": "2026-10-30T17:17:49.012956+00:00"
+    },
+    {
+      "id": "8fabd039bbde83d9",
+      "title": "NGX market cap adds N140.55 billion to hit N165.11 trillion all-time high",
+      "link": "https://nairametrics.com/2026/10/30/breaking-ngx-market-cap-adds-n140-55-billion-to-hit-n165-11-trillion-all-time-high/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Equity trading on the Nigerian Exchange Limited (NGX) closed the final trading session of the week on Friday, October 30, 2026, on a peak note, with total equities market capitalisation rising to N165.114 trillion. The post NGX market cap adds N140.55 billion to hit N165.11 trillion all-time high appeared first on Nairametrics .",
+      "published": "2026-10-30T17:09:06+00:00",
+      "fetched": "2026-10-30T21:43:13.923190+00:00"
     },
     {
       "id": "96754b527f1830d4",
@@ -64,6 +224,16 @@
       "fetched": "2026-10-30T17:17:49.013076+00:00"
     },
     {
+      "id": "2dbfd034c82ee282",
+      "title": "Nestlé Nigeria to sell waters, premium beverages unit to new entity",
+      "link": "https://nairametrics.com/2026/10/30/nestle-nigeria-to-sell-waters-premium-beverages-unit-to-new-entity/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nestlé Nigeria Plc is seeking regulatory and shareholder approval for the proposed transfer of its waters and premium beverages business to Peranel, a 50:50 joint venture between its parent company, Nestlé S.A., and global investment firm Platinum Equity. The post Nestlé Nigeria to sell waters, premium beverages unit to new entity appeared first on Nairametrics .",
+      "published": "2026-10-30T16:10:40+00:00",
+      "fetched": "2026-10-30T21:43:13.923229+00:00"
+    },
+    {
       "id": "db8cd74405f30088",
       "title": "BREAKING: Nestlé Nigeria to sell waters, premium beverages unit to new entity",
       "link": "https://nairametrics.com/2026/10/30/nestle-nigeria-to-sell-waters-premium-beverages-unit-to-new-entity/",
@@ -92,6 +262,16 @@
       "summary": "About 52% of people with a workplace retirement plan say they would invest in private assets if they were available in their company’s plan.",
       "published": "2026-10-30T15:53:00+00:00",
       "fetched": "2026-10-30T17:17:49.013126+00:00"
+    },
+    {
+      "id": "ad749ff7b8309c2c",
+      "title": "Zenith Bank posts N928.8 billion pre-tax profit as impairment charges fall 70.5%",
+      "link": "https://nairametrics.com/2026/10/30/zenith-bank-posts-n928-8-billion-pre-tax-profit-as-impairment-charges-fall-70-5/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Zenith Bank Group reported pre-tax profit of N928.80 billion for the nine months ended September 2026, up 1.24% from N917.41 billion in the corresponding period of 2025. The post Zenith Bank posts N928.8 billion pre-tax profit as impairment charges fall 70.5% appeared first on Nairametrics .",
+      "published": "2026-10-30T15:37:57+00:00",
+      "fetched": "2026-10-30T21:43:13.923254+00:00"
     },
     {
       "id": "ebfc0e60a7da8cc1",
@@ -1322,186 +1502,6 @@
       "summary": "Nigeria’s securities regulator has urged local founders to look closer to home for capital, arguing that crowdfunding and debt markets can offer a route to an eventual stock market listing. Emomotimi Agama, director-general of the Securities and Exchange Commission, told Moonshot by TechCabal in Lagos on Wednesday that founders could start by raising money from [ ]",
       "published": "2026-10-29T09:03:48+00:00",
       "fetched": "2026-10-29T11:51:02.748067+00:00"
-    },
-    {
-      "id": "12f3cccc729707a1",
-      "title": "FirstBank partners Pointek to offer phones, laptops on instalment payments",
-      "link": "https://nairametrics.com/2026/10/29/firstbank-partners-pointek-to-offer-phones-laptops-on-instalment-payments/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FirstBank of Nigeria has partnered with electronics retailer Pointek to enable eligible customers to purchase smartphones, laptops and household appliances through instalment payments under its FirstEase buy-now-pay-later product. The post FirstBank partners Pointek to offer phones, laptops on instalment payments appeared first on Nairametrics .",
-      "published": "2026-10-29T08:40:59+00:00",
-      "fetched": "2026-10-29T11:51:01.895305+00:00"
-    },
-    {
-      "id": "92e2022dd29b9402",
-      "title": "Lagos unveils 2052 growth plan, targets $1 trillion economy",
-      "link": "https://nairametrics.com/2026/10/29/lagos-unveils-2052-growth-plan-targets-1-trillion-economy/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos State has unveiled a long-term development plan targeting an economy worth nearly $1 trillion by 2052, as it seeks to attract investment and strengthen its position as a globally competitive economic and financial hub. The post Lagos unveils 2052 growth plan, targets $1 trillion economy appeared first on Nairametrics .",
-      "published": "2026-10-29T08:30:31+00:00",
-      "fetched": "2026-10-29T11:51:01.895342+00:00"
-    },
-    {
-      "id": "cc1e9dd78d17a8e8",
-      "title": "UK commits $335,000 to drive investment in Nigerian women-led businesses",
-      "link": "https://nairametrics.com/2026/10/29/uk-commits-335000-to-drive-investment-in-nigerian-women-led-businesses/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United Kingdom Government has committed $335,000 to establish the RiTA Investment Network, a new platform designed to channel more domestic investment into women-led businesses in Nigeria. The post UK commits $335,000 to drive investment in Nigerian women-led businesses appeared first on Nairametrics .",
-      "published": "2026-10-29T08:12:02+00:00",
-      "fetched": "2026-10-29T11:51:01.895378+00:00"
-    },
-    {
-      "id": "14c44b9a31650d09",
-      "title": "CBN Data localization rule: Only 59% of banks, fintechs ready for January deadline",
-      "link": "https://nairametrics.com/2026/10/29/cbn-data-localization-rule-only-59-of-banks-fintechs-ready-for-january-deadline/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A survey conducted by the National Information Technology Development Agency (NITDA) has revealed that only 59% of banks, fintechs and other financial institutions in Nigeria are ready to meet the January 2027 deadline set by the Central Bank of Nigeria (CBN) for them to host all payment data locally. The post CBN Data localization rule: Only 59% of banks, fintechs ready for January deadline appeared first on Nairametrics .",
-      "published": "2026-10-29T08:03:05+00:00",
-      "fetched": "2026-10-29T11:51:01.895428+00:00"
-    },
-    {
-      "id": "df0b411b0c541517",
-      "title": "Court sentences FCDA official to 7 years’ imprisonment over land racketeering",
-      "link": "https://nairametrics.com/2026/10/29/court-sentences-fcda-official-to-7-years-imprisonment-over-land-racketeering/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The High Court of the Federal Capital Territory (FCT), Abuja, has convicted and sentenced a staff member of the Federal Capital Development Authority (FCDA), Kinsley Eselebor, to seven years’ imprisonment over his role in land racketeering. The post Court sentences FCDA official to 7 years’ imprisonment over land racketeering appeared first on Nairametrics .",
-      "published": "2026-10-29T08:00:36+00:00",
-      "fetched": "2026-10-29T11:51:01.895480+00:00"
-    },
-    {
-      "id": "80343a5062e6658e",
-      "title": "Naira strengthens for third session after sharp October 23 depreciation",
-      "link": "https://nairametrics.com/2026/10/29/naira-strengthens-for-third-session-after-sharp-october-23-depreciation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The naira strengthened against the US dollar for a third consecutive trading session on Wednesday, October 28, 2026, closing at N1,349/$ at the Nigerian Foreign Exchange Market (NFEM), compared with N1,357/$ on Tuesday. The post Naira strengthens for third session after sharp October 23 depreciation appeared first on Nairametrics .",
-      "published": "2026-10-29T07:56:53+00:00",
-      "fetched": "2026-10-29T11:51:01.895520+00:00"
-    },
-    {
-      "id": "c4f3c2d57ec4671e",
-      "title": "Dangote hires Spanish engineering firm for $4 billion Ethiopia fertiliser plant",
-      "link": "https://nairametrics.com/2026/10/29/dangote-hires-spanish-engineering-firm-for-4-billion-ethiopia-fertiliser-plant/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Group has awarded a contract to Spanish engineering firm Técnicas Reunidas for the supply of hydrogen production equipment for its $4 billion fertiliser plant under development in Ethiopia. The post Dangote hires Spanish engineering firm for $4 billion Ethiopia fertiliser plant appeared first on Nairametrics .",
-      "published": "2026-10-29T07:54:08+00:00",
-      "fetched": "2026-10-29T11:51:01.895579+00:00"
-    },
-    {
-      "id": "cf64e30862d2709e",
-      "title": "Ecobank reports N1.01 trillion 9M pre-tax profit as Q3 earnings rise 8.13%",
-      "link": "https://nairametrics.com/2026/10/29/ecobank-reports-n1-01-trillion-9m-pre-tax-profit-as-q3-earnings-rise-8-13/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ecobank Transnational Incorporated (ETI) reported a pre-tax profit of N1.01 trillion for the nine months ended September 30, 2026, representing a marginal decline of 0.41% from N1.015 trillion in the corresponding period of 2025. The post Ecobank reports N1.01 trillion 9M pre-tax profit as Q3 earnings rise 8.13% appeared first on Nairametrics .",
-      "published": "2026-10-29T07:13:24+00:00",
-      "fetched": "2026-10-29T11:51:01.895619+00:00"
-    },
-    {
-      "id": "d2a7a265d1bf051b",
-      "title": "Sterling Financial Holdings’ 9M 2026 pre-tax profit rises 37% to N97.28 billion",
-      "link": "https://nairametrics.com/2026/10/29/sterling-financial-holdings-9m-2026-pre-tax-profit-rises-37-to-n97-28-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Sterling Financial Holdings Company Plc reported a pre-tax profit of N97.28 billion in its unaudited financial results for the nine months ended 30 September 2026, representing an increase of 37.09% from N70.96 billion recorded in the corresponding period of 2025. The post Sterling Financial Holdings 9M 2026 pre-tax profit rises 37% to N97.28 billion appeared first on Nairametrics .",
-      "published": "2026-10-29T07:01:08+00:00",
-      "fetched": "2026-10-29T11:51:01.895663+00:00"
-    },
-    {
-      "id": "3d2094d335b6812e",
-      "title": "NCC moves to protect small operators amid rising complaints by ISPs",
-      "link": "https://nairametrics.com/2026/10/29/ncc-moves-to-protect-small-operators-amid-rising-complaints-by-isps/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Communications Commission (NCC) has said it is putting measures in place to ensure that small players in the Nigerian telecommunications industry are protected. The post NCC moves to protect small operators amid rising complaints by ISPs appeared first on Nairametrics .",
-      "published": "2026-10-29T06:33:41+00:00",
-      "fetched": "2026-10-29T11:51:01.895705+00:00"
-    },
-    {
-      "id": "356322b0588bf83e",
-      "title": "👨🏿‍🚀TechCabal Daily – Grey launches Paycheck",
-      "link": "https://techcabal.com/2026/10/29/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-grey-launches-paycheck/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Grey launches Paycheck Mastercard, Interswitch partner to launch Google Pay Moonshot day 1 recap from Phathisani’s POV Moonshot day 1 recap from Emmanuel’s POV",
-      "published": "2026-10-29T06:28:56+00:00",
-      "fetched": "2026-10-29T11:51:02.748106+00:00"
-    },
-    {
-      "id": "084e6da5a3c89fe4",
-      "title": "DMO rejects N1.84 trillion bids, pushes T-bill rates lower",
-      "link": "https://nairametrics.com/2026/10/29/dmo-rejects-n1-84-trillion-bids-pushes-t-bill-rates-lower/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Debt Management Office (DMO), through the Central Bank of Nigeria (CBN), rejected N1.84 trillion in investor subscriptions at the October 28, 2026 Nigerian Treasury Bills auction, allotting just N71.16 billion as the one-year stop rate declined to 15.80%. The post DMO rejects N1.84 trillion bids, pushes T-bill rates lower appeared first on Nairametrics .",
-      "published": "2026-10-29T06:18:59+00:00",
-      "fetched": "2026-10-29T11:51:01.895743+00:00"
-    },
-    {
-      "id": "cc370037c1f783d8",
-      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-      "published": "2026-10-29T01:58:00+00:00",
-      "fetched": "2026-10-29T03:01:33.477762+00:00"
-    },
-    {
-      "id": "4527947a69aac403",
-      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "An agreement between the companies could come next week, Bloomberg reported",
-      "published": "2026-10-29T00:20:00+00:00",
-      "fetched": "2026-10-29T03:01:33.477786+00:00"
-    },
-    {
-      "id": "860d2ede10c38b19",
-      "title": "The major reason Microsoft’s stock is heading higher after earnings",
-      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
-      "published": "2026-10-29T00:10:00+00:00",
-      "fetched": "2026-10-29T03:01:33.477809+00:00"
-    },
-    {
-      "id": "66dd2911401fe1c4",
-      "title": "Grey launches Paycheck, targets growth beyond three million users",
-      "link": "https://techcabal.com/2026/10/29/grey-paycheck-fx-salary-accounts-moonshot/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The company, which has processed nearly $5 billion in payments since inception and recorded a 170% year-on-year increase in total payment volume, announced the new product at Moonshot by TechCabal 2026 in Lagos, Nigeria on Wednesday.",
-      "published": "2026-10-28T23:37:20+00:00",
-      "fetched": "2026-10-29T03:01:35.360668+00:00"
-    },
-    {
-      "id": "e6649d8fef13250a",
-      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
-      "published": "2026-10-28T23:18:00+00:00",
-      "fetched": "2026-10-29T03:01:33.477824+00:00"
-    },
-    {
-      "id": "e0e431db8301aa1c",
-      "title": "Africa’s digital economy needs more than apps to scale",
-      "link": "https://techcabal.com/2026/10/29/africas-digital-economy-needs-more-apps/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Africa’s digital economy needs more than apps that connect users to services. It also depends on reliable transport, location data, access to financing, and shared infrastructure that businesses can build. That was a central theme of the “Beyond the App: Building the Infrastructure Behind Africa’s Everyday Economy” panel at Moonshot by TechCabal 2026.",
-      "published": "2026-10-28T23:08:53+00:00",
-      "fetched": "2026-10-29T03:01:35.360707+00:00"
     }
   ]
 }
