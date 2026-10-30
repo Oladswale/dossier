@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-29T22:04:46.444039+00:00",
+  "updated": "2026-10-30T03:06:53.188246+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e8bae4fcd72e08eb",
+      "title": "Disgraced Purdue Pharma Exec Richard Sackler Must Forfeit His $63 Million Mansion To Settle Opioid Claims, Judge Rules",
+      "link": "https://www.realtor.com/news/trends/purdue-richard-sackler-greenwich-connecticut-mansion-opioid-settlement/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Dr. Richard Sackler's Greenwich, CT, mansion is at the heart of a legal dispute related to Purdue Pharma's historic opioid settlement.",
+      "published": "2026-10-29T22:19:59+00:00",
+      "fetched": "2026-10-30T03:06:53.187633+00:00"
+    },
     {
       "id": "aeb9a1badeabcc57",
       "title": "Beloved ‘Star Trek’ Actor Patrick Stewart Dies at Home in Los Angeles",
@@ -1492,16 +1502,6 @@
       "summary": "Radhi Devlukia shares an inside look at her L.A. kitchen sanctuary, complete with smart tech, organized pantries, and sentimental decor.",
       "published": "2026-10-22T08:02:00+00:00",
       "fetched": "2026-10-22T10:43:42.674345+00:00"
-    },
-    {
-      "id": "3fede215ca6b04ad",
-      "title": "Homes Are ‘Seriously Unaffordable’ in Nearly a Third of U.S. Counties, New Report Finds",
-      "link": "https://www.realtor.com/news/trends/housing-affordability-report-by-county-q3-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Major homeownership expenses exceeded historical affordability norms in 98% of the 583 counties real estate analytics firm ATTOM reviewed.",
-      "published": "2026-10-22T04:01:00+00:00",
-      "fetched": "2026-10-22T10:43:42.674375+00:00"
     }
   ]
 }
