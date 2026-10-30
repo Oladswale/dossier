@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-30T03:06:53.188246+00:00",
+  "updated": "2026-10-30T11:43:58.542423+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0c5f4fdbed90cfc5",
+      "title": "Homeowner Wins City Permit Battle Over His ‘Spooktacular’ Halloween Display",
+      "link": "https://www.realtor.com/news/trends/raleigh-homeowner-permits-oakwood-halloween-display/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Every Halloween, thousands of people flock to Raleigh’s Historic Oakwood neighborhood to see an elaborate display.",
+      "published": "2026-10-30T11:23:00+00:00",
+      "fetched": "2026-10-30T11:43:58.541834+00:00"
+    },
+    {
+      "id": "d5c52260cb2afe76",
+      "title": "Is the Housing Market About to Crash? What the Data (Actually) Shows",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1350",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Is the housing market going to crash? Everywhere you turn, there seems to be another headline forecasting the next housing market meltdown. But what’s behind all the noise?",
+      "published": "2026-10-30T11:00:20+00:00",
+      "fetched": "2026-10-30T11:43:58.207379+00:00"
+    },
+    {
+      "id": "9a428f1e1aafa2e5",
+      "title": "First-Time Landlord? How to Find Great Tenants on Your Own (Rookie Reply)",
+      "link": "https://www.biggerpockets.com/blog/rookie-790",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Ready to rent out your property? Set up the right systems from day one, and you’ll attract better tenants, avoid costly rookie mistakes, and keep more cash flow in your [ ]",
+      "published": "2026-10-30T11:00:11+00:00",
+      "fetched": "2026-10-30T11:43:58.207425+00:00"
+    },
+    {
+      "id": "a9684b4680c2c31e",
+      "title": "More Choices, Less Stress: Rising Housing Inventory Gives Homebuyers Room To Breathe",
+      "link": "https://www.realtor.com/news/trends/rising-housing-inventory-gives-homebuyers-choices-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nationally, there are roughly 1.2 million active listings, representing a 5.4% increase over last September.",
+      "published": "2026-10-30T09:00:00+00:00",
+      "fetched": "2026-10-30T11:43:58.541871+00:00"
+    },
+    {
+      "id": "24b41dda6d67a42b",
+      "title": "Data Center Backlash Could Decide Which Party Controls the Senate",
+      "link": "https://www.realtor.com/news/real-estate-news/data-centers-campaign-ad-spending-senate-midterm-election/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Americans' souring on data centers could be a major factor in some of the most important Senate races.",
+      "published": "2026-10-30T08:47:00+00:00",
+      "fetched": "2026-10-30T11:43:58.541899+00:00"
+    },
     {
       "id": "e8bae4fcd72e08eb",
       "title": "Disgraced Purdue Pharma Exec Richard Sackler Must Forfeit His $63 Million Mansion To Settle Opioid Claims, Judge Rules",
@@ -1452,56 +1502,6 @@
       "summary": "Rising adult cohabitation and housing market constraints have created a 4.3 million household deficit in the U.S.",
       "published": "2026-10-22T13:28:30+00:00",
       "fetched": "2026-10-22T16:08:43.196593+00:00"
-    },
-    {
-      "id": "40a97cd41b2e0c03",
-      "title": "If You’re Making More Money Than Ever But Still Feel Broke, Hear This",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-471",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The affordability crisis isn’t improving. Gas is above $4 per gallon, inflation just hit 3.7%, and paychecks aren’t keeping pace. This is a tough spot for the American economy, but [ ]",
-      "published": "2026-10-22T11:00:18+00:00",
-      "fetched": "2026-10-22T16:08:42.630502+00:00"
-    },
-    {
-      "id": "e6061fb81d717a9d",
-      "title": "California Voters Set To Decide on $25 Billion Program for Homebuyers—and Billionaires Tax",
-      "link": "https://www.realtor.com/news/real-estate-news/california-election-guide-proposition-37-40-billionaires-tax/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The California ballot contains three significant propositions that aim to aid homebuyers, if approved by a majority of voters on Nov. 3.",
-      "published": "2026-10-22T09:00:00+00:00",
-      "fetched": "2026-10-22T10:43:42.674242+00:00"
-    },
-    {
-      "id": "b5c61293f123fcc3",
-      "title": "The Great Housing Freeze: Half of Homeowners Have a Sub-4% Mortgage Rate—and Few Reasons To Move",
-      "link": "https://www.realtor.com/news/trends/outstanding-mortgage-rate-report-q2-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "For many U.S. homeowners, selling their house would mean losing a low mortgage rate that they may never be able to get again.",
-      "published": "2026-10-22T08:39:00+00:00",
-      "fetched": "2026-10-22T10:43:42.674284+00:00"
-    },
-    {
-      "id": "2ca1777e7ce16ccb",
-      "title": "Tour a $16.6 Million Malibu Estate in Exclusive Point Dume—Where Peacocks Roam Free",
-      "link": "https://www.realtor.com/news/unique-homes/peacock-alley-point-dume-malibu-estate-tour/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The beautifully-designed home prioritizes indoor/outdoor living, with a massive pool and open-concept layout.",
-      "published": "2026-10-22T08:15:00+00:00",
-      "fetched": "2026-10-22T10:43:42.674313+00:00"
-    },
-    {
-      "id": "bb0eb9965faf2ff6",
-      "title": "Inside Cookbook Author Radhi Devlukia’s L.A. Kitchen: From a Cooker Mishap to Her Earthy Sanctuary",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrity-sanctuary-radhi-devlukia-los-angeles-kitchen/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Radhi Devlukia shares an inside look at her L.A. kitchen sanctuary, complete with smart tech, organized pantries, and sentimental decor.",
-      "published": "2026-10-22T08:02:00+00:00",
-      "fetched": "2026-10-22T10:43:42.674345+00:00"
     }
   ]
 }

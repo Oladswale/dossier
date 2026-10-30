@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-10-30T03:06:52.492377+00:00",
+  "updated": "2026-10-30T11:43:57.790396+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "73e35ca7bac8bcf0",
+      "title": "Watch 150 Classic Horror and Suspense Films Free Online: Nosferatu, The Cabinet of Dr. Caligari, Carnival of Souls, Night of the Living Dead & More",
+      "link": "https://www.openculture.com/2026/10/watch-150-classic-horror-and-suspense-films-free-online.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "﻿ From roughly the mid-nineteen-fifties through the mid-nineteen-seventies, the availability of airtime on American television stations exceeded their capacity to fill it with high-quality original programming. This was especially true in the hours when relatively few viewers were awake to tune in, a condition that gave rise to the late-night movie show. Specializing in lesser [ ]",
+      "published": "2026-10-30T08:00:18+00:00",
+      "fetched": "2026-10-30T11:43:57.790168+00:00"
+    },
+    {
+      "id": "eca2ca98644ab8b2",
+      "title": "MIT engineers create nanoparticles for delivering personalized cancer vaccines",
+      "link": "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The particles carry a customized dose of cancer antigens that can provoke a strong immune response against tumors.",
+      "published": "2026-10-30T04:30:00+00:00",
+      "fetched": "2026-10-30T11:43:56.902308+00:00"
+    },
     {
       "id": "5fe44667e61e9a8b",
       "title": "Next Haunt: A scary “problem set” in the basement of Next House",
@@ -1482,26 +1502,6 @@
       "summary": "There was a time when you could just go out and buy an Enigma machine. In the early nineteen-twenties, any organization with a need to keep its communications secret could order a few of those brand-new devices from Germany and rest assured that any messages encoded using them would be safe from prying eyes. It [ ]",
       "published": "2026-09-22T09:00:26+00:00",
       "fetched": "2026-09-22T15:48:26.036577+00:00"
-    },
-    {
-      "id": "f1d773a76fc26834",
-      "title": "The Digital Dada Library: Discover the Archive That Preserves the Original Publications of the Experimental Anti-Art Movement Online",
-      "link": "https://www.openculture.com/2026/09/digital-dada-library.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Critical theorists like Theodor Adorno may have overreached in claiming that all mass culture is mediocre, mechanized propaganda made to justify the status quo. But that doesn’t mean they were entirely wrong. Over and over we see even the most subversive art, literature, film, and music has a way of being tamed and Bowdlerized.",
-      "published": "2026-09-22T08:00:17+00:00",
-      "fetched": "2026-09-22T15:48:26.036629+00:00"
-    },
-    {
-      "id": "56cd66276e600c5f",
-      "title": "MIT named the nation’s top university by U.S. News for 2026-27",
-      "link": "https://news.mit.edu/2026/mit-named-nations-top-university-us-news-0922",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.",
-      "published": "2026-09-22T04:01:00+00:00",
-      "fetched": "2026-09-22T10:25:26.919769+00:00"
     }
   ]
 }
