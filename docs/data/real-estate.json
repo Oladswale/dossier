@@ -1,8 +1,98 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-30T11:43:58.542423+00:00",
+  "updated": "2026-10-30T17:18:06.267383+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "14621604bb3162f9",
+      "title": "Tarek El Moussa Didn’t Only Buy His Teen a $150K BMW—He Invested in Her Real Estate Future Too",
+      "link": "https://www.realtor.com/news/reality-tv/tarek-el-moussa-daughter-bmw-5x-stocks-real-estate-gifts/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The HGTV star claims the flashy gift was \"well deserved\" and noted that it's not the only pricey investment he's made for his 16-year-old.",
+      "published": "2026-10-30T16:57:18+00:00",
+      "fetched": "2026-10-30T17:18:06.266695+00:00"
+    },
+    {
+      "id": "bbdba10e24265b5a",
+      "title": "Lady Gaga’s Former New York City Penthouse in the Iconic Hit Factory Building Is Available for $7 Million",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/lady-gaga-former-new-york-city-penthouse-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The sprawling residence was once home to the pop star, as well as a handful of celebrities including Carmelo Anthony and Tracy Morgan.",
+      "published": "2026-10-30T16:24:14+00:00",
+      "fetched": "2026-10-30T17:18:06.266734+00:00"
+    },
+    {
+      "id": "bdd820927ffd1ea8",
+      "title": "Real Estate CEO and His Daughter Are Shot in Violent Home Invasion at Toronto Mansion",
+      "link": "https://www.realtor.com/news/trends/david-morton-shot-home-invasion-toronto-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A Canadian real estate CEO and his family were injured after armed suspects forced their way into their Toronto home.",
+      "published": "2026-10-30T16:17:31+00:00",
+      "fetched": "2026-10-30T17:18:06.266763+00:00"
+    },
+    {
+      "id": "8dad9691549337ca",
+      "title": "Kylie Kelce Pushes Back on Criticism Over Her and Jason’s Growing Property Portfolio",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jason-kelce-growing-property-portfolio-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In an episode of her podcast, \"Not Gonna Lie,\" which featured Nikki Glaser, Kelce and the comedian chatted about their hate comments.",
+      "published": "2026-10-30T16:14:39+00:00",
+      "fetched": "2026-10-30T17:18:06.266792+00:00"
+    },
+    {
+      "id": "07384259f811022b",
+      "title": "Millionaire Renters Are Booming in Houston—Even Though Buying Is Within Reach",
+      "link": "https://www.realtor.com/news/trends/houston-millionaire-renters-luxury-home-prices/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Houston leads the nation in millionaire-renter growth, showing how abundant housing can turn renting into a luxury choice.",
+      "published": "2026-10-30T15:58:18+00:00",
+      "fetched": "2026-10-30T17:18:06.266819+00:00"
+    },
+    {
+      "id": "cb4c823b5bbcf23c",
+      "title": "5 Homes With Income-Generating ADUs Under $500K",
+      "link": "https://www.realtor.com/news/unique-homes/5-homes-with-income-generating-adus-under-500k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Looking for rental income or multigenerational space? Tour five affordable homes with separate guesthouses and ADUs, each for under $500K.",
+      "published": "2026-10-30T14:30:00+00:00",
+      "fetched": "2026-10-30T17:18:06.266844+00:00"
+    },
+    {
+      "id": "b14e5ff553520a10",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 7.24% Rate",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-october-29/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage rates fell again for the second time in two months. But how long will the decline last—and is it enough for buyers to start buying?",
+      "published": "2026-10-30T14:04:00+00:00",
+      "fetched": "2026-10-30T17:18:06.266877+00:00"
+    },
+    {
+      "id": "df19845149923095",
+      "title": "Pregnant Savannah Chrisley Says ‘I Do’ to Jason Galanis in Secret Cayman Islands Church Wedding",
+      "link": "https://www.realtor.com/news/reality-tv/pregnant-savannah-chrisley-marries-jason-galanis-secret-wedding/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The couple announced that they were expecting their first baby together and hard launched their romance on Oct. 27.",
+      "published": "2026-10-30T13:45:41+00:00",
+      "fetched": "2026-10-30T17:18:06.266905+00:00"
+    },
+    {
+      "id": "f748dcbdad2bdaa9",
+      "title": "EXCLUSIVE: Kylie Jenner Pulls $38 Million Concrete L.A. Mansion Off the Market",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jenner-removes-los-angeles-home-from-the-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The reality TV personality, 29, initially put the seven-bedroom Holmby Hills property on the market on Dec. 22.",
+      "published": "2026-10-30T12:22:05+00:00",
+      "fetched": "2026-10-30T17:18:06.266931+00:00"
+    },
     {
       "id": "0c5f4fdbed90cfc5",
       "title": "Homeowner Wins City Permit Battle Over His ‘Spooktacular’ Halloween Display",
@@ -1412,96 +1502,6 @@
       "summary": "Famed architect Bob Ray Offenhauser’s private $4.2 million South Pasadena sanctuary hits the market for the first time in nearly 50 years.",
       "published": "2026-10-22T18:19:52+00:00",
       "fetched": "2026-10-22T20:53:55.791467+00:00"
-    },
-    {
-      "id": "6bfed4f074c9ad6c",
-      "title": "America’s Homes Are Aging and Crumbling, but Homeowner Equity Is Going Elsewhere",
-      "link": "https://www.realtor.com/news/trends/americas-homes-aging-equity-heloc-debt/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Beyond a shortage of available homes, the U.S. is grappling with an aging housing stock desperately in need of updates and repairs.",
-      "published": "2026-10-22T18:08:19+00:00",
-      "fetched": "2026-10-22T20:53:55.791497+00:00"
-    },
-    {
-      "id": "a884c86858be8527",
-      "title": "The Villages Seeks $180 Million Cash Infusion To Fund 800-Acre Expansion of the Florida Retirement Community",
-      "link": "https://www.realtor.com/news/trends/the-villages-florida-high-yeild-bonds-debt-expansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "With the planned expansion, the population of The Villages would reach roughly 260,000 people and more than 130,000 homes by 2045.",
-      "published": "2026-10-22T17:24:04+00:00",
-      "fetched": "2026-10-22T20:53:55.791525+00:00"
-    },
-    {
-      "id": "64a4b0009652d835",
-      "title": "Aaron Rodgers’ Family Rift Faces Fresh Scrutiny After His Parents Sell Their California Home and Brother Jordan Settles in Puerto Rico",
-      "link": "https://www.realtor.com/news/sports/aaron-rodger-family-reconciliation-questioned-parents-sell-california-home-brother-puerto-rico/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Aaron's relationship with his younger brother, Jordan, reportedly remains strained despite the quarterback’s public comments.",
-      "published": "2026-10-22T16:24:30+00:00",
-      "fetched": "2026-10-22T20:53:55.791557+00:00"
-    },
-    {
-      "id": "e914ee0e1f50983e",
-      "title": "Mortgage Rates Drop for First Time in 2 Months as Stock Market Jitters Drive Investors to Bonds",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-drop-today-october-22-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed home loans decreased to 7.32% for the week ending Oct. 22, according to Freddie Mac.",
-      "published": "2026-10-22T16:00:00+00:00",
-      "fetched": "2026-10-22T16:08:43.196464+00:00"
-    },
-    {
-      "id": "56a772a70062f3e1",
-      "title": "Treasury Unveils New Rules for Big Investor Homebuyers After Congress Set Limits",
-      "link": "https://www.realtor.com/news/real-estate-news/treasury-rules-institutional-investor-homebuyers-regulation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Treasury Department released its long-awaited guidance on how it plans to constrain institutional investors in the housing market.",
-      "published": "2026-10-22T15:55:54+00:00",
-      "fetched": "2026-10-22T20:53:55.791593+00:00"
-    },
-    {
-      "id": "354dcce2ff8d8a4d",
-      "title": "Treasury Unveils Rules for Big Investor Homebuyers After Congress Set Limits",
-      "link": "https://www.realtor.com/news/real-estate-news/treasury-rules-institutional-investor-homebuyers-regulation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Treasury Department released its long-awaited guidance on how it plans to constrain institutional investors in the housing market.",
-      "published": "2026-10-22T15:55:54+00:00",
-      "fetched": "2026-10-22T16:08:43.196502+00:00"
-    },
-    {
-      "id": "a44295cc42bf7e81",
-      "title": "Solidcore Founder Anne Mahlum Unveils Plans for Massive 10-Bedroom Dream Home as She Prepares for ‘More Babies’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/solidcore-founder-anne-mahlum-reveals-plans-for-dream-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The fitness entrepreneur, 46, shared an AI-generated rendering of the planned residence on Instagram.",
-      "published": "2026-10-22T15:38:14+00:00",
-      "fetched": "2026-10-22T16:08:43.196536+00:00"
-    },
-    {
-      "id": "f19a65f8eff624b4",
-      "title": "NYC Poised To Pass COPA, Giving Nonprofits an Edge in Apartment Sales",
-      "link": "https://www.realtor.com/news/real-estate-news/nyc-copa-bill-apartment-building-sales/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The revised law would cover about 2,100 buildings and give qualified nonprofits a first shot when owners decide to sell.",
-      "published": "2026-10-22T13:58:53+00:00",
-      "fetched": "2026-10-22T16:08:43.196565+00:00"
-    },
-    {
-      "id": "1600c3267f7959a4",
-      "title": "U.S. Is Missing 4.3 Million Households as Priced-Out Young Adults Stay Home",
-      "link": "https://www.realtor.com/news/trends/millions-missing-households-young-adults-stay-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rising adult cohabitation and housing market constraints have created a 4.3 million household deficit in the U.S.",
-      "published": "2026-10-22T13:28:30+00:00",
-      "fetched": "2026-10-22T16:08:43.196593+00:00"
     }
   ]
 }
