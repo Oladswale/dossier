@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-31T16:22:58.036770+00:00",
+  "updated": "2026-10-31T20:43:16.198467+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0986335433abf0ab",
+      "title": "EXCLUSIVE: ‘Members Only: Palm Beach’ Star Hilary Musser Reveals Plans for New Show With a Possible Real Estate Twist",
+      "link": "https://www.realtor.com/news/reality-tv/members-only-palm-beach-hilary-musser-new-show-real-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Musser is working on a new TV project that could incorporate the area’s luxury real estate—and she's serving as a producer.",
+      "published": "2026-10-31T20:00:00+00:00",
+      "fetched": "2026-10-31T20:43:16.197885+00:00"
+    },
+    {
+      "id": "d87704ca5ccd957b",
+      "title": "A Pristine 1950s John Lautner ‘Time Capsule’ Just Listed for $2.1M—and It’s Had Only One Owner",
+      "link": "https://www.realtor.com/news/unique-homes/john-lautner-baldwin-residence-silver-lake-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Step inside a pristine 1955 John Lautner time capsule in Silver Lake, featuring original mid-century details and lush hillside views.",
+      "published": "2026-10-31T19:01:00+00:00",
+      "fetched": "2026-10-31T20:43:16.197926+00:00"
+    },
+    {
+      "id": "f71b70ead7ea48b8",
+      "title": "New Florida ‘Agrihood’ Development Bets on Organic Farming to Lure Homebuyers",
+      "link": "https://www.realtor.com/news/trends/florida-agrihood-saratoga-springs-organic-farming-development/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Saratoga Springs, a new development from Freehold Communities, will eventually have about 4,500 homes within multiple communities.",
+      "published": "2026-10-31T17:58:00+00:00",
+      "fetched": "2026-10-31T20:43:16.197958+00:00"
+    },
+    {
+      "id": "2d14253805edba42",
+      "title": "This $18.25 Million Florida Beach Mansion Sits on a Rare Double Lot With 125 Feet of Private Gulf Coastline",
+      "link": "https://www.realtor.com/news/unique-homes/bonita-beach-florida-mansion-125-feet-frontage-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tour an $18.25M Bonita Beach estate featuring 125 feet of Gulf frontage, walls of glass, an infinity pool, and coastal luxury living.",
+      "published": "2026-10-31T17:03:00+00:00",
+      "fetched": "2026-10-31T20:43:16.197988+00:00"
+    },
     {
       "id": "35a06f0135e7b0cd",
       "title": "This Historic Church Condo for Sale Hides a Private 85-Foot Bell Tower Lounge",
@@ -1462,46 +1502,6 @@
       "summary": "These five historic ghost towns and mining properties for sale, starting at $300,000, feature off-grid cabins, Western towns, and retreats.",
       "published": "2026-10-23T14:30:00+00:00",
       "fetched": "2026-10-23T16:00:27.582993+00:00"
-    },
-    {
-      "id": "33f1805d38606505",
-      "title": "The ‘Netflix Effect’ Resurrects ‘Apocalyptic-Looking’ Abandoned Lot Left Blighted for 20 Years Into a New Community",
-      "link": "https://www.realtor.com/news/trends/netflix-effect-eatontown-new-jersey-new-construction-housing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Netflix is moving into town and with all the job opportunities that come with it, an influx of new residents is likely next.",
-      "published": "2026-10-23T14:25:31+00:00",
-      "fetched": "2026-10-23T16:00:27.583014+00:00"
-    },
-    {
-      "id": "04a0a2c2f7c34529",
-      "title": "Major Builders Lean Into Concessions and Rate Buydowns as Home Sales Slip",
-      "link": "https://www.realtor.com/news/trends/homebuilder-concessions-buydowns-pulte-nvr-earnings-q3-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Major homebuilders are seeing decreasing sales and margins amid buyer uncertainty, but continue to utilize concessions to bring in sales.",
-      "published": "2026-10-23T14:20:11+00:00",
-      "fetched": "2026-10-23T16:00:27.583031+00:00"
-    },
-    {
-      "id": "c90d3a4c40013734",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 7.32% Rate",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-october-22/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage rates fell for the first time in two months this week. But how long will the decline last—and is it enough for buyers?",
-      "published": "2026-10-23T14:02:00+00:00",
-      "fetched": "2026-10-23T16:00:27.583051+00:00"
-    },
-    {
-      "id": "63d1b58e546f4943",
-      "title": "EXCLUSIVE: Nick and Vanessa Lachey Slash Half a Million Dollars Off Tarzana Home’s Price Ahead of California Exit",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/nick-vanessa-lachey-reduce-asking-price-tarzana-home-california-exit/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The couple first listed the home in September for $8.1 million. Now, just one month later, they have reduced that price to $7.6 million.",
-      "published": "2026-10-23T11:51:33+00:00",
-      "fetched": "2026-10-23T16:00:27.583070+00:00"
     }
   ]
 }
