@@ -1,8 +1,138 @@
 {
   "category": "entertainment",
-  "updated": "2026-10-30T21:43:28.218309+00:00",
+  "updated": "2026-10-31T02:53:28.881678+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2ca54020f16f89b8",
+      "title": "Harryween Is Back From Dead: Harry Styles Dons ‘X Factor’ Outfit for Stevie Wonder Cover",
+      "link": "https://www.rollingstone.com/music/music-news/harry-styles-harryween-stevie-wonder-x-factor-isnt-lovely-1235650398/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Singer performs \"Isn't She Lovely,\" his X Factor audition song at age 16, for penultimate MSG concert of 30-night residency",
+      "published": "2026-10-31T02:38:47+00:00",
+      "fetched": "2026-10-31T02:53:28.649397+00:00"
+    },
+    {
+      "id": "80f8840040b22a68",
+      "title": "Bill Maher Fires Back at Trump by Comparing Him to Taylor Swift",
+      "link": "https://variety.com/2026/tv/news/bill-maher-fires-back-trump-taylor-swift-real-time-hbo-1236935799/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Bill Maher learned that when it comes to Donald Trump, no good deed goes unpunished. On last week’s episode of “Real Time with Bill Maher,” the political pundit defended his recent White House dinner with the president, exclaiming, “You know what? Fuck you.",
+      "published": "2026-10-31T02:21:47+00:00",
+      "fetched": "2026-10-31T02:53:28.481409+00:00"
+    },
+    {
+      "id": "52cf99390f48ceed",
+      "title": "Selma Blair Addresses Alleged Plane Assault for First Time in New Video: ‘I Am So Sorry’",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/selma-blair-addresses-alleged-plane-assault-apologizes-1235650805/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The actress Blair pleaded not guilty to two counts of second-degree assault stemming from the incident and was released on bail",
+      "published": "2026-10-31T00:48:31+00:00",
+      "fetched": "2026-10-31T02:53:28.649437+00:00"
+    },
+    {
+      "id": "0e8e7535d469e01f",
+      "title": "Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’",
+      "link": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Martin Scorsese s Cleopatra never came to fruition, and he says the Angelina Jolie-starrer was nixed because of Seth Rogen and the Sony hack. For those who need a refresher, Sony emails were hacked in November 2014 by a group that hoped the Seth Rogen comedy The Interview, which was about a fictional assassination attempt of [ ]",
+      "published": "2026-10-31T00:16:05+00:00",
+      "fetched": "2026-10-31T02:53:28.481471+00:00"
+    },
+    {
+      "id": "df43fabfd82f75b6",
+      "title": "Daytime Emmys 2026 Winners List (UPDATED LIVE)",
+      "link": "https://variety.com/2026/tv/news/daytime-emmys-2026-winners-list-1236935712/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The 53rd Daytime Emmys are underway at Hollywood s historic Palladium theatre. CBS The Young and the Restless led all programs with 18 nods this year, followed by new CBS soap opera Beyond the Gates — which In its first year of eligibility scored 15 nominations. Also, this year s Daytime Emmys came as a bittersweet moment [ ]",
+      "published": "2026-10-31T00:01:51+00:00",
+      "fetched": "2026-10-31T02:53:28.481528+00:00"
+    },
+    {
+      "id": "3bf65faacd3d0db8",
+      "title": "Two Arrested in Murder of ‘SNL’ Writer’s Sister",
+      "link": "https://variety.com/2026/tv/news/arrests-murder-christina-downer-jimmy-fowlie-1236935631/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Two suspects have been arrested in connection with the murder of Christina Downer, “Saturday Night Live” writer Jimmy Fowlie’s sister, according to the Los Angeles Police Department. Delorean Bijon Brandon, 41, Downer s boyfriend, and Kaylee Nicole Markowski, 34, were arrested Thursday in Highland Park and Tarzana, respectively. Detectives believe Brandon and Markowski were responsible for [ ]",
+      "published": "2026-10-30T23:32:36+00:00",
+      "fetched": "2026-10-31T02:53:28.481590+00:00"
+    },
+    {
+      "id": "fe61bc25bb84fee6",
+      "title": "Selma Blair Apologizes for Plane Incident: ‘I Am So Sorry’",
+      "link": "https://variety.com/2026/film/news/selma-blair-apologizes-plane-incident-1236935645/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Selma Blair issued a video apology on Friday for the Oct. 11 incident in which she allegedly injured a flight attendant and kicked a nurse after being removed from a plane at John F. Kennedy International Airport.",
+      "published": "2026-10-30T23:19:53+00:00",
+      "fetched": "2026-10-31T02:53:28.481638+00:00"
+    },
+    {
+      "id": "6678e130272e447c",
+      "title": "Magical Realist Tale ‘6TM’ and ‘Searching for SmarterChild,’ About One of the Earliest Chatbots, Win Top Industry Awards at Ji.hlava Festival",
+      "link": "https://variety.com/2026/film/global/6tm-searching-for-smarterchild-industry-award-jihlava-1236935633/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "6TM, directed by Karim Akalay and produced by Walid Bekhti, won the New Visions Award for the most promising European project at the Ji.hlava Documentary Film Festival on Friday. The film is described as a Belgian family comedy in three chapters, rooted in magic realism and the resilience of a community. In the film, which [ ]",
+      "published": "2026-10-30T23:12:04+00:00",
+      "fetched": "2026-10-31T02:53:28.481691+00:00"
+    },
+    {
+      "id": "9c2f6d0c9002ebe4",
+      "title": "Raye to Voice Character and Pen Music for Benny Safdie Film Based on 1976 Novel ‘Lizard Music’",
+      "link": "https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Dwayne Johnson, Alicia Silverstone, Regina Hall, Colman Domingo, Jeff Goldblum, Rachel McAdams, and more will also feature in the film",
+      "published": "2026-10-30T23:04:53+00:00",
+      "fetched": "2026-10-31T02:53:28.649473+00:00"
+    },
+    {
+      "id": "ded5bbdce3f32a3d",
+      "title": "Marvin R. Shanken, Longtime Publisher and Editor of Wine Spectator, Dies at 83",
+      "link": "https://variety.com/2026/biz/lifestyle/marvin-r-shanken-dead-wine-spectator-1236935611/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Marvin R. Shanken, the longtime editor and publisher of Wine Spectator magazine who was instrumental in elevating the profile of American wine business, died Thursday in Manhattan. He was 83.",
+      "published": "2026-10-30T22:58:12+00:00",
+      "fetched": "2026-10-31T02:53:28.481760+00:00"
+    },
+    {
+      "id": "b6b71873d3796a2c",
+      "title": "Cate Blanchett-Backed Group and Collection of Hollywood Stars File Brief in New York Times-OpenAI Lawsuit: Hollywood Has ‘Proven Infrastructure’ to License Content",
+      "link": "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Human Consent Foundation, the Cate Blanchett-backed nonprofit trying to protect the likenesses of individuals from unauthorized scraping by AI models, and a legion of Hollywood companies have filed an amicus brief in the New York Times lawsuit against OpenAI and Microsoft, claiming the tech companies position that it could not reasonably clear the rights [ ]",
+      "published": "2026-10-30T22:52:35+00:00",
+      "fetched": "2026-10-31T02:53:28.481813+00:00"
+    },
+    {
+      "id": "a20b85376a4e0501",
+      "title": "‘Obsession’ Director Curry Barker Pitched Nathan Fielder a Collaboration After Watching ‘You Can See Everything’: ‘I Put It Out in the Water’",
+      "link": "https://variety.com/2026/film/news/curry-barker-nathan-fielder-pitch-you-can-see-everything-1236935473/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“Obsession” director Curry Barker is not only a fan of “You Can See Everything,” but he’s already reached out to Nathan Fielder about working together. “I thought it was freakin’ insane and awesome,” Barker told Variety Thursday night at the Time100 Next Gala at Pier59 Studios . “I didn’t know much about [Elizabeth Holmes’] story [ ]",
+      "published": "2026-10-30T22:28:16+00:00",
+      "fetched": "2026-10-31T02:53:28.481877+00:00"
+    },
+    {
+      "id": "5456de3d8b55f950",
+      "title": "Music Industry Moves: Chris Young Signs With UTA; Kurt Vile Re-Ups With Third Side Publishing",
+      "link": "https://variety.com/2026/music/news/mary-j-blige-sells-music-catalogs-primary-wave-1236931287/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Grammy-nominated singer-songwriter and Grand Ole Opry member Chris Young has signed with UTA for global representation in all areas. The signing comes as Young approaches nearly two decades in the country music spotlight. In addition to his robust solo catalog, over the years he has performed with Miranda Lambert, Jon Pardi, Ashley McBryde and others.",
+      "published": "2026-10-30T22:25:00+00:00",
+      "fetched": "2026-10-31T02:53:28.481930+00:00"
+    },
     {
       "id": "1d6dab08a38e27b1",
       "title": "Hotel and Travel Industry Groups Back U.S. Film Incentive as Tourism Draw",
@@ -1372,136 +1502,6 @@
       "summary": "Skydance TV co-chair and chief content officer George Cheeks formalized his division’s executive structure. In a memo to staff, Cheeks shared the specific titles for his direct reports, as well as how Skydance TV will now operate post-Warner Bros. and Paramount merger.",
       "published": "2026-10-28T20:27:04+00:00",
       "fetched": "2026-10-28T21:56:19.554167+00:00"
-    },
-    {
-      "id": "af709ab4db8227d4",
-      "title": "Director Gregory Nava Remembers Dolores Huerta, the Civil Rights Icon Who Introduced Him to His Wife and Trusted Them With Her Life Story",
-      "link": "https://variety.com/2026/film/news/dolores-huerta-dead-gregory-nava-1236933602/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Director Gregory Nava is paying tribute to civil rights icon Dolores Huerta, who died Wednesday at age 96. Huerta introduced Nava to his wife, Barbara Martinez Jitner, and served as a witness at their wedding. In the last years of her life, she sat with them for more than 70 hours and told them things [ ]",
-      "published": "2026-10-28T20:16:51+00:00",
-      "fetched": "2026-10-28T21:56:19.554214+00:00"
-    },
-    {
-      "id": "9392b542f9df1fab",
-      "title": "58-Year-Old Republican Blames Sending Unsolicited Nudes on ‘Youthful Indiscretion’",
-      "link": "https://www.rollingstone.com/politics/politics-news/brent-taylor-blames-sending-nudes-youthful-indiscretion-1235649481/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Brent Taylor, a candidate for U.S. House in Tennessee, was the sprightly age of 53 when he was last accused of sending nudes",
-      "published": "2026-10-28T20:16:47+00:00",
-      "fetched": "2026-10-28T21:56:19.627285+00:00"
-    },
-    {
-      "id": "fc07b013507d2af7",
-      "title": "YouTube Q3 Ad Revenue Growth Slows, Rising 9% to $11.2 Billion, as Alphabet Misses Earnings Estimates",
-      "link": "https://variety.com/2026/digital/news/youtube-q3-2026-ad-revenue-alphabet-google-earnings-1236933560/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "YouTube continued to vacuum up digital ad dollars in the third quarter of 2026, but the video platform s advertising business grew at slower pace than in recent quarters. YouTube s growth also was lower than Alphabet overall, given a sales boom in the internet giant s Google Cloud division, which saw revenue double. Meanwhile, Alphabet came in [ ]",
-      "published": "2026-10-28T20:09:36+00:00",
-      "fetched": "2026-10-28T21:56:19.554261+00:00"
-    },
-    {
-      "id": "099bca6be467016c",
-      "title": "LaKeith Stanfield Exits ‘Molepeople’ Horror Movie, Director Ben Wheatley Replaces Rob Savage",
-      "link": "https://variety.com/2026/film/news/lakeith-stanfield-exit-molepeople-ben-wheatley-director-rob-savage-1236933462/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Ben Wheatley (“Normal”) is taking over directing duties for Paramount Primal and Blumhouse Atomic Monster s upcoming movie, “Molepeople.” Rob Savage (“The Boogeyman, “Other Mommy”), who was set to helm the project, has departed due to scheduling conflicts, with previously announced star LaKeith Stanfield also exiting the film. “Molepeople” was announced earlier this month during Blumhouse [ ]",
-      "published": "2026-10-28T20:00:00+00:00",
-      "fetched": "2026-10-28T21:56:19.554317+00:00"
-    },
-    {
-      "id": "0a4a2061779d87c2",
-      "title": "The Holidays Look Better From the Beach: 4 Hilton Resorts for a Warm-Weather Getaway",
-      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-hilton-beach-resorts-warm-weather-holiday-getaways-1235649142/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Christmas trees are optional, but beachfront views, tropical cocktails, and sunshine are nonnegotiable at these Hilton resorts in Hawaii, Mexico, and Puerto Rico",
-      "published": "2026-10-28T20:00:00+00:00",
-      "fetched": "2026-10-28T21:56:19.627316+00:00"
-    },
-    {
-      "id": "39713c2beb4df7b6",
-      "title": "Selena Gomez and Demi Lovato Recreate ‘Princess Protection Program’ Moments in New Rare Beauty Campaign",
-      "link": "https://variety.com/2026/shopping/news/selena-gomez-demi-lovato-rare-beauty-campaign-shop-1236933586/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Selena Gomez and Demi Lovato are bringing back “Delena.” The former Disney Channel stars have reunited for a new campaign for Gomez’s beauty brand, Rare Beauty, recreating moments from their 2009 film “Princess Protection Program” and their early Youtube videos together. Titled “Still Making Each Other Blush,” the campaign introduces the limited-edition “Delena” Soft Pinch [ ]",
-      "published": "2026-10-28T19:44:51+00:00",
-      "fetched": "2026-10-28T21:56:19.554371+00:00"
-    },
-    {
-      "id": "4a962727ea31fa63",
-      "title": "Cynthia Erivo Calls Out Public’s ‘Annoyance’ Over Ariana Grande Friendship: ‘Why Are They Showing Emotion? How Dare They Cry!’",
-      "link": "https://variety.com/2026/film/news/cynthia-erivo-annoyance-ariana-grande-friendship-wicked-1236933585/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Cynthia Erivo is reflecting on the attention her friendship with “Wicked” co-star Ariana Grande received while on the press tour for the movie musical and its sequel. The theater star and singer has rocketed to greater heights of fame following Jon M. Chu’s adaptation of “Wicked,” which stars Erivo as the wicked witch Elphaba opposite [ ]",
-      "published": "2026-10-28T19:33:04+00:00",
-      "fetched": "2026-10-28T21:56:19.554423+00:00"
-    },
-    {
-      "id": "86e0e01f70aeaa5d",
-      "title": "The Best Proton VPN Deals Let You Beef Up Your Online Security for Less",
-      "link": "https://www.rollingstone.com/product-recommendations/tech/proton-vpn-black-friday-deal-shop-online-1235648970/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Proton is running early Black Friday Deals on its VPN and privacy-focused services",
-      "published": "2026-10-28T19:07:16+00:00",
-      "fetched": "2026-10-28T21:56:19.627342+00:00"
-    },
-    {
-      "id": "8341ed7a4e28ca15",
-      "title": "After the Cast and Creator’s Comments, ‘Nobody Wants This’ Can No Longer Ignore Israel and Gaza",
-      "link": "https://variety.com/2026/tv/columns/nobody-wants-this-cant-ignore-israel-gaza-adam-brody-1236933496/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "For the past few weeks, the cast and creator of the Netflix hit comedy “Nobody Wants This” have been trading takes on the Israel-Palestine conflict via the press. First, star Adam Brody, who plays “hot rabbi” Noah Roklov and one half of the show’s central couple, told GQ that he considers Israel’s actions in Gaza [ ]",
-      "published": "2026-10-28T18:53:34+00:00",
-      "fetched": "2026-10-28T21:56:19.554472+00:00"
-    },
-    {
-      "id": "bb31ccdd0f10bb6b",
-      "title": "The Beach Boys Canceled Another Show. A John Stamos Spinoff Group Is Taking Their Spot",
-      "link": "https://www.rollingstone.com/music/music-news/beach-boys-pull-out-john-stamos-california-sound-1235649359/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A new entity billing themselves as John Stamos and the California Sound have been formed to take the place of the Beach Boys at Disney World on November 11 and 12",
-      "published": "2026-10-28T18:50:41+00:00",
-      "fetched": "2026-10-28T21:56:19.627372+00:00"
-    },
-    {
-      "id": "5f81090996360714",
-      "title": "Jennifer Lawrence Filmed a Nude Scene and Discovered Crew Members Who Were Not Approved to Be on Set: ‘I Came Down Hard on That’",
-      "link": "https://variety.com/2026/film/news/jennifer-lawrence-nude-scene-crew-members-unauthorized-1236933336/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jennifer Lawrence revealed on the Call Her Daddy podcast that she once discovered while filming a nude scene that there were crew members on set who were not approved to be there during the filming of such intimate material. The incident prompted Lawrence to come down hard on the crew and remains one of the [ ]",
-      "published": "2026-10-28T18:47:52+00:00",
-      "fetched": "2026-10-28T21:56:19.554519+00:00"
-    },
-    {
-      "id": "935d59bce59bccbb",
-      "title": "How Far They’ve Come: Where to Buy Tickets to Matchbox Twenty’s 30th Anniversary Tour",
-      "link": "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-matchbox-twenty-30th-anniversary-tour-tickets-online-deals-discounts-1235648891/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The rockers are hitting the road across North America to celebrate three decades since the release of their debut album, Yourself or Someone Like You . Here’s where to find stubs for less",
-      "published": "2026-10-28T18:45:03+00:00",
-      "fetched": "2026-10-28T21:56:19.627415+00:00"
-    },
-    {
-      "id": "394981204ac34d24",
-      "title": "Therapy Helped Jim James So Much, He Wrote a Book About His Breakthroughs",
-      "link": "https://www.rollingstone.com/music/music-news/my-morning-jacket-jim-james-memoir-one-wonders-1235649311/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The My Morning Jacket frontman will release his debut memoir One Wonders in April with reflections on his musical career and mental health journey",
-      "published": "2026-10-28T18:23:15+00:00",
-      "fetched": "2026-10-28T21:56:19.627445+00:00"
     }
   ]
 }

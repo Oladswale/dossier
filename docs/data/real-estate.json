@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-30T21:43:29.943794+00:00",
+  "updated": "2026-10-31T02:53:30.941954+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "28cad702a3adfb63",
+      "title": "‘In Over Their Heads’: Red Flags Before the Sudden Collapse of ‘Perpetual Cruise’ That Left Residents Stranded",
+      "link": "https://www.realtor.com/news/trends/villa-vie-perpetual-cruise-red-flags-passenger-stranded/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Kit Cassingham says Villa Vie Residences founder Mikael Petterson and CEO Kathy Villalba \"ignored all the good advice they got from people.”",
+      "published": "2026-10-30T21:46:25+00:00",
+      "fetched": "2026-10-31T02:53:30.941341+00:00"
+    },
     {
       "id": "83a3d4b242c3591c",
       "title": "The Hidden Housing Cost Pushing Millions of Homeowners Over Budget",
@@ -12,6 +22,16 @@
       "summary": "Nearly 6 million more homeowners spend over 30% of their income on housing when repairs count—revealing a hidden cost burden.",
       "published": "2026-10-30T21:37:22+00:00",
       "fetched": "2026-10-30T21:43:29.943359+00:00"
+    },
+    {
+      "id": "1e91a5be7d480e38",
+      "title": "EXCLUSIVE: Influencer Rachel Martino Reveals How To Bring Color Into Your Home—Even if You’re Renting",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/influencer-rachel-martino-home-design-tide-color/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The home guru has found a way to give a hallway washer and dryer their own colorful moment—and conceal the appliances.",
+      "published": "2026-10-30T20:39:45+00:00",
+      "fetched": "2026-10-31T02:53:30.941393+00:00"
     },
     {
       "id": "0262e4e2fcbf13f8",
@@ -122,6 +142,16 @@
       "summary": "In an episode of her podcast, \"Not Gonna Lie,\" which featured Nikki Glaser, Kelce and the comedian chatted about their hate comments.",
       "published": "2026-10-30T16:14:39+00:00",
       "fetched": "2026-10-30T17:18:06.266792+00:00"
+    },
+    {
+      "id": "bc83bbe457b88b28",
+      "title": "Millionaire Renters Are Booming in This Market—Even Though Buying Is Within Reach",
+      "link": "https://www.realtor.com/news/trends/houston-millionaire-renters-luxury-home-prices/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Houston leads the nation in millionaire-renter growth, showing how abundant housing can turn renting into a luxury choice.",
+      "published": "2026-10-30T15:58:18+00:00",
+      "fetched": "2026-10-31T02:53:30.941508+00:00"
     },
     {
       "id": "07384259f811022b",
@@ -1472,36 +1502,6 @@
       "summary": "Chip and Joanna Gaines are set to transform a 15,000-square-foot estate in their latest renovation TV series.",
       "published": "2026-10-22T21:32:48+00:00",
       "fetched": "2026-10-23T02:08:44.148870+00:00"
-    },
-    {
-      "id": "7abc40494fb47183",
-      "title": "Trump Launches Task Force on Manufactured Homes and Orders Affordability Reforms",
-      "link": "https://www.realtor.com/news/real-estate-news/trump-executive-order-housing-afforability-manufactured-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "President Donald Trump signed an executive order aimed at housing affordability with days to go before the midterm elections.",
-      "published": "2026-10-22T21:31:30+00:00",
-      "fetched": "2026-10-23T02:08:44.148906+00:00"
-    },
-    {
-      "id": "033627163fee714d",
-      "title": "Serial Killer Joel Rifkin’s Long Island Home Closes for $670K After Months on the Market",
-      "link": "https://www.realtor.com/news/trends/serial-killer-joel-rifkin-east-meadow-new-york-home-sold-price/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Long Island home where notorious serial killer Joel Rifkin brutally murdered and dismembered numerous women has found a new owner.",
-      "published": "2026-10-22T21:06:14+00:00",
-      "fetched": "2026-10-23T02:08:44.148939+00:00"
-    },
-    {
-      "id": "890f2ef137e82b31",
-      "title": "Rebecca Gayheart Reflects on Eric Dane’s Final Days and the Gift He Left Their Daughters",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/eric-dane-final-days-memoir-death-rebecca-gayheart-kids/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Gayheart reflected on the family’s time together before his death—and the deeply personal memoir he left behind.",
-      "published": "2026-10-22T20:43:47+00:00",
-      "fetched": "2026-10-22T20:53:55.791183+00:00"
     }
   ]
 }

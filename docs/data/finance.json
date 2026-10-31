@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-10-30T21:43:15.171578+00:00",
+  "updated": "2026-10-31T02:53:13.956371+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e2cf43a6ede08f94",
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+      "published": "2026-10-30T23:14:00+00:00",
+      "fetched": "2026-10-31T02:53:11.866859+00:00"
+    },
+    {
+      "id": "42eb8bb589869161",
+      "title": "BREAKING: OPay post-IPO trading halted after raising $304 million",
+      "link": "https://nairametrics.com/2026/10/30/opay-post-ipo-trading-halted-after-raising-304-million/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "OPay’s shares did not begin trading on the New York Stock Exchange as expected on Friday, October 30, after the Nigeria-focused payments platform raised $304 million in its US initial public offering. The post BREAKING: OPay post-IPO trading halted after raising $304 million appeared first on Nairametrics .",
+      "published": "2026-10-30T22:27:56+00:00",
+      "fetched": "2026-10-31T02:53:12.624720+00:00"
+    },
+    {
+      "id": "036bc959e79cbca6",
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+      "published": "2026-10-30T22:20:00+00:00",
+      "fetched": "2026-10-31T02:53:11.866901+00:00"
+    },
     {
       "id": "452c2735f5ba9fff",
       "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
@@ -1472,36 +1502,6 @@
       "summary": "The Federal Reserve's decision to hold the benchmark interest rate provided a distinct domestic and international transmission channel for the US dollar/Nigerian naira exchange rate. The post Naira holds the N1350/$ baseline despite attractive US yields appeared first on Nairametrics .",
       "published": "2026-10-29T09:27:25+00:00",
       "fetched": "2026-10-29T11:51:01.895268+00:00"
-    },
-    {
-      "id": "a472c419290d2e16",
-      "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children or close family remaining.”",
-      "published": "2026-10-29T09:15:00+00:00",
-      "fetched": "2026-10-29T11:51:01.365632+00:00"
-    },
-    {
-      "id": "9ab8127bedd4a99c",
-      "title": "Paystack’s Akinlade puts business infrastructure at centre of next growth phase",
-      "link": "https://techcabal.com/2026/10/29/paystack-looks-beyond-payments/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Paystack will look beyond payment acceptance to address more of businesses’ financial needs as it enters its second decade, co-founder and chief executive Shola Akinlade said at Moonshot 2026 in Lagos.",
-      "published": "2026-10-29T09:14:38+00:00",
-      "fetched": "2026-10-29T11:51:02.748015+00:00"
-    },
-    {
-      "id": "3abe4a509308784c",
-      "title": "Nigeria’s securities exchange urges founders to list on local bourse",
-      "link": "https://techcabal.com/2026/10/29/nigeria-sec-founders-list-local-bourse/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s securities regulator has urged local founders to look closer to home for capital, arguing that crowdfunding and debt markets can offer a route to an eventual stock market listing. Emomotimi Agama, director-general of the Securities and Exchange Commission, told Moonshot by TechCabal in Lagos on Wednesday that founders could start by raising money from [ ]",
-      "published": "2026-10-29T09:03:48+00:00",
-      "fetched": "2026-10-29T11:51:02.748067+00:00"
     }
   ]
 }
