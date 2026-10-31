@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-10-31T02:53:30.941954+00:00",
+  "updated": "2026-10-31T11:17:44.707233+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2bab80c4d22dfa8f",
+      "title": "Turning Trash Into Treasure: The Ups and Downs of a Miami Home Flipper’s 12-Year Career",
+      "link": "https://www.realtor.com/news/trends/miami-house-flipper-advice-branden-rivero-prop-hunters/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rivero founded his company, Prop Hunters, in 2014. The Miami-Dade-based company has completed hundreds of flips and new-build home sales.",
+      "published": "2026-10-31T11:01:00+00:00",
+      "fetched": "2026-10-31T11:17:44.706579+00:00"
+    },
     {
       "id": "28cad702a3adfb63",
       "title": "‘In Over Their Heads’: Red Flags Before the Sudden Collapse of ‘Perpetual Cruise’ That Left Residents Stranded",
@@ -1492,16 +1502,6 @@
       "summary": "California’s beaches are retreating into some of the country’s most expensive real estate—and protecting homes can cost the beach itself.",
       "published": "2026-10-23T09:00:00+00:00",
       "fetched": "2026-10-23T10:35:19.867268+00:00"
-    },
-    {
-      "id": "051cad079983f068",
-      "title": "Chip and Joanna Gaines Tackle Their ‘Most Ambitious’ Renovation With a Texas Mansion in the Newest ‘Fixer Upper’ Spinoff",
-      "link": "https://www.realtor.com/news/reality-tv/chip-gaines-fixer-upper-spinoff-bought-a-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Chip and Joanna Gaines are set to transform a 15,000-square-foot estate in their latest renovation TV series.",
-      "published": "2026-10-22T21:32:48+00:00",
-      "fetched": "2026-10-23T02:08:44.148870+00:00"
     }
   ]
 }
