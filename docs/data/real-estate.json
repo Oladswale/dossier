@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-01T12:07:56.964175+00:00",
+  "updated": "2026-11-01T21:24:33.921532+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6e3efc7b84909f4c",
+      "title": "Inside a Marvel Showrunner’s $2.4 Million Topanga Compound Featuring a 1970s Geodesic Dome and Private Oak Grove",
+      "link": "https://www.realtor.com/news/unique-homes/marvel-showrunner-topanga-compound-1970s-geodesic-dome/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The $2.4 million sanctuary features stone pathways, a private oak canopy, and a 1970s geodesic dome. It is located near Topanga State Park.",
+      "published": "2026-11-01T16:01:00+00:00",
+      "fetched": "2026-11-01T21:24:33.920921+00:00"
+    },
+    {
+      "id": "142f54b2578a23ca",
+      "title": "Rocket Launches and Twin Rivers: Tour Florida’s Most Private 16-Acre Waterfront Oasis",
+      "link": "https://www.realtor.com/news/unique-homes/merritt-island-florida-estate-riverfront-property/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The sprawling $16 million estate boasts two waterfront experiences and an impressive list of amenities.",
+      "published": "2026-11-01T15:30:00+00:00",
+      "fetched": "2026-11-01T21:24:33.920957+00:00"
+    },
+    {
+      "id": "5813bd4074a507c4",
+      "title": "In Midterm Toss-Up States of Ohio, Iowa, Texas, and Maine, Housing Affordability Is Top of Mind",
+      "link": "https://www.realtor.com/news/real-estate-news/midterm-election-senate-ohio-texas-iowa-maine-housing-concerns/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Voters in Senate toss-up states say rising housing costs and housing shortages are leaving them \"feeling stuck.\"",
+      "published": "2026-11-01T13:55:00+00:00",
+      "fetched": "2026-11-01T21:24:33.920985+00:00"
+    },
     {
       "id": "0986335433abf0ab",
       "title": "EXCLUSIVE: ‘Members Only: Palm Beach’ Star Hilary Musser Reveals Plans for New Show With a Possible Real Estate Twist",
@@ -1472,36 +1502,6 @@
       "summary": "Two measures on the ballot this election season in North Carolina give voters the chance to limit tax increases.",
       "published": "2026-10-23T16:53:32+00:00",
       "fetched": "2026-10-23T20:42:04.382106+00:00"
-    },
-    {
-      "id": "ed5dd87c7221cb0c",
-      "title": "Will Trick-or-Treaters Hit Your Street? The Unspoken Neighborhood Rules First-Time Homeowners Should Know",
-      "link": "https://www.realtor.com/news/trends/unspoken-neighborhood-rules-halloween/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Halloween means hosting trick-or-treaters and aligning with your neighbors on decorations, but that's harder to do when inflation is high.",
-      "published": "2026-10-23T15:52:28+00:00",
-      "fetched": "2026-10-23T16:00:27.582951+00:00"
-    },
-    {
-      "id": "0d8c0d046ffc2241",
-      "title": "EXCLUSIVE: Tennis Star Taylor Fritz Lists Miami Condo With Private Balcony and Tennis Court Access for $860K",
-      "link": "https://www.realtor.com/news/sports/tennis-star-taylor-fritz-miami-condo-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Fritz is serving up his Miami condo for $860,000, offering a buyer the chance to score a corner residence with sweeping views.",
-      "published": "2026-10-23T15:03:59+00:00",
-      "fetched": "2026-10-23T16:00:27.582976+00:00"
-    },
-    {
-      "id": "a2652dcc4206b5de",
-      "title": "5 Ghost Towns and Mining Settlements You Can Buy Right Now Starting at $300K",
-      "link": "https://www.realtor.com/news/unique-homes/historic-ghost-towns-mining-properties-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "These five historic ghost towns and mining properties for sale, starting at $300,000, feature off-grid cabins, Western towns, and retreats.",
-      "published": "2026-10-23T14:30:00+00:00",
-      "fetched": "2026-10-23T16:00:27.582993+00:00"
     }
   ]
 }
