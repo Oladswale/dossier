@@ -1,6 +1,6 @@
 {
   "category": "finance",
-  "updated": "2026-11-01T21:24:17.168088+00:00",
+  "updated": "2026-11-02T02:54:26.012232+00:00",
   "count": 150,
   "items": [
     {
@@ -232,6 +232,16 @@
       "summary": "The Federal Road Safety Corps (FRSC) has commenced the second phase of its special intervention patrol, code-named Operation Gaduma, with a five-day crackdown on fake, covered, defaced and obsolete vehicle number plates across selected states. The post FRSC launches five-day crackdown on fake, obsolete vehicle number plates appeared first on Nairametrics .",
       "published": "2026-10-31T20:45:36+00:00",
       "fetched": "2026-11-01T02:45:53.081024+00:00"
+    },
+    {
+      "id": "3655d779bc75e92c",
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+      "published": "2026-10-31T20:15:00+00:00",
+      "fetched": "2026-11-02T02:54:24.728292+00:00"
     },
     {
       "id": "9bac9ce48b67128f",
@@ -1492,16 +1502,6 @@
       "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
       "published": "2026-10-30T03:16:00+00:00",
       "fetched": "2026-10-30T11:43:45.361223+00:00"
-    },
-    {
-      "id": "b406f0b83ead5da3",
-      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-      "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
-      "published": "2026-10-30T00:15:00+00:00",
-      "fetched": "2026-10-30T03:06:35.909765+00:00"
     }
   ]
 }
