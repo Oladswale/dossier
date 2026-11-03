@@ -1,8 +1,278 @@
 {
   "category": "finance",
-  "updated": "2026-11-03T13:05:06.716036+00:00",
+  "updated": "2026-11-03T22:37:08.957485+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f83b59412a3a90c8",
+      "title": "AI’s control over the bond market is growing — even rivaling war and elections",
+      "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.",
+      "published": "2026-11-03T22:06:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401698+00:00"
+    },
+    {
+      "id": "9aef41a79625d23d",
+      "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+      "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Falling below 7,500 would lead to a dramatic increase in selling pressure and volatility, a J.P. Morgan strategist says, and that could end in a full-blown correction",
+      "published": "2026-11-03T21:30:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401738+00:00"
+    },
+    {
+      "id": "56c86183e9074c02",
+      "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+      "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Strategically embracing the right symbols in the office really can advance your career.",
+      "published": "2026-11-03T21:27:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401759+00:00"
+    },
+    {
+      "id": "7bc3ce7f5ab6252f",
+      "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+      "published": "2026-11-03T21:13:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401783+00:00"
+    },
+    {
+      "id": "de427b8024844a0e",
+      "title": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+      "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.",
+      "published": "2026-11-03T21:04:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401805+00:00"
+    },
+    {
+      "id": "6a9ff5aa8c52e375",
+      "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+      "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.",
+      "published": "2026-11-03T20:46:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401829+00:00"
+    },
+    {
+      "id": "dafa7deff829ecc7",
+      "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
+      "published": "2026-11-03T20:00:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401850+00:00"
+    },
+    {
+      "id": "50bc763633dce2e0",
+      "title": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
+      "link": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Geothermal technology is in the early stages of its own shale revolution, Morgan Stanley says.",
+      "published": "2026-11-03T19:57:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401870+00:00"
+    },
+    {
+      "id": "54dc4e510af7bd51",
+      "title": "Nigeria’s stock market gains N28.65 billion, reversing much of Monday losses",
+      "link": "https://nairametrics.com/2026/11/03/nigerias-stock-market-gains-n28-65-billion-reversing-much-of-monday-losses/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market closed Tuesday, November 3, 2026, on a positive note, adding N28.65 billion in market value as renewed buying in select heavyweight stocks recovered most of Monday's losses. The post Nigeria s stock market gains N28.65 billion, reversing much of Monday losses appeared first on Nairametrics .",
+      "published": "2026-11-03T19:26:09+00:00",
+      "fetched": "2026-11-03T22:37:08.237922+00:00"
+    },
+    {
+      "id": "e246430e162e905d",
+      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Don’t sit on the sidelines during open enrollment.",
+      "published": "2026-11-03T19:23:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401888+00:00"
+    },
+    {
+      "id": "db621683a3c71ced",
+      "title": "Customs intercepts N6.19 billion worth of smuggled goods, including 3.4 tonnes of cannabis",
+      "link": "https://nairametrics.com/2026/11/03/customs-intercepts-n6-19-billion-worth-of-smuggled-goods-including-3-4-tonnes-of-cannabis/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigeria Customs Service (NCS), Federal Operations Unit (FOU), Zone A, has intercepted smuggled goods valued at N6.19 billion, including 3.4 tonnes of cannabis and 23,220 machetes, in four weeks. The post Customs intercepts N6.19 billion worth of smuggled goods, including 3.4 tonnes of cannabis appeared first on Nairametrics .",
+      "published": "2026-11-03T19:00:51+00:00",
+      "fetched": "2026-11-03T22:37:08.237961+00:00"
+    },
+    {
+      "id": "8f8226769c95c531",
+      "title": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health.”",
+      "published": "2026-11-03T19:00:00+00:00",
+      "fetched": "2026-11-03T22:37:07.401908+00:00"
+    },
+    {
+      "id": "3adf0f602cc6379f",
+      "title": "NNPC considers 5% to 10% stake sale in planned IPO",
+      "link": "https://nairametrics.com/2026/11/03/nnpc-considers-5-to-10-stake-sale-in-planned-ipo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian National Petroleum Company Limited (NNPC Ltd.) is considering selling between 5% and 10% of its equity through a potential initial public offering (IPO), with the proposed listing expected to focus primarily on Nigeria’s domestic capital market. The post NNPC considers 5% to 10% stake sale in planned IPO appeared first on Nairametrics .",
+      "published": "2026-11-03T18:02:51+00:00",
+      "fetched": "2026-11-03T22:37:08.238005+00:00"
+    },
+    {
+      "id": "cae2bfa9318ad163",
+      "title": "Acecore wins TC Battlefield 2026 with Nigerian-made batteries",
+      "link": "https://techcabal.com/2026/11/03/acecore-wins-tc-battlefield/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Acecore, a Nigerian startup that builds home energy storage systems, won the $10,000 grand prize at TC Battlefield 2026.",
+      "published": "2026-11-03T16:49:42+00:00",
+      "fetched": "2026-11-03T22:37:08.957185+00:00"
+    },
+    {
+      "id": "cbc39b47f7b2947b",
+      "title": "EFCC busts Chinese-run illegal refinery in Ogun, traces sludge oil to ‘Delta, Rivers’",
+      "link": "https://nairametrics.com/2026/11/03/efcc-busts-chinese-run-illegal-refinery-in-ogun-traces-sludge-oil-to-delta-rivers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Economic and Financial Crimes Commission (EFCC) has disclosed that it uncovered an illegal oil refinery allegedly operated by Chinese nationals in the Ogere area of Ogun State and traced the sludge oil discovered at the facility to Delta and Rivers states. The post EFCC busts Chinese-run illegal refinery in Ogun, traces sludge oil to ‘Delta, Rivers’ appeared first on Nairametrics .",
+      "published": "2026-11-03T16:35:47+00:00",
+      "fetched": "2026-11-03T22:37:08.238051+00:00"
+    },
+    {
+      "id": "2be59f1380a7e4f7",
+      "title": "PAU’s Pearl Hostel records 28.36% yield, highest among UPDC REIT’s five properties",
+      "link": "https://nairametrics.com/2026/11/03/paus-pearl-hostel-records-28-36-yield-highest-among-updc-reits-five-properties/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Pearl Hostel, which provides accommodation for undergraduate students of Pan-Atlantic University (PAU), has recorded a current yield of 28.36%, the highest among the five properties held by UPDC Real Estate Investment Trust (UPDC REIT). The post PAU s Pearl Hostel records 28.36% yield, highest among UPDC REIT s five properties appeared first on Nairametrics .",
+      "published": "2026-11-03T16:25:15+00:00",
+      "fetched": "2026-11-03T22:37:08.238086+00:00"
+    },
+    {
+      "id": "77509eec78d16f6b",
+      "title": "With Careers Lasting At Least Decade Each, Jeroid and Olamide Join Forces to Push for Wider Crypto Adoption",
+      "link": "https://nairametrics.com/2026/11/03/with-careers-lasting-at-least-decade-each-jeroid-and-olamide-join-forces-to-push-for-wider-crypto-adoption/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The collaboration reflects the Nigerian crypto platform s strategy of combining an established operating history with cultural influence as it pursues growth in an increasingly competitive digital asset market.In a market where digital finance companies compete for customers, visibility and credibility, brand partnerships are increasingly becoming part of a wider business strategy. For Jeroid, the decision [ ] The post With Careers Lasting At Least Decade Each, Jeroid and Olamide Join Forces to Push for Wider Crypto Adoption appeared first on Nairametrics .",
+      "published": "2026-11-03T15:51:52+00:00",
+      "fetched": "2026-11-03T22:37:08.238130+00:00"
+    },
+    {
+      "id": "805683d8ef9745b4",
+      "title": "N500 to the dollar: aspiration, arithmetic and economic reality",
+      "link": "https://nairametrics.com/2026/11/03/n500-to-the-dollar-aspiration-arithmetic-and-economic-reality/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Emeka Nwosu sells phone accessories from a glass counter in Computer Village, Ikeja, and every morning before he opens he checks the rate on his phone the way a farmer checks the sky. He has never bought a dollar in his life, but everything on his counter was imported and priced in dollars somewhere up [ ] The post N500 to the dollar: aspiration, arithmetic and economic reality appeared first on Nairametrics .",
+      "published": "2026-11-03T14:52:27+00:00",
+      "fetched": "2026-11-03T22:37:08.238166+00:00"
+    },
+    {
+      "id": "ecb5b866e26d5ef1",
+      "title": "Tech won’t fix Africa’s informal economy without power and rails, says AFC CEO",
+      "link": "https://techcabal.com/2026/11/03/samaila-zubairu-on-ai-for-africa/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "At AFIS in Luanda, Africa Finance Corporation CEO Samaila Zubairu argued that getting informal businesses online can only go so far if they lack reliable power, storage and transport. He pointed to the Lobito Corridor as a chance to build industries that process minerals and move farm produce within the region.",
+      "published": "2026-11-03T14:40:54+00:00",
+      "fetched": "2026-11-03T22:37:08.957227+00:00"
+    },
+    {
+      "id": "fda0e671a6c056e8",
+      "title": "Safaricom’s cleaner energy push struggles to keep pace with growth",
+      "link": "https://techcabal.com/2026/11/03/safaricom-power-supply-next-growth-phase/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Safaricom is combining solar installations with lithium-ion batteries, more efficient power systems, additional grid connections and remote monitoring.",
+      "published": "2026-11-03T14:31:12+00:00",
+      "fetched": "2026-11-03T22:37:08.957250+00:00"
+    },
+    {
+      "id": "3a7a02d476080ec0",
+      "title": "NFEM turnover falls below $300 million for first time since September 28",
+      "link": "https://nairametrics.com/2026/11/03/nfem-turnover-falls-below-300-million-for-first-time-since-september-28/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Turnover at the Nigerian Foreign Exchange Market (NFEM) fell to $227.18 million on November 2, 2026, dropping below $300 million for the first time since September 28, when transactions amounted to $196.68 million. The post NFEM turnover falls below $300 million for first time since September 28 appeared first on Nairametrics .",
+      "published": "2026-11-03T14:07:44+00:00",
+      "fetched": "2026-11-03T22:37:08.238196+00:00"
+    },
+    {
+      "id": "e2e88706b202a480",
+      "title": "Failed power promise: Why Nigeria still runs on generators",
+      "link": "https://nairametrics.com/2026/11/03/failed-power-promise-why-nigeria-still-runs-on-generators/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Thirteen years after the power sector was sold, most Nigerians still plan their day around NEPA. The generator is still the real utility. The diesel bill is still the real tariff.",
+      "published": "2026-11-03T13:49:14+00:00",
+      "fetched": "2026-11-03T22:37:08.238232+00:00"
+    },
+    {
+      "id": "01bcdb9613f4ea5f",
+      "title": "Jumia Black Friday Is Here: ‘No Manage Am’ Is the Call to Upgrade",
+      "link": "https://nairametrics.com/2026/11/03/jumia-black-friday-is-here-no-manage-am-is-the-call-to-upgrade/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "That smartphone you have been nursing because a replacement feels too expensive? The home appliance you have been coaxing to work for just a little longer? Or the gadget that has stayed on your wishlist while you wait for a price that feels right?How long must you keep managing?Jumia s answer is No Manage Am .",
+      "published": "2026-11-03T13:47:52+00:00",
+      "fetched": "2026-11-03T22:37:08.238294+00:00"
+    },
+    {
+      "id": "dfa6cd82df0ca8ad",
+      "title": "How IFC plans to use fintech and cash flow to finance African MSMEs",
+      "link": "https://techcabal.com/2026/11/03/ifc-cash-flow-lending-african-msmes/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The IFC wants small businesses in Africa to qualify for loans based on the money they bring in. At AFIS in Luanda, Angola, Makhtar Diop laid out how fintech and local-currency lending could help more businesses borrow and grow.",
+      "published": "2026-11-03T13:43:24+00:00",
+      "fetched": "2026-11-03T22:37:08.957286+00:00"
+    },
+    {
+      "id": "332eaaede0bed8a9",
+      "title": "Digital fraud surges to 88%: The hidden security crisis chilling cross-border finance",
+      "link": "https://techcabal.com/2026/11/03/digital-fraud-cross-border-expansion-afis/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nearly half of the financial institutions surveyed across 20 African countries are prioritising growth at home. As banks and fintechs report rising digital fraud, only 11% of surveyed institutions are connected to Africa’s flagship cross-border payments network, PAPSS.",
+      "published": "2026-11-03T13:33:41+00:00",
+      "fetched": "2026-11-03T22:37:08.957318+00:00"
+    },
+    {
+      "id": "ab2015cec9d335d7",
+      "title": "South Africa’s AGOA troubles could reach beyond exporters to its startups",
+      "link": "https://techcabal.com/2026/11/03/south-africa-agoa-fallout-us-startups/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "While AGOA is a trade preference programme covering goods exports, the fallout from the decision could reach businesses that have little direct exposure to the programme.",
+      "published": "2026-11-03T13:29:15+00:00",
+      "fetched": "2026-11-03T22:37:08.957341+00:00"
+    },
+    {
+      "id": "d2e24cead933918c",
+      "title": "Conoil’s pre-tax profit rises 218.9% to N5.98 billion in nine months of 2026",
+      "link": "https://nairametrics.com/2026/11/03/conoils-pre-tax-profit-rises-218-9-to-n5-98-billion-in-nine-months-of-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Conoil Plc reported a pre-tax profit of N5.98 billion for the nine months ended September 30, 2026, representing a 218.9% increase from N1.88 billion in the corresponding period of 2025, according to the company's unaudited results-at-a-glance statement. The post Conoil s pre-tax profit rises 218.9% to N5.98 billion in nine months of 2026 appeared first on Nairametrics .",
+      "published": "2026-11-03T13:26:25+00:00",
+      "fetched": "2026-11-03T22:37:08.238330+00:00"
+    },
     {
       "id": "406a2efd549594d7",
       "title": "3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy",
@@ -1232,276 +1502,6 @@
       "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
       "published": "2026-10-31T18:10:00+00:00",
       "fetched": "2026-10-31T20:42:45.708361+00:00"
-    },
-    {
-      "id": "1e658f93b9f32ae7",
-      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-      "published": "2026-10-31T17:26:00+00:00",
-      "fetched": "2026-10-31T20:42:45.708389+00:00"
-    },
-    {
-      "id": "d43e60685abab5ec",
-      "title": "Verve plans phone tap-to-pay and AI agent payments, CEO says",
-      "link": "https://techcabal.com/2026/10/31/verve-ai-payment/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Verve plans to let customers pay by tapping their phones and, eventually, to let AI assistants make payments on their behalf.",
-      "published": "2026-10-31T17:13:49+00:00",
-      "fetched": "2026-10-31T20:42:46.769460+00:00"
-    },
-    {
-      "id": "6f489b389a974c94",
-      "title": "Intra-African payment rails are key to cutting cross-border friction, says Grey",
-      "link": "https://techcabal.com/2026/10/31/grey-ditch-the-dollar/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Grey is building direct payment connections and currency pairs in African markets so cross-border transfers no longer use the dollar.",
-      "published": "2026-10-31T17:12:57+00:00",
-      "fetched": "2026-10-31T20:42:46.769494+00:00"
-    },
-    {
-      "id": "a0b3aa185c04679b",
-      "title": "Honeywell Flour Mills’ H1-2027 pre-tax profit jumps 1,115% to N31.40 billion as revenue rises 41%",
-      "link": "https://nairametrics.com/2026/10/31/honeywell-flour-mills-h1-2027-pre-tax-profit-jumps-1115-to-n31-40-billion-as-revenue-rises-41/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Honeywell Flour Mills Plc recorded a 1,115.17% increase in pre-tax profit to N31.40 billion for the six months ended September 30, 2026... The post Honeywell Flour Mills H1-2027 pre-tax profit jumps 1,115% to N31.40 billion as revenue rises 41% appeared first on Nairametrics .",
-      "published": "2026-10-31T16:54:07+00:00",
-      "fetched": "2026-10-31T20:42:46.337627+00:00"
-    },
-    {
-      "id": "12aa72b9bb4e738e",
-      "title": "80% of workers make this 401(k) mistake when they retire",
-      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
-      "published": "2026-10-31T16:46:00+00:00",
-      "fetched": "2026-10-31T20:42:45.708415+00:00"
-    },
-    {
-      "id": "52c9daff21270eed",
-      "title": "MTN Nigeria’s 9M pre-tax profit rises 59.4% to N1.80 trillion as revenue hits N4.61 trillion",
-      "link": "https://nairametrics.com/2026/10/31/mtn-nigerias-9m-pre-tax-profit-rises-59-4-to-n1-80-trillion-as-revenue-hits-n4-61-trillion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "MTN Nigeria Communications Plc recorded a 59.4% increase in pre-tax profit to N1.80 trillion for the nine months ended September 30, 2026 The post MTN Nigeria’s 9M pre-tax profit rises 59.4% to N1.80 trillion as revenue hits N4.61 trillion appeared first on Nairametrics .",
-      "published": "2026-10-31T16:23:28+00:00",
-      "fetched": "2026-10-31T20:42:46.337687+00:00"
-    },
-    {
-      "id": "0a4ca7fada12505e",
-      "title": "Mutual Benefits records N13.89 billion pre-tax profit as insurance revenue hits N65.16 billion",
-      "link": "https://nairametrics.com/2026/10/31/mutual-benefits-records-n13-89-billion-pre-tax-profit-as-insurance-revenue-hits-n65-16-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Mutual Benefits Assurance Plc reported a pre-tax profit of N13.89 billion for the nine months ended September 30, 2026... The post Mutual Benefits records N13.89 billion pre-tax profit as insurance revenue hits N65.16 billion appeared first on Nairametrics .",
-      "published": "2026-10-31T16:05:08+00:00",
-      "fetched": "2026-10-31T16:22:41.101405+00:00"
-    },
-    {
-      "id": "816efe8ef2530fc1",
-      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-      "published": "2026-10-31T16:02:00+00:00",
-      "fetched": "2026-10-31T16:22:40.299459+00:00"
-    },
-    {
-      "id": "e99ec87fcdab2f64",
-      "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-      "published": "2026-10-31T16:00:00+00:00",
-      "fetched": "2026-10-31T16:22:40.299499+00:00"
-    },
-    {
-      "id": "61de316c30851aaa",
-      "title": "Africa Energy Bank takes off, Egypt’s Helmy Ghazi named pioneer president",
-      "link": "https://nairametrics.com/2026/10/31/africa-energy-bank-takes-off-egypts-helmy-ghazi-named-pioneer-president/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Africa Energy Bank (AEB) was formally established on October 31, 2026, with Egypt's top banker, Mr Helmy Ghazi, emerging as the Bank’s inaugural president. The post Africa Energy Bank takes off, Egypt’s Helmy Ghazi named pioneer president appeared first on Nairametrics .",
-      "published": "2026-10-31T15:34:57+00:00",
-      "fetched": "2026-10-31T20:42:46.337747+00:00"
-    },
-    {
-      "id": "2d4eed70f85435e1",
-      "title": "BREAKING: Africa Energy Bank takes off, Egypt’s Helmy Ghazi named pioneer president",
-      "link": "https://nairametrics.com/2026/10/31/africa-energy-bank-takes-off-egypts-helmy-ghazi-named-pioneer-president/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Africa Energy Bank (AEB) was formally established on October 31, 2026, with Egypt's top banker, Mr Helmy Ghazi, emerging as the Bank’s inaugural president. The post BREAKING: Africa Energy Bank takes off, Egypt’s Helmy Ghazi named pioneer president appeared first on Nairametrics .",
-      "published": "2026-10-31T15:34:57+00:00",
-      "fetched": "2026-10-31T16:22:41.101455+00:00"
-    },
-    {
-      "id": "73ff2e04d0f36fa2",
-      "title": "Nigeria’s AI ambitions depend on building for local realities",
-      "link": "https://techcabal.com/2026/10/31/nigerias-ai-progress/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s AI progress will be judged by the local problems it solves, panellists said at “The State of AI in Nigeria\", a session at Moonshot by TechCabal.",
-      "published": "2026-10-31T15:16:55+00:00",
-      "fetched": "2026-10-31T16:22:42.292248+00:00"
-    },
-    {
-      "id": "ca31b9d389df112e",
-      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-      "published": "2026-10-31T15:00:00+00:00",
-      "fetched": "2026-10-31T16:22:40.299540+00:00"
-    },
-    {
-      "id": "f5672ef232de0194",
-      "title": "FG partners Harmony Gardens, Metroscape to build 2,000 homes in Ibeju-Lekki",
-      "link": "https://nairametrics.com/2026/10/31/fg-partners-harmony-gardens-metroscape-to-build-2000-homes-in-ibeju-lekki/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has partnered with Harmony Gardens and Estate Development Limited and Metroscape Development Company Limited to build 2,000 housing units at Lekki Aviation Town in Ibeju-Lekki, Lagos State, under its Renewed Hope Housing Programme. The post FG partners Harmony Gardens, Metroscape to build 2,000 homes in Ibeju-Lekki appeared first on Nairametrics .",
-      "published": "2026-10-31T14:52:12+00:00",
-      "fetched": "2026-10-31T16:22:41.101495+00:00"
-    },
-    {
-      "id": "7c69b16b8000114c",
-      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
-      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-      "published": "2026-10-31T14:35:00+00:00",
-      "fetched": "2026-10-31T16:22:40.299572+00:00"
-    },
-    {
-      "id": "b593e1e8452f0ee5",
-      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
-      "published": "2026-10-31T14:03:00+00:00",
-      "fetched": "2026-10-31T16:22:40.299604+00:00"
-    },
-    {
-      "id": "119742404d06d498",
-      "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
-      "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
-      "published": "2026-10-31T13:15:00+00:00",
-      "fetched": "2026-10-31T16:22:40.299631+00:00"
-    },
-    {
-      "id": "3bc8d351c88ecddc",
-      "title": "Nigerian stocks gain N2 trillion in October as market cap hits N165 trillion",
-      "link": "https://nairametrics.com/2026/10/31/nigerian-stocks-gain-n2-trillion-in-october-as-market-cap-hits-n165-trillion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian stocks closed October with a gain of approximately N2 trillion in market capitalisation, rising from around N163.1 trillion at... The post Nigerian stocks gain N2 trillion in October as market cap hits N165 trillion appeared first on Nairametrics .",
-      "published": "2026-10-31T12:53:10+00:00",
-      "fetched": "2026-10-31T16:22:41.101522+00:00"
-    },
-    {
-      "id": "9e3db7ae0314acee",
-      "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-      "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-      "published": "2026-10-31T12:47:08+00:00",
-      "fetched": "2026-11-03T00:05:16.450896+00:00"
-    },
-    {
-      "id": "6b674c1a259c2cfa",
-      "title": "Skyway Aviation’s nine-month pre-tax profit declines 22.13% to N8.08 billion",
-      "link": "https://nairametrics.com/2026/10/31/skyway-aviations-nine-month-pre-tax-profit-declines-22-13-to-n8-08-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Skyway Aviation Handling Company Plc (SAHCO) has released its unaudited financial results for the nine months The post Skyway Aviation s nine-month pre-tax profit declines 22.13% to N8.08 billion appeared first on Nairametrics .",
-      "published": "2026-10-31T12:29:36+00:00",
-      "fetched": "2026-10-31T16:22:41.101550+00:00"
-    },
-    {
-      "id": "fde0c830d1805996",
-      "title": "US stocks: How to invest in the world’s largest stock market from Nigeria",
-      "link": "https://nairametrics.com/2026/10/31/us-stocks-how-to-invest-in-the-worlds-largest-stock-market-from-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Trading US stocks from Nigeria is a great way to hedge against Nigeria's inflation by protecting your buying power and participating in the.. The post US stocks: How to invest in the world s largest stock market from Nigeria appeared first on Nairametrics .",
-      "published": "2026-10-31T12:16:52+00:00",
-      "fetched": "2026-10-31T16:22:41.101579+00:00"
-    },
-    {
-      "id": "bf7203be40f06641",
-      "title": "How Vectar Energy moved from selling solar generators to building carbon-market infrastructure",
-      "link": "https://techcabal.com/2026/10/31/vectar-energy-day-1-1000/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Vectar Energy is a climate finance company that began as a maker of solar-powered portable power stations and now brings small solar projects together to access carbon markets they could not enter on their own.",
-      "published": "2026-10-31T11:12:35+00:00",
-      "fetched": "2026-10-31T11:17:27.538590+00:00"
-    },
-    {
-      "id": "123df01dad556a27",
-      "title": "Stablecoins gain ground in African trade but face hurdles to wider use",
-      "link": "https://techcabal.com/2026/10/31/stablecoins-face-hurdles-to-wider-use/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Stablecoins are giving African businesses an alternative way to pay overseas suppliers, but costs, security concerns and fragmented blockchain networks remain obstacles to wider use, industry executives told Moonshot by TechCabal in Lagos.",
-      "published": "2026-10-31T11:10:42+00:00",
-      "fetched": "2026-10-31T11:17:27.538635+00:00"
-    },
-    {
-      "id": "069ed25a5f718986",
-      "title": "Why OPay IPO sale was halted after debut on NYSE",
-      "link": "https://nairametrics.com/2026/10/31/why-opay-ipo-sale-was-halted-after-debut-on-nyse/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "OPay Limited has explained why its planned initial public offering (IPO) on the New York Stock Exchange (NYSE) was halted, citing a regulatory inquiry involving a foreign jurisdiction. The post Why OPay IPO sale was halted after debut on NYSE appeared first on Nairametrics .",
-      "published": "2026-10-31T10:36:25+00:00",
-      "fetched": "2026-10-31T11:17:26.806153+00:00"
-    },
-    {
-      "id": "9236e8e1db338f9c",
-      "title": "Konga Launches Yakata Black Friday 2026 with Deals, Giveaways and SUV Prize",
-      "link": "https://nairametrics.com/2026/10/31/konga-launches-yakata-black-friday-2026-with-deals-giveaways-and-suv-prize/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Konga has officially launched its highly anticipated Yakata Black Friday 2026 campaign, bringing Nigerians a month of incredible deals, exclusive brand offers, exciting giveaways and a chance to win a brand-new SUV simply by shopping on the Konga app. Running from November 1 to 30, the campaign is set to redefine the year-end shopping experience, [ ] The post Konga Launches Yakata Black Friday 2026 with Deals, Giveaways and SUV Prize appeared first on Nairametrics .",
-      "published": "2026-10-31T10:20:35+00:00",
-      "fetched": "2026-10-31T11:17:26.806218+00:00"
-    },
-    {
-      "id": "2ab0e7ff82001607",
-      "title": "Rev360: Reimagining Tax Administration for a Digital Nigeria",
-      "link": "https://nairametrics.com/2026/10/31/rev360-reimagining-tax-administration-for-a-digital-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For many taxpayers, the true measure of an effective tax system is not the complexity of its laws or the sophistication of its technology, but a much simpler question: how easy is it to comply? This question is central to the Nigeria Revenue Service’s (NRS) ongoing transformation of tax administration through Rev360, its next-generation digital [ ] The post Rev360: Reimagining Tax Administration for a Digital Nigeria appeared first on Nairametrics .",
-      "published": "2026-10-31T10:07:51+00:00",
-      "fetched": "2026-10-31T11:17:26.806286+00:00"
-    },
-    {
-      "id": "967696c15b41f9f0",
-      "title": "EXCLUSIVE: Dangote Refinery IPO records 1.55 million online subscribers, total retail count could reach five million",
-      "link": "https://nairametrics.com/2026/10/31/exclusive-dangote-refinery-ipo-records-1-55-million-online-subscribers-total-retail-count-could-reach-five-million/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Refinery’s initial public offering (IPO) attracted more than N860 billion in online retail subscriptions from about 1.55 million unique online subscribers, with total retail participation potentially reaching five million once offline subscriptions are collated. Nairametrics gathered the online subscription figures from reliable sources with knowledge of the transaction. The offer closed on Tuesday, October [ ] The post EXCLUSIVE: Dangote Refinery IPO records 1.55 million online subscribers, total retail count could reach five million appeared first on Nairametrics .",
-      "published": "2026-10-31T09:57:40+00:00",
-      "fetched": "2026-10-31T11:17:26.806360+00:00"
     }
   ]
 }
