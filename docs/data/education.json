@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-02T13:56:32.061456+00:00",
+  "updated": "2026-11-03T00:05:30.131422+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c50f34d6acebaa69",
+      "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
+      "link": "https://news.mit.edu/2026/lemelson-mit-brings-invention-education-classrooms-kindergarten-college-1102",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new initiative in California, Tennessee, and New England puts learning by doing at the center of students’ STEM pathways, in step with MIT for America’s focus on helping students design, make, and innovate.",
+      "published": "2026-11-02T21:25:00+00:00",
+      "fetched": "2026-11-03T00:05:29.382411+00:00"
+    },
+    {
+      "id": "6efb1b35a9c13616",
+      "title": "Faces of MIT: Vera Grbic",
+      "link": "https://news.mit.edu/2026/faces-of-mit-vera-grbic-1102",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "IDHR communications officer Vera Grbic helps connect the MIT community with resources, support, and information through clear and accessible messaging.",
+      "published": "2026-11-02T20:45:00+00:00",
+      "fetched": "2026-11-03T00:05:29.382449+00:00"
+    },
+    {
+      "id": "4400dfc6b30e7771",
+      "title": "Jeffery Lim wants to open up cloud research",
+      "link": "https://news.mit.edu/2026/jeffery-lim-wants-to-open-up-cloud-research-1102",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The Lincoln Laboratory scholar developed a hardware platform inspired by proprietary infrastructure, allowing researchers to design and evaluate their cloud technology in a realistic environment.",
+      "published": "2026-11-02T20:00:00+00:00",
+      "fetched": "2026-11-03T00:05:29.382482+00:00"
+    },
+    {
+      "id": "2ed16b79cc5474a0",
+      "title": "Powering up for a pivotal moment",
+      "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
+      "published": "2026-11-02T19:55:00+00:00",
+      "fetched": "2026-11-03T00:05:29.382517+00:00"
+    },
     {
       "id": "ca9de1fc5f05a5fa",
       "title": "A Beginner’s Guide to Philosophy: From Logic to Epistemology to Metaphysics",
@@ -32,6 +72,16 @@
       "summary": "The old vaudeville phrase “Will it play in Peoria?” has its roots in the late 19th century, specifically in Horatio Alger’s novel Five Hundred Dollars; Or Jacob Marlowe’s Secret. Like all of the books Alger wrote extolling the virtues of thrift, study, grooming, industry, etc., this one articulates a middle American bootstraps philosophy and rags-to-riches mythology, while [ ]",
       "published": "2026-11-02T09:00:57+00:00",
       "fetched": "2026-11-02T13:56:32.061286+00:00"
+    },
+    {
+      "id": "a540ea12f5817296",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+      "link": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
+      "published": "2026-11-02T05:35:00+00:00",
+      "fetched": "2026-11-03T00:05:29.382592+00:00"
     },
     {
       "id": "12ded8df44fffd10",
@@ -1452,56 +1502,6 @@
       "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
       "published": "2026-09-24T21:00:00+00:00",
       "fetched": "2026-09-25T02:04:26.911017+00:00"
-    },
-    {
-      "id": "287645b8c870f285",
-      "title": "Biologists identify a cellular pathway that allows colorectal cancer to metastasize",
-      "link": "https://news.mit.edu/2026/biologists-identify-cellular-pathway-allows-colorectal-cancer-metastasize-0924",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "They also found that obesity may put patients at higher risk for activation of the pathway. Drugs that block the pathway may help prevent metastasis.",
-      "published": "2026-09-24T18:00:00+00:00",
-      "fetched": "2026-09-24T20:50:33.868097+00:00"
-    },
-    {
-      "id": "fa32fab1ef7dec17",
-      "title": "New cell-collection device could improve early cancer detection",
-      "link": "https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers developed a handheld system that gently collects living cells from patient samples to aid cancer testing and development of personalized medicines.",
-      "published": "2026-09-24T15:00:00+00:00",
-      "fetched": "2026-09-24T15:58:54.951578+00:00"
-    },
-    {
-      "id": "5e7aec8a8418cf3b",
-      "title": "The Long, Strange History of Tarot Cards: From the 14th Century to Modern Times",
-      "link": "https://www.openculture.com/2026/09/the-long-strange-history-of-tarot-cards-from-the-14th-century-to-modern-times.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "We have any number of reasons for difficulty getting to sleep, not least worries about the future. This is hardly a recent phenomenon, and indeed practices meant to clarify the nature of events to come may be older than civilization itself. In fact, many of us moderns trust the old ways of fortune-telling more than [ ]",
-      "published": "2026-09-24T09:06:32+00:00",
-      "fetched": "2026-09-24T10:35:13.361628+00:00"
-    },
-    {
-      "id": "f6b223d46ea859f8",
-      "title": "How to Memorize an Entire Chapter from “Moby Dick”: The Art and Science of Remembering Everything",
-      "link": "https://www.openculture.com/2026/09/how-to-memorize-an-entire-chapter-from-moby-dick.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Sometimes, when I can’t sleep, I mentally revisit the various homes of my childhood, wandering from room to room, turning on lights and peering in closets until I conk out. Turns out these imaginary tours are also handy mnemonic tools, as Vox’s Dean Peterson explains above. Hey, that’s good news… isn’t the subconscious rumored to [ ]",
-      "published": "2026-09-24T08:00:48+00:00",
-      "fetched": "2026-09-24T10:35:13.361693+00:00"
-    },
-    {
-      "id": "eeb3d09221d946a2",
-      "title": "The promise and peril of using visual AI to study cities",
-      "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
-      "published": "2026-09-24T04:00:00+00:00",
-      "fetched": "2026-09-24T10:35:12.773813+00:00"
     }
   ]
 }
