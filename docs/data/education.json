@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-03T00:05:30.131422+00:00",
+  "updated": "2026-11-03T13:05:26.692911+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "fa62f1dd0c70a977",
+      "title": "The San Francisco Public Library Launches a Free Online Archive with 80,000+ Historical Images & Documents to Explore & Download",
+      "link": "https://www.openculture.com/2026/11/the-san-francisco-public-library-launches-a-free-online-archive-with-80000-historical-images-documents-to-explore-download.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Over 100,000 people move to the San Francisco Bay Area each year. Their motivations for doing so no doubt vary, but these days, the ambition to make a fortune at the epicenter of the tech industry — especially amid the rapidly inflating AI bubble — is hardly unheard of. Unfortunately, that desire can be so [ ]",
+      "published": "2026-11-03T10:00:29+00:00",
+      "fetched": "2026-11-03T13:05:26.692697+00:00"
+    },
+    {
+      "id": "5fbb7a597137e325",
+      "title": "Watch Soviet Animations of Winnie the Pooh, Created by the Innovative Animator Fyodor Khitruk",
+      "link": "https://www.openculture.com/2026/11/soviet-animations-of-winnie-the-pooh-created-by-the-innovative-animator-fyodor-khitruk.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In 1962, the animator Fyodor Khitruk made his directorial debut with Story of One Crime, a film that broke with a Soviet tendency to make imitations of Disney-style animations. The film, as The Guardian explained in its 2012 obituary for the animator, came as a shock. It was stylistically simple and dealt with themes that Disney films would never [ ]",
+      "published": "2026-11-03T09:00:03+00:00",
+      "fetched": "2026-11-03T13:05:26.692739+00:00"
+    },
     {
       "id": "c50f34d6acebaa69",
       "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
@@ -1482,26 +1502,6 @@
       "summary": "Before she became a composer of electronic music, Else Marie Pade was a sick child listening to the radio. Frequent kidney inflammations consigned her to bed for long periods of time, which would constitute neither her last nor her harshest experience of confinement. She was still young when the Nazis occupied her homeland of Denmark [ ]",
       "published": "2026-09-25T08:00:43+00:00",
       "fetched": "2026-09-25T10:38:46.700504+00:00"
-    },
-    {
-      "id": "44c6a0f7f4e9dcfd",
-      "title": "Scattering neutrinos to probe the fundamental laws of the universe",
-      "link": "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "As she became integral to an international particle physics experiment, PhD student Faith Reyes found confidence in herself as a scientist.",
-      "published": "2026-09-25T04:00:00+00:00",
-      "fetched": "2026-09-25T10:38:45.792938+00:00"
-    },
-    {
-      "id": "8900fd3d9b37b0d2",
-      "title": "Estimating suicide risk from text",
-      "link": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
-      "published": "2026-09-24T21:00:00+00:00",
-      "fetched": "2026-09-25T02:04:26.911017+00:00"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-03T00:05:31.078690+00:00",
+  "updated": "2026-11-03T13:05:27.180070+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5ea317cbb5c91bd0",
+      "title": "Fannie Mae Sharply Raises 2027 Mortgage Rate Forecast",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-474",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Is there any relief coming next year for mortgage rates? According to Fannie Mae’s new 2027 mortgage rate prediction…it’s not looking too good. Previous mortgage rate forecasts predicted 6.7% rates [ ]",
+      "published": "2026-11-03T12:00:38+00:00",
+      "fetched": "2026-11-03T13:05:26.888603+00:00"
+    },
+    {
+      "id": "cbe81b50111f6826",
+      "title": "Why a Long Island Town’s Crackdown on Vacation Rentals May Not Fix Its Housing Crisis",
+      "link": "https://www.realtor.com/news/trends/southold-airbnb-crackdown-second-homes-housing-shortage/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Southold wants fewer vacation rentals and more homes for locals. But what happens when tourists leave and the houses stay empty?",
+      "published": "2026-11-03T10:00:00+00:00",
+      "fetched": "2026-11-03T13:05:27.179538+00:00"
+    },
+    {
+      "id": "7a5e06f6a45cbf58",
+      "title": "Wall Street’s AI Sell-Off Exposes a Weak Spot in the Bank of Mom and Dad",
+      "link": "https://www.realtor.com/news/trends/ai-stock-sell-off-bank-of-mom-and-dad-homebuyers/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "An AI stock sell-off is raising questions about the Bank of Mom and Dad and what happens to homebuyers when family portfolios lose value.",
+      "published": "2026-11-03T09:47:00+00:00",
+      "fetched": "2026-11-03T13:05:27.179570+00:00"
+    },
+    {
+      "id": "45df7132542092ae",
+      "title": "Beverly Hills Mansion With Private Nightclub, DJ Booth, and Dance Floor Is Listed for an Astonishing $70 Million",
+      "link": "https://www.realtor.com/news/unique-homes/beverly-hills-mansion-private-nightclub-dance-floor-most-expensive/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The eight-bedroom estate, built by spec home developer Bruce Makowsky, sits on an acre lot with sweeping views from downtown L.A.",
+      "published": "2026-11-03T09:13:00+00:00",
+      "fetched": "2026-11-03T13:05:27.179593+00:00"
+    },
     {
       "id": "70670b0a8baf0cc3",
       "title": "Nicholas Cage Says He’s a ‘Bit Homeless’ and ‘Living in Hotels’ After Sinkhole Damaged $10.5 Million Malibu Home",
@@ -1462,46 +1502,6 @@
       "summary": "Hogan, whose real name was Terry Gene Bollea, died at the age of 71 at the Clearwater, FL, home in July 2025",
       "published": "2026-10-26T12:58:14+00:00",
       "fetched": "2026-10-26T17:43:11.819041+00:00"
-    },
-    {
-      "id": "1e26fb9db1d9c40b",
-      "title": "Rentals Helped Me Quit My 14-Year Nursing Job (And Start My Own Business)",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1348",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Have you ever thought, maybe real estate investing isn’t worth it anymore? Lindsay Barrientos didn’t start buying rentals after the 2008 crash or ride the low-interest-rate wave in 2021. She [ ]",
-      "published": "2026-10-26T11:00:50+00:00",
-      "fetched": "2026-10-26T11:38:21.070252+00:00"
-    },
-    {
-      "id": "19bd5c5b806288e6",
-      "title": "Turning $12K in Rent Payments Into a $1.3M Real Estate Portfolio",
-      "link": "https://www.biggerpockets.com/blog/rookie-788",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "So you ran the numbers and the cash flow shows negative? You don’t have to give up on rentals. With a few smarter assumptions, the right strategy, or the right [ ]",
-      "published": "2026-10-26T11:00:14+00:00",
-      "fetched": "2026-10-27T02:34:00.575063+00:00"
-    },
-    {
-      "id": "f359e92e9f79bcac",
-      "title": "Just 17% of the Country Allows Manufactured Homes—and These Cities Could Benefit the Most From Easing Restrictions",
-      "link": "https://www.realtor.com/news/trends/manufactured-housing-zoning-report-trump-task-force-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If the zoning hurdle were put aside, some cities could see major benefits from allowing more manufactured housing, Realtor.com found.",
-      "published": "2026-10-26T09:00:00+00:00",
-      "fetched": "2026-10-26T11:38:21.360863+00:00"
-    },
-    {
-      "id": "cc6952cd6ae3eda3",
-      "title": "Why 80% of Manhattan Buyers Are Looking Elsewhere—and the Borough Winning Them Over",
-      "link": "https://www.realtor.com/news/trends/new-yorkers-ditch-manhattan-outer-boroughs-queens-top-spot/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Queens is New York City’s top borough for Manhattan buyers seeking more space without sacrificing their urban lifestyle.",
-      "published": "2026-10-26T08:33:00+00:00",
-      "fetched": "2026-10-26T11:38:21.360906+00:00"
     }
   ]
 }
