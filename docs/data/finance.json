@@ -1,8 +1,328 @@
 {
   "category": "finance",
-  "updated": "2026-11-04T13:20:30.011904+00:00",
+  "updated": "2026-11-04T22:56:22.421642+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "689a0fac00cba32f",
+      "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+      "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
+      "published": "2026-11-04T22:46:00+00:00",
+      "fetched": "2026-11-04T22:56:21.206867+00:00"
+    },
+    {
+      "id": "ba31643853a79b07",
+      "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
+      "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Most Americans are “thrilled” or “happy” about the results of this year’s election. Some are especially so.",
+      "published": "2026-11-04T22:06:00+00:00",
+      "fetched": "2026-11-04T22:56:21.206923+00:00"
+    },
+    {
+      "id": "0a98951fe222bc41",
+      "title": "Qualcomm’s stock falls as twin forces pressure sales",
+      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
+      "published": "2026-11-04T22:03:00+00:00",
+      "fetched": "2026-11-04T22:56:21.206951+00:00"
+    },
+    {
+      "id": "a6fa1af52fdec8da",
+      "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
+      "published": "2026-11-04T21:55:00+00:00",
+      "fetched": "2026-11-04T22:56:21.206981+00:00"
+    },
+    {
+      "id": "7e9fffacee06419e",
+      "title": "These stocks soared the most today after the Democrats trounced Trump",
+      "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Chemical company Mosaic’s stock is the strongest performer among the S P 500, while several tech players and associated power providers show sharp declines",
+      "published": "2026-11-04T21:55:00+00:00",
+      "fetched": "2026-11-04T22:56:21.207010+00:00"
+    },
+    {
+      "id": "90c154d396b20c0e",
+      "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
+      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+      "published": "2026-11-04T21:48:00+00:00",
+      "fetched": "2026-11-04T22:56:21.207039+00:00"
+    },
+    {
+      "id": "e471316e8a78db55",
+      "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
+      "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
+      "published": "2026-11-04T21:33:00+00:00",
+      "fetched": "2026-11-04T22:56:21.207069+00:00"
+    },
+    {
+      "id": "b8541747e68eb7b2",
+      "title": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
+      "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A historic divergence has split the U.S. stock market: The benchmark S P 500 index has tumbled into deeply oversold territory even as nearly half of its constituent stocks remained decidedly overbought.",
+      "published": "2026-11-04T21:33:00+00:00",
+      "fetched": "2026-11-04T22:56:21.207100+00:00"
+    },
+    {
+      "id": "b4e350c92bc32187",
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+      "published": "2026-11-04T21:18:44+00:00",
+      "fetched": "2026-11-04T22:56:21.535461+00:00"
+    },
+    {
+      "id": "c5694b3b22546d4f",
+      "title": "Edo signs MoU with China Express Airline, KDN Aero for proposed state-owned carrier",
+      "link": "https://nairametrics.com/2026/11/04/edo-signs-mou-with-china-express-airline-kdn-aero-for-proposed-state-owned-carrier/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Edo State Government has signed a Memorandum of Understanding (MoU) with China Express Airline and KDN Aero towards establishing its proposed state-owned airline, Edo Air. The post Edo signs MoU with China Express Airline, KDN Aero for proposed state-owned carrier appeared first on Nairametrics .",
+      "published": "2026-11-04T19:04:19+00:00",
+      "fetched": "2026-11-04T22:56:21.832865+00:00"
+    },
+    {
+      "id": "637c5a7ce92fac92",
+      "title": "Nigerian stocks gain N307 billion as Transcorp Power, banks drive market rally",
+      "link": "https://nairametrics.com/2026/11/04/nigerian-stocks-gain-n307-billion-as-transcorp-power-banks-drive-market-rally/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market gained over N307 billion on Wednesday, November 4, 2026, extending its positive momentum as gains in Transcorp Power, GTCO, Zenith Bank and UBA lifted the benchmark index higher. The post Nigerian stocks gain N307 billion as Transcorp Power, banks drive market rally appeared first on Nairametrics .",
+      "published": "2026-11-04T18:46:43+00:00",
+      "fetched": "2026-11-04T22:56:21.832911+00:00"
+    },
+    {
+      "id": "0634d1785b451c3d",
+      "title": "Dangote Cement, BUA spend N797 billion in energy cost",
+      "link": "https://nairametrics.com/2026/11/04/dangote-cement-bua-spend-n797-billion-in-energy-cost/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dangote Cement Plc and BUA Cement Plc spent a combined N797.1 billion on energy in the first nine months of 2026. The post Dangote Cement, BUA spend N797 billion in energy cost appeared first on Nairametrics .",
+      "published": "2026-11-04T17:48:49+00:00",
+      "fetched": "2026-11-04T22:56:21.832945+00:00"
+    },
+    {
+      "id": "ab827ed625ba996c",
+      "title": "The 20-year experiment: Why IFC thinks African agritech has finally come of age",
+      "link": "https://techcabal.com/2026/11/04/ifc-to-back-15-african-agritechs/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "The IFC is backing 15 African agritech companies and connecting them to nearly 200 commercial banks to expand financing for smallholder farmers, reduce lending risks, and boost agricultural productivity.",
+      "published": "2026-11-04T17:19:01+00:00",
+      "fetched": "2026-11-04T22:56:22.421294+00:00"
+    },
+    {
+      "id": "71cacc9e6dd6b280",
+      "title": "Dangote raises Africa investment target to $60 billion, begins $2.5 billion Namibia project",
+      "link": "https://nairametrics.com/2026/11/04/dangote-raises-africa-investment-target-to-60-billion-begins-2-5-billion-namibia-project/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Aliko Dangote, President of Dangote Group, has increased his investment target for Africa s industrialisation from $50 billion to $60 billion by 2030, as he expands his energy infrastructure footprint across the continent. According to Bloomberg, the billionaire announced the revised target on Wednesday, November 4, 2026, during the groundbreaking ceremony for a $2.5 billion fuel [ ] The post Dangote raises Africa investment target to $60 billion, begins $2.5 billion Namibia project appeared first on Nairametrics .",
+      "published": "2026-11-04T17:04:26+00:00",
+      "fetched": "2026-11-04T22:56:21.832994+00:00"
+    },
+    {
+      "id": "25d344ca38123492",
+      "title": "Champion Breweries’ 9M 2026 pre-tax profit drops to N917.52 million as finance costs surge",
+      "link": "https://nairametrics.com/2026/11/04/champion-breweries-9m-2026-pre-tax-profit-drops-to-n917-52-million-as-finance-costs-surge/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Champion Breweries Plc has released its unaudited Q3 2026 financial results, reporting a pre-tax profit of N917.52 million for the nine months ended September 2026, marking a 70.77% year-on-year (YoY) decline from N3.14 billion in the same period of 2025. The post Champion Breweries 9M 2026 pre-tax profit drops to N917.52 million as finance costs surge appeared first on Nairametrics .",
+      "published": "2026-11-04T16:52:36+00:00",
+      "fetched": "2026-11-04T22:56:21.833046+00:00"
+    },
+    {
+      "id": "6fd037ce5d45c53c",
+      "title": "AFIS 2026: African banks must rethink digital transformation, says CR2 CEO",
+      "link": "https://techcabal.com/2026/11/04/african-banks-need-digital-transformation/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "African banks must move beyond launching digital apps and invest in stronger banking infrastructure to cut costs, improve customer experience, and compete with fintechs, says Fintan Byrne, CEO of CR2, at AFIS 2026 in Luanda.",
+      "published": "2026-11-04T16:49:20+00:00",
+      "fetched": "2026-11-04T22:56:22.421332+00:00"
+    },
+    {
+      "id": "e902a3330fd8b96f",
+      "title": "Farouk Ibrahim is learning to build what people actually need",
+      "link": "https://techcabal.com/2026/11/04/farouk-ibrahim-is-building-peoples-need/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Growing up in Ibadan, he repaired broken toys or made paper replacements, sometimes selling them to schoolmates for ₦5 ($0.0037).",
+      "published": "2026-11-04T16:45:49+00:00",
+      "fetched": "2026-11-04T22:56:22.421361+00:00"
+    },
+    {
+      "id": "d5d5e299cc44f4e1",
+      "title": "Helium Health secures $2.5 million Google grant to tackle maternal deaths with AI",
+      "link": "https://techcabal.com/2026/11/04/helium-health-2-5-million-google-grant/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Helium Health has received $2.5 million grant from Google.org to deploy AI tools that help identify pregnancy risks and improve maternal healthcare delivery in Nigeria.",
+      "published": "2026-11-04T16:37:30+00:00",
+      "fetched": "2026-11-04T22:56:22.421388+00:00"
+    },
+    {
+      "id": "43d70cc5e998f48f",
+      "title": "Nigeria’s budget deficits fueling naira depreciation, CBN study finds",
+      "link": "https://nairametrics.com/2026/11/04/nigerias-budget-deficits-fueling-naira-depreciation-cbn-study-finds/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s rising budget deficits are a major driver of exchange rate depreciation and exert delayed upward pressure on interest rates, according to a study published in the Central Bank of Nigeria (CBN) Journal of Applied Statistics. The post Nigeria’s budget deficits fueling naira depreciation, CBN study finds appeared first on Nairametrics .",
+      "published": "2026-11-04T16:31:51+00:00",
+      "fetched": "2026-11-04T22:56:21.833093+00:00"
+    },
+    {
+      "id": "d1f8e0b862223f58",
+      "title": "Bank of Ghana flags 20 unlicensed loan apps, warns users",
+      "link": "https://nairametrics.com/2026/11/04/bank-of-ghana-flags-20-unlicensed-loan-apps-warns-users/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ghana’s central bank, the Bank of Ghana (BoG), has flagged 20 mobile loan applications for operating without the required licences or authorisation and warned the public against using their services. The post Bank of Ghana flags 20 unlicensed loan apps, warns users appeared first on Nairametrics .",
+      "published": "2026-11-04T16:09:37+00:00",
+      "fetched": "2026-11-04T22:56:21.833137+00:00"
+    },
+    {
+      "id": "106896000325ba52",
+      "title": "Zenith Bank: Buy, Sell or Hold?",
+      "link": "https://nairametrics.com/2026/11/04/zenith-bank-buy-sell-or-hold/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria s banks have had a good year from the regulator. The naira has strengthened, the central bank cut its policy rate by 3.5 percentage points in September, and the forbearance clean-up of 2025 is behind them. Zenith Bank s nine-month results suggest the good news is now mostly in the share price.",
+      "published": "2026-11-04T15:55:11+00:00",
+      "fetched": "2026-11-04T22:56:21.833184+00:00"
+    },
+    {
+      "id": "0c78f82f96cdab01",
+      "title": "Pivot Integrated Energy Redeems ₦8.25bn Commercial Paper Ahead of Maturity, Reinforces Investor Confidence",
+      "link": "https://nairametrics.com/2026/11/04/pivot-integrated-energy-redeems-%e2%82%a68-25bn-commercial-paper-ahead-of-maturity-reinforces-investor-confidence/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Pivot Integrated Energy Services Limited has redeemed its 8.25 billion Series 1 Tranche A Commercial Paper two days ahead of its scheduled maturity, marking a significant milestone in the company s capital market journey and reinforcing its commitment to meeting its financial obligations.The 90-day instrument, which matured on November 2, 2026, was fully settled on October [ ] The post Pivot Integrated Energy Redeems ₦8.25bn Commercial Paper Ahead of Maturity, Reinforces Investor Confidence appeared first on Nairametrics .",
+      "published": "2026-11-04T15:39:07+00:00",
+      "fetched": "2026-11-04T22:56:21.833243+00:00"
+    },
+    {
+      "id": "05342db4e46d95df",
+      "title": "The plumbing behind the apps: Why Africa’s next fintech leap belongs to national switches",
+      "link": "https://techcabal.com/2026/11/04/switch-al-maghrib-on-future-of-payments/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Switch Al-Maghrib's Hanae Ben Driss, argues that national fragmentation is a prerequisite for sovereignty, explains why wallets trump cards for cross-border scale, and reveals plans for an association of African national switches.",
+      "published": "2026-11-04T15:33:32+00:00",
+      "fetched": "2026-11-04T22:56:22.421419+00:00"
+    },
+    {
+      "id": "e819a7426e3d6d10",
+      "title": "DYQUE Unveils New Solar Solutions as Nigerians Seek Ways to Reduce Diesel Costs",
+      "link": "https://nairametrics.com/2026/11/04/dyque-unveils-new-solar-solutions-as-nigerians-seek-ways-to-reduce-diesel-costs/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "With rising petrol and diesel costs continuing to put pressure on household budgets and business operating expenses, solar energy providers are exploring ways to make alternative power solutions more accessible and financially viable for Nigerians.At the Nigeria Energy 2026 exhibition in Lagos, DYQUE Energy showcased a range of solar and inverter technologies while engaging visitors [ ] The post DYQUE Unveils New Solar Solutions as Nigerians Seek Ways to Reduce Diesel Costs appeared first on Nairametrics .",
+      "published": "2026-11-04T15:25:01+00:00",
+      "fetched": "2026-11-04T22:56:21.833291+00:00"
+    },
+    {
+      "id": "7f434c9a80224951",
+      "title": "Helium Health secures $2.5 million Google.org grant to deploy AI in maternal healthcare",
+      "link": "https://nairametrics.com/2026/11/04/helium-health-secures-2-5-million-google-org-grant-to-deploy-ai-in-maternal-healthcare/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian health technology company, Helium Health, has secured a $2.5 million (approximately N3.4 billion) grant from Google.org to deploy artificial intelligence (AI) solutions aimed at improving maternal healthcare delivery in Nigeria. The post Helium Health secures $2.5 million Google.org grant to deploy AI in maternal healthcare appeared first on Nairametrics .",
+      "published": "2026-11-04T14:54:37+00:00",
+      "fetched": "2026-11-04T22:56:21.833328+00:00"
+    },
+    {
+      "id": "ae8cc6e9d7aa7bf9",
+      "title": "Airtel Nigeria’s data boom hits an operating cost bottleneck",
+      "link": "https://techcabal.com/2026/11/04/airtel-nigeria-s-growth-hits-bottleneck/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Airtel Nigeria’s revenue and earnings are rising as customer numbers and data consumption grow, but its quarterly EBITDA margin has slipped. With fuel costs climbing and network investment accelerating, the operator faces the challenge of turning stronger demand into sustainable profitability and cash flow.",
+      "published": "2026-11-04T14:51:16+00:00",
+      "fetched": "2026-11-04T22:56:22.421458+00:00"
+    },
+    {
+      "id": "d0be6b427005e80e",
+      "title": "Tinubu seeks Senate approval for N10.79 trillion external borrowing to fund 2026 budget",
+      "link": "https://nairametrics.com/2026/11/04/tinubu-seeks-senate-approval-for-n10-79-trillion-external-borrowing-to-fund-2026-budget/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu has asked the Senate to approve N10.79 trillion in external borrowing, equivalent to approximately $7.7 billion, to finance part of the Federal Government’s 2026 budget deficit. The post Tinubu seeks Senate approval for N10.79 trillion external borrowing to fund 2026 budget appeared first on Nairametrics .",
+      "published": "2026-11-04T14:43:55+00:00",
+      "fetched": "2026-11-04T22:56:21.833367+00:00"
+    },
+    {
+      "id": "c6685228403757f9",
+      "title": "Canva restructures workforce, affecting 1,271 employees globally",
+      "link": "https://nairametrics.com/2026/11/04/canva-restructures-workforce-affecting-1271-employees-globally/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Canva, the global graphic design platform, is restructuring its global workforce, affecting 1,271 employees, or 22% of its staff, as it seeks to simplify operations and consolidate teams in centralised offices. The post Canva restructures workforce, affecting 1,271 employees globally appeared first on Nairametrics .",
+      "published": "2026-11-04T14:34:25+00:00",
+      "fetched": "2026-11-04T22:56:21.833400+00:00"
+    },
+    {
+      "id": "57e114cd25addc5b",
+      "title": "Ghana inflation rises to 5.5%, highest in 11 months ahead of November rate decision",
+      "link": "https://nairametrics.com/2026/11/04/ghana-inflation-rises-to-5-5-highest-in-11-months-ahead-of-november-rate-decision/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ghana’s annual inflation rate increased to an 11-month high of 5.5% in October 2026, potentially strengthening the case for the central bank to maintain its policy rate at the next meeting. The post Ghana inflation rises to 5.5%, highest in 11 months ahead of November rate decision appeared first on Nairametrics .",
+      "published": "2026-11-04T13:50:02+00:00",
+      "fetched": "2026-11-04T22:56:21.833440+00:00"
+    },
+    {
+      "id": "952d9b8e14924548",
+      "title": "Where to invest in November 2026: Stocks, fixed income and funds to consider",
+      "link": "https://nairametrics.com/2026/11/04/where-to-invest-in-november-2026-stocks-fixed-income-and-funds-to-consider/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Investors entering November can still secure income above the latest inflation rate, examine stocks made cheaper by October’s declines, and use mutual funds to access both opportunities without selecting individual securities. The post Where to invest in November 2026: Stocks, fixed income and funds to consider appeared first on Nairametrics .",
+      "published": "2026-11-04T13:49:04+00:00",
+      "fetched": "2026-11-04T22:56:21.833480+00:00"
+    },
+    {
+      "id": "123ed6911c9cff63",
+      "title": "Stanbic IBTC: Buy, Sell or Hold?",
+      "link": "https://nairametrics.com/2026/11/04/stanbic-ibtc-buy-sell-or-hold-2/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Anyone who bought Stanbic IBTC at N100 in January is sitting on a 62 per cent gain and a growing dividend. The nine-month results explain the gain. They also show why the next 62% will be harder to earn.",
+      "published": "2026-11-04T13:32:41+00:00",
+      "fetched": "2026-11-04T22:56:21.833522+00:00"
+    },
+    {
+      "id": "c698c0af5429d8ae",
+      "title": "Nigeria’s private sector expands for fifth month, PMI rises to 53.2 in October",
+      "link": "https://nairametrics.com/2026/11/04/nigerias-private-sector-expands-for-fifth-month-pmi-rises-to-53-2-in-october/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's private sector sustained its growth momentum in October 2026, with the country's Purchasing Managers' Index (PMI) rising marginally to 53.2 points from 53.0 points recorded in September. The post Nigeria’s private sector expands for fifth month, PMI rises to 53.2 in October appeared first on Nairametrics .",
+      "published": "2026-11-04T13:32:08+00:00",
+      "fetched": "2026-11-04T22:56:21.833564+00:00"
+    },
     {
       "id": "96eb2aeac95e73bb",
       "title": "Datadog’s stock extends steep declines in the wake of earnings",
@@ -1182,326 +1502,6 @@
       "summary": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
       "published": "2026-11-02T13:44:00+00:00",
       "fetched": "2026-11-02T13:56:14.634475+00:00"
-    },
-    {
-      "id": "668b4ba45e77906d",
-      "title": "MTN Nigeria moves MoMo to new platform as fintech revenue falls 26%",
-      "link": "https://techcabal.com/2026/11/02/mtn-momo-alipay-fintech-revenue-q3-2026/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN Nigeria’s fintech revenue has yet to recover to pre-suspension levels after the company temporarily halted its airtime and data credit service between April and June 2026, even as it migrates mobile money customers to a new platform.",
-      "published": "2026-11-02T13:17:26+00:00",
-      "fetched": "2026-11-02T13:56:15.923482+00:00"
-    },
-    {
-      "id": "553dac6432b8f9e7",
-      "title": "INEC blames registration officers, but AI photos are the least of its worries",
-      "link": "https://techcabal.com/2026/11/02/inecs-ai-photo-problem-runs-deeper/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "AI-generated photographs in Nigeria’s preliminary voter register expose a problem beyond synthetic images: weaknesses in access controls, verification and oversight. Ahead of the 2027 election, INEC faces a test of accountability—explaining how registration officers introduced irregularities and demonstrating how it will prevent a repeat.",
-      "published": "2026-11-02T13:17:10+00:00",
-      "fetched": "2026-11-02T13:56:15.923520+00:00"
-    },
-    {
-      "id": "1c1d47997e2ce72d",
-      "title": "South Africa’s AI regulation problem is bigger than its delayed policy",
-      "link": "https://techcabal.com/2026/11/02/sa-ai-policy-enforcement-challenge/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "South Africa’s revised AI policy must go beyond ethical principles to address regulatory capacity, consumer protection and the enforcement of rules governing artificial intelligence.",
-      "published": "2026-11-02T13:11:16+00:00",
-      "fetched": "2026-11-02T13:56:15.923546+00:00"
-    },
-    {
-      "id": "8c8705fbcb010ddf",
-      "title": "Foods power Unilever Nigeria’s profit growth as Personal Care sales slide",
-      "link": "https://nairametrics.com/2026/11/02/foods-power-unilever-nigerias-profit-growth-as-personal-care-sales-slide/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Unilever Nigeria has released its 9M unaudited financial statements, with its food business accounting for almost all its revenue growth in the first nine months of 2026, helping lift earnings despite weaker Personal Care sales. The post Foods power Unilever Nigeria’s profit growth as Personal Care sales slide appeared first on Nairametrics .",
-      "published": "2026-11-02T13:08:52+00:00",
-      "fetched": "2026-11-02T13:56:15.426817+00:00"
-    },
-    {
-      "id": "e2143149b1eff77f",
-      "title": "The Next Wave: The problem with putting an African fintech on Wall Street",
-      "link": "https://techcabal.com/2026/11/02/the-problem-with-putting-african-fintech-on-wall-street/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "This is an awkward explanation for a company whose bankers had just abandoned its biggest capital markets transaction. Whatever the inquiry concerned, it was material enough to stop a $4 billion listing. And the timing raises another question: was the regulatory issue the only problem, or did it give investors and bankers an exit from a deal already struggling to attract buyers?",
-      "published": "2026-11-02T12:57:40+00:00",
-      "fetched": "2026-11-02T13:56:15.923579+00:00"
-    },
-    {
-      "id": "2591d61f2fdf46f2",
-      "title": "MTN Nigeria earns more but keeps less cash",
-      "link": "https://techcabal.com/2026/11/02/mtn-nigeria-earns-more-but-has-less-cash/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN Nigeria’s profit after tax rose 55.3% to ₦1.17 trillion in the first nine months of 2026, but its cash reserves fell nearly 40% as dividends, network investments and debt repayments absorbed cash. The results highlight the growing tension between rewarding shareholders, funding expansion and preserving liquidity amid rising operating costs and economic uncertainty.",
-      "published": "2026-11-02T12:43:38+00:00",
-      "fetched": "2026-11-02T13:56:15.923614+00:00"
-    },
-    {
-      "id": "7d76de4e08c32b68",
-      "title": "United Nigeria Airlines raises N22 billion in debut CP issuance, exceeds target",
-      "link": "https://nairametrics.com/2026/11/02/united-nigeria-airlines-raises-n22-billion-in-debut-cp-issuance-exceeds-target/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "United Nigeria Airlines (UNA) has raised N22 billion through its debut commercial paper (CP) issuance, exceeding its initial N20 billion target following strong investor demand. The post United Nigeria Airlines raises N22 billion in debut CP issuance, exceeds target appeared first on Nairametrics .",
-      "published": "2026-11-02T12:40:36+00:00",
-      "fetched": "2026-11-02T13:56:15.426858+00:00"
-    },
-    {
-      "id": "85dfd19a61ac9872",
-      "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
-      "published": "2026-11-02T12:26:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634507+00:00"
-    },
-    {
-      "id": "ebd0b2b337a86c12",
-      "title": "MTN Ghana’s revenue rises 33.5% as digital services expand",
-      "link": "https://techcabal.com/2026/11/02/mtn-ghana-revenue-9m-2026/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN Ghana recorded a 33.5% rise in service revenue to GHS23.2B for 9M 2026, spurred by rapid adoption of mobile data, digital services, and mobile money. Profit after tax jumped 43% to GHS7.8B.",
-      "published": "2026-11-02T12:22:46+00:00",
-      "fetched": "2026-11-02T13:56:15.923637+00:00"
-    },
-    {
-      "id": "ce5912a3b98e2c96",
-      "title": "America is doing better than you think — just ask those in the bottom half of household wealth",
-      "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
-      "published": "2026-11-02T12:22:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634539+00:00"
-    },
-    {
-      "id": "7ff253e50d861604",
-      "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
-      "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "In recent weeks there has been intense speculation surrounding SpaceX ambitions in the cellular market with multiple acquisition targets suggested; Boost Mobile is the latest",
-      "published": "2026-11-02T12:20:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634561+00:00"
-    },
-    {
-      "id": "477f56dbcc3f6018",
-      "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
-      "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
-      "published": "2026-11-02T12:10:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634588+00:00"
-    },
-    {
-      "id": "4e45de721882c18a",
-      "title": "World Bank targets fivefold increase in minerals financing to $19 billion by 2030",
-      "link": "https://nairametrics.com/2026/11/02/world-bank-targets-fivefold-increase-in-minerals-financing-to-19-billion-by-2030/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The World Bank Group is targeting a fivefold increase in financing for the metals and minerals sector to $19 billion by 2030, as it seeks to help mineral-rich developing economies turn their natural resources into long-term economic prosperity. The post World Bank targets fivefold increase in minerals financing to $19 billion by 2030 appeared first on Nairametrics .",
-      "published": "2026-11-02T12:09:01+00:00",
-      "fetched": "2026-11-02T13:56:15.426897+00:00"
-    },
-    {
-      "id": "35f9c56fcd0205e7",
-      "title": "Enza Capital wants Africa to build its AI with its new fund",
-      "link": "https://techcabal.com/2026/11/02/enza-capital-ai/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Enza Capital has launched a dedicated fund just for artificial intelligence (AI) startups and AI-enabled startups in Africa.",
-      "published": "2026-11-02T11:51:21+00:00",
-      "fetched": "2026-11-02T13:56:15.923654+00:00"
-    },
-    {
-      "id": "e8031311afb3740d",
-      "title": "MSMEs account for 96% of businesses, contribute 48% to Nigeria’s GDP – Minister",
-      "link": "https://nairametrics.com/2026/11/02/msmes-account-for-96-of-businesses-contribute-48-to-nigerias-gdp-minister/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Micro, Small and Medium Enterprises (MSMEs) account for 96% of businesses in Nigeria, contribute 48% to the country’s Gross Domestic Product (GDP) and provide 87% of employment, according to the Minister of State for Industry, Sen. John Owan-Enoh. The post MSMEs account for 96% of businesses, contribute 48% to Nigeria’s GDP – Minister appeared first on Nairametrics .",
-      "published": "2026-11-02T11:44:36+00:00",
-      "fetched": "2026-11-02T13:56:15.426941+00:00"
-    },
-    {
-      "id": "5ccfbf5564728b16",
-      "title": "Nigeria’s crypto exchange boom tests who can afford to compete",
-      "link": "https://techcabal.com/2026/11/02/nigeria-crypto-exchanges-6-22-billion/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s domestic crypto exchanges attracted $6.22 billion in inflows despite a shrinking market, as new capital requirements threaten to make it harder for smaller and foreign competitors to challenge established operators.",
-      "published": "2026-11-02T11:44:18+00:00",
-      "fetched": "2026-11-02T13:56:15.923681+00:00"
-    },
-    {
-      "id": "f18c86f137b73a72",
-      "title": "Access Holdings’ profit before tax rises 8.3% to ₦667.4 billion in 9M 2026",
-      "link": "https://nairametrics.com/2026/11/02/access-holdings-profit-before-tax-rises-8-3-to-%e2%82%a6667-4-billion-in-9m-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Access Holdings Plc (“the Group”) today announced its unaudited results for the nine months ended 30 September 2026, delivering resilient profit growth and improved earnings quality. The post Access Holdings’ profit before tax rises 8.3% to ₦667.4 billion in 9M 2026 appeared first on Nairametrics .",
-      "published": "2026-11-02T11:30:38+00:00",
-      "fetched": "2026-11-02T13:56:15.426979+00:00"
-    },
-    {
-      "id": "3f4445bc284277a4",
-      "title": "Before the flames: Ebby-Tek, Johnson Controls equip industries for informed fire safety decisions",
-      "link": "https://nairametrics.com/2026/11/02/before-the-flames-ebby-tek-johnson-controls-equip-industries-for-informed-fire-safety-decisions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Having firefighting equipment is one thing; knowing whether it is suitable for the risk is another. That distinction was at the heart of a two-day fire safety conference organised by Ebby-Tek Services Limited in conjunction with Johnson Controls Inc. at Four Points by Sheraton, Victoria Island, Lagos.",
-      "published": "2026-11-02T11:27:11+00:00",
-      "fetched": "2026-11-02T13:56:15.427021+00:00"
-    },
-    {
-      "id": "fedf36efada089d8",
-      "title": "Green Climate Fund Approves InfraCredit’s Accreditation as a Direct Access Entity",
-      "link": "https://nairametrics.com/2026/11/02/green-climate-fund-approves-infracredits-accreditation-as-a-direct-access-entity/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Accreditation opens a direct route to GCF climate finance for eligible infrastructure investments and builds on InfraCredit’s work to mobilise long-term local-currency capital for sustainable infrastructure projects. Infrastructure Credit Guarantee Company Plc (“InfraCredit”), Nigeria’s ‘AAA’-rated specialised infrastructure credit guarantee institution, has announced that the Board of the Green Climate Fund (“GCF” or “the Fund”) [ ] The post Green Climate Fund Approves InfraCredit’s Accreditation as a Direct Access Entity appeared first on Nairametrics .",
-      "published": "2026-11-02T11:21:03+00:00",
-      "fetched": "2026-11-02T13:56:15.427075+00:00"
-    },
-    {
-      "id": "4a441cd6dcfb3e6d",
-      "title": "Access Holdings’ 9M 2026 Results: Building a stronger foundation for sustainable shareholder returns",
-      "link": "https://nairametrics.com/2026/11/02/access-holdings-9m-2026-results-building-a-stronger-foundation-for-sustainable-shareholder-returns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Access Holdings’ nine-month performance points to improving earnings quality, a substantial and geographically diversified franchise, and a clearer strategic focus on converting scale into more productive and sustainable shareholder returns. The post Access Holdings’ 9M 2026 Results: Building a stronger foundation for sustainable shareholder returns appeared first on Nairametrics .",
-      "published": "2026-11-02T11:20:52+00:00",
-      "fetched": "2026-11-02T13:56:15.427116+00:00"
-    },
-    {
-      "id": "069d713556fe1e67",
-      "title": "Citi throws in the towel on hyperscalers after a key stock-market bet misfires",
-      "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation.",
-      "published": "2026-11-02T11:08:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634604+00:00"
-    },
-    {
-      "id": "25516820cf04db0c",
-      "title": "DLM Asset Management Receives ‘A’ Rating, Records 269% Growth in FUM",
-      "link": "https://nairametrics.com/2026/11/02/dlm-asset-management-receives-a-rating-records-269-growth-in-fum/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "DLM Asset Management, a member of DLM Capital Group, has been assigned an ‘a.AMA’ Asset Management Assessment Rating by Intelligence Africa, marking another significant milestone in the firm’s continued growth and institutional development. The achievement comes amid significant business growth, with the company’s funds under management (FUM) increasing by 269% by September 2026, from FY25. [ ] The post DLM Asset Management Receives ‘A’ Rating, Records 269% Growth in FUM appeared first on Nairametrics .",
-      "published": "2026-11-02T11:05:26+00:00",
-      "fetched": "2026-11-02T13:56:15.427164+00:00"
-    },
-    {
-      "id": "3cf57060bb531e3c",
-      "title": "PZ Cussons Shareholders approve N9.926Billion Dividend Payout",
-      "link": "https://nairametrics.com/2026/11/02/pz-cussons-shareholders-approve-n9-926billion-dividend-payout/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Shareholders of PZ Cussons Nigeria Plc, a leading manufacturer of personal healthcare products and consumer goods, have unanimously approved a final dividend payout of N9.926 billion for the 2026 financial year.The dividend was approved at the company s 78th Annual General Meeting (AGM) held at the Fraiser Suites in Abuja on Wednesday, October 28, 2026.Speaking during [ ] The post PZ Cussons Shareholders approve N9.926Billion Dividend Payout appeared first on Nairametrics .",
-      "published": "2026-11-02T11:03:21+00:00",
-      "fetched": "2026-11-02T13:56:15.427201+00:00"
-    },
-    {
-      "id": "b6adb3911593aae9",
-      "title": "Oil prices plunge over 4% as hopes of US-Iran war deal rise",
-      "link": "https://nairametrics.com/2026/11/02/oil-prices-plunge-over-4-as-hopes-of-us-iran-war-deal-rise/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Oil prices fell more than 4% on Monday as hopes of a diplomatic agreement to end the US-Israeli war on Iran eased concerns about further disruptions to global crude supplies. The post Oil prices plunge over 4% as hopes of US-Iran war deal rise appeared first on Nairametrics .",
-      "published": "2026-11-02T10:23:04+00:00",
-      "fetched": "2026-11-02T13:56:15.427229+00:00"
-    },
-    {
-      "id": "5562b32c00bfe5d6",
-      "title": "Access Holdings posts N667.4 billion nine-month pre-tax profit as Q3 earnings rebound 78.4%",
-      "link": "https://nairametrics.com/2026/11/02/access-holdings-posts-n667-4-billion-nine-month-pre-tax-profit-as-q3-earnings-rebound-78-4/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Access Holdings Plc reported pre-tax profit of N667.36 billion for the nine months ended September 2026, up 8.29% from N616.25 billion a year earlier. The post Access Holdings posts N667.4 billion nine-month pre-tax profit as Q3 earnings rebound 78.4% appeared first on Nairametrics .",
-      "published": "2026-11-02T10:09:54+00:00",
-      "fetched": "2026-11-02T13:56:15.427257+00:00"
-    },
-    {
-      "id": "f4723da84e2da8d4",
-      "title": "African creators go global on day one. Their money doesn’t.",
-      "link": "https://techcabal.com/2026/11/02/african-creators-go-global-on-day-one-their-money-doesnt/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Why a creator in Lagos can have followers in Europe and the United States from day one, but the money struggles to make the same trip.",
-      "published": "2026-11-02T09:34:23+00:00",
-      "fetched": "2026-11-02T13:56:15.923701+00:00"
-    },
-    {
-      "id": "98813000fd1be21d",
-      "title": "Nigerian stocks near 255,000 resistance as market signals overbought risk",
-      "link": "https://nairametrics.com/2026/11/02/nigerian-stocks-near-255000-resistance-as-market-signals-overbought-risk/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The NGX ASI has gained over 63% in 2026, and market capitalization has reached 165.1 trillion, while the market remains in a structural primary uptrend. The post Nigerian stocks near 255,000 resistance as market signals overbought risk appeared first on Nairametrics .",
-      "published": "2026-11-02T09:02:07+00:00",
-      "fetched": "2026-11-02T13:56:15.427283+00:00"
-    },
-    {
-      "id": "bfefcabfad86b956",
-      "title": "Neveah Limited Successfully Repays ₦23.33 Billion Series 1–5 Commercial Paper Issuances",
-      "link": "https://nairametrics.com/2026/11/02/neveah-limited-successfully-repays-%e2%82%a623-33-billion-series-1-5-commercial-paper-issuances/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Neveah Limited is pleased to announce the successful redemption of its Series 1 -5 Commercial Papers issued under its N30 billion Commercial Paper Programme, with a total value of ₦23.33 billion. The redeemed issuances comprise: Series 1: ₦3,470,424,000, Series 2: ₦8,280,150,000, Series 3: ₦5,501,686,000, Series 4: ₦4,485,628,000, Series 5: ₦1,595,550,000. The successful and timely redemption [ ] The post Neveah Limited Successfully Repays ₦23.33 Billion Series 1–5 Commercial Paper Issuances appeared first on Nairametrics .",
-      "published": "2026-11-02T09:00:49+00:00",
-      "fetched": "2026-11-02T13:56:15.427332+00:00"
-    },
-    {
-      "id": "ee7bc06022d6c9f6",
-      "title": "Jigawa commits N4.5 billion to three cattle ranches to curb farmers-herders clashes",
-      "link": "https://nairametrics.com/2026/11/02/jigawa-commits-n4-5-billion-to-three-cattle-ranches-to-curb-farmers-herders-clashes/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Jigawa State Government has committed N4.5 billion to establish three modern cattle ranches as part of efforts to reduce farmers-herders clashes and strengthen livestock production in the state. The post Jigawa commits N4.5 billion to three cattle ranches to curb farmers-herders clashes appeared first on Nairametrics .",
-      "published": "2026-11-02T08:56:49+00:00",
-      "fetched": "2026-11-02T13:56:15.427361+00:00"
-    },
-    {
-      "id": "5254b86a6db97775",
-      "title": "Joint public service council backs FG’s N70,000 transport allowance despite TUC opposition",
-      "link": "https://nairametrics.com/2026/11/02/joint-public-service-council-backs-fgs-n70000-transport-allowance-despite-tuc-opposition/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Joint National Public Service Negotiating Council (JNPSNC) has defended the Federal Government’s approval of a N70,000 transportation allowance for public servants, dismissing the Trade Union Congress's (TUC) rejection of the arrangement. The post Joint public service council backs FG’s N70,000 transport allowance despite TUC opposition appeared first on Nairametrics .",
-      "published": "2026-11-02T08:45:14+00:00",
-      "fetched": "2026-11-02T13:56:15.427399+00:00"
-    },
-    {
-      "id": "133f4756519b9ddd",
-      "title": "Ebola death rate exceeds 50% in DR Congo as US tightens travel restrictions",
-      "link": "https://nairametrics.com/2026/11/02/ebola-death-rate-exceeds-50-in-dr-congo-as-us-tightens-travel-restrictions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The death rate among confirmed Ebola cases in the Democratic Republic of Congo (DR Congo) has exceeded 50%, following an upward revision of the country s official death toll as the outbreak continues to spread across several provinces. According to a Bloomberg report, citing the country s National Institute of Public Health, the outbreak has recorded 10,414 [ ] The post Ebola death rate exceeds 50% in DR Congo as US tightens travel restrictions appeared first on Nairametrics .",
-      "published": "2026-11-02T07:53:43+00:00",
-      "fetched": "2026-11-02T13:56:15.427439+00:00"
-    },
-    {
-      "id": "9d0b82e71522431c",
-      "title": "Aradel seeks earn-out review as N529.1 billion payout to SPDC weighs on profit",
-      "link": "https://nairametrics.com/2026/11/02/aradel-seeks-earn-out-review-as-n529-1-billion-payout-to-spdc-weighs-on-profit/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Aradel Holdings Plc is seeking a review of the earn-out arrangement linked to Renaissance’s acquisition of SPDC after a N529.1 billion charge weighed on its nine-month earnings. The post Aradel seeks earn-out review as N529.1 billion payout to SPDC weighs on profit appeared first on Nairametrics .",
-      "published": "2026-11-02T07:39:03+00:00",
-      "fetched": "2026-11-02T13:56:15.427474+00:00"
     }
   ]
 }

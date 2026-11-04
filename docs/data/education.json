@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-04T13:20:45.251207+00:00",
+  "updated": "2026-11-04T22:56:43.360641+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c2c126d7de10a128",
+      "title": "If Fritz Lang’s Iconic Film Metropolis Had a Kraftwerk Soundtrack",
+      "link": "https://www.openculture.com/2026/11/if-fritz-langs-iconic-film-metropolis-had-a-kraftwerk-soundtrack.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The case of the copyright history of Fritz Lang’s influential sci-fi masterpiece Metropolis is as convoluted as the history of its film print. Lang’s vision and his original almost-three-hour cut were doomed to censorship right from the start. The Nazis took out its more socialist scenes.",
+      "published": "2026-11-04T19:45:39+00:00",
+      "fetched": "2026-11-04T22:56:43.360418+00:00"
+    },
+    {
+      "id": "390691a58f739120",
+      "title": "Mentees, colleagues, friends share remembrances of Susumu Tonegawa",
+      "link": "https://news.mit.edu/2026/sharing-remembrances-susumu-tonegawa-1104",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "To remember the longtime professor, lab members, alumni, colleagues, and other well-wishers gathered with members of his family in MIT Building 46 and online.",
+      "published": "2026-11-04T19:25:00+00:00",
+      "fetched": "2026-11-04T22:56:42.593613+00:00"
+    },
     {
       "id": "dd3a2bb703a44fdb",
       "title": "A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World",
@@ -1482,26 +1502,6 @@
       "summary": "You may remember a time when it was difficult to make it through the day without hearing someone cite a TED Talk. A major technological reason for that was streaming video’s new accessibility on practically everyone’s computer (especially those of people bored at work). A major cultural reason was there was a considerable demographic overlap [ ]",
       "published": "2026-09-29T16:09:36+00:00",
       "fetched": "2026-09-29T17:05:51.726872+00:00"
-    },
-    {
-      "id": "9ce273df6915f625",
-      "title": "Mick Jagger Tells the Story Behind ‘Gimme Shelter’ and Merry Clayton’s Haunting Background Vocals",
-      "link": "https://www.openculture.com/2026/09/mick-jagger-tells-the-story-behind-gimme-shelter-and-merry-claytons-haunting-background-vocals.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "In the fall of 1969 the Rolling Stones were in a Los Angeles recording studio, putting the final touches on their album Let It Bleed. It was a tumultuous time for the Stones. They had been struggling with the album for the better part of a year as they dealt with the personal disintegration of their [ ]",
-      "published": "2026-09-29T08:00:27+00:00",
-      "fetched": "2026-09-29T11:39:20.253311+00:00"
-    },
-    {
-      "id": "db4dc226a877d2fd",
-      "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
-      "link": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots.",
-      "published": "2026-09-29T04:00:00+00:00",
-      "fetched": "2026-09-29T11:39:19.403157+00:00"
     }
   ]
 }
