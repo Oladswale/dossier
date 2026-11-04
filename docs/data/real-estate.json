@@ -1,8 +1,78 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-04T03:30:10.386020+00:00",
+  "updated": "2026-11-04T13:20:45.869989+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "40cd2c12ddfe7156",
+      "title": "EXCLUSIVE: Food Network Star Alex Guarnaschelli Reveals Her Secrets To Turning Any Home Into a Holiday Entertaining Hub",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/alex-guarnaschelli-tips-transforming-home-for-holiday-hosting/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The celebrity chef shared her advice for entertaining on a budget, organizing a busy kitchen, and keeping guests comfortable.",
+      "published": "2026-11-04T12:32:00+00:00",
+      "fetched": "2026-11-04T13:20:45.869405+00:00"
+    },
+    {
+      "id": "eed3f90100d12783",
+      "title": "Is Flipping Houses Still Worth It? A 20-Year Flipper Shares What’s Working",
+      "link": "https://www.biggerpockets.com/blog/rookie-792",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Is flipping houses still worth it when the market slows down? The easy appreciation days may be over, but investors who underwrite their deals with discipline are still finding ways [ ]",
+      "published": "2026-11-04T12:00:20+00:00",
+      "fetched": "2026-11-04T13:20:45.479295+00:00"
+    },
+    {
+      "id": "4991578f1f2f7cda",
+      "title": "Housing Market Feels the Chill as Buyers Pull Back—but Sellers Are Not Panicking Yet",
+      "link": "https://www.realtor.com/news/trends/housing-market-buyers-pull-back-sellers-october-2026-report/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Despite high mortgage rates, steady delistings and price cuts in October signal a resilient housing market paused rather than panicked.",
+      "published": "2026-11-04T10:00:00+00:00",
+      "fetched": "2026-11-04T13:20:45.869462+00:00"
+    },
+    {
+      "id": "12f27bc61a5c0a21",
+      "title": "Amazon’s ‘Fallout’ Filmed Inside This Rare Norman Jaffe Estate—and It Was Just Listed for $4.25 Million",
+      "link": "https://www.realtor.com/news/unique-homes/amazons-fallout-filmed-inside-this-rare-norman-jaffe-estate-and-it-just-listed-for-4-25-million/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Step inside the Norman Jaffe-designed Long Island estate featured in Amazon's \"Fallout.\" It was just listed for $4.25 million.",
+      "published": "2026-11-04T09:37:00+00:00",
+      "fetched": "2026-11-04T13:20:45.869488+00:00"
+    },
+    {
+      "id": "053ae9093a6e2448",
+      "title": "Democrats Regain House and Senate in Midterms Defined by Affordability Concerns",
+      "link": "https://www.realtor.com/news/real-estate-news/democrats-regain-house-and-senate-in-midterms-defined-by-affordability-concerns/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Democrats rode affordability concerns to major wins on Tuesday, retaking control of the House and Senate and flipping multiple districts.",
+      "published": "2026-11-04T05:22:34+00:00",
+      "fetched": "2026-11-04T13:20:45.869505+00:00"
+    },
+    {
+      "id": "dba0384b131b6c3b",
+      "title": "Tennessee Voters Opt To Ban State-Level Property Taxes",
+      "link": "https://www.realtor.com/news/real-estate-news/tennessee-amendment-2-bans-state-property-tax-results/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "On Tuesday, voters in Tennessee decided whether to enshrine a state property tax ban into the state constitution.",
+      "published": "2026-11-04T04:05:36+00:00",
+      "fetched": "2026-11-04T13:20:45.869521+00:00"
+    },
+    {
+      "id": "cb5c7d126f9a466e",
+      "title": "Florida Voters Approve Landmark Measure To Reform Property Taxes",
+      "link": "https://www.realtor.com/news/real-estate-news/florida-property-tax-amendment-3-results-vote-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Florida voters approved a measure that would reform the state's property tax system, increasing the homestead property tax exemption.",
+      "published": "2026-11-04T03:08:47+00:00",
+      "fetched": "2026-11-04T13:20:45.869537+00:00"
+    },
     {
       "id": "ee07d06d53b650e0",
       "title": "Florida Voters Approve Landmark Measure to Reform Property Taxes",
@@ -12,6 +82,16 @@
       "summary": "Florida voters approved a measure that would reform the state's property tax system, increasing the homestead property tax exemption.",
       "published": "2026-11-04T03:08:47+00:00",
       "fetched": "2026-11-04T03:30:10.385453+00:00"
+    },
+    {
+      "id": "6fd9729cdb91d161",
+      "title": "Rhode Island Voters Back $120 Million Bond Measure To Support Affordable Housing",
+      "link": "https://www.realtor.com/news/real-estate-news/rhode-island-affordable-housing-initiative-passes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "On Tuesday, voters in Rhode Island backed an initiative that would issue $120 million in bonds for affordable housing.",
+      "published": "2026-11-04T02:03:24+00:00",
+      "fetched": "2026-11-04T13:20:45.869552+00:00"
     },
     {
       "id": "3d2a8ea01eca7908",
@@ -1422,86 +1502,6 @@
       "summary": "King tides are slamming both coasts this week, with places like Miami, Fort Lauderdale, Newport Beach, and the Outer Banks under water.",
       "published": "2026-10-27T16:53:12+00:00",
       "fetched": "2026-10-27T16:55:03.732864+00:00"
-    },
-    {
-      "id": "9063bf3e0089a228",
-      "title": "EXCLUSIVE: Late Real Estate Powerhouse Jeff Hyland’s Beverly Hills Estate Lists for $23.5 Million—With a Pool Inside the Primary Bathroom",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jeff-hyland-beverly-hills-home-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Known as Casa Alta Tierra, the five-bedroom estate sits in Trousdale Estates, occupying a private promontory with panoramic views.",
-      "published": "2026-10-27T16:00:48+00:00",
-      "fetched": "2026-10-27T16:55:03.732920+00:00"
-    },
-    {
-      "id": "e55ea8169bf7adb7",
-      "title": "Hulk Hogan’s Daughter Brooke Blasts Buyers of Her Late Father’s Homes Over ‘Dirty Money’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/hulk-hogan-daughter-brooke-slams-buyers-father-florida-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Hogan, whose real name was Terry Gene Bollea, died at the age of 71 at his Clearwater, FL, home in July 2025",
-      "published": "2026-10-27T14:37:39+00:00",
-      "fetched": "2026-10-27T16:55:03.732972+00:00"
-    },
-    {
-      "id": "ec383fef40b99149",
-      "title": "New-Home Sales Dip Less Than Expected as Builder Incentives Bolster Sales",
-      "link": "https://www.realtor.com/news/trends/new-residential-home-sales-census-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home sales dipped a bit less than expected, apparently as homebuilders used incentives to entice hesitant buyers.",
-      "published": "2026-10-27T14:33:17+00:00",
-      "fetched": "2026-10-27T16:55:03.733018+00:00"
-    },
-    {
-      "id": "ceb287a44e0506d7",
-      "title": "National Home Value Growth Accelerates Yet Continues To Trail Inflation",
-      "link": "https://www.realtor.com/news/trends/home-prices-values-case-shiller-index-august-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Home price growth accelerated to 2.1% in August while mortgage rates were still in the mid-6% range.",
-      "published": "2026-10-27T14:05:19+00:00",
-      "fetched": "2026-10-27T16:55:03.733042+00:00"
-    },
-    {
-      "id": "f1a6b57924158c3b",
-      "title": "Savannah Chrisley Is Expecting Her First Baby—One Year After Moving Out of Parents’ $1.6 Million Nashville Home Following Their Prison Release",
-      "link": "https://www.realtor.com/news/reality-tv/savannah-chrisley-pregnant-with-first-baby-fiance/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The TV personality, 29, took to Instagram to share the joyous news that she was expecting with her fiance—whom she revealed is named Jason.",
-      "published": "2026-10-27T13:27:15+00:00",
-      "fetched": "2026-10-27T16:55:03.733087+00:00"
-    },
-    {
-      "id": "ce39f950c2873abd",
-      "title": "J Scott: The House of Cards Is Going to Fall",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-472",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This economy is…confusing. Inflation is still high, AI is disrupting the labor market, and consumer sentiment is nearing a 70-year floor. Meanwhile, the stock market keeps climbing, and unemployment remains [ ]",
-      "published": "2026-10-27T11:00:49+00:00",
-      "fetched": "2026-10-27T16:55:03.353959+00:00"
-    },
-    {
-      "id": "dbb304d7ae4ac21a",
-      "title": "Fed Expected To Leave Interest Rates Unchanged With Midterms 1 Week Away",
-      "link": "https://www.realtor.com/news/real-estate-news/fed-interest-rate-meeting-decision-mortgages-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Fed Chairman Kevin Warsh and the other members of the Federal Open Market Committee will cast their votes on rate policy on Wednesday.",
-      "published": "2026-10-27T09:00:00+00:00",
-      "fetched": "2026-10-27T11:08:13.459544+00:00"
-    },
-    {
-      "id": "01ed56d196dec707",
-      "title": "Is the Housing Affordability Crisis Becoming a Generational Wealth Fight?",
-      "link": "https://www.realtor.com/news/trends/housing-affordability-generational-wealth-2026-midterms/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "With the midterms a week away, one of the top issues for young voters is housing affordability and how it directly affects them.",
-      "published": "2026-10-27T08:47:00+00:00",
-      "fetched": "2026-10-27T11:08:13.459563+00:00"
     }
   ]
 }

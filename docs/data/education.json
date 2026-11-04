@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-04T03:30:09.777406+00:00",
+  "updated": "2026-11-04T13:20:45.251207+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "dd3a2bb703a44fdb",
+      "title": "A New Search Engine Lets You Explore 4 Million Works of Art & Historical Photographs from Museums and Libraries Around the World",
+      "link": "https://www.openculture.com/2026/11/a-new-search-engine-lets-you-explore-4-million-works-of-art.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "We live in an age when you can describe practically anything you want to see in words, then see it almost immediately. Nobody will ever have laid eyes upon that particular sight before — and quite possibly, nobody ever will again. There we have both the upside and the downside of artificial intelligence-powered image generation.",
+      "published": "2026-11-04T10:00:55+00:00",
+      "fetched": "2026-11-04T13:20:45.250972+00:00"
+    },
+    {
+      "id": "a82fd9b6dea4d379",
+      "title": "If Fritz Lang’s Iconic Film Metropolis Had a Kraftwerk Soundtrack",
+      "link": "https://www.openculture.com/2026/11/the-romanovs-last-spectacular-ball-brought-to-life-in-color-photographs.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The case of the copyright history of Fritz Lang’s influential sci-fi masterpiece Metropolis is as convoluted as the history of its film print. Lang’s vision and his original almost-three-hour cut were doomed to censorship right from the start. The Nazis took out its more socialist scenes.",
+      "published": "2026-11-04T09:00:35+00:00",
+      "fetched": "2026-11-04T13:20:45.251010+00:00"
+    },
+    {
+      "id": "2bf8ffb17c1b1967",
+      "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
+      "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Awarded up to $38 million from ARPA-H, the team aims to create a low-power, noninvasive sensor patch that measures heart failure and sepsis biomarkers in real-time.",
+      "published": "2026-11-04T05:00:00+00:00",
+      "fetched": "2026-11-04T13:20:44.563386+00:00"
+    },
+    {
+      "id": "156bceeecd63bd38",
+      "title": "Dream, build, destroy, repeat",
+      "link": "https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Members of the student-run MIT Combat Robotics Club learn through destruction.",
+      "published": "2026-11-04T05:00:00+00:00",
+      "fetched": "2026-11-04T13:20:44.563408+00:00"
+    },
     {
       "id": "9a0c20cbc44ad2cc",
       "title": "3 Questions: Building more resilient minerals supply chains",
@@ -1462,46 +1502,6 @@
       "summary": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots.",
       "published": "2026-09-29T04:00:00+00:00",
       "fetched": "2026-09-29T11:39:19.403157+00:00"
-    },
-    {
-      "id": "cfc5af03843f258c",
-      "title": "The effects of an “algorithmic monoculture” depend on the details",
-      "link": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
-      "published": "2026-09-29T04:00:00+00:00",
-      "fetched": "2026-09-29T11:39:19.403187+00:00"
-    },
-    {
-      "id": "8cf5b9ff13d4c4a5",
-      "title": "Who we become when we talk to machines",
-      "link": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
-      "published": "2026-09-29T04:00:00+00:00",
-      "fetched": "2026-09-29T11:39:19.403210+00:00"
-    },
-    {
-      "id": "20b621764feb8462",
-      "title": "Pressurized experiments could help wind farms generate more power",
-      "link": "https://news.mit.edu/2026/pressurized-experiments-could-help-wind-farms-generate-more-power-0928",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new way of simulating wind turbines in the field shows how tweaking turbine operation could unlock tens of thousands of dollars per turbine every year.",
-      "published": "2026-09-28T15:00:00+00:00",
-      "fetched": "2026-09-28T22:40:31.001695+00:00"
-    },
-    {
-      "id": "1a440ac355011331",
-      "title": "Read the CIA’s Manual of Trickery and Deception, Written by a Professional Stage Magician",
-      "link": "https://www.openculture.com/2026/09/read-the-cias-manual-of-trickery-and-deception-written-by-a-professional-stage-magician.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The idea of a youngster vacillating between whether to become a magician or join the Central Intelligence Agency may sound implausible, but those two working environments have deeper commonalities than it would seem. So, in any case, believes John McLaughlin, whose more than 30 years at the CIA included periods as its deputy director and [ ]",
-      "published": "2026-09-28T09:00:14+00:00",
-      "fetched": "2026-09-28T12:06:30.837043+00:00"
     }
   ]
 }
