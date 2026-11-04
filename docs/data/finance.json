@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-11-03T22:37:08.957485+00:00",
+  "updated": "2026-11-04T03:29:53.578167+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "eb4993a4ad63c3c4",
+      "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+      "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+      "published": "2026-11-04T01:16:00+00:00",
+      "fetched": "2026-11-04T03:29:52.225777+00:00"
+    },
     {
       "id": "f83b59412a3a90c8",
       "title": "AI’s control over the bond market is growing — even rivaling war and elections",
@@ -1492,16 +1502,6 @@
       "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
       "published": "2026-10-31T18:33:00+00:00",
       "fetched": "2026-10-31T20:42:45.708328+00:00"
-    },
-    {
-      "id": "26491bbcd5533e7f",
-      "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-      "published": "2026-10-31T18:10:00+00:00",
-      "fetched": "2026-10-31T20:42:45.708361+00:00"
     }
   ]
 }

@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-03T22:37:25.971502+00:00",
+  "updated": "2026-11-04T03:30:10.386020+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ee07d06d53b650e0",
+      "title": "Florida Voters Approve Landmark Measure to Reform Property Taxes",
+      "link": "https://www.realtor.com/news/real-estate-news/florida-property-tax-amendment-3-results-vote-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Florida voters approved a measure that would reform the state's property tax system, increasing the homestead property tax exemption.",
+      "published": "2026-11-04T03:08:47+00:00",
+      "fetched": "2026-11-04T03:30:10.385453+00:00"
+    },
+    {
+      "id": "3d2a8ea01eca7908",
+      "title": "Rhode Island Voters Back $120M Bond Measure to Support Affordable Housing",
+      "link": "https://www.realtor.com/news/real-estate-news/rhode-island-affordable-housing-initiative-passes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "On Tuesday, voters in Rhode Island backed an initiative that would issue $120 million in bonds for affordable housing.",
+      "published": "2026-11-04T02:03:24+00:00",
+      "fetched": "2026-11-04T03:30:10.385477+00:00"
+    },
+    {
+      "id": "9a5d2de9b7e4453f",
+      "title": "Don Jr.’s Investor Business Partner Abruptly Resigns From Fannie Mae Board",
+      "link": "https://www.realtor.com/news/trends/omeed-malik-resign-fannie-mae-board/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Conservative businessman and Donald Trump Jr. business partner Omeed Malik has stepped down from the board of Fannie Mae.",
+      "published": "2026-11-03T23:01:17+00:00",
+      "fetched": "2026-11-04T03:30:10.385498+00:00"
+    },
     {
       "id": "375bb6970d66386f",
       "title": "Justin Baldoni Discreetly Sells Former Los Angeles Home for $2.1 Million After Making a ‘Fresh Start’ in Nashville",
@@ -1472,36 +1502,6 @@
       "summary": "With the midterms a week away, one of the top issues for young voters is housing affordability and how it directly affects them.",
       "published": "2026-10-27T08:47:00+00:00",
       "fetched": "2026-10-27T11:08:13.459563+00:00"
-    },
-    {
-      "id": "6186516892eb930e",
-      "title": "Manhattan Renters Now Need To Make $215K To Afford the Typical Apartment, as Rents Surge",
-      "link": "https://www.realtor.com/news/trends/nyc-rent-manhattan-income-required-q3-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Rents in Manhattan rose 8.3% year over year, pushing those who can afford it to look to buying instead.",
-      "published": "2026-10-27T08:19:00+00:00",
-      "fetched": "2026-10-27T11:08:13.459577+00:00"
-    },
-    {
-      "id": "4fc0e186bb26e8a2",
-      "title": "Boca Raton Waterfront Megamansion Is Listed for $125 Million With a Wellness Wing and Custom Home Theater",
-      "link": "https://www.realtor.com/news/unique-homes/boca-raton-waterfront-megamansion-125-million-most-expensive/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A waterfront estate aimed at the ultrawealthy includes every amenity imaginable, from a wellness wing to a custom home theater.",
-      "published": "2026-10-27T08:07:00+00:00",
-      "fetched": "2026-10-27T11:08:13.459591+00:00"
-    },
-    {
-      "id": "f775271693512fe0",
-      "title": "Manhattan Luxury Market Booms as Wealthy Buyers Shrug Off Pied-à-Terre Tax",
-      "link": "https://www.realtor.com/news/trends/manhattan-luxury-market-prices-pied-a-terre-tax-olshan-october-26-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Last week, 36 contracts were signed at $4 million and above, eight more than the previous week, and the most since the first week of June.",
-      "published": "2026-10-26T21:59:03+00:00",
-      "fetched": "2026-10-27T02:34:00.928369+00:00"
     }
   ]
 }
