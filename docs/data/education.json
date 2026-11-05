@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-11-05T03:52:08.879612+00:00",
+  "updated": "2026-11-05T13:34:05.834708+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "acfd61cfeb882dc8",
+      "title": "The Man Who Risked His Life Mocking the Nazis: Read 96 Issues of His Underground Magazine, Created in Hiding During WWII",
+      "link": "https://www.openculture.com/2026/11/the-man-who-risked-his-life-mocking-the-nazis-read-96-issues-of-his-underground-magazine.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The word zine, referring to a homemade magazine not distributed through the normal commercial channels, has a longer history than you might expect. Its earliest recorded uses date from 1946 in the world of pulp magazines, most often of the science-fiction variety. But just a year earlier, as it happens, one of the most historically [ ]",
+      "published": "2026-11-05T10:00:27+00:00",
+      "fetched": "2026-11-05T13:34:05.834485+00:00"
+    },
+    {
+      "id": "96216f4569a569d1",
+      "title": "Martin Scorsese Creates a List of 39 Essential Foreign Films for a Young Filmmaker",
+      "link": "https://www.openculture.com/2026/11/martin-scorsese-creates-a-list-of-39-essential-foreign-films-for-a-young-filmmaker.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "As a young man, filmmaker Colin Levy got an opportunity of a lifetime. He got a one-on-one meeting with Martin Scorsese. After spending much of his time in high school making a five-minute short, Levy won the national YoungArts award — and, with it, the chance to chat with the guy who directed Goodfellas, Taxi [ ]",
+      "published": "2026-11-05T09:00:00+00:00",
+      "fetched": "2026-11-05T13:34:05.834523+00:00"
+    },
+    {
+      "id": "82cb6be6924a57ef",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+      "published": "2026-11-05T05:00:00+00:00",
+      "fetched": "2026-11-05T13:34:05.064052+00:00"
+    },
     {
       "id": "c2c126d7de10a128",
       "title": "If Fritz Lang’s Iconic Film Metropolis Had a Kraftwerk Soundtrack",
@@ -1472,36 +1502,6 @@
       "summary": "Some tumor cells develop resistance by amplifying the KRAS gene, while others change their tumor type, MIT researchers have found.",
       "published": "2026-09-30T09:00:00+00:00",
       "fetched": "2026-09-30T11:26:36.379581+00:00"
-    },
-    {
-      "id": "9bdadf4521ae2120",
-      "title": "The Oldest Book Printed with Movable Type is Not The Gutenberg Bible: Jikji, a Collection of Korean Buddhist Teachings, Predated It By 78 Years and It’s Now Digitized Online",
-      "link": "https://www.openculture.com/2026/09/the-oldest-book-printed-with-movable-type-is-not-the-gutenberg-bible-jikji.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The history of the printed word is full of bibliographic twists and turns, major historical moments, and the significant printing of books now so obscure no one has read them since their publication. Most of us have only the sketchiest notion of how mass-produced printed books came into being—a few scattered dates and names. But [ ]",
-      "published": "2026-09-30T08:00:31+00:00",
-      "fetched": "2026-09-30T11:26:37.388285+00:00"
-    },
-    {
-      "id": "92ae9464ee786d56",
-      "title": "Climate Action Learning Lab bridges research and policy for effective climate solutions",
-      "link": "https://news.mit.edu/2026/climate-action-learning-lab-bridges-research-policy-for-effective-climate-solutions-0929",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "J-PAL North America’s Learning Lab supported a second cohort of U.S. government and nonprofit organizations in building and using rigorous evidence to advance effective decarbonization and adaptation strategies.",
-      "published": "2026-09-29T20:35:00+00:00",
-      "fetched": "2026-09-29T21:34:37.581199+00:00"
-    },
-    {
-      "id": "071a7319a3b8b12e",
-      "title": "How to Explain Complicated Things",
-      "link": "https://www.openculture.com/2026/09/how-to-explain-complicated-things.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "You may remember a time when it was difficult to make it through the day without hearing someone cite a TED Talk. A major technological reason for that was streaming video’s new accessibility on practically everyone’s computer (especially those of people bored at work). A major cultural reason was there was a considerable demographic overlap [ ]",
-      "published": "2026-09-29T16:09:36+00:00",
-      "fetched": "2026-09-29T17:05:51.726872+00:00"
     }
   ]
 }

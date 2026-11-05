@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-05T03:52:09.593867+00:00",
+  "updated": "2026-11-05T13:34:06.319051+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "36fa5aecb2d87023",
+      "title": "50% of Recent Homebuyers Can’t Afford Their Mortgage",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-475",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "50% of recent homebuyers can’t sustain their mortgage payments at these current rates. Wait…what? A new survey found that homeowners who purchased in the last two years are having a [ ]",
+      "published": "2026-11-05T12:00:46+00:00",
+      "fetched": "2026-11-05T13:34:06.072473+00:00"
+    },
+    {
+      "id": "57ecf4aa687dec37",
+      "title": "Inside ‘My Big Fat Fabulous Life’ Star Whitney Way Thore’s ‘Dopamine Apartment’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/whitney-way-thore-dopamine-apartment/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Greensboro, NC, native moved into the one-bedroom, one-bathroom, 830-square-foot unit in December 2025.",
+      "published": "2026-11-05T10:00:00+00:00",
+      "fetched": "2026-11-05T13:34:06.318536+00:00"
+    },
+    {
+      "id": "c4014204c0bf97c6",
+      "title": "Inside the $8.9 Million Dallas Treehouse Estate Modeled After a Nautilus Shell, Complete With a Natatorium",
+      "link": "https://www.realtor.com/news/unique-homes/dallas-nautilus-shell-estate-5110-park-lane/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore Dallas’ 17,000-square-foot \"nautilus\" estate in Preston Hollow. It features a stunning natatorium and creek views.",
+      "published": "2026-11-05T09:47:00+00:00",
+      "fetched": "2026-11-05T13:34:06.318565+00:00"
+    },
+    {
+      "id": "1b000082af1974fe",
+      "title": "Homebuilder Stocks Surge After Democratic Sweep as Hopes Rise for Affordability Gains",
+      "link": "https://www.realtor.com/news/trends/homebuilder-stocks-midterms-democratic-sweep-pultegroup/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The stock movement comes in the wake of the midterm election, showing optimism to a few major homebuilders who recently reported declines.",
+      "published": "2026-11-05T09:12:00+00:00",
+      "fetched": "2026-11-05T13:34:06.318583+00:00"
+    },
     {
       "id": "74733e40f47f4bb1",
       "title": "A $6.52 Million Beverlywood Home on a Lavish Golf Course Just Set the Record for the Priciest Teardown Sale",
@@ -222,6 +262,16 @@
       "summary": "The celebrity chef shared her advice for entertaining on a budget, organizing a busy kitchen, and keeping guests comfortable.",
       "published": "2026-11-04T12:32:00+00:00",
       "fetched": "2026-11-04T13:20:45.869405+00:00"
+    },
+    {
+      "id": "feb67dd98f5f26d4",
+      "title": "Democrats Win the Midterms: What It Means for the Housing Market",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1352",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The much-anticipated 2026 midterm elections are now over, giving us a glimpse into how the next two years will play out in American politics. While Democrats and Republicans remain divided [ ]",
+      "published": "2026-11-04T12:00:42+00:00",
+      "fetched": "2026-11-05T13:34:06.072502+00:00"
     },
     {
       "id": "eed3f90100d12783",
@@ -1452,56 +1502,6 @@
       "summary": "Prices are declining rapidly in many of the largest U.S. housing markets. One Texas metro area saw prices fall nearly 10% in a single year.",
       "published": "2026-10-28T20:34:46+00:00",
       "fetched": "2026-10-28T21:56:21.742764+00:00"
-    },
-    {
-      "id": "c8b4d42386e9aac1",
-      "title": "Richard Simmons’ Property Sells for $3.8 Million as New Buyer Plans To ‘Restore’ the Home—Over a Year After the Fitness Icon’s Death",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/richard-simmons-property-sold-over-year-after-his-death/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Simmons, who died days after his 76th birthday, had owned the home for decades—and spent an increasing amount of time hiding away there.",
-      "published": "2026-10-28T19:04:52+00:00",
-      "fetched": "2026-10-28T21:56:21.742801+00:00"
-    },
-    {
-      "id": "99bda7d5170ee769",
-      "title": "Billionaires Fighting California’s Wealth Tax Have Put $333 Million Into Political Ad Machine Ahead of Elections",
-      "link": "https://www.realtor.com/news/trends/billionaires-california-wealth-tax-ballot-midterm-elections/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "California's billionaires are relying on a well-funded PAC to defeat Proposition 40, a proposed wealth tax on the state's ultrarich.",
-      "published": "2026-10-28T18:02:42+00:00",
-      "fetched": "2026-10-28T21:56:21.742831+00:00"
-    },
-    {
-      "id": "47f6406362e4ec60",
-      "title": "Fed Pauses Interest Rate Hikes for Now as Key Midterm Elections Loom",
-      "link": "https://www.realtor.com/news/real-estate-news/fed-meeting-decision-interest-rate-warsh-speech-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Fed Chairman Kevin Warsh joined the majority of the FOMC to vote in favor of leaving the benchmark interest rate unchanged on Wednesday.",
-      "published": "2026-10-28T18:01:28+00:00",
-      "fetched": "2026-10-28T21:56:21.742859+00:00"
-    },
-    {
-      "id": "ef620da6e598aca4",
-      "title": "Jessa Duggar Is Expecting Baby No. 7—Inside the Midcentury ‘Fixer-Upper’ the Growing Family Calls Home",
-      "link": "https://www.realtor.com/news/reality-tv/jessa-duggar-ben-seewald-inside-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"19 Kids and Counting\" alum shared that she is preparing to welcome a seventh child into the growing family's Arkansas home.",
-      "published": "2026-10-28T17:46:18+00:00",
-      "fetched": "2026-10-28T21:56:21.742888+00:00"
-    },
-    {
-      "id": "53f35ab1081c931e",
-      "title": "Do Turnkey Rentals Deliver? A Look at Rent to Retirement’s Track Record",
-      "link": "https://www.biggerpockets.com/blog/do-turnkey-rentals-deliver-a-look-at-rent-to-retirements-track-record",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Turnkey rentals are built on a simple promise: The provider delivers a rent-ready home, places a tenant, lines up property management, and gives the buyer a projection of what the [ ]",
-      "published": "2026-10-28T17:31:41+00:00",
-      "fetched": "2026-10-28T21:56:21.384329+00:00"
     }
   ]
 }
