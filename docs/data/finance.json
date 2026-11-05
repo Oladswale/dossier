@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-11-04T22:56:22.421642+00:00",
+  "updated": "2026-11-05T03:51:53.639388+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bd058e89a9f2c450",
+      "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+      "published": "2026-11-05T01:03:00+00:00",
+      "fetched": "2026-11-05T03:51:52.449900+00:00"
+    },
+    {
+      "id": "358dc27aefc076cd",
+      "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
+      "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
+      "published": "2026-11-05T01:01:00+00:00",
+      "fetched": "2026-11-05T03:51:52.449943+00:00"
+    },
+    {
+      "id": "c3e650a319ec178e",
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+      "published": "2026-11-05T00:38:00+00:00",
+      "fetched": "2026-11-05T03:51:52.449979+00:00"
+    },
     {
       "id": "689a0fac00cba32f",
       "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
@@ -1472,36 +1502,6 @@
       "summary": "British International Investment (BII), the United Kingdom’s development finance institution, plans to invest about £2.25 billion ($3 billion) in Africa’s frontier markets and least-developed countries over the next five years, targeting economies that struggle to attract funding from major institutional investors. The post UK Development Finance Institution BII earmarks $3 billion for Africa’s frontier markets appeared first on Nairametrics .",
       "published": "2026-11-02T13:58:26+00:00",
       "fetched": "2026-11-03T00:05:16.961045+00:00"
-    },
-    {
-      "id": "b4f9da458b5c61ab",
-      "title": "Juicyway pitches connected capital markets to finance African growth",
-      "link": "https://techcabal.com/2026/11/02/juicyway-exchange/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Juicyway has received an approval from the Nigerian SEC to build a blockchain-based exchange connecting African assets with global investors.",
-      "published": "2026-11-02T13:48:44+00:00",
-      "fetched": "2026-11-02T13:56:15.923444+00:00"
-    },
-    {
-      "id": "0c0aac5c5732edcf",
-      "title": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
-      "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
-      "published": "2026-11-02T13:46:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634438+00:00"
-    },
-    {
-      "id": "67570cd43e9a5be1",
-      "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-      "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
-      "published": "2026-11-02T13:44:00+00:00",
-      "fetched": "2026-11-02T13:56:14.634475+00:00"
     }
   ]
 }

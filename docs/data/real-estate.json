@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-04T22:56:43.966352+00:00",
+  "updated": "2026-11-05T03:52:09.593867+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "74733e40f47f4bb1",
+      "title": "A $6.52 Million Beverlywood Home on a Lavish Golf Course Just Set the Record for the Priciest Teardown Sale",
+      "link": "https://www.realtor.com/news/unique-homes/beverlywood-los-angeles-california-mansion-most-expensive-teardown/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Demand is growing for the neighborhood of Beverlywood, where one of the most expensive transactions will lead to a teardown.",
+      "published": "2026-11-05T00:09:55+00:00",
+      "fetched": "2026-11-05T03:52:09.593176+00:00"
+    },
     {
       "id": "75bd37cd22289ca2",
       "title": "North Carolina Passes New Limits on Property Tax Levies",
@@ -12,6 +22,16 @@
       "summary": "On Tuesday, North Carolina voters narrowly approved House Bill 1089, which proposed a limit on property tax increases.",
       "published": "2026-11-04T22:15:12+00:00",
       "fetched": "2026-11-04T22:56:43.965436+00:00"
+    },
+    {
+      "id": "8d9ea413d9aa1bdd",
+      "title": "NYC Votes To Cut Construction Red Tape in Bid To Spur More Homebuilding",
+      "link": "https://www.realtor.com/news/trends/nyc-housing-permit-overhaul-mamdani-2030/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New York City voters backed a sweeping plan to streamline housing permits, but builders may have to wait until 2030 to see the benefits.",
+      "published": "2026-11-04T22:09:30+00:00",
+      "fetched": "2026-11-05T03:52:09.593223+00:00"
     },
     {
       "id": "4af24ce150312bb2",
@@ -1482,26 +1502,6 @@
       "summary": "Turnkey rentals are built on a simple promise: The provider delivers a rent-ready home, places a tenant, lines up property management, and gives the buyer a projection of what the [ ]",
       "published": "2026-10-28T17:31:41+00:00",
       "fetched": "2026-10-28T21:56:21.384329+00:00"
-    },
-    {
-      "id": "23199987773c27b2",
-      "title": "Jennifer Lopez Reveals What Lives ‘Rent Free’ in Her Head as She Helps Fans Cover Their Housing Costs",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jennifer-lopez-rent-free-game-housing-costs-bilt/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Lopez shared the admission as she joined Bilt to play Rent Free, a game that gives members a chance to win a month’s rent.",
-      "published": "2026-10-28T17:08:29+00:00",
-      "fetched": "2026-10-28T17:29:02.678555+00:00"
-    },
-    {
-      "id": "0e62688a9141f0d3",
-      "title": "Quentin Tarantino Refuses To Buy His Mother a House—Despite $150 Million Fortune After She Mocked His Writing Dreams",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/quentin-tarantino-150-million-net-worth-refused-to-buy-mother-a-house/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The “Pulp Fiction” director revealed that he decided against buying his mother a house when he was just 12 years old.",
-      "published": "2026-10-28T16:09:25+00:00",
-      "fetched": "2026-10-28T17:29:02.678597+00:00"
     }
   ]
 }

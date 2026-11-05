@@ -1,8 +1,78 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-04T22:56:42.222712+00:00",
+  "updated": "2026-11-05T03:52:07.942190+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c5c9ecc1f30f59df",
+      "title": "Andrew Garfield Says He ‘Never Had Any Interaction’ With Sam Altman While Filming ‘Artificial,’ Despite Altman Claiming They Waved to Each Other: ‘I Was Very Confused By That’",
+      "link": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-artificial-1236939933/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Andrew Garfield might be playing OpenAI CEO Sam Altman in the forthcoming film “Artificial,” but the actor is maintaining that he’s never interacted with the tech billionaire — despite Altman’s claim that the two waved to one another while the film was shooting outside his home. Garfield was asked about Altman s anecdote in a recent [ ]",
+      "published": "2026-11-05T02:49:38+00:00",
+      "fetched": "2026-11-05T03:52:07.681465+00:00"
+    },
+    {
+      "id": "12fa142a1a235d4b",
+      "title": "Stevie Wonder’s Eviction Lawsuit Escalates as Rent-Free Resident Demands Repairs to Walls and Plumbing",
+      "link": "https://www.rollingstone.com/music/music-news/stevie-wonder-eviction-lawsuit-woman-rent-free-repairs-1235653031/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Carmen Efferson, reportedly Wonder's one-time fiancée, claimed the singer failed to make the necessary repairs to the Hollywood Home",
+      "published": "2026-11-05T02:35:22+00:00",
+      "fetched": "2026-11-05T03:52:07.800429+00:00"
+    },
+    {
+      "id": "437ef0a5244bfbd6",
+      "title": "Blue Wave Sweep: What Does Democratic Shift Mean for Hollywood and the Media?",
+      "link": "https://variety.com/2026/film/news/blue-wave-questions-hollywood-media-1236939674/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Democratic rout in the midterms was a referendum on President Trump, prices and the war in Iran. But it will have impacts that go well beyond the determinative issues — touching topics of key interest to Hollywood studios, broadcasters and their teams of government relations professionals. Here s a quick rundown of some of the [ ]",
+      "published": "2026-11-05T02:30:55+00:00",
+      "fetched": "2026-11-05T03:52:07.681524+00:00"
+    },
+    {
+      "id": "5b1bc8c913181ee6",
+      "title": "Pixar Names Jonathan Garson as President; Jim Morris Moves to Emeritus Role",
+      "link": "https://variety.com/2026/film/news/pixar-jim-morris-president-emeritus-jonathan-garson-president-1236939816/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Pixar Animation Studios is set to undergo a leadership change, After serving as president for 12 of his 21 years at the studio, Jim Morris will transition to a president emeritus role. Jonathan Garson will become the studio s new president, partnering with Chief Creative Officer Pete Docter. In his new role as president, Garson will [ ]",
+      "published": "2026-11-05T00:45:00+00:00",
+      "fetched": "2026-11-05T03:52:07.681572+00:00"
+    },
+    {
+      "id": "17078f85b0ca318a",
+      "title": "‘The Pitt’ and ‘ER’ Are Similar Enough to Allow Crichton Suit, Appeals Court Rules",
+      "link": "https://variety.com/2026/tv/news/the-pitt-noah-wyle-crichton-lawsuit-1236939852/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "An appeals court ruled on Wednesday that The Pitt is similar enough to ER to allow Michael Crichton s widow to pursue a lawsuit over the Emmy-winning show. In a unanimous opinion, a three-judge panel denied an appeal from Warner Bros. Television, which has argued that the two shows are unrelated.",
+      "published": "2026-11-05T00:27:11+00:00",
+      "fetched": "2026-11-05T03:52:07.681623+00:00"
+    },
+    {
+      "id": "cb805a125f39cf30",
+      "title": "‘The Secret Lives of Mormon Wives’ Star Jen Affleck Files for Divorce from Zac Affleck",
+      "link": "https://variety.com/2026/tv/news/the-secret-lives-of-mormon-wives-jen-affleck-divorce-zac-affleck-1236939836/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Secret Lives of Mormon Wives star Jen Affleck filed for divorce from Zac Affleck on Tuesday after seven years of marriage, according to court documents obtained by People. The couple first met in 2018 and got engaged and married the following year. They share three children, Nora, Luca and Penelope, and are currently expecting [ ]",
+      "published": "2026-11-04T23:25:40+00:00",
+      "fetched": "2026-11-05T03:52:07.681670+00:00"
+    },
+    {
+      "id": "b357d871ce78305d",
+      "title": "‘Logan’ Star Dafne Keen Says ‘I Was Offered Cocaine’ as an 11-Year-Old in Hollywood and Hugh Jackman ‘Made Sure No One Abused My Hours’ on Set",
+      "link": "https://variety.com/2026/film/news/logan-dafne-keen-cocaine-11-years-old-hollywood-1236939718/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Dafne Keen revealed on the Inside of You podcast that she was offered cocaine at Hollywood parties when she was a young teenager (via Entertainment Weekly). Now 21 years old, Keen got her breakthrough in the industry by playing the young mutant Laura/X-23 opposite Hugh Jackman in 2017 s Logan. She shot the film when she [ ]",
+      "published": "2026-11-04T23:10:58+00:00",
+      "fetched": "2026-11-05T03:52:07.681723+00:00"
+    },
     {
       "id": "145ccb0f76ad25a9",
       "title": "‘How Are You Supposed to Have Sex with a Wicker Dick? I Wanted to See’",
@@ -12,6 +82,16 @@
       "summary": "Fans have flocked to 4DX showings of the Olivia Colman-Alexander Skarsgård fantasy romance Wicker . We asked them why",
       "published": "2026-11-04T22:13:44+00:00",
       "fetched": "2026-11-04T22:56:42.077916+00:00"
+    },
+    {
+      "id": "61b74c13becfa677",
+      "title": "The Chicks Recall ‘the Incident’ and Compare Bush to Trump in ‘Taking the Long Way’ 20th Anniversary Shows at L.A.’s Dolby: Concert Review",
+      "link": "https://variety.com/2026/music/concert-reviews/chicks-taking-long-way-20th-anniversary-tour-concert-review-1236938619/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Natalie Maines does not normally talk a great deal in concert. This may sound counterintuitive to say, since objectively there is no person in music history more famous for talking in concert than Natalie Maines. But she has always been more of a quality than quantity gal when it comes to that, so her legendary [ ]",
+      "published": "2026-11-04T22:08:16+00:00",
+      "fetched": "2026-11-05T03:52:07.681769+00:00"
     },
     {
       "id": "e353ed61e348c91f",
@@ -112,6 +192,16 @@
       "summary": "Lance Hammer s Queen at Sea and Jordan Firstman s Club Kid earned top honors at the Philadelphia Film Festival, taking home the narrative jury prize and the narrative audience award, respectively. This year s festival, which marked the 35th edition, drew the highest attendance in PFF history. In his recent cover story with Variety, Firstman shared his [ ]",
       "published": "2026-11-04T21:03:28+00:00",
       "fetched": "2026-11-04T22:56:42.028693+00:00"
+    },
+    {
+      "id": "a22004317d130cdd",
+      "title": "As Nicki Minaj Rallied for Trump’s GOP, Her Lawyers Told Court She Still Owes Them $295,000",
+      "link": "https://www.rollingstone.com/music/music-news/nicki-minaj-default-bid-president-trump-new-hampshire-1235652674/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The rapper turned out for GOP candidates in New Hampshire on Tuesday just as her ex-lawyers said in court filings that she \"failed to pay\" them after settling a copyright lawsuit",
+      "published": "2026-11-04T20:47:45+00:00",
+      "fetched": "2026-11-05T03:52:07.800500+00:00"
     },
     {
       "id": "e7e611a556261d07",
@@ -1412,96 +1502,6 @@
       "summary": "The Texas rapper is living large and making hits, but that doesn't always mean life is easy",
       "published": "2026-11-01T16:00:00+00:00",
       "fetched": "2026-11-01T21:24:31.439420+00:00"
-    },
-    {
-      "id": "d769624624313ada",
-      "title": "‘Heat’ Director Michael Mann Accidentally Shoots Himself in Leg at Gun Range",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/director-michael-mann-accidentally-shoots-himself-leg-1235651009/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Filmmaker was briefly hospitalized Halloween afternoon after discharging his firearm while holstered, causing a minor injury",
-      "published": "2026-11-01T15:28:25+00:00",
-      "fetched": "2026-11-01T21:24:31.439446+00:00"
-    },
-    {
-      "id": "af310a328023a572",
-      "title": "Parker McCollum Says He Wanted to Quit Country Music Right When His Career Was Taking Off",
-      "link": "https://www.rollingstone.com/music/music-features/parker-mccollum-interview-quitting-music-1235650478/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"I hadn’t been writing and had just been dying out on the road,\" says the Texas songwriter, who surprise-released a rejuvenating acoustic album in October",
-      "published": "2026-11-01T14:30:00+00:00",
-      "fetched": "2026-11-01T21:24:31.439476+00:00"
-    },
-    {
-      "id": "a3bf4e3f1b77ab7a",
-      "title": "Disabled Fans Say the Live-Music Industry Can Do Better: ‘We Are Not a Pain in the Ass’",
-      "link": "https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The passage of the Americans With Disabilities Act in 1990 has fostered improvements in accessibility. But concertgoers and advocates say there's still a long way to go in reaching true equal access at shows",
-      "published": "2026-11-01T14:00:00+00:00",
-      "fetched": "2026-11-01T21:24:31.439510+00:00"
-    },
-    {
-      "id": "2b53ac7644e4256d",
-      "title": "Inside France’s Fiery Protests: ‘We Feel Completely Lost’",
-      "link": "https://www.rollingstone.com/politics/politics-features/inside-france-protest-movement-1235650899/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A movement sparked by grievances with France’s education system threatens to turn into a bonfire of collective rage against what young people see as an increasingly dismal future",
-      "published": "2026-11-01T14:00:00+00:00",
-      "fetched": "2026-11-01T21:24:31.439540+00:00"
-    },
-    {
-      "id": "c863113ff3675943",
-      "title": "How to Watch ‘The Assembly’ Canada Season 2 Online In the U.S.",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-the-assembly-canada-season-2-online-in-the-us-1235650612/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Canadian version of the unconventional interview series is back for a second season. Here’s how viewers in the U.S. can watch online",
-      "published": "2026-11-01T11:04:00+00:00",
-      "fetched": "2026-11-01T12:07:54.393766+00:00"
-    },
-    {
-      "id": "859195bc747290ff",
-      "title": "New York City Marathon Livestream: How to Watch the 2026 Race Online for Free",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/where-to-stream-new-york-city-marathon-online-free-2026-1235650494/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Here’s how to get a free livestream of the 2026 NYC Marathon from anywhere in the country",
-      "published": "2026-11-01T10:14:00+00:00",
-      "fetched": "2026-11-01T12:07:54.393805+00:00"
-    },
-    {
-      "id": "a582c9be98e77f43",
-      "title": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
-      "link": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "After a pretty weak cold open that was crashed by Tom Hanks’ David S. Pumpkins, Donald Trump (who admitted he “might be gay”) and his MAGA minion Nicki Minaj, and an amusing opening monologue where host Inde Navarrette took a swipe at Shane Gillis, the Halloween edition of “Saturday Night Live” aired a surprisingly fun [ ]",
-      "published": "2026-11-01T08:33:26+00:00",
-      "fetched": "2026-11-01T12:07:54.162943+00:00"
-    },
-    {
-      "id": "94a7fce2cd8bf8fc",
-      "title": "‘SNL’: Watch Gracie Abrams Perform ‘Hit the Wall,’ ‘Here You Come, There You Go’",
-      "link": "https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer-songwriter plays one song from her latest album, Daughter from Hell , and another from its deluxe version",
-      "published": "2026-11-01T07:22:52+00:00",
-      "fetched": "2026-11-01T12:07:54.393842+00:00"
-    },
-    {
-      "id": "565eae8b7c6a6132",
-      "title": "‘SNL’: Telenovela Star Inde Navarrette’s Product Placement Turns Poisonous",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-telenovela-star-inde-navarrettes-product-placement-poisonous-1235650884/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Navarrette and Marcello Hernández find all the ways not to market a new Sprite drink",
-      "published": "2026-11-01T05:51:33+00:00",
-      "fetched": "2026-11-01T12:07:54.393888+00:00"
     }
   ]
 }
