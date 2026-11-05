@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-11-05T13:34:05.834708+00:00",
+  "updated": "2026-11-05T22:57:18.138243+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "421f2f85eefbcbad",
+      "title": "Pinning down the structure of quark-gluon plasma, the universe’s first fluid",
+      "link": "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new method picks up where Einstein left off, to predict how particles move through fluid under extreme conditions.",
+      "published": "2026-11-05T16:20:00+00:00",
+      "fetched": "2026-11-05T22:57:17.032666+00:00"
+    },
     {
       "id": "acfd61cfeb882dc8",
       "title": "The Man Who Risked His Life Mocking the Nazis: Read 96 Issues of His Underground Magazine, Created in Hiding During WWII",
@@ -1492,16 +1502,6 @@
       "summary": "The word wireless is going the way of computerized and portable, and for much the same reasons. We no longer regard wireless devices that require no physical connections to anything else as marvels, but as something close to necessities. But our age, with its increasingly common assumptions that information just travels through the air, owes its existence [ ]",
       "published": "2026-09-30T09:14:07+00:00",
       "fetched": "2026-09-30T11:26:37.388202+00:00"
-    },
-    {
-      "id": "472b9ae2867784ad",
-      "title": "Lung cancers can use two different mechanisms to evade KRAS-inhibiting drugs",
-      "link": "https://news.mit.edu/2026/lung-cancers-can-use-two-different-mechanisms-evade-kras-inhibiting-drugs-0930",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Some tumor cells develop resistance by amplifying the KRAS gene, while others change their tumor type, MIT researchers have found.",
-      "published": "2026-09-30T09:00:00+00:00",
-      "fetched": "2026-09-30T11:26:36.379581+00:00"
     }
   ]
 }
