@@ -1,8 +1,248 @@
 {
   "category": "finance",
-  "updated": "2026-11-06T13:17:45.685779+00:00",
+  "updated": "2026-11-06T22:27:17.389594+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "433efd2bebbbc25d",
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+      "published": "2026-11-06T21:45:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387676+00:00"
+    },
+    {
+      "id": "88c0b59ac06d592f",
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+      "published": "2026-11-06T21:37:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387738+00:00"
+    },
+    {
+      "id": "1b807f3331c7393a",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "published": "2026-11-06T21:24:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387780+00:00"
+    },
+    {
+      "id": "55692697ba50973a",
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "published": "2026-11-06T21:15:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387834+00:00"
+    },
+    {
+      "id": "926cc503e01d4b6b",
+      "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
+      "published": "2026-11-06T20:58:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387873+00:00"
+    },
+    {
+      "id": "84d1bc9ee577299a",
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“My brother had no job and needed a place to live.”",
+      "published": "2026-11-06T20:15:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387908+00:00"
+    },
+    {
+      "id": "3f20698179822ddd",
+      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+      "published": "2026-11-06T19:05:00+00:00",
+      "fetched": "2026-11-06T22:27:15.574020+00:00"
+    },
+    {
+      "id": "85330ef965c52b79",
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
+      "published": "2026-11-06T18:54:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387941+00:00"
+    },
+    {
+      "id": "2233e51fe3754f0d",
+      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "published": "2026-11-06T18:53:00+00:00",
+      "fetched": "2026-11-06T22:27:15.387972+00:00"
+    },
+    {
+      "id": "82e416402ca657c4",
+      "title": "NGX sheds another N540 billion as MTN Nigeria, Zenith Bank, GTCO, drag stocks lower",
+      "link": "https://nairametrics.com/2026/11/06/ngx-sheds-another-n540-billion-as-mtn-nigeria-zenith-bank-gtco-drag-stocks-lower/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market lost another N540 billion on Friday, November 6, 2026, as sustained selling in MTN Nigeria, Zenith Bank, GTCO, HBM Nigeria and Fidelity Bank extended the previous session's sharp decline. The post NGX sheds another N540 billion as MTN Nigeria, Zenith Bank, GTCO, drag stocks lower appeared first on Nairametrics .",
+      "published": "2026-11-06T18:40:55+00:00",
+      "fetched": "2026-11-06T22:27:15.968479+00:00"
+    },
+    {
+      "id": "70603bbaccefaa28",
+      "title": "TCN accuses Ikeja Electric of misleading customers over feeder outages",
+      "link": "https://nairametrics.com/2026/11/06/tcn-accuses-ikeja-electric-of-misleading-customers-over-feeder-outages/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Transmission Company of Nigeria (TCN) has accused Ikeja Electric of misleading customers by attributing recent feeder outages in parts of Lagos to grid instability, insisting that the disruptions were largely caused by reduced power generation and faults on the distribution company’s network. The post TCN accuses Ikeja Electric of misleading customers over feeder outages appeared first on Nairametrics .",
+      "published": "2026-11-06T18:13:49+00:00",
+      "fetched": "2026-11-06T22:27:15.968532+00:00"
+    },
+    {
+      "id": "463d7d01fde15f6c",
+      "title": "Why the UK is becoming a base for African tech companies",
+      "link": "https://techcabal.com/2026/11/06/the-uk-a-base-for-african-tech-companies/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "A November 2026 report by TLP Advisory reveals that the UK is a key base for African tech companies.",
+      "published": "2026-11-06T18:11:19+00:00",
+      "fetched": "2026-11-06T22:27:17.389331+00:00"
+    },
+    {
+      "id": "4d84bdd6ab5391a6",
+      "title": "CNG stations across Nigeria hit 106 amid $2.6 billion in private-sector investments – FG",
+      "link": "https://nairametrics.com/2026/11/06/cng-stations-across-nigeria-hit-106-amid-2-6-billion-in-private-sector-investments-fg/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has disclosed that about 106 Compressed Natural Gas (CNG) refuelling stations are operational across the country, with $2.6 billion in private-sector investments coming in to expand the project. The post CNG stations across Nigeria hit 106 amid $2.6 billion in private-sector investments – FG appeared first on Nairametrics .",
+      "published": "2026-11-06T18:00:43+00:00",
+      "fetched": "2026-11-06T22:27:15.968575+00:00"
+    },
+    {
+      "id": "03abeb8170c3bc41",
+      "title": "Kenya’s WayaWaya partners with Choice Bank to launch AI-powered banking services",
+      "link": "https://techcabal.com/2026/11/06/wayawaya-partners-choice-bank/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "WayaWaya has partnered with Choice Bank to launch banking services to bring more banking capabilities to its AI-powered financial services platform.",
+      "published": "2026-11-06T17:46:59+00:00",
+      "fetched": "2026-11-06T22:27:17.389364+00:00"
+    },
+    {
+      "id": "1e245eaaaac40985",
+      "title": "Nigeria is rewriting its cyber laws, but can it secure its systems against hackers?",
+      "link": "https://techcabal.com/2026/11/06/nigeria-is-rewriting-its-cyber-laws/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria is reviewing its cybersecurity laws to counter mounting threats as artificial intelligence (AI) makes fraud, digital deception, and attacks on critical infrastructure harder to detect.",
+      "published": "2026-11-06T17:16:28+00:00",
+      "fetched": "2026-11-06T22:27:17.389388+00:00"
+    },
+    {
+      "id": "95a17263a23f411a",
+      "title": "Global enterprise AI Firm, AURÄI, Launches to Monitor, Govern, and Certify AI Operations",
+      "link": "https://nairametrics.com/2026/11/06/global-enterprise-ai-firm-aurai-launches-to-monitor-govern-and-certify-ai-operations/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "A global enterprise AI assurance firm, AURÄI, has launched at the 30th anniversary conference of the ISACA Lagos Chapter, with a platform designed to help businesses monitor, govern and certify their AI operations as adoption outpaces oversight. The launch was announced on Friday during Day 2 of the conference at Oriental Hotel, Victoria Island, Lagos, [ ] The post Global enterprise AI Firm, AURÄI, Launches to Monitor, Govern, and Certify AI Operations appeared first on Nairametrics .",
+      "published": "2026-11-06T17:10:04+00:00",
+      "fetched": "2026-11-06T22:27:15.968624+00:00"
+    },
+    {
+      "id": "4eb9f3c499ff8b82",
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "published": "2026-11-06T17:09:53+00:00",
+      "fetched": "2026-11-06T22:27:15.574053+00:00"
+    },
+    {
+      "id": "b0dfcb64f2333936",
+      "title": "SEC orders freeze on terror-linked assets, but market operators say they are unaware",
+      "link": "https://nairametrics.com/2026/11/06/sec-orders-freeze-on-terror-linked-assets-but-market-operators-say-they-are-unaware/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Securities and Exchange Commission (SEC) has directed all capital market regulated entities (CMREs) to immediately freeze the funds, assets and economic resources of United Nations-designated terrorist financiers, including Tehrik-e Taliban Pakistan (TTP) and its leader, Noor Wali Mehsud. The post SEC orders freeze on terror-linked assets, but market operators say they are unaware appeared first on Nairametrics .",
+      "published": "2026-11-06T16:11:51+00:00",
+      "fetched": "2026-11-06T22:27:15.968660+00:00"
+    },
+    {
+      "id": "479c1776d053a370",
+      "title": "Court jails 10 persons for illegal dealings in petroleum products in Delta",
+      "link": "https://nairametrics.com/2026/11/06/court-jails-10-persons-for-illegal-dealings-in-petroleum-products-in-delta/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal High Court in Warri, Delta State, has sentenced 10 persons to prison for illegal dealings in petroleum products, including substandard Automotive Gas Oil (AGO), also known as diesel. The post Court jails 10 persons for illegal dealings in petroleum products in Delta appeared first on Nairametrics .",
+      "published": "2026-11-06T15:05:28+00:00",
+      "fetched": "2026-11-06T22:27:15.968691+00:00"
+    },
+    {
+      "id": "ab27a34ecbeee16c",
+      "title": "FourthCanvas expands to the UK as it marks 11th anniversary",
+      "link": "https://nairametrics.com/2026/11/06/fourthcanvas-expands-to-the-uk-as-it-marks-11th-anniversary/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian design consultancy FourthCanvas has established a UK operation and appointed longtime team member Tunji Ogunoye as Country Director, marking its first formal international expansion as it celebrates its 11th anniversary. The Lagos-headquartered company said it had incorporated in the UK and secured its first fintech client in the market. The move coincides with the [ ] The post FourthCanvas expands to the UK as it marks 11th anniversary appeared first on Nairametrics .",
+      "published": "2026-11-06T14:59:20+00:00",
+      "fetched": "2026-11-06T22:27:15.968731+00:00"
+    },
+    {
+      "id": "29342e1a236fd3b6",
+      "title": "NESA, Lagos State Unveils ECONNEXT Lagos Conference 2026",
+      "link": "https://nairametrics.com/2026/11/06/nesa-lagos-state-unveils-econnext-lagos-conference-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Studying the economy is one thing. Finding your place in it is another. For many university students, the transition from academic learning to the world of work comes with questions about the skills employers value, the industries offering opportunities and how their education can translate into meaningful economic contribution.",
+      "published": "2026-11-06T14:41:28+00:00",
+      "fetched": "2026-11-06T22:27:15.968781+00:00"
+    },
+    {
+      "id": "ac1043d3c8ed4bdb",
+      "title": "OPay was used to scaling regulatory walls until its IPO",
+      "link": "https://techcabal.com/2026/11/06/opay-ipo-regulatory-inquiry/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "If OPay is to succeed on its second IPO attempt, it will need to revisit how well it bounced back from inquiries by Nigerian policymakers.",
+      "published": "2026-11-06T14:22:25+00:00",
+      "fetched": "2026-11-06T22:27:17.389409+00:00"
+    },
+    {
+      "id": "8c93d3455441ce60",
+      "title": "Massive wants to help small businesses turn Google searches into customers",
+      "link": "https://techcabal.com/2026/11/06/massive-small-businesses-google-customers/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Massive combines automated optimisation with human account managers who monitor search rankings and review business profiles.",
+      "published": "2026-11-06T13:35:13+00:00",
+      "fetched": "2026-11-06T22:27:17.389428+00:00"
+    },
+    {
+      "id": "a35025935021bde4",
+      "title": "Delta tops state FAAC disbursements at N98.27 billion as Lagos drops to fifth",
+      "link": "https://nairametrics.com/2026/11/06/delta-tops-state-faac-disbursements-at-n98-27-billion-as-lagos-drops-to-fifth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Delta State received the highest net allocation among Nigeria’s 36 states in August 2026, with N98.27 billion. The post Delta tops state FAAC disbursements at N98.27 billion as Lagos drops to fifth appeared first on Nairametrics .",
+      "published": "2026-11-06T13:20:46+00:00",
+      "fetched": "2026-11-06T22:27:15.968813+00:00"
+    },
     {
       "id": "672b9f497e395082",
       "title": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
@@ -72,6 +312,16 @@
       "summary": "Strategists at the investment bank said the change in expectations is down to the Federal Reserve’s hawkish shift.",
       "published": "2026-11-06T12:47:00+00:00",
       "fetched": "2026-11-06T13:17:44.156396+00:00"
+    },
+    {
+      "id": "07f8e30f65564609",
+      "title": "Beyond the Screens: TechUnwind is Bringing a Much-Needed Breather to UNILAG",
+      "link": "https://nairametrics.com/2026/11/06/beyond-the-screens-techunwind-is-bringing-a-much-needed-breather-to-unilag/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "TechUnwind UNILAG, powered by YellowLyfe, holds its University of Lagos edition on Thursday, 26th November at 3PM at the UNILAG Sports Center, Lagos. Between endless lectures, tight deadlines, side hustles, creative projects, and the constant pressure to always be doing more, life in Lagos can easily start to feel like one long, exhausting to-do list. [ ] The post Beyond the Screens: TechUnwind is Bringing a Much-Needed Breather to UNILAG appeared first on Nairametrics .",
+      "published": "2026-11-06T12:07:35+00:00",
+      "fetched": "2026-11-06T22:27:15.968861+00:00"
     },
     {
       "id": "f88a6800df066cf6",
@@ -1252,256 +1502,6 @@
       "summary": "Ghana’s central bank, the Bank of Ghana (BoG), has flagged 20 mobile loan applications for operating without the required licences or authorisation and warned the public against using their services. The post Bank of Ghana flags 20 unlicensed loan apps, warns users appeared first on Nairametrics .",
       "published": "2026-11-04T16:09:37+00:00",
       "fetched": "2026-11-04T22:56:21.833137+00:00"
-    },
-    {
-      "id": "106896000325ba52",
-      "title": "Zenith Bank: Buy, Sell or Hold?",
-      "link": "https://nairametrics.com/2026/11/04/zenith-bank-buy-sell-or-hold/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria s banks have had a good year from the regulator. The naira has strengthened, the central bank cut its policy rate by 3.5 percentage points in September, and the forbearance clean-up of 2025 is behind them. Zenith Bank s nine-month results suggest the good news is now mostly in the share price.",
-      "published": "2026-11-04T15:55:11+00:00",
-      "fetched": "2026-11-04T22:56:21.833184+00:00"
-    },
-    {
-      "id": "0c78f82f96cdab01",
-      "title": "Pivot Integrated Energy Redeems ₦8.25bn Commercial Paper Ahead of Maturity, Reinforces Investor Confidence",
-      "link": "https://nairametrics.com/2026/11/04/pivot-integrated-energy-redeems-%e2%82%a68-25bn-commercial-paper-ahead-of-maturity-reinforces-investor-confidence/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Pivot Integrated Energy Services Limited has redeemed its 8.25 billion Series 1 Tranche A Commercial Paper two days ahead of its scheduled maturity, marking a significant milestone in the company s capital market journey and reinforcing its commitment to meeting its financial obligations.The 90-day instrument, which matured on November 2, 2026, was fully settled on October [ ] The post Pivot Integrated Energy Redeems ₦8.25bn Commercial Paper Ahead of Maturity, Reinforces Investor Confidence appeared first on Nairametrics .",
-      "published": "2026-11-04T15:39:07+00:00",
-      "fetched": "2026-11-04T22:56:21.833243+00:00"
-    },
-    {
-      "id": "05342db4e46d95df",
-      "title": "The plumbing behind the apps: Why Africa’s next fintech leap belongs to national switches",
-      "link": "https://techcabal.com/2026/11/04/switch-al-maghrib-on-future-of-payments/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Switch Al-Maghrib's Hanae Ben Driss, argues that national fragmentation is a prerequisite for sovereignty, explains why wallets trump cards for cross-border scale, and reveals plans for an association of African national switches.",
-      "published": "2026-11-04T15:33:32+00:00",
-      "fetched": "2026-11-04T22:56:22.421419+00:00"
-    },
-    {
-      "id": "e819a7426e3d6d10",
-      "title": "DYQUE Unveils New Solar Solutions as Nigerians Seek Ways to Reduce Diesel Costs",
-      "link": "https://nairametrics.com/2026/11/04/dyque-unveils-new-solar-solutions-as-nigerians-seek-ways-to-reduce-diesel-costs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "With rising petrol and diesel costs continuing to put pressure on household budgets and business operating expenses, solar energy providers are exploring ways to make alternative power solutions more accessible and financially viable for Nigerians.At the Nigeria Energy 2026 exhibition in Lagos, DYQUE Energy showcased a range of solar and inverter technologies while engaging visitors [ ] The post DYQUE Unveils New Solar Solutions as Nigerians Seek Ways to Reduce Diesel Costs appeared first on Nairametrics .",
-      "published": "2026-11-04T15:25:01+00:00",
-      "fetched": "2026-11-04T22:56:21.833291+00:00"
-    },
-    {
-      "id": "7f434c9a80224951",
-      "title": "Helium Health secures $2.5 million Google.org grant to deploy AI in maternal healthcare",
-      "link": "https://nairametrics.com/2026/11/04/helium-health-secures-2-5-million-google-org-grant-to-deploy-ai-in-maternal-healthcare/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian health technology company, Helium Health, has secured a $2.5 million (approximately N3.4 billion) grant from Google.org to deploy artificial intelligence (AI) solutions aimed at improving maternal healthcare delivery in Nigeria. The post Helium Health secures $2.5 million Google.org grant to deploy AI in maternal healthcare appeared first on Nairametrics .",
-      "published": "2026-11-04T14:54:37+00:00",
-      "fetched": "2026-11-04T22:56:21.833328+00:00"
-    },
-    {
-      "id": "ae8cc6e9d7aa7bf9",
-      "title": "Airtel Nigeria’s data boom hits an operating cost bottleneck",
-      "link": "https://techcabal.com/2026/11/04/airtel-nigeria-s-growth-hits-bottleneck/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Airtel Nigeria’s revenue and earnings are rising as customer numbers and data consumption grow, but its quarterly EBITDA margin has slipped. With fuel costs climbing and network investment accelerating, the operator faces the challenge of turning stronger demand into sustainable profitability and cash flow.",
-      "published": "2026-11-04T14:51:16+00:00",
-      "fetched": "2026-11-04T22:56:22.421458+00:00"
-    },
-    {
-      "id": "d0be6b427005e80e",
-      "title": "Tinubu seeks Senate approval for N10.79 trillion external borrowing to fund 2026 budget",
-      "link": "https://nairametrics.com/2026/11/04/tinubu-seeks-senate-approval-for-n10-79-trillion-external-borrowing-to-fund-2026-budget/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "President Bola Tinubu has asked the Senate to approve N10.79 trillion in external borrowing, equivalent to approximately $7.7 billion, to finance part of the Federal Government’s 2026 budget deficit. The post Tinubu seeks Senate approval for N10.79 trillion external borrowing to fund 2026 budget appeared first on Nairametrics .",
-      "published": "2026-11-04T14:43:55+00:00",
-      "fetched": "2026-11-04T22:56:21.833367+00:00"
-    },
-    {
-      "id": "c6685228403757f9",
-      "title": "Canva restructures workforce, affecting 1,271 employees globally",
-      "link": "https://nairametrics.com/2026/11/04/canva-restructures-workforce-affecting-1271-employees-globally/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Canva, the global graphic design platform, is restructuring its global workforce, affecting 1,271 employees, or 22% of its staff, as it seeks to simplify operations and consolidate teams in centralised offices. The post Canva restructures workforce, affecting 1,271 employees globally appeared first on Nairametrics .",
-      "published": "2026-11-04T14:34:25+00:00",
-      "fetched": "2026-11-04T22:56:21.833400+00:00"
-    },
-    {
-      "id": "57e114cd25addc5b",
-      "title": "Ghana inflation rises to 5.5%, highest in 11 months ahead of November rate decision",
-      "link": "https://nairametrics.com/2026/11/04/ghana-inflation-rises-to-5-5-highest-in-11-months-ahead-of-november-rate-decision/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ghana’s annual inflation rate increased to an 11-month high of 5.5% in October 2026, potentially strengthening the case for the central bank to maintain its policy rate at the next meeting. The post Ghana inflation rises to 5.5%, highest in 11 months ahead of November rate decision appeared first on Nairametrics .",
-      "published": "2026-11-04T13:50:02+00:00",
-      "fetched": "2026-11-04T22:56:21.833440+00:00"
-    },
-    {
-      "id": "952d9b8e14924548",
-      "title": "Where to invest in November 2026: Stocks, fixed income and funds to consider",
-      "link": "https://nairametrics.com/2026/11/04/where-to-invest-in-november-2026-stocks-fixed-income-and-funds-to-consider/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Investors entering November can still secure income above the latest inflation rate, examine stocks made cheaper by October’s declines, and use mutual funds to access both opportunities without selecting individual securities. The post Where to invest in November 2026: Stocks, fixed income and funds to consider appeared first on Nairametrics .",
-      "published": "2026-11-04T13:49:04+00:00",
-      "fetched": "2026-11-04T22:56:21.833480+00:00"
-    },
-    {
-      "id": "123ed6911c9cff63",
-      "title": "Stanbic IBTC: Buy, Sell or Hold?",
-      "link": "https://nairametrics.com/2026/11/04/stanbic-ibtc-buy-sell-or-hold-2/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Anyone who bought Stanbic IBTC at N100 in January is sitting on a 62 per cent gain and a growing dividend. The nine-month results explain the gain. They also show why the next 62% will be harder to earn.",
-      "published": "2026-11-04T13:32:41+00:00",
-      "fetched": "2026-11-04T22:56:21.833522+00:00"
-    },
-    {
-      "id": "c698c0af5429d8ae",
-      "title": "Nigeria’s private sector expands for fifth month, PMI rises to 53.2 in October",
-      "link": "https://nairametrics.com/2026/11/04/nigerias-private-sector-expands-for-fifth-month-pmi-rises-to-53-2-in-october/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's private sector sustained its growth momentum in October 2026, with the country's Purchasing Managers' Index (PMI) rising marginally to 53.2 points from 53.0 points recorded in September. The post Nigeria’s private sector expands for fifth month, PMI rises to 53.2 in October appeared first on Nairametrics .",
-      "published": "2026-11-04T13:32:08+00:00",
-      "fetched": "2026-11-04T22:56:21.833564+00:00"
-    },
-    {
-      "id": "96eb2aeac95e73bb",
-      "title": "Datadog’s stock extends steep declines in the wake of earnings",
-      "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Datadog failed to top expectations with its revenue forecast.",
-      "published": "2026-11-04T13:03:00+00:00",
-      "fetched": "2026-11-04T13:20:28.476372+00:00"
-    },
-    {
-      "id": "116ade049c7a40cc",
-      "title": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
-      "link": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Unexpectedly hot jobs data could affect the number and timing of future rate hikes",
-      "published": "2026-11-04T13:00:00+00:00",
-      "fetched": "2026-11-04T13:20:28.476408+00:00"
-    },
-    {
-      "id": "aa2a69f8c1f0033c",
-      "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-      "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The healthcare giant surprised analysts with the decision to separate its business.",
-      "published": "2026-11-04T12:50:00+00:00",
-      "fetched": "2026-11-04T13:20:28.476450+00:00"
-    },
-    {
-      "id": "10d438f85ff2a50d",
-      "title": "Olam Agri to invest $400 million in African food processing, plans new feed mills",
-      "link": "https://nairametrics.com/2026/11/04/olam-agri-to-invest-400-million-in-african-food-processing-plans-new-feed-mills/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Olam Agri plans to invest about $400 million in African food processing through 2028, including the construction of new animal feed mills in Nigeria, Cameroon and Ivory Coast, as the agricultural commodities trader expands its presence across the continent. The post Olam Agri to invest $400 million in African food processing, plans new feed mills appeared first on Nairametrics .",
-      "published": "2026-11-04T12:40:38+00:00",
-      "fetched": "2026-11-04T13:20:29.276812+00:00"
-    },
-    {
-      "id": "b818bf9cff48d51c",
-      "title": "Exceed: One Connected Platform for Teams, Customers and Business Growth",
-      "link": "https://nairametrics.com/2026/11/04/exceed-one-connected-platform-for-teams-customers-and-business-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The AI-driven HRM + CRM platform from Gurugeeks brings people management, customer relationships and business operations together to help organisations achieve more.The Business Challenge: Fragmented Tools, Disconnected WorkBusinesses invest in technology to improve efficiency, serve customers and grow. Yet many still manage employee records in one system, customer relationships in another, projects in spreadsheets and [ ] The post Exceed: One Connected Platform for Teams, Customers and Business Growth appeared first on Nairametrics .",
-      "published": "2026-11-04T12:34:27+00:00",
-      "fetched": "2026-11-04T13:20:29.276852+00:00"
-    },
-    {
-      "id": "ee98e1360f9afecb",
-      "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
-      "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Wall Street finds reasons to cheer the Democrats’ sweep. Plus: Microsoft’s AI-era buyouts and a retiree’s appetite for a “free lunch.”",
-      "published": "2026-11-04T12:27:00+00:00",
-      "fetched": "2026-11-04T13:20:28.476472+00:00"
-    },
-    {
-      "id": "932dd63b602b8d73",
-      "title": "Treasury yields fall after Democrats win House and Senate majorities",
-      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Treasury yields moved lower on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-      "published": "2026-11-04T12:25:25+00:00",
-      "fetched": "2026-11-04T13:20:28.792827+00:00"
-    },
-    {
-      "id": "644b541ed3b46408",
-      "title": "Diaspora buyers drive property prices in Ikoyi, Lekki, Victoria Island -Arrowhead Homes CEO",
-      "link": "https://nairametrics.com/2026/11/04/diaspora-buyers-drive-property-prices-in-ikoyi-lekki-victoria-island-arrowhead-homes-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In this exclusive interview with Nairametrics, Temidayo Ademosu, Founder and CEO of Arrowhead Homes and Properties, a real estate company operating in Lagos, Ogun and other parts of the South-West, shares his assessment of the market. The post Diaspora buyers drive property prices in Ikoyi, Lekki, Victoria Island -Arrowhead Homes CEO appeared first on Nairametrics .",
-      "published": "2026-11-04T11:40:13+00:00",
-      "fetched": "2026-11-04T13:20:29.276877+00:00"
-    },
-    {
-      "id": "27e7ad8ab90cc913",
-      "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-      "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
-      "published": "2026-11-04T11:10:00+00:00",
-      "fetched": "2026-11-04T13:20:28.476498+00:00"
-    },
-    {
-      "id": "dbd1708323705233",
-      "title": "NGX Group Chairman backs African markets integration as top priority",
-      "link": "https://nairametrics.com/2026/11/04/ngx-group-chairman-backs-african-markets-integration-as-top-priority/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Chairman of Nigerian Exchange (NGX) Group, Alhaji (Dr) Umaru Kwairanga, has identified the integration of African capital markets as the reform he would prioritise over the next three years to strengthen cross-border investment. The post NGX Group Chairman backs African markets integration as top priority appeared first on Nairametrics .",
-      "published": "2026-11-04T10:47:09+00:00",
-      "fetched": "2026-11-04T13:20:29.276901+00:00"
-    },
-    {
-      "id": "a0d8a57d5c5a8e3e",
-      "title": "Canada introduces new asylum rules as claims fall by 52%",
-      "link": "https://nairametrics.com/2026/11/04/canada-introduces-new-asylum-rules-as-claims-fall-by-52/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Canadian government has introduced new regulations to modernize its asylum system, establishing a single online application process and clearer timelines for reviewing refugee protection claims. The post Canada introduces new asylum rules as claims fall by 52% appeared first on Nairametrics .",
-      "published": "2026-11-04T10:33:58+00:00",
-      "fetched": "2026-11-04T13:20:29.276922+00:00"
-    },
-    {
-      "id": "c54809537154e9ad",
-      "title": "Africa Credit Expo 2026 to Unite Financial Leaders, Businesses and Students to Shape the Future of Africa’s Credit Economy",
-      "link": "https://nairametrics.com/2026/11/04/africa-credit-expo-2026-to-unite-financial-leaders-businesses-and-students-to-shape-the-future-of-africas-credit-economy/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The fourth edition of the Expo, powered by CreditRegistry, will bring industry leaders, policymakers and young people together at the University of Lagos to explore how trust, financial knowledge and stronger credit systems can unlock opportunity across the continent. What will it take to build an Africa where businesses can access the capital they need [ ] The post Africa Credit Expo 2026 to Unite Financial Leaders, Businesses and Students to Shape the Future of Africa’s Credit Economy appeared first on Nairametrics .",
-      "published": "2026-11-04T10:22:53+00:00",
-      "fetched": "2026-11-04T13:20:29.276964+00:00"
-    },
-    {
-      "id": "fc8e4557cd3e4921",
-      "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-      "published": "2026-11-04T10:15:00+00:00",
-      "fetched": "2026-11-04T13:20:28.476516+00:00"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-06T13:17:56.264362+00:00",
+  "updated": "2026-11-06T22:27:29.755233+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d3b80d9eba4da6e3",
+      "title": "Fabric molds could bring material-saving concrete beams within reach",
+      "link": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT engineers cast a concrete beam using a sewn fabric mold with one-third the amount of concrete and half as much steel as a conventional beam.",
+      "published": "2026-11-06T19:35:00+00:00",
+      "fetched": "2026-11-06T22:27:28.876516+00:00"
+    },
+    {
+      "id": "fc6e47010ae51c33",
+      "title": "How to predict the behavior of molecules from scant data",
+      "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+      "published": "2026-11-06T19:00:00+00:00",
+      "fetched": "2026-11-06T22:27:28.876546+00:00"
+    },
+    {
+      "id": "b1d2366f266d55ab",
+      "title": "MIT affiliates elected 2026 American Geophysical Union Fellows",
+      "link": "https://news.mit.edu/2026/mit-affiliates-elected-agu-fellows-1106",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Anthea Coster, Carolyn Ruppel, César Terrer, and eight additional alumni are honored for their work in the geosciences.",
+      "published": "2026-11-06T16:15:00+00:00",
+      "fetched": "2026-11-06T22:27:28.876570+00:00"
+    },
+    {
+      "id": "de48351296d89d9b",
+      "title": "Scene at MIT: Beautiful, intricate, creative quilts",
+      "link": "https://news.mit.edu/2026/scene-mit-beautiful-intricate-creative-quilts-1106",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The MIT Quilt Show, featuring more than 40 quilted projects from 20 members of the MIT community, drew almost 1,000 visitors over three days.",
+      "published": "2026-11-06T15:35:00+00:00",
+      "fetched": "2026-11-06T22:27:28.876592+00:00"
+    },
     {
       "id": "5398aa25e709833b",
       "title": "Was Homer’s Ithaca Really an Island?: New Research Challenges a 2,000-Year-Old Assumption",
@@ -1462,46 +1502,6 @@
       "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
       "published": "2026-10-01T22:00:00+00:00",
       "fetched": "2026-10-02T02:43:16.108530+00:00"
-    },
-    {
-      "id": "0fe7ed479d6766c6",
-      "title": "Governor Healey and President Kornbluth launch MIT Future Fest",
-      "link": "https://news.mit.edu/2026/governor-healey-and-president-kornbluth-launch-mit-future-fest-1001",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The new, five-day MIT event reaches takeoff with a forum about discovery and innovation.",
-      "published": "2026-10-01T18:30:00+00:00",
-      "fetched": "2026-10-01T22:03:13.449249+00:00"
-    },
-    {
-      "id": "5eb53eb67826acef",
-      "title": "When Buckminster Fuller Proposed Putting a Dome Over Manhattan (1960)",
-      "link": "https://www.openculture.com/2026/10/when-buckminster-fuller-proposed-putting-a-dome-over-manhattan-1960.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Image via Buckminster Fuller Estate The novels of John Brunner have become a niche taste, even within his genre of science fiction. A more sociologically minded version of Philip K. Dick at his best, he could write with what now looks like a simultaneous prescience about the civilization to come and an apocalyptically anxious concern [ ]",
-      "published": "2026-10-01T09:00:21+00:00",
-      "fetched": "2026-10-01T11:54:14.662707+00:00"
-    },
-    {
-      "id": "e6cc9d86c20a1902",
-      "title": "LEGO Lets You Build Gaudí’s Sagrada Família in Its Largest Set Ever",
-      "link": "https://www.openculture.com/2026/10/lego-lets-you-build-gaudis-sagrada-familia-in-its-largest-set-ever.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "When work on the Sagrada Família first began in 1882, the original architect could hardly have imagined that, 144 years later, the ambitious undertaking would still be underway. Yet here we are. Famously, the Catalan architect Antoni Gaudí (1852–1926) spent the last four decades of his life designing and building the Gothic-inspired basilica in Barcelona.",
-      "published": "2026-10-01T08:00:21+00:00",
-      "fetched": "2026-10-01T11:54:14.662760+00:00"
-    },
-    {
-      "id": "14d0b24272c5f6db",
-      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
-      "published": "2026-09-30T15:15:00+00:00",
-      "fetched": "2026-09-30T17:03:39.431458+00:00"
     }
   ]
 }

@@ -1,8 +1,148 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-06T13:17:57.188382+00:00",
+  "updated": "2026-11-06T22:27:30.210998+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c1be0c01865b7189",
+      "title": "Ryan Serhant Reveals the Turning Point That Made Him a Real Estate Star—and How He Thinks Agents Can Cash in On AI",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/ryan-serhant-turning-point-real-estate-career-agents-ai/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While speaking at NAR NXT 2026 in New Orleans, Serhant reflected on his career-changing break and how real estate agents can use AI.",
+      "published": "2026-11-06T21:59:50+00:00",
+      "fetched": "2026-11-06T22:27:30.210209+00:00"
+    },
+    {
+      "id": "00f8dfd723ea905c",
+      "title": "‘We Started Buying Real Estate To Help Those in Need—and Built a Portfolio Worth Millions in the Process’",
+      "link": "https://www.realtor.com/news/first-person/better-world-enterprises-tennessee-affordable-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A Tennessee couple set out to help families in need and make the world better, and built a $10 million real estate portfolio in the process.",
+      "published": "2026-11-06T21:17:00+00:00",
+      "fetched": "2026-11-06T22:27:30.210243+00:00"
+    },
+    {
+      "id": "ad993602497bfc9b",
+      "title": "Kourtney Kardashian Slams ‘Fabricated’ Rumors That She Doesn’t Live With Travis Barker and Shares ‘Really Vulnerable’ Renovation of Calabasas Home",
+      "link": "https://www.realtor.com/news/reality-tv/kourtney-kardashian-slams-rumors-not-living-with-travis-barker/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"The Kardashians\" star opened up about the arrangement on the Nov. 5 episode and shared the \"vulnerable\" renovation of her Calabasas home.",
+      "published": "2026-11-06T21:06:42+00:00",
+      "fetched": "2026-11-06T22:27:30.210272+00:00"
+    },
+    {
+      "id": "5edd828eba7a552c",
+      "title": "Bear Grylls Bought a ‘Derelict’ Island With ‘No Power’ and ‘Rats’ at 25 Instead of a London Apartment—Here’s How It Looks Decades Later",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/bear-grylls-bought-welsh-island-at-age-25/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The British adventurer decided to buy a remote island instead of a London apartment, and still lives there decades later.",
+      "published": "2026-11-06T20:39:42+00:00",
+      "fetched": "2026-11-06T22:27:30.210297+00:00"
+    },
+    {
+      "id": "35b4ea0d34558ed9",
+      "title": "California Passes Down Payment Assistance Plan, but Push To Cut Red Tape Remains in Limbo",
+      "link": "https://www.realtor.com/news/real-estate-news/california-housing-ballot-questions-results-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Three housing-focused measures were on the ballot in California.",
+      "published": "2026-11-06T20:04:18+00:00",
+      "fetched": "2026-11-06T22:27:30.210318+00:00"
+    },
+    {
+      "id": "58e2ad568731d625",
+      "title": "Massachusetts Plan for More Starter Homes Fails as ‘NIMBY’ Voters Insist on Local Zoning Control",
+      "link": "https://www.realtor.com/news/real-estate-news/massachusetts-question-7-vote-results-starter-home-nimby/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Massachusetts voters rejected a ballot initiative that would allow the zoning of smaller lots for starter home construction.",
+      "published": "2026-11-06T17:51:51+00:00",
+      "fetched": "2026-11-06T22:27:30.210342+00:00"
+    },
+    {
+      "id": "9d897b8085a51cef",
+      "title": "Kim Kardashian Snaps Up Palm Springs Estate During ‘Gummy’-Fueled Trip to Kris Jenner’s Home—Here’s How Hidden Pathways Connect the Family’s Neighboring Properties",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kim-kardashian-kris-jenner-palm-springs-california-homes-connected/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The famous reality TV family has a series of lavish desert properties connected by hidden pathways in La Quinta.",
+      "published": "2026-11-06T17:24:54+00:00",
+      "fetched": "2026-11-06T22:27:30.210368+00:00"
+    },
+    {
+      "id": "bdd7c70d724e8209",
+      "title": "Trump Declares the Oval Office a National Monument—1 Year After Backlash Over ‘Home Depot’ Decor",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/president-donald-trump-oval-office-gold-home-depot/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Trump, 80, is taking steps to protect the Oval office from being \"touched by anybody.\"",
+      "published": "2026-11-06T17:10:00+00:00",
+      "fetched": "2026-11-06T22:27:30.210390+00:00"
+    },
+    {
+      "id": "fd48f13d00b8c4bd",
+      "title": "Scarlett Johansson Says ‘The Batman: Part II’ Role Caused ‘Existential Angst’ After Leaving NYC Penthouse To Travel Abroad",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/scarlett-johansson-batman-part-ii-role-new-york-penthouse/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Black Widow\" actress opened up about her part in the film, noting that she found the character to be \"hard to crack.\"",
+      "published": "2026-11-06T16:43:08+00:00",
+      "fetched": "2026-11-06T22:27:30.210415+00:00"
+    },
+    {
+      "id": "f13dcdba2d1aa06c",
+      "title": "GLP-1s Are Changing America’s Kitchens—and Raising Questions About Its Trash",
+      "link": "https://www.realtor.com/news/trends/glp-1-home-design-kitchens-bathrooms-needle-disposal/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "GLP-1s are reshaping American homes. But as needlestick injuries rise, a new NYC fine raises a question: Who's responsible for the waste?",
+      "published": "2026-11-06T16:18:51+00:00",
+      "fetched": "2026-11-06T22:27:30.210438+00:00"
+    },
+    {
+      "id": "ecd015fcbbc232ec",
+      "title": "5 Historic ‘Minimansions’ Under $400K Where You Get 3,000+ Square Feet for the Price of a Starter Home",
+      "link": "https://www.realtor.com/news/unique-homes/affordable-historic-mini-mansions-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Looking for space on a budget? Tour five historic \"minimansions,\" each spanning 3,000-plus square feet and boasting a starter home price.",
+      "published": "2026-11-06T15:30:00+00:00",
+      "fetched": "2026-11-06T22:27:30.210472+00:00"
+    },
+    {
+      "id": "b9e24c042b9f262b",
+      "title": "New Laws Could Add an Estimated 103,000 Homes a Year, Study Finds",
+      "link": "https://www.realtor.com/news/real-estate-news/permitting-reform-homebuilders-aei-study-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "This has been the “year of the starter home,” said Ed Pinto, co-director of AEI’s Housing Center.",
+      "published": "2026-11-06T15:17:00+00:00",
+      "fetched": "2026-11-06T22:27:30.210494+00:00"
+    },
+    {
+      "id": "0a129e060d0fd877",
+      "title": "Massive Job Gains of 165,000 in October Bolster Case for More Fed Rate Hikes",
+      "link": "https://www.realtor.com/news/trends/jobs-report-unemployment-rate-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The U.S. economy added 165,000 jobs in October, well above economists' forecasts, as the unemployment rate edged down.",
+      "published": "2026-11-06T14:06:48+00:00",
+      "fetched": "2026-11-06T22:27:30.210514+00:00"
+    },
+    {
+      "id": "cee26821e3668a24",
+      "title": "EXCLUSIVE: Reba McEntire Reveals the Sentimental Style Behind Her Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/reba-mcentire-sentimental-style-behind-her-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The country star say in her home, she has rodeo and ranching keepsakes, and reminders of her Oklahoma upbringing.",
+      "published": "2026-11-06T13:16:19+00:00",
+      "fetched": "2026-11-06T22:27:30.210534+00:00"
+    },
     {
       "id": "14392d72f14c3bc8",
       "title": "EXCLUSIVE: Reba McEntire Reveals the Sentimental Style Behind Her ‘African Cowboy’ Home",
@@ -1362,146 +1502,6 @@
       "summary": "The couple announced that they were expecting their first baby together and hard launched their romance on Oct. 27.",
       "published": "2026-10-30T13:45:41+00:00",
       "fetched": "2026-10-30T17:18:06.266905+00:00"
-    },
-    {
-      "id": "f748dcbdad2bdaa9",
-      "title": "EXCLUSIVE: Kylie Jenner Pulls $38 Million Concrete L.A. Mansion Off the Market",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jenner-removes-los-angeles-home-from-the-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The reality TV personality, 29, initially put the seven-bedroom Holmby Hills property on the market on Dec. 22.",
-      "published": "2026-10-30T12:22:05+00:00",
-      "fetched": "2026-10-30T17:18:06.266931+00:00"
-    },
-    {
-      "id": "0c5f4fdbed90cfc5",
-      "title": "Homeowner Wins City Permit Battle Over His ‘Spooktacular’ Halloween Display",
-      "link": "https://www.realtor.com/news/trends/raleigh-homeowner-permits-oakwood-halloween-display/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Every Halloween, thousands of people flock to Raleigh’s Historic Oakwood neighborhood to see an elaborate display.",
-      "published": "2026-10-30T11:23:00+00:00",
-      "fetched": "2026-10-30T11:43:58.541834+00:00"
-    },
-    {
-      "id": "d5c52260cb2afe76",
-      "title": "Is the Housing Market About to Crash? What the Data (Actually) Shows",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1350",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Is the housing market going to crash? Everywhere you turn, there seems to be another headline forecasting the next housing market meltdown. But what’s behind all the noise?",
-      "published": "2026-10-30T11:00:20+00:00",
-      "fetched": "2026-10-30T11:43:58.207379+00:00"
-    },
-    {
-      "id": "9a428f1e1aafa2e5",
-      "title": "First-Time Landlord? How to Find Great Tenants on Your Own (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-790",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Ready to rent out your property? Set up the right systems from day one, and you’ll attract better tenants, avoid costly rookie mistakes, and keep more cash flow in your [ ]",
-      "published": "2026-10-30T11:00:11+00:00",
-      "fetched": "2026-10-30T11:43:58.207425+00:00"
-    },
-    {
-      "id": "a9684b4680c2c31e",
-      "title": "More Choices, Less Stress: Rising Housing Inventory Gives Homebuyers Room To Breathe",
-      "link": "https://www.realtor.com/news/trends/rising-housing-inventory-gives-homebuyers-choices-september-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nationally, there are roughly 1.2 million active listings, representing a 5.4% increase over last September.",
-      "published": "2026-10-30T09:00:00+00:00",
-      "fetched": "2026-10-30T11:43:58.541871+00:00"
-    },
-    {
-      "id": "24b41dda6d67a42b",
-      "title": "Data Center Backlash Could Decide Which Party Controls the Senate",
-      "link": "https://www.realtor.com/news/real-estate-news/data-centers-campaign-ad-spending-senate-midterm-election/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Americans' souring on data centers could be a major factor in some of the most important Senate races.",
-      "published": "2026-10-30T08:47:00+00:00",
-      "fetched": "2026-10-30T11:43:58.541899+00:00"
-    },
-    {
-      "id": "e8bae4fcd72e08eb",
-      "title": "Disgraced Purdue Pharma Exec Richard Sackler Must Forfeit His $63 Million Mansion To Settle Opioid Claims, Judge Rules",
-      "link": "https://www.realtor.com/news/trends/purdue-richard-sackler-greenwich-connecticut-mansion-opioid-settlement/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Dr. Richard Sackler's Greenwich, CT, mansion is at the heart of a legal dispute related to Purdue Pharma's historic opioid settlement.",
-      "published": "2026-10-29T22:19:59+00:00",
-      "fetched": "2026-10-30T03:06:53.187633+00:00"
-    },
-    {
-      "id": "aeb9a1badeabcc57",
-      "title": "Beloved ‘Star Trek’ Actor Patrick Stewart Dies at Home in Los Angeles",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/star-trek-actor-patrick-stewart-dies-at-home-in-los-angeles/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor was celebrated for his legendary roles in \"Star Trek: The Next Generation\" and all five \"X-Men\" movies. He was 86.",
-      "published": "2026-10-29T20:20:57+00:00",
-      "fetched": "2026-10-29T22:04:46.443340+00:00"
-    },
-    {
-      "id": "72554ebdb97115f9",
-      "title": "Floyd Mayweather Jr. Ordered To Pay $340K After Failing To Settle Rent Dispute Over $100K-a-Month NYC Condo",
-      "link": "https://www.realtor.com/news/sports/floyd-mayweather-jr-to-pay-new-york-condo-rent-dispute/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A New York state judge entered a default judgement against the former athlete in the case involving dwelling owners Leila and David Centner.",
-      "published": "2026-10-29T18:57:46+00:00",
-      "fetched": "2026-10-29T22:04:46.443381+00:00"
-    },
-    {
-      "id": "3f51d18af3d2a9e1",
-      "title": "MLB Legend Matt Holliday Lists Stunning Arizona Estate for $11.6M Just Months After Buying It",
-      "link": "https://www.realtor.com/news/sports/mlb-baseball-matt-holliday-paradise-valley-arizona-estate-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The retired baseball player relocated to Arizona after a respiratory disease diagnosis but wants a home with a separate guesthouse.",
-      "published": "2026-10-29T17:50:22+00:00",
-      "fetched": "2026-10-29T22:04:46.443412+00:00"
-    },
-    {
-      "id": "76377caa0a394816",
-      "title": "Passengers Who Sold Their Homes for a $120K ‘Perpetual Cruise’ Are Now Stranded in Cambodia",
-      "link": "https://www.realtor.com/news/trends/villa-vie-odyssey-cruise-price-cost-residences/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Hundreds of passengers on a \"never-ending cruise\" were forced to disembark after the cruise ship line ran out of money for fuel.",
-      "published": "2026-10-29T17:48:14+00:00",
-      "fetched": "2026-10-29T22:04:46.443445+00:00"
-    },
-    {
-      "id": "cd98e5d9612ea3b1",
-      "title": "How Recent Changes to Credit Scoring Could Make Qualifying for a Mortgage Easier for More Buyers",
-      "link": "https://www.realtor.com/advice/finance/qualify-mortgage-vantagescore/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "If your loan application was rejected because your credit file is thin, it might be time to reapply with lenders using a new scoring system.",
-      "published": "2026-10-29T17:35:00+00:00",
-      "fetched": "2026-10-29T22:04:46.443475+00:00"
-    },
-    {
-      "id": "7e10b76f9f5c7b06",
-      "title": "Homeowners Face Foreclosure After Developer-Run HOA Raised Monthly Fees to $2.5K",
-      "link": "https://www.realtor.com/news/trends/hoa-fees-magnolia-cove-north-carolina-foreclosure/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "After facing a number of increases in recent years, homeowners will now see their monthly fee increase from $1,225 to $2,500 on Jan. 1.",
-      "published": "2026-10-29T17:17:27+00:00",
-      "fetched": "2026-10-29T17:40:05.954692+00:00"
-    },
-    {
-      "id": "e070e3c90f8f5d0f",
-      "title": "Stevie Wonder’s Ex-Fiancée Calls Him a ‘Manipulator’ as He Moves To Evict Her From L.A. Home of Nearly 40 Years",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/stevie-wonder-ex-fiancee-manipulator-evict-los-angeles-home-legal-battle/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 76-year-old hitmaker asked a California court on Oct. 22 to allow the eviction, alleging that Carmen Efferson violated their agreement.",
-      "published": "2026-10-29T16:57:46+00:00",
-      "fetched": "2026-10-29T17:40:05.954723+00:00"
     }
   ]
 }
