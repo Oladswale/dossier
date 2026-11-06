@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-05T22:57:18.740815+00:00",
+  "updated": "2026-11-06T03:50:08.434942+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "afba7fc8828264c2",
+      "title": "EXCLUSIVE: Ryan Serhant Warns Homebuyers Against Waiting for 2027: ‘You Don’t Want to Wait Until It’s Too Late’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/ryan-serhant-warns-homebuyers-waiting-2027-housing-predictions/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Speaking to Realtor.com®, Serhant shared his outlook for the year ahead and identified the markets he believes could surprise buyers.",
+      "published": "2026-11-06T01:50:14+00:00",
+      "fetched": "2026-11-06T03:50:08.434454+00:00"
+    },
     {
       "id": "08248bad8e4987b6",
       "title": "Texas Man Admits to $1.5 Million Deed Fraud Scheme Involving Properties in 4 States",
@@ -1492,16 +1502,6 @@
       "summary": "The actress owned the home during her 1988 marriage to boxer, Mike Tyson, and held onto it for over a decade.",
       "published": "2026-10-29T15:10:00+00:00",
       "fetched": "2026-10-29T17:40:05.954817+00:00"
-    },
-    {
-      "id": "35d54213a9d5f8ca",
-      "title": "Home Prices Rebound in Florida as Miami Sees 3.3% Growth",
-      "link": "https://www.realtor.com/news/trends/home-prices-rising-miami-florida-nar-q3-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Summer 2026 home prices rose annually across 78% of U.S. metro markets, with Florida seeing a sharp rebound after last year's pullbacks.",
-      "published": "2026-10-29T14:08:37+00:00",
-      "fetched": "2026-10-29T17:40:05.954834+00:00"
     }
   ]
 }
