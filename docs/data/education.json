@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-06T03:50:07.768855+00:00",
+  "updated": "2026-11-06T13:17:56.264362+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5398aa25e709833b",
+      "title": "Was Homer’s Ithaca Really an Island?: New Research Challenges a 2,000-Year-Old Assumption",
+      "link": "https://www.openculture.com/2026/11/was-homers-ithaca-really-an-island.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Even if we didn’t make it to a screening of Christopher Nolan’s big-screen adaptation this past summer — and indeed, even if we’ve never read Homer’s original epic at all — we know that the Odyssey tells the story of a ten-year-long journey back to Ithaca. The narrative’s urgency doesn’t arise from the fact that its protagonist, the [ ]",
+      "published": "2026-11-06T09:00:21+00:00",
+      "fetched": "2026-11-06T13:17:56.264146+00:00"
+    },
+    {
+      "id": "ad97e22d520cfcb2",
+      "title": "Studying bacteria and the cells they infect",
+      "link": "https://news.mit.edu/2026/studying-bacteria-and-cells-they-infect-rebecca-lamason-1106",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By exploring how bacteria hijack cell functions, Associate Professor Rebecca Lamason hopes to learn more about how host cells carry out those functions.",
+      "published": "2026-11-06T05:00:00+00:00",
+      "fetched": "2026-11-06T13:17:55.313881+00:00"
+    },
     {
       "id": "421f2f85eefbcbad",
       "title": "Pinning down the structure of quark-gluon plasma, the universe’s first fluid",
@@ -1482,26 +1502,6 @@
       "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
       "published": "2026-09-30T15:15:00+00:00",
       "fetched": "2026-09-30T17:03:39.431458+00:00"
-    },
-    {
-      "id": "c15cc90862030e8a",
-      "title": "This game-playing AI is the new champ at Stratego",
-      "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
-      "published": "2026-09-30T15:00:00+00:00",
-      "fetched": "2026-09-30T17:03:39.431496+00:00"
-    },
-    {
-      "id": "8026ab4547b5752e",
-      "title": "The Cable that Changed the World: How Instant Global Communication Began in 1858",
-      "link": "https://www.openculture.com/2026/09/the-cable-that-changed-the-world-how-instant-global-communication-began-in-1858.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The word wireless is going the way of computerized and portable, and for much the same reasons. We no longer regard wireless devices that require no physical connections to anything else as marvels, but as something close to necessities. But our age, with its increasingly common assumptions that information just travels through the air, owes its existence [ ]",
-      "published": "2026-09-30T09:14:07+00:00",
-      "fetched": "2026-09-30T11:26:37.388202+00:00"
     }
   ]
 }
