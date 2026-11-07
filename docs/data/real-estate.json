@@ -1,6 +1,6 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-06T22:27:30.210998+00:00",
+  "updated": "2026-11-07T03:23:25.726654+00:00",
   "count": 150,
   "items": [
     {
@@ -62,6 +62,16 @@
       "summary": "Massachusetts voters rejected a ballot initiative that would allow the zoning of smaller lots for starter home construction.",
       "published": "2026-11-06T17:51:51+00:00",
       "fetched": "2026-11-06T22:27:30.210342+00:00"
+    },
+    {
+      "id": "1f3b43009a51d57c",
+      "title": "Kim Kardashian Snaps Up Palm Springs Estate During ‘Gummy’-Fueled Trip to Kris Jenner’s Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kim-kardashian-kris-jenner-palm-springs-california-homes-connected/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The famous reality TV family has a series of lavish desert properties connected by hidden pathways in La Quinta.",
+      "published": "2026-11-06T17:24:54+00:00",
+      "fetched": "2026-11-07T03:23:25.726183+00:00"
     },
     {
       "id": "9d897b8085a51cef",
@@ -1492,16 +1502,6 @@
       "summary": "Mortgage rates fell again for the second time in two months. But how long will the decline last—and is it enough for buyers to start buying?",
       "published": "2026-10-30T14:04:00+00:00",
       "fetched": "2026-10-30T17:18:06.266877+00:00"
-    },
-    {
-      "id": "df19845149923095",
-      "title": "Pregnant Savannah Chrisley Says ‘I Do’ to Jason Galanis in Secret Cayman Islands Church Wedding",
-      "link": "https://www.realtor.com/news/reality-tv/pregnant-savannah-chrisley-marries-jason-galanis-secret-wedding/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The couple announced that they were expecting their first baby together and hard launched their romance on Oct. 27.",
-      "published": "2026-10-30T13:45:41+00:00",
-      "fetched": "2026-10-30T17:18:06.266905+00:00"
     }
   ]
 }
