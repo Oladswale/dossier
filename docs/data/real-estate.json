@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-07T03:23:25.726654+00:00",
+  "updated": "2026-11-07T11:58:22.893820+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2ec15821a7ac434b",
+      "title": "‘We Used House-Sitting To Plan Our Cross-Country Move—Until Life Got In the Way’",
+      "link": "https://www.realtor.com/news/first-person/house-sitting-brooklyn-ny-cross-country-move/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Rebecca Dharmapalan and her partner, from California, turned to a house-sitting platform to figure out where they would like to live next.",
+      "published": "2026-11-07T11:30:00+00:00",
+      "fetched": "2026-11-07T11:58:22.893487+00:00"
+    },
+    {
+      "id": "053f086485f5ce58",
+      "title": "Ryan Serhant Reveals the Turning Point That Made Him a Real Estate Star—and How He Thinks Agents Can Cash In on AI",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/ryan-serhant-turning-point-real-estate-career-agents-ai/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "While speaking at NAR NXT 2026 in New Orleans, Serhant reflected on his career-changing break and how real estate agents can use AI.",
+      "published": "2026-11-06T21:59:50+00:00",
+      "fetched": "2026-11-07T11:58:22.893509+00:00"
+    },
     {
       "id": "c1be0c01865b7189",
       "title": "Ryan Serhant Reveals the Turning Point That Made Him a Real Estate Star—and How He Thinks Agents Can Cash in On AI",
@@ -1482,26 +1502,6 @@
       "summary": "Houston leads the nation in millionaire-renter growth, showing how abundant housing can turn renting into a luxury choice.",
       "published": "2026-10-30T15:58:18+00:00",
       "fetched": "2026-10-30T17:18:06.266819+00:00"
-    },
-    {
-      "id": "cb4c823b5bbcf23c",
-      "title": "5 Homes With Income-Generating ADUs Under $500K",
-      "link": "https://www.realtor.com/news/unique-homes/5-homes-with-income-generating-adus-under-500k/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Looking for rental income or multigenerational space? Tour five affordable homes with separate guesthouses and ADUs, each for under $500K.",
-      "published": "2026-10-30T14:30:00+00:00",
-      "fetched": "2026-10-30T17:18:06.266844+00:00"
-    },
-    {
-      "id": "b14e5ff553520a10",
-      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 7.24% Rate",
-      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-october-29/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage rates fell again for the second time in two months. But how long will the decline last—and is it enough for buyers to start buying?",
-      "published": "2026-10-30T14:04:00+00:00",
-      "fetched": "2026-10-30T17:18:06.266877+00:00"
     }
   ]
 }
