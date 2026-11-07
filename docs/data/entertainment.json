@@ -1,8 +1,78 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-07T17:19:03.786786+00:00",
+  "updated": "2026-11-07T21:07:45.298595+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e5bba1ea83711b32",
+      "title": "Trump Offers Press Secretary Role to UFC CEO Dana White, Asks That He Bring Assistants to ‘Defend Us Against the Lunatic Left’",
+      "link": "https://variety.com/2026/biz/news/trump-press-secretary-ufc-dana-white-1236942110/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "President Donald Trump has offered UFC President and CEO Dana White the White House press secretary role after Katie Zacharia was ousted in October. “I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States,” Trump wrote on Truth [ ]",
+      "published": "2026-11-07T19:52:53+00:00",
+      "fetched": "2026-11-07T21:07:44.932048+00:00"
+    },
+    {
+      "id": "8da3079700438588",
+      "title": "‘Full House’ Star Jodie Sweetin Says She Had ‘$190 in My Bank Account’ Before Filming ‘Fuller House’: ‘I Had to Borrow Money the First Week’",
+      "link": "https://variety.com/2026/tv/news/full-house-jodie-sweetin-fuller-house-1236942080/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jodie Sweetin, who first shot to fame as Stephanie Tanner on the beloved sitcom “Full House,” is opening up about her financial struggles over the years, particularly how close she came to running out of funds before returning to the show’s 2016 reboot, “Fuller House.” “I had to borrow money the first week I was [ ]",
+      "published": "2026-11-07T19:01:13+00:00",
+      "fetched": "2026-11-07T21:07:44.932095+00:00"
+    },
+    {
+      "id": "ed6fa37026c7ca23",
+      "title": "Keira Knightley and ‘Black Doves’ Creator Joe Barton Why Helen Should Have Been the One to Kill [SPOILER], That Oner and Hopes for Season 3",
+      "link": "https://variety.com/2026/tv/global/keira-knightley-black-doves-creator-joe-barton-dani-death-season-3-1236941609/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This article contains major spoilers for “Black Doves Season 2, now streaming on Netflix. Keira Knightley is back as super spy Helen Webb in Season 2 of “Black Doves,” alongside Ben Whishaw as her troubled colleague Sam Young and Sarah Lancashire as her stoic spymaster Reed. The show, created by Joe Barton, returns [ ]",
+      "published": "2026-11-07T19:00:00+00:00",
+      "fetched": "2026-11-07T21:07:44.932137+00:00"
+    },
+    {
+      "id": "eb27b466e69ff86f",
+      "title": "Oscar Short Film Race Spotlights Bold Stories, New Animation Tech and Creative Risk-Taking",
+      "link": "https://variety.com/2026/awards/focus/oscar-short-film-race-1236939503/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Some of the most compelling stories in contention for the Academy Awards aren’t unfolding across two or three hours. They’re being told in a fraction of that time. The race in the short film categories is taking shape, offering a showcase for emerging filmmakers, well-known talents and storytellers pushing the boundaries of what can be [ ]",
+      "published": "2026-11-07T18:30:00+00:00",
+      "fetched": "2026-11-07T21:07:44.932174+00:00"
+    },
+    {
+      "id": "ca8e5db91cbdaf49",
+      "title": "Meet the Vigodas: Conan O’Brien Plays Out His Teenage Dream With L.A. Cover Band",
+      "link": "https://www.rollingstone.com/music/music-features/conan-obrien-the-vigodas-interview-los-angeles-performance-1235654174/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Late-night legend and prolific podcaster talks rockabilly, kooky backstages, and a lifelong dream come true",
+      "published": "2026-11-07T18:16:24+00:00",
+      "fetched": "2026-11-07T21:07:45.116218+00:00"
+    },
+    {
+      "id": "4a2e7054fb1bd73f",
+      "title": "Richard Lloyd, Television’s Fiery and Fluent Guitarist, Dies at 75",
+      "link": "https://variety.com/2026/music/news/richard-lloyd-dead-television-guitarist-1236942055/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Richard Lloyd, whose fluent and fiery guitar work was a vital element in the influential 1970s-era New York City band Television, died on Saturday at his home in Chattanooga, Tenn., according to the New York Times. The cause of death was bile duct cancer; he was 75. While commonly associated with the punk rock movement [ ]",
+      "published": "2026-11-07T18:06:47+00:00",
+      "fetched": "2026-11-07T21:07:44.932207+00:00"
+    },
+    {
+      "id": "82370e6d841ed22e",
+      "title": "What’s It Like to Write Songs With Madonna, McCartney, and the Stones?",
+      "link": "https://www.rollingstone.com/music/music-features/michael-stipe-madonna-mccartney-stones-andrew-watt-1235654076/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Superproducer Andrew Watt goes deep on his star-studded year, from Lady Gaga to Michael Stipe",
+      "published": "2026-11-07T17:54:25+00:00",
+      "fetched": "2026-11-07T21:07:45.116245+00:00"
+    },
     {
       "id": "46db0aed6bb4a805",
       "title": "‘Godzilla Minus Zero’ Director Takashi Yamazaki Dreamed of Seeing His Hometown Destroyed by King Ghidorah. He Finally Made It Happen.",
@@ -1432,76 +1502,6 @@
       "summary": "New York’s right-wing social scene is determined to keep the party going",
       "published": "2026-11-04T19:04:50+00:00",
       "fetched": "2026-11-04T22:56:42.078162+00:00"
-    },
-    {
-      "id": "ed77d2dddff52c95",
-      "title": "Sky’s ITV Acquisition Hits Roadblock as Culture Secretary Issues Public Interest Intervention Notice",
-      "link": "https://variety.com/2026/tv/global/skys-itv-culture-secretary-public-interest-notice-1236939191/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sky s acquisition of ITV has hit a roadblock as the U.K. culture secretary Lisa Nandy has officially issued an intervention notice. The issuing of a public interest intervention notice means the U.K.’s Competition and Markets Authority and media regulatory body Ofcom will both investigate the proposed acquisition.",
-      "published": "2026-11-04T13:07:20+00:00",
-      "fetched": "2026-11-04T13:20:43.948043+00:00"
-    },
-    {
-      "id": "e131a75f8c04fdfb",
-      "title": "‘Harry Potter’ Store Opening in London Draws Trans Rights Protesters Amid J.K. Rowling Controversy",
-      "link": "https://variety.com/2026/film/global/harry-potter-store-opening-trans-rights-protesters-london-1236939173/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Transgender rights protesters gathered outside the opening of London s new Harry Potter flagship store on Wednesday, as controversy surrounding author J.K. Rowling s views on gender identity continues to follow the franchise. A group of six demonstrators assembled outside the shop on Oxford Street, carrying signs reading protect trans lives and stop funding trans erasure, as [ ]",
-      "published": "2026-11-04T12:42:10+00:00",
-      "fetched": "2026-11-04T13:20:43.948080+00:00"
-    },
-    {
-      "id": "7c36a1513178c459",
-      "title": "Abdul El-Sayed Wins in Michigan, Becomes First Muslim Elected to Senate",
-      "link": "https://www.rollingstone.com/politics/politics-news/abdul-el-sayed-defeats-mike-rogers-michigan-senate-race-1235652355/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The physician overcome a barrage of Islamophobic hate from Donald Trump and his opponent Mike Rogers",
-      "published": "2026-11-04T11:21:12+00:00",
-      "fetched": "2026-11-04T13:20:44.154898+00:00"
-    },
-    {
-      "id": "d2b1cc02e21af044",
-      "title": "Jessica Rothe SXSW Sci-Fi Thriller ‘Imposters’ Sells to Brainstorm Media for U.S., Racks Up International Deals Ahead of AFM (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/jessica-rothe-sxsw-sci-fi-thriller-imposters-us-distribution-1236938971/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Imposters,” the SXSW 2026 sci-fi thriller from first-time feature director Caleb Phillips, has landed U.S. distribution with Brainstorm Media, which plans to open the film theatrically in early 2027. Jessica Rothe (“River”), Barnett (“Russian Doll”) and Vazquez (“Severance”) lead the cast.",
-      "published": "2026-11-04T11:00:00+00:00",
-      "fetched": "2026-11-04T13:20:43.948113+00:00"
-    },
-    {
-      "id": "0df276a9ab75cc76",
-      "title": "Hannah Einbinder Breaks Out Haley Stevens Impression After Abdul El-Sayed Michigan Victory",
-      "link": "https://variety.com/2026/politics/news/hannah-einbinder-haley-stevens-impression-midterm-election-1236939138/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Hannah Einbinder made good on her promise to debut an impression of Michigan Rep. Haley Stevens if Abdul El-Sayed won the state’s Senate race on Tuesday night. Watching the midterm results roll in from a bar, the Hacks” star promptly posted a video of her Stevens impression following El-Sayed’s victory.",
-      "published": "2026-11-04T10:49:43+00:00",
-      "fetched": "2026-11-04T13:20:43.948142+00:00"
-    },
-    {
-      "id": "72e554b5f834168f",
-      "title": "Milcho Manchevski’s ‘Sister Brother Manhole Cover’ Wins Top Prize at Tokyo Film Festival",
-      "link": "https://variety.com/2026/film/festivals/sister-brother-manhole-cover-top-prize-tokyo-film-festival-1236938999/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Milcho Manchevski’s “Sister Brother Manhole Cover,” a comic allegory about two siblings who strip scrap metal from the streets of Skopje, won the Tokyo Grand Prix at the 39th Tokyo International Film Festival on Wednesday. A steady drizzle failed to dampen the spirits of a full house at Hulic Hall for closing night, a gentler [ ]",
-      "published": "2026-11-04T09:48:37+00:00",
-      "fetched": "2026-11-04T13:20:43.948169+00:00"
-    },
-    {
-      "id": "33cab179f2d649f1",
-      "title": "Quentin Tarantino Thought He Was ‘Letting Down’ Brad Pitt by Not Directing Cliff Booth Sequel: ‘I Felt Bad About That’",
-      "link": "https://variety.com/2026/film/news/quentin-tarantino-letting-down-brad-pitt-cliff-booth-sequel-1236939103/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Quentin Tarantino has admitted that Brad Pitt was on his mind when he stepped away from directing his sequel to Once Upon a Time in Hollywood. “[Pitt] was the one I felt I was really letting down when I didn’t do it,” Tarantino told Empire. “I felt bad about that.” Pitt landed a best supporting [ ]",
-      "published": "2026-11-04T09:37:11+00:00",
-      "fetched": "2026-11-04T13:20:43.948198+00:00"
     }
   ]
 }
