@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-07T21:07:46.910519+00:00",
+  "updated": "2026-11-08T02:52:11.377688+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ad31a661837ee9a4",
+      "title": "‘The American Dream Has an Address’—and Both Parties Are on Notice, Strategists Say",
+      "link": "https://www.realtor.com/news/trends/brazile-singleton-housing-affordability-2026-midterms/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "After Democrats' midterm sweep, Donna Brazile and Shermichael Singleton warn both parties face a housing affordability reckoning.",
+      "published": "2026-11-07T21:05:15+00:00",
+      "fetched": "2026-11-08T02:52:11.377200+00:00"
+    },
     {
       "id": "84215469d50cc0d9",
       "title": "Reba McEntire Reveals Dolly Parton’s Touching On-Set Gesture: ‘She Didn’t Have To Do That’",
@@ -1492,16 +1502,6 @@
       "summary": "Two friends decided to turn a $4,000 boat into a fully livable tiny boat at sea—and now they're selling it for a $100,000 profit.",
       "published": "2026-10-30T17:47:36+00:00",
       "fetched": "2026-10-30T21:43:29.943478+00:00"
-    },
-    {
-      "id": "14621604bb3162f9",
-      "title": "Tarek El Moussa Didn’t Only Buy His Teen a $150K BMW—He Invested in Her Real Estate Future Too",
-      "link": "https://www.realtor.com/news/reality-tv/tarek-el-moussa-daughter-bmw-5x-stocks-real-estate-gifts/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The HGTV star claims the flashy gift was \"well deserved\" and noted that it's not the only pricey investment he's made for his 16-year-old.",
-      "published": "2026-10-30T16:57:18+00:00",
-      "fetched": "2026-10-30T17:18:06.266695+00:00"
     }
   ]
 }
