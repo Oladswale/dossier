@@ -1,8 +1,148 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-08T02:52:09.729544+00:00",
+  "updated": "2026-11-08T12:17:21.265451+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "006fce87806d5d58",
+      "title": "Taiwan’s Content Agency and Partners Put $180 Million Into 27 Projects, From an ‘Our Blues’ Remake to an Off-Broadway Musical",
+      "link": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Taiwan Creative Content Agency (TAICCA) and its partners have invested in 27 projects, backed by NT$5.64 billion ($180 million) in total, including NT$740 million ($23.7 million) from the agency and NT$4.9 billion ($157 million) in private capital, TAICCA chair Sue Wang said at the Taiwan Creative Content Fest (TCCF). TAICCA brought together its four [ ]",
+      "published": "2026-11-08T09:04:48+00:00",
+      "fetched": "2026-11-08T12:17:20.970921+00:00"
+    },
+    {
+      "id": "1c164b9516815692",
+      "title": "Indonesian Horror Hit ‘Pabrik Gula’ Gets 2028 Sequel as MD Entertainment Lines Up Three Imax Films",
+      "link": "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Indonesian studio giant MD Entertainment will release a sequel to its 2025 horror smash “Pabrik Gula” in early 2028 and has three Imax films planned for 2027, Astrid Wienardi, the company’s head of content licensing and global business, said Sunday at Taiwan Creative Content Fest (TCCF) in Taipei. Wienardi delivered a presentation on how MD [ ]",
+      "published": "2026-11-08T08:11:55+00:00",
+      "fetched": "2026-11-08T12:17:20.970984+00:00"
+    },
+    {
+      "id": "c473a1e992da2367",
+      "title": "‘SNL’: Watch The Strokes Perform ‘Lonely in the Future,’ ‘Going Shopping’",
+      "link": "https://www.rollingstone.com/music/music-news/snl-watch-the-strokes-perform-lonely-future-going-shopping-1235654344/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Both songs are from the New York rock band's latest album, Reality Awaits",
+      "published": "2026-11-08T07:40:07+00:00",
+      "fetched": "2026-11-08T12:17:21.175628+00:00"
+    },
+    {
+      "id": "1c29a022e79d98a5",
+      "title": "‘SNL’: Druski Impersonates ‘Crazy’ Elizabeth Holmes in Meta-Documentary",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The comedian unveils a new impression in his SNL debut",
+      "published": "2026-11-08T07:03:49+00:00",
+      "fetched": "2026-11-08T12:17:21.175664+00:00"
+    },
+    {
+      "id": "b4728a6a88415f03",
+      "title": "‘SNL’ Weekend Update Drags Trump Over Midterm Drubbing, Stephen Miller Promotion",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-drags-trump-midterm-drubbing-stephen-miller-promotion-1235654378/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"Going from Wiles to Miller is like trying to get through a dinner party by switching from wine to meth,\" Colin Jost jokes",
+      "published": "2026-11-08T06:04:31+00:00",
+      "fetched": "2026-11-08T12:17:21.175696+00:00"
+    },
+    {
+      "id": "1eca5833bc20eed7",
+      "title": "‘SNL’ Weekend Update Brutally Roasts Elon Musk Over ‘Epic’ Midterms Defeat",
+      "link": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "An unhinged Elon Musk hit the Saturday Night Live Weekend Update desk this week to address the outcome of Tuesday s midterm elections — and Musk, as played by SNL featured player Jeremy Culhane, didn t quite know how to address it. The real Musk, of course, spent nearly $500 million on Republican candidates, especially in his [ ]",
+      "published": "2026-11-08T05:57:06+00:00",
+      "fetched": "2026-11-08T12:17:20.971040+00:00"
+    },
+    {
+      "id": "608228ed60324569",
+      "title": "‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody",
+      "link": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Following a busy cold open that saw Texas Senator-elect James Talarico overshadow Donald Trump and a monologue crashed by his future movie co-star Emma Stone, “SNL” host Druski — who made history as the first digital content creator to preside over the show (who had yet to achieve crossover success, a la Issa Rae and [ ]",
+      "published": "2026-11-08T05:29:04+00:00",
+      "fetched": "2026-11-08T12:17:20.971089+00:00"
+    },
+    {
+      "id": "3a9d24e4f28208c7",
+      "title": "‘SNL’ Cold Open: James Talarico Crashes Trump’s Midterm Postmortem",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-james-talarico-crashes-trump-midterm-postmortem-1235654381/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The incoming Texas lawmaker embraces Trump's insulting nickname after his resounding win",
+      "published": "2026-11-08T05:13:38+00:00",
+      "fetched": "2026-11-08T12:17:21.175722+00:00"
+    },
+    {
+      "id": "c9df5bac93dff90d",
+      "title": "Emma Stone Ambushes Druski’s ‘SNL’ Monologue in Adorable Fashion",
+      "link": "https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "When Druski was announced as a future host of “Saturday Night Live,” it was its most interesting move in quite some time. The sketch-comedy show had tapped its first exclusively digital creator (who hadn’t experienced crossover success, a la Issa Rae or Quinta Brinson) to serve as its master of ceremonies, marking its first major [ ]",
+      "published": "2026-11-08T05:00:40+00:00",
+      "fetched": "2026-11-08T12:17:20.971138+00:00"
+    },
+    {
+      "id": "693881d3091ad520",
+      "title": "James Talarico Crashes ‘SNL’ Cold Open: ‘I’m the Guy Who’s Been Texting You Every Day Asking for $5’",
+      "link": "https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Newly elected Texas Sen. James Talarico crashed this week’s “Saturday Night Live” cold open in order to ask the question on everyone’s mind: How many more of these “Donald-Trump-freezes-the-action-to-ramble” cold opens is “SNL” going to do? Responded “Donald Trump” (James Austin Johnson): “Infinity!",
+      "published": "2026-11-08T04:53:48+00:00",
+      "fetched": "2026-11-08T12:17:20.971192+00:00"
+    },
+    {
+      "id": "8aaa5d54f4cdffea",
+      "title": "Former NCT Member Lucas Wong Makes Acting Debut in Taiwanese Folk-Music Drama ‘A Time’ With Jerry Yan, Ning Chang at Taiwan Creative Content Fest",
+      "link": "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Taiwanese director Tsao Jui-yuan unveiled his new drama series “A Time,” rooted in Taiwan’s campus folk music movement of the 1970s, at the Taiwan Creative Content Fest (TCCF). Tsao, known for “Crystal Boys,” “A Touch of Green” and “Seqalu: Formosa 1867,” spent eight years developing the project, which traces four decades of friendship, love and [ ]",
+      "published": "2026-11-08T04:47:28+00:00",
+      "fetched": "2026-11-08T12:17:20.971246+00:00"
+    },
+    {
+      "id": "4697842b0ab7a5bb",
+      "title": "‘The Undertaker’ Director Thiti Srinuan Reveals He Defecated on Camera for Real as an Actor in Thailand’s Taibaan Universe",
+      "link": "https://variety.com/2026/film/markets-festivals/undertaker-director-reveals-defecated-on-camera-for-real-1236942252/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Thiti “Tongte” Srinuan, director of Thai blockbuster “The Undertaker,” put up a photo of himself defecating on camera for real during a session at Taiwan Creative Content Fest in Taipei. The scene dates from his days as a supporting actor with Taibaan Studio. “I was a supporting actor, and I played a crazy person,” Srinuan [ ]",
+      "published": "2026-11-08T04:32:51+00:00",
+      "fetched": "2026-11-08T12:17:20.971297+00:00"
+    },
+    {
+      "id": "d8e02803fb943441",
+      "title": "Cristian Mungiu’s Palme d’Or Winner ‘Fjord’ Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding",
+      "link": "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Cristian Mungiu’s Palme d’Or winner “Fjord” took the audience award at Jakarta World Cinema, which wrapped with Banjong Pisanthanakun’s Thai horror film “Inherit” and handed three Indonesian short filmmakers funding for their first features. “Fjord,” which also opened the festival, won the Jakarta World Cinema Audience Award, the event’s only feature prize. The closing ceremony [ ]",
+      "published": "2026-11-08T03:50:26+00:00",
+      "fetched": "2026-11-08T12:17:20.971349+00:00"
+    },
+    {
+      "id": "0a028146401e57c4",
+      "title": "‘The Invisible Guest’ Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About ‘How to Fight Back’",
+      "link": "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Indonesian director Danial Rifki’s remake of Spanish thriller “The Invisible Guest,” which he says was completed in 2023 before exclusivity clauses with HBO held up its release, finally reached the big screen at Jakarta World Cinema. It is one of three Rifki films at the festival. The Falcon Pictures production, which reworks Oriol Paulo’s 2016 [ ]",
+      "published": "2026-11-08T03:21:16+00:00",
+      "fetched": "2026-11-08T12:17:20.971401+00:00"
+    },
     {
       "id": "d81f0a2752bed094",
       "title": "Murder-House Impostor Thriller ‘The Stand-In Family’ Wins Mirror Fiction Award at Taiwan Creative Content Fest",
@@ -1362,146 +1502,6 @@
       "summary": "The Democratic rout in the midterms was a referendum on President Trump, prices and the war in Iran. But it will have impacts that go well beyond the determinative issues — touching topics of key interest to Hollywood studios, broadcasters and their teams of government relations professionals. Here s a quick rundown of some of the [ ]",
       "published": "2026-11-05T02:30:55+00:00",
       "fetched": "2026-11-05T03:52:07.681524+00:00"
-    },
-    {
-      "id": "5b1bc8c913181ee6",
-      "title": "Pixar Names Jonathan Garson as President; Jim Morris Moves to Emeritus Role",
-      "link": "https://variety.com/2026/film/news/pixar-jim-morris-president-emeritus-jonathan-garson-president-1236939816/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Pixar Animation Studios is set to undergo a leadership change, After serving as president for 12 of his 21 years at the studio, Jim Morris will transition to a president emeritus role. Jonathan Garson will become the studio s new president, partnering with Chief Creative Officer Pete Docter. In his new role as president, Garson will [ ]",
-      "published": "2026-11-05T00:45:00+00:00",
-      "fetched": "2026-11-05T03:52:07.681572+00:00"
-    },
-    {
-      "id": "17078f85b0ca318a",
-      "title": "‘The Pitt’ and ‘ER’ Are Similar Enough to Allow Crichton Suit, Appeals Court Rules",
-      "link": "https://variety.com/2026/tv/news/the-pitt-noah-wyle-crichton-lawsuit-1236939852/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "An appeals court ruled on Wednesday that The Pitt is similar enough to ER to allow Michael Crichton s widow to pursue a lawsuit over the Emmy-winning show. In a unanimous opinion, a three-judge panel denied an appeal from Warner Bros. Television, which has argued that the two shows are unrelated.",
-      "published": "2026-11-05T00:27:11+00:00",
-      "fetched": "2026-11-05T03:52:07.681623+00:00"
-    },
-    {
-      "id": "cb805a125f39cf30",
-      "title": "‘The Secret Lives of Mormon Wives’ Star Jen Affleck Files for Divorce from Zac Affleck",
-      "link": "https://variety.com/2026/tv/news/the-secret-lives-of-mormon-wives-jen-affleck-divorce-zac-affleck-1236939836/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The Secret Lives of Mormon Wives star Jen Affleck filed for divorce from Zac Affleck on Tuesday after seven years of marriage, according to court documents obtained by People. The couple first met in 2018 and got engaged and married the following year. They share three children, Nora, Luca and Penelope, and are currently expecting [ ]",
-      "published": "2026-11-04T23:25:40+00:00",
-      "fetched": "2026-11-05T03:52:07.681670+00:00"
-    },
-    {
-      "id": "b357d871ce78305d",
-      "title": "‘Logan’ Star Dafne Keen Says ‘I Was Offered Cocaine’ as an 11-Year-Old in Hollywood and Hugh Jackman ‘Made Sure No One Abused My Hours’ on Set",
-      "link": "https://variety.com/2026/film/news/logan-dafne-keen-cocaine-11-years-old-hollywood-1236939718/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dafne Keen revealed on the Inside of You podcast that she was offered cocaine at Hollywood parties when she was a young teenager (via Entertainment Weekly). Now 21 years old, Keen got her breakthrough in the industry by playing the young mutant Laura/X-23 opposite Hugh Jackman in 2017 s Logan. She shot the film when she [ ]",
-      "published": "2026-11-04T23:10:58+00:00",
-      "fetched": "2026-11-05T03:52:07.681723+00:00"
-    },
-    {
-      "id": "145ccb0f76ad25a9",
-      "title": "‘How Are You Supposed to Have Sex with a Wicker Dick? I Wanted to See’",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/wicker-4dx-showings-1235651581/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Fans have flocked to 4DX showings of the Olivia Colman-Alexander Skarsgård fantasy romance Wicker . We asked them why",
-      "published": "2026-11-04T22:13:44+00:00",
-      "fetched": "2026-11-04T22:56:42.077916+00:00"
-    },
-    {
-      "id": "61b74c13becfa677",
-      "title": "The Chicks Recall ‘the Incident’ and Compare Bush to Trump in ‘Taking the Long Way’ 20th Anniversary Shows at L.A.’s Dolby: Concert Review",
-      "link": "https://variety.com/2026/music/concert-reviews/chicks-taking-long-way-20th-anniversary-tour-concert-review-1236938619/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Natalie Maines does not normally talk a great deal in concert. This may sound counterintuitive to say, since objectively there is no person in music history more famous for talking in concert than Natalie Maines. But she has always been more of a quality than quantity gal when it comes to that, so her legendary [ ]",
-      "published": "2026-11-04T22:08:16+00:00",
-      "fetched": "2026-11-05T03:52:07.681769+00:00"
-    },
-    {
-      "id": "e353ed61e348c91f",
-      "title": "The Chicks Recall ‘the Incident’ and Compare Bush to Trump in ‘Taking the Long Way’ 20th Anniversary Shows: Concert Review",
-      "link": "https://variety.com/2026/music/concert-reviews/chicks-taking-long-way-20th-anniversary-tour-concert-review-1236938619/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Natalie Maines does not normally talk a great deal in concert. This may sound counterintuitive to say, since objectively there is no person in music history more famous for talking in concert than Natalie Maines. But she has always been more of a quality than quantity gal when it comes to that, so her legendary [ ]",
-      "published": "2026-11-04T22:08:16+00:00",
-      "fetched": "2026-11-04T22:56:42.028370+00:00"
-    },
-    {
-      "id": "5f0a6d7006173237",
-      "title": "AMC Theatres Sets All-Time Record for Quarterly Revenue, Thanks to ‘Spider-Man: Brand New Day’ and ‘The Odyssey’",
-      "link": "https://variety.com/2026/film/box-office/amc-theatres-record-quarterly-revenue-spider-man-brand-new-day-the-odyssey-1236939750/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The blockbuster success of Spider-Man: Brand New Day and The Odyssey fueled a record-breaking quarter for AMC Theatres. Total revenue for the three-month period ended Sept. 30 hit $1.71 billion, up 31.6% from $1.30 billion a year earlier.",
-      "published": "2026-11-04T22:07:12+00:00",
-      "fetched": "2026-11-04T22:56:42.028422+00:00"
-    },
-    {
-      "id": "4a7d324eb5a2ee4c",
-      "title": "Scarlett Johansson Says ‘The Batman 2’ Role Was ‘Very Hard to Figure Out’: ‘It Gave Me a Lot of Existential Angst’",
-      "link": "https://variety.com/2026/film/news/scarlett-johansson-the-batman-2-role-hard-figure-out-1236939769/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Scarlett Johansson isn t new to the superhero genre, but her role in “The Batman: Part II still proved to be its own challenge. Johansson told “Entertainment Tonight” that her upcoming role in the Robert Pattinson-led feature, which hasn t been revealed, pushed her outside her comfort zone and spurred “a lot of existential angst, for some reason.” [ ]",
-      "published": "2026-11-04T22:06:22+00:00",
-      "fetched": "2026-11-04T22:56:42.028474+00:00"
-    },
-    {
-      "id": "3806c8158aea9c2d",
-      "title": "Lili Reinhart, Danny Ramirez, Suki Waterhouse, Mark Duplass and Lukas Gage Team for Horror Movie ‘Violet’ From ‘Verity’ Writer (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/lili-reinhart-danny-ramirez-suki-waterhouse-horror-violet-1236939652/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Lili Reinhart, Danny Ramirez, Suki Waterhouse, Mark Duplass and Lukas Gage are teaming for Violet, a psychosexual horror that looks likely to be one of the hotter packages going into the American Film Market. The film is being directed by acclaimed genre filmmaker Patrick Brice, who is behind the Creep franchise. It was written by [ ]",
-      "published": "2026-11-04T22:00:00+00:00",
-      "fetched": "2026-11-04T22:56:42.028518+00:00"
-    },
-    {
-      "id": "36b0d5290030140f",
-      "title": "Abdul El-Sayed Embraced His Swiftie Status All the Way to the U.S. Senate",
-      "link": "https://www.rollingstone.com/music/music-news/abdul-el-sayed-taylor-swift-1235652663/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The physician, who has spoken about his respect for Swift, just won the heated race for Michigan's open Senate seat",
-      "published": "2026-11-04T21:43:39+00:00",
-      "fetched": "2026-11-04T22:56:42.077947+00:00"
-    },
-    {
-      "id": "f80122be03f08254",
-      "title": "UFC’s Event Sellout Spree Powers TKO Q3 Earnings",
-      "link": "https://variety.com/2026/biz/news/ufc-apex-tko-wwe-img-1236939730/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "UFC had the wind at its back in the third quarter with a string of sellout events that pushed revenue and adjusted earnings for the league s parent company, TKO, to new heights. UFC delivered double-digit gains in the quarter across all key measures. Revenue climbed 60% year-over-year to $519.2 million, thanks to a $132.3 million [ ]",
-      "published": "2026-11-04T21:38:37+00:00",
-      "fetched": "2026-11-04T22:56:42.028556+00:00"
-    },
-    {
-      "id": "e4f8f88cd3bd9161",
-      "title": "‘Dune 3’ Cast Says the Movie Takes ‘Departures’ From the Books, but ‘You’re Crazy If You’re Going to Pick Fault’ With It",
-      "link": "https://variety.com/2026/film/news/dune-3-changes-books-cast-1236939217/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The cast of Denis Villeneuve s Dune 3 is getting the word out early: There will be major departures from Frank Herbert s literary franchise in the upcoming film, which is set to pull heavily from Herbert s 1969 sequel novel Dune Messiah. There’s a lot in this film that is very true to the source material, and [ ]",
-      "published": "2026-11-04T21:22:34+00:00",
-      "fetched": "2026-11-04T22:56:42.028605+00:00"
-    },
-    {
-      "id": "17ac9fd4f7c345e2",
-      "title": "Box Office: ‘Godzilla Minus Zero’ to Lead With $30 Million Opening Weekend, ‘Cat in the Hat’ Aims for $20 Million Debut",
-      "link": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Godzilla Minus Zero should stomp to the top of box office charts, with the Kaiju sequel on track to earn a strong $30 million from 3,254 North American theaters in its opening weekend. The action adventure will tower over fellow newcomers including Warner Bros. Animation s The Cat in the Hat and Searchlight s dark buddy comedy [ ]",
-      "published": "2026-11-04T21:12:24+00:00",
-      "fetched": "2026-11-04T22:56:42.028649+00:00"
     }
   ]
 }
