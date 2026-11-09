@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-11-08T21:24:18.369337+00:00",
+  "updated": "2026-11-09T03:11:41.502860+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c72b8c5de00d38a0",
+      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "published": "2026-11-09T00:30:00+00:00",
+      "fetched": "2026-11-09T03:11:39.959353+00:00"
+    },
+    {
+      "id": "aa1e887328e2d707",
+      "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+      "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
+      "published": "2026-11-08T23:05:00+00:00",
+      "fetched": "2026-11-09T03:11:39.959449+00:00"
+    },
     {
       "id": "222ab2f46a95c1f1",
       "title": "26 Nigerian states increased spending faster than revenue over two years – World Bank",
@@ -1482,26 +1502,6 @@
       "summary": "Alicia Levine, of BNY’s wealth management business, said markets have not priced in the possibility of the war in Iran lasting for a long time.",
       "published": "2026-11-05T13:07:00+00:00",
       "fetched": "2026-11-05T13:33:49.005479+00:00"
-    },
-    {
-      "id": "5adbb7578856794a",
-      "title": "How a car-importing problem became a cross-border payments business",
-      "link": "https://techcabal.com/2026/11/05/clea-cross-border-vendor-payments/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Clea is a cross-border payments platform to serve African businesses importing goods from overseas.",
-      "published": "2026-11-05T13:04:37+00:00",
-      "fetched": "2026-11-05T13:33:50.203067+00:00"
-    },
-    {
-      "id": "cf93bf1f99db08c2",
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "published": "2026-11-05T13:01:00+00:00",
-      "fetched": "2026-11-05T13:33:49.005507+00:00"
     }
   ]
 }
