@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-09T03:11:55.588813+00:00",
+  "updated": "2026-11-09T14:28:44.655243+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "de7ad59e245a6b14",
+      "title": "Explore the Reading List for Harvard’s Humanities 10: The “Brutal” Humanities Class That’s Suddenly in High Demand",
+      "link": "https://www.openculture.com/2026/11/explore-the-reading-list-for-harvards-humanities-10.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "There are plenty of good reasons a student might want to go to Harvard. One is its long history, at least by American standards; another is the formidable accomplishments of the professors hired to teach there. But on some level, a teenager looking to come up in the world — or, in many cases, parents [ ]",
+      "published": "2026-11-09T10:00:07+00:00",
+      "fetched": "2026-11-09T14:28:44.655005+00:00"
+    },
+    {
+      "id": "c5627480b885bd30",
+      "title": "“Don’t Try”: Charles Bukowski’s Concise Philosophy of Art and Life",
+      "link": "https://www.openculture.com/2026/11/dont-try-charles-bukowskis-concise-philosophy-of-art-and-life.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In 1994, Charles Bukowski was buried in a Los Angeles cemetery, beneath a simple gravestone. The stone memorializes the poet’s name. It recites his dates of birth and death, but adds the symbol of a boxer between the two, suggesting his life was a struggle.",
+      "published": "2026-11-09T09:03:39+00:00",
+      "fetched": "2026-11-09T14:28:44.655051+00:00"
+    },
+    {
+      "id": "f5cf087497873d8a",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "published": "2026-11-09T05:00:00+00:00",
+      "fetched": "2026-11-09T14:28:43.798218+00:00"
+    },
+    {
+      "id": "ac43b5060a01953c",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "link": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "published": "2026-11-09T05:00:00+00:00",
+      "fetched": "2026-11-09T14:28:43.798244+00:00"
+    },
     {
       "id": "d3b80d9eba4da6e3",
       "title": "Fabric molds could bring material-saving concrete beams within reach",
@@ -1462,46 +1502,6 @@
       "summary": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed.",
       "published": "2026-10-02T17:00:00+00:00",
       "fetched": "2026-10-02T21:28:46.282839+00:00"
-    },
-    {
-      "id": "14a9b5c0f6e20a00",
-      "title": "The next generation’s guide to the new space economy",
-      "link": "https://news.mit.edu/2026/guide-to-new-space-economy-1002",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An industry report published by students in an MIT aerospace entrepreneurship class lays out guidance for aspiring space leaders and investors.",
-      "published": "2026-10-02T14:50:00+00:00",
-      "fetched": "2026-10-02T16:53:06.873190+00:00"
-    },
-    {
-      "id": "0d29d7838a52d50a",
-      "title": "3 Questions: A new resource to empower young entrepreneurs",
-      "link": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
-      "published": "2026-10-02T04:00:00+00:00",
-      "fetched": "2026-10-02T11:26:15.037410+00:00"
-    },
-    {
-      "id": "61e6f815d6bb3c5e",
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Wristband device from Encora Therapeutics started as a project in 2.009, MIT’s iconic product-design class.",
-      "published": "2026-10-02T04:00:00+00:00",
-      "fetched": "2026-10-02T11:26:15.037438+00:00"
-    },
-    {
-      "id": "f324607f9fa02ee1",
-      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-      "link": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
-      "published": "2026-10-01T22:00:00+00:00",
-      "fetched": "2026-10-02T02:43:16.108530+00:00"
     }
   ]
 }
