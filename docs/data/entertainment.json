@@ -1,8 +1,208 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-10T13:50:27.118758+00:00",
+  "updated": "2026-11-10T22:35:56.435195+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9fc1fbd68b215629",
+      "title": "DC Studios Exit: James Gunn and Peter Safran Spent Big, Lost Money and Didn’t Hook Audiences",
+      "link": "https://variety.com/2026/film/news/james-gunn-exits-dc-studios-losing-money-1236944392/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "After Superman landed in theaters last summer, former Warner Bros. Discovery CEO David Zaslav was ready to pop Champagne. Although the movie had only been playing on the big screen for three days, he touted the bold 10-year plan of DC Studios co-chiefs James Gunn and Peter Safran and promised the DC vision is clear [ ]",
+      "published": "2026-11-10T22:30:00+00:00",
+      "fetched": "2026-11-10T22:35:56.183055+00:00"
+    },
+    {
+      "id": "9586783c27e0538d",
+      "title": "Ross Douthat’s ’60 Minutes’ Interview Gets Tackled By Football Comparisons",
+      "link": "https://variety.com/2026/tv/news/ross-douthats-60-minutes-trump-tackled-football-comparisons-1236944402/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Ross Douthat was dynamite. The ratings potentially less so. The new 60 Minutes correspondent garnered many huzzahs for his interlocution of President Donald Trump on the show s Sunday telecast, but viewership tied to the show fell notably from the previous week and from the year-earlier episode, both of which were boosted by NFL lead-ins.",
+      "published": "2026-11-10T22:29:33+00:00",
+      "fetched": "2026-11-10T22:35:56.183091+00:00"
+    },
+    {
+      "id": "0fa32e9ef388dec0",
+      "title": "JoBe Cerny, Voice of the Pillsbury Doughboy, Dies at 78",
+      "link": "https://variety.com/2026/tv/people-news/jobe-cerny-dead-pillsbury-doughboy-1236944411/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "JoBe Cerny, who voiced the giggling Pillsbury Doughboy character in recent years, died on Oct. 30. He was 78.",
+      "published": "2026-11-10T22:17:14+00:00",
+      "fetched": "2026-11-10T22:35:56.183117+00:00"
+    },
+    {
+      "id": "dd80771c8906d68f",
+      "title": "‘We Need to Bring Tom Cruise Home to Make Movies Here’: U.S. Film Incentive Takes Center Stage at AFM",
+      "link": "https://variety.com/2026/film/global/bring-tom-cruise-home-federal-film-incentive-afm-1236944222/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Tom Cruise may not have much of a presence at the American Film Market, more accustomed to selling movies with considerably lower budgets than those the star is used to. But on the opening day of the 2026 edition his name was casually dropped as part of a major pitch for the much-discussed federal tax [ ]",
+      "published": "2026-11-10T22:16:15+00:00",
+      "fetched": "2026-11-10T22:35:56.183142+00:00"
+    },
+    {
+      "id": "11e3c8d201d6daf4",
+      "title": "Ahead of the ‘Grand Theft Auto VI’ Release, Here’s Where to Buy the Sony PlayStation 5 Pro Online",
+      "link": "https://www.rollingstone.com/product-recommendations/electronics/how-to-buy-sony-playstation-5-pro-gaming-console-online-1235120812/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The best way to play GTA 6 is with the PS5 Pro, thanks to better 4K graphics, high quality 3D audio, and smoother motion",
+      "published": "2026-11-10T22:15:10+00:00",
+      "fetched": "2026-11-10T22:35:56.260405+00:00"
+    },
+    {
+      "id": "87420561cf489672",
+      "title": "‘The Peanut Butter Falcon’ Breakout Zack Gottsagen and Anna Enger Ritch to Star in ‘A Reason to Stay’ From Director Rippin Sindher (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/zack-gottsagen-anna-enger-ritch-a-reason-to-stay-1236944315/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Peanut Butter Falcon breakout Zack Gottsagen and S.W.A.T. star Anna Enger Ritch will star as brother and sister in A Reason to Stay, a new romantic comedy from Rippin Sindher. The film recently wrapped principal photography in Ohio.",
+      "published": "2026-11-10T21:26:49+00:00",
+      "fetched": "2026-11-10T22:35:56.183170+00:00"
+    },
+    {
+      "id": "d689274fbbfbc801",
+      "title": "Adobe Premiere Mobile App Launches Hundreds of Thousands of Tracks Licensed From UMG, WMG",
+      "link": "https://variety.com/2026/digital/news/adobe-premiere-mobile-songs-licensed-umg-wmg-1236944255/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Adobe has just made it easier for creators to add some of their favorite hot jams to short-form video clips. On Tuesday, the free Adobe Premiere mobile app, designed for creators to make videos for platforms like YouTube Shorts, TikTok and Instagram Reels, added hundreds of thousands of songs licensed from Universal Music Group and [ ]",
+      "published": "2026-11-10T21:24:05+00:00",
+      "fetched": "2026-11-10T22:35:56.183194+00:00"
+    },
+    {
+      "id": "97e7334d55c16ef5",
+      "title": "‘Harry Potter’ Star Paapa Essiedu Says ‘I Don’t Want to Talk About’ J.K. Rowling ‘At All’ but ‘Trans People Have the Right to Be Treated With Respect and Dignity’",
+      "link": "https://variety.com/2026/film/news/paapa-essiedu-jk-rowling-trans-rights-harry-potter-hbo-1236944224/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "HBO s Harry Potter showrunner Francesca Gardiner is condemning the abuse being directed at Paapa Essiedu, the I May Destroy You Emmy nominee who is taking over the role of Professor Severus Snape in the first television series adaptation of J.K. Rowling s literary franchise. Essiedu has been outspoken since March about the racism he s been facing [ ]",
+      "published": "2026-11-10T21:09:53+00:00",
+      "fetched": "2026-11-10T22:35:56.183224+00:00"
+    },
+    {
+      "id": "da7e32b4dc4317c3",
+      "title": "Conor Oberst Will Play a Cave and a Haunted Hotel on His First Solo Tour Since 2019",
+      "link": "https://www.rollingstone.com/music/music-news/conor-oberst-2027-tour-dates-1235655375/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The singer-songwriter has announced an expansive 49-date run, dubbed \"An Alleged Evening with Conor Oberst\"",
+      "published": "2026-11-10T21:01:39+00:00",
+      "fetched": "2026-11-10T22:35:56.260426+00:00"
+    },
+    {
+      "id": "7b65d00d93a086d4",
+      "title": "Henry Rollins’ Latest Chapter? Punk Rock Archivist",
+      "link": "https://www.rollingstone.com/music/music-features/henry-rollins-interview-punk-rock-exhibit-nashville-1235655339/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The hardcore legend brings his vast collection of punk memorabilia to life in a Nashville gallery, with an eye on showing it to the world",
+      "published": "2026-11-10T20:59:42+00:00",
+      "fetched": "2026-11-10T22:35:56.260443+00:00"
+    },
+    {
+      "id": "1b1b6ca4aa9713ce",
+      "title": "Alexander Skarsgård, Hunter Schafer, Maya Hawke, Harry Melling to Star in ‘The Confessions,’ With Ari Aster Producing (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/skarsgard-hunter-schafer-maya-hawke-harry-melling-confessions-1236944297/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Alexander Skarsgård (“Wicker”), Hunter Schafer (“Blade Runner 2099”), Maya Hawke (“Stranger Things”) and Harry Melling (“Pillion”) are set to star in “The Confessions,” the latest feature from Canadian filmmaking trio Guy Maddin, Galen Johnson and Evan Johnson, with Ari Aster and Lars Knudsen’s Square Peg producing. The project, which marks the trio’s follow-up to their [ ]",
+      "published": "2026-11-10T20:19:39+00:00",
+      "fetched": "2026-11-10T22:35:56.183257+00:00"
+    },
+    {
+      "id": "2a3e9e4cd31b10fb",
+      "title": "Sombr Softly Pleads With Fan to Stop Flipping Him Off: ‘It’s Making Me Sad’",
+      "link": "https://www.rollingstone.com/music/music-news/sombr-reacts-fan-middle-finger-flipping-bird-1235655246/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "“It’s all love, but just please, please don’t flip me off at my show,” singer tells Ohio concertgoer",
+      "published": "2026-11-10T20:04:51+00:00",
+      "fetched": "2026-11-10T22:35:56.260461+00:00"
+    },
+    {
+      "id": "9c369d7f07208a0a",
+      "title": "Shaq to Star in Hide-and-Seek Competition Series ‘Can You Hide… Shaq?’ at ABC (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/shaq-hide-and-seek-show-can-you-hide-shaq-1236944068/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Many have played hide-and-seek. But few have played hide-and-Shaq. A new competition series at ABC asks the question, Can You Hide Shaq?",
+      "published": "2026-11-10T20:00:00+00:00",
+      "fetched": "2026-11-10T22:35:56.183284+00:00"
+    },
+    {
+      "id": "2c7fb86a1f7a5cf7",
+      "title": "Garth Brooks Just Bought the Airwaves of Nashville’s Beloved Indie Radio Station",
+      "link": "https://www.rollingstone.com/music/music-country/garth-brooks-buys-nashville-radio-station-lightning-100-1235655296/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The country music star is set to take over Lightning 100’s frequency and transition that spot on the radio dial from artists like the War on Drugs and Fontaines D.C. to a country-music format",
+      "published": "2026-11-10T19:56:13+00:00",
+      "fetched": "2026-11-10T22:35:56.260482+00:00"
+    },
+    {
+      "id": "92cc5b9587058d84",
+      "title": "The Business of Being a Business Manager; ‘The Secret Reading Club of Kabul’ Directors on Finding Inspiration and Courage",
+      "link": "https://variety.com/2026/biz/news/business-managers-variety-strictly-business-secret-kabul-1236944203/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "On today s episode of Variety s “Strictly Business” podcast, host Cynthia Littleton breaks down the complicated business of being a business manager for clients who work in media and entertainment. Variety is set to publish its annual Business Managers Elite feature section, in print and online on Nov. 11, highlighting the industry s top financial and accounting [ ]",
+      "published": "2026-11-10T19:47:05+00:00",
+      "fetched": "2026-11-10T22:35:56.183314+00:00"
+    },
+    {
+      "id": "6ee7523a404dbede",
+      "title": "9 Red Light Therapy Devices (and Why They Work), According to Licensed Professionals",
+      "link": "https://www.rollingstone.com/product-recommendations/electronics/best-red-light-therapy-devices-1313419/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "This FDA-approved treatment can help improve skin health and vitality while decreasing the appearance of acne, scars, and wrinkles",
+      "published": "2026-11-10T19:35:00+00:00",
+      "fetched": "2026-11-10T22:35:56.260497+00:00"
+    },
+    {
+      "id": "3dcedfb1635d5f9e",
+      "title": "Pete Hegseth Digs in for Battle Against Impeachment Blitz",
+      "link": "https://www.rollingstone.com/politics/politics-news/pete-hegseth-digs-in-battle-impeachment-1235655241/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Donald Trump and his administration are gearing up to defend their most loyal soldier",
+      "published": "2026-11-10T19:19:38+00:00",
+      "fetched": "2026-11-10T22:35:56.260510+00:00"
+    },
+    {
+      "id": "9d4ea42e4b46dc36",
+      "title": "Monopoly Unveils Steamy ‘Heated Rivalry’ Edition With 17+ Rating",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/heated-rivalry-monopoly-board-game-photos-buy-online-1235655203/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Get ready for a spicy version of the classic real-estate board game",
+      "published": "2026-11-10T18:53:29+00:00",
+      "fetched": "2026-11-10T22:35:56.260535+00:00"
+    },
+    {
+      "id": "54adf70681ba849f",
+      "title": "Steroids, Orgies, and Penis Enhancement: ‘Get Huge’ Charts the Baffling Rise of Influencer Tony Huge",
+      "link": "https://www.rollingstone.com/culture/culture-features/get-huge-looksmaxxing-hulu-docuseries-tony-huge-1235654882/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The new Hulu docuseries explores Tony Huge, an OG fitness and steroid influencer, and the mysterious death that threw his online community into disarray",
+      "published": "2026-11-10T18:21:34+00:00",
+      "fetched": "2026-11-10T22:35:56.260552+00:00"
+    },
+    {
+      "id": "ab160eb9242110ff",
+      "title": "Dua Lipa Settles ‘Levitating’ Lawsuit With Talk Box Musician",
+      "link": "https://www.rollingstone.com/music/music-news/dua-lipa-settles-levitating-lawsuit-bosko-kante-1235655179/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Bosko Kante claimed he created and licensed a performance for the original version of song, but the agreement didn’t cover its use in any of the hit remixes",
+      "published": "2026-11-10T17:57:54+00:00",
+      "fetched": "2026-11-10T22:35:56.260568+00:00"
+    },
     {
       "id": "c08803bd18128a77",
       "title": "Head Marge Liiske on Tallinn Market, One of Northern Europe’s Largest Industry-Training Confabs, Now Turning 25",
@@ -1302,206 +1502,6 @@
       "summary": "Adam Driver had a major breakout thanks to his role on Girls, but the actor shut down the idea of returning for the reboot of the iconic series in a recent interview. While talking about his role in James Gray s new movie Paper Tiger, Driver was asked by Cinema Blend if he will be returning [ ]",
       "published": "2026-11-07T04:01:01+00:00",
       "fetched": "2026-11-07T11:58:21.159937+00:00"
-    },
-    {
-      "id": "465c0327bdebe383",
-      "title": "Taiwan’s Chunghwa Telecom Unveils 10 Content Investments, From ‘Gunshot’ to ‘Call of Lobster’",
-      "link": "https://variety.com/2026/film/markets-festivals/taiwan-chunghwa-telecom-backs-gunshot-call-of-lobster-1236941920/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chunghwa Telecom, Taiwan’s largest telecom operator, announced 10 new investments at its “Chunghwa Telecom Content Slate and Partnership Showcase,” spanning film, TV and music projects as well as stakes in two production companies. The company pitched the slate as a way to back Taiwanese original IP and link local creators with partners abroad. The event [ ]",
-      "published": "2026-11-07T03:36:02+00:00",
-      "fetched": "2026-11-07T11:58:21.159962+00:00"
-    },
-    {
-      "id": "580135b74f41bed3",
-      "title": "Bill Maher Rubs Salt in Trump’s Midterms Wound: ‘Donnie, Are You OK?’",
-      "link": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "While his HBO counterpart John Oliver issued an urgent warning about voting GOP during the midterms, Bill Maher spent the majority of his time in the lead-up to the critical election dining with the Trump at the White House (and then bickering with him publicly), conducting an embarrassingly softball interview with Trump’s former press secretary [ ]",
-      "published": "2026-11-07T03:20:01+00:00",
-      "fetched": "2026-11-07T03:23:23.629824+00:00"
-    },
-    {
-      "id": "499f9c6a329499f8",
-      "title": "James Bond Shocker: Robert Pattinson and Nicholas Hoult Late Contenders for 007 After Auditioning for Denis Villeneuve",
-      "link": "https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "As James Bond casting rumors heat up, a couple more A-list actors have entered the mix: Robert Pattinson and Nicholas Hoult were among the stars who screen-tested to play the new 007. Both British actors certainly have the acting pedigree to play the suave spy. They also have a keen awareness of what it takes [ ]",
-      "published": "2026-11-07T03:07:18+00:00",
-      "fetched": "2026-11-07T03:23:23.629878+00:00"
-    },
-    {
-      "id": "c5b80875d0c9c385",
-      "title": "30+ Gifts for Book Lovers That Are Bound to Impress",
-      "link": "https://www.rollingstone.com/product-recommendations/gift-guide/best-gifts-for-book-lovers-where-to-shop-1235542163/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From literary lamps to library-card charms, purchasing these presents for the bibliophile in your life is long overdue",
-      "published": "2026-11-07T03:02:27+00:00",
-      "fetched": "2026-11-07T03:23:23.739161+00:00"
-    },
-    {
-      "id": "9448464d6235fd12",
-      "title": "Chang Chen Urges Emerging Taiwanese Actors to ‘Be Like Water’ at Taiwan Creative Content Fest Golden Horse Showcase",
-      "link": "https://variety.com/2026/film/markets-festivals/chang-chen-emerging-taiwanese-actors-taiwan-creative-content-fest-1236941891/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chang Chen, chair of the Taipei Golden Horse Film Festival Executive Committee and last year’s Golden Horse best leading actor winner for “Lucky Lu,” advised six of Taiwan’s rising performers on working across different film sets at a Taiwan Creative Content Fest (TCCF) showcase in Taipei. The “TCCF x The Golden Horse Awards: Taiwan Emerging [ ]",
-      "published": "2026-11-07T03:00:25+00:00",
-      "fetched": "2026-11-07T03:23:23.629935+00:00"
-    },
-    {
-      "id": "ee19e17dc3734565",
-      "title": "‘Fire Country’ and ‘Sheriff Country’ Bosses Break Down the Crossover Episode, ‘Con Air’ Influences and the Potential Romance That Wasn’t on the Page",
-      "link": "https://variety.com/2026/tv/news/fire-country-sheriff-country-crossover-episode-1236941480/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This post contains spoilers for Sheriff Country Season 2, Episode 5, No Way In and “Fire Country” Season 5, Episode 5, No Way Out. Both series stream on Paramount+. It was all hands on deck for the most recent crossover between CBS procedurals Sheriff Country and Fire Country.",
-      "published": "2026-11-07T03:00:00+00:00",
-      "fetched": "2026-11-07T03:23:23.629995+00:00"
-    },
-    {
-      "id": "983fc53dca90b548",
-      "title": "Why ‘Suits’ Japan Swapped Drugs for Cash: NBCUniversal, TBS Format Chiefs on Localizing Hits at Taiwan Creative Content Fest",
-      "link": "https://variety.com/2026/tv/markets-festivals/suits-japan-swapped-drugs-cash-nbcuniversal-tbs-format-localization-1236941878/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "In the pilot of “Suits,” the briefcase that springs open during a job interview is full of marijuana, and it stays that way in the show’s Korean and Mongolian remakes. In Japan, the drugs became money, because drugs can’t be shown on Japanese TV, according to Linfield Ng, VP of format sales and production, Asia [ ]",
-      "published": "2026-11-07T02:45:33+00:00",
-      "fetched": "2026-11-07T03:23:23.630046+00:00"
-    },
-    {
-      "id": "7b565ebf9e6defc8",
-      "title": "‘Silenced Nights’ and ‘You Are the Film’ to Bookend Jogja-Netpac Asian Film Festival",
-      "link": "https://variety.com/2026/film/festivals/silenced-nights-you-are-the-film-jogja-netpac-asian-film-festival-1236941869/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The 21st Jogja-Netpac Asian Film Festival (JAFF) will open with Lawrence Fajardo’s Filipino drama “Silenced Nights” and close with Ueda Makoto’s Japanese comedy-drama “You Are the Film.” The festival will screen 254 films from 34 countries across its competitive and non-competitive sections. The festival runs Nov. 28–Dec.",
-      "published": "2026-11-07T02:22:55+00:00",
-      "fetched": "2026-11-07T03:23:23.630101+00:00"
-    },
-    {
-      "id": "8c25b930f63b8022",
-      "title": "‘The Remarried Empress’ Becomes Most-Viewed Local Original Premiere Ever on Disney+ and Hulu",
-      "link": "https://variety.com/2026/tv/news/remarried-empress-disney-hulu-biggest-local-premiere-ever-1236941857/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Korean fantasy romance “The Remarried Empress” has set a new high for Disney+ and Hulu. Based on views across the three days after its Nov. 3 launch, it is the biggest premiere ever for a local original on the platforms worldwide.",
-      "published": "2026-11-07T01:36:55+00:00",
-      "fetched": "2026-11-07T03:23:23.630150+00:00"
-    },
-    {
-      "id": "701dd3adc9876cef",
-      "title": "CJ Group’s Miky Lee Hailed as ‘Godmother of K-Culture’ as She Receives Asian Hall of Fame Lifetime Achievement Medal",
-      "link": "https://variety.com/2026/film/news/miky-lee-godmother-k-culture-asian-hall-fame-1236941850/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Miky Lee, vice chair of Korea’s CJ Group, was handed the Asian Hall of Fame’s Centennial Medal of Lifetime Achievement in Los Angeles. K-pop pioneer Lee Soo-man did the honors. Lee Soo-man, the SM Entertainment founder who is now key producer at A2O Entertainment, reminded the audience that Miky Lee had introduced him at the [ ]",
-      "published": "2026-11-07T01:28:53+00:00",
-      "fetched": "2026-11-07T03:23:23.630201+00:00"
-    },
-    {
-      "id": "c6431b4b04de8de3",
-      "title": "Swiss Labor Exploitation Drama ‘Enjoy Your Stay’ Lands in Indonesia, Directors Hope It Speaks for Migrant Workers",
-      "link": "https://variety.com/2026/film/festivals/swiss-labor-drama-enjoy-your-stay-indonesia-1236941824/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“Enjoy Your Stay,” the Berlin Film Festival drama from “Goliath” director Dominik Locher and Filipino filmmaker Honeylyn Joy Alipio, has been acquired by Indonesian distributor Falcon and has its Indonesian premiere at Jakarta World Cinema. The film follows Luz, an undocumented Filipina cleaner at a Swiss luxury ski resort. “We heard about [stories of] Indonesian [ ]",
-      "published": "2026-11-07T00:23:00+00:00",
-      "fetched": "2026-11-07T03:23:23.630253+00:00"
-    },
-    {
-      "id": "0c6594b8b9eaf3c9",
-      "title": "Cannes, Annecy-Winning ‘Iron Boy’ Producer Eddy Cinema Backs Memory-Erasure Animation ‘Wilderness of the Greenriver’ at Taiwan Creative Content Fest",
-      "link": "https://variety.com/2026/film/markets-festivals/iron-boy-producer-memory-animation-taiwan-creative-content-fest-1236941811/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A man who has no memory of his past finds out that a patient is the sister he lost in “Wilderness of the Greenriver,” an animated feature from Barcelona-based Hong Kong director Ellis Kayin Chan that is at the Taiwan Creative Content Fest (TCCF) in Taipei. The film is set in a world where technology [ ]",
-      "published": "2026-11-06T23:59:38+00:00",
-      "fetched": "2026-11-07T03:23:23.630310+00:00"
-    },
-    {
-      "id": "4e62e98c0b8cb716",
-      "title": "Over 20 Years, ‘Kung Fu Deadly’ Filmmakers Made a Supernatural Action Comedy That Blended ‘80s Favorites: ‘To Make it Coherent Felt Like a Really Fun Challenge’",
-      "link": "https://variety.com/2026/film/features/kung-fu-deadly-supernatural-action-comedy-1236922116/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Some genre movies are stripped-back exercises: lean, mean and to the point. Some films, like “Kung Fu Deadly,” take the opposite approach, dipping into multiple genres in a sumptuous visual feast. “Deadly” follows Danny and Frank (Steven He and Michael Tient), two hapless exterminators in Dublin, as they are called upon to combat a supernatural [ ]",
-      "published": "2026-11-06T22:24:10+00:00",
-      "fetched": "2026-11-06T22:27:28.264404+00:00"
-    },
-    {
-      "id": "e730230ddc9799b8",
-      "title": "‘I Swear’ Star Robert Aramayo on the BAFTA N-Word Incident That Overshadowed the Movie and the ‘X-Men’ Wolverine Pitch He Keeps Hearing",
-      "link": "https://variety.com/2026/film/awards/robert-aramayo-i-swear-bafta-n-word-wolverine-x-men-1236941597/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Robert Aramayo is kicking back, eating a doughnut. A red box of SK’s Donuts sits open on the table between us, lid flipped back, “Best Donuts in Los Angeles, Est. 1989” stamped across the top.",
-      "published": "2026-11-06T22:15:13+00:00",
-      "fetched": "2026-11-06T22:27:28.264453+00:00"
-    },
-    {
-      "id": "1d4b6899db84db48",
-      "title": "‘Wild Horse Nine’ Casting Director Sarah Finn on What Made John Malkovich a Perfect CIA Agent and Why Chadwick Boseman’s Marvel Audition Still Feels ‘Emotionally Loaded’",
-      "link": "https://variety.com/2026/artisans/news/wild-horse-nine-casting-chadwick-boseman-marvel-audition-1236940609/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Sarah Finn is no stranger to the world of casting. Many will know her as the casting director for Marvel — she’s assembled every film in the MCU since 2008’s “Iron Man.” Her credits also include “Everything, Everywhere All at Once,” 2019’s “The Lion King” and “Chef. Searchlight’s “Wild Horse Nine,” now in theaters, reunites [ ]",
-      "published": "2026-11-06T22:07:00+00:00",
-      "fetched": "2026-11-06T22:27:28.264512+00:00"
-    },
-    {
-      "id": "067e4e11902097ef",
-      "title": "Hear Fiona Apple and the Bolt Cutters Cover Mother Earth’s ‘Revolution’",
-      "link": "https://www.rollingstone.com/music/music-news/fiona-apple-the-bolt-cutters-cover-mother-earth-revolution-1235654198/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Song was culled for Right Now album benefitting Doctors Without Borders",
-      "published": "2026-11-06T21:45:07+00:00",
-      "fetched": "2026-11-06T22:27:28.528789+00:00"
-    },
-    {
-      "id": "54823d55583d4658",
-      "title": "Bradley Cooper and Danny McBride’s ‘G.I. Joe’ Movie Set for 2028; Paramount Shifts New ‘Paranormal Activity’ to Halloween 2027",
-      "link": "https://variety.com/2026/film/news/bradley-cooper-danny-mcbride-g-i-joe-movie-release-date-paranomal-activity-1236941646/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Danny McBride s “G.I. Joe” movie, starring Bradley Cooper, will march into movie theaters in 2028. Paramount announced on Friday that the film will get a wide theatrical release on Oct.",
-      "published": "2026-11-06T21:00:00+00:00",
-      "fetched": "2026-11-06T22:27:28.264555+00:00"
-    },
-    {
-      "id": "a48297d7a5c41c34",
-      "title": "Here’s Where to Watch the Virginia Tech Hokies vs. SMU Mustangs Game Live Online",
-      "link": "https://variety.com/2026/shopping/news/watch-virginia-tech-smu-college-football-espn-live-online-1236940215/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "One of the newest rivalries in college football is between Virginia Tech and SMU in the ACC (Atlantic Coast Conference). The Virginia Tech Hokies (6-2) vs. SMU Mustangs (6-2) at Gerald J.",
-      "published": "2026-11-06T21:00:00+00:00",
-      "fetched": "2026-11-06T22:27:28.264591+00:00"
-    },
-    {
-      "id": "ebe6e922b5300941",
-      "title": "Paramount Network Orders 13 Original Episodes of Larry the Cable Guy-Hosted Clip Show ‘American Mayhem’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/paramount-network-larry-the-cable-guy-american-mayhem-1236941619/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“American Mayhem,” the new syndicated half-hour clip series hosted by Larry the Cable Guy, is getting a linear cable platform as well. Paramount Network has ordered 13 episodes of “American Mayhem” from producer V10 Entertainment. The 13 episodes, which will launch Friday, Nov.",
-      "published": "2026-11-06T20:48:59+00:00",
-      "fetched": "2026-11-06T22:27:28.264631+00:00"
-    },
-    {
-      "id": "b9922cd81351fdcc",
-      "title": "Seville European Film Festival Honors Agnieszka Holland, Thierry Frémaux and Cartoon Saloon",
-      "link": "https://variety.com/2026/film/global/seville-european-film-festival-agnieszka-holland-fremaux-1236941616/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Honoring Agnieszka Holland, Thierry Frémaux and Irish animation studio Cartoon Saloon, the Seville European Film Festival bows Friday with a main competition featuring Dani de la Orden’s “The Director” and Andrew Haigh’s “A Long Winter” and the ambition to capture the genius, true gamut and new talents of Europe’s productions. Of Seville’s three 2026 honorees, [ ]",
-      "published": "2026-11-06T20:34:04+00:00",
-      "fetched": "2026-11-06T22:27:28.264672+00:00"
     }
   ]
 }

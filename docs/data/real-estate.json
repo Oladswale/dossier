@@ -1,8 +1,188 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-10T13:50:29.026666+00:00",
+  "updated": "2026-11-10T22:35:57.778074+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "38514b3bb8d17bba",
+      "title": "A $35 Million Home Just Hit San Francisco’s Market, Marking the Most Expensive Listing of the Year",
+      "link": "https://www.realtor.com/news/trends/san-francisco-california-most-expensive-listing-2026-ai-boom/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With its $35 million price tag, the 9,000-square-foot home will move quickly in the wake of San Francisco’s recent AI wealth.",
+      "published": "2026-11-10T22:29:42+00:00",
+      "fetched": "2026-11-10T22:35:57.777400+00:00"
+    },
+    {
+      "id": "fff0dd4145c1c2e4",
+      "title": "Bella Hadid Purchases $5.5 Million ‘Enchanting Creekside Compound’ in Colorado",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/bella-hadid-purchases-crested-butte-colorado-creekside-compound/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The supermodel has snapped up a historical retreat along a secluded creek in the beautiful Colorado ski town.",
+      "published": "2026-11-10T21:52:58+00:00",
+      "fetched": "2026-11-10T22:35:57.777426+00:00"
+    },
+    {
+      "id": "22eb72bde70c276e",
+      "title": "‘Landman’ Season 3 Is Filming at Taylor Sheridan’s 600-Acre Texas Ranch—Which He Previously Charged Paramount $50K a Week To Use",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/landman-season-3-filming-taylor-sheridan-bosque-ranch-texas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Actor and creator Taylor Sheridan has opened his $264 million Texas ranch to be used as a filming location for \"Landman.\"",
+      "published": "2026-11-10T20:47:43+00:00",
+      "fetched": "2026-11-10T22:35:57.777448+00:00"
+    },
+    {
+      "id": "a568132b9aab86bb",
+      "title": "Ring Drone Cam Becomes a Reality for Homeowners Eager To Level Up With Smart Home Security",
+      "link": "https://www.realtor.com/news/trends/ring-always-home-cam-drone-flying-home-security/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Is a patrolling drone camera the ultimate home flex? Amazon and Ring are banking on it. Meet the Ring Drone Cam.",
+      "published": "2026-11-10T20:03:24+00:00",
+      "fetched": "2026-11-10T22:35:57.777465+00:00"
+    },
+    {
+      "id": "95fc2b492c37ad0f",
+      "title": "Russell Brand Filed To Put $6.6 Million Home in His Wife’s Name—6 Weeks Before 10-Year Prison Sentence",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/russell-brand-family-home-wife-laura-name-before-rape-sentencing/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A London court found Brand, 51, guilty of one count of rape and three counts of sexual assault and sentenced him to 10 years behind bars.",
+      "published": "2026-11-10T20:00:31+00:00",
+      "fetched": "2026-11-10T22:35:57.777483+00:00"
+    },
+    {
+      "id": "6d5c2083370ba22f",
+      "title": "A Looming Nor’easter Threatens Millions of Homeowners With First Snow of the Season",
+      "link": "https://www.realtor.com/news/trends/snowstorm-weather-forecast-noreaster-map-november-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A significant snowstorm is in the forecast this week, with several states bracing for extreme weather.",
+      "published": "2026-11-10T19:19:34+00:00",
+      "fetched": "2026-11-10T22:35:57.777500+00:00"
+    },
+    {
+      "id": "a4dbe8f68d2f06a0",
+      "title": "Dustin Hoffman Recalls Being Held at Gunpoint in Bed and Early Gritty NYC Days Living With Robert Duvall and Gene Hackman",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/dustin-hoffman-new-york-city-apartment-robert-duvall-gene-hackman/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"The Graduate\" actor is looking back on the earliest days of his career, when he slept on a friend's kitchen floor.",
+      "published": "2026-11-10T18:58:37+00:00",
+      "fetched": "2026-11-10T22:35:57.777516+00:00"
+    },
+    {
+      "id": "cbcd8901bfb8f841",
+      "title": "NYC Property Transfers Show Growing Warning Signs of Deed Theft",
+      "link": "https://www.realtor.com/news/trends/nyc-deed-theft-property-transfers-ownership-records-nyu-furman-center-study/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New study finds a decade-high share of NYC home transfers have ownership discrepancies, days after a Queens man was convicted of deed theft.",
+      "published": "2026-11-10T18:35:42+00:00",
+      "fetched": "2026-11-10T22:35:57.777542+00:00"
+    },
+    {
+      "id": "80641f449bb595e5",
+      "title": "Billy Joel Is Returning to the Stage—Months After Selling His Long Island Estate and Revealing Brain Disorder",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/billy-joel-returning-performance-selling-long-island-home-brain-disorder/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The hitmaker, 77, revealed in a Nov. 9 social media post that he would be making his onstage comeback.",
+      "published": "2026-11-10T18:27:44+00:00",
+      "fetched": "2026-11-10T22:35:57.777560+00:00"
+    },
+    {
+      "id": "e74209f400667be4",
+      "title": "The 5 Biggest Mistakes Veteran and Military Homebuyers Make",
+      "link": "https://www.realtor.com/advice/buy/veteran-buyer-mistakes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The VA offers plenty of great programs to help homebuyers, but they're not foolproof. VA-savvy real estate agents share the common missteps.",
+      "published": "2026-11-10T17:53:00+00:00",
+      "fetched": "2026-11-10T22:35:57.777575+00:00"
+    },
+    {
+      "id": "2760fdc5492e2eca",
+      "title": "Police Raid $4.4 Million San Francisco Squatter Mansion—Arresting Woman and Rescuing 7 Dogs",
+      "link": "https://www.realtor.com/news/trends/san-francisco-squatter-mansion-sea-cliff-diana-peng-update/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Diana Peng was charged with fraud and a litany of other charges following a police raid at a luxury San Francisco home.",
+      "published": "2026-11-10T17:13:57+00:00",
+      "fetched": "2026-11-10T22:35:57.777592+00:00"
+    },
+    {
+      "id": "b74fbe04812442cb",
+      "title": "Christina Haack Says She Paid Off Her College Debt by ‘Hitting It Big’ on a Las Vegas Slot Machine",
+      "link": "https://www.realtor.com/news/reality-tv/christina-haack-paid-student-debt-slot-machine/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Flip or Flop\" star opened up about the \"full circle\" moment during a recent trip to Las Vegas.",
+      "published": "2026-11-10T17:06:15+00:00",
+      "fetched": "2026-11-10T22:35:57.777609+00:00"
+    },
+    {
+      "id": "a4dea92228319e96",
+      "title": "The VA Home Loan Benefits Giving Military Buyers an Edge in a Tough Market",
+      "link": "https://www.realtor.com/advice/finance/va-loan-benefits/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A VA loan can allow service men and women to qualify for homes they might have thought were out of reach. Read on to learn about the biggest benefits a VA loan has to offer.",
+      "published": "2026-11-10T16:03:00+00:00",
+      "fetched": "2026-11-10T22:35:57.777626+00:00"
+    },
+    {
+      "id": "d686b3a3bd5ccd71",
+      "title": "Penélope Cruz Reveals Why She and Javier Bardem Chose To Raise Their Children in Madrid",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/penelope-cruz-javier-bardem-kids-madrid-spain/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The actress revealed that she and her spouse decided to raise their kids in Spain because it allows them to live a more private life.",
+      "published": "2026-11-10T15:41:40+00:00",
+      "fetched": "2026-11-10T22:35:57.777644+00:00"
+    },
+    {
+      "id": "dc4f154dc2519a7a",
+      "title": "Inside Josh Allen and Hailee Steinfeld’s Multimillion-Dollar Real Estate Portfolio",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/hailee-steinfeld-josh-allen-homes-marriage-wedding/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 30-year-old athlete continues to lead the New York-based team to victory, so where does he relax once a game is over?",
+      "published": "2026-11-10T15:37:00+00:00",
+      "fetched": "2026-11-10T22:35:57.777660+00:00"
+    },
+    {
+      "id": "828ebca61dfdcb8c",
+      "title": "Reality Star and Real Estate Tycoon Ryan Serhant Expands Brokerage to Utah",
+      "link": "https://www.realtor.com/news/trends/ryan-serhant-brokerage-expands-utah-salt-lake-park-city-owning-manhattan/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "SERHANT. Utah will launch with over 40 agents from top firms, who together have closed $700 million in sales over the past 12 months.",
+      "published": "2026-11-10T15:01:00+00:00",
+      "fetched": "2026-11-10T22:35:57.777676+00:00"
+    },
+    {
+      "id": "44bb9238a9a33594",
+      "title": "Inflation Remains Hot in October and Strengthens Case for Another Fed Rate Hike",
+      "link": "https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "On a monthly basis, overall prices rose 0.4%, according to the Consumer Price Index (CPI) data released released Tuesday.",
+      "published": "2026-11-10T14:10:08+00:00",
+      "fetched": "2026-11-10T22:35:57.777691+00:00"
+    },
+    {
+      "id": "b6a5f500409a98e2",
+      "title": "California Voters Reject ‘Billionaires Tax’ Amid Fears of an Exodus of Wealth From the State",
+      "link": "https://www.realtor.com/news/real-estate-news/california-billionaires-tax-proposition-40-results-failed/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "California voters rejected a proposed wealth tax, which could have meant a one-time draw of billions but risked a billionaire 'exodus.'",
+      "published": "2026-11-10T13:37:06+00:00",
+      "fetched": "2026-11-10T22:35:57.777708+00:00"
+    },
     {
       "id": "312dd3162111c39a",
       "title": "California Voters Reject ‘Billionaires Tax’ Amid Fears of an Exodus of Wealth from the State",
@@ -52,6 +232,16 @@
       "summary": "A Tuskegee Airman's VA loan helped build a family legacy of homeownership. Now, his granddaughter is working to expand that opportunity.",
       "published": "2026-11-10T09:47:00+00:00",
       "fetched": "2026-11-10T13:50:29.026072+00:00"
+    },
+    {
+      "id": "d22de72b8aa190ad",
+      "title": "The 0% Down Mortgage Perk That Fast-Tracks Homeownership by 4 Years",
+      "link": "https://www.realtor.com/news/trends/va-loans-homeownership-down-payment-mission-zero/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A father and son used VA loans decades apart to overcome financial barriers. New research finds buyers could purchase four years sooner.",
+      "published": "2026-11-10T09:43:00+00:00",
+      "fetched": "2026-11-10T22:35:57.777742+00:00"
     },
     {
       "id": "47e53ada91fdffff",
@@ -1312,196 +1502,6 @@
       "summary": "The actor listed the property one month ago after tying the knot to Min Ah in a Los Angeles ceremony.",
       "published": "2026-11-03T14:39:52+00:00",
       "fetched": "2026-11-03T22:37:25.971074+00:00"
-    },
-    {
-      "id": "3177e1785c7104f8",
-      "title": "Pregnant Savannah Chrisley Announces She’s Expecting a Baby Boy With Husband Jason Galanis: ‘Our Sweet Miracle’",
-      "link": "https://www.realtor.com/news/reality-tv/pregnant-savannah-chrisley-expecting-baby-boy-jason-galanis/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Chrisley, 29, shared the news of their baby's gender, just days after announcing that she and Galanis, 56, said \"I do\" in a secret wedding.",
-      "published": "2026-11-03T14:23:40+00:00",
-      "fetched": "2026-11-03T22:37:25.971096+00:00"
-    },
-    {
-      "id": "5ea317cbb5c91bd0",
-      "title": "Fannie Mae Sharply Raises 2027 Mortgage Rate Forecast",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-474",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Is there any relief coming next year for mortgage rates? According to Fannie Mae’s new 2027 mortgage rate prediction…it’s not looking too good. Previous mortgage rate forecasts predicted 6.7% rates [ ]",
-      "published": "2026-11-03T12:00:38+00:00",
-      "fetched": "2026-11-03T13:05:26.888603+00:00"
-    },
-    {
-      "id": "cbe81b50111f6826",
-      "title": "Why a Long Island Town’s Crackdown on Vacation Rentals May Not Fix Its Housing Crisis",
-      "link": "https://www.realtor.com/news/trends/southold-airbnb-crackdown-second-homes-housing-shortage/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Southold wants fewer vacation rentals and more homes for locals. But what happens when tourists leave and the houses stay empty?",
-      "published": "2026-11-03T10:00:00+00:00",
-      "fetched": "2026-11-03T13:05:27.179538+00:00"
-    },
-    {
-      "id": "7a5e06f6a45cbf58",
-      "title": "Wall Street’s AI Sell-Off Exposes a Weak Spot in the Bank of Mom and Dad",
-      "link": "https://www.realtor.com/news/trends/ai-stock-sell-off-bank-of-mom-and-dad-homebuyers/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "An AI stock sell-off is raising questions about the Bank of Mom and Dad and what happens to homebuyers when family portfolios lose value.",
-      "published": "2026-11-03T09:47:00+00:00",
-      "fetched": "2026-11-03T13:05:27.179570+00:00"
-    },
-    {
-      "id": "45df7132542092ae",
-      "title": "Beverly Hills Mansion With Private Nightclub, DJ Booth, and Dance Floor Is Listed for an Astonishing $70 Million",
-      "link": "https://www.realtor.com/news/unique-homes/beverly-hills-mansion-private-nightclub-dance-floor-most-expensive/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The eight-bedroom estate, built by spec home developer Bruce Makowsky, sits on an acre lot with sweeping views from downtown L.A.",
-      "published": "2026-11-03T09:13:00+00:00",
-      "fetched": "2026-11-03T13:05:27.179593+00:00"
-    },
-    {
-      "id": "082643b105fddf9e",
-      "title": "Nicolas Cage Says He’s a ‘Bit Homeless’ and ‘Living in Hotels’ After Sinkhole Damaged $10.5 Million Malibu Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/nicolas-cage-homeless-sinkhole-malibu-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor has been left without a home after a massive sinkhole, likely caused by coastal erosion, significantly damaged his property.",
-      "published": "2026-11-02T23:14:52+00:00",
-      "fetched": "2026-11-03T22:37:25.971139+00:00"
-    },
-    {
-      "id": "70670b0a8baf0cc3",
-      "title": "Nicholas Cage Says He’s a ‘Bit Homeless’ and ‘Living in Hotels’ After Sinkhole Damaged $10.5 Million Malibu Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/nicolas-cage-homeless-sinkhole-malibu-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor has been left without a home after a massive sinkhole, likely caused by coastal erosion, significantly damaged his property.",
-      "published": "2026-11-02T23:14:52+00:00",
-      "fetched": "2026-11-03T00:05:31.077705+00:00"
-    },
-    {
-      "id": "763b899f53e58467",
-      "title": "Immigration Slowdown To Sharply Reduce Renter Household Growth, Study Says",
-      "link": "https://www.realtor.com/news/real-estate-news/immigration-slowdown-enter-household-growth-jchs/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The millions of new households, formed by visa holders and immigrants, are mainly renters, but over time become homebuyers, Harvard said.",
-      "published": "2026-11-02T22:54:04+00:00",
-      "fetched": "2026-11-03T00:05:31.077743+00:00"
-    },
-    {
-      "id": "ee287ebfc40ee07a",
-      "title": "Miami Cash4Keys Execs Accused of Stealing Vulnerable Senior’s Home in Brazen Scheme",
-      "link": "https://www.realtor.com/news/trends/cash4keys-kidnapping-plot-stolen-florida-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A Florida man’s home was allegedly stolen in a scheme that investigators say involved exploitation of his dementia.",
-      "published": "2026-11-02T22:35:42+00:00",
-      "fetched": "2026-11-03T00:05:31.077777+00:00"
-    },
-    {
-      "id": "3b4754c0fd708c2b",
-      "title": "California Candidates for Governor Offer Different Visions on Housing",
-      "link": "https://www.realtor.com/news/real-estate-news/california-governor-candidates-xavier-becerra-steve-hilton-elections-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Former Secretary of Health and Human Services Xavier Becerra and Fox News contributor Steve Hilton are vying for the governorship.",
-      "published": "2026-11-02T22:19:40+00:00",
-      "fetched": "2026-11-03T00:05:31.077806+00:00"
-    },
-    {
-      "id": "939db848bdaa34c1",
-      "title": "Tax-Assessed Value vs. Market Value: What’s the Difference?",
-      "link": "https://www.realtor.com/advice/sell/assessed-value-vs-market-value-difference/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As a homebuyer or home seller, you will likely hear two \"prices\" thrown about: tax-assessed value vs. market value. What's the difference?",
-      "published": "2026-11-02T21:44:00+00:00",
-      "fetched": "2026-11-03T00:05:31.077837+00:00"
-    },
-    {
-      "id": "5ee8b1631657c5a6",
-      "title": "New York Knicks Star Josh Hart Takes Another Shot at Selling Florida Home for $5.7 Million",
-      "link": "https://www.realtor.com/news/sports/new-york-knicks-josh-hart-relists-florida-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 31-year-old shooting guard and his wife, Shannon Hart, snapped up the palatial mansion in 2022 for $4.75 million.",
-      "published": "2026-11-02T21:00:24+00:00",
-      "fetched": "2026-11-03T00:05:31.077864+00:00"
-    },
-    {
-      "id": "4c6df4656d06527e",
-      "title": "EXCLUSIVE: Inside Fort Lauderdale’s Most Expensive Condo—Where $21 Million Buys the Top Floor of a Luxury Building and Oceanfront Views",
-      "link": "https://www.realtor.com/news/unique-homes/fort-lauderdale-florida-most-expensive-luxury-condo-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The sprawling penthouse is the coastal city's most expensive condo and offers views of the Atlantic Ocean and the Intracoastal Waterway.",
-      "published": "2026-11-02T20:38:48+00:00",
-      "fetched": "2026-11-03T00:05:31.077897+00:00"
-    },
-    {
-      "id": "4ca1ef7c9077d888",
-      "title": "Tiger Woods Sets Plans for a Private Golf Destination With Member Cottages on Long Island’s Gold Coast",
-      "link": "https://www.realtor.com/news/sports/tiger-woods-plans-brookville-new-york-golf-course/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The project is the third of its kind from the golfer, who has previously worked on two private golf course communities in Texas.",
-      "published": "2026-11-02T20:35:00+00:00",
-      "fetched": "2026-11-03T00:05:31.077929+00:00"
-    },
-    {
-      "id": "af90d16ec88aaa02",
-      "title": "Savannah Chrisley Reveals How She and Jason Galanis Pulled Off Their Secret Cayman Islands Wedding",
-      "link": "https://www.realtor.com/news/reality-tv/savannah-chrisley-jason-galanis-pulled-off-secret-cayman-islands-wedding/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Chrisley, who shot to fame alongside her parents, Todd and Julie Chrisley, on \"Chrisley Knows Best,\" announced she was pregnant on Oct. 27.",
-      "published": "2026-11-02T19:43:19+00:00",
-      "fetched": "2026-11-03T00:05:31.077958+00:00"
-    },
-    {
-      "id": "bc5416e96627f04a",
-      "title": "How To Deal With Noisy Upstairs Neighbors: 8 Clever Tricks To Keep The Peace",
-      "link": "https://www.realtor.com/advice/rent/noisy-neighbors-apartment-sound-tricks/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Noisy neighbors can turn a dream home into a nightmare. These renter-friendly tips offer easy ways to regain your peace and quiet.",
-      "published": "2026-11-02T18:53:00+00:00",
-      "fetched": "2026-11-03T00:05:31.077987+00:00"
-    },
-    {
-      "id": "0430beab204a93fa",
-      "title": "Houston’s Historic Kirby Mansion Is Demolished To Make Way for Convenience Store",
-      "link": "https://www.realtor.com/news/trends/houston-kirby-mansion-demolition-brake-time-convenience/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 132-year-old Kirby Mansion was demolished on Monday despite protests by locals.",
-      "published": "2026-11-02T18:45:23+00:00",
-      "fetched": "2026-11-03T00:05:31.078013+00:00"
-    },
-    {
-      "id": "8127922feec2506c",
-      "title": "Jenny McCarthy Is Living in a Tent and Considering a Move to Las Vegas After ‘Serious’ Mold Problem",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jenny-mccarthy-mold-remediation-tent-las-vegas-relocation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Following a lengthy health battle triggered by mold, the actress is considering a move to a less humid climate.",
-      "published": "2026-11-02T18:23:38+00:00",
-      "fetched": "2026-11-03T00:05:31.078042+00:00"
-    },
-    {
-      "id": "247718f190020c6e",
-      "title": "These State and Local Elections Will Hinge on Housing Policy—What Voters Need To Know",
-      "link": "https://www.realtor.com/news/real-estate-news/los-angeles-california-midterm-elections-housing-policy/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Candidates in the California gubernatorial election and the mayoral races in Los Angeles and Washington, DC, are clashing over housing.",
-      "published": "2026-11-02T17:56:43+00:00",
-      "fetched": "2026-11-03T00:05:31.078071+00:00"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-10T13:50:27.997265+00:00",
+  "updated": "2026-11-10T22:35:57.301739+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7b4c5b78528e6bc3",
+      "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
+      "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-welcomes-new-faculty-1110",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Faculty members serve in core computing and shared roles, bringing a wide range of experiences and areas of expertise to the MIT community.",
+      "published": "2026-11-10T22:00:00+00:00",
+      "fetched": "2026-11-10T22:35:56.587075+00:00"
+    },
+    {
+      "id": "c81f5b9d973f30f1",
+      "title": "School of Engineering welcomes new faculty in 2026",
+      "link": "https://news.mit.edu/2026/school-engineering-welcomes-new-faculty-1110",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The newest MIT engineering faculty are conducting research across a diverse range of subject areas.",
+      "published": "2026-11-10T22:00:00+00:00",
+      "fetched": "2026-11-10T22:35:56.587098+00:00"
+    },
+    {
+      "id": "4fce9eb0f56960ad",
+      "title": "MIT student leaders: Q&A with men’s football co-captain Dominic Hess",
+      "link": "https://news.mit.edu/2026/mit-student-leaders-qa-mens-football-co-captain-dominic-hess-1110",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "An Academic All-American defensive back and co-captain for the Engineers, Dominic Hess says football keeps him grounded — and inspired.",
+      "published": "2026-11-10T20:45:00+00:00",
+      "fetched": "2026-11-10T22:35:56.587122+00:00"
+    },
+    {
+      "id": "f9c55cb98cba7803",
+      "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
+      "link": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist of rare talent and impact” who made fundamental contributions to multiple disciplines.",
+      "published": "2026-11-10T16:10:00+00:00",
+      "fetched": "2026-11-10T22:35:56.587143+00:00"
+    },
     {
       "id": "e7cf083be56190e7",
       "title": "The Painting Nobody Wanted: How Matisse’s The Red Studio Went from a London Nightclub to a Masterpiece of Modern Art",
@@ -1462,46 +1502,6 @@
       "summary": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
       "published": "2026-10-06T15:00:00+00:00",
       "fetched": "2026-10-06T21:56:01.825811+00:00"
-    },
-    {
-      "id": "75f57ce00c609b18",
-      "title": "Discover the Lost Horror Series Deemed Too Shocking for BBC Television (1967)",
-      "link": "https://www.openculture.com/2026/10/discover-the-lost-horror-series-deemed-too-shocking-for-bbc-television-1967.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "High culture and new technology have never been a natural pairing. As our digital era has often underscored, media innovations tend to be adopted earliest to deliver the most puerile, sensation-driven content, with the more respectable stuff benefiting only later. When the BBC was introducing color broadcasting in the mid-nineteen-sixties, for instance, it was used [ ]",
-      "published": "2026-10-06T09:00:12+00:00",
-      "fetched": "2026-10-06T12:17:16.960259+00:00"
-    },
-    {
-      "id": "9c60d22183281dcf",
-      "title": "In 1704, Isaac Newton Predicted That the World Will End in 2060",
-      "link": "https://www.openculture.com/2026/10/isaac-newton-predicted-that-the-world-will-end-in-2060.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "We have become quite used to pronouncements of doom, from scientists predicting the sixth mass extinction due to the measurable effects of climate change, and from religionists declaring the apocalypse due to a surfeit of sin. It’s almost impossible to imagine these two groups of people agreeing on anything other than the ominous portent of [ ]",
-      "published": "2026-10-06T07:02:48+00:00",
-      "fetched": "2026-10-06T12:17:16.960314+00:00"
-    },
-    {
-      "id": "f4b149f9ae3f50b6",
-      "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
-      "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The discovery reveals a new way that stars and planetary companions can interact.",
-      "published": "2026-10-05T15:00:00+00:00",
-      "fetched": "2026-10-05T23:23:50.449845+00:00"
-    },
-    {
-      "id": "d7fc483d2b81c709",
-      "title": "300 Years Before ChatGPT, Jonathan Swift’s Gulliver’s Travels Imagined Machines Writing Books and Producing Knowledge (1726)",
-      "link": "https://www.openculture.com/2026/10/gullivers-travels-imagined-automated-machines-writing-books-and-producing-knowledge.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "The printing press was invented in the middle of the fifteenth century, and it’s been downhill for the written word ever since. Even before then, arguments that the volume of writing being done far outstripped the value of that writing surely weren’t unheard of. Whatever the era, the most incisive remarks on the apparent victory [ ]",
-      "published": "2026-10-05T09:00:20+00:00",
-      "fetched": "2026-10-05T12:47:11.105795+00:00"
     }
   ]
 }
