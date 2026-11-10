@@ -1,8 +1,78 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-10T00:54:18.971649+00:00",
+  "updated": "2026-11-10T13:50:29.026666+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "312dd3162111c39a",
+      "title": "California Voters Reject ‘Billionaires Tax’ Amid Fears of an Exodus of Wealth from the State",
+      "link": "https://www.realtor.com/news/real-estate-news/california-billionaires-tax-proposition-40-results-failed/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "California voters rejected a proposed wealth tax, which could have meant a one-time draw of billions but risked a billionaire 'exodus.'",
+      "published": "2026-11-10T13:37:06+00:00",
+      "fetched": "2026-11-10T13:50:29.025962+00:00"
+    },
+    {
+      "id": "d0b1997851bf9cec",
+      "title": "The Best (and Worst) Real Estate Investing Advice for 2027",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-476",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "There’s no shortage of real estate investing advice floating around online. The problem? Not all of it is sound—some of it is downright bad.",
+      "published": "2026-11-10T12:00:35+00:00",
+      "fetched": "2026-11-10T13:50:28.654914+00:00"
+    },
+    {
+      "id": "f3946281013e0d37",
+      "title": "‘Home Is Where You Spend’: How Your Neighborhood Shapes Your Buying Habits",
+      "link": "https://www.realtor.com/news/trends/neighborhood-spending-survey-results-bilt-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A new survey found that two-thirds of Americans do around 80% of their shopping within 15 miles of their home.",
+      "published": "2026-11-10T11:31:00+00:00",
+      "fetched": "2026-11-10T13:50:29.026002+00:00"
+    },
+    {
+      "id": "dc42028fcbeb1737",
+      "title": "Las Vegas Inventory Hits Record High as Buyer Demand Sinks—but One Surprising Segment Defies the Slump",
+      "link": "https://www.realtor.com/news/trends/las-vegas-nevada-inventory-record-high-active-listings-october-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Las Vegas listings hit a record high in October as high mortgage rates cooled demand, even as the metro’s luxury market thrives.",
+      "published": "2026-11-10T10:00:00+00:00",
+      "fetched": "2026-11-10T13:50:29.026038+00:00"
+    },
+    {
+      "id": "5386b4268fbd821f",
+      "title": "A Tuskegee Airman’s Legacy of Generational Wealth—and His Granddaughter’s Mission to Expand It",
+      "link": "https://www.realtor.com/news/trends/tuskegee-airman-va-loan-black-generational-wealth/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A Tuskegee Airman's VA loan helped build a family legacy of homeownership. Now, his granddaughter is working to expand that opportunity.",
+      "published": "2026-11-10T09:47:00+00:00",
+      "fetched": "2026-11-10T13:50:29.026072+00:00"
+    },
+    {
+      "id": "47e53ada91fdffff",
+      "title": "VA Loans Can Open the Door to Homeownership 4 Years Sooner",
+      "link": "https://www.realtor.com/news/trends/va-loans-homeownership-down-payment-mission-zero/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A father and son used VA loans decades apart to overcome financial barriers. New research finds buyers could purchase four years sooner.",
+      "published": "2026-11-10T09:43:00+00:00",
+      "fetched": "2026-11-10T13:50:29.026100+00:00"
+    },
+    {
+      "id": "f46520aee1b3e660",
+      "title": "Inside the 10,000-Square-Foot Billionaires Row Condo That Was Just Relisted for $75 Million",
+      "link": "https://www.realtor.com/news/unique-homes/billionaires-row-one57-condo-75-million/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The full-floor condo at One57 on Billionaires Row claimed the top spot on this week’s list of the most expensive homes for sale.",
+      "published": "2026-11-10T09:17:00+00:00",
+      "fetched": "2026-11-10T13:50:29.026131+00:00"
+    },
     {
       "id": "1ff4c26249b76426",
       "title": "These Sun Belt States Are Falling Behind on Home Permitting, Study Finds",
@@ -152,6 +222,16 @@
       "summary": "Have you ever seen a “tax hack” online and wondered if it’s actually legal? Putting your logo on your car, renting your home to your business, or moving everything into [ ]",
       "published": "2026-11-09T12:00:55+00:00",
       "fetched": "2026-11-09T14:28:44.878393+00:00"
+    },
+    {
+      "id": "16ef5f5567456047",
+      "title": "He Replaced His $65,000 Salary with Rental Cash Flow (Starting with $2,500!)",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1354",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Before real estate, Matt Krueger was making just $35,000 a year. He and his wife were barely getting by, and with a baby on the way, Matt needed to figure [ ]",
+      "published": "2026-11-09T12:00:20+00:00",
+      "fetched": "2026-11-10T13:50:28.654971+00:00"
     },
     {
       "id": "ea8c081c9d347f1b",
@@ -1422,86 +1502,6 @@
       "summary": "Candidates in the California gubernatorial election and the mayoral races in Los Angeles and Washington, DC, are clashing over housing.",
       "published": "2026-11-02T17:56:43+00:00",
       "fetched": "2026-11-03T00:05:31.078071+00:00"
-    },
-    {
-      "id": "bf5d12885cca425c",
-      "title": "How Making Daylight Saving Time Permanent Affects Homeowners",
-      "link": "https://www.realtor.com/news/trends/daylight-saving-time-permanent-affects-homeowners/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Sunshine Protection Act would mean lighter evenings and darker mornings. The real impact would depend on where you live.",
-      "published": "2026-11-02T17:25:00+00:00",
-      "fetched": "2026-11-03T00:05:31.078097+00:00"
-    },
-    {
-      "id": "596bdbdc8c467809",
-      "title": "Philadelphia Renters Win Record Settlement Over Unsafe Conditions and Illegal Rent Collection",
-      "link": "https://www.realtor.com/news/real-estate-news/philadelphia-renters-class-action-settlement-bentley-manor/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Philadelphia landlord will now be required to forgive $66,891 in unpaid rent and associated fees, and refund $75,000 in collected rent.",
-      "published": "2026-11-02T15:53:12+00:00",
-      "fetched": "2026-11-03T00:05:31.078125+00:00"
-    },
-    {
-      "id": "de881e001def1867",
-      "title": "What Happened to Lindsay Clancy’s Home? How Duxbury House Was Quietly Sold to Former DA in Off-Market Deal Just a Year After Kids’ Deaths",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-house-trial-children-husband-patrick/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Former nurse Clancy, 36, was accused of murdering her three children in the basement of her family's Duxbury, MA, property.",
-      "published": "2026-11-02T15:45:00+00:00",
-      "fetched": "2026-11-03T00:05:31.078157+00:00"
-    },
-    {
-      "id": "479252eddee23c0e",
-      "title": "Lindsay Clancy Returns to Court as Defense Seeks To Block Retrial—Inside the Home Where Her 3 Children Died and Its Puzzling Sale",
-      "link": "https://www.realtor.com/news/trends/lindsay-clancy-trial-jury-deadlock-massachusetts-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Two months after her murder case ended in a mistrial, Clancy's lawyers are now seeking to block the attempts for a retrial.",
-      "published": "2026-11-02T15:38:00+00:00",
-      "fetched": "2026-11-03T00:05:31.078188+00:00"
-    },
-    {
-      "id": "3a08e98151d2fd89",
-      "title": "EXCLUSIVE: NBA Star Dwight Howard Slashes $1.6 Million From Price of His Georgia Megamansion",
-      "link": "https://www.realtor.com/news/sports/nba-dwight-howard-reduces-asking-price-georgia-mansion/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In September, the 40-year-old basketball legend relisted his longtime Suwanee, GA, mansion for $14.5 million.",
-      "published": "2026-11-02T14:44:19+00:00",
-      "fetched": "2026-11-03T00:05:31.078214+00:00"
-    },
-    {
-      "id": "669a5b84d14c7dbf",
-      "title": "EXCLUSIVE: Meg Ryan’s Former Montecito Flip Fetches $18 Million—Just 4 Months After Hitting the Market",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/meg-ryan-former-montecito-home-sold-four-months-after-hitting-market/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 64-year-old \"When Harry Met Sally\" star purchased the picturesque Picacho Lane abode for $9.5 million in August 2021.",
-      "published": "2026-11-02T14:03:22+00:00",
-      "fetched": "2026-11-03T00:05:31.078242+00:00"
-    },
-    {
-      "id": "da91244327a83fcf",
-      "title": "This 138-Year-Old Los Angeles ‘Unicorn’ House Is Completely Drenched in Purple—and Listed for $2 Million",
-      "link": "https://www.realtor.com/news/unique-homes/la-purple-victorian-esperanza-house-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built in 1888, LA's historic purple \"Esperanza House\" hits the market for $2M. Step inside this eccentric Victorian restoration project.",
-      "published": "2026-11-02T12:35:00+00:00",
-      "fetched": "2026-11-02T13:56:32.812613+00:00"
-    },
-    {
-      "id": "c78db87498d640f7",
-      "title": "Behind Charleston’s Most Famous Gates: The Sword Gate House Asks a Record $35 Million",
-      "link": "https://www.realtor.com/news/unique-homes/sword-house-charleston-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The house dates back to the early 1800s, and last sold for $10 million in 2020. Since then, it has undergone a complete renovation.",
-      "published": "2026-11-02T12:03:00+00:00",
-      "fetched": "2026-11-02T13:56:32.812644+00:00"
     }
   ]
 }
