@@ -1,8 +1,48 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-11T03:19:39.662426+00:00",
+  "updated": "2026-11-11T13:01:31.758747+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d8b833677010da3b",
+      "title": "Ramit Sethi: I Rent, Spend What I Want, and Still Got Rich.",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1355",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Ramit Sethi did everything the financial “experts” said not to: he rented instead of buying, upgraded to new, expensive cars, spent plenty on luxury vacations, and still made millions in [ ]",
+      "published": "2026-11-11T12:00:35+00:00",
+      "fetched": "2026-11-11T13:01:31.318341+00:00"
+    },
+    {
+      "id": "a01621a1b1a6a3d4",
+      "title": "‘Wake-Up Call’: Trump’s Former Housing Commissioner Says New Congress Must ‘Get Serious’ About Housing Affordability",
+      "link": "https://www.realtor.com/news/real-estate-news/congress-housing-affordability-former-fha-commissioner-frank-cassidy/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Even in a bitterly divided Washington, DC, Democrats and Republicans both understand Americans are broadly worried about the cost of living.",
+      "published": "2026-11-11T10:00:00+00:00",
+      "fetched": "2026-11-11T13:01:31.758243+00:00"
+    },
+    {
+      "id": "db7981008aad0e51",
+      "title": "The 10 Affordable Cities Where Homeowners Are the Least Locked In by Housing Costs",
+      "link": "https://www.realtor.com/news/trends/affordable-cities-mortgage-rate-lock-in-data-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Surging mortgage rates have left most homeowners locked in to low monthly payments, but Midwest and Southern markets still offer an escape.",
+      "published": "2026-11-11T09:53:00+00:00",
+      "fetched": "2026-11-11T13:01:31.758268+00:00"
+    },
+    {
+      "id": "6c5f2e650c0302d3",
+      "title": "Dark Horse Estate, Where Taylor Swift and Dolly Parton Recorded Hits, Is Listed for $19.5 Million",
+      "link": "https://www.realtor.com/news/unique-homes/dark-horse-estate-tennessee-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 10-acre Tennessee compound is home to 65-plus platinum records, a party barn, and private studios. It tops our most popular list.",
+      "published": "2026-11-11T09:47:00+00:00",
+      "fetched": "2026-11-11T13:01:31.758286+00:00"
+    },
     {
       "id": "7c5cec6ada3f88d4",
       "title": "Inside Tommy Lee Jones’ 6,000-Acre Texas Ranch Complete With 2 Polo Fields",
@@ -1462,46 +1502,6 @@
       "summary": "The couple, who moved to the U.K. in August with their two children, have been settling into their new lives across the pond.",
       "published": "2026-11-03T17:55:01+00:00",
       "fetched": "2026-11-03T22:37:25.970964+00:00"
-    },
-    {
-      "id": "b36fec5aece7a168",
-      "title": "Trump Remains ‘Laser-Focused’ on Housing Affordability Despite Final Midterm Speech on DC Reflecting Pool, White House Says",
-      "link": "https://www.realtor.com/news/real-estate-news/donald-trump-housing-affordability-midterm-elections-reflecting-pool/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "President Trump spent much of his final pre-election speech detailing renovation to the Lincoln Memorial Reflecting Pool.",
-      "published": "2026-11-03T17:17:07+00:00",
-      "fetched": "2026-11-03T22:37:25.970985+00:00"
-    },
-    {
-      "id": "eddd853891f0dd2a",
-      "title": "Rebecca Gayheart Reveals Shock of Eric Dane’s Death—and How They Made His Hospital Room Feel Like Home in His Final Moments",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/rebecca-gayheart-eric-danes-hospital-room-before-death/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor was diagnosed with ALS in April 2025. He passed away on Feb. 19, 2026.",
-      "published": "2026-11-03T16:59:46+00:00",
-      "fetched": "2026-11-03T22:37:25.971009+00:00"
-    },
-    {
-      "id": "6f62d851f7481386",
-      "title": "‘Homestead’ Actor Bailey Chase Reveals the ‘Final Straw’ That Inspired a Move to a North Carolina Home That Wouldn’t Have Been ‘Affordable’ in L.A.",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/bailey-chase-quits-los-angeles-moves-to-north-carolina/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Homestead\" actor moved to North Carolina with his family about five years ago and says they \"haven't looked back.\"",
-      "published": "2026-11-03T16:30:26+00:00",
-      "fetched": "2026-11-03T22:37:25.971032+00:00"
-    },
-    {
-      "id": "4d88f4d0bdac159b",
-      "title": "HGTV’s Alison Victoria Reveals the Most Haunting Part of Transforming the ‘Scariest House in America’ on a $150K Budget",
-      "link": "https://www.realtor.com/news/reality-tv/hgtv-scariest-house-america-harrisburg-pennsylvania-renovation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The historic Victorian in Harrisburg, PA, needed a refresh, and HGTV transformed the property without erasing its original charm.",
-      "published": "2026-11-03T15:21:55+00:00",
-      "fetched": "2026-11-03T22:37:25.971054+00:00"
     }
   ]
 }

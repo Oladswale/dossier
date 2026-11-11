@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-11T03:19:38.853190+00:00",
+  "updated": "2026-11-11T13:01:31.008245+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5c70f40c9d6cea31",
+      "title": "Watch Seoul’s 6,500-Year Evolution in a Mesmerizing 3D Animated Time Lapse",
+      "link": "https://www.openculture.com/2026/11/watch-seouls-6500-year-evolution-in-a-mesmerizing-3d-animated-time-lapse.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "In this century, few countries have been as visibly successful as South Korea. China’s vertiginous economic rise once absorbed vast amounts of news-media attention, but its soft power has comparatively little reach across the wider world, at least in English-speaking countries. By this point, many if not most Westerners haven’t just eaten Korean food, but [ ]",
+      "published": "2026-11-11T10:00:21+00:00",
+      "fetched": "2026-11-11T13:01:31.008036+00:00"
+    },
+    {
+      "id": "d6745f644af55995",
+      "title": "Inspiration from Charles Bukowski: You Might Be Old, Your Life May Be “Crappy,” But You Can Still Make Good Art",
+      "link": "https://www.openculture.com/2026/11/charles-bukowski-you-might-be-old-your-life-may-be-crappy.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Now more than ever, there’s tremendous pressure to make it big while you’re young. Pity the 31-year-old who fails to make it onto a 30-under-30 list… The soon-to-graduate high schooler passed over for YouTube stardom… The great hordes who creep into middle age without so much as a TED Talk to their names… Social media definitely [ ]",
+      "published": "2026-11-11T09:00:23+00:00",
+      "fetched": "2026-11-11T13:01:31.008076+00:00"
+    },
     {
       "id": "7b4c5b78528e6bc3",
       "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
@@ -1482,26 +1502,6 @@
       "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
       "published": "2026-10-06T20:55:00+00:00",
       "fetched": "2026-10-06T21:56:01.825773+00:00"
-    },
-    {
-      "id": "3dbd657534b04dcd",
-      "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
-      "link": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "As director, Bourg has focused on digital access, open and equitable scholarly publishing, and expanded support for data-intensive research.",
-      "published": "2026-10-06T17:00:00+00:00",
-      "fetched": "2026-10-06T21:56:01.825793+00:00"
-    },
-    {
-      "id": "84e31e7f69d41a4b",
-      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-      "link": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
-      "published": "2026-10-06T15:00:00+00:00",
-      "fetched": "2026-10-06T21:56:01.825811+00:00"
     }
   ]
 }
