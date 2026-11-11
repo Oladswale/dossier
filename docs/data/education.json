@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-11-11T13:01:31.008245+00:00",
+  "updated": "2026-11-11T23:45:14.741890+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6d809dcadb749cbb",
+      "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
+      "link": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The new design approach could improve impact absorption for helmets, packaging, and armor.",
+      "published": "2026-11-11T16:00:00+00:00",
+      "fetched": "2026-11-11T23:45:13.928311+00:00"
+    },
     {
       "id": "5c70f40c9d6cea31",
       "title": "Watch Seoul’s 6,500-Year Evolution in a Mesmerizing 3D Animated Time Lapse",
@@ -1492,16 +1502,6 @@
       "summary": "This new method, called “SANDO,” could help disaster-response robots navigate dangerous, unknown environments.",
       "published": "2026-10-07T04:00:00+00:00",
       "fetched": "2026-10-07T12:08:26.474479+00:00"
-    },
-    {
-      "id": "b1e0cc3a0dba99c0",
-      "title": "Supercomputing researchers document evolution of AI hardware",
-      "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
-      "published": "2026-10-06T20:55:00+00:00",
-      "fetched": "2026-10-06T21:56:01.825773+00:00"
     }
   ]
 }
