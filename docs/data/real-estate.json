@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-10T22:35:57.778074+00:00",
+  "updated": "2026-11-11T03:19:39.662426+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7c5cec6ada3f88d4",
+      "title": "Inside Tommy Lee Jones’ 6,000-Acre Texas Ranch Complete With 2 Polo Fields",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/tommy-lee-jones-texas-ranch-polo-fields/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tommy Lee Jones shared a rare glimpse of life at his sprawling Texas ranch, where he and his wife host polo matches.",
+      "published": "2026-11-10T22:54:00+00:00",
+      "fetched": "2026-11-11T03:19:39.661933+00:00"
+    },
+    {
+      "id": "5ac564508738be1a",
+      "title": "Taylor Swift and Travis Kelce Get Neighbor’s Support for 8-Foot Privacy Wall at $5.35 Million Ohio Estate",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/taylor-swift-travis-kelce-neighbor-backs-ohio-mansion-fence/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The high-profile couple snapped up the eight-bedroom lakefront mansion for $5.35 million in March.",
+      "published": "2026-11-10T22:40:59+00:00",
+      "fetched": "2026-11-11T03:19:39.661962+00:00"
+    },
     {
       "id": "38514b3bb8d17bba",
       "title": "A $35 Million Home Just Hit San Francisco’s Market, Marking the Most Expensive Listing of the Year",
@@ -1482,26 +1502,6 @@
       "summary": "The historic Victorian in Harrisburg, PA, needed a refresh, and HGTV transformed the property without erasing its original charm.",
       "published": "2026-11-03T15:21:55+00:00",
       "fetched": "2026-11-03T22:37:25.971054+00:00"
-    },
-    {
-      "id": "1d6b721584824e69",
-      "title": "Best Banking Platforms for Real Estate Investors in 2027",
-      "link": "https://www.biggerpockets.com/blog/best-banking-platforms-for-real-estate-investors",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Managing rental properties across multiple LLCs, tracking income and expenses by property, and keeping security deposits organized requires more than a standard business checking account. Real estate investors need banking [ ]",
-      "published": "2026-11-03T15:13:55+00:00",
-      "fetched": "2026-11-03T22:37:25.623134+00:00"
-    },
-    {
-      "id": "9ab408d51719c6c7",
-      "title": "EXCLUSIVE: Jim Carrey Lands a Buyer for His $35 Million Hawaii Home—One Month After Putting It on the Market",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jim-carrey-sells-hawaii-home-one-month-wedding/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor listed the property one month ago after tying the knot to Min Ah in a Los Angeles ceremony.",
-      "published": "2026-11-03T14:39:52+00:00",
-      "fetched": "2026-11-03T22:37:25.971074+00:00"
     }
   ]
 }

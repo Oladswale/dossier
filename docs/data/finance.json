@@ -1,8 +1,48 @@
 {
   "category": "finance",
-  "updated": "2026-11-10T22:35:43.171803+00:00",
+  "updated": "2026-11-11T03:19:23.285808+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "90200176dd1e8c88",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "published": "2026-11-11T03:08:17+00:00",
+      "fetched": "2026-11-11T03:19:21.357743+00:00"
+    },
+    {
+      "id": "a8051f0197574861",
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+      "published": "2026-11-11T01:54:00+00:00",
+      "fetched": "2026-11-11T03:19:21.178428+00:00"
+    },
+    {
+      "id": "61fce82acac46f9c",
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+      "published": "2026-11-11T01:12:00+00:00",
+      "fetched": "2026-11-11T03:19:21.178466+00:00"
+    },
+    {
+      "id": "fb6d363f7ff02697",
+      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
+      "published": "2026-11-10T22:37:00+00:00",
+      "fetched": "2026-11-11T03:19:21.178538+00:00"
+    },
     {
       "id": "296bcccde3c99495",
       "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
@@ -1462,46 +1502,6 @@
       "summary": "There are many ideas for saving Social Security. All of them will hurt.",
       "published": "2026-11-07T17:43:00+00:00",
       "fetched": "2026-11-07T21:07:29.844405+00:00"
-    },
-    {
-      "id": "88ef7394f07772aa",
-      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Math may be cold and unemotional — but finances are not.",
-      "published": "2026-11-07T17:33:00+00:00",
-      "fetched": "2026-11-07T21:07:29.844427+00:00"
-    },
-    {
-      "id": "1bd1648a87f6c5d2",
-      "title": "Dangote Cement: Buy, Sell or Hold?",
-      "link": "https://nairametrics.com/2026/11/07/dangote-cement-buy-sell-or-hold/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Cement is a dull business made interesting by whoever controls the kilns. In Nigeria that is Aliko Dangote, and the nine-month numbers show why it pays. Revenue rose a fifth to ₦3.77 trillion.",
-      "published": "2026-11-07T16:55:16+00:00",
-      "fetched": "2026-11-07T17:18:49.726090+00:00"
-    },
-    {
-      "id": "b51eef962c37ce3b",
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The large-cap index is nowhere near as diversified as you think.",
-      "published": "2026-11-07T16:40:00+00:00",
-      "fetched": "2026-11-07T17:18:49.290871+00:00"
-    },
-    {
-      "id": "24045470d7a0c860",
-      "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
-      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-      "published": "2026-11-07T16:30:00+00:00",
-      "fetched": "2026-11-07T17:18:49.290926+00:00"
     }
   ]
 }
