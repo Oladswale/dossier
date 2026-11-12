@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-11-12T04:30:24.796399+00:00",
+  "updated": "2026-11-12T14:03:43.825275+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3604fa40daf54a1d",
+      "title": "2,800-Year-Old Bone Flute Unearthed in Troy May Have Been Played During Homer’s Time",
+      "link": "https://www.openculture.com/2026/11/2800-year-old-bone-flute-unearthed-in-troy-may-have-been-played-during-homers-time.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Image by Mehmet Nuri Ersoy, via Twitter The prolific Hans Zimmer scored Christopher Nolan’s films over the dozen years from Batman Begins through Dunkirk. From 2020’s Tenet onward, Nolan has employed the younger Swedish composer Ludwig Göransson. Just what difference this has made in the resulting pictures is a matter best left to the scrutiny of the most obsessive [ ]",
+      "published": "2026-11-12T10:00:59+00:00",
+      "fetched": "2026-11-12T14:03:43.824988+00:00"
+    },
+    {
+      "id": "8ca922fd3029bfe9",
+      "title": "When Salvador Dali Met Sigmund Freud, and Changed Freud’s Mind About Surrealism (1938)",
+      "link": "https://www.openculture.com/2026/11/when-salvador-dali-met-sigmund-freud-and-changed-freuds-mind-about-surrealism-1938.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The close associations between Surrealism and Freudian psychoanalysis were liberally encouraged by the most famous proponent of the movement, Salvador Dalí, who considered himself a devoted follower of Freud. We don’t have to wonder what the founder of psychoanalysis would have thought of his self-appointed protégé. We have them recording, in their own words, their [ ]",
+      "published": "2026-11-12T09:01:41+00:00",
+      "fetched": "2026-11-12T14:03:43.825044+00:00"
+    },
+    {
+      "id": "25be7e1adfa53084",
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
+      "published": "2026-11-12T05:00:00+00:00",
+      "fetched": "2026-11-12T14:03:42.974858+00:00"
+    },
     {
       "id": "6d809dcadb749cbb",
       "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
@@ -1472,36 +1502,6 @@
       "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
       "published": "2026-10-07T19:55:00+00:00",
       "fetched": "2026-10-07T22:20:16.281654+00:00"
-    },
-    {
-      "id": "73c66fee459559e0",
-      "title": "Why the Maps of London, Tokyo, New York, and Other Major Cities Look the Way They Do",
-      "link": "https://www.openculture.com/2026/10/why-the-maps-of-london-tokyo-new-york-and-other-major-cities-look-the-way-they-do.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "If you’re trying to understand a city, its map isn’t a bad place to start. Today, of course, we can call up an accurate map of practically any part of any city at any time we like, with detailed point-to-point directions available on command. Turn on the satellite view, street view, or 3D mode with [ ]",
-      "published": "2026-10-07T09:00:23+00:00",
-      "fetched": "2026-10-07T12:08:27.154263+00:00"
-    },
-    {
-      "id": "2e49f7c6d2ab1645",
-      "title": "It’s the End of the World as We Know It: The Apocalypse Gets Visualized in an Inventive Map from 1486",
-      "link": "https://www.openculture.com/2026/10/its-the-end-of-the-world-as-we-know-it-the-apocalypse-map-1486.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "When will the world end? We can find serious scientific answers to this question, depending on what we mean by “world” and “end.” If we mean the end of civilization as we currently know it, climate scientists’ worst-case scenario points toward somewhere around 2100 as the beginning of the end. (New York magazine points out that [ ]",
-      "published": "2026-10-07T08:00:52+00:00",
-      "fetched": "2026-10-07T12:08:27.154328+00:00"
-    },
-    {
-      "id": "35b91d7308d06d0a",
-      "title": "Planning system ensures a robot’s flight path will remain collision-free",
-      "link": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "This new method, called “SANDO,” could help disaster-response robots navigate dangerous, unknown environments.",
-      "published": "2026-10-07T04:00:00+00:00",
-      "fetched": "2026-10-07T12:08:26.474479+00:00"
     }
   ]
 }

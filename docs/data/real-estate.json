@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-12T04:30:25.362268+00:00",
+  "updated": "2026-11-12T14:03:44.587188+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4138fc3ddaecd670",
+      "title": "Buffett’s Berkshire Hathaway Bets $600M on Housing",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-477",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Berkshire Hathaway, legendary investor Warren Buffett’s holding company, just made a nearly $600M bet on the housing market, all while real estate sentiment hits its lowest levels in over a [ ]",
+      "published": "2026-11-12T12:00:42+00:00",
+      "fetched": "2026-11-12T14:03:44.134786+00:00"
+    },
+    {
+      "id": "752f4812887ec9ef",
+      "title": "NYC’s First Pied-à-Terre Tax Bills Are Coming—and Buyers Are Recalculating",
+      "link": "https://www.realtor.com/news/trends/nyc-pied-a-terre-tax-luxury-housing-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The new pied-à-terre tax is entering buyers' calculations, luxury listings suggest, while thousands of units sit near tax thresholds.",
+      "published": "2026-11-12T10:00:00+00:00",
+      "fetched": "2026-11-12T14:03:44.586517+00:00"
+    },
+    {
+      "id": "a403ecdc80927967",
+      "title": "How Bravo Star Joey Zauzig Turned an 1,100-Square-Foot WeHo Rental Into His Postdivorce ‘Sanctuary in the Sky’",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/joey-zauzig-west-hollywood-apartment-tour/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Inside Joey Zauzig’s West Hollywood rental: See how the Bravo star designed his chic postdivorce sanctuary without help from Jeff Lewis.",
+      "published": "2026-11-12T09:47:00+00:00",
+      "fetched": "2026-11-12T14:03:44.586561+00:00"
+    },
     {
       "id": "75e53db1aae5b035",
       "title": "EXCLUSIVE: Olympic Champion Tara Lipinski Shares Her ‘Controversial’ Christmas Decorating Rule—and Why She’s Starting Now",
@@ -1472,36 +1502,6 @@
       "summary": "Tessentee Farm is an 83-acre Blue Ridge Mountain estate and luxury event venue in Franklin, NC. It's heading to auction with no reserve.",
       "published": "2026-11-04T13:31:00+00:00",
       "fetched": "2026-11-04T22:56:43.965941+00:00"
-    },
-    {
-      "id": "40cd2c12ddfe7156",
-      "title": "EXCLUSIVE: Food Network Star Alex Guarnaschelli Reveals Her Secrets To Turning Any Home Into a Holiday Entertaining Hub",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/alex-guarnaschelli-tips-transforming-home-for-holiday-hosting/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The celebrity chef shared her advice for entertaining on a budget, organizing a busy kitchen, and keeping guests comfortable.",
-      "published": "2026-11-04T12:32:00+00:00",
-      "fetched": "2026-11-04T13:20:45.869405+00:00"
-    },
-    {
-      "id": "feb67dd98f5f26d4",
-      "title": "Democrats Win the Midterms: What It Means for the Housing Market",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1352",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "The much-anticipated 2026 midterm elections are now over, giving us a glimpse into how the next two years will play out in American politics. While Democrats and Republicans remain divided [ ]",
-      "published": "2026-11-04T12:00:42+00:00",
-      "fetched": "2026-11-05T13:34:06.072502+00:00"
-    },
-    {
-      "id": "eed3f90100d12783",
-      "title": "Is Flipping Houses Still Worth It? A 20-Year Flipper Shares What’s Working",
-      "link": "https://www.biggerpockets.com/blog/rookie-792",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Is flipping houses still worth it when the market slows down? The easy appreciation days may be over, but investors who underwrite their deals with discipline are still finding ways [ ]",
-      "published": "2026-11-04T12:00:20+00:00",
-      "fetched": "2026-11-04T13:20:45.479295+00:00"
     }
   ]
 }

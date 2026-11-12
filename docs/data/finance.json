@@ -1,8 +1,278 @@
 {
   "category": "finance",
-  "updated": "2026-11-12T04:30:11.065011+00:00",
+  "updated": "2026-11-12T14:03:29.209787+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8ab72bb001c950a0",
+      "title": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Oil prices popped Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "published": "2026-11-12T13:49:46+00:00",
+      "fetched": "2026-11-12T14:03:27.718928+00:00"
+    },
+    {
+      "id": "1c6a0780e5227e72",
+      "title": "How eHealth Africa is using tech to close Nigeria’s immunisation gaps",
+      "link": "https://techcabal.com/2026/11/12/ehealth-africa-using-tech-to-close-gaps/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Getting a vaccine to a child starts long before anyone loads a cold box. It starts with knowing the child’s community exists. About 2.1 million Nigerian children, representing 24% of the country’s estimated 8.7 million under-one population, had not received a single routine vaccine dose, according to the United Nations Children s Fund (UNICEF).",
+      "published": "2026-11-12T13:47:07+00:00",
+      "fetched": "2026-11-12T14:03:29.209537+00:00"
+    },
+    {
+      "id": "44a308ae95e36ad6",
+      "title": "Nigeria has tap-to-pay. Now it needs a reason to tap",
+      "link": "https://techcabal.com/2026/11/12/nigerias-tap-to-pay-adoption-stalls/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria's tap to pay infrastructure is expanding, but consumer habits could slow widespread adoption.",
+      "published": "2026-11-12T13:42:38+00:00",
+      "fetched": "2026-11-12T14:03:29.209571+00:00"
+    },
+    {
+      "id": "08f78352751ce66b",
+      "title": "DMO raises N5.06 billion from November savings bonds, down 17.4%",
+      "link": "https://nairametrics.com/2026/11/12/dmo-raises-n5-06-billion-from-november-savings-bonds-down-17-4/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Debt Management Office (DMO) raised N5.06 billion through its November 2026 Federal Government of Nigeria (FGN) Savings Bond offer, representing a 17.4% decline from the N6.12 billion allotted in October. The post DMO raises N5.06 billion from November savings bonds, down 17.4% appeared first on Nairametrics .",
+      "published": "2026-11-12T13:19:14+00:00",
+      "fetched": "2026-11-12T14:03:28.001504+00:00"
+    },
+    {
+      "id": "fdea72263b81555f",
+      "title": "Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge",
+      "link": "https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Wendy’s plans to go it alone, and analysts say the company has “significant work ahead.”",
+      "published": "2026-11-12T13:05:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405230+00:00"
+    },
+    {
+      "id": "2b2b390dde796bc7",
+      "title": "The world’s most sophisticated drug companies are putting billions into vaccines — despite the political environment",
+      "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Look at the promising data for Moderna and Merck’s experimental cancer vaccine and the research suggesting the shingles vaccine can delay dementia.",
+      "published": "2026-11-12T13:00:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405290+00:00"
+    },
+    {
+      "id": "27886531b9b65064",
+      "title": "How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart",
+      "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "41 companies have made deals that grant stakes to the Trump administration, and some could face probes from the new Congress",
+      "published": "2026-11-12T13:00:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405322+00:00"
+    },
+    {
+      "id": "7438274e4bff457c",
+      "title": "The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom",
+      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
+      "published": "2026-11-12T12:55:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405353+00:00"
+    },
+    {
+      "id": "8605915f86c292f0",
+      "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
+      "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Huang’s exit could fray tight bonds among AI businesses. Plus, Oracle’s potential AI catalyst, a $1.5 trillion Social Security stock proposal and what the oil-yield split may mean for inflation.",
+      "published": "2026-11-12T12:29:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405386+00:00"
+    },
+    {
+      "id": "69971b4404e9cc75",
+      "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
+      "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Jim Thorne, Wellington-Altus Private Wealth’s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
+      "published": "2026-11-12T11:34:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405416+00:00"
+    },
+    {
+      "id": "99921728e5d4ccd3",
+      "title": "AfDB, AFD sign five-year deal to expand infrastructure financing across 14 African countries",
+      "link": "https://nairametrics.com/2026/11/12/afdb-afd-sign-five-year-deal-to-expand-infrastructure-financing-across-14-african-countries/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The African Development Bank Group (AfDB) and Agence Française de Développement (AFD) have signed a new memorandum of understanding (MoU) for 2026–2031, building on a partnership that has supported 17 jointly financed projects across 14 African countries since 2021. The post AfDB, AFD sign five-year deal to expand infrastructure financing across 14 African countries appeared first on Nairametrics .",
+      "published": "2026-11-12T11:13:11+00:00",
+      "fetched": "2026-11-12T14:03:28.001566+00:00"
+    },
+    {
+      "id": "d83dd4d7da41bdc9",
+      "title": "Moniepoint, Tosin Eniolorunda Foundation reward OAU Final-Year students with millions for innovative and practical projects",
+      "link": "https://nairametrics.com/2026/11/12/moniepoint-tosin-eniolorunda-foundation-reward-oau-final-year-students-with-millions-for-innovative-and-practical-projects/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Moniepoint and Tosin Eniolorunda Foundation have awarded 1 million in prizes to three final-year Mechanical Engineering teams at Obafemi Awolowo University (OAU) for outstanding innovative projects tackling practical challenges in agriculture, healthcare, and environmental sustainability.The awards followed the Department of Mechanical Engineering s final-year project exhibition where 12 student teams presented solutions to real-world problems. A [ ] The post Moniepoint, Tosin Eniolorunda Foundation reward OAU Final-Year students with millions for innovative and practical projects appeared first on Nairametrics .",
+      "published": "2026-11-12T11:03:15+00:00",
+      "fetched": "2026-11-12T14:03:28.001623+00:00"
+    },
+    {
+      "id": "47ecfe2948296cbb",
+      "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+      "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
+      "published": "2026-11-12T10:57:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405443+00:00"
+    },
+    {
+      "id": "9b4fce3a2e39b69d",
+      "title": "World Bank proposes $250 million financing for Kenya’s irrigation projects",
+      "link": "https://nairametrics.com/2026/11/12/world-bank-proposes-250-million-financing-for-kenyas-irrigation-projects/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The World Bank has proposed $250 million in financing for Kenya's irrigation projects to expand farmers' access to water, improve agricultural productivity and strengthen food production. The post World Bank proposes $250 million financing for Kenya s irrigation projects appeared first on Nairametrics .",
+      "published": "2026-11-12T10:55:38+00:00",
+      "fetched": "2026-11-12T14:03:28.001663+00:00"
+    },
+    {
+      "id": "2481df80ea767256",
+      "title": "Nigeria’s active mobile subscriptions cross 200 million in September, highest in 2 years",
+      "link": "https://nairametrics.com/2026/11/12/nigerias-active-mobile-subscriptions-cross-200-million-in-september-highest-in-2-years/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Active subscriptions for telecommunications services across the networks of MTN, Airtel, Globacom, and T2 crossed the 200 million mark in September 2026, the highest since 2024. The post Nigeria’s active mobile subscriptions cross 200 million in September, highest in 2 years appeared first on Nairametrics .",
+      "published": "2026-11-12T10:25:18+00:00",
+      "fetched": "2026-11-12T14:03:28.001706+00:00"
+    },
+    {
+      "id": "685d452df5b12a40",
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "published": "2026-11-12T10:15:00+00:00",
+      "fetched": "2026-11-12T14:03:27.405471+00:00"
+    },
+    {
+      "id": "5e679283da0d5830",
+      "title": "FG moves to award contracts for four new satellites, awaits FEC approval",
+      "link": "https://nairametrics.com/2026/11/12/fg-moves-to-award-contracts-for-four-new-satellites-awaits-fec-approval/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has advanced the procurement process for four additional satellites approved by President Bola Tinubu, with the exercise reaching the stage of recommending successful bidders after an international competitive bidding process. The post FG moves to award contracts for four new satellites, awaits FEC approval appeared first on Nairametrics .",
+      "published": "2026-11-12T09:29:45+00:00",
+      "fetched": "2026-11-12T14:03:28.001745+00:00"
+    },
+    {
+      "id": "93bf1579e4746e0c",
+      "title": "Layer3 Strengthens Board with Tomi Davies and Maryamu Aminu as It Targets Cloud and Infrastructure Growth",
+      "link": "https://nairametrics.com/2026/11/12/layer3-strengthens-board-with-tomi-davies-and-maryamu-aminu-as-it-targets-cloud-and-infrastructure-growth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Layer3 Strengthens Board with Tomi Davies and Maryamu Aminu as It Targets Cloud and Infrastructure Growth Nigerian technology company Layer3 has appointed Tomi Davies as Board Chairman and Maryamu Aminu as Non-Executive Director as the company prepares for its next phase of growth in enterprise cloud, connectivity and digital infrastructure. The appointments come as Layer3 [ ] The post Layer3 Strengthens Board with Tomi Davies and Maryamu Aminu as It Targets Cloud and Infrastructure Growth appeared first on Nairametrics .",
+      "published": "2026-11-12T09:22:54+00:00",
+      "fetched": "2026-11-12T14:03:28.001794+00:00"
+    },
+    {
+      "id": "e5d92240ec2ed0f5",
+      "title": "Naira holds firm against British pound at N1,808/£",
+      "link": "https://nairametrics.com/2026/11/12/naira-holds-firm-against-british-pound-at-n1808/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Latest market action showed the NFEM market rate for the British pound is N1,808.3/£. The post Naira holds firm against British pound at N1,808/£ appeared first on Nairametrics .",
+      "published": "2026-11-12T09:18:37+00:00",
+      "fetched": "2026-11-12T14:03:28.001827+00:00"
+    },
+    {
+      "id": "2d989da081251468",
+      "title": "Nvidia board considers removing CEO Jensen Huang as shares fall 6.5%",
+      "link": "https://nairametrics.com/2026/11/12/nvidia-board-considers-removing-ceo-jensen-huang-as-shares-fall-6-5/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nvidia's board is reportedly weighing whether to remove co-founder and Chief Executive Officer Jensen Huang, days after opening an independent investigation into reports that he was the target of a foreign intelligence effort. The post Nvidia board considers removing CEO Jensen Huang as shares fall 6.5% appeared first on Nairametrics .",
+      "published": "2026-11-12T08:58:47+00:00",
+      "fetched": "2026-11-12T14:03:28.001865+00:00"
+    },
+    {
+      "id": "46d139cc7aa1ec56",
+      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+      "published": "2026-11-12T07:28:48+00:00",
+      "fetched": "2026-11-12T14:03:27.718960+00:00"
+    },
+    {
+      "id": "775a3c9192522e0e",
+      "title": "Dutch businesses see improved operating conditions in Nigeria as FX stability eases pressure",
+      "link": "https://nairametrics.com/2026/11/12/dutch-businesses-see-improved-operating-conditions-in-nigeria-as-fx-stability-eases-pressure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Dutch businesses operating in Nigeria are experiencing improved operating conditions following a period of foreign exchange instability that made it difficult for companies to repatriate funds, according to officials of the Netherlands Consulate in Lagos. The post Dutch businesses see improved operating conditions in Nigeria as FX stability eases pressure appeared first on Nairametrics .",
+      "published": "2026-11-12T07:18:14+00:00",
+      "fetched": "2026-11-12T14:03:28.001905+00:00"
+    },
+    {
+      "id": "55ae2adec9367e43",
+      "title": "FG opens applications for 3MTT delivery partners, commits N4 billion for Cohorts 5, 6",
+      "link": "https://nairametrics.com/2026/11/12/fg-opens-applications-for-3mtt-delivery-partners-commits-n4-billion-for-cohorts-5-6/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has opened applications for organisations and individual experts to join the delivery network of its Three Million Technical Talent (3MTT) programme, with N4 billion in partner funding earmarked to support verified outcomes under Cohorts 5 and 6. The post FG opens applications for 3MTT delivery partners, commits N4 billion for Cohorts 5, 6 appeared first on Nairametrics .",
+      "published": "2026-11-12T07:01:21+00:00",
+      "fetched": "2026-11-12T14:03:28.001945+00:00"
+    },
+    {
+      "id": "a455e3d3329a25bb",
+      "title": "👨🏿‍🚀TechCabal Daily – Ghana’s big 5G promise",
+      "link": "https://techcabal.com/2026/11/12/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-ghanas-big-5g-promise/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "In today's edition: Egypt’s remittances reach record $38.2 billion Ghana targets 70% 5G coverage by March 2027 Kenya launches new cybersecurity centre Telkom challenges telecoms ownership rules",
+      "published": "2026-11-12T06:15:59+00:00",
+      "fetched": "2026-11-12T14:03:29.209610+00:00"
+    },
+    {
+      "id": "afcbafa356090e77",
+      "title": "Naira depreciates to N1,364/$, records biggest daily loss since October 22",
+      "link": "https://nairametrics.com/2026/11/12/naira-depreciates-to-n1364-records-biggest-daily-loss-since-october-22/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The naira weakened by N10.50 against the US dollar at the Nigerian Foreign Exchange Market (NFEM) on Wednesday, November 11, 2026, recording its biggest single-session loss since October 22. The post Naira depreciates to N1,364/$, records biggest daily loss since October 22 appeared first on Nairametrics .",
+      "published": "2026-11-12T06:10:32+00:00",
+      "fetched": "2026-11-12T14:03:28.001980+00:00"
+    },
+    {
+      "id": "3614833147427521",
+      "title": "NTB investors pour N1.08 trillion on 364-day Bill, 179.85% of N600 billion offer",
+      "link": "https://nairametrics.com/2026/11/12/ntb-investors-pour-n1-08-trillion-on-364-day-bill-179-85-of-n600-billion-offer/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Investors submitted N1.08 trillion in bids for Nigeria's 364-day Treasury Bill at the November 11, 2026 auction, representing 179.85% of the N600 billion offered, as demand remained heavily concentrated in the one-year instrument, which attracted overwhelming investor interest. The post NTB investors pour N1.08 trillion on 364-day Bill, 179.85% of N600 billion offer appeared first on Nairametrics .",
+      "published": "2026-11-12T06:09:19+00:00",
+      "fetched": "2026-11-12T14:03:28.002020+00:00"
+    },
+    {
+      "id": "135396bcba4b9c48",
+      "title": "Champion Brands Plc to replace Champion Breweries on NGX under proposed restructuring",
+      "link": "https://nairametrics.com/2026/11/12/champion-brands-plc-to-replace-champion-breweries-on-ngx-under-proposed-restructuring/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Champion Breweries Plc has proposed a restructuring that would see Champion Brands Limited re-registered as Champion Brands Plc and listed on the Nigerian Exchange (NGX) as the group's new parent company, replacing Champion Breweries, which will be delisted, subject to the necessary approvals. The post Champion Brands Plc to replace Champion Breweries on NGX under proposed restructuring appeared first on Nairametrics .",
+      "published": "2026-11-12T05:55:21+00:00",
+      "fetched": "2026-11-12T14:03:28.002061+00:00"
+    },
     {
       "id": "e3e48025e7f45ed3",
       "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
@@ -1232,276 +1502,6 @@
       "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
       "published": "2026-11-10T00:48:00+00:00",
       "fetched": "2026-11-10T00:54:06.946064+00:00"
-    },
-    {
-      "id": "cfdcba07ffc0b2ae",
-      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-      "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
-      "published": "2026-11-09T22:49:00+00:00",
-      "fetched": "2026-11-10T00:54:06.946123+00:00"
-    },
-    {
-      "id": "4d141405fb9126db",
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-      "published": "2026-11-09T22:49:00+00:00",
-      "fetched": "2026-11-10T00:54:06.946157+00:00"
-    },
-    {
-      "id": "332d7b583b38be43",
-      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-      "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
-      "published": "2026-11-09T21:52:00+00:00",
-      "fetched": "2026-11-10T00:54:06.946206+00:00"
-    },
-    {
-      "id": "916c7238f0e84689",
-      "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-      "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-      "published": "2026-11-09T21:43:00+00:00",
-      "fetched": "2026-11-10T00:54:06.946255+00:00"
-    },
-    {
-      "id": "f1386f417f91972d",
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
-      "published": "2026-11-09T21:24:00+00:00",
-      "fetched": "2026-11-10T00:54:06.946287+00:00"
-    },
-    {
-      "id": "e6c8c16226581aea",
-      "title": "Midea Introduces Space Master Refrigerator in Nigeria, Bringing More Room to Everyday Living",
-      "link": "https://nairametrics.com/2026/11/09/midea-introduces-space-master-refrigerator-in-nigeria-bringing-more-room-to-everyday-living/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Midea is introducing the Space Master Refrigerator to Nigerian consumers, placing practical food storage at the centre of its More Room for Nigeria campaign. The introduction speaks to a familiar household situation: a major grocery shop, a weekend of hosting or a family celebration can quickly turn refrigerator space into a daily planning challenge.Space Master [ ] The post Midea Introduces Space Master Refrigerator in Nigeria, Bringing More Room to Everyday Living appeared first on Nairametrics .",
-      "published": "2026-11-09T20:23:55+00:00",
-      "fetched": "2026-11-10T00:54:07.910750+00:00"
-    },
-    {
-      "id": "87065172d0010d33",
-      "title": "Nvidia CEO Jensen Huang loses $7.8 billion in 24 hours",
-      "link": "https://nairametrics.com/2026/11/09/nvidia-ceo-jensen-huang-loses-7-8-billion-in-24-hours/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nvidia co-founder and Chief Executive Officer Jensen Huang has lost $7.8 billion of his fortune, bringing his estimated net worth to $154.4 billion amid renewed scrutiny of the semiconductor giant's leadership. The post Nvidia CEO Jensen Huang loses $7.8 billion in 24 hours appeared first on Nairametrics .",
-      "published": "2026-11-09T18:49:45+00:00",
-      "fetched": "2026-11-10T00:54:07.910813+00:00"
-    },
-    {
-      "id": "2439b2336eecdc5e",
-      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-      "published": "2026-11-09T18:46:01+00:00",
-      "fetched": "2026-11-10T00:54:07.561590+00:00"
-    },
-    {
-      "id": "75d9d20f4e52f819",
-      "title": "Dangote Cement, Transcorp Power, Oando drive N2.32 trillion stock market rebound",
-      "link": "https://nairametrics.com/2026/11/09/dangote-cement-transcorp-power-oando-drive-n2-32-trillion-stock-market-rebound/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market bounced back strongly on Monday, November 9, 2026, gaining N2.32 trillion in market capitalization or 1.44% to close higher at N163.92 trillion, up from N161.59 trillion and driven by robust gains in industrial stocks led by Dangote Cement and Transcorp Power Plc. The post Dangote Cement, Transcorp Power, Oando drive N2.32 trillion stock market rebound appeared first on Nairametrics .",
-      "published": "2026-11-09T18:44:48+00:00",
-      "fetched": "2026-11-10T00:54:07.910868+00:00"
-    },
-    {
-      "id": "060fbddbc5b4bed6",
-      "title": "FG suspends broadcast licence fee reviews ‘over rising costs’",
-      "link": "https://nairametrics.com/2026/11/09/fg-suspends-broadcast-licence-fee-reviews-over-rising-costs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has suspended all reviews of broadcast licence fees until further notice, amid complaints about rising costs raised by the Broadcasting Organisations of Nigeria (BON). The post FG suspends broadcast licence fee reviews ‘over rising costs’ appeared first on Nairametrics .",
-      "published": "2026-11-09T18:38:21+00:00",
-      "fetched": "2026-11-10T00:54:07.910923+00:00"
-    },
-    {
-      "id": "bba7561f95d498a7",
-      "title": "Meta expands AI age detection globally to protect teens online",
-      "link": "https://nairametrics.com/2026/11/09/meta-expands-ai-age-detection-globally-to-protect-teens-online/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Meta has announced the global expansion of its artificial intelligence (AI) age-estimation technology to identify teenagers who misrepresent their ages online and automatically place them under its Teen Account protections on Instagram. The post Meta expands AI age detection globally to protect teens online appeared first on Nairametrics .",
-      "published": "2026-11-09T18:24:21+00:00",
-      "fetched": "2026-11-10T00:54:07.910972+00:00"
-    },
-    {
-      "id": "13d6c25af9d46923",
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
-      "published": "2026-11-09T18:14:47+00:00",
-      "fetched": "2026-11-10T00:54:07.561629+00:00"
-    },
-    {
-      "id": "609b09a9b2e81113",
-      "title": "Nigeria’s dollar trading plunges to $1.81 billion as turnover declines 51%",
-      "link": "https://nairametrics.com/2026/11/09/nigerias-dollar-trading-plunges-to-1-81-billion-as-turnover-declines-51/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The value of dollars traded in Nigeria's foreign exchange market fell by 51.29% to $1.81 billion in the week ended November 6, 2026, from $3.71 billion in the preceding week, representing a decline of approximately $1.90 billion. The post Nigeria’s dollar trading plunges to $1.81 billion as turnover declines 51% appeared first on Nairametrics .",
-      "published": "2026-11-09T17:59:04+00:00",
-      "fetched": "2026-11-10T00:54:07.911024+00:00"
-    },
-    {
-      "id": "291574cec02ccbbf",
-      "title": "NELFUND student loan disbursements hit N375.28 billion",
-      "link": "https://nairametrics.com/2026/11/09/nelfund-student-loan-disbursements-hit-n375-28-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Education Loan Fund (NELFUND) has disbursed a total of N375.28 billion in student loans to Nigerian students since the launch of its student loan portal in May 2024. The post NELFUND student loan disbursements hit N375.28 billion appeared first on Nairametrics .",
-      "published": "2026-11-09T15:28:03+00:00",
-      "fetched": "2026-11-10T00:54:07.911064+00:00"
-    },
-    {
-      "id": "f0f79dcc6ecdeb19",
-      "title": "INFRAGROW: Why investors should care about FG’s $500 million World Bank loan",
-      "link": "https://nairametrics.com/2026/11/09/infragrow-why-investors-should-care-about-fgs-500-million-world-bank-loan/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government wants a fresh $500 million from the World Bank. The money would seed an infrastructure financing platform called INFRAGROW, short for the Nigeria Infrastructure Financing and De-Risking Platform for Growth and Jobs. The headline loan is small.",
-      "published": "2026-11-09T15:24:24+00:00",
-      "fetched": "2026-11-10T00:54:07.911132+00:00"
-    },
-    {
-      "id": "3a9cac9591cc12c6",
-      "title": "Lagos gets 11 new electric buses from Oando under 552-EV transport plan",
-      "link": "https://nairametrics.com/2026/11/09/lagos-gets-11-new-electric-buses-from-oando-under-552-ev-transport-plan/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos State has received 11 new electric buses supplied by Oando Clean Energy Limited to the Lagos Metropolitan Area Transport Authority (LAMATA), as the partnership works towards a long-term target of deploying 552 electric vehicles for public transportation across the state. The post Lagos gets 11 new electric buses from Oando under 552-EV transport plan appeared first on Nairametrics .",
-      "published": "2026-11-09T15:12:04+00:00",
-      "fetched": "2026-11-10T00:54:07.911183+00:00"
-    },
-    {
-      "id": "3dd748589b63ceb6",
-      "title": "UN warns 2027 could break global temperature record as El Niño intensifies",
-      "link": "https://nairametrics.com/2026/11/09/un-warns-2027-could-break-global-temperature-record-as-el-nino-intensifies/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The World Meteorological Organisation (WMO), a specialised agency of the United Nations responsible for weather, climate and water-related issues, has warned that 2027 could become another record-breaking year for global temperatures. The post UN warns 2027 could break global temperature record as El Niño intensifies appeared first on Nairametrics .",
-      "published": "2026-11-09T14:41:16+00:00",
-      "fetched": "2026-11-10T00:54:07.911233+00:00"
-    },
-    {
-      "id": "31c3dda8b07ec33c",
-      "title": "Yoco taps $100 million credit facility to scale merchant cash advances",
-      "link": "https://techcabal.com/2026/11/09/yoco-payments-data-merchant-lending/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Yoco has secured a $100 million credit facility from Victory Park Capital to expand its merchant financing operation, using payments data to assess small businesses and gain greater control over credit risk.",
-      "published": "2026-11-09T14:37:54+00:00",
-      "fetched": "2026-11-10T00:54:08.586255+00:00"
-    },
-    {
-      "id": "ad05af9ee97079cb",
-      "title": "Zichis key shareholder sells 10.45% stake to Futureview Asset Management",
-      "link": "https://nairametrics.com/2026/11/09/zichis-key-shareholder-sells-10-45-stake-to-futureview-asset-management/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Futureview Asset Management Limited has acquired 126,967,213 ordinary shares of Zichis Agro-Allied Industries Plc from Chilla Entertainment Limited, becoming a substantial shareholder with a 10.45% stake in the company's issued share capital. The post Zichis key shareholder sells 10.45% stake to Futureview Asset Management appeared first on Nairametrics .",
-      "published": "2026-11-09T14:31:26+00:00",
-      "fetched": "2026-11-10T00:54:07.911277+00:00"
-    },
-    {
-      "id": "7fb18c8adac92997",
-      "title": "This tech firm built the geospatial infrastructure behind Nigeria’s door-level address system",
-      "link": "https://techcabal.com/2026/11/09/milsats-role-in-digital-address-system/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s new digital postcode system aims to replace landmark-based directions with precise building-level codes. Behind it is Milsat’s push to build location-data infrastructure—but keeping that information accurate, accessible and useful will be the bigger test.",
-      "published": "2026-11-09T14:25:43+00:00",
-      "fetched": "2026-11-09T14:28:30.200040+00:00"
-    },
-    {
-      "id": "b8324f5a7e5e6a55",
-      "title": "Nigeria’s trade sector faces financing squeeze, profit margins slip – NESG",
-      "link": "https://nairametrics.com/2026/11/09/nigerias-trade-sector-faces-financing-squeeze-profit-margins-slip-nesg/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Limited access to financing was the most frequently cited constraint facing businesses in Nigeria’s trade sector in the first half of 2026, according to the Nigerian Economic Summit Group (NESG). The post Nigeria’s trade sector faces financing squeeze, profit margins slip – NESG appeared first on Nairametrics .",
-      "published": "2026-11-09T14:22:38+00:00",
-      "fetched": "2026-11-09T14:28:29.374119+00:00"
-    },
-    {
-      "id": "dfaa4c8baca77a7f",
-      "title": "Tinubu targets 8% inflation, 7,500MW average power generation in re-election plan",
-      "link": "https://nairametrics.com/2026/11/09/tinubu-targets-8-inflation-7500mw-average-power-generation-in-re-election-plan/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "President Bola Tinubu has pledged to reduce inflation to 8% or lower, increase average peak electricity generation to 7,500 megawatts and boost food supply if re-elected in January. The post Tinubu targets 8% inflation, 7,500MW average power generation in re-election plan appeared first on Nairametrics .",
-      "published": "2026-11-09T14:20:25+00:00",
-      "fetched": "2026-11-09T14:28:29.374159+00:00"
-    },
-    {
-      "id": "f9ebd8d6bd0fe2c5",
-      "title": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
-      "link": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Precisely because it has long been hamstrung by rigid labor markets and overregulation, European stocks may paradoxically be bigger beneficiaries of the AI revolution in terms of enhanced productivity and cost-cutting than its U.S. counterparts",
-      "published": "2026-11-09T14:16:00+00:00",
-      "fetched": "2026-11-09T14:28:28.883690+00:00"
-    },
-    {
-      "id": "039ff0c470c7232a",
-      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-      "published": "2026-11-09T14:15:00+00:00",
-      "fetched": "2026-11-09T14:28:28.883731+00:00"
-    },
-    {
-      "id": "cff99649aa505ec4",
-      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say",
-      "published": "2026-11-09T14:09:00+00:00",
-      "fetched": "2026-11-09T14:28:28.883756+00:00"
-    },
-    {
-      "id": "7d96e1ad19ae97c1",
-      "title": "HomeWork Group, Africa Delivers King’s Court Ikeja GRA After Navigating Over 100% Cost Inflation",
-      "link": "https://nairametrics.com/2026/11/09/homework-group-africa-delivers-kings-court-ikeja-gra-after-navigating-over-100-cost-inflation/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "HomeWork Group Africa has handed over 14 maisonettes at King’s Court in Ikeja GRA, Lagos, marking its second project completion in 2026. The development, located on Adekunle Fajuyi Street, comprises three- and four-bedroom homes. The handover was held on October 27, 2026, after a project period that began in July 2021.",
-      "published": "2026-11-09T14:05:52+00:00",
-      "fetched": "2026-11-09T14:28:29.374214+00:00"
-    },
-    {
-      "id": "6436cb312512520f",
-      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
-      "published": "2026-11-09T13:54:00+00:00",
-      "fetched": "2026-11-09T14:28:28.883778+00:00"
     }
   ]
 }
