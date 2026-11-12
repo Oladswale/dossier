@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-12T14:03:43.825275+00:00",
+  "updated": "2026-11-12T22:55:05.013534+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c314d9a2cd8e8c72",
+      "title": "Addressing nuclear challenges, from radiation detection to power in space",
+      "link": "https://news.mit.edu/2026/addressing-nuclear-challenges-jake-hecla-1112",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Assistant Professor Jake Hecla is developing tools to cool space-based reactors, detect the presence of nuclear weapons, and better understand emerging nuclear technologies.",
+      "published": "2026-11-12T22:10:00+00:00",
+      "fetched": "2026-11-12T22:55:04.192163+00:00"
+    },
+    {
+      "id": "b5190d67195c6390",
+      "title": "Q&A: From seed funding to scientific breakthroughs",
+      "link": "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "How the MIT Global Seed Funds helped Professor Matt Shoulders and his team build international collaborations that continue to shape his research more than a decade later.",
+      "published": "2026-11-12T21:45:00+00:00",
+      "fetched": "2026-11-12T22:55:04.192205+00:00"
+    },
+    {
+      "id": "3551cbe3b3ea6f5e",
+      "title": "Energy, prosperity, emissions, and innovation: A decarbonization progress report",
+      "link": "https://news.mit.edu/2026/energy-prosperity-emissions-innovation-decarbonization-progress-report-1112",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Eric Toone, CTO of Breakthrough Energy, assessed global decarbonization, and the opportunities and challenges that remain, at MITEI’s annual research conference.",
+      "published": "2026-11-12T21:30:00+00:00",
+      "fetched": "2026-11-12T22:55:04.192242+00:00"
+    },
+    {
+      "id": "6e9f2c1dfdbf94a8",
+      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+      "link": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
+      "published": "2026-11-12T21:15:00+00:00",
+      "fetched": "2026-11-12T22:55:04.192274+00:00"
+    },
     {
       "id": "3604fa40daf54a1d",
       "title": "2,800-Year-Old Bone Flute Unearthed in Troy May Have Been Played During Homer’s Time",
@@ -1462,46 +1502,6 @@
       "summary": "There may be no more a macabrely misogynistic sentence in English literature than Edgar Allan Poe’s contention that “the death… of a beautiful woman” is “unquestionably the most poetical topic in the world.” (His perhaps ironic observation prompted Sylvia Plath to write, over a hundred years later, “The woman is perfected / Her dead / Body [ ]",
       "published": "2026-10-08T08:00:58+00:00",
       "fetched": "2026-10-08T12:19:02.339960+00:00"
-    },
-    {
-      "id": "a38b2d7aab59f04b",
-      "title": "Using AI to mitigate the growing environmental threat of data centers",
-      "link": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
-      "published": "2026-10-08T04:00:00+00:00",
-      "fetched": "2026-10-08T12:19:01.416819+00:00"
-    },
-    {
-      "id": "b5f7857ffe997dc5",
-      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Over two decades at MIT, Hamilton forged new paths in computer science and engineering. Her groundbreaking work included leading the team that programmed the first computers that took humans to the moon.",
-      "published": "2026-10-07T20:55:00+00:00",
-      "fetched": "2026-10-07T22:20:16.281566+00:00"
-    },
-    {
-      "id": "bfd65ccdd7e00c9f",
-      "title": "Discovering the value of humanistic inquiry",
-      "link": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Students in MIT’s Concourse program delve deeply into the human condition, debate challenging questions, and learn to develop judgment about issues that can’t be quantified.",
-      "published": "2026-10-07T20:10:00+00:00",
-      "fetched": "2026-10-07T22:20:16.281619+00:00"
-    },
-    {
-      "id": "c0066bd7bee41d7b",
-      "title": "Turning the tide on Massachusetts shellfishing data",
-      "link": "https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
-      "published": "2026-10-07T19:55:00+00:00",
-      "fetched": "2026-10-07T22:20:16.281654+00:00"
     }
   ]
 }

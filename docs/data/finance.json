@@ -1,8 +1,238 @@
 {
   "category": "finance",
-  "updated": "2026-11-12T14:03:29.209787+00:00",
+  "updated": "2026-11-12T22:54:50.516470+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d4dfb53f49d52ef9",
+      "title": "Opening trading-card packs has become a $2 billion market",
+      "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "published": "2026-11-12T22:38:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293297+00:00"
+    },
+    {
+      "id": "517cbd7f4550425f",
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
+      "published": "2026-11-12T22:16:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293345+00:00"
+    },
+    {
+      "id": "572984c6e1137173",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-12T22:00:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293384+00:00"
+    },
+    {
+      "id": "d6560f7546956dbe",
+      "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+      "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "More people want to understand the fine print on plans this year, financial planners say.",
+      "published": "2026-11-12T21:55:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293413+00:00"
+    },
+    {
+      "id": "067be19e5b6a6c43",
+      "title": "The 10 best stocks for a year-end momentum trade",
+      "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Why December is the best month of the year for momentum strategies",
+      "published": "2026-11-12T21:50:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293437+00:00"
+    },
+    {
+      "id": "b1977e696205de2b",
+      "title": "FG hands Port Harcourt airport to private operator for 30 years",
+      "link": "https://nairametrics.com/2026/11/12/fg-hands-port-harcourt-airport-to-private-operator-for-30-years/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has concessioned the Jeremiah Obafemi Awolowo International Airport in Port Harcourt, Rivers State, to Port Harcourt Airport Company Ltd. for 30 years as part of efforts to reduce the financial burden of operating loss-making airports and attract private investment into the aviation sector. The Minister of Aviation and Aerospace Development, Festus Keyamo, [ ] The post FG hands Port Harcourt airport to private operator for 30 years appeared first on Nairametrics .",
+      "published": "2026-11-12T21:25:01+00:00",
+      "fetched": "2026-11-12T22:54:50.034107+00:00"
+    },
+    {
+      "id": "186aeeca33c792a2",
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+      "published": "2026-11-12T21:08:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293483+00:00"
+    },
+    {
+      "id": "ad8e433a76839655",
+      "title": "The bond market now has an even bigger fear than AI fallout",
+      "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+      "published": "2026-11-12T20:44:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293511+00:00"
+    },
+    {
+      "id": "6ce0d2932b743549",
+      "title": "PMI delivers 2.8 million meters to electricity customers, says Power Minister",
+      "link": "https://nairametrics.com/2026/11/12/pmi-delivers-2-8-million-meters-to-electricity-customers-says-power-minister/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Presidential Metering Initiative has supplied more than 2.8 million electricity meters to electricity consumers in Nigeria as part of efforts to reduce revenue losses associated with unmetered consumption. Minister of Power, Joseph Tegbe, disclosed this on Thursday in Abuja while delivering the opening address at the sixth Annual Conference of the Power Correspondents Association [ ] The post PMI delivers 2.8 million meters to electricity customers, says Power Minister appeared first on Nairametrics .",
+      "published": "2026-11-12T20:37:02+00:00",
+      "fetched": "2026-11-12T22:54:50.034180+00:00"
+    },
+    {
+      "id": "37fe7fd0a5ba6816",
+      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
+      "published": "2026-11-12T20:17:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293544+00:00"
+    },
+    {
+      "id": "156c106ecb8b1b99",
+      "title": "Ghana plans $10 billion investment to drive growth to 8% by 2030",
+      "link": "https://nairametrics.com/2026/11/12/ghana-plans-10-billion-investment-to-drive-growth-to-8-by-2030/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Ghana has unveiled plans to invest $10 billion over the next four years in job-intensive sectors as it seeks to accelerate economic growth to 8% by 2030, marking a shift from fiscal austerity to an investment-led growth strategy following its 2022 debt default. Finance Minister Cassiel Ato Forson disclosed this on Thursday while presenting the [ ] The post Ghana plans $10 billion investment to drive growth to 8% by 2030 appeared first on Nairametrics .",
+      "published": "2026-11-12T20:14:42+00:00",
+      "fetched": "2026-11-12T22:54:50.034241+00:00"
+    },
+    {
+      "id": "d18b8d44764e3fbd",
+      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
+      "published": "2026-11-12T19:46:00+00:00",
+      "fetched": "2026-11-12T22:54:49.293572+00:00"
+    },
+    {
+      "id": "429e237f5dd7968e",
+      "title": "NGX gains N328 billion as Seplat, First HoldCo, Stanbic IBTC lead rebound",
+      "link": "https://nairametrics.com/2026/11/12/ngx-gains-n328-billion-as-seplat-first-holdco-stanbic-ibtc-lead-rebound/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian equities market rebounded on Thursday, November 12, 2026, with the market capitalisation rising by N328.26 billion to N163.86 trillion, from N163.53 trillion, as renewed buying in heavyweight counters lifted the benchmark NGX All-Share Index (ASI) by 0.20% to 252,366.80 points from 251,861.24 points. The post NGX gains N328 billion as Seplat, First HoldCo, Stanbic IBTC lead rebound appeared first on Nairametrics .",
+      "published": "2026-11-12T19:44:05+00:00",
+      "fetched": "2026-11-12T22:54:50.034305+00:00"
+    },
+    {
+      "id": "47e2e8748d8e8699",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+      "published": "2026-11-12T19:05:25+00:00",
+      "fetched": "2026-11-12T22:54:49.726877+00:00"
+    },
+    {
+      "id": "1d2399abbe254793",
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "published": "2026-11-12T19:04:21+00:00",
+      "fetched": "2026-11-12T22:54:49.726915+00:00"
+    },
+    {
+      "id": "67755fd0cfb6c44e",
+      "title": "Mastercard and SMEDAN convene MSME Growth Forum and sign MoU to advance SME digitization in Nigeria",
+      "link": "https://nairametrics.com/2026/11/12/mastercard-and-smedan-convene-msme-growth-forum-and-sign-mou-to-advance-sme-digitization-in-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Government leaders, financial institutions and entrepreneurs gather to explore payments, credit and digital capabilities for Nigerian SMEs as Mastercard and SMEDAN sign an MoU to explore opportunities to support MSME digitization and growth. Mastercard and the Small and Medium Enterprises Development Agency of Nigeria (SMEDAN) convened entrepreneurs, financial institutions, policymakers and ecosystem partners at the [ ] The post Mastercard and SMEDAN convene MSME Growth Forum and sign MoU to advance SME digitization in Nigeria appeared first on Nairametrics .",
+      "published": "2026-11-12T17:04:40+00:00",
+      "fetched": "2026-11-12T22:54:50.034365+00:00"
+    },
+    {
+      "id": "1531e924e0686bd7",
+      "title": "Abbey Bank, First HoldCo lead shareholder shake-up at Nigerian banks in 9M 2026",
+      "link": "https://nairametrics.com/2026/11/12/abbey-bank-first-holdco-lead-shareholder-shake-up-at-nigerian-banks-in-9m-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Shareholding structures across Nigerian Exchange (NGX)-listed banks recorded varying changes in the nine months ended September 30, 2026, with Abbey Bank, First HoldCo and Sterling Financial Holdings accounting for the most significant changes. The post Abbey Bank, First HoldCo lead shareholder shake-up at Nigerian banks in 9M 2026 appeared first on Nairametrics .",
+      "published": "2026-11-12T16:48:45+00:00",
+      "fetched": "2026-11-12T22:54:50.034410+00:00"
+    },
+    {
+      "id": "5cfa54cd4d101739",
+      "title": "Bank of Ghana to introduce upgraded cedi banknotes from December 1",
+      "link": "https://nairametrics.com/2026/11/12/bank-of-ghana-to-introduce-upgraded-cedi-banknotes-from-december-1/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Bank of Ghana (BoG) will introduce its upgraded Ghana Cedi Heritage Series banknotes into circulation from December 1, 2026, while retaining existing notes as legal tender. The post Bank of Ghana to introduce upgraded cedi banknotes from December 1 appeared first on Nairametrics .",
+      "published": "2026-11-12T16:26:54+00:00",
+      "fetched": "2026-11-12T22:54:50.034450+00:00"
+    },
+    {
+      "id": "d7d73dfd50b3c52b",
+      "title": "Jensen Huang’s exit puts Nvidia’s African AI bet to the test",
+      "link": "https://techcabal.com/2026/11/12/jensen-huang-exit-puts-nvidia-africa-test/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Before he resigned as Nvidia chief executive, Jensen Huang singled out African markets as where US technology companies should compete.",
+      "published": "2026-11-12T16:04:29+00:00",
+      "fetched": "2026-11-12T22:54:50.516212+00:00"
+    },
+    {
+      "id": "f017efe9ecfd887c",
+      "title": "How CanalBox is Democratising Internet Service Through Fibre",
+      "link": "https://nairametrics.com/2026/11/12/how-canalbox-is-democratising-internet-service-through-fibre/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "For too long, fast internet in Nigeria has been a luxury. Households ration data, students cluster around Wi-Fi hotspots to do assignments, and small businesses lose customers because a video call freezes. The country is online – 154.72 million internet subscriptions and 55.67% broadband penetration as of April 2026 – but truly fast, reliable, home [ ] The post How CanalBox is Democratising Internet Service Through Fibre appeared first on Nairametrics .",
+      "published": "2026-11-12T16:01:26+00:00",
+      "fetched": "2026-11-12T22:54:50.034513+00:00"
+    },
+    {
+      "id": "311a44ef7b24bb19",
+      "title": "Colette Kress: Meet Nvidia’s interim CEO steering multi-trillion dollar AI growth",
+      "link": "https://nairametrics.com/2026/11/12/colette-kress-meet-nvidias-interim-ceo-steering-multi-trillion-dollar-ai-growth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Colette Kress, the longtime Chief Financial Officer of American semiconductor giant Nvidia, has been appointed interim Chief Executive Officer following the resignation of company co-founder Jensen Huang on November 12, 2026. The post Colette Kress: Meet Nvidia s interim CEO steering multi-trillion dollar AI growth appeared first on Nairametrics .",
+      "published": "2026-11-12T15:25:26+00:00",
+      "fetched": "2026-11-12T22:54:50.034560+00:00"
+    },
+    {
+      "id": "d1f869b92d11e898",
+      "title": "Nvidia CEO Jensen Huang resigns as company appoints Colette Kress interim CEO",
+      "link": "https://nairametrics.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-as-company-appoints-colette-kress-interim-ceo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nvidia has announced the immediate resignation of its co-founder, Jensen Huang, as President and Chief Executive Officer, ending his 33-year leadership of the American semiconductor company. The post Nvidia CEO Jensen Huang resigns as company appoints Colette Kress interim CEO appeared first on Nairametrics .",
+      "published": "2026-11-12T14:49:51+00:00",
+      "fetched": "2026-11-12T22:54:50.034601+00:00"
+    },
+    {
+      "id": "942c7934d0b748a3",
+      "title": "FG clears 21-Month pension backlog, funds workers’ benefits until December 2029",
+      "link": "https://nairametrics.com/2026/11/12/fg-clears-21-month-pension-backlog-funds-workers-benefits-until-december-2029/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has cleared a 21-month backlog in accrued pension rights for enrolled federal workers, funding their entitlements up to December 2029, according to the National Pension Commission (PenCom). The post FG clears 21-Month pension backlog, funds workers’ benefits until December 2029 appeared first on Nairametrics .",
+      "published": "2026-11-12T14:24:56+00:00",
+      "fetched": "2026-11-12T22:54:50.034651+00:00"
+    },
     {
       "id": "8ab72bb001c950a0",
       "title": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -1272,236 +1502,6 @@
       "summary": "UK-funded development agency FSD Africa has partnered with Nigeria’s Pension Industry Leadership Council (PILC) to develop a proposed $750 million infrastructure investment fund aimed at mobilising domestic pension assets for projects across Nigeria and selected African markets. The post FSD Africa, PILC partner to launch $750 million Nigerian pension infrastructure fund appeared first on Nairametrics .",
       "published": "2026-11-10T11:58:45+00:00",
       "fetched": "2026-11-10T13:50:17.573253+00:00"
-    },
-    {
-      "id": "00ec3dca01a92059",
-      "title": "Eight Nigerian founders get over $29,000 in government-backed business support",
-      "link": "https://techcabal.com/2026/11/10/cascador-niya-select-eight-founders/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s Ministry of Youth Development, through the Nigerian Youth Academy (NiYA), and Cascador have awarded ₦5 million ($3,711) each to eight Nigerian founders to help grow their businesses.",
-      "published": "2026-11-10T11:31:32+00:00",
-      "fetched": "2026-11-10T13:50:18.221290+00:00"
-    },
-    {
-      "id": "f72d9257bc8eca11",
-      "title": "USPF opens applications for N10 million nationwide tech innovation challenge",
-      "link": "https://nairametrics.com/2026/11/10/uspf-opens-applications-for-n10-million-nationwide-tech-innovation-challenge/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Universal Service Provision Fund (USPF) has opened applications for a nationwide technology innovation competition offering a N10 million prize pool to Nigerian startups and innovation teams developing solutions for underserved communities. The post USPF opens applications for N10 million nationwide tech innovation challenge appeared first on Nairametrics .",
-      "published": "2026-11-10T11:19:02+00:00",
-      "fetched": "2026-11-10T13:50:17.573298+00:00"
-    },
-    {
-      "id": "4c9537a4f6e00eba",
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "published": "2026-11-10T11:15:00+00:00",
-      "fetched": "2026-11-10T13:50:17.193920+00:00"
-    },
-    {
-      "id": "a7e3e4684b505980",
-      "title": "South Africa’s unemployment rate rises to 33.7% in Q3, jobless population hits 8.6 million",
-      "link": "https://nairametrics.com/2026/11/10/south-africas-unemployment-rate-rises-to-33-7-in-q3-jobless-population-hits-8-6-million/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "South Africa’s unemployment rate increased to 33.7% in the third quarter of 2026, with the number of unemployed people rising to 8.6 million, according to Statistics South Africa. The post South Africa’s unemployment rate rises to 33.7% in Q3, jobless population hits 8.6 million appeared first on Nairametrics .",
-      "published": "2026-11-10T11:13:04+00:00",
-      "fetched": "2026-11-10T13:50:17.573347+00:00"
-    },
-    {
-      "id": "ce82cc8a51850ba6",
-      "title": "Côte d’Ivoire’s plan to back 32 tech startups faces a funding test",
-      "link": "https://techcabal.com/2026/11/10/francophone-weekly-by-techcabal-047/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Abidjan has named the first cohorts of Ivoire Tech Next 15 and Ivoire Tech Scale Up. The selection is credible. The money, procurement rules, and scorecard will decide whether it works.",
-      "published": "2026-11-10T11:11:54+00:00",
-      "fetched": "2026-11-10T13:50:18.221336+00:00"
-    },
-    {
-      "id": "6a0f23bdd74f5cc3",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "published": "2026-11-10T10:45:00+00:00",
-      "fetched": "2026-11-10T13:50:17.193958+00:00"
-    },
-    {
-      "id": "5bdcc28ce8d4fe22",
-      "title": "The Business of Making Capital Move: Coronation Merchant Bank’s Investment Banking Year",
-      "link": "https://nairametrics.com/2026/11/10/the-business-of-making-capital-move-coronation-merchant-banks-investment-banking-year/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In a market balancing expensive funding with renewed demand for capital, Coronation Merchant Bank’s 2026 experience offers a view of how Nigerian investment banking is evolving. The best measure of an investment bank is not how many deals it announces, but how effectively it connects companies that need capital with investors willing to provide it. [ ] The post The Business of Making Capital Move: Coronation Merchant Bank’s Investment Banking Year appeared first on Nairametrics .",
-      "published": "2026-11-10T10:29:16+00:00",
-      "fetched": "2026-11-10T13:50:17.573407+00:00"
-    },
-    {
-      "id": "6ff99bb8cee7d9cc",
-      "title": "eTranzact, MTN Nigeria, lead boardroom shake-ups as 9M 2026 earnings roll in",
-      "link": "https://nairametrics.com/2026/11/10/etranzact-mtn-nigeria-lead-boardroom-shake-ups-as-9m-2026-earnings-roll-in/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "As Nigerian Exchange (NGX)-listed companies publish their nine-month (9M) 2026 financial results, a wave of boardroom changes is also unfolding across the corporate landscape, with companies announcing new director appointments, executive restructuring and the retirement or replacement of long-serving board members. The post eTranzact, MTN Nigeria, lead boardroom shake-ups as 9M 2026 earnings roll in appeared first on Nairametrics .",
-      "published": "2026-11-10T10:27:20+00:00",
-      "fetched": "2026-11-10T13:50:17.573455+00:00"
-    },
-    {
-      "id": "1cb0ed8357b908fa",
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "There’s already a demographic ‘run’ on Social Security.",
-      "published": "2026-11-10T10:15:00+00:00",
-      "fetched": "2026-11-10T13:50:17.193985+00:00"
-    },
-    {
-      "id": "ae6c3039a6563764",
-      "title": "CBN opens N1.5 trillion OMO auction today as banking-system cash exceeds N5.9 trillion",
-      "link": "https://nairametrics.com/2026/11/10/cbn-opens-n1-5-trillion-omo-auction-today-as-banking-system-cash-exceeds-n5-9-trillion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) is conducting an Open Market Open auction today targeting to sell N1.5 trillion as fresh wave of liquidity has already risen above N5.9 trillion in addition to estimated inflows of N2.448 trillion expected to enter the banking system this week. The post CBN opens N1.5 trillion OMO auction today as banking-system cash exceeds N5.9 trillion appeared first on Nairametrics .",
-      "published": "2026-11-10T10:11:20+00:00",
-      "fetched": "2026-11-10T13:50:17.573502+00:00"
-    },
-    {
-      "id": "5949d90aa49f8f2f",
-      "title": "Beyond macroeconomic stability: Nigeria’s search for a household dividend",
-      "link": "https://nairametrics.com/2026/11/10/beyond-macroeconomic-stability-nigerias-search-for-a-household-dividend/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Bisi Afolayan counts her transport money on Sunday night, in a tin that used to hold Bournvita, because counting it on Monday morning has twice made her late. The post Beyond macroeconomic stability: Nigeria s search for a household dividend appeared first on Nairametrics .",
-      "published": "2026-11-10T10:04:13+00:00",
-      "fetched": "2026-11-10T13:50:17.573542+00:00"
-    },
-    {
-      "id": "cd785c7782e61512",
-      "title": "NiMet forecasts rising heat discomfort across Nigeria in November",
-      "link": "https://nairametrics.com/2026/11/10/nimet-forecasts-rising-heat-discomfort-across-nigeria-in-november/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria is expected to experience increased heat discomfort in November as temperatures rise and rainfall declines across much of the country. The post NiMet forecasts rising heat discomfort across Nigeria in November appeared first on Nairametrics .",
-      "published": "2026-11-10T10:03:35+00:00",
-      "fetched": "2026-11-10T13:50:17.573577+00:00"
-    },
-    {
-      "id": "28227d23136f3b27",
-      "title": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
-      "link": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "New York Knicks star Josh Hart has relisted his sprawling Florida mansion for $5.69 million—just one year after removing the home from the selling block.",
-      "published": "2026-11-10T10:01:00+00:00",
-      "fetched": "2026-11-10T13:50:17.194017+00:00"
-    },
-    {
-      "id": "c9f60c323fd827dd",
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-      "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-      "published": "2026-11-10T09:00:01+00:00",
-      "fetched": "2026-11-10T13:50:17.269272+00:00"
-    },
-    {
-      "id": "ba00dd56a0ec527b",
-      "title": "Anthropic withdraws IPO pricing details showing potential $69.3 billion raise",
-      "link": "https://nairametrics.com/2026/11/10/anthropic-withdraws-ipo-pricing-details-showing-potential-69-3-billion-raise/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Anthropic has retracted initial public offering (IPO) pricing details that indicated the artificial intelligence company could raise as much as $69.3 billion from its planned stock market listing. The post Anthropic withdraws IPO pricing details showing potential $69.3 billion raise appeared first on Nairametrics .",
-      "published": "2026-11-10T08:43:44+00:00",
-      "fetched": "2026-11-10T13:50:17.573614+00:00"
-    },
-    {
-      "id": "2bc56deed534c55d",
-      "title": "Investing with Purpose: How to Match Your Portfolio to Your Goals – First Asset Management",
-      "link": "https://nairametrics.com/2026/11/10/investing-with-purpose-how-to-match-your-portfolio-to-your-goals-first-asset-management/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Ask most people why they invest and you will likely hear “to make money.” Fair enough. But that is an outcome, not a reason. Money is a tool, and a tool only makes sense once you know what you are building with it.",
-      "published": "2026-11-10T08:39:20+00:00",
-      "fetched": "2026-11-10T13:50:17.573677+00:00"
-    },
-    {
-      "id": "33de63f67b1f7aca",
-      "title": "France introduces new immigration rules for foreign workers who lose their jobs",
-      "link": "https://nairametrics.com/2026/11/10/france-introduces-new-immigration-rules-for-foreign-workers-who-lose-their-jobs/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "France has introduced new immigration rules allowing eligible foreign workers who lose their jobs to remain in the country for up to six months while seeking new employment. The post France introduces new immigration rules for foreign workers who lose their jobs appeared first on Nairametrics .",
-      "published": "2026-11-10T08:37:34+00:00",
-      "fetched": "2026-11-10T13:50:17.573718+00:00"
-    },
-    {
-      "id": "3187188ad73166b1",
-      "title": "Tony Elumelu Calls for Greater Representation of Women in African Corporate Leadership",
-      "link": "https://nairametrics.com/2026/11/10/tony-elumelu-calls-for-greater-representation-of-women-in-african-corporate-leadership/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Tony O. Elumelu, CFR, Chairman of Heirs Holdings, called on business leaders across Africa to accelerate female representation in corporate leadership, highlighting the eight women serving as Chairs and Chief Executives across the Heirs Holdings Group as evidence of the transformative impact of creating opportunities for women to lead. Delivering the keynote address at the [ ] The post Tony Elumelu Calls for Greater Representation of Women in African Corporate Leadership appeared first on Nairametrics .",
-      "published": "2026-11-10T08:29:25+00:00",
-      "fetched": "2026-11-10T13:50:17.573771+00:00"
-    },
-    {
-      "id": "8504132a82c30917",
-      "title": "Why Money Circles Could Change How Individuals and SMEs Raise Capital",
-      "link": "https://nairametrics.com/2026/11/10/why-money-circles-could-change-how-individuals-and-smes-raise-capital/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "For many young Nigerians, access to capital remains a significant barrier to meeting major financial commitments and pursuing personal ambitions. Whether covering essential expenses, funding education, travelling or investing in a business, these goals often require substantial lump sums, forcing people to dip into their savings or put important plans on hold. What if I [ ] The post Why Money Circles Could Change How Individuals and SMEs Raise Capital appeared first on Nairametrics .",
-      "published": "2026-11-10T08:27:08+00:00",
-      "fetched": "2026-11-10T13:50:17.573823+00:00"
-    },
-    {
-      "id": "12fad79ee54ada02",
-      "title": "NB, HBM, Nestlé Nigeria, others book N129.4 billion in fees and royalties paid to parent",
-      "link": "https://nairametrics.com/2026/11/10/nb-hbm-nestle-nigeria-others-book-n129-4-billion-in-fees-and-royalties-paid-to-parent/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Seven foreign-owned companies on the Nigerian Exchange that disclose the figures booked N129.4 billion in royalties, licence, technical and management fees to their parent groups in the nine months through September. The post NB, HBM, Nestlé Nigeria, others book N129.4 billion in fees and royalties paid to parent appeared first on Nairametrics .",
-      "published": "2026-11-10T07:40:23+00:00",
-      "fetched": "2026-11-10T13:50:17.573894+00:00"
-    },
-    {
-      "id": "bcf185b87d82aa1d",
-      "title": "Nigeria turns to hybrid cloud infrastructure for its postcode database",
-      "link": "https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "TechCabal reported that technical checks of postcode.gov.ng’s public domain name system (DNS) records pointed to Amazon Web Services (AWS) infrastructure in the United States. The finding raised questions about whether a critical public digital asset was hosted abroad, just as Nigeria strengthens its push for data sovereignty.",
-      "published": "2026-11-10T06:21:31+00:00",
-      "fetched": "2026-11-10T13:50:18.221385+00:00"
-    },
-    {
-      "id": "d645e8a4cc5de8f2",
-      "title": "👨🏿‍🚀TechCabal Daily – ‘Too much Access’",
-      "link": "https://techcabal.com/2026/11/10/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-too-much-access/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Access weighs foreign market exit Kenya banks face conflicting deadlines MTN and Cell C hit impasse Yoco secures $100 million for lending",
-      "published": "2026-11-10T06:00:12+00:00",
-      "fetched": "2026-11-10T13:50:18.221421+00:00"
-    },
-    {
-      "id": "54981cef19749992",
-      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the ony company helping China access chips",
-      "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
-      "published": "2026-11-10T00:48:00+00:00",
-      "fetched": "2026-11-10T00:54:06.946064+00:00"
     }
   ]
 }
