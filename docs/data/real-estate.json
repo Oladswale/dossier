@@ -1,6 +1,6 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-11T23:45:15.515348+00:00",
+  "updated": "2026-11-12T04:30:25.362268+00:00",
   "count": 150,
   "items": [
     {
@@ -172,6 +172,16 @@
       "summary": "The Kansas City Chiefs quarterback and his wife, both 31, took to Instagram to share the joyous news that their family is expanding.",
       "published": "2026-11-11T14:12:22+00:00",
       "fetched": "2026-11-11T23:45:15.514869+00:00"
+    },
+    {
+      "id": "7de424a1fb7dde83",
+      "title": "How to Buy Your Next Rental With Seller Financing (No Bank Needed)",
+      "link": "https://www.biggerpockets.com/blog/rookie-795",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "You could buy your next rental without a bank on terms you help write. That’s the power of seller financing, and it often opens up when high rates leave sellers [ ]",
+      "published": "2026-11-11T12:00:50+00:00",
+      "fetched": "2026-11-12T04:30:25.021405+00:00"
     },
     {
       "id": "d8b833677010da3b",
@@ -1492,16 +1502,6 @@
       "summary": "Is flipping houses still worth it when the market slows down? The easy appreciation days may be over, but investors who underwrite their deals with discipline are still finding ways [ ]",
       "published": "2026-11-04T12:00:20+00:00",
       "fetched": "2026-11-04T13:20:45.479295+00:00"
-    },
-    {
-      "id": "4991578f1f2f7cda",
-      "title": "Housing Market Feels the Chill as Buyers Pull Back—but Sellers Are Not Panicking Yet",
-      "link": "https://www.realtor.com/news/trends/housing-market-buyers-pull-back-sellers-october-2026-report/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Despite high mortgage rates, steady delistings and price cuts in October signal a resilient housing market paused rather than panicked.",
-      "published": "2026-11-04T10:00:00+00:00",
-      "fetched": "2026-11-04T13:20:45.869462+00:00"
     }
   ]
 }

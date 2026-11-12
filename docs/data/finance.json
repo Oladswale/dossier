@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-11-11T23:44:59.811293+00:00",
+  "updated": "2026-11-12T04:30:11.065011+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "e3e48025e7f45ed3",
+      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+      "published": "2026-11-12T01:12:00+00:00",
+      "fetched": "2026-11-12T04:30:09.281259+00:00"
+    },
     {
       "id": "73689a681fb86f7a",
       "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
@@ -1492,16 +1502,6 @@
       "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
       "published": "2026-11-09T13:54:00+00:00",
       "fetched": "2026-11-09T14:28:28.883778+00:00"
-    },
-    {
-      "id": "d01b0d91d93631bb",
-      "title": "How Kuramo wants to train Nigeria’s next generation of SME fund managers",
-      "link": "https://techcabal.com/2026/11/09/kuramo-wants-to-train-nigersme-fund/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Kuramo has launched the Wholesale Impact Investment Fund (WIIF), a naira-denominated fund-of-funds targeting $1 billion for Nigerian small businesses.",
-      "published": "2026-11-09T13:41:52+00:00",
-      "fetched": "2026-11-09T14:28:30.200071+00:00"
     }
   ]
 }
