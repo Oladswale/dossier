@@ -1,8 +1,188 @@
 {
   "category": "finance",
-  "updated": "2026-11-13T13:29:14.731496+00:00",
+  "updated": "2026-11-13T22:56:45.983194+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "86d2439f8c69a8f0",
+      "title": "4 expert tips for signing up for Medicare",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A day in the life of a Medicare counselor",
+      "published": "2026-11-13T22:45:00+00:00",
+      "fetched": "2026-11-13T22:56:44.860975+00:00"
+    },
+    {
+      "id": "19e070654e6a867c",
+      "title": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack.",
+      "published": "2026-11-13T22:44:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861008+00:00"
+    },
+    {
+      "id": "e74918e4310e9176",
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+      "published": "2026-11-13T22:21:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861031+00:00"
+    },
+    {
+      "id": "f8d6d8dc5ea0a2e1",
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "published": "2026-11-13T22:04:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861055+00:00"
+    },
+    {
+      "id": "3a11600d4c7b8b19",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "2026-11-13T22:00:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861073+00:00"
+    },
+    {
+      "id": "21e5514490605652",
+      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "published": "2026-11-13T21:32:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861092+00:00"
+    },
+    {
+      "id": "5f4ef69e9d3dcde4",
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+      "published": "2026-11-13T21:26:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861112+00:00"
+    },
+    {
+      "id": "819ffecd74dd85cc",
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
+      "published": "2026-11-13T21:10:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861131+00:00"
+    },
+    {
+      "id": "09b2def87975e1e5",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+      "published": "2026-11-13T21:09:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861145+00:00"
+    },
+    {
+      "id": "052c0aaa3f277d40",
+      "title": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?",
+      "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "This back-of-the-napkin calculation can help you see if you’re buying too much coverage",
+      "published": "2026-11-13T20:45:00+00:00",
+      "fetched": "2026-11-13T22:56:44.861160+00:00"
+    },
+    {
+      "id": "c89e7e3f7dd9a4cc",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
+      "published": "2026-11-13T19:11:13+00:00",
+      "fetched": "2026-11-13T22:56:45.005204+00:00"
+    },
+    {
+      "id": "f435373f64e76097",
+      "title": "Microsoft’s 18-hour outage exposed South Africa’s dependence on Big Tech",
+      "link": "https://techcabal.com/2026/11/13/microsoft-outage-south-africa-big-tech/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Microsoft's global outage disrupted South African businesses and public institutions, including Eskom, Absa and FlySafair, exposing the country's growing dependence on Big Tech's cloud infrastructure.",
+      "published": "2026-11-13T17:41:02+00:00",
+      "fetched": "2026-11-13T22:56:45.982977+00:00"
+    },
+    {
+      "id": "70a8b6c2e388f7d1",
+      "title": "SEPLAT ENERGY: Buy, Sell or Hold?",
+      "link": "https://nairametrics.com/2026/11/13/seplat-energy-buy-sell-or-hold/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria has never seen a share price like this. Seplat Energy closed at N16,000.10 on Wednesday, up about 175% this year. No other NGX stock is priced above N10,000.",
+      "published": "2026-11-13T16:51:39+00:00",
+      "fetched": "2026-11-13T22:56:45.350891+00:00"
+    },
+    {
+      "id": "182a94b1c1b837c1",
+      "title": "ARM HARITH announces successful financial close of Project Shiprite",
+      "link": "https://nairametrics.com/2026/11/13/arm-harith-announces-successful-financial-close-of-project-shiprite/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "ARM-Harith Infrastructure Investment Limited is pleased to announce the successful financial close of Project Shiprite, a landmark maritime infrastructure investment at the Port of Takoradi in Ghana representing a transformative step in strengthening West Africa’s maritime capabilities. Developed under a 25-year concession granted by the Ghana Ports and Harbours Authority, the project will deliver a [ ] The post ARM HARITH announces successful financial close of Project Shiprite appeared first on Nairametrics .",
+      "published": "2026-11-13T15:30:56+00:00",
+      "fetched": "2026-11-13T22:56:45.350940+00:00"
+    },
+    {
+      "id": "d02023cfab73f436",
+      "title": "Saved2Save International seeks partners to expand youth recovery and nation-building programmes",
+      "link": "https://nairametrics.com/2026/11/13/saved2save-international-seeks-partners-to-expand-youth-recovery-and-nation-building-programmes/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Saved2Save International is seeking partnerships with government agencies, businesses and universities to expand addiction prevention, mentorship and recovery support for young Nigerians, following a Lagos gathering that drew thousands of participants.Freedom Experience 2.0, held on 7 November at Celebr8 Centre HQ, Ogba, Ikeja, attracted thousands of young people, including students from universities and other tertiary [ ] The post Saved2Save International seeks partners to expand youth recovery and nation-building programmes appeared first on Nairametrics .",
+      "published": "2026-11-13T15:25:21+00:00",
+      "fetched": "2026-11-13T22:56:45.350977+00:00"
+    },
+    {
+      "id": "42db6a7a3ed170b7",
+      "title": "Nigerian companies slash N2.26 trillion debt, switch lenders for cheaper loans",
+      "link": "https://nairametrics.com/2026/11/13/nigerian-companies-slash-n2-26-trillion-debt-switch-lenders-for-cheaper-loans/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Big borrowers cut about N2.26 trillion of debt in nine months. Smaller companies that depend on Nigerian banks are still paying close to 30%. Nigeria s biggest companies are doing something they rarely manage: paying down debt.",
+      "published": "2026-11-13T14:36:29+00:00",
+      "fetched": "2026-11-13T22:56:45.351011+00:00"
+    },
+    {
+      "id": "b3b5228229e7769a",
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+      "published": "2026-11-13T14:22:07+00:00",
+      "fetched": "2026-11-13T22:56:45.005230+00:00"
+    },
+    {
+      "id": "44d0d22fcd078d60",
+      "title": "South African, Nigerian pension funds seek $1 billion stake in Dangote Refinery IPO",
+      "link": "https://nairametrics.com/2026/11/13/south-african-nigerian-pension-funds-seek-1-billion-stake-in-dangote-refinery-ipo/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa’s largest asset manager and Nigerian pension fund administrators have reportedly applied for nearly $1 billion worth of shares in Dangote Petroleum Refinery and Petrochemicals FZE, as institutional investors seek exposure to the company's landmark initial public offering (IPO). The post South African, Nigerian pension funds seek $1 billion stake in Dangote Refinery IPO appeared first on Nairametrics .",
+      "published": "2026-11-13T14:06:12+00:00",
+      "fetched": "2026-11-13T22:56:45.351045+00:00"
+    },
     {
       "id": "1c704a2ba3a7ab8e",
       "title": "Best performing money market funds in Nigeria as of October 2026",
@@ -1322,186 +1502,6 @@
       "summary": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
       "published": "2026-11-11T09:59:00+00:00",
       "fetched": "2026-11-11T13:01:15.112102+00:00"
-    },
-    {
-      "id": "1eb955c7a8817bf0",
-      "title": "CBN allots N3.854 trillion in OMO auction, exceeding original offer by N2.354 trillion",
-      "link": "https://nairametrics.com/2026/11/11/cbn-allots-n3-854-trillion-in-omo-auction-exceeding-original-offer-by-n2-354-trillion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Nigeria (CBN) allotted N3.854 trillion at its Open Market Operations (OMO) auction on November 10, 2026, exceeding its initial N1.50 trillion offer by N2.354 trillion as investors showed strong preference for longer-dated securities. The post CBN allots N3.854 trillion in OMO auction, exceeding original offer by N2.354 trillion appeared first on Nairametrics .",
-      "published": "2026-11-11T08:55:07+00:00",
-      "fetched": "2026-11-11T13:01:15.587852+00:00"
-    },
-    {
-      "id": "6fbd57644b727bfb",
-      "title": "Lagos Red Line gets three new trains with 24 coaches",
-      "link": "https://nairametrics.com/2026/11/11/lagos-red-line-gets-three-new-trains-with-24-coaches/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has received three new trains comprising 24 coaches for the Lagos Rail Mass Transit (LRMT) Red Line, in a move expected to increase the service’s operational capacity. The post Lagos Red Line gets three new trains with 24 coaches appeared first on Nairametrics .",
-      "published": "2026-11-11T08:39:28+00:00",
-      "fetched": "2026-11-11T13:01:15.587875+00:00"
-    },
-    {
-      "id": "be2e7f9fc8074068",
-      "title": "EXCLUSIVE: EFCC appeals ruling reversing interim forfeiture of ex-Warri Refinery MD’s properties",
-      "link": "https://nairametrics.com/2026/11/11/exclusive-efcc-appeals-ruling-reversing-interim-forfeiture-of-ex-warri-refinery-mds-properties/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Economic and Financial Crimes Commission (EFCC) has appealed against the Federal High Court’s decision to set aside its interim forfeiture order against properties linked to the former Managing Director of Warri Refining and Petrochemical Company (WRPC), Jimoh Olasunkanmi Yisawu. The post EXCLUSIVE: EFCC appeals ruling reversing interim forfeiture of ex-Warri Refinery MD’s properties appeared first on Nairametrics .",
-      "published": "2026-11-11T08:15:37+00:00",
-      "fetched": "2026-11-11T13:01:15.587904+00:00"
-    },
-    {
-      "id": "24b686ba8671f10a",
-      "title": "What OPay and Moniepoint’s numbers reveal about fintech economics",
-      "link": "https://techcabal.com/2026/11/11/opay-moniepoint-fintech-economics/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "A Bolt driver in Nigeria will likely ask you to pay via OPay at the end of a trip, while a local store is more likely to have a Moniepoint terminal at its checkout. Both fintechs, which hold microfinance banking licences, have become synonymous with scale in Nigeria's payments market, carving out niches in consumer payments and merchant processing.",
-      "published": "2026-11-11T08:06:53+00:00",
-      "fetched": "2026-11-11T13:01:16.634043+00:00"
-    },
-    {
-      "id": "6f2cd6a5d04a118b",
-      "title": "Bolt says over N140 billion invested in Nigeria in 10 years",
-      "link": "https://nairametrics.com/2026/11/11/bolt-says-over-n140-billion-invested-in-nigeria-in-10-years/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Bolt, a global ride-hailing platform, says it has invested more than N140 billion in Nigeria since commencing operations in the country in 2016. The post Bolt says over N140 billion invested in Nigeria in 10 years appeared first on Nairametrics .",
-      "published": "2026-11-11T07:57:02+00:00",
-      "fetched": "2026-11-11T13:01:15.587923+00:00"
-    },
-    {
-      "id": "d18bc79d53e80202",
-      "title": "NLNG, NCDMB commit N12.78 billion to research in six Nigerian universities",
-      "link": "https://nairametrics.com/2026/11/11/nlng-ncdmb-commit-n12-78-billion-to-research-in-six-nigerian-universities/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria LNG Limited (NLNG) and the Nigerian Content Development and Monitoring Board (NCDMB) have committed $9 million (N12.78 billion) to establish professorial research chairs in six Nigerian universities, with each institution expected to receive $1.5 million (N2.13 billion). The post NLNG, NCDMB commit N12.78 billion to research in six Nigerian universities appeared first on Nairametrics .",
-      "published": "2026-11-11T07:39:18+00:00",
-      "fetched": "2026-11-11T13:01:15.587947+00:00"
-    },
-    {
-      "id": "97ca964d44487b62",
-      "title": "FG offers N2 trillion in bonds as DMO opens November 2026 auction",
-      "link": "https://nairametrics.com/2026/11/11/fg-offers-n2-trillion-in-bonds-as-dmo-opens-november-2026-auction/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has offered N2 trillion in bonds for subscription as the Debt Management Office (DMO) opens its November 2026 Federal Government of Nigeria (FGN) bond auction. The post FG offers N2 trillion in bonds as DMO opens November 2026 auction appeared first on Nairametrics .",
-      "published": "2026-11-11T07:28:39+00:00",
-      "fetched": "2026-11-11T13:01:15.587967+00:00"
-    },
-    {
-      "id": "161a9ae2ab61e09e",
-      "title": "NUPRC approves 595 well re-entries, 145 new drilling operations in 2026",
-      "link": "https://nairametrics.com/2026/11/11/nuprc-approves-595-well-re-entries-145-new-drilling-operations-in-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Upstream Petroleum Regulatory Commission (NUPRC) has approved 595 well re-entries, 145 new well-drilling operations and 39 Field Development Plans (FDPs) year-to-date in 2026, as it seeks to boost oil production and strengthen Nigeria’s energy security. The post NUPRC approves 595 well re-entries, 145 new drilling operations in 2026 appeared first on Nairametrics .",
-      "published": "2026-11-11T06:42:16+00:00",
-      "fetched": "2026-11-11T13:01:15.587994+00:00"
-    },
-    {
-      "id": "12e3f51a8c4ae5a0",
-      "title": "DMO offers N800 billion in T-bills on Wednesday as N148.6 billion matures for settlement",
-      "link": "https://nairametrics.com/2026/11/11/dmo-offers-n800-billion-in-t-bills-on-wednesday-as-n148-6-billion-matures-for-settlement/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Debt Management Office (DMO) will offer N800 billion in Nigerian Treasury Bills at its November 11, 2026 auction, against N148.565 billion in maturing securities, creating a potential net funding requirement of approximately N651.44 billion. The post DMO offers N800 billion in T-bills on Wednesday as N148.6 billion matures for settlement appeared first on Nairametrics .",
-      "published": "2026-11-11T06:40:15+00:00",
-      "fetched": "2026-11-11T13:01:15.588017+00:00"
-    },
-    {
-      "id": "5bf687f63fdc04e4",
-      "title": "👨🏿‍🚀TechCabal Daily – Signed, sealed, remitted",
-      "link": "https://techcabal.com/2026/11/11/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-signed-sealed-remitted/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "In today's edition: Raenest acquires Remitise South Africa mulls plans for nuclear comeback Dangote Cement abandons London listing Vodacom eyes satellite-to-phone service",
-      "published": "2026-11-11T05:55:21+00:00",
-      "fetched": "2026-11-11T13:01:16.634062+00:00"
-    },
-    {
-      "id": "90200176dd1e8c88",
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-      "published": "2026-11-11T03:08:17+00:00",
-      "fetched": "2026-11-11T03:19:21.357743+00:00"
-    },
-    {
-      "id": "a8051f0197574861",
-      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
-      "published": "2026-11-11T01:54:00+00:00",
-      "fetched": "2026-11-11T03:19:21.178428+00:00"
-    },
-    {
-      "id": "61fce82acac46f9c",
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-      "published": "2026-11-11T01:12:00+00:00",
-      "fetched": "2026-11-11T03:19:21.178466+00:00"
-    },
-    {
-      "id": "fb6d363f7ff02697",
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-      "published": "2026-11-10T22:37:00+00:00",
-      "fetched": "2026-11-11T03:19:21.178538+00:00"
-    },
-    {
-      "id": "296bcccde3c99495",
-      "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.",
-      "published": "2026-11-10T22:30:00+00:00",
-      "fetched": "2026-11-10T22:35:42.113020+00:00"
-    },
-    {
-      "id": "bbd998f869a50262",
-      "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-      "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
-      "published": "2026-11-10T22:05:00+00:00",
-      "fetched": "2026-11-10T22:35:42.113063+00:00"
-    },
-    {
-      "id": "ed71729d25cce1b4",
-      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-      "published": "2026-11-10T21:42:00+00:00",
-      "fetched": "2026-11-10T22:35:42.113083+00:00"
-    },
-    {
-      "id": "3f46ea6102b34c51",
-      "title": "How the stock market has performed after Veterans Day over the past decade",
-      "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The stock market is open Wednesday on Veterans Day, but not the bond market",
-      "published": "2026-11-10T21:29:00+00:00",
-      "fetched": "2026-11-10T22:35:42.113098+00:00"
     }
   ]
 }

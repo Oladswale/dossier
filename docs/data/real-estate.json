@@ -1,8 +1,158 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-13T13:29:30.122718+00:00",
+  "updated": "2026-11-13T22:57:01.867692+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b5ee6c2a502f9af2",
+      "title": "Bill Cosby Knocks $2 Million Off Original Listing Price of Manhattan Townhouse In Latest Attempt to Sell",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/bill-cosby-new-york-city-townhouse-price-drop/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The disgraced actor has dropped the price of his Upper East Side townhouse by about $2 million since originally listing in 2025.",
+      "published": "2026-11-13T22:44:10+00:00",
+      "fetched": "2026-11-13T22:57:01.866998+00:00"
+    },
+    {
+      "id": "bd7a23894bc9be78",
+      "title": "Fisher Island Penthouse Sells After $12.2 Million Price Cut—Becoming the Private Island’s Second-Priciest Sale Ever",
+      "link": "https://www.realtor.com/news/unique-homes/fisher-island-palazzo-della-luna-penthouse-sells-37-million/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "After a $12.2M price cut, the Palazzo Della Luna penthouse on Fisher Island sells for $37.8M—the private island’s second-highest sale.",
+      "published": "2026-11-13T21:16:32+00:00",
+      "fetched": "2026-11-13T22:57:01.867030+00:00"
+    },
+    {
+      "id": "c30b570566ad5774",
+      "title": "Hit Songs to High-End Homes: Inside Taylor Swift’s Real Estate Portfolio",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/taylor-swift-real-estate-portfolio-truly-golden/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Taylor Swift's property portfolio includes a glamorous landmarked Beverly Hills abode, an Ohio marital mansion, and so much more.",
+      "published": "2026-11-13T20:10:00+00:00",
+      "fetched": "2026-11-13T22:57:01.867051+00:00"
+    },
+    {
+      "id": "07ba64ed167010d8",
+      "title": "Savannah Guthrie Extends NBC News Contract as Search Continues for Her Mother, Nancy Guthrie",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/savannah-guthrie-extends-nbc-news-today-show-contract/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "After 15 years with the network, \"Today\" co-anchor Savannah Guthrie has extended her contract with NBC News.",
+      "published": "2026-11-13T19:53:21+00:00",
+      "fetched": "2026-11-13T22:57:01.867069+00:00"
+    },
+    {
+      "id": "31c88af56d25b40e",
+      "title": "Homeowner’s Massive 60,000-Light Christmas Display Dubbed a Safety Hazard by HOA",
+      "link": "https://www.realtor.com/news/trends/christmas-light-hoa-dispute-aero-plantation-north-carolina/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "North Carolina homeowner Neil Heuer is feuding with his HOA over his extravagant Halloween and Christmas light displays.",
+      "published": "2026-11-13T18:45:01+00:00",
+      "fetched": "2026-11-13T22:57:01.867087+00:00"
+    },
+    {
+      "id": "5194862946928a5b",
+      "title": "Thanksgiving Is the Worst Day of the Year for Cooking Fires—Is Your Kitchen Prepared?",
+      "link": "https://www.realtor.com/advice/home-improvement/thanksgiving-kitchen-fires-tips/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "There’s a greater risk of a kitchen fire happening on Thanksgiving than any other time of the year. Are you prepared?",
+      "published": "2026-11-13T18:44:55+00:00",
+      "fetched": "2026-11-13T22:57:01.867109+00:00"
+    },
+    {
+      "id": "8b777d6f23e93a27",
+      "title": "Spain’s Housing Crisis Sparks a Revolt Against Tourism. Could America Feel the Fallout?",
+      "link": "https://www.realtor.com/news/trends/spain-housing-protests-tourism-vacation-rentals/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Spain's housing revolt has put vacation rentals in the crosshairs. The economic fallout could hold lessons for U.S. resort towns.",
+      "published": "2026-11-13T18:14:31+00:00",
+      "fetched": "2026-11-13T22:57:01.867127+00:00"
+    },
+    {
+      "id": "690714e8c41d2b08",
+      "title": "Jackson, MS Struggles with Low Starter Home Availability Compared to Other Cities",
+      "link": "https://www.realtor.com/advice/hyperlocal/jackson-ms-starter-home-availability-declines/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "For many prospective homeowners, the search for an affordable starter home can feel like a daunting task. A recent analysis by Realtor.com® explores the changing landscape of entry-level housing across",
+      "published": "2026-11-13T17:36:54+00:00",
+      "fetched": "2026-11-13T22:57:01.867151+00:00"
+    },
+    {
+      "id": "cc93eae271e007dc",
+      "title": "Indianapolis, IN Struggles with Low Starter Home Availability Compared to Other Cities",
+      "link": "https://www.realtor.com/advice/hyperlocal/indianapolis-in-starter-home-availability-declines/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "For many prospective homeowners, the dream of purchasing a first home can feel increasingly out of reach. A recent analysis by Realtor.com® explores the availability of starter home options across",
+      "published": "2026-11-13T17:35:23+00:00",
+      "fetched": "2026-11-13T22:57:01.867171+00:00"
+    },
+    {
+      "id": "4901a6fb0867411f",
+      "title": "Greenville, SC, Struggles With Low Starter Home Availability Compared to Other Cities",
+      "link": "https://www.realtor.com/advice/hyperlocal/greenville-sc-starter-home-availability/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In a recent metro-by-metro analysis, Realtor.com® examined the state of the American starter home. For many would-be buyers, these entry-level homes have felt increasingly scarce as rising prices and climbing",
+      "published": "2026-11-13T16:46:35+00:00",
+      "fetched": "2026-11-13T22:57:01.867193+00:00"
+    },
+    {
+      "id": "aa1e362df13e1111",
+      "title": "Quarterback Sam Hartman is ‘The Bachelor’ Season 30’s Leading Man—Marking the First Return to Bachelor Mansion Post-Renovation",
+      "link": "https://www.realtor.com/news/reality-tv/commanders-quarterback-sam-hartman-the-bachelor-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The NFL player is set to lead Season 30 of 'The Bachelor,' where the contestants will enjoy the mansion's latest renovation.",
+      "published": "2026-11-13T16:31:07+00:00",
+      "fetched": "2026-11-13T22:57:01.867213+00:00"
+    },
+    {
+      "id": "b80cf00e5b7a705b",
+      "title": "Grand Rapids, MI Struggles with Low Starter Home Availability Compared to Other Cities",
+      "link": "https://www.realtor.com/advice/hyperlocal/grand-rapids-mi-starter-home-availability-declines/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "For many prospective homeowners, the dream of a starter home has felt increasingly out of reach. Rising prices and climbing mortgage rates have compounded the challenge, making affordable options feel",
+      "published": "2026-11-13T16:30:50+00:00",
+      "fetched": "2026-11-13T22:57:01.867233+00:00"
+    },
+    {
+      "id": "bda2745c61b8bb08",
+      "title": "Detached Home in Desirable DC Neighborhood Gets Major Discount—and the Photos Hide a Wild Catch",
+      "link": "https://www.realtor.com/news/trends/washington-dc-1007-evarts-listing-photos-rendering/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "At first glance, the listing is a stunning six-bed, five-bath home with a $375,000 price tag, far below the ZIP code’s median listing price.",
+      "published": "2026-11-13T16:22:59+00:00",
+      "fetched": "2026-11-13T22:57:01.867254+00:00"
+    },
+    {
+      "id": "60e3fe63567a02d5",
+      "title": "5 Converted Schoolhouses and Banks You Can Buy Right Now, Priced Below $400K",
+      "link": "https://www.realtor.com/news/unique-homes/historic-schoolhouses-banks-for-sale-under-400k/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Explore five historic schoolhouses and banks for sale—starting at just $149,000—featuring original vaults, chalkboards, and vintage charm.",
+      "published": "2026-11-13T15:30:00+00:00",
+      "fetched": "2026-11-13T22:57:01.867273+00:00"
+    },
+    {
+      "id": "f1c79bbc8ead3344",
+      "title": "Mortgage Calculator: Here’s How Much You Need To Buy a $430K Home at a 7.11% Rate",
+      "link": "https://www.realtor.com/advice/finance/mortgage-payment-calculator-afford-november-12/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Mortgage rates fell again for the fourth time in two months. But how long will the decline last—and is it enough for buyers to start buying?",
+      "published": "2026-11-13T14:58:00+00:00",
+      "fetched": "2026-11-13T22:57:01.867294+00:00"
+    },
     {
       "id": "73623fc12638e852",
       "title": "Inside the $3.25 Million Pasadena Glass Pavilion That’s Still Studied in Architecture Classes Today",
@@ -1352,156 +1502,6 @@
       "summary": "Nithya Raman defeated incumbent Mayor Karen Bass after running a campaign focused on housing affordability and homelessness.",
       "published": "2026-11-05T20:46:51+00:00",
       "fetched": "2026-11-05T22:57:18.740106+00:00"
-    },
-    {
-      "id": "c8772292fbd4098d",
-      "title": "Carson Daly Has a New ‘Today’ Gig—Inside the Sprawling Long Island Estate He Calls Home When He’s Not in the Studio",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/carson-daly-saturday-today-co-anchor-manhasset-new-york-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The newly named \"Saturday Today\" co-anchor has a beautiful Colonial-style family home in Manhasset, NY.",
-      "published": "2026-11-05T20:43:04+00:00",
-      "fetched": "2026-11-05T22:57:18.740137+00:00"
-    },
-    {
-      "id": "d8a1359f54933165",
-      "title": "Democrats Will Focus on Affordability in 2027, Party Leaders Say",
-      "link": "https://www.realtor.com/news/real-estate-news/schumer-democrats-agenda-congress-affordability-2027/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Democrats rode affordability concerns to big wins on Tuesday night. But they must deliver on lowering costs to sustain their wins.",
-      "published": "2026-11-05T19:28:08+00:00",
-      "fetched": "2026-11-05T22:57:18.740165+00:00"
-    },
-    {
-      "id": "2711266d5dd7dedb",
-      "title": "Chip and Joanna Gaines Are Talking About Having Another Baby: ‘He Is Telling Everyone I’m Pregnant’",
-      "link": "https://www.realtor.com/news/reality-tv/chip-joanna-gaines-talk-about-having-another-baby/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The \"Fixer Upper\" couple have been talking about the possibility of a six child, with Chip Gaines telling people Joanna's expecting.",
-      "published": "2026-11-05T19:17:51+00:00",
-      "fetched": "2026-11-05T22:57:18.740201+00:00"
-    },
-    {
-      "id": "a6a2cf3bd553ebf3",
-      "title": "‘Beverly Hills, 90210’ Actress Kimmarie Johnson Dies at 50 in Her Los Angeles Home",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/beverly-hills-90210-actress-kimmarie-johnson-dies-los-angeles-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actress and skincare founder suffered a \"heart event\" at home in California in October.",
-      "published": "2026-11-05T17:56:49+00:00",
-      "fetched": "2026-11-05T22:57:18.740234+00:00"
-    },
-    {
-      "id": "0c4ed1059b51c144",
-      "title": "Mortgage Rates Fall for Third Straight Week After Democrats’ Midterm Triumph",
-      "link": "https://www.realtor.com/news/trends/mortgage-rates-this-week-november-5-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The average rate on 30-year fixed mortgages dropped to 7.18% for the week ending Nov. 5 after Democrats regained control of Congress.",
-      "published": "2026-11-05T17:00:00+00:00",
-      "fetched": "2026-11-05T22:57:18.740263+00:00"
-    },
-    {
-      "id": "0bd56e4f7d8af460",
-      "title": "Russell Brand Moved to Florida Months Before British Police Formally Charged Him With Rape",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/russell-brand-florida-home-move-rape-charge/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Brand, 49, revealed in February that he had moved to Florida with his family. Six weeks later, he was charged with rape by British police.",
-      "published": "2026-11-05T16:37:00+00:00",
-      "fetched": "2026-11-05T22:57:18.740314+00:00"
-    },
-    {
-      "id": "b7d4739a3a3d4e69",
-      "title": "Nasdaq Plunges Into Correction as Democrats Prepare Crackdown on Data Centers",
-      "link": "https://www.realtor.com/news/trends/nasdaq-correction-data-center-stocks-fall-november-5-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Nasdaq dropped 5% Thursday morning led by technology stocks, as a blue wave in the midterm elections threatens rules for data centers.",
-      "published": "2026-11-05T16:25:42+00:00",
-      "fetched": "2026-11-05T22:57:18.740343+00:00"
-    },
-    {
-      "id": "7b7f017668598fe7",
-      "title": "Data Centers Meet Fierce Backlash From Voters as Dozens of Towns Reject New Projects",
-      "link": "https://www.realtor.com/news/real-estate-news/data-center-local-ballots-midterm-election-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Data centers were on the ballot in 12 states, and voters almost unanimously rejected them.",
-      "published": "2026-11-05T16:00:38+00:00",
-      "fetched": "2026-11-05T22:57:18.740368+00:00"
-    },
-    {
-      "id": "0ebc0d69adc0ee19",
-      "title": "Inside Cristiano Ronaldo’s Jaw-Dropping Global Property Portfolio and $1.4 Billion Fortune—as He Retires From International Football",
-      "link": "https://www.realtor.com/news/world/cristiano-ronaldo-homes-fortune-net-worth/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Ronaldo, 41, has announced his retirement from international football.",
-      "published": "2026-11-05T15:24:00+00:00",
-      "fetched": "2026-11-05T22:57:18.740395+00:00"
-    },
-    {
-      "id": "8dab41b14a9296b1",
-      "title": "Generational Wealth Fuels Record-High Levels of Cash Sales Among First-Time Buyers",
-      "link": "https://www.realtor.com/news/trends/first-time-buyers-record-all-cash-sales-inheritance-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A record 10% of first-time homebuyers paid all cash between 2025 and 2026, fueled by an unprecedented generational wealth transfer.",
-      "published": "2026-11-05T15:00:00+00:00",
-      "fetched": "2026-11-05T22:57:18.740421+00:00"
-    },
-    {
-      "id": "36fa5aecb2d87023",
-      "title": "50% of Recent Homebuyers Can’t Afford Their Mortgage",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-475",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "50% of recent homebuyers can’t sustain their mortgage payments at these current rates. Wait…what? A new survey found that homeowners who purchased in the last two years are having a [ ]",
-      "published": "2026-11-05T12:00:46+00:00",
-      "fetched": "2026-11-05T13:34:06.072473+00:00"
-    },
-    {
-      "id": "57ecf4aa687dec37",
-      "title": "Inside ‘My Big Fat Fabulous Life’ Star Whitney Way Thore’s ‘Dopamine Apartment’",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/whitney-way-thore-dopamine-apartment/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Greensboro, NC, native moved into the one-bedroom, one-bathroom, 830-square-foot unit in December 2025.",
-      "published": "2026-11-05T10:00:00+00:00",
-      "fetched": "2026-11-05T13:34:06.318536+00:00"
-    },
-    {
-      "id": "c4014204c0bf97c6",
-      "title": "Inside the $8.9 Million Dallas Treehouse Estate Modeled After a Nautilus Shell, Complete With a Natatorium",
-      "link": "https://www.realtor.com/news/unique-homes/dallas-nautilus-shell-estate-5110-park-lane/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Explore Dallas’ 17,000-square-foot \"nautilus\" estate in Preston Hollow. It features a stunning natatorium and creek views.",
-      "published": "2026-11-05T09:47:00+00:00",
-      "fetched": "2026-11-05T13:34:06.318565+00:00"
-    },
-    {
-      "id": "25bc6a4f45c48199",
-      "title": "Homebuilder Stocks Surge as Democratic Sweep Raises Hopes for Affordability Gains",
-      "link": "https://www.realtor.com/news/trends/homebuilder-stocks-midterms-democratic-sweep-pultegroup/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The stock movement comes in the wake of the midterm election, showing optimism to a few major homebuilders who recently reported declines.",
-      "published": "2026-11-05T09:12:00+00:00",
-      "fetched": "2026-11-05T22:57:18.740465+00:00"
-    },
-    {
-      "id": "1b000082af1974fe",
-      "title": "Homebuilder Stocks Surge After Democratic Sweep as Hopes Rise for Affordability Gains",
-      "link": "https://www.realtor.com/news/trends/homebuilder-stocks-midterms-democratic-sweep-pultegroup/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The stock movement comes in the wake of the midterm election, showing optimism to a few major homebuilders who recently reported declines.",
-      "published": "2026-11-05T09:12:00+00:00",
-      "fetched": "2026-11-05T13:34:06.318583+00:00"
     }
   ]
 }
