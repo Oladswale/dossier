@@ -1,8 +1,28 @@
 {
   "category": "finance",
-  "updated": "2026-11-12T22:54:50.516470+00:00",
+  "updated": "2026-11-13T03:44:35.038219+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a8096968e651bd20",
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+      "published": "2026-11-13T02:56:35+00:00",
+      "fetched": "2026-11-13T03:44:34.223208+00:00"
+    },
+    {
+      "id": "e69d1945f0c8af05",
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
+      "published": "2026-11-12T22:57:00+00:00",
+      "fetched": "2026-11-13T03:44:34.108214+00:00"
+    },
     {
       "id": "d4dfb53f49d52ef9",
       "title": "Opening trading-card packs has become a $2 billion market",
@@ -1244,6 +1264,16 @@
       "fetched": "2026-11-10T22:35:42.570330+00:00"
     },
     {
+      "id": "c9f60c323fd827dd",
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+      "published": "2026-11-10T17:13:44+00:00",
+      "fetched": "2026-11-13T03:44:34.223288+00:00"
+    },
+    {
       "id": "c2782386efd0b71d",
       "title": "Equity Group turns to AI to predict staff exits and retain talent",
       "link": "https://techcabal.com/2026/11/10/equity-group-ai-predict-staff-exits/",
@@ -1472,36 +1502,6 @@
       "summary": "A Fed official raises the prospect of a half-a-percentage-point rate hike. Plus, fresh valuation focus on Anthropic’s blockbuster IPO.",
       "published": "2026-11-10T12:33:00+00:00",
       "fetched": "2026-11-10T13:50:17.193815+00:00"
-    },
-    {
-      "id": "fc7afe7e284d88e2",
-      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
-      "published": "2026-11-10T12:32:00+00:00",
-      "fetched": "2026-11-10T13:50:17.193843+00:00"
-    },
-    {
-      "id": "be3797b6546db7e2",
-      "title": "Why Africa’s AI future must reflect local realities – Flutterwave CEO",
-      "link": "https://nairametrics.com/2026/11/10/why-africas-ai-future-must-reflect-local-realities-flutterwave-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Flutterwave Founder and Chief Executive Officer, Olugbenga “GB” Agboola, has said Africa's artificial intelligence future must be shaped by its cultural realities and local knowledge to ensure the technology addresses practical problems and delivers solutions suited to the continent's needs. The post Why Africa’s AI future must reflect local realities – Flutterwave CEO appeared first on Nairametrics .",
-      "published": "2026-11-10T12:25:55+00:00",
-      "fetched": "2026-11-10T13:50:17.573202+00:00"
-    },
-    {
-      "id": "877689b1ae4ed0cc",
-      "title": "FSD Africa, PILC partner to launch $750 million Nigerian pension infrastructure fund",
-      "link": "https://nairametrics.com/2026/11/10/fsd-africa-pilc-partner-to-launch-750-million-nigerian-pension-infrastructure-fund/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "UK-funded development agency FSD Africa has partnered with Nigeria’s Pension Industry Leadership Council (PILC) to develop a proposed $750 million infrastructure investment fund aimed at mobilising domestic pension assets for projects across Nigeria and selected African markets. The post FSD Africa, PILC partner to launch $750 million Nigerian pension infrastructure fund appeared first on Nairametrics .",
-      "published": "2026-11-10T11:58:45+00:00",
-      "fetched": "2026-11-10T13:50:17.573253+00:00"
     }
   ]
 }
