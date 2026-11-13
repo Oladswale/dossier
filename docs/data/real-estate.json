@@ -1,8 +1,58 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-13T03:44:50.049834+00:00",
+  "updated": "2026-11-13T13:29:30.122718+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "73623fc12638e852",
+      "title": "Inside the $3.25 Million Pasadena Glass Pavilion That’s Still Studied in Architecture Classes Today",
+      "link": "https://www.realtor.com/news/unique-homes/craig-ellwood-kubly-house-pasadena-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Case Study architect Craig Ellwood’s restored 1965 Pasadena glass pavilion, the iconic Kubly House, hits the market for $3.25 million.",
+      "published": "2026-11-13T12:30:00+00:00",
+      "fetched": "2026-11-13T13:29:30.122425+00:00"
+    },
+    {
+      "id": "f4a79c526f12321f",
+      "title": "You’ll Have Your 3 Best Investing Markets After This Episode",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1356",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "By the end of this episode, you’ll have (at least) three real estate markets you can invest in. How do we know? We chose our real estate investing markets the [ ]",
+      "published": "2026-11-13T12:00:05+00:00",
+      "fetched": "2026-11-13T13:29:29.818178+00:00"
+    },
+    {
+      "id": "3ee30ac4d17a034f",
+      "title": "A New Wave of Opportunity Zones Is Coming in 2027—and Home Values Are Already Surging in Key States",
+      "link": "https://www.realtor.com/news/trends/opportunity-zones-home-values-irs-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The United States has thousands of new Opportunity Zones, a designation that could bring rising values to many emerging housing markets.",
+      "published": "2026-11-13T10:00:00+00:00",
+      "fetched": "2026-11-13T13:29:30.122446+00:00"
+    },
+    {
+      "id": "4ff31f4a6ab24294",
+      "title": "Historic New England City Reclaims Top Spot as America’s Hottest Market",
+      "link": "https://www.realtor.com/news/trends/historic-new-england-city-reclaims-top-spot-as-americas-hottest-market/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Connecticut's capital, Hartford, and the surrounding idyllic suburbs have shot to the top of the hottest markets list after a long break.",
+      "published": "2026-11-13T09:48:00+00:00",
+      "fetched": "2026-11-13T13:29:30.122462+00:00"
+    },
+    {
+      "id": "d12f7e96e500dbd1",
+      "title": "Quiz: Can You Guess Where This House Is?",
+      "link": "https://www.realtor.com/news/unique-homes/can-you-guess-where-this-house-is-quiz-november-13/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Look closely at each home, and pick the location you think it's in. Your full results and score are revealed at the end.",
+      "published": "2026-11-13T09:32:00+00:00",
+      "fetched": "2026-11-13T13:29:30.122476+00:00"
+    },
     {
       "id": "a68fb3fbb6bca7e1",
       "title": "Khloé Kardashian Says Lamar Odom Is ‘Dead’ to Her After His Comments About Marrying for Family’s ‘Lifestyle’—Inside Their Former Marital Mansion",
@@ -1452,56 +1502,6 @@
       "summary": "The stock movement comes in the wake of the midterm election, showing optimism to a few major homebuilders who recently reported declines.",
       "published": "2026-11-05T09:12:00+00:00",
       "fetched": "2026-11-05T13:34:06.318583+00:00"
-    },
-    {
-      "id": "74733e40f47f4bb1",
-      "title": "A $6.52 Million Beverlywood Home on a Lavish Golf Course Just Set the Record for the Priciest Teardown Sale",
-      "link": "https://www.realtor.com/news/unique-homes/beverlywood-los-angeles-california-mansion-most-expensive-teardown/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Demand is growing for the neighborhood of Beverlywood, where one of the most expensive transactions will lead to a teardown.",
-      "published": "2026-11-05T00:09:55+00:00",
-      "fetched": "2026-11-05T03:52:09.593176+00:00"
-    },
-    {
-      "id": "75bd37cd22289ca2",
-      "title": "North Carolina Passes New Limits on Property Tax Levies",
-      "link": "https://www.realtor.com/news/real-estate-news/north-carolina-property-tax-levy-limit-amendment-passes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "On Tuesday, North Carolina voters narrowly approved House Bill 1089, which proposed a limit on property tax increases.",
-      "published": "2026-11-04T22:15:12+00:00",
-      "fetched": "2026-11-04T22:56:43.965436+00:00"
-    },
-    {
-      "id": "8d9ea413d9aa1bdd",
-      "title": "NYC Votes To Cut Construction Red Tape in Bid To Spur More Homebuilding",
-      "link": "https://www.realtor.com/news/trends/nyc-housing-permit-overhaul-mamdani-2030/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "New York City voters backed a sweeping plan to streamline housing permits, but builders may have to wait until 2030 to see the benefits.",
-      "published": "2026-11-04T22:09:30+00:00",
-      "fetched": "2026-11-05T03:52:09.593223+00:00"
-    },
-    {
-      "id": "4af24ce150312bb2",
-      "title": "NYC Votes to Cut Construction Red Tape in Bid to Spur More Homebuilding",
-      "link": "https://www.realtor.com/news/trends/nyc-housing-permit-overhaul-mamdani-2030/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "NYC voters backed a sweeping plan to streamline housing permits, but builders may have to wait until 2030—or longer—to see the benefits.",
-      "published": "2026-11-04T22:09:30+00:00",
-      "fetched": "2026-11-04T22:56:43.965475+00:00"
-    },
-    {
-      "id": "66415cd33867e09f",
-      "title": "Kylie Kelce Reveals the One Thing That Makes Someone the Perfect Houseguest",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jason-kelce-perfect-houseguest-philadelphia-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The mom of four revealed that her daughters love it when houseguests pick up a book and read to them.",
-      "published": "2026-11-04T22:08:01+00:00",
-      "fetched": "2026-11-04T22:56:43.965501+00:00"
     }
   ]
 }

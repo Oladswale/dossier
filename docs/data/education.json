@@ -1,8 +1,58 @@
 {
   "category": "education",
-  "updated": "2026-11-13T03:44:49.425780+00:00",
+  "updated": "2026-11-13T13:29:29.409277+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "427cc508f7f5c242",
+      "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
+      "link": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Researchers now hope to investigate whether increasing the flow of cerebrospinal fluid during sleep could improve brain health.",
+      "published": "2026-11-13T10:00:00+00:00",
+      "fetched": "2026-11-13T13:29:28.529159+00:00"
+    },
+    {
+      "id": "5bc457c1c402ae0f",
+      "title": "When Animals Were Put on Trial in Medieval Europe",
+      "link": "https://www.openculture.com/2026/11/when-animals-were-put-on-trial-in-medieval-europe.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Most of us twenty-first-century urbanites have a fairly sentimental view of farm animals, precisely because so many generations have gone by since they’ve been part of our daily lives. (In South Korea, where I live, the agricultural past remains just within living memory. Perhaps that’s why so many restaurants in Seoul advertise their meat with [ ]",
+      "published": "2026-11-13T09:00:58+00:00",
+      "fetched": "2026-11-13T13:29:29.409138+00:00"
+    },
+    {
+      "id": "431c622e462076ff",
+      "title": "European Intellectual History Since Nietzsche: A Free Online Course from Yale",
+      "link": "https://www.openculture.com/2026/11/european-intellectual-history-since-nietzsche-a-free-online-course-from-yale.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Taught by historian Marci Shore, “European Intellectual History Since Nietzsche” surveys the story of modern thought, from the late 18th century to the late 20th. Along the way, the course explores major trends in modern European thought: Marxism-Leninism, psychoanalysis, expressionism, structuralism, phenomenology, existentialism, anti-politics, and deconstruction. Intellectual figures covered in the course include Nietzsche, Lenin, [ ]",
+      "published": "2026-11-13T08:22:58+00:00",
+      "fetched": "2026-11-13T13:29:29.409171+00:00"
+    },
+    {
+      "id": "e1dcdeb0c970b01e",
+      "title": "New AI “copilot” helps engineers design better structures",
+      "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+      "published": "2026-11-13T05:00:00+00:00",
+      "fetched": "2026-11-13T13:29:28.529178+00:00"
+    },
+    {
+      "id": "2b389c66d11b1f19",
+      "title": "Helping robots fit into the human workplace",
+      "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+      "published": "2026-11-13T05:00:00+00:00",
+      "fetched": "2026-11-13T13:29:28.529196+00:00"
+    },
     {
       "id": "c314d9a2cd8e8c72",
       "title": "Addressing nuclear challenges, from radiation detection to power in space",
@@ -1452,56 +1502,6 @@
       "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
       "published": "2026-10-08T21:25:00+00:00",
       "fetched": "2026-10-13T22:00:32.767110+00:00"
-    },
-    {
-      "id": "899064e7525d5491",
-      "title": "3 Questions: What is the best path forward for AI in academia?",
-      "link": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
-      "published": "2026-10-08T21:25:00+00:00",
-      "fetched": "2026-10-08T22:32:19.799684+00:00"
-    },
-    {
-      "id": "c63bb5421eca7a6a",
-      "title": "Supporting systems of success",
-      "link": "https://news.mit.edu/2026/supporting-systems-success-1008",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In the MIT class 6.C31 (Hack Yourself) students apply computer science strategies to personal growth goals.",
-      "published": "2026-10-08T21:00:00+00:00",
-      "fetched": "2026-10-08T22:32:19.799710+00:00"
-    },
-    {
-      "id": "27cb593f24c880ca",
-      "title": "Shape-sensing sheet digitally tracks its movement as it bends and twists",
-      "link": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Developed by MIT engineers, this flexible material could be used as a wearable, motion-monitoring “skin” in physical therapy, virtual reality, and gaming.",
-      "published": "2026-10-08T18:00:00+00:00",
-      "fetched": "2026-10-08T22:32:19.799736+00:00"
-    },
-    {
-      "id": "459a0d34e17b0ac2",
-      "title": "The Strange and Brilliant Inventions of Nikola Tesla",
-      "link": "https://www.openculture.com/2026/10/the-strange-and-brilliant-inventions-of-nikola-tesla.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Even before the success of the electric car company that now bears his name, Nikola Tesla was a widely respected historical figure. Often, that respect could be based on surprisingly scant knowledge of the man’s life and accomplishments. Didn’t he do something with electricity?",
-      "published": "2026-10-08T09:00:39+00:00",
-      "fetched": "2026-10-08T12:19:02.339923+00:00"
-    },
-    {
-      "id": "e95bf86111d87c5d",
-      "title": "7 Tips from Edgar Allan Poe on How to Write Vivid Stories & Poems",
-      "link": "https://www.openculture.com/2026/10/7-tips-from-edgar-allan-poe-on-how-to-write-vivid-stories-poems.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "There may be no more a macabrely misogynistic sentence in English literature than Edgar Allan Poe’s contention that “the death… of a beautiful woman” is “unquestionably the most poetical topic in the world.” (His perhaps ironic observation prompted Sylvia Plath to write, over a hundred years later, “The woman is perfected / Her dead / Body [ ]",
-      "published": "2026-10-08T08:00:58+00:00",
-      "fetched": "2026-10-08T12:19:02.339960+00:00"
     }
   ]
 }
