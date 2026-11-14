@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-13T22:57:01.867692+00:00",
+  "updated": "2026-11-14T03:43:22.282871+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ce7f5f881a21828c",
+      "title": "Bill Cosby Knocks $2 Million Off Original Listing Price of Manhattan Townhouse in Latest Attempt To Sell",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/bill-cosby-new-york-city-townhouse-price-drop/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The disgraced actor has cut the price of his Upper East Side townhouse by about $2 million since first listing it in 2025.",
+      "published": "2026-11-13T22:44:10+00:00",
+      "fetched": "2026-11-14T03:43:22.282371+00:00"
+    },
     {
       "id": "b5ee6c2a502f9af2",
       "title": "Bill Cosby Knocks $2 Million Off Original Listing Price of Manhattan Townhouse In Latest Attempt to Sell",
@@ -1492,16 +1502,6 @@
       "summary": "The Food Network couple explained what it's like to run a home kitchen with two celebrity chefs and revealed their turkey dinner plans.",
       "published": "2026-11-05T21:33:08+00:00",
       "fetched": "2026-11-05T22:57:18.740077+00:00"
-    },
-    {
-      "id": "decf411e029e3f6c",
-      "title": "Los Angeles Mayor-Elect Nithya Raman Vows To Triple Homebuilding To Improve Affordability",
-      "link": "https://www.realtor.com/news/real-estate-news/nithya-raman-mayor-los-angeles-california-midterm-elections/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nithya Raman defeated incumbent Mayor Karen Bass after running a campaign focused on housing affordability and homelessness.",
-      "published": "2026-11-05T20:46:51+00:00",
-      "fetched": "2026-11-05T22:57:18.740106+00:00"
     }
   ]
 }
