@@ -1,8 +1,58 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-14T03:43:20.045040+00:00",
+  "updated": "2026-11-14T12:35:06.897150+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a76309ec7f8ee366",
+      "title": "Nike Drops New Air Jordan 11 Retro ‘Green Screen’ Sneakers: Here’s Where To Buy a Pair Online",
+      "link": "https://variety.com/2026/shopping/news/shop-nike-air-jordan-11-retro-green-screen-sneakers-online-1236946508/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Back in 1996, Space Jam was one of the biggest movies of the year. It starred Michael Jordan and Bugs Bunny in a winner-take-all cinematic basketball game against the Monstars for the fate of the planet and the galaxy. During the animation-hybrid movie, MJ was wearing the now-iconic Nike Air Jordan 11 sneakers.",
+      "published": "2026-11-14T12:00:00+00:00",
+      "fetched": "2026-11-14T12:35:06.752712+00:00"
+    },
+    {
+      "id": "3a3c869ee3e2d1ca",
+      "title": "‘Hen’ Review: A Resilient Chicken Flies the Coop, Over and Over, in an Unexpectedly Stirring Survival Story",
+      "link": "https://variety.com/2026/film/news/hen-review-1236947197/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Why did the chicken cross the road? In Hen, the answer is, as ever, to get to the other side. But the stakes are a little higher and more urgent than that in György Pálfi unassuming marvel of a creature feature: When its gallinaceous protagonist is forced across a busy highway, it s because a hungry [ ]",
+      "published": "2026-11-14T11:13:41+00:00",
+      "fetched": "2026-11-14T12:35:06.752753+00:00"
+    },
+    {
+      "id": "88517d1dbe94f226",
+      "title": "Spain’s FICX Gijón Festival Bets Big on International, Regional and Local Talent",
+      "link": "https://variety.com/2026/film/global/gijon-festival-ficx-i-play-rocky-gregg-araki-1236946467/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "GIJÓN, Spain — Taking place in northern Spain under two monhs after the San Sebastián International Film Festival and linked to it by the Cross Roads initiative, the 64th Gijón International Film Festival (FICX) lineup stacks many of the year’s most talked-about features from international festivals such as Cannes, Berlin, Venice and Sundance. At the [ ]",
+      "published": "2026-11-14T11:03:41+00:00",
+      "fetched": "2026-11-14T12:35:06.752790+00:00"
+    },
+    {
+      "id": "dc64a5b982a2cfe0",
+      "title": "European Film Award Nominations: ‘Fatherland’ Reigns Over Contest, Followed by ‘La Bola Negra’",
+      "link": "https://variety.com/2026/film/news/fatherland-la-bola-negra-european-film-awards-nominations-1236947619/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Paweł Pawlikowski’s “Fatherland,” which centers on the relationship between the writer Thomas Mann and his daughter Erika, leads the contest for the 39th European Film Awards, followed close behind by Javier Calvo and Javier Ambrossi’s “La Bola Negra.” “Fatherland” has 11 EFA nominations, while “La Bola Negra,” a time-spanning epic based on a work of [ ]",
+      "published": "2026-11-14T10:28:31+00:00",
+      "fetched": "2026-11-14T12:35:06.752824+00:00"
+    },
+    {
+      "id": "f112ea1669704265",
+      "title": "Noel Fielding Says He Regrets ‘Horrible’ Jokes He Made With Russell Brand After Old Clip Resurfaces",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/noel-fielding-russell-brand-regrets-jokes-1235658277/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The Great British Bake Off presenter commented on the actor for the first time after Brand was jailed for rape and sexual assault",
+      "published": "2026-11-14T04:32:18+00:00",
+      "fetched": "2026-11-14T12:35:06.796305+00:00"
+    },
     {
       "id": "4d139c2fbe490c66",
       "title": "Amid Flight Stop, Ari Emanuel Slams Pete Buttigieg for Making ‘Zero Progress’ Modernizing FAA: ‘You Left a Failing System in Place’",
@@ -1452,56 +1502,6 @@
       "summary": "Brandy and Monica also showcased their collaborative hit “The Boy Is Mine\" on the competition series",
       "published": "2026-11-11T07:40:53+00:00",
       "fetched": "2026-11-11T13:01:29.885999+00:00"
-    },
-    {
-      "id": "8ef57c5bfe75ae9f",
-      "title": "ITV’s Sale to Sky ‘Progressing as Planned’ as Broadcaster Cuts Fourth-Quarter Content Spend Amid U.K. Ad Slump",
-      "link": "https://variety.com/2026/tv/news/itv-sky-sale-progressing-cuts-q4-content-spend-1236944980/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "U.K. broadcaster ITV s CEO Carolyn McCall said the broadcaster’s sale of its Media Entertainment business to Sky is “progressing as planned,” even as weaker advertiser demand forced the U.K. company to cut £25 million ($33.4 million) from its fourth-quarter content spend.",
-      "published": "2026-11-11T07:30:10+00:00",
-      "fetched": "2026-11-11T13:01:29.741067+00:00"
-    },
-    {
-      "id": "804a689a0f4d6cb7",
-      "title": "Dua Lipa, Tame Impala, SZA to Headline 2027 Coachella",
-      "link": "https://www.rollingstone.com/music/music-news/dua-lipa-tame-impala-sza-headline-coachella-2027-1235630556/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Madonna, Phoebe Bridgers, Daddy Yankee, and Don Toliver are among the performers set for the SoCal festival taking place over two weekends in April",
-      "published": "2026-11-11T06:48:48+00:00",
-      "fetched": "2026-11-11T13:01:29.886016+00:00"
-    },
-    {
-      "id": "00c49ffdfd595487",
-      "title": "Dua Lipa, Tame Impala and SZA to Headline Coachella 2027",
-      "link": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Dua Lipa, Tame Impala and SZA are set to headline Coachella Valley Music and Arts Festival 2027. News of the lineup comes after SZA teased the headliners on social media. Daddy Yankee has his own special slot, typically reserved as a bonus fourth headliner, as does Justice, who will have the Bunker debut of Blinded [ ]",
-      "published": "2026-11-11T06:26:15+00:00",
-      "fetched": "2026-11-11T13:01:29.741092+00:00"
-    },
-    {
-      "id": "abe1209354308244",
-      "title": "Jamie Dornan Admits He ‘Cried’ When He Was Cast as Aragorn in ‘Lord of the Rings: Hunt for Gollum’ and Says Filming Was ‘Incredible’: ‘Hopefully We’ve Done a Good Job’",
-      "link": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jamie Dornan, who is set to star as Aragorn in “Lord of the Rings: The Hunt for Gollum,” is getting candid about what it means to step into the role originated by Viggo Mortensen for the forthcoming installment of the beloved franchise. “I cried. I actually cried,” Dornan told Entertainment Tonight when asked how he [ ]",
-      "published": "2026-11-11T05:54:14+00:00",
-      "fetched": "2026-11-11T13:01:29.741123+00:00"
-    },
-    {
-      "id": "232f4b55848ebe60",
-      "title": "MCU Surprise: ‘VisionQuest’ Finale Teases the Return of [SPOILER] in ‘Avengers: Doomsday’",
-      "link": "https://variety.com/2026/film/news/visionquest-elizabeth-olsen-avengers-doomsday-scarlet-witch-1235365599/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This story contains major spoilers for Forever, the finale of VisionQuest, now streaming on Disney+. The WandaVision Saga has come to a close with the final episode of the Disney+ series VisionQuest. But it seems as though the story of the ultra-powerful Scarlet Witch (Elizabeth Olsen), the synthezoid Vision (Paul Bettany) and their [ ]",
-      "published": "2026-11-11T03:40:57+00:00",
-      "fetched": "2026-11-11T13:01:29.741151+00:00"
     }
   ]
 }
