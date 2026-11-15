@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-11-14T21:43:15.264543+00:00",
+  "updated": "2026-11-15T03:20:46.962959+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "aaf35fd8be34ddf5",
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The historic first gets SpaceX closer to “rapid reusability” of rockets.",
+      "published": "2026-11-15T00:33:00+00:00",
+      "fetched": "2026-11-15T03:20:45.293054+00:00"
+    },
     {
       "id": "52ee8ad8b2a95850",
       "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
@@ -1492,16 +1502,6 @@
       "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
       "published": "2026-11-11T21:21:00+00:00",
       "fetched": "2026-11-11T23:44:58.137683+00:00"
-    },
-    {
-      "id": "ebefcc5c213014f7",
-      "title": "Bloom Energy’s stock is rallying as data-center jitters subside",
-      "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "CoreWeave’s upbeat outlook helped calm nerves around the energy company.",
-      "published": "2026-11-11T21:14:00+00:00",
-      "fetched": "2026-11-11T23:44:58.137701+00:00"
     }
   ]
 }

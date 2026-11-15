@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-11-14T21:43:43.056242+00:00",
+  "updated": "2026-11-15T03:21:02.003320+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5b9f68d2371b9f83",
+      "title": "Arianna Doss named a 2027 Rhodes Scholar",
+      "link": "https://news.mit.edu/2026/arianna-doss-named-2027-rhodes-scholar-1114",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A double major in biological engineering and political science, Doss will begin postgraduate studies at Oxford University next fall.",
+      "published": "2026-11-15T02:00:00+00:00",
+      "fetched": "2026-11-15T03:21:01.418325+00:00"
+    },
     {
       "id": "427cc508f7f5c242",
       "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
@@ -1492,16 +1502,6 @@
       "summary": "David Byrne will always be most widely known as the co-founder and frontman of Talking Heads. That may count among the greatest possible achievements for any artist — to the minds of many an Open Culture reader, at least — but it must occasionally frustrate the man himself. Talking Heads broke up 35 years ago, [ ]",
       "published": "2026-10-09T08:00:52+00:00",
       "fetched": "2026-10-09T12:09:36.687783+00:00"
-    },
-    {
-      "id": "41e6b9c640fef8af",
-      "title": "3 Questions: What is the best path forward for AI in academia?",
-      "link": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
-      "published": "2026-10-08T21:25:00+00:00",
-      "fetched": "2026-10-13T22:00:32.767110+00:00"
     }
   ]
 }
