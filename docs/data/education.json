@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-16T03:22:34.895771+00:00",
+  "updated": "2026-11-16T14:05:04.521686+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "41f0a18df59f66ac",
+      "title": "Behold the Gloriously Cheap 1970s Italian Knockoffs Inspired by Star Wars",
+      "link": "https://www.openculture.com/2026/11/behold-the-gloriously-cheap-1970s-italian-knockoffs-inspired-by-star-wars.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "When the first Star Wars movie came out, in 1977, cinema was the better part of a century old, yet it had never produced a popular-culture phenomenon on such a scale. Covering the resulting explosion of public enthusiasm, the contemporary media initially struggled to find ways to describe the picture itself. “A cowboy movie set [ ]",
+      "published": "2026-11-16T10:00:18+00:00",
+      "fetched": "2026-11-16T14:05:04.521421+00:00"
+    },
+    {
+      "id": "df6d920a61b2c6f1",
+      "title": "How Leo Tolstoy Became a Vegetarian and Jumpstarted the Vegetarian & Humanitarian Movements in the 19th Century",
+      "link": "https://www.openculture.com/2026/11/how-leo-tolstoy-became-a-vegetarian-and-jumpstarted-the-vegetarian-humanitarian-movements.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Leo Tolstoy is remembered as both a towering pinnacle of Russian literature and a fascinating example of Christian anarchism, a mystical version of which the aristocratic author pioneered in the last quarter century of his life. After a dramatic conversion, Tolstoy rejected his social position, the favored vices of his youth, and the dietary habits [ ]",
+      "published": "2026-11-16T09:00:22+00:00",
+      "fetched": "2026-11-16T14:05:04.521476+00:00"
+    },
     {
       "id": "5b9f68d2371b9f83",
       "title": "Arianna Doss named a 2027 Rhodes Scholar",
@@ -1482,26 +1502,6 @@
       "summary": "In 2002, the retired British submarine lieutenant-commander turned amateur historian Gavin Menzies created a stir with a book about Chinese seafaring in the fifteenth century. 1421: The Year China Discovered the World (tellingly titled 1421: The Year China Discovered America in the United States) began as a global history of that year, only coming to focus [ ]",
       "published": "2026-10-12T09:00:44+00:00",
       "fetched": "2026-10-12T13:38:21.950173+00:00"
-    },
-    {
-      "id": "a4dd79728262176c",
-      "title": "A 900-Page Pre-Pantone Guide to Color from 1692: A Complete High-Resolution Digital Scan",
-      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "There’s ahead of its time, then there’s Traité des couleurs servant à la peinture à l’eau — or, in its original Dutch title, Klaer Lightende Spiegel der Verfkonst, a 900-page book of paint colors made before any such things were common tools of the artist’s, scientist’s, and industrial designer’s trade. Author and artist A. Boogert created one, and [ ]",
-      "published": "2026-10-12T08:00:28+00:00",
-      "fetched": "2026-10-12T13:38:21.950243+00:00"
-    },
-    {
-      "id": "c2d27ef39b2b10de",
-      "title": "David Byrne’s New Book Explores the Strange Afterlife of Good Ideas: From Vermeer’s Paintings to Roman Concrete & Dark Matter",
-      "link": "https://www.openculture.com/2026/10/david-byrnes-new-book-explores-the-strange-afterlife-of-good-ideas.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "David Byrne will always be most widely known as the co-founder and frontman of Talking Heads. That may count among the greatest possible achievements for any artist — to the minds of many an Open Culture reader, at least — but it must occasionally frustrate the man himself. Talking Heads broke up 35 years ago, [ ]",
-      "published": "2026-10-09T08:00:52+00:00",
-      "fetched": "2026-10-09T12:09:36.687783+00:00"
     }
   ]
 }
