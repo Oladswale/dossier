@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-11-16T14:05:04.521686+00:00",
+  "updated": "2026-11-17T01:10:03.941622+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d8bf496f1a63d011",
+      "title": "MIT School of Engineering faculty and staff receive awards in summer 2026",
+      "link": "https://news.mit.edu/2026/mit-engineering-faculty-staff-receive-awards-summer-2026-1116",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Faculty members and researchers were honored in recognition of their scholarship, service, and overall excellence.",
+      "published": "2026-11-16T20:45:00+00:00",
+      "fetched": "2026-11-17T01:10:03.354767+00:00"
+    },
+    {
+      "id": "e24ee0fbef7d5586",
+      "title": "Q&A: How ocean carbon sequestration changes under different glacial conditions",
+      "link": "https://news.mit.edu/2026/qa-how-ocean-carbon-sequestration-changes-under-different-glacial-conditions-1116",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By separating the effects of cold seawater, Antarctic sea ice, and changing ocean circulation on deep-ocean carbon storage, new research sheds light on how these interactions influence climate patterns.",
+      "published": "2026-11-16T19:00:00+00:00",
+      "fetched": "2026-11-17T01:10:03.354809+00:00"
+    },
+    {
+      "id": "1f6d7b172e5e9b15",
+      "title": "Pipilotti Rist receives the 2027 Eugene McDermott Award in the Arts at MIT",
+      "link": "https://news.mit.edu/2026/pipilotti-rist-receives-eugene-mcdermott-award-arts-mit-1116",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The pioneer of spatial video, whose work explores deep connections between the human body, nature, technology, and sensory perception, will be an artist-in-residence at MIT in the spring.",
+      "published": "2026-11-16T18:15:00+00:00",
+      "fetched": "2026-11-17T01:10:03.354842+00:00"
+    },
     {
       "id": "41f0a18df59f66ac",
       "title": "Behold the Gloriously Cheap 1970s Italian Knockoffs Inspired by Star Wars",
@@ -1472,36 +1502,6 @@
       "summary": "Associate Professor David Des Marais studies how plants interact with their surroundings and adapt over time.",
       "published": "2026-10-13T04:00:00+00:00",
       "fetched": "2026-10-13T04:04:39.743297+00:00"
-    },
-    {
-      "id": "7152b284f6b73145",
-      "title": "Economists Robert Hall PhD ’67 and Michael Woodford PhD ’83 share Nobel Prize",
-      "link": "https://news.mit.edu/2026/robert-hall-michael-woodford-share-nobel-prize-economics-1012",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The MIT alumni are honored for work that illuminates how government policy can spur growth in response to economic downturns.",
-      "published": "2026-10-12T12:00:00+00:00",
-      "fetched": "2026-10-12T23:51:46.998016+00:00"
-    },
-    {
-      "id": "0f531a8157e68c68",
-      "title": "Economists Robert E. Hall PhD ’67 and Michael Woodford PhD ’83 share Nobel prize",
-      "link": "https://news.mit.edu/2026/robert-hall-michael-woodford-share-nobel-prize-economics-1012",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The MIT alumni are honored for work that illuminates how government policy can spur growth in response to economic downturns.",
-      "published": "2026-10-12T12:00:00+00:00",
-      "fetched": "2026-10-12T13:38:21.007885+00:00"
-    },
-    {
-      "id": "41aa11f702aff546",
-      "title": "The Biggest Ship in History Was Built in China 600 Years Ago—Or Was It?",
-      "link": "https://www.openculture.com/2026/10/the-biggest-ship-in-history-was-built-in-china-600-years-ago-or-was-it.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "In 2002, the retired British submarine lieutenant-commander turned amateur historian Gavin Menzies created a stir with a book about Chinese seafaring in the fifteenth century. 1421: The Year China Discovered the World (tellingly titled 1421: The Year China Discovered America in the United States) began as a global history of that year, only coming to focus [ ]",
-      "published": "2026-10-12T09:00:44+00:00",
-      "fetched": "2026-10-12T13:38:21.950173+00:00"
     }
   ]
 }

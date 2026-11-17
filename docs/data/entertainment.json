@@ -1,8 +1,198 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-16T14:05:03.449223+00:00",
+  "updated": "2026-11-17T01:10:03.073897+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2a7dc153722f9257",
+      "title": "Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere",
+      "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jennifer Lawrence staged a Hunger Games reunion with co-star Josh Hutcherson at the world premiere of Sunrise on the Reaping in New York City. The two original stars of The Hunger Games franchise walked the red carpet and posed for photos more than a decade after the press tour for The Hunger Games: Mockingjay [ ]",
+      "published": "2026-11-17T00:32:42+00:00",
+      "fetched": "2026-11-17T01:10:02.888641+00:00"
+    },
+    {
+      "id": "a0aa29663aaa9ec8",
+      "title": "T-Mobile Is Offering the iPhone Duo for $1,200 Off",
+      "link": "https://www.rollingstone.com/product-recommendations/tech/t-mobile-iphone-duo-deal-1235659171/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The latest offer comes amid high demand for Apple’s first foray into the foldable market",
+      "published": "2026-11-17T00:00:00+00:00",
+      "fetched": "2026-11-17T01:10:02.945766+00:00"
+    },
+    {
+      "id": "f19fd9f5b74625b0",
+      "title": "Miley Cyrus Shares Sweet Memory of Godmother Dolly Parton as They Earn a Grammy Nod Together",
+      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-dolly-parton-grammy-nomination-1235659342/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Parton has received three posthumous Grammy nods for the 69th awards",
+      "published": "2026-11-16T23:39:36+00:00",
+      "fetched": "2026-11-17T01:10:02.945802+00:00"
+    },
+    {
+      "id": "c73682c518adb5f0",
+      "title": "‘Mississippi, Lord!’: Mavis Staples Sings the State Into a New Political Era",
+      "link": "https://www.rollingstone.com/music/music-features/mississippi-politicis-scott-colom-mavis-staples-folk-fest-1235659306/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "On the ground at the 83rd National Folk Festival, where the soul legend joined blues, gospel, and roots musicians to celebrate the state's musical heritage — and a historic moment of change",
+      "published": "2026-11-16T23:10:43+00:00",
+      "fetched": "2026-11-17T01:10:02.945844+00:00"
+    },
+    {
+      "id": "29427c29b12cd99f",
+      "title": "‘Spider-Man: Brand New Day’ Extended Cut Sets December Release Date in Theaters",
+      "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The re-release of Spider-Man: Brand New Day, which features footage previously left on the cutting room floor, hits theaters on Dec. 4. Tickets go on sale Nov.",
+      "published": "2026-11-16T23:00:00+00:00",
+      "fetched": "2026-11-17T01:10:02.888701+00:00"
+    },
+    {
+      "id": "82144be1a8eb601a",
+      "title": "‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’",
+      "link": "https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Over the last few years, leading documentary festival IDFA has become a crucial stop on the awards season trail, with major streamers and key studios courting voters in Amsterdam’s imposing 17th-century canalside houses and theaters. One of the key titles in this year’s best documentary race, however, has foregone glitzy cocktails and receptions in favor [ ]",
+      "published": "2026-11-16T22:32:38+00:00",
+      "fetched": "2026-11-17T01:10:02.888765+00:00"
+    },
+    {
+      "id": "e253a36497bfdf74",
+      "title": "Priscilla Presley Scores Partial Win Over Fraud Suit, But Claims About Lisa Marie’s Death Can Stand",
+      "link": "https://www.rollingstone.com/music/music-news/priscilla-presley-fraud-lawsuit-lisa-marie-death-1235659137/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "A judge tossed four claims from a memorabilia dealer’s fraud lawsuit against Priscilla Presley on Monday, but said allegations the court called “gratuitous and mean-spirited” can remain",
+      "published": "2026-11-16T22:18:58+00:00",
+      "fetched": "2026-11-17T01:10:02.945881+00:00"
+    },
+    {
+      "id": "45351f005ea9ca5a",
+      "title": "John Summit Is Extremely Mad Online About the Grammys",
+      "link": "https://www.rollingstone.com/music/music-news/john-summit-grammys-dance-category-snubs-1235659248/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After being snubbed, the DJ-producer proclaimed the dance and electronic categories were filled with \"music industry fueled pop stars\"",
+      "published": "2026-11-16T22:12:54+00:00",
+      "fetched": "2026-11-17T01:10:02.945909+00:00"
+    },
+    {
+      "id": "e9fda954db75971b",
+      "title": "Trump Lashes Out at ‘Loser’ Reporter for Questioning D.C. Renovation Obsession",
+      "link": "https://www.rollingstone.com/politics/politics-news/trump-lashes-out-reporter-white-house-renovations-1235656650/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "\"The helipad has gotten great reviews,\" the president said, days after the nation's air travel nightmare",
+      "published": "2026-11-16T22:01:14+00:00",
+      "fetched": "2026-11-17T01:10:02.945937+00:00"
+    },
+    {
+      "id": "6c2d3261a37794b4",
+      "title": "The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson",
+      "link": "https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The name is Pattinson, Robert Pattinson, but who will be his first Bond Girl? Amazon MGM Studios has made it official, naming the 40-year-old Brit the next James Bond in the exclusive franchise, with Denis Villeneuve helming the next film from a script by Steven Knight and Amy Pascal and David Heyman producing. But 007 [ ]",
+      "published": "2026-11-16T21:31:29+00:00",
+      "fetched": "2026-11-17T01:10:02.888810+00:00"
+    },
+    {
+      "id": "02c8b2c45059f92c",
+      "title": "Variety’s 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase",
+      "link": "https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Variety’s 10 Comics to Watch for 2026 brought laughter, cheers and ’90s rock parodies to the New York Comedy Festival on Thursday. The comedians, who represent the funniest and most exciting rising voices in comedy, each performed a seven-minute set for a lively audience at the Venue on Music Row at the Hard Rock Hotel [ ]",
+      "published": "2026-11-16T21:27:07+00:00",
+      "fetched": "2026-11-17T01:10:02.888862+00:00"
+    },
+    {
+      "id": "67105fdcb673b4a0",
+      "title": "‘Reasonable Doubt’ Renewed for Season 5 Ahead of Season 4 Finale",
+      "link": "https://variety.com/2026/tv/news/reasonable-doubt-renewed-season-5-season-4-finale-1236949562/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Reasonable Doubt has been renewed for Season 5 at Hulu and Onyx Collective, Variety has confirmed. The news comes just ahead of the legal drama s Season 4 finale, which is scheduled to air on Nov. 24.",
+      "published": "2026-11-16T21:07:57+00:00",
+      "fetched": "2026-11-17T01:10:02.888907+00:00"
+    },
+    {
+      "id": "82848d585f659bb7",
+      "title": "The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts",
+      "link": "https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "The Brit List, the annual list of unproduced British film and TV screenplays, has revealed its 2026 lineup. Compiled from recommendations by the British industry, 13 projects — each requiring a minimum of 10 recommendations — made it onto this year s list. Leading the pack were Gemma Addy s coming-of-age drama feature Dig for Victory and Archie Thomson s [ ]",
+      "published": "2026-11-16T20:47:17+00:00",
+      "fetched": "2026-11-17T01:10:02.888962+00:00"
+    },
+    {
+      "id": "793d2626cd90fe59",
+      "title": "‘Terminal List’ Prequel Series ‘Cry Havoc’ in Development at Amazon",
+      "link": "https://variety.com/2026/tv/news/terminal-list-prequel-series-cry-havoc-amazon-1236949306/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Amazon Prime Video is doubling down on The Terminal List franchise, with the streamer developing a series based on Jack Carr s prequel novel Cry Havoc. The Terminal List is based on Carr s James Reece novels, while Cry Havoc follows Reece s father Tom Reece during the latter s time as a Navy SEAL during the Vietnam war. [ ]",
+      "published": "2026-11-16T20:30:00+00:00",
+      "fetched": "2026-11-17T01:10:02.889009+00:00"
+    },
+    {
+      "id": "756ef8336cffe83b",
+      "title": "Robert Pattinson Said in 2012 That He’d ‘Definitely’ Want to Be James Bond in ‘Like 20 Years’ When He’s Not So ‘Fresh-Faced’",
+      "link": "https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Fourteen years before his official casting as James Bond, Robert Pattinson expressed interest in playing cinema s most famous secret agent. The actor was speaking to the U.K. online publication Shortlist (via People) in the summer of 2012, a few months ahead of both his swan song as Edward Cullen in The Twilight Saga: Breaking Dawn [ ]",
+      "published": "2026-11-16T20:23:47+00:00",
+      "fetched": "2026-11-17T01:10:02.889056+00:00"
+    },
+    {
+      "id": "3f1288a79424043c",
+      "title": "Shakira Goes Global, Drake Gets Love, and More Latin Music Takeaways from the 2027 Grammy Nominations",
+      "link": "https://www.rollingstone.com/music/music-features/latin-music-takeaways-2027-grammy-nominations-1235659105/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "One of the biggest genres in the U.S. saw interesting — and confusing — Grammy nods",
+      "published": "2026-11-16T19:42:45+00:00",
+      "fetched": "2026-11-17T01:10:02.945966+00:00"
+    },
+    {
+      "id": "20a31ebd93bef5f3",
+      "title": "Gwen Stefani Will Celebrate Orange County Roots by Performing at Grand Opening of OCVIBE’s 5,000-Seat Concert Hall This Spring",
+      "link": "https://variety.com/2026/music/news/gwen-stefani-ocvibe-concert-hall-anaheim-grand-opening-1236949277/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Gwen Stefani used part of her induction speech for Billy Idol at the Rock Roll Hall of Fame ceremony Saturday night to recall how she used to listen to the rocker on the bus on the way to Huntington Beach. She ll be returning to Orange County to do what counts as a hometown show [ ]",
+      "published": "2026-11-16T19:22:35+00:00",
+      "fetched": "2026-11-17T01:10:02.889100+00:00"
+    },
+    {
+      "id": "2232910b47c85e83",
+      "title": "Inside the Wild Nights of Martin Scorsese and Robbie Robertson’s 1970s L.A. Adventure",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-features/martin-scorsese-book-excerpt-just-a-shot-away-1235653302/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "After The Last Waltz , the director and the leader of the Band moved in together — and that’s when things got crazy",
+      "published": "2026-11-16T19:00:00+00:00",
+      "fetched": "2026-11-17T01:10:02.946009+00:00"
+    },
+    {
+      "id": "d0265ca5ac811cce",
+      "title": "The Grammy Nominations Blanked Harry Styles. What Happened?",
+      "link": "https://www.rollingstone.com/music/music-features/grammy-nominations-harry-styles-left-out-1235659028/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Despite an acclaimed 2026 album — and a previous Album of the Year win — the Recording Academy failed to recognize Styles",
+      "published": "2026-11-16T17:56:36+00:00",
+      "fetched": "2026-11-17T01:10:02.946038+00:00"
+    },
     {
       "id": "dbb56c1f5c070145",
       "title": "Golshifteh Farahani and Director Chabname Zariab on Anti-Taliban Film ‘When She Hears the Bells,’ Sold by Le Pacte",
@@ -1312,196 +1502,6 @@
       "summary": "She gave you the world. Now it's your turn to give her something other than another scarf. Start with this ultimate guide to thoughtful, personal gifts",
       "published": "2026-11-13T12:00:00+00:00",
       "fetched": "2026-11-13T13:29:28.104323+00:00"
-    },
-    {
-      "id": "1d5c49c78c8d1926",
-      "title": "Microsoft Says ‘No Evidence of Malicious Activity’ in Global Outage of Outlook and Exchange Email as It Begins to Restore Services",
-      "link": "https://variety.com/2026/digital/news/microsoft-outlook-email-outage-no-evidence-malicious-activity-1236946855/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Microsoft on Friday was still struggling to restore service to millions of Outlook and Exchange email users more than 18 hours after its servers crashed and became unavailable. In an update on Microsoft s Service Health Status page Friday morning, the company did not explain what triggered the catastrophic outage but said that it did not [ ]",
-      "published": "2026-11-13T11:52:37+00:00",
-      "fetched": "2026-11-13T13:29:27.992010+00:00"
-    },
-    {
-      "id": "3175909504b13e93",
-      "title": "How the Baltics Are Juggling a Boom in Foreign Productions Like ‘Woman Unknown’ With a Lack of Public Funds",
-      "link": "https://variety.com/2026/film/global/woman-unknown-star-city-baltics-foreign-shoots-boom-1236946177/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Mid-October, Estonia’s long-awaited next-gen film studio complex Ida Hub, in the country’s eastern region, finally opened for business, and industry guests at Tallinn’s Black Nights Film Festival are invited to tour the facilities Nov. 21-22. As stressed by Edith Sepp, head of the Estonian Film Institute, the country’s brand-new studio powerhouse, twinned with the Tallinnfilm [ ]",
-      "published": "2026-11-13T09:15:41+00:00",
-      "fetched": "2026-11-13T13:29:27.992037+00:00"
-    },
-    {
-      "id": "4001669781c7116b",
-      "title": "Shygirl, Moby Drop New Songs for ‘Club Kid’ Soundtrack",
-      "link": "https://www.rollingstone.com/music/music-news/shygirl-moby-club-kid-soundtrack-a24-1235657425/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The EP also features two covers of Arthur Russell's \"The Boy With a Smile\" by Nirosta Steel and Christine and the Queens",
-      "published": "2026-11-13T08:44:17+00:00",
-      "fetched": "2026-11-13T13:29:28.104338+00:00"
-    },
-    {
-      "id": "a3d85b6cbe163ee7",
-      "title": "Hear Ella Langley’s Reflective ‘Hunger Games’ Single ‘Here Then We’re Gone’",
-      "link": "https://www.rollingstone.com/music/music-news/ella-langley-here-then-were-gone-hunger-games-single-1235657421/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The soundtrack to upcoming film The Hunger Games: Sunrise on the Reaping is out today",
-      "published": "2026-11-13T08:15:52+00:00",
-      "fetched": "2026-11-13T13:29:28.104352+00:00"
-    },
-    {
-      "id": "bba864fcdbc3bd19",
-      "title": "Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing",
-      "link": "https://variety.com/2026/tv/news/russell-brand-misconduct-claims-six-more-women-1236946823/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Six more women have accused Russell Brand of sexual misconduct in a new investigation by The Times and The Sunday Times, the newspapers whose earlier reporting on the comedian features in Netflix s just-unveiled documentary Russell Brand: Open Secret. The accounts were published days after Brand was jailed for rape and sexual assault. The papers could [ ]",
-      "published": "2026-11-13T08:02:27+00:00",
-      "fetched": "2026-11-13T13:29:27.992059+00:00"
-    },
-    {
-      "id": "d4b5ba237e68cdab",
-      "title": "‘Heartland’ Review: Jessica Chastain Rocks a Stetson and a Swagger for a Soapy Nashville Noir",
-      "link": "https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Misty Jones keeps her Grammy in the fridge, alongside a near-empty Tupperware of chicken broth and, well, not a whole lot else: A former country superstar turned burnt-out rural hermit, she more or less lives off what once was, but her memories don t exactly nourish her. Peculiar details like these enliven Heartland, a missing-person mystery [ ]",
-      "published": "2026-11-13T08:01:00+00:00",
-      "fetched": "2026-11-13T13:29:27.992084+00:00"
-    },
-    {
-      "id": "8a9669c4871fb303",
-      "title": "Tony Award Winner Lois Smith Joins Colin West’s ‘Outside of Cleveland’: ‘She’s an Icon’ (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/actors/lois-smith-colin-west-outside-of-cleveland-alex-wolff-1236945021/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Tony award winner Lois Smith has joined the cast of Colin West’s upcoming feature “Outside of Cleveland.” Smith’s first on-screen role was in 1955 opposite James Dean in “East of Eden.” She has appeared in such films as “Five Easy Pieces,” “Twister,” “Minority Report,” “Dead Man Walking,” “Ladybird” and “The French Dispatch.” In 2017, Smith [ ]",
-      "published": "2026-11-13T08:00:00+00:00",
-      "fetched": "2026-11-13T13:29:27.992110+00:00"
-    },
-    {
-      "id": "88d39cfb9ccca0c5",
-      "title": "Shilpa Shetty to Host Relationship Reality Show ‘Pyaar Ka Pressure Cooker’ for India’s JioHotstar and Colors",
-      "link": "https://variety.com/2026/tv/news/shilpa-shetty-host-reality-show-pyaar-ka-pressure-cooker-1236946816/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Bollywood star Shilpa Shetty will host Pyaar Ka Pressure Cooker, a reality series that pushes couples in stalled or undefined relationships to decide their future, for streamer JioHotstar and Hindi-language channel Colors. The show is being billed by the two JioStar-owned outlets as India s first relationship clarity show. Participants will range from couples in early, [ ]",
-      "published": "2026-11-13T07:01:16+00:00",
-      "fetched": "2026-11-13T13:29:27.992134+00:00"
-    },
-    {
-      "id": "b864a53c611fbdad",
-      "title": "Dolly Parton Heals the Soul on Final Recording, ‘Torn,’ a Duet With Bono on U2’s New Album",
-      "link": "https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-u2-torn-song-1235657413/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The posthumous song appears on the band’s 16th album, Carnaval de Luz , out now",
-      "published": "2026-11-13T07:00:29+00:00",
-      "fetched": "2026-11-13T13:29:28.104368+00:00"
-    },
-    {
-      "id": "ce4662c1b6451e87",
-      "title": "Feid Previews New Song With Snoop Dogg at Latin Grammys",
-      "link": "https://www.rollingstone.com/music/music-latin/feid-latin-grammys-snoop-dogg-song-1235655738/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Colombian reggaeton star performed alongside Divino, Lil Supa, Baby Ranks, and DJ Premier",
-      "published": "2026-11-13T04:53:31+00:00",
-      "fetched": "2026-11-13T13:29:28.104380+00:00"
-    },
-    {
-      "id": "b69caed205de0951",
-      "title": "Rosalia Makes History With Third Album of the Year Win at the Latin Grammys",
-      "link": "https://www.rollingstone.com/music/music-latin/rosalia-wins-album-of-the-year-latin-grammys-1235655872/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Spanish singer took home the night's biggest award for her masterful LP Lux",
-      "published": "2026-11-13T04:18:34+00:00",
-      "fetched": "2026-11-13T13:29:28.104392+00:00"
-    },
-    {
-      "id": "f5b32cfa676021c5",
-      "title": "Latin Grammys Celebrate 100 Years of José Alfredo Jiménez With Edgar Barrera, The Warning, More",
-      "link": "https://www.rollingstone.com/music/music-latin/latin-grammys-jose-alfredo-jimenez-edgar-barrera-tribute-1235655750/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Barrera was the musical producer for star-studded tribute featuring The Warning, Reik, Sofia Reyes, Yami Safdie, and Camila Fernández",
-      "published": "2026-11-13T03:49:56+00:00",
-      "fetched": "2026-11-13T13:29:28.104408+00:00"
-    },
-    {
-      "id": "38219e2871f700ca",
-      "title": "‘SVU’ Star Mariska Hargitay Breaks Down Benson and Stabler’s Complicated Reunion and Her Final Choice: ‘There Are So Many Feelings’",
-      "link": "https://variety.com/2026/tv/news/svu-mariska-hargitay-benson-stabler-reunion-1236945584/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This article contains major spoilers from the 600th episode of Law Order: Special Victims Unit. To say that Olivia Benson and Elliot Stabler have a complicated relationship would be an understatement. During the Nov.",
-      "published": "2026-11-13T03:05:00+00:00",
-      "fetched": "2026-11-13T03:44:48.482330+00:00"
-    },
-    {
-      "id": "73e136142d0fa3e1",
-      "title": "‘The Body’ Creator on the Dance Team’s Sexuality, What Happened to Grace and Whether God Is Real",
-      "link": "https://variety.com/2026/tv/news/the-body-finale-sexuality-grace-god-1236946216/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "SPOILER ALERT: This story contains spoilers for “The Body,” now streaming on Netflix. If you’re looking for clear answers about whether or not God is real in the world of The Body — Netflix’s spooky new drama series about mass hysteria originating from a Catholic school dance team — you’re not going to find them. “If [ ]",
-      "published": "2026-11-13T03:00:00+00:00",
-      "fetched": "2026-11-13T03:44:48.482384+00:00"
-    },
-    {
-      "id": "7e48e90d8de5c875",
-      "title": "Latin Grammys 2026 Winners: The Complete List",
-      "link": "https://www.rollingstone.com/music/music-latin/latin-grammys-2026-winners-complete-list-1235655791/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Rosalía, Karol G, and CA7RIEL Paco Amoroso kicked off the night with multiple wins",
-      "published": "2026-11-13T02:50:03+00:00",
-      "fetched": "2026-11-13T03:44:48.579817+00:00"
-    },
-    {
-      "id": "9ddab2b53e29a788",
-      "title": "Daddy Yankee’s Latin Grammys Medley Was a Supershow — And Possibly a Coachella Preview",
-      "link": "https://www.rollingstone.com/music/music-latin/daddy-yankee-latin-grammys-coachella-preview-ll-cool-j-1235655734/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Latin music icon was joined by L Cool J, French Montana, Diljit Dosanjh, Feid, Bizarrap, Bad Gyal and more",
-      "published": "2026-11-13T02:38:36+00:00",
-      "fetched": "2026-11-13T03:44:48.579851+00:00"
-    },
-    {
-      "id": "e8ab0cd685f44dcd",
-      "title": "Karol G Embraces Mariachi Soul for Passionate Latin Grammys Performance",
-      "link": "https://www.rollingstone.com/music/music-latin/karol-g-latin-grammys-2026-performance-1235655783/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Colombian superstar sang\"Ese Hombre Es Malo,\" which is up for Best Regional Song this year",
-      "published": "2026-11-13T02:20:17+00:00",
-      "fetched": "2026-11-13T03:44:48.579871+00:00"
-    },
-    {
-      "id": "582baf4471840123",
-      "title": "Anitta Shows Off Brazilian Roots and Powerhouse Moves at Latin Grammys",
-      "link": "https://www.rollingstone.com/music/music-latin/anitta-latin-grmamy-performance-1235655736/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The Brazilian pop star is up for Album of the Year at this year's ceremony",
-      "published": "2026-11-13T01:59:44+00:00",
-      "fetched": "2026-11-13T03:44:48.579889+00:00"
-    },
-    {
-      "id": "e033f9a80febe889",
-      "title": "Sting Is Officially a Latin Grammy Winner",
-      "link": "https://www.rollingstone.com/music/music-news/sting-first-latin-grammy-win-1235657253/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The rocker won Best Pop/Rock Song for his work on Ca7riel Paco Amoroso's latest album",
-      "published": "2026-11-13T01:45:50+00:00",
-      "fetched": "2026-11-13T03:44:48.579907+00:00"
     }
   ]
 }
