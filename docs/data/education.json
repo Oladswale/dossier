@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-17T01:10:03.941622+00:00",
+  "updated": "2026-11-17T14:58:38.785761+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "26b34c7756baa8f4",
+      "title": "When Jorge Luis Borges Co-Wrote a Surreal Sci-Fi Noir Film: Invasión (1969)",
+      "link": "https://www.openculture.com/2026/11/when-jorge-luis-borges-co-wrote-a-surreal-sci-fi-noir-film-invasion-1969.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "“La ciudad es más que la gente.” So declares a character called Don Porfirio in Invasión, the debut feature by Argentine director Hugo Santiago. The line is the film’s most memorable, not least because of the reversal it pulls on our expectations. Saying that a city is really its people must have been a somewhat banal [ ]",
+      "published": "2026-11-17T10:00:08+00:00",
+      "fetched": "2026-11-17T14:58:38.785490+00:00"
+    },
+    {
+      "id": "d4629d256096e972",
+      "title": "Watch Accurate Recreations of Medieval Italian Longsword Fighting Techniques, All Based on a Manuscript from 1404",
+      "link": "https://www.openculture.com/2026/11/accurate-recreations-of-medieval-italian-longsword-fighting-techniques.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Given recent history, the prospect of hundreds of young men meeting on Facebook, then traveling from around the country to a central U.S. location might sound like reasonable cause for alarm. Yet a convention fitting that description had nothing to do with political violence but, rather, a celebration and appreciation of the name “Josh” (full disclosure: [ ]",
+      "published": "2026-11-17T09:00:25+00:00",
+      "fetched": "2026-11-17T14:58:38.785551+00:00"
+    },
+    {
+      "id": "417d49bdc3a64192",
+      "title": "Q&A: Why building math muscles remains important in the AI era",
+      "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+      "published": "2026-11-17T05:00:00+00:00",
+      "fetched": "2026-11-17T14:58:38.159040+00:00"
+    },
+    {
+      "id": "b1019e43831f6065",
+      "title": "Learning the language of machine learning",
+      "link": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
+      "published": "2026-11-17T05:00:00+00:00",
+      "fetched": "2026-11-17T14:58:38.159075+00:00"
+    },
     {
       "id": "d8bf496f1a63d011",
       "title": "MIT School of Engineering faculty and staff receive awards in summer 2026",
@@ -1462,46 +1502,6 @@
       "summary": "A few years ago, we featured here on Open Culture the Freedmen’s Bureau Project database, which contains searchable information on formerly enslaved people in the United States after its Civil War. With nearly 1.8 million men, women, and children registered there when it first opened to the public, it has remained a valuable resource for [ ]",
       "published": "2026-10-13T09:02:36+00:00",
       "fetched": "2026-10-13T13:01:14.933995+00:00"
-    },
-    {
-      "id": "75099b22c4dceb51",
-      "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",
-      "link": "https://news.mit.edu/2026/reprogrammed-nk-immune-cells-target-cancer-and-autoimmune-disorders-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new approach can program these cells inside the body and shows promise against diseases caused by dysfunctional T cells, including lymphoma and autoimmune hepatitis.",
-      "published": "2026-10-13T09:00:00+00:00",
-      "fetched": "2026-10-13T13:01:10.864460+00:00"
-    },
-    {
-      "id": "1a9f0556bcc3e4a7",
-      "title": "The Bialetti Moka Express: The History of Italy’s Iconic Coffee Maker, and How to Use It the Right Way",
-      "link": "https://www.openculture.com/2026/10/how-to-use-the-bialetti-moka-pot-the-right-way.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "I am sure that many an Open Culture reader has a Bialetti Moka Express in their kitchen. I know I do, but I must add that I knew little about its history and apparently even less about how to properly use one. Coffee expert and author of The World Atlas of Coffee James Hoffmann introduces [ ]",
-      "published": "2026-10-13T08:00:20+00:00",
-      "fetched": "2026-10-13T13:01:14.934034+00:00"
-    },
-    {
-      "id": "597d6ef3379de963",
-      "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
-      "link": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Professor Deb Roy contends there should be someone who is “answerable” for every piece of text in public life, no matter its origins.",
-      "published": "2026-10-13T04:00:00+00:00",
-      "fetched": "2026-10-13T04:04:39.743262+00:00"
-    },
-    {
-      "id": "e6e5af334d49868a",
-      "title": "Exploring how plants thrive in a changing environment",
-      "link": "https://news.mit.edu/2026/exploring-how-plants-thrive-david-des-marais-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Associate Professor David Des Marais studies how plants interact with their surroundings and adapt over time.",
-      "published": "2026-10-13T04:00:00+00:00",
-      "fetched": "2026-10-13T04:04:39.743297+00:00"
     }
   ]
 }
