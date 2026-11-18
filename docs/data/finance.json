@@ -1,8 +1,198 @@
 {
   "category": "finance",
-  "updated": "2026-11-17T14:58:24.293903+00:00",
+  "updated": "2026-11-18T00:04:07.619498+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3b68a50adef90b27",
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+      "published": "2026-11-17T23:30:13+00:00",
+      "fetched": "2026-11-18T00:04:05.844324+00:00"
+    },
+    {
+      "id": "f71ac4d6145b18c6",
+      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+      "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
+      "published": "2026-11-17T22:46:00+00:00",
+      "fetched": "2026-11-18T00:04:05.748919+00:00"
+    },
+    {
+      "id": "e125ae1d909b66ca",
+      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "published": "2026-11-17T22:30:00+00:00",
+      "fetched": "2026-11-18T00:04:05.748964+00:00"
+    },
+    {
+      "id": "a9e1f732afa7261f",
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+      "published": "2026-11-17T22:15:00+00:00",
+      "fetched": "2026-11-18T00:04:05.748992+00:00"
+    },
+    {
+      "id": "7f383a49c555b712",
+      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+      "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
+      "published": "2026-11-17T22:08:00+00:00",
+      "fetched": "2026-11-18T00:04:05.749016+00:00"
+    },
+    {
+      "id": "8b7bae9077b79a6f",
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "published": "2026-11-17T21:30:00+00:00",
+      "fetched": "2026-11-18T00:04:05.749043+00:00"
+    },
+    {
+      "id": "ce14ec6189006c70",
+      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+      "published": "2026-11-17T21:12:00+00:00",
+      "fetched": "2026-11-18T00:04:05.749073+00:00"
+    },
+    {
+      "id": "529172a1e5e08835",
+      "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+      "published": "2026-11-17T21:11:00+00:00",
+      "fetched": "2026-11-18T00:04:05.749100+00:00"
+    },
+    {
+      "id": "63bf539f652a1fa7",
+      "title": "From market scale to category leadership: TCL’s role in the evolution of Mini LED",
+      "link": "https://nairametrics.com/2026/11/17/from-market-scale-to-category-leadership-tcls-role-in-the-evolution-of-mini-led/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Mini LED is entering a different stage of its development. The technology is no longer defined only by early adoption or flagship availability. It is becoming a larger part of the global TV market, which means leadership in the category increasingly depends on what a brand contributes beyond simply putting Mini LED into a product [ ] The post From market scale to category leadership: TCL s role in the evolution of Mini LED appeared first on Nairametrics .",
+      "published": "2026-11-17T18:33:30+00:00",
+      "fetched": "2026-11-18T00:04:06.273011+00:00"
+    },
+    {
+      "id": "9f03db60e2b76f50",
+      "title": "The company that makes the panel: why TCL’s display authority cannot be replicated, and what that means for anyone buying a premium television",
+      "link": "https://nairametrics.com/2026/11/17/the-company-that-makes-the-panel-why-tcls-display-authority-cannot-be-replicated-and-what-that-means-for-anyone-buying-a-premium-television/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "There is a structural fact about the television industry that rarely appears in reviews or buying guides: the majority of premium television brands do not manufacture their own display panels. The post The company that makes the panel: why TCL s display authority cannot be replicated, and what that means for anyone buying a premium television appeared first on Nairametrics .",
+      "published": "2026-11-17T18:07:41+00:00",
+      "fetched": "2026-11-18T00:04:06.273067+00:00"
+    },
+    {
+      "id": "8b952306807e4937",
+      "title": "NGX stocks lose N2.27 trillion as Dangote Cement leads market sell-off",
+      "link": "https://nairametrics.com/2026/11/17/ngx-stocks-lose-n2-27-trillion-as-dangote-cement-leads-market-sell-off/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Equity trading on the Nigerian Exchange (NGX) ended on a sharp bearish note on Tuesday, as intense selling pressure across heavyweights wiped out N2.27 trillion in market value in a single trading session. The post NGX stocks lose N2.27 trillion as Dangote Cement leads market sell-off appeared first on Nairametrics .",
+      "published": "2026-11-17T17:31:08+00:00",
+      "fetched": "2026-11-18T00:04:06.273102+00:00"
+    },
+    {
+      "id": "861161662779f607",
+      "title": "AfDB approves $102 million financing for Nigerian SMEs, farmers",
+      "link": "https://nairametrics.com/2026/11/17/afdb-approves-102-million-financing-for-nigerian-smes-farmers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The African Development Bank (AfDB) has approved a $102 million financing package for Sterling Bank to expand access to funding for small and medium-sized enterprises (SMEs), smallholder farmers and other businesses across Nigeria. The post AfDB approves $102 million financing for Nigerian SMEs, farmers appeared first on Nairametrics .",
+      "published": "2026-11-17T17:27:05+00:00",
+      "fetched": "2026-11-18T00:04:06.273139+00:00"
+    },
+    {
+      "id": "201445e7d200e84f",
+      "title": "Airtel Africa repurchases 2.6 million shares in one week as new buyback hits 3.4 million",
+      "link": "https://nairametrics.com/2026/11/17/airtel-africa-repurchases-2-6-million-shares-in-one-week-as-new-buyback-hits-3-4-million/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Airtel Africa Plc has repurchased 2.6 million of its ordinary shares in a single week as part of its ongoing fresh share buyback programme, bringing the total shares acquired since the programme began to 3.4 million. The post Airtel Africa repurchases 2.6 million shares in one week as new buyback hits 3.4 million appeared first on Nairametrics .",
+      "published": "2026-11-17T17:15:56+00:00",
+      "fetched": "2026-11-18T00:04:06.273175+00:00"
+    },
+    {
+      "id": "147c1d0b563c168c",
+      "title": "Nigeria’s markets in November: falling inflation, a 60% stock rally and a harvest discount",
+      "link": "https://nairametrics.com/2026/11/17/nigerias-markets-in-november-falling-inflation-a-60-stock-rally-and-a-harvest-discount/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria heads into the last weeks of 2026 in better macro shape than at any point in three years. Inflation has fallen for four straight months, the Central Bank has started cutting rates, and the stock market is up about 60% for the year. Underneath, the picture is more mixed.",
+      "published": "2026-11-17T15:53:34+00:00",
+      "fetched": "2026-11-18T00:04:06.273219+00:00"
+    },
+    {
+      "id": "6936f655e04fc4cd",
+      "title": "FirstBank commissions 11th Digital Xperience Centre in Lagos",
+      "link": "https://nairametrics.com/2026/11/17/firstbank-commissions-11th-digital-xperience-centre-in-lagos/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "FirstBank of Nigeria has commissioned a 24-hour Digital Xperience Centre (DXC) in Festac Town, Lagos, allowing customers to access banking services and complete transactions, including cash deposits, without having to interact with bank employees. The post FirstBank commissions 11th Digital Xperience Centre in Lagos appeared first on Nairametrics .",
+      "published": "2026-11-17T15:37:53+00:00",
+      "fetched": "2026-11-18T00:04:06.273253+00:00"
+    },
+    {
+      "id": "2af921acb8bcc708",
+      "title": "Benin wants to be Africa’s AI testbed. Cybersecurity is its starting point",
+      "link": "https://techcabal.com/2026/11/17/benin-wants-to-be-africas-ai-testbed/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Benin wants to become a testing ground for Africa’s artificial intelligence (AI) and cybersecurity innovations. Its strategy, according to Mahuna Akplogan, Benin’s Minister of Digital Transformation and Innovation, begins with protecting government systems, developing local expertise and making digital public services more accessible. “We want to be the test bed of Africa,” the minister said [ ]",
+      "published": "2026-11-17T15:35:22+00:00",
+      "fetched": "2026-11-18T00:04:07.619306+00:00"
+    },
+    {
+      "id": "cc576f6054afc074",
+      "title": "Nairobi Securities Exchange to extend trading hours to 4pm from January 2027",
+      "link": "https://nairametrics.com/2026/11/17/nairobi-securities-exchange-to-extend-trading-hours-to-4pm-from-january-2027/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nairobi Securities Exchange (NSE) will extend its daily trading hours by one hour from January 4, 2027, allowing investors to trade until 4 pm instead of the current 3 pm. The post Nairobi Securities Exchange to extend trading hours to 4pm from January 2027 appeared first on Nairametrics .",
+      "published": "2026-11-17T15:31:17+00:00",
+      "fetched": "2026-11-18T00:04:06.273284+00:00"
+    },
+    {
+      "id": "421c932da49031a5",
+      "title": "Sahara Group builds 30,000-Tonne LPG terminal in Kenya, targets 10 million homes",
+      "link": "https://nairametrics.com/2026/11/17/sahara-group-builds-30000-tonne-lpg-terminal-in-kenya-targets-10-million-homes/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sahara Group, through its subsidiary Asharami Synergy Kenya Limited, is building a 30,000-metric-tonne liquefied petroleum gas (LPG) import, storage and handling terminal in Changamwe, Mombasa, Kenya. The post Sahara Group builds 30,000-Tonne LPG terminal in Kenya, targets 10 million homes appeared first on Nairametrics .",
+      "published": "2026-11-17T15:21:50+00:00",
+      "fetched": "2026-11-18T00:04:06.273315+00:00"
+    },
+    {
+      "id": "97daf0842e75974e",
+      "title": "Elektron Energy signs deal to acquire Shell-owned Daystar Power",
+      "link": "https://nairametrics.com/2026/11/17/elektron-energy-signs-deal-to-acquire-shell-owned-daystar-power/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Elektron Energy has signed an agreement to acquire Shell’s 100% ownership interest in Daystar Power Group, a renewable energy company operating across five West African countries. The post Elektron Energy signs deal to acquire Shell-owned Daystar Power appeared first on Nairametrics .",
+      "published": "2026-11-17T15:02:30+00:00",
+      "fetched": "2026-11-18T00:04:06.273352+00:00"
+    },
     {
       "id": "a582185b00ee4001",
       "title": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang’s exit",
@@ -1312,196 +1502,6 @@
       "summary": "“Take Me Home” offers a view of how one family faces caregiving issues and finds solutions.",
       "published": "2026-11-14T17:50:00+00:00",
       "fetched": "2026-11-14T21:43:14.048343+00:00"
-    },
-    {
-      "id": "bb806fe1c794b005",
-      "title": "FG issues high-altitude travel advisory after 16 Nigerians die in Addis Ababa",
-      "link": "https://nairametrics.com/2026/11/14/fg-issues-high-altitude-travel-advisory-after-16-nigerians-die-in-addis-ababa/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has issued a high-altitude travel advisory warning Nigerians about potential health risks associated with transiting. The post FG issues high-altitude travel advisory after 16 Nigerians die in Addis Ababa appeared first on Nairametrics .",
-      "published": "2026-11-14T16:57:22+00:00",
-      "fetched": "2026-11-14T21:43:14.531464+00:00"
-    },
-    {
-      "id": "53ec17dcb0914c7b",
-      "title": "NELFUND disburses N135.54 million to students in three institutions, records 8,397 applications in one day",
-      "link": "https://nairametrics.com/2026/11/14/nelfund-disburses-n135-54-million-to-students-in-three-institutions-records-8397-applications-in-one-day/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Education Loan Fund (NELFUND) has disbursed a combined N135.54 million to 1,298 students across three tertiary institutions The post NELFUND disburses N135.54 million to students in three institutions, records 8,397 applications in one day appeared first on Nairametrics .",
-      "published": "2026-11-14T16:26:06+00:00",
-      "fetched": "2026-11-14T21:43:14.531513+00:00"
-    },
-    {
-      "id": "6a6a25779054b14a",
-      "title": "Barcelona raises €300 million more for Camp Nou as stadium redevelopment costs hit €1.8 billion",
-      "link": "https://nairametrics.com/2026/11/14/barcelona-raises-e300-million-more-for-camp-nou-as-stadium-redevelopment-costs-hit-e1-8-billion/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FC Barcelona has completed a €300 million bond issue to finance the remaining redevelopment of Spotify Camp Nou, marking a new stage in the The post Barcelona raises €300 million more for Camp Nou as stadium redevelopment costs hit €1.8 billion appeared first on Nairametrics .",
-      "published": "2026-11-14T16:12:54+00:00",
-      "fetched": "2026-11-14T21:43:14.531568+00:00"
-    },
-    {
-      "id": "e5825e4577c8d38f",
-      "title": "EXCLUSIVE: NRS drags Sterling Global Oil, CEO to court over alleged OML 146 tax liability",
-      "link": "https://nairametrics.com/2026/11/14/exclusive-nrs-drags-sterling-global-oil-ceo-to-court-over-alleged-oml-146-tax-liability/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Revenue Service (NRS) has filed criminal charges against Sterling Global Oil Resources Limited (SGORL) and its Chief Executive.. The post EXCLUSIVE: NRS drags Sterling Global Oil, CEO to court over alleged OML 146 tax liability appeared first on Nairametrics .",
-      "published": "2026-11-14T16:03:22+00:00",
-      "fetched": "2026-11-14T21:43:14.531609+00:00"
-    },
-    {
-      "id": "27d91ae21fa47ee2",
-      "title": "Best performing Nigerian stocks for the week ended November 13, 2026",
-      "link": "https://nairametrics.com/2026/11/14/best-performing-nigerian-stocks-for-the-week-ended-november-13-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian equities market rebounded from the previous week's weakness, gaining about N2.20 trillion in market capitalisation as the... The post Best performing Nigerian stocks for the week ended November 13, 2026 appeared first on Nairametrics .",
-      "published": "2026-11-14T15:53:55+00:00",
-      "fetched": "2026-11-14T21:43:14.531646+00:00"
-    },
-    {
-      "id": "e3c48d75855d6ec1",
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-      "published": "2026-11-14T15:50:43+00:00",
-      "fetched": "2026-11-14T21:43:14.150237+00:00"
-    },
-    {
-      "id": "7ba583c099a5306d",
-      "title": "Appeal Court upholds Ex-AGF Nwabuoku’s N868 million money laundering conviction",
-      "link": "https://nairametrics.com/2026/11/14/appeal-court-upholds-ex-agf-nwabuokus-n868-million-money-laundering-conviction/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Abuja Division of the Court of Appeal has upheld the conviction of former Acting Accountant-General of the Federation (AGF), Chukwunyere. The post Appeal Court upholds Ex-AGF Nwabuoku’s N868 million money laundering conviction appeared first on Nairametrics .",
-      "published": "2026-11-14T14:39:29+00:00",
-      "fetched": "2026-11-14T21:43:14.531710+00:00"
-    },
-    {
-      "id": "c54d549d21df7628",
-      "title": "Lagos port truck call-up system cuts cargo transport costs by 65% –TTP MD",
-      "link": "https://nairametrics.com/2026/11/14/lagos-port-truck-call-up-system-cuts-cargo-transport-costs-by-65-ttp-md/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Thousands of trucks move goods across Lagos daily, connecting seaports to warehouses, factories, distribution centres and markets... The post Lagos port truck call-up system cuts cargo transport costs by 65% TTP MD appeared first on Nairametrics .",
-      "published": "2026-11-14T14:27:32+00:00",
-      "fetched": "2026-11-14T21:43:14.531751+00:00"
-    },
-    {
-      "id": "7533de07f773ad69",
-      "title": "Dangote, Elumelu, Wale Tinubu gain N1.91 trillion in NGX holdings in one week",
-      "link": "https://nairametrics.com/2026/11/14/dangote-elumelu-wale-tinubu-gain-n1-91-trillion-in-ngx-holdings-in-one-week/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian billionaires Aliko Dangote, Tony Elumelu and Wale Tinubu recorded a combined gain of approximately N1.91 trillion in the market value of their tracked holdings on the Nigerian Exchange (NGX) over five trading sessions. The post Dangote, Elumelu, Wale Tinubu gain N1.91 trillion in NGX holdings in one week appeared first on Nairametrics .",
-      "published": "2026-11-14T13:42:50+00:00",
-      "fetched": "2026-11-14T21:43:14.531791+00:00"
-    },
-    {
-      "id": "c0ec5705aa8d720b",
-      "title": "Kenya mandates licences for crypto firms, tightens industry oversight",
-      "link": "https://nairametrics.com/2026/11/14/kenya-mandates-licences-for-crypto-firms-tightens-industry-oversight/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Central Bank of Kenya (CBK) and the Capital Markets Authority (CMA) have introduced mandatory licensing requirements for cryptocurrency and other virtual asset service providers operating in Kenya. The post Kenya mandates licences for crypto firms, tightens industry oversight appeared first on Nairametrics .",
-      "published": "2026-11-14T12:10:55+00:00",
-      "fetched": "2026-11-14T12:35:01.847842+00:00"
-    },
-    {
-      "id": "cf75c73138211d2b",
-      "title": "How AyaHQ turned a failed startup into a founder-building business",
-      "link": "https://techcabal.com/2026/11/14/day-1-1000-of-ayahq/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "AyaHQ has been a stablecoin payments product, a remote-jobs marketplace, a training programme, a founder programme, and the operator of physical residencies in two countries.",
-      "published": "2026-11-14T12:00:20+00:00",
-      "fetched": "2026-11-14T12:35:03.281521+00:00"
-    },
-    {
-      "id": "2d9c0d928982df5d",
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-      "published": "2026-11-14T12:00:01+00:00",
-      "fetched": "2026-11-14T12:35:01.536987+00:00"
-    },
-    {
-      "id": "4fc38d4ede650c70",
-      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
-      "published": "2026-11-14T12:00:00+00:00",
-      "fetched": "2026-11-14T12:35:01.460490+00:00"
-    },
-    {
-      "id": "e778ae72798e238b",
-      "title": "Microsoft restores Teams, Outlook after over 24-hour global outage, rules out cyberattack",
-      "link": "https://nairametrics.com/2026/11/14/microsoft-restores-teams-outlook-after-over-24-hour-global-outage-rules-out-cyberattack/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Microsoft has fully restored services across Teams, Outlook and its other products following a global outage that disrupted online communications for businesses, government agencies and other organisations for more than 24 hours, while ruling out malicious activity as the cause. The post Microsoft restores Teams, Outlook after over 24-hour global outage, rules out cyberattack appeared first on Nairametrics .",
-      "published": "2026-11-14T11:06:11+00:00",
-      "fetched": "2026-11-14T12:35:01.847880+00:00"
-    },
-    {
-      "id": "1f2f919f16b6ba9f",
-      "title": "US flights resume after radar failure causes 31,700 disruptions",
-      "link": "https://nairametrics.com/2026/11/14/us-flights-resume-after-radar-failure-causes-31700-disruptions/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Aviation Administration (FAA) has lifted a nationwide flight ground stop in the United States after a communications and radar disruption affected air traffic control operations, resulting in more than 25,100 delays and 6,600 cancellations. The post US flights resume after radar failure causes 31,700 disruptions appeared first on Nairametrics .",
-      "published": "2026-11-14T10:59:04+00:00",
-      "fetched": "2026-11-14T12:35:01.847909+00:00"
-    },
-    {
-      "id": "ff74bdc284d8e2da",
-      "title": "How Nigerians can access FG’s N50,000 monthly relief fund through OPay",
-      "link": "https://nairametrics.com/2026/11/14/how-nigerians-can-access-fgs-n50000-monthly-relief-fund-through-opay/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has recently commenced a N50,000 monthly cash relief programme for vulnerable Nigerians to help meet essential household needs, with OPay and four other digital financial service providers selected to facilitate payments to eligible beneficiaries. The initiative, known as the National Emergency Relief and Stabilisation Intervention (NERSI), is designed to provide financial support to low-income households facing [ ] The post How Nigerians can access FG’s N50,000 monthly relief fund through OPay appeared first on Nairametrics .",
-      "published": "2026-11-14T09:21:43+00:00",
-      "fetched": "2026-11-14T12:35:01.847956+00:00"
-    },
-    {
-      "id": "f505b640017afc53",
-      "title": "DBN launches $275 million climate finance programme for Nigerian MSMEs",
-      "link": "https://nairametrics.com/2026/11/14/dbn-launches-275-million-climate-finance-programme-for-nigerian-msmes/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Development Bank of Nigeria (DBN) has launched a $275 million climate finance programme to help Micro, Small and Medium Enterprises (MSMEs) adopt clean energy solutions, improve climate resilience and expand sustainable business operations. The post DBN launches $275 million climate finance programme for Nigerian MSMEs appeared first on Nairametrics .",
-      "published": "2026-11-14T09:18:30+00:00",
-      "fetched": "2026-11-14T12:35:01.847984+00:00"
-    },
-    {
-      "id": "43c59eb94436083a",
-      "title": "EU, Nigeria discuss delivery of €20 million defence support package",
-      "link": "https://nairametrics.com/2026/11/14/eu-nigeria-discuss-delivery-of-e20-million-defence-support-package/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has held talks with the European Union (EU) to finalise arrangements for the delivery of a €20 million defence support package aimed at strengthening the operational capabilities of the Nigerian Armed Forces. The post EU, Nigeria discuss delivery of €20 million defence support package appeared first on Nairametrics .",
-      "published": "2026-11-14T09:09:12+00:00",
-      "fetched": "2026-11-14T12:35:01.848017+00:00"
-    },
-    {
-      "id": "6b7104d924fc993c",
-      "title": "Neimeth major shareholder buys additional 74.7 million shares for N448 million",
-      "link": "https://nairametrics.com/2026/11/14/neimeth-major-shareholder-buys-additional-74-7-million-shares-for-n448-million/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A major shareholder in Neimeth International Pharmaceuticals Plc, Clinoscope Services Limited, has purchased an additional 74.7 million ordinary shares in the pharmaceutical company for approximately N448.36 million. The post Neimeth major shareholder buys additional 74.7 million shares for N448 million appeared first on Nairametrics .",
-      "published": "2026-11-14T08:48:33+00:00",
-      "fetched": "2026-11-14T12:35:01.848043+00:00"
     }
   ]
 }

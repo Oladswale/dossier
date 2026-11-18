@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-11-17T14:58:38.785761+00:00",
+  "updated": "2026-11-18T00:04:22.488419+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "70fb277af056bf9d",
+      "title": "Putting a spotlight on AI, society, and humanity",
+      "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+      "published": "2026-11-17T20:40:00+00:00",
+      "fetched": "2026-11-18T00:04:21.701480+00:00"
+    },
     {
       "id": "26b34c7756baa8f4",
       "title": "When Jorge Luis Borges Co-Wrote a Surreal Sci-Fi Noir Film: Invasión (1969)",
@@ -1492,16 +1502,6 @@
       "summary": "Co-founders Aleks Banaś and Zachary Rapaport see architecture and farming as deeply complementary disciplines. Their nascent club is having a sizeable impact at the Institute.",
       "published": "2026-10-13T19:30:00+00:00",
       "fetched": "2026-10-13T22:00:32.767048+00:00"
-    },
-    {
-      "id": "2358e4e0dfbaeb72",
-      "title": "The Names of Nearly 4 Million Enslaved People in Former British Colonies Are Now Searchable Online, Helping Descendants Find Lost Ancestors",
-      "link": "https://www.openculture.com/2026/10/names-of-nearly-4-million-enslaved-people-in-former-british-colonies-are-searchable-online.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "A few years ago, we featured here on Open Culture the Freedmen’s Bureau Project database, which contains searchable information on formerly enslaved people in the United States after its Civil War. With nearly 1.8 million men, women, and children registered there when it first opened to the public, it has remained a valuable resource for [ ]",
-      "published": "2026-10-13T09:02:36+00:00",
-      "fetched": "2026-10-13T13:01:14.933995+00:00"
     }
   ]
 }

@@ -1,8 +1,188 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-17T14:58:39.496583+00:00",
+  "updated": "2026-11-18T00:04:23.160521+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "a4a8afffee1e0587",
+      "title": "Study Finds a Nearly 50% Drop in Renters Becoming Homeowners Since 2009",
+      "link": "https://www.realtor.com/news/trends/share-renters-becoming-homeowners-transunion-study-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The share of renters who convert to homeownership was 3.9% in 2025, a sharp decline from 7.2% in 2009. Agents are pointing at affordability.",
+      "published": "2026-11-17T23:47:13+00:00",
+      "fetched": "2026-11-18T00:04:23.159673+00:00"
+    },
+    {
+      "id": "13592d8ea8e2827e",
+      "title": "Daniel Craig Stepped Away From James Bond Role To Spend More Time at Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/why-daniel-craig-stepped-away-from-james-bond-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "With the James Bond franchise entering a new era with Robert Pattinson at the helm, Daniel Craig is spending more time at home.",
+      "published": "2026-11-17T23:19:36+00:00",
+      "fetched": "2026-11-18T00:04:23.159705+00:00"
+    },
+    {
+      "id": "c2668231b52e39f8",
+      "title": "Anne Hathaway Welcomes Her Third Child with Husband Adam Schulman",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/anne-hathaway-gives-birth-third-baby-husband-adam-schulman/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"The Devil Wears Prada\" star was spotted walking around New York City with a newborn, months after announcing her pregnancy.",
+      "published": "2026-11-17T22:20:53+00:00",
+      "fetched": "2026-11-18T00:04:23.159728+00:00"
+    },
+    {
+      "id": "83c3d4c7e868d97d",
+      "title": "Billy Joel–Linked Palm Beach Retreat Seeks $17.9 Million—With a Private Pool and Lavish Primary Suite",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/billy-joel-palm-beach-estate-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The four-bedroom property is being listed with Christian Angle of Christian Angle Real Estate and offers buyers plenty of space to lounge.",
+      "published": "2026-11-17T22:12:03+00:00",
+      "fetched": "2026-11-18T00:04:23.159757+00:00"
+    },
+    {
+      "id": "c2d885f7fb54c944",
+      "title": "Wisconsin Couple Seek To Enforce $1,350 Judgment Against Each of Their Neighbors in HOA Dispute",
+      "link": "https://www.realtor.com/news/trends/wisconsin-nazcr-trac-hoa-dispute-settlement-fence/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "What began as a dispute over a backyard fence has turned into an ongoing series of lawsuits, with neighbors being forced to pay $1,350 each.",
+      "published": "2026-11-17T21:40:56+00:00",
+      "fetched": "2026-11-18T00:04:23.159782+00:00"
+    },
+    {
+      "id": "ab02cc826943ba82",
+      "title": "Buyers Need Cheaper Homes. Airbnb Is Putting $1 Million Toward Finding New Solutions.",
+      "link": "https://www.realtor.com/news/trends/airbnb-million-dollar-prize-housing-affordability-crisis/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Airbnb has created a $1 million award for innovators and entrepreneurs who are making it easier, faster, and cheaper to build homes.",
+      "published": "2026-11-17T21:20:31+00:00",
+      "fetched": "2026-11-18T00:04:23.159805+00:00"
+    },
+    {
+      "id": "f3dd295742978950",
+      "title": "EXCLUSIVE: Google Co-Founder Sergey Brin and Ex-Wife Nicole Shanahan List Malibu Home for $33 Million",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/google-co-founder-sergey-brin-ex-wife-nicole-shanahan-selling-malibu-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Brin and his former spouse bought the dwelling for $13.5 million in September 2020, just over a year before it was revealed they had split.",
+      "published": "2026-11-17T20:37:46+00:00",
+      "fetched": "2026-11-18T00:04:23.159829+00:00"
+    },
+    {
+      "id": "d3a06d0097b5eaea",
+      "title": "Abandoned Property for Sale: How To Buy an Abandoned Home",
+      "link": "https://www.realtor.com/advice/buy/find-buy-abandoned-properties/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Buying an abandoned property can be a bargain for homebuyers. So, if you're looking for abandoned homes for sale, where can you find them?",
+      "published": "2026-11-17T20:23:00+00:00",
+      "fetched": "2026-11-18T00:04:23.159852+00:00"
+    },
+    {
+      "id": "bdae7f73bf2531b8",
+      "title": "Alex Trebek’s Former 578-Acre California Ranch and Winery Heads to Auction for $6.45 Million",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/alex-trebek-former-california-ranch-and-winery-heads-to-auction/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Known as Creston Manor, the property in San Luis Obispo County near Paso Robles is listed for $6.45 million.",
+      "published": "2026-11-17T20:17:06+00:00",
+      "fetched": "2026-11-18T00:04:23.159877+00:00"
+    },
+    {
+      "id": "36077df2866b3bff",
+      "title": "U.S. Chamber Backs Capital Gains Tax Exclusion Bill Aimed To Reduce Taxes on Profits From Home Sales",
+      "link": "https://www.realtor.com/news/real-estate-news/chamber-commerce-capital-gains-more-homes-market-act/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Updating the capital gains tax scheme to drive housing production could help unlock housing production, the U.S. Chamber of Commerce said.",
+      "published": "2026-11-17T19:37:06+00:00",
+      "fetched": "2026-11-18T00:04:23.159916+00:00"
+    },
+    {
+      "id": "2714f4d022c6d044",
+      "title": "Joanna Gaines Shares a Sweet Moment at Her Family’s Waco Farmhouse as Her Youngest Helps Celebrate the Holiday Season a ‘Little Early’",
+      "link": "https://www.realtor.com/news/reality-tv/joanna-gaines-waco-texas-farmhouse-holiday-celebration-family/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Fixer Upper\" star knows it's early for some to be celebrating the holidays, but her Waco, TX, home is already a winter wonderland.",
+      "published": "2026-11-17T18:33:29+00:00",
+      "fetched": "2026-11-18T00:04:23.159944+00:00"
+    },
+    {
+      "id": "f77a09c1cdfbf372",
+      "title": "EXCLUSIVE: Kylie Jenner’s $38 Million Concrete Mansion Is Back on the Market With a Glamorous New Look",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kylie-jenner-relists-los-angeles-concrete-mansion/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The TV personality, 29, initially put the seven-bedroom Holmby Hills property on the market on Dec. 22, five years after she bought it.",
+      "published": "2026-11-17T18:19:36+00:00",
+      "fetched": "2026-11-18T00:04:23.159972+00:00"
+    },
+    {
+      "id": "7f8ed681be1165a6",
+      "title": "Kevin Durant Lists Arizona Home for $13 Million—1 Year After His Trade to the Houston Rockets",
+      "link": "https://www.realtor.com/news/sports/nba-kevin-durant-selling-arizona-home-after-houston-rockets-trade/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The NBA icon, 38, purchased the property in 2023 for $12.9 million from fellow athlete DeAndre Hopkins.",
+      "published": "2026-11-17T18:08:04+00:00",
+      "fetched": "2026-11-18T00:04:23.159994+00:00"
+    },
+    {
+      "id": "327b5a5a69c2f7d7",
+      "title": "Andrew Scott Claims He’s a ‘Bit of a Minimalist’ When It Comes to Interior Design at Home—and Reveals the Decor That ‘Freaks’ Him Out",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/andrew-scott-amy-poehler-interior-design-home-minimalist/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "During an appearance on Amy Poehler's \"Good Hang\" podcast, the \"Elsinore\" star offered some rare details on his home life.",
+      "published": "2026-11-17T17:09:21+00:00",
+      "fetched": "2026-11-18T00:04:23.160021+00:00"
+    },
+    {
+      "id": "c5652f5bc6c9a8d8",
+      "title": "Homebuilder Confidence Hits New 14-Year Low as High Mortgage Rates and Inflation Take a Toll",
+      "link": "https://www.realtor.com/news/trends/homebuilder-sentiment-index-nahb-november-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "U.S. homebuilders are feeling increasingly pessimistic about the new-construction sector of the housing market amid affordability concerns.",
+      "published": "2026-11-17T16:44:59+00:00",
+      "fetched": "2026-11-18T00:04:23.160043+00:00"
+    },
+    {
+      "id": "55d58aaaa8c0ac90",
+      "title": "Savannah Chrisley Reveals Her Due Date—Weeks After Announcing She and Husband Jason Galanis are Having a Boy",
+      "link": "https://www.realtor.com/news/reality-tv/savannah-chrisley-reveals-her-due-date-weeks-after-announcing-she-and-husband-jason-galanis-are-having-a-boy/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 29-year-old, who shot to fame alongside her parents, Todd and Julie Chrisley, announced that she and Galanis were expecting in October.",
+      "published": "2026-11-17T16:32:06+00:00",
+      "fetched": "2026-11-18T00:04:23.160067+00:00"
+    },
+    {
+      "id": "b431af519ebf646d",
+      "title": "Late Film Critic Rex Reed Bought His Dakota Apartment for $30,000 in 1969—Now It’s Listed for Nearly $6 Million",
+      "link": "https://www.realtor.com/news/unique-homes/rex-reed-film-critic-new-york-city-dakota-residence-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The longtime home of legendary film critic Rex Reed has hit the market for $6 million, offering a rare chance to live in the Dakota.",
+      "published": "2026-11-17T15:58:14+00:00",
+      "fetched": "2026-11-18T00:04:23.160093+00:00"
+    },
+    {
+      "id": "506fbf074f667419",
+      "title": "Home Depot Taps Longtime Exec for CEO as Company Faces ‘Frozen Housing Market’",
+      "link": "https://www.realtor.com/news/trends/home-depot-richard-mcphail-new-ceo/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Richard McPhail, who had previously served as the company's EVP and COO, is stepping in to replace outgoing CEO Ted Decker.",
+      "published": "2026-11-17T15:57:06+00:00",
+      "fetched": "2026-11-18T00:04:23.160116+00:00"
+    },
     {
       "id": "a39a77feb8aa0c1f",
       "title": "EXCLUSIVE: Betsey Johnson Relists California Home With Over $100K Price Cut",
@@ -1322,186 +1502,6 @@
       "summary": "Las Vegas listings hit a record high in October as high mortgage rates cooled demand, even as the metro’s luxury market thrives.",
       "published": "2026-11-10T10:00:00+00:00",
       "fetched": "2026-11-10T13:50:29.026038+00:00"
-    },
-    {
-      "id": "5386b4268fbd821f",
-      "title": "A Tuskegee Airman’s Legacy of Generational Wealth—and His Granddaughter’s Mission to Expand It",
-      "link": "https://www.realtor.com/news/trends/tuskegee-airman-va-loan-black-generational-wealth/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A Tuskegee Airman's VA loan helped build a family legacy of homeownership. Now, his granddaughter is working to expand that opportunity.",
-      "published": "2026-11-10T09:47:00+00:00",
-      "fetched": "2026-11-10T13:50:29.026072+00:00"
-    },
-    {
-      "id": "d22de72b8aa190ad",
-      "title": "The 0% Down Mortgage Perk That Fast-Tracks Homeownership by 4 Years",
-      "link": "https://www.realtor.com/news/trends/va-loans-homeownership-down-payment-mission-zero/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A father and son used VA loans decades apart to overcome financial barriers. New research finds buyers could purchase four years sooner.",
-      "published": "2026-11-10T09:43:00+00:00",
-      "fetched": "2026-11-10T22:35:57.777742+00:00"
-    },
-    {
-      "id": "47e53ada91fdffff",
-      "title": "VA Loans Can Open the Door to Homeownership 4 Years Sooner",
-      "link": "https://www.realtor.com/news/trends/va-loans-homeownership-down-payment-mission-zero/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A father and son used VA loans decades apart to overcome financial barriers. New research finds buyers could purchase four years sooner.",
-      "published": "2026-11-10T09:43:00+00:00",
-      "fetched": "2026-11-10T13:50:29.026100+00:00"
-    },
-    {
-      "id": "f46520aee1b3e660",
-      "title": "Inside the 10,000-Square-Foot Billionaires Row Condo That Was Just Relisted for $75 Million",
-      "link": "https://www.realtor.com/news/unique-homes/billionaires-row-one57-condo-75-million/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The full-floor condo at One57 on Billionaires Row claimed the top spot on this week’s list of the most expensive homes for sale.",
-      "published": "2026-11-10T09:17:00+00:00",
-      "fetched": "2026-11-10T13:50:29.026131+00:00"
-    },
-    {
-      "id": "1ff4c26249b76426",
-      "title": "These Sun Belt States Are Falling Behind on Home Permitting, Study Finds",
-      "link": "https://www.realtor.com/news/trends/permitting-data-study-states-unlv-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "In the Sun Belt, which has been a bright spot in housing production the past few years, some states are falling behind, a new study finds.",
-      "published": "2026-11-09T22:39:58+00:00",
-      "fetched": "2026-11-10T00:54:18.970683+00:00"
-    },
-    {
-      "id": "d6934a4846fc4d1c",
-      "title": "‘Breaking Bad’ Star Dean Norris Lists $3.2 Million California Estate—After His Wife Files for Divorce",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/breaking-bad-dean-norris-california-home-for-sale-bridget-norris-divorce/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The “Breaking Bad” actor is bidding farewell to the property he and his estranged wife bought for $1.7 million in 2024.",
-      "published": "2026-11-09T22:19:10+00:00",
-      "fetched": "2026-11-10T00:54:18.970747+00:00"
-    },
-    {
-      "id": "bcd5762fb5b851d9",
-      "title": "Jamie Foxx’s Halloween Festival Draws Police to His California Home After Reported Stabbing",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jamie-foxx-halloween-party-california-home-stabbing-police/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "As first reported by TMZ, a man was stabbed in the neck and had a superficial wound, which paramedics treated at the scene.",
-      "published": "2026-11-09T21:40:22+00:00",
-      "fetched": "2026-11-10T00:54:18.970787+00:00"
-    },
-    {
-      "id": "a28caa3c118b3f5d",
-      "title": "Joanna Gaines Says an ‘Upset’ Buyer Lost Interest in Magnolia’s $7 Million Mansion Renovation Because She Preferred the ‘Before’ Photos",
-      "link": "https://www.realtor.com/news/reality-tv/joanna-gaines-waco-texas-mansion-renovation-before-photos-lost-buyer/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The lakefront property was renovated for the latest installment of \"Fixer Upper,\" but a buyer was \"upset\" that the couple changed the home.",
-      "published": "2026-11-09T21:22:27+00:00",
-      "fetched": "2026-11-10T00:54:18.970823+00:00"
-    },
-    {
-      "id": "fe4553555e400ffe",
-      "title": "Casino Mogul Steve Wynn Sells His $70 Million Central Park Condo as Manhattan Luxury Market Heats Up",
-      "link": "https://www.realtor.com/news/trends/steve-wynn-sells-central-park-condo-ritz-carlton/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Casino billionaire Steve Wynn has finally unloaded his Central Park duplex penthouse, making it the top luxury sale in Manhattan this week.",
-      "published": "2026-11-09T20:53:02+00:00",
-      "fetched": "2026-11-10T00:54:18.970853+00:00"
-    },
-    {
-      "id": "3b7a1ab21ef8d063",
-      "title": "David Muir Shares Rare Look at Personal Life Ahead of His Birthday—Inside His $7 Million Lakeside Estate in Upstate New York",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/david-muir-lakeside-estate-upstate-new-york/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The ABC anchor rarely pulls back the curtain on his personal life, unless it's about time spent outdoors at his lakeside retreat.",
-      "published": "2026-11-09T20:03:34+00:00",
-      "fetched": "2026-11-10T00:54:18.970887+00:00"
-    },
-    {
-      "id": "7427bfbfd4ad5b7a",
-      "title": "Olivia Culpo Brings 5-Week-Old Son to His First 49ers Game—Inside the Guest Room She Turned Into His Nursery",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/olivia-culpo-christian-mccaffrey-newborn-son-san-francisco-49ers-game-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Culpo took to Instagram to share a glimpse at the family game day, which saw her, Roman, and Colette, 1, stepping out to cheer on McCaffrey.",
-      "published": "2026-11-09T19:33:50+00:00",
-      "fetched": "2026-11-10T00:54:18.970918+00:00"
-    },
-    {
-      "id": "063105ecdf063de5",
-      "title": "EXCLUSIVE: Former NFL Star Chris Simms Sells 300-Year-Old Greenwich Home For $5.5 Million",
-      "link": "https://www.realtor.com/news/sports/former-nfl-star-chris-simms-sells-greenwich-connecticut-home-buyer/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 45-year-old—who retired from the NFL in 2010—and his wife, Daniella, first put their longtime Greenwich abode on the market in February.",
-      "published": "2026-11-09T19:24:00+00:00",
-      "fetched": "2026-11-10T00:54:18.970949+00:00"
-    },
-    {
-      "id": "d2bddbdb6d877d71",
-      "title": "Minnesota Remodeler Is Banned for Life After Demolishing Rooms and Skipping Out",
-      "link": "https://www.realtor.com/news/trends/minnesota-contractor-david-pietron-banned-renovation-scam/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Ryan David Pietron and his company, Affordable Home Remodeling, LLC., have been banned from Minnesota's residential construction industry.",
-      "published": "2026-11-09T18:31:48+00:00",
-      "fetched": "2026-11-10T00:54:18.970976+00:00"
-    },
-    {
-      "id": "c1df751ba2398c2d",
-      "title": "Meet the Marine Veteran Flipping Historic Homes in North Carolina—and Making Sure They Qualify for VA Loans",
-      "link": "https://www.realtor.com/news/unique-homes/marine-veteran-flips-historic-houses-va-loans/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Adam Miller has been renovating historic North Carolina homes for 15 years, and makes sure to bring them up to code to qualify for VA loans.",
-      "published": "2026-11-09T18:11:10+00:00",
-      "fetched": "2026-11-10T00:54:18.971007+00:00"
-    },
-    {
-      "id": "3a2d3a886cea8501",
-      "title": "Inside Nvidia CEO Jensen Huang’s $53 Million Property Portfolio—as Board Probes Co-Founder on Affair With Suspected Chinese Spy",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/nvidia-ceo-jensen-huang-property-portfolio-stock/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Nvidia's stock price has taken a hit in the wake of Huang's admission to an affair with a suspected Chinese spy.",
-      "published": "2026-11-09T17:40:00+00:00",
-      "fetched": "2026-11-10T00:54:18.971038+00:00"
-    },
-    {
-      "id": "fb31a1b54fc7540d",
-      "title": "California’s Plan To Cut Housing Red Tape Fails After Stiff Opposition From Unions and Environmentalists",
-      "link": "https://www.realtor.com/news/real-estate-news/california-prop-45-results-opposition-groups/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Prop. 45 would have streamlined California's environmental review process. Environmental and labor groups opposed the changes.",
-      "published": "2026-11-09T16:36:53+00:00",
-      "fetched": "2026-11-10T00:54:18.971069+00:00"
-    },
-    {
-      "id": "670d15c3374cca9b",
-      "title": "EXCLUSIVE: ‘New Girl’ Star Jake Johnson Sells California Home for $3.8 Million—Just 2 Weeks After It Hit the Market",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jake-johnson-sells-california-home-two-weeks-after-listing/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actor listed the property two weeks ago for $3.3 million. It has now sold for $530,000 over its asking price.",
-      "published": "2026-11-09T16:29:26+00:00",
-      "fetched": "2026-11-10T00:54:18.971101+00:00"
-    },
-    {
-      "id": "ecc25fbfbc17e1bf",
-      "title": "Donna Kelce Sells Florida Condo for $485K—Less Than a Year After Major Makeover",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/donna-kelce-sells-florida-condo-after-major-renovation/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Donna purchased the property in 2019 for $355,000 and carried out a major renovation on the pad just one year before she sold it.",
-      "published": "2026-11-09T14:50:51+00:00",
-      "fetched": "2026-11-10T00:54:18.971139+00:00"
     }
   ]
 }
