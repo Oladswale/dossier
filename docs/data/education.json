@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-18T14:39:42.957645+00:00",
+  "updated": "2026-11-18T23:38:24.651849+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3050313f52e8ebcc",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "link": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
+      "published": "2026-11-18T19:00:00+00:00",
+      "fetched": "2026-11-18T23:38:24.074845+00:00"
+    },
+    {
+      "id": "68278f02e0e9c6eb",
+      "title": "Joe Higgins to step down as VP for campus services and stewardship",
+      "link": "https://news.mit.edu/2026/joe-higgins-to-step-down-vp-campus-services-stewardship-1118",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "During his time at the Institute, Higgins has guided MIT’s physical campus through a transformative period, delivering 2030 Capital Plan projects, improving critical facilities, and advancing decarbonization.",
+      "published": "2026-11-18T16:20:00+00:00",
+      "fetched": "2026-11-18T23:38:24.074890+00:00"
+    },
     {
       "id": "5c1b4079bdd6a738",
       "title": "The Directing Genius of Akira Kurosawa Explained",
@@ -22,6 +42,16 @@
       "summary": "Earlier this month, Salon announced that it’s ceasing publication after 31 years. In its farewell address, the magazine writes: “The business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable.” We can sympathize.",
       "published": "2026-11-18T09:00:39+00:00",
       "fetched": "2026-11-18T14:39:42.957460+00:00"
+    },
+    {
+      "id": "02b0689a39e0cbd1",
+      "title": "Designing the next chapter for professional athletes",
+      "link": "https://news.mit.edu/2026/founders-academy-designing-next-chapter-professional-athletes-1118",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT Sloan student Collin Johnson, a former NFL player, worked with MIT DesignX faculty to create Founders Academy, a program to help athletes plan their futures off the field.",
+      "published": "2026-11-18T08:30:00+00:00",
+      "fetched": "2026-11-18T23:38:24.074921+00:00"
     },
     {
       "id": "6fa4a47210c62cd4",
@@ -1472,36 +1502,6 @@
       "summary": "Faculty, students, staff, family, and friends gathered to remember the assistant professor and archaeometallurgist who died last month.",
       "published": "2026-10-14T18:30:00+00:00",
       "fetched": "2026-10-14T21:01:32.729785+00:00"
-    },
-    {
-      "id": "5f5fe93cecc76b7f",
-      "title": "Researchers improve weather forecasts looking two to six weeks out",
-      "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
-      "published": "2026-10-14T15:00:00+00:00",
-      "fetched": "2026-10-14T16:01:52.157050+00:00"
-    },
-    {
-      "id": "f13b486c34345771",
-      "title": "Why Cleopatra, Lawrence of Arabia, Ben-Hur & Other Hollywood Classics Still Look So Good",
-      "link": "https://www.openculture.com/2026/10/why-cleopatra-lawrence-of-arabia-ben-hur-other-hollywood-classics-still-look-so-good.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Cleopatra cost Twentieth Century Fox $44 million, by the studio’s own estimate. That may sound like the budget of one of those genre pictures that winds up going straight to streaming, but if we convert those 1963 dollars into current ones, it comes out to $480 million. The most expensive film ever made up to [ ]",
-      "published": "2026-10-14T09:00:07+00:00",
-      "fetched": "2026-10-14T10:41:58.510369+00:00"
-    },
-    {
-      "id": "356d1f3a67916be9",
-      "title": "Soviet-Era Illustrations of J. R. R. Tolkien’s The Hobbit (1976)",
-      "link": "https://www.openculture.com/2026/10/soviet-era-illustrations-of-j-r-r-tolkiens-the-hobbit-1976.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Until I read J. R. R.",
-      "published": "2026-10-14T08:00:40+00:00",
-      "fetched": "2026-10-14T10:41:58.510425+00:00"
     }
   ]
 }

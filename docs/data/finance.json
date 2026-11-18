@@ -1,8 +1,278 @@
 {
   "category": "finance",
-  "updated": "2026-11-18T14:39:39.230464+00:00",
+  "updated": "2026-11-18T23:38:14.047985+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2858ed4e990e0bc4",
+      "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+      "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The negative chart pattern confirms weakness in the Russell 2000 and in overall market breadth.",
+      "published": "2026-11-18T23:12:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294167+00:00"
+    },
+    {
+      "id": "0e8bd035dfab1bf6",
+      "title": "How copper’s plunge could hurt the AI buildout",
+      "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+      "published": "2026-11-18T23:02:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294211+00:00"
+    },
+    {
+      "id": "f67b9b24ae1bf03c",
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
+      "published": "2026-11-18T22:53:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294240+00:00"
+    },
+    {
+      "id": "582afa31e0f91f50",
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+      "published": "2026-11-18T22:53:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294272+00:00"
+    },
+    {
+      "id": "33ea3138aca34be4",
+      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+      "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+      "published": "2026-11-18T22:31:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294299+00:00"
+    },
+    {
+      "id": "dd72e8ce141c9350",
+      "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "published": "2026-11-18T22:00:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294327+00:00"
+    },
+    {
+      "id": "d5b8ccd40af1b6c7",
+      "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+      "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
+      "published": "2026-11-18T21:58:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294355+00:00"
+    },
+    {
+      "id": "dbd1f813ecf0fe3f",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+      "published": "2026-11-18T21:30:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294382+00:00"
+    },
+    {
+      "id": "7f2ab8663e3a6d08",
+      "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+      "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+      "published": "2026-11-18T21:19:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294408+00:00"
+    },
+    {
+      "id": "6d7bf7b98e681b6b",
+      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+      "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+      "published": "2026-11-18T21:01:00+00:00",
+      "fetched": "2026-11-18T23:38:12.294435+00:00"
+    },
+    {
+      "id": "36f69597cd44b57b",
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+      "published": "2026-11-18T19:47:05+00:00",
+      "fetched": "2026-11-18T23:38:12.575063+00:00"
+    },
+    {
+      "id": "8050c658c0d813f3",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "published": "2026-11-18T19:41:59+00:00",
+      "fetched": "2026-11-18T23:38:12.575024+00:00"
+    },
+    {
+      "id": "f917bfe562054b97",
+      "title": "With inflation at a six-year low, will CBN cut rates again?",
+      "link": "https://nairametrics.com/2026/11/18/with-inflation-at-a-six-year-low-will-cbn-cut-rates-again/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s inflation rate has fallen to its lowest level in more than six years, strengthening the case for another interest-rate cut when the Central Bank of Nigeria’s Monetary Policy Committee meets next week. The post With inflation at a six-year low, will CBN cut rates again? appeared first on Nairametrics .",
+      "published": "2026-11-18T18:13:01+00:00",
+      "fetched": "2026-11-18T23:38:12.938348+00:00"
+    },
+    {
+      "id": "b4b20545ef4bf730",
+      "title": "NGX loses N642 billion as Aradel leads fresh market sell-off",
+      "link": "https://nairametrics.com/2026/11/18/ngx-loses-n642-billion-as-aradel-leads-fresh-market-sell-off/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Exchange (NGX) equities market sustained its downward momentum on Wednesday, November 18, 2026, as persistent profit-taking and targeted sell-offs in market heavyweights erased N642.15 billion from total equity market capitalization. The post NGX loses N642 billion as Aradel leads fresh market sell-off appeared first on Nairametrics .",
+      "published": "2026-11-18T18:03:11+00:00",
+      "fetched": "2026-11-18T23:38:12.938398+00:00"
+    },
+    {
+      "id": "ebb29311338db69b",
+      "title": "Kenya plans VAT, excise duty waivers on Dangote’s proposed $16 billion refinery",
+      "link": "https://nairametrics.com/2026/11/18/kenya-plans-vat-excise-duty-waivers-on-dangotes-proposed-16-billion-refinery/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Kenya plans to grant tax exemptions on value-added tax (VAT), excise duty and railway development levies for equipment imported by Aliko Dangote for his proposed $16 billion oil refinery in the country. The post Kenya plans VAT, excise duty waivers on Dangote’s proposed $16 billion refinery appeared first on Nairametrics .",
+      "published": "2026-11-18T18:01:20+00:00",
+      "fetched": "2026-11-18T23:38:12.938450+00:00"
+    },
+    {
+      "id": "9dc5c750c912d016",
+      "title": "NLC, TUC end public dispute over N70,000 transport allowance",
+      "link": "https://nairametrics.com/2026/11/18/nlc-tuc-end-public-dispute-over-n70000-transport-allowance/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigeria Labour Congress (NLC) and the Trade Union Congress of Nigeria (TUC) have resolved their public disagreement over the Federal Government's N70,000 one-off transport allowance for workers, following days of public exchanges between the leadership of both labour centres. The post NLC, TUC end public dispute over N70,000 transport allowance appeared first on Nairametrics .",
+      "published": "2026-11-18T17:36:05+00:00",
+      "fetched": "2026-11-18T23:38:12.938492+00:00"
+    },
+    {
+      "id": "b07a1402624eb34d",
+      "title": "GOKA BET moves to expand African footprint with Obafemi Martins ambassadorial deal",
+      "link": "https://nairametrics.com/2026/11/18/goka-bet-moves-to-expand-african-footprint-with-obafemi-martins-ambassadorial-deal/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Sports betting and gaming company GOKA BET has unveiled former Super Eagles striker Obafemi Martins as its official brand ambassador in a strategic partnership aimed at strengthening its presence in Nigeria and expanding its reach across other African markets.The partnership, announced at a press conference held in Lagos, is expected to enhance the company s engagement [ ] The post GOKA BET moves to expand African footprint with Obafemi Martins ambassadorial deal appeared first on Nairametrics .",
+      "published": "2026-11-18T17:23:51+00:00",
+      "fetched": "2026-11-18T23:38:12.938543+00:00"
+    },
+    {
+      "id": "75b3e9c54b42d264",
+      "title": "Where the money went: what Africa’s $923 million startup collapse wave reveals",
+      "link": "https://nairametrics.com/2026/11/18/where-the-money-went-what-africas-923-million-startup-collapse-wave-reveals/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Midlo Research Institute has released Where the Money Went, a study of 20 major startup collapses in Kenya, Nigeria and Ghana that raised about $923 million, finding that failure was a sequence rather than a single event, with warning signs that were visible long before the end.The report, produced in partnership with Nairametrics, is [ ] The post Where the money went: what Africa’s $923 million startup collapse wave reveals appeared first on Nairametrics .",
+      "published": "2026-11-18T16:57:30+00:00",
+      "fetched": "2026-11-18T23:38:12.938602+00:00"
+    },
+    {
+      "id": "7ea0df56ec4ce892",
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+      "published": "2026-11-18T16:33:14+00:00",
+      "fetched": "2026-11-18T23:38:12.575087+00:00"
+    },
+    {
+      "id": "62380d16c1c8495d",
+      "title": "Why Tobi Oyewole took a pay cut to build a career in software engineering",
+      "link": "https://techcabal.com/2026/11/18/tobi-oyewole-career-software-engineering/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "In 2020, Tobi Oyewole had a company car, an official apartment, and two sponsored trips to China behind him. Then he left for a new job that paid less. “I wasn’t really satisfied with the kind of work I was doing,” he says.",
+      "published": "2026-11-18T16:29:57+00:00",
+      "fetched": "2026-11-18T23:38:14.047712+00:00"
+    },
+    {
+      "id": "9ba2eac264715bfa",
+      "title": "More than an appliance: making every home investment count with Thermocool",
+      "link": "https://nairametrics.com/2026/11/18/more-than-an-appliance-making-every-home-investment-count-with-thermocool/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Running a home in Nigeria requires more than good planning. Between rising household expenses, electricity costs, food shopping, laundry and the everyday needs of the family, every purchase matters. So, when it is time to buy a home appliance, it is natural to ask an important question: Am I getting real value for my money?",
+      "published": "2026-11-18T16:24:53+00:00",
+      "fetched": "2026-11-18T23:38:12.938652+00:00"
+    },
+    {
+      "id": "3270c5edfc4c1aff",
+      "title": "Tinubu receives State Police bill for assent after 36 states approve amendment",
+      "link": "https://nairametrics.com/2026/11/18/tinubu-receives-state-police-bill-for-assent-after-36-states-approve-amendment/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu has received the Constitution (Sixth Alteration) Bill seeking to establish State Police in Nigeria, following its approval by all 36 State Houses of Assembly. The post Tinubu receives State Police bill for assent after 36 states approve amendment appeared first on Nairametrics .",
+      "published": "2026-11-18T16:21:13+00:00",
+      "fetched": "2026-11-18T23:38:12.938689+00:00"
+    },
+    {
+      "id": "eae570590df41f58",
+      "title": "Nigeria, Ghana proposed as hosts for ECOWAS regional payment system",
+      "link": "https://nairametrics.com/2026/11/18/nigeria-ghana-proposed-as-hosts-for-ecowas-regional-payment-system/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria, Ghana and the West African Monetary Union’s central bank have been proposed as hosts for an interconnected regional payment system aimed at making cross-border transactions easier and reducing reliance on foreign currencies among ECOWAS member states. The post Nigeria, Ghana proposed as hosts for ECOWAS regional payment system appeared first on Nairametrics .",
+      "published": "2026-11-18T16:11:49+00:00",
+      "fetched": "2026-11-18T23:38:12.938736+00:00"
+    },
+    {
+      "id": "55a884e789b8e00d",
+      "title": "TechCabal deepens South African coverage with new weekly newsletter",
+      "link": "https://techcabal.com/2026/11/18/techcabal-launches-tc-mzansi/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "TechCabal is launching TC Mzansi, a weekly newsletter covering South Africa's technology ecosystem, from startups and investment to innovation, telecommunications and policy.",
+      "published": "2026-11-18T15:44:29+00:00",
+      "fetched": "2026-11-18T23:38:14.047750+00:00"
+    },
+    {
+      "id": "6863d5e2b6cd04b8",
+      "title": "Elumelu to Europe: Africa will no longer be just a raw-material supplier",
+      "link": "https://nairametrics.com/2026/11/18/elumelu-to-europe-africa-will-no-longer-be-just-a-raw-material-supplier/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigerian billionaire and Chairman of Heirs Holdings, Tony Elumelu, has said Africa will no longer accept an economic relationship with Europe that limits the continent to supplying raw materials while industrial processing and value creation take place elsewhere. The post Elumelu to Europe: Africa will no longer be just a raw-material supplier appeared first on Nairametrics .",
+      "published": "2026-11-18T15:31:05+00:00",
+      "fetched": "2026-11-18T23:38:12.938780+00:00"
+    },
+    {
+      "id": "87cb6f0506963a41",
+      "title": "Ethiopian Airlines reports cyberattack a week after Air Botswana",
+      "link": "https://techcabal.com/2026/11/18/ethiopian-airlines-reports-cyberattack/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Ethiopian Airlines has warned customers that some of their information may have been exposed in a recent cyberattack, weeks after Air Botswana disclosed a suspected ransomware incident on its internal systems.",
+      "published": "2026-11-18T15:07:35+00:00",
+      "fetched": "2026-11-18T23:38:14.047782+00:00"
+    },
+    {
+      "id": "97e2ab6237456751",
+      "title": "Fitch projects Nigeria’s policy rate to average 21.7% in 2027, 18.6% in 2028",
+      "link": "https://nairametrics.com/2026/11/18/fitch-projects-nigerias-policy-rate-to-average-21-7-in-2027-18-6-in-2028/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Fitch Ratings has projected that Nigeria’s policy interest rate will average 21.7% in 2027, before declining further to 18.6% in 2028, as inflation gradually moderates and the Central Bank of Nigeria (CBN) begins to ease monetary conditions. The post Fitch projects Nigeria’s policy rate to average 21.7% in 2027, 18.6% in 2028 appeared first on Nairametrics .",
+      "published": "2026-11-18T15:01:38+00:00",
+      "fetched": "2026-11-18T23:38:12.938833+00:00"
+    },
     {
       "id": "5606c1ca17f54da0",
       "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
@@ -1232,276 +1502,6 @@
       "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
       "published": "2026-11-16T13:01:00+00:00",
       "fetched": "2026-11-16T14:04:47.528880+00:00"
-    },
-    {
-      "id": "2130c8db14d9b6c6",
-      "title": "SunTrust Bank boosts staff welfare, raises salaries up to 75%, promotes 25% of workforce",
-      "link": "https://nairametrics.com/2026/11/16/suntrust-bank-boosts-staff-welfare-raises-salaries-up-to-75-promotes-25-of-workforce/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s first full-fledged technology bank, SunTrust Bank Nigeria Limited (STBNL) has promoted 25 per cent of its workforce and implemented salary increases of between 25 per cent and 75 per cent for all employees as part of efforts to strengthen staff welfare and reward performance. The post SunTrust Bank boosts staff welfare, raises salaries up to 75%, promotes 25% of workforce appeared first on Nairametrics .",
-      "published": "2026-11-16T12:57:32+00:00",
-      "fetched": "2026-11-16T14:04:48.263985+00:00"
-    },
-    {
-      "id": "eee80435421aa62d",
-      "title": "How to use options to bet against Big Tech, while keeping risk in check",
-      "link": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "One way to bet on the continued move away from Big Tech is by buying options that give you the right to both buy and sell certain market ETFs.",
-      "published": "2026-11-16T12:53:00+00:00",
-      "fetched": "2026-11-16T14:04:47.528912+00:00"
-    },
-    {
-      "id": "2394bc7de1371584",
-      "title": "Nigeria’s headline inflation slows to 14.06% in October from 14.63%",
-      "link": "https://nairametrics.com/2026/11/16/nigerias-headline-inflation-slows-to-14-06-in-october-from-14-63/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s headline inflation rate eased to 14.06% in October 2026, down from 14.63% recorded in September, according to the latest Consumer Price Index (CPI) report by the National Bureau of Statistics (NBS). The post Nigeria’s headline inflation slows to 14.06% in October from 14.63% appeared first on Nairametrics .",
-      "published": "2026-11-16T12:41:44+00:00",
-      "fetched": "2026-11-16T14:04:48.264032+00:00"
-    },
-    {
-      "id": "e7f92817a72a9c55",
-      "title": "Lodapoint launches truck-hailing platform, engages over 10,000 trucks",
-      "link": "https://nairametrics.com/2026/11/16/lodapoint-launches-truck-hailing-platform-engages-over-10000-trucks/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian mobility and logistics technology company Lodapoint has launched its truck-hailing platform, connecting businesses and individuals that need to move goods with vehicle owners and transport operators. The post Lodapoint launches truck-hailing platform, engages over 10,000 trucks appeared first on Nairametrics .",
-      "published": "2026-11-16T12:33:08+00:00",
-      "fetched": "2026-11-16T14:04:48.264069+00:00"
-    },
-    {
-      "id": "30d2e7147dbd47e5",
-      "title": "Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before",
-      "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Who pays when AI goes rogue? Insurance giants are reluctant to touch catastrophic legal liability.",
-      "published": "2026-11-16T12:33:00+00:00",
-      "fetched": "2026-11-16T14:04:47.528943+00:00"
-    },
-    {
-      "id": "a00a638bd4fc290e",
-      "title": "Payaza secures Central Bank of Kenya payment gateway licence",
-      "link": "https://nairametrics.com/2026/11/16/payaza-secures-central-bank-of-kenya-payment-gateway-licence/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Payaza has secured authorisation from the Central Bank of Kenya (CBK) to operate as a licensed Payment Service Provider (PSP), strengthening the Nigerian fintech company's expansion across East and Southern Africa. The post Payaza secures Central Bank of Kenya payment gateway licence appeared first on Nairametrics .",
-      "published": "2026-11-16T12:26:38+00:00",
-      "fetched": "2026-11-16T14:04:48.264105+00:00"
-    },
-    {
-      "id": "b361ca6f258412ad",
-      "title": "Three questions for anyone considering the Nvidia CEO job",
-      "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Colette Kress’s first earnings call as interim CEO offers a glimpse of Nvidia after Jensen Huang. Plus, Anthropic’s coming IPO and why some gamers may call in sick this week.",
-      "published": "2026-11-16T12:17:00+00:00",
-      "fetched": "2026-11-16T14:04:47.528979+00:00"
-    },
-    {
-      "id": "e3c48d75855d6ec1",
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-      "published": "2026-11-16T12:13:23+00:00",
-      "fetched": "2026-11-18T14:39:36.990389+00:00"
-    },
-    {
-      "id": "2966d6fc0d5bdcf7",
-      "title": "NGX Group acquires 10% strategic stake in Nairobi Securities Exchange",
-      "link": "https://nairametrics.com/2026/11/16/ngx-group-acquires-10-strategic-stake-in-nairobi-securities-exchange-2/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian Exchange Group Plc (NGX Group) has acquired a 10% equity stake in the Nairobi Securities Exchange (NSE), expanding its investment presence in East Africa as part of its pan-African growth strategy. The post NGX Group acquires 10% strategic stake in Nairobi Securities Exchange appeared first on Nairametrics .",
-      "published": "2026-11-16T11:54:08+00:00",
-      "fetched": "2026-11-16T14:04:48.264140+00:00"
-    },
-    {
-      "id": "f99912d0498b68f3",
-      "title": "With 6% of its target trained, Nigeria earmarks $3 million to fix 3MTT’s job problem",
-      "link": "https://techcabal.com/2026/11/16/nigeria-3mtt-4-billion-jobs-problem/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "When the Nigerian government launched the 3 Million Technical Talent (3MTT) programme in 2023, it sought to build a workforce that could support the country’s digital economy, fill technical skills gaps and position Nigeria as a global supplier of technology talent. The ambition was to train three million Nigerians within four years, ending in 2027, while connecting them to opportunities locally and internationally.",
-      "published": "2026-11-16T11:51:01+00:00",
-      "fetched": "2026-11-17T01:09:49.861604+00:00"
-    },
-    {
-      "id": "5736331a5f683c81",
-      "title": "With 6% of its target trained, Nigeria earmarks ₦4 billion to fix 3MTT’s job problem",
-      "link": "https://techcabal.com/2026/11/16/nigeria-3mtt-4-billion-jobs-problem/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "When the Nigerian government launched the 3 Million Technical Talent (3MTT) programme in 2023, it sought to build a workforce that could support the country’s digital economy, fill technical skills gaps and position Nigeria as a global supplier of technology talent. The ambition was to train three million Nigerians within four years, ending in 2027, while connecting them to opportunities locally and internationally.",
-      "published": "2026-11-16T11:51:01+00:00",
-      "fetched": "2026-11-16T14:04:49.679683+00:00"
-    },
-    {
-      "id": "8b0630cf8ba76384",
-      "title": "FG captures 34 million learners, 700,000 teachers on national education database",
-      "link": "https://nairametrics.com/2026/11/16/fg-captures-34-million-learners-700000-teachers-on-national-education-database/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has captured more than 34 million learners and 700,000 teachers on the Nigerian Education Data Infrastructure (NEDI), as part of efforts to digitalise Nigeria’s education system and improve education planning. The post FG captures 34 million learners, 700,000 teachers on national education database appeared first on Nairametrics .",
-      "published": "2026-11-16T11:27:16+00:00",
-      "fetched": "2026-11-16T14:04:48.264186+00:00"
-    },
-    {
-      "id": "be3a921c117bd45c",
-      "title": "Lagos projects 22.8TWh electricity consumption and 4,000MW peak demand by 2030",
-      "link": "https://nairametrics.com/2026/11/16/lagos-projects-22-8twh-electricity-consumption-and-4000mw-peak-demand-by-2030/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Lagos State projects annual electricity consumption of 22.8 terawatt-hours (TWh) and peak demand of 4,000 megawatts (MW) by 2030, as population and economic growth increase the state’s energy requirements. The post Lagos projects 22.8TWh electricity consumption and 4,000MW peak demand by 2030 appeared first on Nairametrics .",
-      "published": "2026-11-16T11:13:49+00:00",
-      "fetched": "2026-11-16T14:04:48.264230+00:00"
-    },
-    {
-      "id": "ebad6e2afa591ce5",
-      "title": "Four years after walking away, MTN is back for Telkom",
-      "link": "https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "MTN has reopened talks to acquire Telkom, four years after their previous takeover attempt collapsed. The renewed discussions come as Telkom’s valuation has nearly doubled, raising the stakes for a deal that could reshape South Africa’s telecommunications market.",
-      "published": "2026-11-16T11:07:50+00:00",
-      "fetched": "2026-11-16T14:04:49.679727+00:00"
-    },
-    {
-      "id": "29e10fa23d3b8cfe",
-      "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
-      "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Despite many analysts slashing their forecasts, the median target price for Nvidia remains way above the current share price at $280. Its cash flow and debt profile are the envy of all AI companies and long term, and the stock is attractive, says J.P. Morgan Asset Management.",
-      "published": "2026-11-16T11:07:00+00:00",
-      "fetched": "2026-11-16T14:04:47.529041+00:00"
-    },
-    {
-      "id": "1ff25888af7775ff",
-      "title": "Coca-Cola HBC sets Nov 23 date for listing on Johannesburg Stock Exchange",
-      "link": "https://nairametrics.com/2026/11/16/coca-cola-hbc-sets-nov-23-date-for-listing-on-johannesburg-stock-exchange/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Coca-Cola HBC has set November 27, 2026, as the completion date for its $2.6 billion acquisition of Coca-Cola Beverages Africa (CCBA), strengthening its position as one of the largest Coca-Cola bottlers on the continent. The post Coca-Cola HBC sets Nov 23 date for listing on Johannesburg Stock Exchange appeared first on Nairametrics .",
-      "published": "2026-11-16T10:52:02+00:00",
-      "fetched": "2026-11-16T14:04:48.264275+00:00"
-    },
-    {
-      "id": "7c80b50f8e26dabf",
-      "title": "The cost of making stablecoins work in Nigeria",
-      "link": "https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigeria’s new stablecoin regulations are reshaping the economics of issuing digital currencies. With mandatory central bank deposits, tighter investment limits, and stricter reserve requirements, issuers face higher costs and reduced earning potential. Commercial banks, meanwhile, could emerge as the biggest beneficiaries of the new framework.",
-      "published": "2026-11-16T10:37:16+00:00",
-      "fetched": "2026-11-16T14:04:49.679771+00:00"
-    },
-    {
-      "id": "11c27b6026c1ec69",
-      "title": "Here’s how much the stock market could crumble if AI is in a bubble that bursts, according to former White House economist",
-      "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Jason Furman says that if artificial intelligence is a bubble that pops, the most likely scenario is a 25% drop in the broader market.",
-      "published": "2026-11-16T10:32:00+00:00",
-      "fetched": "2026-11-16T14:04:47.529074+00:00"
-    },
-    {
-      "id": "62d3f48531d7d39b",
-      "title": "Why Morgan Stanley says it’s time to go ‘max’ overweight on stocks",
-      "link": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Increase your allocation to stocks to the highest possible amount, say Morgan Stanley strategists in one of the most bullish year-ahead outlooks so far.",
-      "published": "2026-11-16T10:20:00+00:00",
-      "fetched": "2026-11-16T14:04:47.529104+00:00"
-    },
-    {
-      "id": "14bf6691f1e92320",
-      "title": "NGX Group expands into East Africa with 10% stake in Nairobi bourse",
-      "link": "https://techcabal.com/2026/11/16/ngx-group-nairobi-exchange-stake/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The Nigerian Exchange Group Plc (NGX Group) has acquired a 10% equity stake in the Nairobi Securities Exchange (NSE) as it pursues a broader pan-African growth strategy.",
-      "published": "2026-11-16T10:14:33+00:00",
-      "fetched": "2026-11-16T14:04:49.679799+00:00"
-    },
-    {
-      "id": "c62f2f4ed6790665",
-      "title": "NGX Group acquires 10% strategic stake in Nairobi Securities Exchange",
-      "link": "https://nairametrics.com/2026/11/16/ngx-group-acquires-10-strategic-stake-in-nairobi-securities-exchange/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian Exchange Group Plc (NGX Group) has acquired a 10% equity stake in the Nairobi Securities Exchange (NSE), a strategic investment that extends the Group’s participation in East Africa and advances its pan-African growth strategy. The post NGX Group acquires 10% strategic stake in Nairobi Securities Exchange appeared first on Nairametrics .",
-      "published": "2026-11-16T10:11:04+00:00",
-      "fetched": "2026-11-16T14:04:48.264321+00:00"
-    },
-    {
-      "id": "e976c121e643adeb",
-      "title": "Aig-Imoukhuede to Advertisers: reinvent or risk being left behind in the AI era",
-      "link": "https://nairametrics.com/2026/11/16/aig-imoukhuede-to-advertisers-reinvent-or-risk-being-left-behind-in-the-ai-era/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Artificial intelligence is rapidly rewriting the economics of advertising, challenging established business models and forcing agencies to rethink where and how they create value, Aigboje Aig-Imoukhuede, CFR, Chairman of Access Holdings Plc, has warned. The post Aig-Imoukhuede to Advertisers: reinvent or risk being left behind in the AI era appeared first on Nairametrics .",
-      "published": "2026-11-16T09:42:04+00:00",
-      "fetched": "2026-11-16T14:04:48.264361+00:00"
-    },
-    {
-      "id": "2f9552e095d4b43d",
-      "title": "WALK4HOPE 2026: CBA Foundation celebrates 10 years of impact, walking to restore hope for widows and their children",
-      "link": "https://nairametrics.com/2026/11/16/walk4hope-2026-cba-foundation-celebrates-10-years-of-impact-walking-to-restore-hope-for-widows-and-their-children/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "On Saturday, 7 November 2026, the Chinwe Bode-Akinwande (CBA) Foundation successfully hosted its annual Walk4Hope Charity Walk, bringing together individuals, corporate organisations, partners, customers and supporters in a collective show of solidarity for underprivileged widows and their children. The post WALK4HOPE 2026: CBA Foundation celebrates 10 years of impact, walking to restore hope for widows and their children appeared first on Nairametrics .",
-      "published": "2026-11-16T09:30:37+00:00",
-      "fetched": "2026-11-16T14:04:48.264405+00:00"
-    },
-    {
-      "id": "546c39d81fb15568",
-      "title": "WealthBridge Group appoints Prof. Adewale Olawoyin (SAN), Mrs Tairat Tijani, Dr. Ganiyat Taiwo Olusesi and Adetoye Toriola, to Subsidiary Boards as it charts its next frontier of growth",
-      "link": "https://nairametrics.com/2026/11/16/wealthbridge-group-appoints-prof-adewale-olawoyin-san-mrs-tairat-tijani-dr-ganiyat-taiwo-olusesi-and-adetoye-toriola-to-subsidiary-boards-as-it-charts-its-next-frontier-of-growth/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In a strategic move to strengthen corporate governance, deepen institutional expertise and advance the Group’s growth ambitions, WealthBridge Financial Services Holdings Limited today announced the appointment of four directors to the Boards of two of its subsidiaries: WealthBridge Capital Partners Limited and WealthBridge Asset Management Limited. WealthBridge Capital Partners Limited, the Group’s investment banking and [ ] The post WealthBridge Group appoints Prof. Adewale Olawoyin (SAN), Mrs Tairat Tijani, Dr.",
-      "published": "2026-11-16T09:14:42+00:00",
-      "fetched": "2026-11-16T14:04:48.264482+00:00"
-    },
-    {
-      "id": "f9c568f2db4fa7a0",
-      "title": "Iretomiwa Akintunde-Johnson named Managing Director of African Communications Consultancy BHM",
-      "link": "https://nairametrics.com/2026/11/16/iretomiwa-akintunde-johnson-named-managing-director-of-african-communications-consultancy-bhm/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "BHM Holdings has appointed Iretomiwa Akintunde-Johnson as Managing Director of BHM, effective 1 January 2027. The post Iretomiwa Akintunde-Johnson named Managing Director of African Communications Consultancy BHM appeared first on Nairametrics .",
-      "published": "2026-11-16T08:58:41+00:00",
-      "fetched": "2026-11-16T14:04:48.264517+00:00"
-    },
-    {
-      "id": "6a061eae27d68194",
-      "title": "Naira faces fresh pressure as pound eyes N1,850, despite weakness against dollar",
-      "link": "https://nairametrics.com/2026/11/16/naira-faces-fresh-pressure-as-pound-eyes-n1850-despite-weakness-against-dollar/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The British Pound to Nigerian Naira (GBP/NGN) exchange rate remains trapped in a tight range of N1,740/£ to N1,840/£, as competing macroeconomic forces in London and Lagos influence the dynamics of both the British pound and the Nigerian naira. The post Naira faces fresh pressure as pound eyes N1,850, despite weakness against dollar appeared first on Nairametrics .",
-      "published": "2026-11-16T08:55:01+00:00",
-      "fetched": "2026-11-16T14:04:48.264563+00:00"
-    },
-    {
-      "id": "732f342a82c98583",
-      "title": "Cyberattack alert: What Nigerian banks must tell customers",
-      "link": "https://techcabal.com/2026/11/16/what-banks-must-show-after-a-cyberattack/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Nigerian banks must report cyber incidents to regulators, but that does not always mean customers are informed. As cyberattacks expose financial institutions to growing risks, the challenge is balancing transparency, customer protection and public confidence.",
-      "published": "2026-11-16T08:28:15+00:00",
-      "fetched": "2026-11-16T14:04:49.679829+00:00"
     }
   ]
 }
