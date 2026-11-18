@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-18T00:04:22.488419+00:00",
+  "updated": "2026-11-18T14:39:42.957645+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5c1b4079bdd6a738",
+      "title": "The Directing Genius of Akira Kurosawa Explained",
+      "link": "https://www.openculture.com/2026/11/the-directing-genius-of-akira-kurosawa-explained.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Generations of Westerners have come to appreciate Japanese cinema through the films of Akira Kurosawa, but many have been shocked to find out that Kurosawa himself isn’t as beloved in Japan as they’d imagined. It’s less that his homeland rejects him than that his work has been regarded there as a somewhat foreign taste. That [ ]",
+      "published": "2026-11-18T10:00:45+00:00",
+      "fetched": "2026-11-18T14:39:42.957402+00:00"
+    },
+    {
+      "id": "1f5ee12efd6399e2",
+      "title": "Explore 250,000 Articles from Salon’s 31-Year History at the Internet Archive",
+      "link": "https://www.openculture.com/2026/11/explore-250000-articles-from-salons-31-year-history-at-the-internet-archive.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Earlier this month, Salon announced that it’s ceasing publication after 31 years. In its farewell address, the magazine writes: “The business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable.” We can sympathize.",
+      "published": "2026-11-18T09:00:39+00:00",
+      "fetched": "2026-11-18T14:39:42.957460+00:00"
+    },
+    {
+      "id": "6fa4a47210c62cd4",
+      "title": "Helping AI text detectors keep up with changing conditions",
+      "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+      "published": "2026-11-18T05:00:00+00:00",
+      "fetched": "2026-11-18T14:39:42.306672+00:00"
+    },
+    {
+      "id": "166e292d5d89d0e1",
+      "title": "Building blocks for a greener skyline",
+      "link": "https://news.mit.edu/2026/building-blocks-for-greener-skyline-miana-smith-1118",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Miana Smith designs self-correcting blocks that simple robots can use to construct large, sustainable structures.",
+      "published": "2026-11-18T05:00:00+00:00",
+      "fetched": "2026-11-18T14:39:42.306698+00:00"
+    },
     {
       "id": "70fb277af056bf9d",
       "title": "Putting a spotlight on AI, society, and humanity",
@@ -1462,46 +1502,6 @@
       "summary": "Until I read J. R. R.",
       "published": "2026-10-14T08:00:40+00:00",
       "fetched": "2026-10-14T10:41:58.510425+00:00"
-    },
-    {
-      "id": "7820b2aa87939755",
-      "title": "Hiroshi Ishii honored for contributions to global design and human-computer interaction",
-      "link": "https://news.mit.edu/2026/hiroshi-ishii-honored-for-contributions-global-design-human-computer-interaction-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT Media Lab professor received the IDSA Special Achievement Award for three decades of research integrating physical and digital environments.",
-      "published": "2026-10-13T21:10:00+00:00",
-      "fetched": "2026-10-13T22:00:32.765600+00:00"
-    },
-    {
-      "id": "7e33a8cad60c3aa4",
-      "title": "How artificial neural networks build their own learning machinery",
-      "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.",
-      "published": "2026-10-13T21:00:00+00:00",
-      "fetched": "2026-10-13T22:00:32.765637+00:00"
-    },
-    {
-      "id": "bf8c5eb9b9e4d430",
-      "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
-      "link": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT Lincoln Laboratory hosted the National Security Commission on Emerging Biotechnology (NSCEB) on Sept. 3, for a stop on its national roadshow. Advancing Massachusetts as a defense-biotechnology hub Massachusetts has identified biotechnology as a priority technology area under its Strategic Hub for Innovation, Exchange, and Leadership in Defense (SHIELD) initiative.",
-      "published": "2026-10-13T20:40:00+00:00",
-      "fetched": "2026-10-13T22:00:32.767006+00:00"
-    },
-    {
-      "id": "8c396f96cf6e2896",
-      "title": "MIT Farm is growing",
-      "link": "https://news.mit.edu/2026/mit-farm-growing-1013",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Co-founders Aleks Banaś and Zachary Rapaport see architecture and farming as deeply complementary disciplines. Their nascent club is having a sizeable impact at the Institute.",
-      "published": "2026-10-13T19:30:00+00:00",
-      "fetched": "2026-10-13T22:00:32.767048+00:00"
     }
   ]
 }

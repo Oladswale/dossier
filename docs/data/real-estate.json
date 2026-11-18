@@ -1,8 +1,88 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-18T00:04:23.160521+00:00",
+  "updated": "2026-11-18T14:39:43.493926+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "2ca58e52b3e1d96a",
+      "title": "Mortgage Demand Falls 2.3% as Rates Resume Climbing After 4 Weeks of Declines",
+      "link": "https://www.realtor.com/news/trends/mortgage-applications-rates-mba-survey-movember-18-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Interest rates climbed once more, after declining for the past four weeks, and remain over 7%.",
+      "published": "2026-11-18T14:28:14+00:00",
+      "fetched": "2026-11-18T14:39:43.493368+00:00"
+    },
+    {
+      "id": "fba0539c84218dd2",
+      "title": "Single-Family Construction Rebounds in November, But Permits Nosedive",
+      "link": "https://www.realtor.com/news/trends/housing-starts-permits-census-november-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Construction of new single-family homes rose a bit October, but permits fell sharply the U.S. Census Bureau reported.",
+      "published": "2026-11-18T14:07:25+00:00",
+      "fetched": "2026-11-18T14:39:43.493395+00:00"
+    },
+    {
+      "id": "81f126489b752dab",
+      "title": "Farrah Aldjufrie and Zach Goldsmith Welcome Their First Child—Inside the Umansky Family’s Plans for Baby’s First Holiday Season",
+      "link": "https://www.realtor.com/news/reality-tv/kyle-richards-daughter-farrah-aldjufrie-zach-goldstein-welcome-baby-umansky-family-plans/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 37-year-old property mogul, who is the daughter of Richards and her ex-husband, Guraish Aldjufrie, shared that she was pregnant in July.",
+      "published": "2026-11-18T14:02:16+00:00",
+      "fetched": "2026-11-18T14:39:43.493436+00:00"
+    },
+    {
+      "id": "eff5818fa1d7b1b3",
+      "title": "Patrick and Brittany Mahomes Are Expecting a Baby Boy—Inside the Custom Missouri Mansion Where They’ll Raise Their Fourth Child",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/patrick-brittany-mahomes-expecting-fourth-child-inside-missouri-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The quarterback and his wife, took to Instagram to share the joyous news that their family is expanding earlier this month.",
+      "published": "2026-11-18T13:47:00+00:00",
+      "fetched": "2026-11-18T14:39:43.493459+00:00"
+    },
+    {
+      "id": "ae42e96575b75303",
+      "title": "6 Side Hustles Rookies Use to Buy Their First Rental Property",
+      "link": "https://www.biggerpockets.com/blog/rookie-798",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Want to buy your first rental property, but your paycheck just isn’t stretching far enough to save for a down payment? You’re not alone! Not having enough cash is one [ ]",
+      "published": "2026-11-18T12:00:41+00:00",
+      "fetched": "2026-11-18T14:39:43.308879+00:00"
+    },
+    {
+      "id": "89c08472b3349ddc",
+      "title": "(Please) Don’t Bet on a Refinance",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1358",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "If you’re hoping, praying that mortgage rates fall so you can refinance your rental…you need to hear this. We’re bringing on one of the rental property investing legends, Michael Zuber [ ]",
+      "published": "2026-11-18T12:00:07+00:00",
+      "fetched": "2026-11-18T14:39:43.308909+00:00"
+    },
+    {
+      "id": "6b45450dc055e42e",
+      "title": "Ohio Becomes the Epicenter of Data Center Backlash After Tax Credits Cost State’s Schools $374 Million",
+      "link": "https://www.realtor.com/news/real-estate-news/ohio-data-center-backlash-tax-credits-schools/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The state's data center tax break deprived its schools of almost $374 million in revenue as developers skipped $1.6 billion in taxes.",
+      "published": "2026-11-18T10:00:00+00:00",
+      "fetched": "2026-11-18T14:39:43.493478+00:00"
+    },
+    {
+      "id": "df353fe5df42806b",
+      "title": "Rents Rise Annually for First Time in 3 Years as Multifamily Building Boom Stalls",
+      "link": "https://www.realtor.com/news/trends/rents-rise-first-time-2023-multifamily-boom-stalls-report-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The median asking rent in October registered at $1,692, up $1 from last year, marking the first annual increase since June 2023.",
+      "published": "2026-11-18T09:47:00+00:00",
+      "fetched": "2026-11-18T14:39:43.493496+00:00"
+    },
     {
       "id": "a4a8afffee1e0587",
       "title": "Study Finds a Nearly 50% Drop in Renters Becoming Homeowners Since 2009",
@@ -22,6 +102,16 @@
       "summary": "With the James Bond franchise entering a new era with Robert Pattinson at the helm, Daniel Craig is spending more time at home.",
       "published": "2026-11-17T23:19:36+00:00",
       "fetched": "2026-11-18T00:04:23.159705+00:00"
+    },
+    {
+      "id": "fd324677044153a5",
+      "title": "Anne Hathaway Welcomes Her Third Child With Husband Adam Shulman",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/anne-hathaway-gives-birth-third-baby-husband-adam-schulman/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "\"The Devil Wears Prada\" star was spotted walking around New York City with a newborn, months after announcing her pregnancy.",
+      "published": "2026-11-17T22:20:53+00:00",
+      "fetched": "2026-11-18T14:39:43.493521+00:00"
     },
     {
       "id": "c2668231b52e39f8",
@@ -1412,96 +1502,6 @@
       "summary": "A VA loan can allow service men and women to qualify for homes they might have thought were out of reach. Read on to learn about the biggest benefits a VA loan has to offer.",
       "published": "2026-11-10T16:03:00+00:00",
       "fetched": "2026-11-10T22:35:57.777626+00:00"
-    },
-    {
-      "id": "d686b3a3bd5ccd71",
-      "title": "Penélope Cruz Reveals Why She and Javier Bardem Chose To Raise Their Children in Madrid",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/penelope-cruz-javier-bardem-kids-madrid-spain/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The actress revealed that she and her spouse decided to raise their kids in Spain because it allows them to live a more private life.",
-      "published": "2026-11-10T15:41:40+00:00",
-      "fetched": "2026-11-10T22:35:57.777644+00:00"
-    },
-    {
-      "id": "dc4f154dc2519a7a",
-      "title": "Inside Josh Allen and Hailee Steinfeld’s Multimillion-Dollar Real Estate Portfolio",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/hailee-steinfeld-josh-allen-homes-marriage-wedding/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 30-year-old athlete continues to lead the New York-based team to victory, so where does he relax once a game is over?",
-      "published": "2026-11-10T15:37:00+00:00",
-      "fetched": "2026-11-10T22:35:57.777660+00:00"
-    },
-    {
-      "id": "828ebca61dfdcb8c",
-      "title": "Reality Star and Real Estate Tycoon Ryan Serhant Expands Brokerage to Utah",
-      "link": "https://www.realtor.com/news/trends/ryan-serhant-brokerage-expands-utah-salt-lake-park-city-owning-manhattan/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "SERHANT. Utah will launch with over 40 agents from top firms, who together have closed $700 million in sales over the past 12 months.",
-      "published": "2026-11-10T15:01:00+00:00",
-      "fetched": "2026-11-10T22:35:57.777676+00:00"
-    },
-    {
-      "id": "44bb9238a9a33594",
-      "title": "Inflation Remains Hot in October and Strengthens Case for Another Fed Rate Hike",
-      "link": "https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "On a monthly basis, overall prices rose 0.4%, according to the Consumer Price Index (CPI) data released released Tuesday.",
-      "published": "2026-11-10T14:10:08+00:00",
-      "fetched": "2026-11-10T22:35:57.777691+00:00"
-    },
-    {
-      "id": "b6a5f500409a98e2",
-      "title": "California Voters Reject ‘Billionaires Tax’ Amid Fears of an Exodus of Wealth From the State",
-      "link": "https://www.realtor.com/news/real-estate-news/california-billionaires-tax-proposition-40-results-failed/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "California voters rejected a proposed wealth tax, which could have meant a one-time draw of billions but risked a billionaire 'exodus.'",
-      "published": "2026-11-10T13:37:06+00:00",
-      "fetched": "2026-11-10T22:35:57.777708+00:00"
-    },
-    {
-      "id": "312dd3162111c39a",
-      "title": "California Voters Reject ‘Billionaires Tax’ Amid Fears of an Exodus of Wealth from the State",
-      "link": "https://www.realtor.com/news/real-estate-news/california-billionaires-tax-proposition-40-results-failed/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "California voters rejected a proposed wealth tax, which could have meant a one-time draw of billions but risked a billionaire 'exodus.'",
-      "published": "2026-11-10T13:37:06+00:00",
-      "fetched": "2026-11-10T13:50:29.025962+00:00"
-    },
-    {
-      "id": "d0b1997851bf9cec",
-      "title": "The Best (and Worst) Real Estate Investing Advice for 2027",
-      "link": "https://www.biggerpockets.com/blog/on-the-market-476",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "There’s no shortage of real estate investing advice floating around online. The problem? Not all of it is sound—some of it is downright bad.",
-      "published": "2026-11-10T12:00:35+00:00",
-      "fetched": "2026-11-10T13:50:28.654914+00:00"
-    },
-    {
-      "id": "f3946281013e0d37",
-      "title": "‘Home Is Where You Spend’: How Your Neighborhood Shapes Your Buying Habits",
-      "link": "https://www.realtor.com/news/trends/neighborhood-spending-survey-results-bilt-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A new survey found that two-thirds of Americans do around 80% of their shopping within 15 miles of their home.",
-      "published": "2026-11-10T11:31:00+00:00",
-      "fetched": "2026-11-10T13:50:29.026002+00:00"
-    },
-    {
-      "id": "dc42028fcbeb1737",
-      "title": "Las Vegas Inventory Hits Record High as Buyer Demand Sinks—but One Surprising Segment Defies the Slump",
-      "link": "https://www.realtor.com/news/trends/las-vegas-nevada-inventory-record-high-active-listings-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Las Vegas listings hit a record high in October as high mortgage rates cooled demand, even as the metro’s luxury market thrives.",
-      "published": "2026-11-10T10:00:00+00:00",
-      "fetched": "2026-11-10T13:50:29.026038+00:00"
     }
   ]
 }
