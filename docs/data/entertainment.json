@@ -1,8 +1,178 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-18T23:38:23.847369+00:00",
+  "updated": "2026-11-19T04:41:13.293965+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "05eebe771eaa0ea9",
+      "title": "CMA Awards 2026: The Complete Winners List",
+      "link": "https://www.rollingstone.com/music/music-country/2026-cma-awards-winners-list-1235657666/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "All of the winners at the 60th ceremonies, including Entertainer of the Year, Album of the Year, and New Artist of the Year",
+      "published": "2026-11-19T04:12:22+00:00",
+      "fetched": "2026-11-19T04:41:13.175756+00:00"
+    },
+    {
+      "id": "fd7543d8054c6db6",
+      "title": "Stephen Wilson Jr. and Chris Stapleton Collab on ‘I’m a Song’ at 2026 CMA Awards",
+      "link": "https://www.rollingstone.com/music/music-country/stephen-wilson-jr-chris-stapleton-perform-2026-cma-awards-1235658276/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The track appears on Wilson's forthcoming album Impression of a Human // Children of the Cornerman",
+      "published": "2026-11-19T03:53:35+00:00",
+      "fetched": "2026-11-19T04:41:13.175830+00:00"
+    },
+    {
+      "id": "45c9d89881211cc4",
+      "title": "Newsmax Fears Fox Freeze-Out on Roku if Merger Is Not Blocked",
+      "link": "https://variety.com/2026/tv/news/newsmax-fox-roku-fast-tubi-antitrust-suit-1236952413/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Newsmax filed an antitrust lawsuit on Thursday that seeks to block the Fox-Roku merger, arguing that the deal gives Fox unlawful monopoly power over the free streaming market. Fox Corp. closed the $22 billion acquisition earlier this month.",
+      "published": "2026-11-19T03:50:33+00:00",
+      "fetched": "2026-11-19T04:41:12.953895+00:00"
+    },
+    {
+      "id": "10ba7680b7db7d6d",
+      "title": "Miranda Lambert, Ella Langley Give Live Debut of ‘Snakeskin Boots’ at 2026 CMAs",
+      "link": "https://www.rollingstone.com/music/music-country/miranda-lambert-ella-langley-perform-snakeskin-boots-cma-1235659582/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The cinematic duet appears on Lambert's Seventies-inspired album Crisco",
+      "published": "2026-11-19T03:35:21+00:00",
+      "fetched": "2026-11-19T04:41:13.175861+00:00"
+    },
+    {
+      "id": "cc6da5d0ddd54aad",
+      "title": "Summer Walker Files $20 Million Cross-Complaint Against Interscope",
+      "link": "https://www.rollingstone.com/music/music-news/summer-walker-cross-complaint-interscope-lvrn-contract-1235660594/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The move follows after the label sued Walker first, saying she would owe $50 million if she walked away from her 2017 record deal",
+      "published": "2026-11-19T03:30:55+00:00",
+      "fetched": "2026-11-19T04:41:13.175888+00:00"
+    },
+    {
+      "id": "27ea37c5cf568b7b",
+      "title": "‘Eternal Bangers’: See Taylor Swift’s Speech Honoring Brooks & Dunn at 2026 CMA Awards",
+      "link": "https://www.rollingstone.com/music/music-country/taylor-swift-speech-cma-awards-brooks-and-dunn-1235660421/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The superstar presented the duo with the Willie Nelson Lifetime Achievement Award",
+      "published": "2026-11-19T03:30:04+00:00",
+      "fetched": "2026-11-19T04:41:13.175916+00:00"
+    },
+    {
+      "id": "a08e879b871c36df",
+      "title": "Halestorm, Brothers Osborne, Hardy Sing for Brooks & Dunn at Ferocious 2026 CMA Tribute",
+      "link": "https://www.rollingstone.com/music/music-country/halestorm-hardy-sing-for-brooks-and-dunn-2026-cma-awards-1235660267/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The hard-rock band also backed up Brothers Osborne, Marcus King, and Luke Bryan as they paid homage to the country duo of Kix and Ronnie",
+      "published": "2026-11-19T03:16:44+00:00",
+      "fetched": "2026-11-19T04:41:13.175943+00:00"
+    },
+    {
+      "id": "a072f1145d59d3f6",
+      "title": "Lainey Wilson Debuts New Song ‘Just a Woman’ with All-Female Band at 2026 CMA Awards",
+      "link": "https://www.rollingstone.com/music/music-country/lainey-wilson-performs-just-a-woman-2026-cma-awards-1235658176/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Written with Luke Dick and Shane McAnally, the ballad is one of the singer's most potent yet",
+      "published": "2026-11-19T02:40:47+00:00",
+      "fetched": "2026-11-19T04:41:13.175969+00:00"
+    },
+    {
+      "id": "94baa05181630abf",
+      "title": "Taylor Swift Performs ‘I Knew It, I Knew You’ and ‘Our Song’ Mashup at CMA Awards",
+      "link": "https://variety.com/2026/music/news/taylor-swift-performs-i-knew-it-i-knew-you-our-song-cmas-1236952619/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "It s been a while, Taylor Swift sang during her performance of I Knew It, I Knew You at the Country Music Association Awards on Wednesday night — and it sure was, marking her first time performing at the show in 13 years. The singer gave the first public performance of I Knew It, I Knew [ ]",
+      "published": "2026-11-19T02:29:00+00:00",
+      "fetched": "2026-11-19T04:41:12.953960+00:00"
+    },
+    {
+      "id": "918c2b1e1e171ee8",
+      "title": "Taylor Swift Throws It Back at the 2026 CMAs With ‘Our Song’",
+      "link": "https://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-1235656541/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The pop superstar returned to the awards ceremony stage after 13 years, alongside Keith Urban, to perform \"I Knew It, I Knew You\" and a bit of her 2006 hit",
+      "published": "2026-11-19T02:26:31+00:00",
+      "fetched": "2026-11-19T04:41:13.175997+00:00"
+    },
+    {
+      "id": "08f26c940c2cd84c",
+      "title": "Watch Ella Langley Find What Matters on ‘Loving Life Again’ at 2026 CMA Awards",
+      "link": "https://www.rollingstone.com/music/music-country/ella-langley-sings-loving-life-again-2026-cma-awards-1235659276/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The \"Choosin' Texas\" singer slowed things down with a subtly gorgeous performance of her country radio hit",
+      "published": "2026-11-19T02:04:53+00:00",
+      "fetched": "2026-11-19T04:41:13.176023+00:00"
+    },
+    {
+      "id": "df54c14c030a654e",
+      "title": "See Mumford & Sons and Chris Stapleton Team Up for ‘Here’ at 2026 CMA Awards",
+      "link": "https://www.rollingstone.com/music/music-country/watch-mumford-sons-chris-stapleton-here-cma-1235660385/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The British group's duet with Stapleton marked their CMA debut",
+      "published": "2026-11-19T01:56:02+00:00",
+      "fetched": "2026-11-19T04:41:13.176046+00:00"
+    },
+    {
+      "id": "37cc0f7d3fae43fc",
+      "title": "Ella Langley Wins Six Trophies at CMA Awards, Including Entertainer of the Year: The Complete List of Winners",
+      "link": "https://variety.com/2026/music/news/cma-awards-winners-2026-complete-list-1236952628/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "In a near-sweep that surprised no one, Ella Langley won six trophies at the CMA Awards, including the top prize, entertainer of the year. The Choosin Texas singer so swept the field that the show s host, Lainey Wilson, came out with a broom during her final acceptance speech and pretended to be cleaning up the [ ]",
+      "published": "2026-11-19T01:24:22+00:00",
+      "fetched": "2026-11-19T04:41:12.954007+00:00"
+    },
+    {
+      "id": "7402fcb0c484668b",
+      "title": "Jason Blum and James Wan Discuss Why Horror Is Hollywood’s Hottest Genre and How ‘Obsession’ Hit Big at Blumhouse Atomic’s Business of Fear",
+      "link": "https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Blumhouse Atomic bosses Jason Blum and James Wan took a victory lap Wednesday at their Business of Fear panel, during which they discussed horror s banner year at the box office and why Obsession became the breakout hit of the summer. But before the horror talk began, they had to address the name change. Blum s Blumhouse [ ]",
+      "published": "2026-11-19T01:18:14+00:00",
+      "fetched": "2026-11-19T04:41:12.954054+00:00"
+    },
+    {
+      "id": "baac31a0d47693ea",
+      "title": "Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says",
+      "link": "https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "With this week’s debut of “Grand Theft Auto 6” widely considered to be the entertainment event of the decade, the Rockstar Games-created franchise seems like an obvious target for a Hollywood adaptation. But those producers hoping to land the rights could be waiting indefinitely, as Take-Two Interactive CEO Strauss Zelnick has said for years that [ ]",
+      "published": "2026-11-19T00:29:08+00:00",
+      "fetched": "2026-11-19T04:41:12.954105+00:00"
+    },
+    {
+      "id": "c95a3f66da03a404",
+      "title": "Chris Pratt to Star in Sci-Fi Family Drama ‘The Traveler,’ Inks First-Look Producing Deal at Paramount (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Chris Pratt is setting up his next sci-fi adventure: starring in Paramount Pictures big-screen adaptation of “The Traveler,” based on the novel by Joseph Eckert. The film is part of the new first-look, three-year producing deal Pratt inked at the studio through his Indivisible Productions banner. Pratt will potentially star in select projects.",
+      "published": "2026-11-19T00:16:50+00:00",
+      "fetched": "2026-11-19T04:41:12.954157+00:00"
+    },
+    {
+      "id": "47d22039736baf1a",
+      "title": "Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’",
+      "link": "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Pierce Brosnan, a former James Bond himself, has taken to social media to enthusiastically endorse the newly anointed Robert Pattinson, who was announced as the new 007 on Monday. “Dear Robert, Welcome to the world of Bond,” Brosnan, who played the character in four films from 1995 to 2002, wrote on Instagram Wednesday. “You are [ ]",
+      "published": "2026-11-19T00:14:26+00:00",
+      "fetched": "2026-11-19T04:41:12.954205+00:00"
+    },
     {
       "id": "63ad7cf3e7036c89",
       "title": "Elon Musk Admits He Feels ‘Pretty Foolish’ Having Spent Nearly $500 Million on Midterm Election Races Won by Democrats, Claims He Is ‘Not MAGA’",
@@ -1332,176 +1502,6 @@
       "summary": "The band honored the legendary producer and Musical Excellence Award recipient with “Give It Away”",
       "published": "2026-11-15T15:16:44+00:00",
       "fetched": "2026-11-15T22:09:34.043689+00:00"
-    },
-    {
-      "id": "3322fcbab85ddde4",
-      "title": "How to Watch Billy Evans’ First TV Interview About ‘You Can See Everything’ Online",
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-billy-evans-cbs-interview-online-1236948056/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Billy Evans is speaking out about his portrayal in Nathan Fielder and Lance Oppenheim s hit documentary “You Can See Everything.” The longtime partner of disgraced Theranos founder Elizabeth Holmes sits down with CBS News chief correspondent Matt Gutman for his first television interview on “CBS News Sunday Morning,” airing Sunday, Nov. 15, at 9 a.m. [ ]",
-      "published": "2026-11-15T14:56:35+00:00",
-      "fetched": "2026-11-15T22:09:33.878930+00:00"
-    },
-    {
-      "id": "122bf9681f041a04",
-      "title": "Robert Christgau and Carola Dibbell Talk New Documentary ‘The Last Critic’ and Staying Crazy in Love",
-      "link": "https://www.rollingstone.com/music/music-features/robert-christgau-carola-dibbell-interview-last-critic-1235657436/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "A new film focuses on the legendary music critic. It’s also a portrait of a rock roll marriage that's lasted more than 50 years",
-      "published": "2026-11-15T14:56:03+00:00",
-      "fetched": "2026-11-15T22:09:34.043707+00:00"
-    },
-    {
-      "id": "dc2d5bed68d6eb01",
-      "title": "Wu-Tang Clan, Billy Idol, Phil Collins Enter Rock Hall at All-Star Induction Ceremony",
-      "link": "https://www.rollingstone.com/music/music-live-reviews/rock-hall-2026-induction-ceremony-recap-1235658494/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Bearded Red Hot Chili Peppers honor Rick Rubin, U2 serve as surprise openers, Aerosmith and Run-D.M.C. reunite, Oprah Winfrey inducts Luther Vandross and more",
-      "published": "2026-11-15T14:36:30+00:00",
-      "fetched": "2026-11-15T22:09:34.043722+00:00"
-    },
-    {
-      "id": "4ea1b86d0bc53773",
-      "title": "The Best Tech Gifts From Sony Cameras, Sennheiser, HP, and Blink",
-      "link": "https://www.rollingstone.com/product-recommendations/gift-guide/tech-gifts-best-buy-starting-under-30-sony-sennheiser-1235657948/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From cutting-edge cameras to home security, here are some great tech gifts starting at $28",
-      "published": "2026-11-15T14:24:00+00:00",
-      "fetched": "2026-11-15T22:09:34.043734+00:00"
-    },
-    {
-      "id": "79e66b808ecc98f8",
-      "title": "Seville European Film Festival Prizes: ‘You Don’t Belong Here,’ ‘Falling House,’ ’Adult Supervision’ Win Big",
-      "link": "https://variety.com/2026/film/global/seville-european-film-festival-prizes-you-dont-belong-here-1236948019/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Romania’s Florin Şerban added a Seville Golden Giraldillo to a Golden Leopard at Locarno on Saturday, winning Best Film in main competition at the 2026 Seville European Film Festival which also prized Venice New Horizons buzz title “Falling House” and Sweden’s Oscar entry “Adult Supervision.” Seville’s biggest world premiere, Spain s “The Director,” also scored a [ ]",
-      "published": "2026-11-15T12:52:04+00:00",
-      "fetched": "2026-11-15T13:00:38.318226+00:00"
-    },
-    {
-      "id": "6b26b8dc7a557d2f",
-      "title": "4 Gifts to Upgrade Your Family’s Holiday Gatherings This Year",
-      "link": "https://www.rollingstone.com/product-recommendations/gift-guide/best-gifts-for-holiday-parties-family-gatherings-best-buy-1235657590/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Hosting or heading home for the holidays? These four gifts will make the family gathering easier and more fun",
-      "published": "2026-11-15T12:23:00+00:00",
-      "fetched": "2026-11-15T13:00:38.495738+00:00"
-    },
-    {
-      "id": "dd8752fe24a2f6c3",
-      "title": "‘Woman Unknown’ Breakout Mathilde Arcel on Her Venice Award-Winning Performance and Life After Her Lido Triumph: ‘Everything Is Open’",
-      "link": "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Danish actress Mathilde Arcel would be the first to admit she didn’t see this coming. It’s been hardly two months since Arcel, in her first-ever leading role in a feature film, was awarded the Volpi Cup for best actress for her breakout performance in “Woman Unknown,” May el-Toukhy’s riveting, post-World War II drama that was [ ]",
-      "published": "2026-11-15T11:17:54+00:00",
-      "fetched": "2026-11-15T13:00:38.318260+00:00"
-    },
-    {
-      "id": "6cc680980842193d",
-      "title": "Tech Gifts Starting at $25, From Health Gadgets to Home-Theater Gear",
-      "link": "https://www.rollingstone.com/product-recommendations/tech/tech-gifts-best-buy-shokz-fitbit-1235658123/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From Bose to Google Fitbit, we run down must-have tech essentials for gifting season",
-      "published": "2026-11-15T10:00:00+00:00",
-      "fetched": "2026-11-15T13:00:38.495756+00:00"
-    },
-    {
-      "id": "815d79bd0676d056",
-      "title": "From Audio to Outdoors, These Are the Best Tech Gifts From Bose, Oura, Insta360, and More",
-      "link": "https://www.rollingstone.com/product-recommendations/tech/best-buy-tech-gifts-bose-oura-segway-insta360-1235657960/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "These tech gifts include smart rings and headphones and are available now from Best Buy",
-      "published": "2026-11-15T09:00:00+00:00",
-      "fetched": "2026-11-15T13:00:38.495770+00:00"
-    },
-    {
-      "id": "45cb850ec72d67c0",
-      "title": "‘Dhurandhar,’ ‘Kantara: A Legend – Chapter 1’ Among Indian Panorama Lineup at IFFI Goa",
-      "link": "https://variety.com/2026/film/festivals/dhurandhar-kantara-chapter-1-iffi-indian-panorama-2026-1236947982/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Aditya Dhar s Hindi-language Dhurandhar will open the Indian Panorama section of the 57th International Film Festival of India (IFFI) in Goa. Rishab Shetty s Kannada-language Kantara: A Legend – Chapter 1 is also in the lineup. Leena Yadav s Becoming, in Ladakhi, will kick off the non-feature program.",
-      "published": "2026-11-15T08:17:29+00:00",
-      "fetched": "2026-11-15T13:00:38.318294+00:00"
-    },
-    {
-      "id": "880bc95d518b331a",
-      "title": "‘SNL’: Watch Phoebe Bridgers Perform ‘Bobby,’ ‘Still Standing’",
-      "link": "https://www.rollingstone.com/music/music-news/snl-watch-phoebe-bridgers-performs-bobby-still-standing-1235658394/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Both are from her acclaimed album, Lost Weekend",
-      "published": "2026-11-15T08:05:34+00:00",
-      "fetched": "2026-11-15T13:00:38.495785+00:00"
-    },
-    {
-      "id": "061c65efc71192d9",
-      "title": "Jakarta World Cinema Expands to Malang and Bandung, Where Palme d’Or Winner ‘Fjord’ Opens Festival",
-      "link": "https://variety.com/2026/film/festivals/jakarta-world-cinema-expands-malang-bandung-fjord-1236947977/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Jakarta World Cinema has taken its festival outside the Indonesian capital for the first time, with the inaugural Bandung World Cinema and Malang World Cinema opening simultaneously on Nov. 14 in two cities with large student populations and busy creative scenes. Bandung s screenings are taking place at CGV Paris Van Java, while Malang s are at [ ]",
-      "published": "2026-11-15T07:34:29+00:00",
-      "fetched": "2026-11-15T13:00:38.318321+00:00"
-    },
-    {
-      "id": "78e9253b43caade4",
-      "title": "‘SNL’: Hippie John Mulaney Has Some Very Unhip Thoughts at Woodstock",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-hippie-john-mulaney-unhip-thoughts-woodstock-1235658419/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Mulaney suggests how he and his baby boomer pals should live when they get older",
-      "published": "2026-11-15T07:21:11+00:00",
-      "fetched": "2026-11-15T13:00:38.495799+00:00"
-    },
-    {
-      "id": "e7b5e97c60f33637",
-      "title": "‘SNL’ Weekend Update Roasts Trump Admin Over Grounded Flights, Jensen Huang Affairs",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-roasts-trump-grounded-flights-jensen-huang-affairs-1235658417/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "\"Jensen Huang had a midlife crisis so bad, you might lose your house in his divorce,\" Colin Jost jokes",
-      "published": "2026-11-15T06:09:21+00:00",
-      "fetched": "2026-11-15T13:00:38.495815+00:00"
-    },
-    {
-      "id": "1a1957d0dd1eb599",
-      "title": "‘SNL’ Cold Open: Jensen Huang, Tech CEOs Get a Crash Course in Female Spies",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-jensen-huang-tech-ceos-get-crash-course-female-spies-1235658421/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Bowen Yang returns to SNL to play the ousted Nvidia CEO, who gives advice to Elon Musk, Mark Zuckerberg and others",
-      "published": "2026-11-15T05:25:55+00:00",
-      "fetched": "2026-11-15T13:00:38.495831+00:00"
-    },
-    {
-      "id": "961d0606ee0ca329",
-      "title": "Amanda Seyfried to Make Her Debut as ‘Saturday Night Live’ Host",
-      "link": "https://variety.com/2026/tv/news/amanda-seyfried-snl-host-debut-december-don-toliver-1236947942/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Amanda Seyfried will make her debut as host of “Saturday Night Live” on Dec. 5. Seyfried is center stage in one of the year s most talked-about movies, the Elizabeth Holmes documentary “You Can See Everything.” The musical guest for the episode will be rapper Don Toliver.",
-      "published": "2026-11-15T05:25:10+00:00",
-      "fetched": "2026-11-15T13:00:38.318349+00:00"
-    },
-    {
-      "id": "f434bed19d9e00c5",
-      "title": "John Mulaney Mocks Robert F. Kennedy Jr. in ‘SNL’ Monologue: ‘No One Likes Him. You Dumbass … Your Thing Can’t Be the Measles!’",
-      "link": "https://variety.com/2026/tv/news/john-mulaney-mocks-robert-f-kennedy-jr-snl-monologue-1236947905/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "John Mulaney s opening monologue on this week s “Saturday Night Live” took an unexpected turn when he mocked controversial U.S. secretary of Health and Human Services Robert F. Kennedy Jr.",
-      "published": "2026-11-15T05:05:55+00:00",
-      "fetched": "2026-11-15T13:00:38.318378+00:00"
     }
   ]
 }

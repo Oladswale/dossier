@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-11-18T23:38:14.047985+00:00",
+  "updated": "2026-11-19T04:40:48.741921+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "bfce2f6c17d799ec",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+      "published": "2026-11-19T00:30:00+00:00",
+      "fetched": "2026-11-19T04:40:46.417843+00:00"
+    },
     {
       "id": "2858ed4e990e0bc4",
       "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
@@ -1492,16 +1502,6 @@
       "summary": "Ulf Lindahl says a storm is brewing for investors in the U.S. stock market, who will also be facing $500 oil in a few years. Here is where he’d shelter.",
       "published": "2026-11-16T13:36:00+00:00",
       "fetched": "2026-11-16T14:04:47.528836+00:00"
-    },
-    {
-      "id": "175efe1b23544db7",
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
-      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-      "published": "2026-11-16T13:01:00+00:00",
-      "fetched": "2026-11-16T14:04:47.528880+00:00"
     }
   ]
 }

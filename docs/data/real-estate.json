@@ -1,8 +1,18 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-18T23:38:25.242441+00:00",
+  "updated": "2026-11-19T04:41:15.069134+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5c1d2e9f455280ac",
+      "title": "West Virginia Official Accused of Stealing 9 Properties for Friend With Ties to His Used Car Dealership",
+      "link": "https://www.realtor.com/news/trends/west-virginia-auditor-mark-hunt-indicted-property-theft-scheme/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A West Virginia state auditor has been indicted for his role in an alleged scheme to steal nine properties to benefit his friend.",
+      "published": "2026-11-18T23:35:08+00:00",
+      "fetched": "2026-11-19T04:41:15.068527+00:00"
+    },
     {
       "id": "fbdcf247304bc7fb",
       "title": "Resident of Collapsed Brooklyn Building Sues for Negligence After Losing $100K Record Collection",
@@ -1492,16 +1502,6 @@
       "summary": "Ramit Sethi did everything the financial “experts” said not to: he rented instead of buying, upgraded to new, expensive cars, spent plenty on luxury vacations, and still made millions in [ ]",
       "published": "2026-11-11T12:00:35+00:00",
       "fetched": "2026-11-11T13:01:31.318341+00:00"
-    },
-    {
-      "id": "a01621a1b1a6a3d4",
-      "title": "‘Wake-Up Call’: Trump’s Former Housing Commissioner Says New Congress Must ‘Get Serious’ About Housing Affordability",
-      "link": "https://www.realtor.com/news/real-estate-news/congress-housing-affordability-former-fha-commissioner-frank-cassidy/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Even in a bitterly divided Washington, DC, Democrats and Republicans both understand Americans are broadly worried about the cost of living.",
-      "published": "2026-11-11T10:00:00+00:00",
-      "fetched": "2026-11-11T13:01:31.758243+00:00"
     }
   ]
 }
