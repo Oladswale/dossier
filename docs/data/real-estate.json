@@ -1,8 +1,68 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-19T04:41:15.069134+00:00",
+  "updated": "2026-11-19T14:45:54.039167+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "4b493af47119795b",
+      "title": "Police Race to Madison Beer and Justin Herbert’s Los Angeles Home After Burglary Report",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/madison-beer-justin-herbert-california-home-burglary/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Los Angeles Police Department rushed to the sprawling property after receiving a call about a break-in.",
+      "published": "2026-11-19T14:28:12+00:00",
+      "fetched": "2026-11-19T14:45:54.038531+00:00"
+    },
+    {
+      "id": "231d061ab0079e0f",
+      "title": "If the Stock Market Crashes, What Happens to Real Estate?",
+      "link": "https://www.biggerpockets.com/blog/on-the-market-479",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "The stock market just had its worst month in years. The S P 500 is down 5% since its recent high, the Nasdaq is down 11%, and the AI bubble still [ ]",
+      "published": "2026-11-19T12:00:29+00:00",
+      "fetched": "2026-11-19T14:45:53.686276+00:00"
+    },
+    {
+      "id": "bed13e884350a5bb",
+      "title": "Anthropic’s Blockbuster IPO Set To Spark a New San Francisco Housing Frenzy: ‘Expect More All-Cash Offers’ and Bidding Wars",
+      "link": "https://www.realtor.com/news/trends/anthropic-ipo-bring-new-real-estate-gold-rush-san-francisco/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The influx of new wealth has been compounded by a limited number of desirable homes, making the market fiercely competitive.",
+      "published": "2026-11-19T10:00:00+00:00",
+      "fetched": "2026-11-19T14:45:54.038572+00:00"
+    },
+    {
+      "id": "4c9299c22b496b3c",
+      "title": "Anthropic’s Backers Have Another Big Bet: Americans Staying Renters",
+      "link": "https://www.realtor.com/news/trends/anthropic-investors-private-equity-rental-housing/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Some of the investors financing an AI revolution also stand to profit from a housing market where homeownership is slipping out of reach.",
+      "published": "2026-11-19T09:46:00+00:00",
+      "fetched": "2026-11-19T14:45:54.038603+00:00"
+    },
+    {
+      "id": "13bc5ecb4e36049d",
+      "title": "You Can Order Room Service From This $29.5 Million Full-Floor Ritz-Carlton Residence on Central Park South",
+      "link": "https://www.realtor.com/news/unique-homes/new-york-city-luxury-condominium-ritz-carlton-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Spanning an entire floor of the iconic building, this luxury residence offers gorgeous views of Central Park and even has room service.",
+      "published": "2026-11-19T09:32:00+00:00",
+      "fetched": "2026-11-19T14:45:54.038632+00:00"
+    },
+    {
+      "id": "7bfc2a6dd6737557",
+      "title": "Inside Celebrity Chef Dook Chase’s Renovated New Orleans Home—and the Dream Kitchen He Calls His Sanctuary",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/celebrity-chef-dook-chase-new-orleans-home-kitchen/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Step inside celebrity chef Dook Chase’s renovated New Orleans home, and see the custom open-concept kitchen he calls his personal sanctuary.",
+      "published": "2026-11-19T09:17:00+00:00",
+      "fetched": "2026-11-19T14:45:54.038665+00:00"
+    },
     {
       "id": "5c1d2e9f455280ac",
       "title": "West Virginia Official Accused of Stealing 9 Properties for Friend With Ties to His Used Car Dealership",
@@ -1442,66 +1502,6 @@
       "summary": "The trade moved Cousins, 38, his wife, Julie Hampton, and their two children back to the Land of 10,000 Lakes.",
       "published": "2026-11-11T16:52:05+00:00",
       "fetched": "2026-11-11T23:45:15.514771+00:00"
-    },
-    {
-      "id": "af0a1812b07e8537",
-      "title": "Mortgage Demand Jumps 6.2% as Rates Fall for Fourth Straight Week",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-rates-mba-survey-november-11-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mortgage applications increased 6.2% this past week as interest rates fell for the fourth week in a row.",
-      "published": "2026-11-11T15:03:36+00:00",
-      "fetched": "2026-11-11T23:45:15.514793+00:00"
-    },
-    {
-      "id": "609158f631b87d92",
-      "title": "Alix Earle’s Feud With Alex Cooper Resurfaces—Inside Her Family’s $4.1 Million New Jersey Home Where She Told Her Side",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/alix-earle-netflix-trailer-new-jersey-home-family-drama/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The influencer, who rose to fame by documenting the details of her life online, is pulling back the curtain even further in her new show.",
-      "published": "2026-11-11T14:34:00+00:00",
-      "fetched": "2026-11-11T23:45:15.514820+00:00"
-    },
-    {
-      "id": "86198e21e7eb1fb0",
-      "title": "Homebuilders in Fire-Ravaged Altadena Are Using 3D Printing To Rebuild",
-      "link": "https://www.realtor.com/news/trends/3d-print-concrete-technology-rebuilds-fire-damaged-altadena/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Concrete is durable, cost effective, and fire resistant, which is why builders are using it to rebuild after the Eaton Fire.",
-      "published": "2026-11-11T14:31:49+00:00",
-      "fetched": "2026-11-11T23:45:15.514843+00:00"
-    },
-    {
-      "id": "cc232dfa0b406afb",
-      "title": "Patrick and Brittany Mahomes Are Expecting Baby No. 4—Inside the Custom Missouri Mansion Where They’re Raising Their Growing Family",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/patrick-brittany-mahomes-expecting-fourth-child-inside-missouri-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The Kansas City Chiefs quarterback and his wife, both 31, took to Instagram to share the joyous news that their family is expanding.",
-      "published": "2026-11-11T14:12:22+00:00",
-      "fetched": "2026-11-11T23:45:15.514869+00:00"
-    },
-    {
-      "id": "7de424a1fb7dde83",
-      "title": "How to Buy Your Next Rental With Seller Financing (No Bank Needed)",
-      "link": "https://www.biggerpockets.com/blog/rookie-795",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "You could buy your next rental without a bank on terms you help write. That’s the power of seller financing, and it often opens up when high rates leave sellers [ ]",
-      "published": "2026-11-11T12:00:50+00:00",
-      "fetched": "2026-11-12T04:30:25.021405+00:00"
-    },
-    {
-      "id": "d8b833677010da3b",
-      "title": "Ramit Sethi: I Rent, Spend What I Want, and Still Got Rich.",
-      "link": "https://www.biggerpockets.com/blog/real-estate-1355",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Ramit Sethi did everything the financial “experts” said not to: he rented instead of buying, upgraded to new, expensive cars, spent plenty on luxury vacations, and still made millions in [ ]",
-      "published": "2026-11-11T12:00:35+00:00",
-      "fetched": "2026-11-11T13:01:31.318341+00:00"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-19T04:41:14.403939+00:00",
+  "updated": "2026-11-19T14:45:53.346676+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "12d2e7f6386ef848",
+      "title": "Study reveals data centers’ long-distance damage to air quality",
+      "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
+      "published": "2026-11-19T14:00:00+00:00",
+      "fetched": "2026-11-19T14:45:52.728768+00:00"
+    },
+    {
+      "id": "d21345985d4b1ce9",
+      "title": "The Amazing Inventions of Ancient Greece: From Plato’s Alarm Clock to Ancient Flamethrowers",
+      "link": "https://www.openculture.com/2026/11/the-amazing-inventions-of-ancient-greece.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "“It’s a sunny morning in ancient Greece. Students have started gathering in the Academy, but their famous teacher Plato is nowhere to be seen.” The great philosopher has, it seems, “overslept and missed his own lecture.” The sun and the sound of early-rising animals may have failed Plato that day, as the story goes, but [ ]",
+      "published": "2026-11-19T10:00:02+00:00",
+      "fetched": "2026-11-19T14:45:53.346418+00:00"
+    },
+    {
+      "id": "b27d3dda27625752",
+      "title": "The Psychedelic Animated Video for Kraftwerk’s “Autobahn” (1979)",
+      "link": "https://www.openculture.com/2026/11/the-psychedelic-animated-video-for-kraftwerks-autobahn.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Ah, yes, “Autobahn.” From the moment the door slams and the ignition starts, prog rockers and pre-new wavers know a journey is afoot. Though Kraftwerk had already made three albums, and the band members still looked like well-meaning, bookish hippies, 1974’s “Autobahn” is considered Year Zero for the denizens of the Electric Café, the four [ ]",
+      "published": "2026-11-19T09:00:10+00:00",
+      "fetched": "2026-11-19T14:45:53.346477+00:00"
+    },
+    {
+      "id": "56c8111fbff10f8c",
+      "title": "Confirmed: Numbers tell, but language sells",
+      "link": "https://news.mit.edu/2026/confirmed-numbers-tell-language-sells-1119",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "When people use statistics to persuade others, they are more likely to summarize the data in words — and it works, researchers say.",
+      "published": "2026-11-19T05:00:00+00:00",
+      "fetched": "2026-11-19T14:45:52.728807+00:00"
+    },
     {
       "id": "3050313f52e8ebcc",
       "title": "This featherweight, flying robot carries its own sensors and computers",
@@ -1462,46 +1502,6 @@
       "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
       "published": "2026-10-15T13:45:00+00:00",
       "fetched": "2026-10-15T15:50:04.165889+00:00"
-    },
-    {
-      "id": "5538e9db4bb95c80",
-      "title": "The Megaprojects That Even the Ancient Romans Couldn’t Pull Off: Rerouting the Tiber, Digging a Canal, and More",
-      "link": "https://www.openculture.com/2026/10/the-megaprojects-even-the-ancient-romans-couldnt-pull-off.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Some would call the United States of America the mightiest empire the world has ever known. Yet over the past half-century or so, it has shown a strange inability to build domestic infrastructure, at least at the efficiency or on the scale seen elsewhere in the world. (This will not come as news to American [ ]",
-      "published": "2026-10-15T09:00:05+00:00",
-      "fetched": "2026-10-15T10:25:50.218407+00:00"
-    },
-    {
-      "id": "f9eedb17c5c63a5d",
-      "title": "Watch “The Midnight Parasites,” a Surreal Japanese Animation Set in the World of Hieronymus Bosch’s The Garden of Earthly Delights (1972)",
-      "link": "https://www.openculture.com/2026/10/a-surreal-japanese-animation-set-in-the-world-of-hieronymus-boschs-the-garden-of-earthly-delights.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Hieronymus Bosch’s bizarre paintings might have looked perfectly ordinary to his contemporaries, argues Stanley Meisler in “The World of Bosch.” Modern viewers may find this very hard to believe. We approach Bosch through layers of Freudian interpretation and Surrealist appreciation. We cannot help “regarding the scores of bizarre monsters”—allegories for sins and punishments far more [ ]",
-      "published": "2026-10-15T08:00:54+00:00",
-      "fetched": "2026-10-15T10:25:50.218477+00:00"
-    },
-    {
-      "id": "957ce462fb36161d",
-      "title": "Q&A: The “collision” between AI, your brain, and society",
-      "link": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
-      "published": "2026-10-15T04:00:00+00:00",
-      "fetched": "2026-10-15T10:25:48.823933+00:00"
-    },
-    {
-      "id": "7f68c92bb38c5dda",
-      "title": "MIT remembers Thomas Rose, a brilliant researcher and generous colleague",
-      "link": "https://news.mit.edu/2026/mit-remembers-thomas-rose-1014",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Faculty, students, staff, family, and friends gathered to remember the assistant professor and archaeometallurgist who died last month.",
-      "published": "2026-10-14T18:30:00+00:00",
-      "fetched": "2026-10-14T21:01:32.729785+00:00"
     }
   ]
 }
