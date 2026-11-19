@@ -1,8 +1,48 @@
 {
   "category": "education",
-  "updated": "2026-11-19T14:45:53.346676+00:00",
+  "updated": "2026-11-19T23:56:45.747728+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "f63cbf03bc4ca4f7",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+      "published": "2026-11-19T22:15:00+00:00",
+      "fetched": "2026-11-19T23:56:44.970586+00:00"
+    },
+    {
+      "id": "cf33dbecad88affc",
+      "title": "Ultrasound imaging without the gel",
+      "link": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
+      "published": "2026-11-19T19:00:00+00:00",
+      "fetched": "2026-11-19T23:56:44.970619+00:00"
+    },
+    {
+      "id": "11a85ab66754e802",
+      "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
+      "link": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
+      "published": "2026-11-19T17:00:00+00:00",
+      "fetched": "2026-11-19T23:56:44.970650+00:00"
+    },
+    {
+      "id": "8a2e7f9ed8582467",
+      "title": "If tiny “primordial” black holes exist, here’s how we might find them",
+      "link": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
+      "published": "2026-11-19T15:00:00+00:00",
+      "fetched": "2026-11-19T23:56:44.970683+00:00"
+    },
     {
       "id": "12d2e7f6386ef848",
       "title": "Study reveals data centers’ long-distance damage to air quality",
@@ -1462,46 +1502,6 @@
       "summary": "Over the last decade, the vice chancellor has refocused the Institute’s approach to student life to center on student well-being.",
       "published": "2026-10-15T21:35:00+00:00",
       "fetched": "2026-10-16T01:49:59.846377+00:00"
-    },
-    {
-      "id": "380dbed5737d2321",
-      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-      "published": "2026-10-15T21:00:00+00:00",
-      "fetched": "2026-10-16T01:49:59.846414+00:00"
-    },
-    {
-      "id": "c5479ed8c85328f5",
-      "title": "AI model decodes the language cells use to communicate",
-      "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
-      "published": "2026-10-15T20:50:00+00:00",
-      "fetched": "2026-10-16T01:49:59.846446+00:00"
-    },
-    {
-      "id": "6de4efc3392c9cda",
-      "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
-      "link": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The cliffs don’t always collapse in the runaway process that scientists had expected.",
-      "published": "2026-10-15T18:00:00+00:00",
-      "fetched": "2026-10-15T20:35:33.884280+00:00"
-    },
-    {
-      "id": "ab60854520c6aee6",
-      "title": "Building trust in governments through digital platforms",
-      "link": "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
-      "published": "2026-10-15T13:45:00+00:00",
-      "fetched": "2026-10-15T15:50:04.165889+00:00"
     }
   ]
 }

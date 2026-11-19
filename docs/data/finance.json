@@ -1,8 +1,228 @@
 {
   "category": "finance",
-  "updated": "2026-11-19T14:45:38.654118+00:00",
+  "updated": "2026-11-19T23:56:30.389765+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "9436edaea1642849",
+      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "All 11 sectors of the S P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+      "published": "2026-11-19T23:11:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883672+00:00"
+    },
+    {
+      "id": "debe45e59cf70882",
+      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+      "published": "2026-11-19T22:53:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883717+00:00"
+    },
+    {
+      "id": "75caabdcb845fcaa",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "published": "2026-11-19T22:41:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883749+00:00"
+    },
+    {
+      "id": "13cf54940d7441f5",
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "published": "2026-11-19T22:15:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883783+00:00"
+    },
+    {
+      "id": "19365195c50b6575",
+      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "All four major U.S. stock indexes are now on pace for their worst week since President Trump’s “liberation day” tariffs of April 2025",
+      "published": "2026-11-19T22:12:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883818+00:00"
+    },
+    {
+      "id": "1141d54b471cb476",
+      "title": "Markets are sending troubling signals about the state of the economy",
+      "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
+      "published": "2026-11-19T21:57:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883850+00:00"
+    },
+    {
+      "id": "7b0a44a14ff75f26",
+      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
+      "published": "2026-11-19T21:45:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883879+00:00"
+    },
+    {
+      "id": "3089500173079b2c",
+      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+      "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+      "published": "2026-11-19T21:27:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883902+00:00"
+    },
+    {
+      "id": "b89d44910861f05d",
+      "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
+      "published": "2026-11-19T21:22:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883956+00:00"
+    },
+    {
+      "id": "7d16698b7e652085",
+      "title": "Why Walmart is making a bigger bet on fast-food delivery",
+      "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
+      "published": "2026-11-19T21:13:00+00:00",
+      "fetched": "2026-11-19T23:56:28.883985+00:00"
+    },
+    {
+      "id": "ed3ce662e114664f",
+      "title": "BREAKING: Fidelity Bank appoints Stanley Amuchie CEO, as Nneka Onyeali-Ikpe retires December 31",
+      "link": "https://nairametrics.com/2026/11/19/fidelity-bank-appoints-stanley-amuchie-ceo-as-nneka-onyeali-ikpe-retires-december-31/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Fidelity Bank Plc has announced that its Managing Director/Chief Executive Officer, Mrs Nneka Onyeali-Ikpe, will retire from the board on December 31, 2026, when her contract tenure ends. The bank named Mr Stanley Chiedoziem Amuchie, currently Executive Director, Chief Operations and Information Officer, as her successor from January 1, 2027. The bank said this in [ ] The post BREAKING: Fidelity Bank appoints Stanley Amuchie CEO, as Nneka Onyeali-Ikpe retires December 31 appeared first on Nairametrics .",
+      "published": "2026-11-19T20:21:30+00:00",
+      "fetched": "2026-11-19T23:56:29.701015+00:00"
+    },
+    {
+      "id": "fc38f41ded01665c",
+      "title": "Africa’s instant payments hit $1.8 trillion, yet 55% of users still rely on cash",
+      "link": "https://nairametrics.com/2026/11/19/africas-instant-payments-hit-1-8-trillion-yet-55-of-users-still-rely-on-cash/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Africa's instant payment systems processed 71.4 billion transactions valued at $1.8 trillion in 2025, nearly three times the volume recorded in 2021, although persistent trust concerns and payment failures continue to discourage wider adoption of digital payments across the continent. The post Africa s instant payments hit $1.8 trillion, yet 55% of users still rely on cash appeared first on Nairametrics .",
+      "published": "2026-11-19T18:57:19+00:00",
+      "fetched": "2026-11-19T23:56:29.701076+00:00"
+    },
+    {
+      "id": "669688e89c70e34c",
+      "title": "NGX stocks extend losing streak as investor wealth falls N27.98 billion",
+      "link": "https://nairametrics.com/2026/11/19/ngx-stocks-extend-losing-streak-as-investor-wealth-falls-n27-98-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Equities trading on the Nigerian Exchange Limited (NGX) closed in negative territory on Thursday, November 19, 2026, with market capitalisation contracting by N27.98 billion, moving down from Wednesday’s close of N161.24 trillion to settle at N161.21 trillion. The post NGX stocks extend losing streak as investor wealth falls N27.98 billion appeared first on Nairametrics .",
+      "published": "2026-11-19T17:49:12+00:00",
+      "fetched": "2026-11-19T23:56:29.701130+00:00"
+    },
+    {
+      "id": "29bb2533d44197b0",
+      "title": "Tinubu targets lower transport costs as Yutong plans CNG bus plant in Nigeria",
+      "link": "https://nairametrics.com/2026/11/19/tinubu-targets-lower-transport-costs-as-yutong-plans-cng-bus-plant-in-nigeria/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu is targeting lower transportation costs for Nigerians as Chinese bus manufacturer Yutong plans to establish a CNG bus assembly plant in Nigeria. The post Tinubu targets lower transport costs as Yutong plans CNG bus plant in Nigeria appeared first on Nairametrics .",
+      "published": "2026-11-19T17:02:51+00:00",
+      "fetched": "2026-11-19T23:56:29.701170+00:00"
+    },
+    {
+      "id": "83131bd1135e3d32",
+      "title": "FCCPC seals Meridian Park premises over failure to deliver fully paid Lagos duplex",
+      "link": "https://nairametrics.com/2026/11/19/fccpc-seals-meridian-park-premises-over-failure-to-deliver-fully-paid-lagos-duplex/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Competition and Consumer Protection Commission (FCCPC) has sealed the Lagos premises of Meridian Park Estate Ltd. over its failure to deliver a fully paid five-bedroom duplex to a subscriber. The post FCCPC seals Meridian Park premises over failure to deliver fully paid Lagos duplex appeared first on Nairametrics .",
+      "published": "2026-11-19T17:00:34+00:00",
+      "fetched": "2026-11-19T23:56:29.701212+00:00"
+    },
+    {
+      "id": "e1e8f49b28806bba",
+      "title": "Kenya picks US consortium to develop $60 billion Mrima Hill critical minerals deposit",
+      "link": "https://nairametrics.com/2026/11/19/kenya-picks-us-consortium-to-develop-60-billion-mrima-hill-critical-minerals-deposit/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Kenya has selected a US-led consortium to develop its $60 billion Mrima Hill critical minerals deposit, marking a major step towards commercialising one of the country's most valuable mineral resources. The post Kenya picks US consortium to develop $60 billion Mrima Hill critical minerals deposit appeared first on Nairametrics .",
+      "published": "2026-11-19T16:44:46+00:00",
+      "fetched": "2026-11-19T23:56:29.701251+00:00"
+    },
+    {
+      "id": "5e88d34b975fa901",
+      "title": "Kuda to cut 40 jobs in second round of 2026 layoffs",
+      "link": "https://nairametrics.com/2026/11/19/kuda-to-cut-40-jobs-in-second-round-of-2026-layoffs/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Kuda, the Nigerian digital bank, is set to cut about 40 jobs across seven countries as it intensifies efforts to reduce operating costs and achieve group profitability by 2027. The post Kuda to cut 40 jobs in second round of 2026 layoffs appeared first on Nairametrics .",
+      "published": "2026-11-19T16:37:11+00:00",
+      "fetched": "2026-11-19T23:56:29.701288+00:00"
+    },
+    {
+      "id": "062d3bf8be9efc4e",
+      "title": "Nigeria gives crypto firms until November 30 to submit tax registration",
+      "link": "https://techcabal.com/2026/11/19/nigeria-gives-crypto-firms-tax-deadline/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria’s tax authority has given cryptocurrency exchanges and other virtual asset service providers until November 30, 2026, to register on its new VASP Tax Portal. Providers must also integrate their systems by December 31 or risk statutory penalties and enforcement measures.",
+      "published": "2026-11-19T16:05:11+00:00",
+      "fetched": "2026-11-19T23:56:30.389554+00:00"
+    },
+    {
+      "id": "456c1468ecf968aa",
+      "title": "Segun Oloketuyi: Meet the banker who turned around Wema and now chairs Chams",
+      "link": "https://nairametrics.com/2026/11/19/segun-oloketuyi-meet-the-banker-who-turned-around-wema-and-now-chairs-chams/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Segun Oloketuyi, the former chief executive who led Wema Bank Plc through a turnaround and launched its digital banking platform, ALAT, became chairman of Chams Holding Company Plc on June 9, 2026. The post Segun Oloketuyi: Meet the banker who turned around Wema and now chairs Chams appeared first on Nairametrics .",
+      "published": "2026-11-19T15:56:10+00:00",
+      "fetched": "2026-11-19T23:56:29.701327+00:00"
+    },
+    {
+      "id": "9b33a07518d17507",
+      "title": "What the new N52,500 minimum pension means for retirees and RSA savers",
+      "link": "https://nairametrics.com/2026/11/19/what-the-new-n52500-minimum-pension-means-for-retirees-and-rsa-savers/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "On Tuesday, 10 November 2026, President Bola Tinubu declared a monthly minimum pension of N52,500 for eligible retirees under the Contributory Pension Scheme. The post What the new N52,500 minimum pension means for retirees and RSA savers appeared first on Nairametrics .",
+      "published": "2026-11-19T15:45:26+00:00",
+      "fetched": "2026-11-19T23:56:29.701363+00:00"
+    },
+    {
+      "id": "d794c23b0fc686c5",
+      "title": "Why CBN’s rate cuts haven’t lowered the real price of credit",
+      "link": "https://nairametrics.com/2026/11/19/why-cbns-rate-cuts-havent-lowered-the-real-price-of-credit/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Over the past year, the Central Bank of Nigeria brought its policy rate down from 27% to 23%. Over the same year, the rate Nigerian banks charge their riskiest borrowers rose from 29.84% to 32.62%. Policy fell by four points.",
+      "published": "2026-11-19T15:27:18+00:00",
+      "fetched": "2026-11-19T23:56:29.701422+00:00"
+    },
+    {
+      "id": "6eac9e72b834f641",
+      "title": "Kuda cuts jobs for second time in 2026 as it targets 2027 profitability",
+      "link": "https://techcabal.com/2026/11/19/kuda-cut-jobs-again/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Kuda, the Nigerian digital bank, is cutting jobs for the second time this year. This time, it is cutting 40 jobs, as it pursues group profitability.",
+      "published": "2026-11-19T15:02:08+00:00",
+      "fetched": "2026-11-19T23:56:30.389593+00:00"
+    },
     {
       "id": "a281c87fd7c5a31c",
       "title": "Nigeria accounts for 35% of fraud networks detected across Africa",
@@ -1282,226 +1502,6 @@
       "summary": "Sunbeth Treenuts and Sesame Limited has completed the acquisition of UAC of Nigeria Plc’s 73.29% stake in Livestock Feeds Plc in an all-cash transaction valued at N19.5 billion. The post Sunbeth completes N19.5 billion acquisition of UAC’s 73.29% stake in Livestock Feeds, reconstitutes Board appeared first on Nairametrics .",
       "published": "2026-11-17T13:24:07+00:00",
       "fetched": "2026-11-17T14:58:23.656057+00:00"
-    },
-    {
-      "id": "fcdec7eb80534436",
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "published": "2026-11-17T13:15:00+00:00",
-      "fetched": "2026-11-17T14:58:23.037670+00:00"
-    },
-    {
-      "id": "35f516dd72af1612",
-      "title": "The statistically bigger Nigerian economy and the fiscal reality",
-      "link": "https://nairametrics.com/2026/11/17/the-statistically-bigger-nigerian-economy-and-the-fiscal-reality/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "At twenty past six on a Tuesday morning in Ikotun, Lagos, Folasade Adeyemi unlocks a kiosk roughly the size of a wardrobe and begins the day's accounting. The post The statistically bigger Nigerian economy and the fiscal reality appeared first on Nairametrics .",
-      "published": "2026-11-17T13:03:55+00:00",
-      "fetched": "2026-11-17T14:58:23.656091+00:00"
-    },
-    {
-      "id": "9abfe2379fe02352",
-      "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
-      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
-      "published": "2026-11-17T12:46:00+00:00",
-      "fetched": "2026-11-17T14:58:23.037700+00:00"
-    },
-    {
-      "id": "4797583ae2688e3d",
-      "title": "Nigerian Breweries’ operations contributed N1.6 trillion to Nigeria’s GDP in 2025 – MD/CEO",
-      "link": "https://nairametrics.com/2026/11/17/nigerian-breweries-operations-contributed-n1-6-trillion-to-nigerias-gdp-in-2025-md-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigerian Breweries Plc says its operations contributed an estimated N1.6 trillion to Nigeria’s Gross Domestic Product (GDP) in 2025, highlighting its economic footprint across manufacturing, agriculture, distribution and other sectors. The post Nigerian Breweries operations contributed N1.6 trillion to Nigeria s GDP in 2025 MD/CEO appeared first on Nairametrics .",
-      "published": "2026-11-17T12:44:39+00:00",
-      "fetched": "2026-11-17T14:58:23.656145+00:00"
-    },
-    {
-      "id": "5173a4f8d338d701",
-      "title": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
-      "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Investors are shifting their overweight positioning away from megacap tech and getting less bearish on bonds. Yet they still maintain exceedingly low cash positions as global growth forecasts are bullish.",
-      "published": "2026-11-17T12:28:00+00:00",
-      "fetched": "2026-11-17T14:58:23.037734+00:00"
-    },
-    {
-      "id": "81a57bfc633aca37",
-      "title": "NDLEA busts international cocaine syndicate, arrests eight in Lagos, Kano",
-      "link": "https://nairametrics.com/2026/11/17/ndlea-busts-international-cocaine-syndicate-arrests-eight-in-lagos-kano/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The National Drug Law Enforcement Agency (NDLEA) has arrested eight suspected members of an international cocaine trafficking syndicate and intercepted 13.795 kilograms of cocaine being moved through Lagos and Kano. The post NDLEA busts international cocaine syndicate, arrests eight in Lagos, Kano appeared first on Nairametrics .",
-      "published": "2026-11-17T12:27:59+00:00",
-      "fetched": "2026-11-17T14:58:23.656183+00:00"
-    },
-    {
-      "id": "e57627b196477dee",
-      "title": "Can Nvidia sell investors on a future without Jensen Huang?",
-      "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee?",
-      "published": "2026-11-17T12:27:00+00:00",
-      "fetched": "2026-11-17T14:58:23.037767+00:00"
-    },
-    {
-      "id": "01f13033ff3949df",
-      "title": "Nigerian stocks must break 255,000-point barrier to sustain bullish run",
-      "link": "https://nairametrics.com/2026/11/17/nigerian-stocks-must-break-255000-point-barrier-to-sustain-bullish-run/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The NGX-ASI appears to be entering a healthy consolidation phase after retesting its early-November all-time high of about 255.2K points. The post Nigerian stocks must break 255,000-point barrier to sustain bullish run appeared first on Nairametrics .",
-      "published": "2026-11-17T11:35:08+00:00",
-      "fetched": "2026-11-17T14:58:23.656215+00:00"
-    },
-    {
-      "id": "9db518d4214f1bcb",
-      "title": "I judged ten startups in Abidjan. Too few women got to make their case.",
-      "link": "https://techcabal.com/2026/11/17/francophone-weekly-by-techcabal-048/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "From AI that monitors livestock without internet access to drones that help farmers use fewer inputs, Ivorian startups brought field results to the jury. A woman-led startup took the top prize, but few women got to make their case.",
-      "published": "2026-11-17T11:27:23+00:00",
-      "fetched": "2026-11-17T14:58:24.293610+00:00"
-    },
-    {
-      "id": "213b637c1da7d563",
-      "title": "These are the most profitable banks in Nigeria following 9M 2026 release",
-      "link": "https://nairametrics.com/2026/11/17/these-are-the-most-profitable-banks-in-nigeria-following-9m-2026-release/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's banking sector continued to post strong mixed earnings performance in the first nine months of 2026, while some banks benefited from balance sheet expansion, improved non-interest income, and stronger asset growth, others recorded declines in earnings despite maintaining sizeable asset bases and market valuations. The post These are the most profitable banks in Nigeria following 9M 2026 release appeared first on Nairametrics .",
-      "published": "2026-11-17T11:23:55+00:00",
-      "fetched": "2026-11-17T14:58:23.656259+00:00"
-    },
-    {
-      "id": "02c9804a454e947c",
-      "title": "Stablecoins promised to fix cross-border payments. Fragmentation is getting in the way.",
-      "link": "https://techcabal.com/2026/11/17/fragmentation-hurts-stablecoins-africa/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Stablecoins move digital dollars in seconds. Kenya’s BitLipa explains why scarce local currency and fragmented networks still make cross-border payouts costly.",
-      "published": "2026-11-17T10:45:53+00:00",
-      "fetched": "2026-11-17T14:58:24.293644+00:00"
-    },
-    {
-      "id": "b1de258411835e73",
-      "title": "Africa’s 20 biggest startup collapses raised $923 million, but only $5 million is documented as returned",
-      "link": "https://nairametrics.com/2026/11/17/africas-20-biggest-startup-collapses-raised-923-million-but-only-5-million-is-documented-as-returned/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The first published report by Midlo Research Institute has ranked the 20 largest verifiable startup collapses in Kenya, Nigeria and Ghana, finding that the companies raised about $923 million in total while documented returns to investors came to just $5.0 million, or 0.5%. The post Africa’s 20 biggest startup collapses raised $923 million, but only $5 million is documented as returned appeared first on Nairametrics .",
-      "published": "2026-11-17T09:59:50+00:00",
-      "fetched": "2026-11-17T14:58:23.656313+00:00"
-    },
-    {
-      "id": "821936cbcdaf4ac3",
-      "title": "Telkom returns to growth as MTN takeover talks put its future in focus",
-      "link": "https://techcabal.com/2026/11/17/telkom-growth-mtn-takeover-talks/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Telkom’s revenue, earnings and cash flow improved in the first half of its 2027 financial year as MTN explored a potential acquisition of the telecommunications group.",
-      "published": "2026-11-17T08:55:32+00:00",
-      "fetched": "2026-11-17T14:58:24.293677+00:00"
-    },
-    {
-      "id": "6c3a955fd802ab03",
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-      "published": "2026-11-17T08:52:45+00:00",
-      "fetched": "2026-11-17T14:58:23.337005+00:00"
-    },
-    {
-      "id": "809f69b700724626",
-      "title": "Billionaire Tony Elumelu adds N98 billion stake in Seplat",
-      "link": "https://nairametrics.com/2026/11/17/billionaire-tony-elumelu-adds-n98-billion-stake-in-seplat/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Heirs Energies, the energy investment company of Tony Elumelu, has acquired an additional 5,888,341 shares in Seplat Energy Plc at a cost of approximately N98 billion. The acquisition represents a further 1% stake in the company, bringing the total shareholding of the Heirs Holdings Group in Seplat to 22.05%. The Group’s total holding in Seplat [ ] The post Billionaire Tony Elumelu adds N98 billion stake in Seplat appeared first on Nairametrics .",
-      "published": "2026-11-17T08:48:29+00:00",
-      "fetched": "2026-11-17T14:58:23.656368+00:00"
-    },
-    {
-      "id": "4540bbb00a2a723f",
-      "title": "How little-known agro stock Zichis surged over 700%, crashed, and attracted a major investor",
-      "link": "https://nairametrics.com/2026/11/17/how-little-known-agro-stock-zichis-surged-over-700-crashed-and-attracted-a-major-investor/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "When Zichis Agro-Allied Industries Plc joined the Nigerian Exchange in January 2026, it was a relatively obscure agricultural company valued at just N1.09 billion. The post How little-known agro stock Zichis surged over 700%, crashed, and attracted a major investor appeared first on Nairametrics .",
-      "published": "2026-11-17T08:47:52+00:00",
-      "fetched": "2026-11-17T14:58:23.656404+00:00"
-    },
-    {
-      "id": "e5cd86ca3e0e5291",
-      "title": "US proposes 90-day recruitment rule for employers sponsoring foreign workers",
-      "link": "https://nairametrics.com/2026/11/17/us-proposes-90-day-recruitment-rule-for-employers-sponsoring-foreign-workers/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United States Department of Labor has proposed requiring employers to recruit for at least 90 calendar days before applying for permanent labour certification to sponsor foreign workers. The post US proposes 90-day recruitment rule for employers sponsoring foreign workers appeared first on Nairametrics .",
-      "published": "2026-11-17T08:30:29+00:00",
-      "fetched": "2026-11-17T14:58:23.656453+00:00"
-    },
-    {
-      "id": "322a6f8ebb924d90",
-      "title": "UK proposes new removal notice rules for migrants who exhaust appeal rights",
-      "link": "https://nairametrics.com/2026/11/17/uk-proposes-new-removal-notice-rules-for-migrants-who-exhaust-appeal-rights/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The United Kingdom government has proposed new removal notice rules that would allow immigration authorities to notify certain migrants of their intended removal before their appeal rights are exhausted. The post UK proposes new removal notice rules for migrants who exhaust appeal rights appeared first on Nairametrics .",
-      "published": "2026-11-17T08:03:17+00:00",
-      "fetched": "2026-11-17T14:58:23.656490+00:00"
-    },
-    {
-      "id": "12fc4033f5829260",
-      "title": "Popular websites compromised in cyberattack targeting crypto, iPhone users",
-      "link": "https://nairametrics.com/2026/11/17/popular-websites-compromised-in-cyberattack-targeting-crypto-iphone-users/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Some of the world's most-visited websites, including Zoom, HSBC, Equifax, CNN, Salesforce and IKEA, were compromised in a cyberattack aimed at stealing cryptocurrency and infecting iPhones. The post Popular websites compromised in cyberattack targeting crypto, iPhone users appeared first on Nairametrics .",
-      "published": "2026-11-17T07:33:43+00:00",
-      "fetched": "2026-11-17T14:58:23.656524+00:00"
-    },
-    {
-      "id": "e1c090cc41f440b7",
-      "title": "INEC’s voter register cleanup raises questions about staff oversight",
-      "link": "https://techcabal.com/2026/11/17/inec-cut-fake-photos-but-not-the-problem/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "INEC has removed AI-generated photographs from Nigeria’s voter register and flagged 54 registration personnel over irregularities. But as the 2027 elections approach, questions remain about how the images got in, whether internal safeguards failed and what the commission is doing to prevent a repeat.",
-      "published": "2026-11-17T06:56:29+00:00",
-      "fetched": "2026-11-17T14:58:24.293721+00:00"
-    },
-    {
-      "id": "9836cdd1e247b461",
-      "title": "Dangote reveals his businesses are spending N3.3 trillion on road infrastructure in Nigeria",
-      "link": "https://nairametrics.com/2026/11/17/dangote-reveals-his-businesses-are-spending-n3-3-trillion-on-road-infrastructure-in-nigeria/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Businesses under the Dangote Group are spending N3.3 trillion ($2.2 billion) on road infrastructure in Nigeria to improve the movement of goods across the country. The post Dangote reveals his businesses are spending N3.3 trillion on road infrastructure in Nigeria appeared first on Nairametrics .",
-      "published": "2026-11-17T06:49:58+00:00",
-      "fetched": "2026-11-17T14:58:23.656558+00:00"
-    },
-    {
-      "id": "73c5c64c7c4af344",
-      "title": "Election spending, festive demand threaten Naira as parallel-official FX gap widens",
-      "link": "https://nairametrics.com/2026/11/17/election-spending-festive-demand-threaten-naira-as-parallel-official-fx-gap-widens/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria’s parallel foreign exchange market is facing renewed demand pressure from festive-season spending and early political activities ahead of the 2027 general elections, widening the gap between the official and informal exchange rates despite efforts by the Central Bank of Nigeria (CBN) to improve dollar liquidity. The post Election spending, festive demand threaten Naira as parallel-official FX gap widens appeared first on Nairametrics .",
-      "published": "2026-11-17T06:40:57+00:00",
-      "fetched": "2026-11-17T14:58:23.656610+00:00"
     }
   ]
 }
