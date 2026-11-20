@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-11-20T14:27:21.510426+00:00",
+  "updated": "2026-11-20T23:26:01.641162+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "8791460422179d02",
+      "title": "A tiny superconducting sandwich could help computers use less energy",
+      "link": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and signal control for more energy-efficient computing.",
+      "published": "2026-11-20T21:00:00+00:00",
+      "fetched": "2026-11-20T23:26:01.006456+00:00"
+    },
+    {
+      "id": "a328ecaed91c1902",
+      "title": "New approach enables physically consistent AI models of chaotic systems",
+      "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+      "published": "2026-11-20T20:00:00+00:00",
+      "fetched": "2026-11-20T23:26:01.006481+00:00"
+    },
+    {
+      "id": "7f7333d95472ef91",
+      "title": "Following the “mathocalypse,” mathematicians consider the future",
+      "link": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
+      "published": "2026-11-20T15:20:00+00:00",
+      "fetched": "2026-11-20T23:26:01.006503+00:00"
+    },
     {
       "id": "c48172a046594405",
       "title": "What Makes Notre-Dame Cathedral a Masterpiece of Gothic Architecture",
@@ -272,6 +302,16 @@
       "summary": "A double major in biological engineering and political science, Doss will begin postgraduate studies at Oxford University next fall.",
       "published": "2026-11-15T02:00:00+00:00",
       "fetched": "2026-11-15T03:21:01.418325+00:00"
+    },
+    {
+      "id": "3726a1f1e65198db",
+      "title": "MIT in the media: At STAT Summit, U.S. science leaders defend role of the American university",
+      "link": "https://news.mit.edu/2026/mit-media-stat-summit-us-science-leaders-defend-role-american-university",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "At the 2026 STAT Summit , held in Boston on Oct. 14 and 15, President Sally Kornbluth and Holden Thorp, editor-in-chief of the Science family of journals, participated in the event’s opening panel discussion, “Defending the Endless Frontier,” moderated by STAT reporter Anil Oza. In the above video excerpt, President Kornbluth and Thorp underscore how research institutions such as MIT are uplifting curiosity-driven discovery at a time of uncertainty.",
+      "published": "2026-11-13T21:30:00+00:00",
+      "fetched": "2026-11-20T23:26:01.006762+00:00"
     },
     {
       "id": "427cc508f7f5c242",
@@ -1462,46 +1502,6 @@
       "summary": "In the Halloween season, one American writer comes to mind more often than any other: Edgar Allan Poe. That owes in large part to his famously macabre tales like “The Tell-Tale Heart,” “The Cask of Amontillado,” and “The Masque of the Red Death,” written though they may have been with barely concealed contempt for their [ ]",
       "published": "2026-10-19T09:00:35+00:00",
       "fetched": "2026-10-19T11:21:24.135619+00:00"
-    },
-    {
-      "id": "471df30b2a637a48",
-      "title": "When a Cat Co-Authored a Paper in a Leading Physics Journal (1975)",
-      "link": "https://www.openculture.com/2026/10/when-a-cat-co-authored-a-paper-in-a-leading-physics-journal.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Back in 1975, Jack H. Hetherington, a physics professor at Michigan State University, wrote a research paper on low–temperature physics for the respected scientific journal Physical Review Letters. Before sending it off, Hetherington asked a colleague to review the paper, just to make sure it covered the right bases.",
-      "published": "2026-10-19T08:00:09+00:00",
-      "fetched": "2026-10-19T11:21:24.135687+00:00"
-    },
-    {
-      "id": "04f20faf7b061bd5",
-      "title": "Giving AI a “crystal clear” view of the materials world",
-      "link": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
-      "published": "2026-10-18T04:00:00+00:00",
-      "fetched": "2026-10-18T09:59:07.178593+00:00"
-    },
-    {
-      "id": "d642091b1cb44d4b",
-      "title": "Fostering community amid Kendall Square’s innovation",
-      "link": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
-      "published": "2026-10-16T16:00:00+00:00",
-      "fetched": "2026-10-16T20:09:00.461974+00:00"
-    },
-    {
-      "id": "13d2ec0a172c209c",
-      "title": "How Vincent van Gogh’s Sister-in-Law Worked Tirelessly to Make Him Famous",
-      "link": "https://www.openculture.com/2026/10/how-vincent-van-goghs-sister-in-law-worked-tirelessly-to-make-him-famous.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "No artist, no matter how solitary by nature, becomes a cultural phenomenon alone. That’s even true of such an isolated figure as Vincent van Gogh, whose death in obscurity at the age of 37 left open the question of who, if anyone, would vouchsafe his paintings to posterity. The support of the artist’s younger brother [ ]",
-      "published": "2026-10-16T08:00:05+00:00",
-      "fetched": "2026-10-16T10:13:07.224124+00:00"
     }
   ]
 }
