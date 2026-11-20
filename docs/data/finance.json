@@ -1,8 +1,38 @@
 {
   "category": "finance",
-  "updated": "2026-11-19T23:56:30.389765+00:00",
+  "updated": "2026-11-20T04:54:11.526185+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "febc8401d2758642",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "published": "2026-11-20T01:30:00+00:00",
+      "fetched": "2026-11-20T04:54:10.825243+00:00"
+    },
+    {
+      "id": "5c254aed5ca0e625",
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "published": "2026-11-20T01:22:00+00:00",
+      "fetched": "2026-11-20T04:54:10.825284+00:00"
+    },
+    {
+      "id": "8c98bf93dacaccd8",
+      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+      "published": "2026-11-19T23:56:00+00:00",
+      "fetched": "2026-11-20T04:54:10.825315+00:00"
+    },
     {
       "id": "9436edaea1642849",
       "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
@@ -1472,36 +1502,6 @@
       "summary": "These are the money conversation to have before the wedding, and the paperwork to do after.",
       "published": "2026-11-17T14:10:00+00:00",
       "fetched": "2026-11-17T14:58:23.037629+00:00"
-    },
-    {
-      "id": "f4de8976441835c9",
-      "title": "From tonal markings to XML files: How Ubini is teaching machines to speak Edo language",
-      "link": "https://techcabal.com/2026/11/17/ubini-teaching-machines-to-understand-edo/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "When Stephanie Ohumu’s grandmother died in 2023, she took with her recipes the family could no longer recreate, words Ohumu relied on her to explain, and cultural knowledge that had never been written down. “It used to be that if I encountered Edo words in the wild, I d text my grandma or call her and [ ]",
-      "published": "2026-11-17T13:44:59+00:00",
-      "fetched": "2026-11-17T14:58:24.293564+00:00"
-    },
-    {
-      "id": "a0f66fdc07253040",
-      "title": "Optimus Bank posts 104% H1 PBT growth, Secures Agusto rating upgrade",
-      "link": "https://nairametrics.com/2026/11/17/optimus-bank-posts-104-h1-pbt-growth-secures-agusto-rating-upgrade/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Optimus Bank Limited, a dynamic Nigerian financial institution committed to redefining the banking experience, has announced its audited financial results for the Half year ended June 30, 2026. The post Optimus Bank posts 104% H1 PBT growth, Secures Agusto rating upgrade appeared first on Nairametrics .",
-      "published": "2026-11-17T13:39:10+00:00",
-      "fetched": "2026-11-17T14:58:23.656001+00:00"
-    },
-    {
-      "id": "dbe612c445ba782a",
-      "title": "Sunbeth completes N19.5 billion acquisition of UAC’s 73.29% stake in Livestock Feeds, reconstitutes Board",
-      "link": "https://nairametrics.com/2026/11/17/sunbeth-completes-n19-5-billion-acquisition-of-uacs-73-29-stake-in-livestock-feeds-reconstitutes-board/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Sunbeth Treenuts and Sesame Limited has completed the acquisition of UAC of Nigeria Plc’s 73.29% stake in Livestock Feeds Plc in an all-cash transaction valued at N19.5 billion. The post Sunbeth completes N19.5 billion acquisition of UAC’s 73.29% stake in Livestock Feeds, reconstitutes Board appeared first on Nairametrics .",
-      "published": "2026-11-17T13:24:07+00:00",
-      "fetched": "2026-11-17T14:58:23.656057+00:00"
     }
   ]
 }
