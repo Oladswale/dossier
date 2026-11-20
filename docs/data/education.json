@@ -1,8 +1,18 @@
 {
   "category": "education",
-  "updated": "2026-11-20T04:54:15.552475+00:00",
+  "updated": "2026-11-20T14:27:21.510426+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "c48172a046594405",
+      "title": "What Makes Notre-Dame Cathedral a Masterpiece of Gothic Architecture",
+      "link": "https://www.openculture.com/2026/11/what-makes-notre-dame-cathedral-a-masterpiece-of-gothic-architecture.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Most of us remember where we were when we heard that Notre-Dame had burned down. And even upon learning that the most famous of all French cathedrals had been badly damaged rather than completely destroyed, it still felt as if something irreplaceable had been lost. It made no difference whether we’d actually been to the [ ]",
+      "published": "2026-11-20T09:00:05+00:00",
+      "fetched": "2026-11-20T14:27:21.510240+00:00"
+    },
     {
       "id": "f63cbf03bc4ca4f7",
       "title": "AI helps researchers investigate how thousands of medical studies share code",
@@ -1492,16 +1502,6 @@
       "summary": "No artist, no matter how solitary by nature, becomes a cultural phenomenon alone. That’s even true of such an isolated figure as Vincent van Gogh, whose death in obscurity at the age of 37 left open the question of who, if anyone, would vouchsafe his paintings to posterity. The support of the artist’s younger brother [ ]",
       "published": "2026-10-16T08:00:05+00:00",
       "fetched": "2026-10-16T10:13:07.224124+00:00"
-    },
-    {
-      "id": "9324a06244e76922",
-      "title": "Suzy Nelson transformed student life at MIT",
-      "link": "https://news.mit.edu/2026/suzy-nelson-transformed-student-life-at-mit-1015",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Over the last decade, the vice chancellor has refocused the Institute’s approach to student life to center on student well-being.",
-      "published": "2026-10-15T21:35:00+00:00",
-      "fetched": "2026-10-16T01:49:59.846377+00:00"
     }
   ]
 }
