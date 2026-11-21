@@ -1,8 +1,38 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-21T13:46:41.272244+00:00",
+  "updated": "2026-11-21T22:29:35.421667+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7a7d79f84452c707",
+      "title": "The Latest Trend in Luxury Residential Amenities? Resident-Only Salons Offering Glam on Demand",
+      "link": "https://www.realtor.com/news/trends/luxury-residential-buildings-offer-resident-only-salons/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Real estate developers have long courted luxury residents with wellness and recreational amenities. Glam on demand is their latest bet.",
+      "published": "2026-11-21T16:38:00+00:00",
+      "fetched": "2026-11-21T22:29:35.421100+00:00"
+    },
+    {
+      "id": "b6fb42d9680c4080",
+      "title": "A Massive 8,300-Square-Foot Log Mansion on 22 Acres in Washington Drops Below $3 Million After a Price Cut",
+      "link": "https://www.realtor.com/news/unique-homes/greenacres-wa-luxury-log-home-22-acres-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tour a massive 8,300-square-foot hand-hewn log home on 22 wooded acres in Greenacres, WA, now listed at $2.875M after a $320,000 price cut.",
+      "published": "2026-11-21T16:04:00+00:00",
+      "fetched": "2026-11-21T22:29:35.421139+00:00"
+    },
+    {
+      "id": "7fcad52fde3d22ea",
+      "title": "Inside OldWalls: A Famous Sculptor’s $4.15 Million Stone Compound 55 Miles From New York City",
+      "link": "https://www.realtor.com/news/unique-homes/oldwalls-chester-beach-brewster-ny-historic-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Tour OldWalls, sculptor Chester Beach’s 1917 Brewster, NY estate on 10.5 acres with a guest studio, cottage, and horse barn.",
+      "published": "2026-11-21T14:17:00+00:00",
+      "fetched": "2026-11-21T22:29:35.421174+00:00"
+    },
     {
       "id": "1d32852f5825ffca",
       "title": "How an Artsy Pennsylvania River Town Became an Architectural Powerhouse Where Old Meets New",
@@ -1472,36 +1502,6 @@
       "summary": "Mortgage rates fell again for the fourth time in two months. But how long will the decline last—and is it enough for buyers to start buying?",
       "published": "2026-11-13T14:58:00+00:00",
       "fetched": "2026-11-13T22:57:01.867294+00:00"
-    },
-    {
-      "id": "73623fc12638e852",
-      "title": "Inside the $3.25 Million Pasadena Glass Pavilion That’s Still Studied in Architecture Classes Today",
-      "link": "https://www.realtor.com/news/unique-homes/craig-ellwood-kubly-house-pasadena-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Case Study architect Craig Ellwood’s restored 1965 Pasadena glass pavilion, the iconic Kubly House, hits the market for $3.25 million.",
-      "published": "2026-11-13T12:30:00+00:00",
-      "fetched": "2026-11-13T13:29:30.122425+00:00"
-    },
-    {
-      "id": "188eadbdc8c6eedc",
-      "title": "Why One Better Rental Beats Several Cheap Ones (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/rookie-796",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Is a cheap rental really the safest way to start, or does it just trade one risk for another? Plenty of new investors are asking the same question, especially when [ ]",
-      "published": "2026-11-13T12:00:43+00:00",
-      "fetched": "2026-11-16T14:05:04.806319+00:00"
-    },
-    {
-      "id": "43052e569ed9dd00",
-      "title": "Why One Better Rental Beats Several Cheap Ones (Rookie Reply)",
-      "link": "https://www.biggerpockets.com/blog/why-one-better-rental-beats-several-cheap-ones-rookie-reply",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "Is a cheap rental really the safest way to start, or does it just trade one risk for another? Plenty of new investors are asking the same question, especially when [ ]",
-      "published": "2026-11-13T12:00:43+00:00",
-      "fetched": "2026-11-16T03:22:35.075594+00:00"
     }
   ]
 }
