@@ -1,8 +1,18 @@
 {
   "category": "finance",
-  "updated": "2026-11-20T23:25:47.214303+00:00",
+  "updated": "2026-11-21T04:25:24.503812+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "574d1bf7e91b0158",
+      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+      "published": "2026-11-21T03:20:00+00:00",
+      "fetched": "2026-11-21T04:25:23.211533+00:00"
+    },
     {
       "id": "9161259617b9a529",
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
@@ -1492,16 +1502,6 @@
       "summary": "Big Tech is inking deals with traditional power companies, but investors need to look beyond the headlines.",
       "published": "2026-11-18T14:06:00+00:00",
       "fetched": "2026-11-18T14:39:36.899790+00:00"
-    },
-    {
-      "id": "b839b3fc7e1642bb",
-      "title": "Medicare Part B premiums rise due to higher healthcare spending",
-      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
-      "published": "2026-11-18T13:42:00+00:00",
-      "fetched": "2026-11-18T14:39:36.899811+00:00"
     }
   ]
 }
