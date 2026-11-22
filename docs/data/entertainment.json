@@ -1,8 +1,38 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-21T22:29:34.078300+00:00",
+  "updated": "2026-11-22T03:40:04.112146+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "620888df869bc570",
+      "title": "Jennifer Lopez Teases ‘Monster-in-Law’ Sequel With Jane Fonda: ‘We’re Talking About Maybe Doing Another One’",
+      "link": "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jennifer Lopez and Jane Fonda might reunite for a “Monster-in-Law” follow-up, the singer and actress teased recently. In a clip from Lopez s upcoming appearance on “The Drew Barrymore Show,” she reminisced with the host about past projects, including the 2005 rom-com she starred in with Fonda. “I love this movie so much,” Barrymore said.",
+      "published": "2026-11-22T01:00:57+00:00",
+      "fetched": "2026-11-22T03:40:03.693012+00:00"
+    },
+    {
+      "id": "b8ea30dbd2ca5182",
+      "title": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”‘",
+      "link": "https://variety.com/2026/tv/news/kieran-culkin-succession-spinoff-terrible-idea-1236955146/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Sorry, “Succession” fans — Kieran Culkin is shutting down any possibility of a spinoff once and for all. The actor, currently starring in “The Hunger Games: Sunrise on the Reaping” as a young Caesar Flickerman, joined the “Heart Breakfast” radio show on Friday to discuss the new film, though hosts Amanda Holden and Jamie Theakston [ ]",
+      "published": "2026-11-22T00:52:28+00:00",
+      "fetched": "2026-11-22T03:40:03.693075+00:00"
+    },
+    {
+      "id": "b66b5e8014f9f5d1",
+      "title": "Mahershala Ali Says It ‘Doesn’t Matter’ That He’s Won 2 Oscars Because ‘There Are Not Roles for Me’ in ‘the Vast Majority of Projects’: ‘You’re Like Everybody Else Waiting’",
+      "link": "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Mahershala Ali got candid about the impact — or lack thereof — his two Oscar wins have had on his career in Hollywood while appearing on a recent episode of Carmelo Anthony and Kazeem “Kaz” Famuyide’s “7PM in Brooklyn” podcast. The actor, who took home trophies for best supporting actor for both 2018’s “Greenbook” and [ ]",
+      "published": "2026-11-21T23:40:06+00:00",
+      "fetched": "2026-11-22T03:40:03.693131+00:00"
+    },
     {
       "id": "78bf1f642d122f12",
       "title": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is the End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed-Out Headspace’ While Filming",
@@ -1472,36 +1502,6 @@
       "summary": "Brad Paisley joined the guitarist and actor for “Johnny B. Goode” at Parkinson’s fundraiser",
       "published": "2026-11-18T21:54:58+00:00",
       "fetched": "2026-11-18T23:38:23.695505+00:00"
-    },
-    {
-      "id": "3bde3ee5f8912429",
-      "title": "Mullin Says Skipping LSU Game Amid FAA Crisis Would Have Caused ‘Confusion’",
-      "link": "https://www.rollingstone.com/politics/politics-news/markwayne-mullin-lsu-game-confusion-1235660454/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The DHS secretary took his great nieces to a football game on a federal jet while Americans were stranded at airports",
-      "published": "2026-11-18T21:32:50+00:00",
-      "fetched": "2026-11-18T23:38:23.695532+00:00"
-    },
-    {
-      "id": "9b71cbe645a537e4",
-      "title": "Taylor Swift Is Getting a Museum of Fine Arts Exhibit in Boston",
-      "link": "https://www.rollingstone.com/culture/culture-news/taylor-swift-exhibit-museum-of-fine-arts-boston-music-1235660439/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Starting April 10, fans can see “Taylor Swift: The Eras Collection,” which includes select outfits, sketches, and memorabilia from throughout Swift’s discography",
-      "published": "2026-11-18T21:28:55+00:00",
-      "fetched": "2026-11-18T23:38:23.695562+00:00"
-    },
-    {
-      "id": "437e51da6ef96e5d",
-      "title": "As U.S. Infrastructure Crumbles, ABC’s ‘World News Tonight’ Posts Highest Week-Long Daily Ratings Since COVID",
-      "link": "https://variety.com/2026/tv/news/abc-world-news-tonight-ratings-best-since-covid-1236952295/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "A week after the midterm elections generated tremendous audiences for the network evening newscasts, last week’s unpredictable string of news — including the Microsoft Outlook blackout, followed by the nationwide grounding of air flights — propelled ABC s “World News Tonight” to heights the telecast hasn’t seen in years. The busy news week also included the [ ]",
-      "published": "2026-11-18T21:24:55+00:00",
-      "fetched": "2026-11-18T23:38:23.605103+00:00"
     }
   ]
 }
