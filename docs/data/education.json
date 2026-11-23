@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-11-23T04:14:54.804283+00:00",
+  "updated": "2026-11-23T16:36:46.028164+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "5feac5b39ae854e2",
+      "title": "Behold the Most Detailed Painting in History: The Ghent Altarpiece",
+      "link": "https://www.openculture.com/2026/11/behold-the-most-detailed-painting-in-history-the-ghent-altarpiece.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "These days, if you want to see a particular painting, you can almost certainly pull it up online in seconds. In more and more cases, the resolution of the image will be so high that you can zoom in and in and in: such a level of detail is unavailable in a museum, of course, [ ]",
+      "published": "2026-11-23T10:00:00+00:00",
+      "fetched": "2026-11-23T16:36:46.027917+00:00"
+    },
+    {
+      "id": "cc69e75d3318814c",
+      "title": "How Isaac Newton Lost $3 Million Dollars in the “South Sea Bubble” of 1720: Even Geniuses Can’t Prevail Against the Machinations of the Markets",
+      "link": "https://www.openculture.com/2026/11/how-isaac-newton-lost-3-million-dollars-in-the-south-sea-bubble-of-1720.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "The Aristotelian notion of “man” as a “rational animal” has seen its share of detractors, from the Cynics to Bertrand Russell to nearly the whole of Poststructuralist thought. Leave it up to Oscar Wilde to compress the debate between intellect and passion into a pithy aphorism: “Man is a rational animal who always loses his [ ]",
+      "published": "2026-11-23T09:00:29+00:00",
+      "fetched": "2026-11-23T16:36:46.027980+00:00"
+    },
+    {
+      "id": "ad9449974e17980b",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+      "published": "2026-11-23T05:00:00+00:00",
+      "fetched": "2026-11-23T16:36:45.210351+00:00"
+    },
     {
       "id": "8791460422179d02",
       "title": "A tiny superconducting sandwich could help computers use less energy",
@@ -1472,36 +1502,6 @@
       "summary": "SanaHeal has developed a biologically compatible adhesive that sticks to wet tissues to simplify a variety of surgeries.",
       "published": "2026-10-20T04:00:00+00:00",
       "fetched": "2026-10-20T10:29:56.403053+00:00"
-    },
-    {
-      "id": "8d91e2cab6ae4b55",
-      "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
-      "link": "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS.",
-      "published": "2026-10-19T21:15:00+00:00",
-      "fetched": "2026-10-19T21:46:33.306561+00:00"
-    },
-    {
-      "id": "973ce7a49d96b666",
-      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
-      "published": "2026-10-19T18:20:00+00:00",
-      "fetched": "2026-10-19T21:46:33.306603+00:00"
-    },
-    {
-      "id": "d6236dcdb15309fc",
-      "title": "The Dark Story Behind Edgar Allan Poe’s Most Famous Photograph, Taken Four Days After a Laudanum Overdose",
-      "link": "https://www.openculture.com/2026/10/the-dark-story-behind-edgar-allan-poes-most-famous-photograph.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "In the Halloween season, one American writer comes to mind more often than any other: Edgar Allan Poe. That owes in large part to his famously macabre tales like “The Tell-Tale Heart,” “The Cask of Amontillado,” and “The Masque of the Red Death,” written though they may have been with barely concealed contempt for their [ ]",
-      "published": "2026-10-19T09:00:35+00:00",
-      "fetched": "2026-10-19T11:21:24.135619+00:00"
     }
   ]
 }
