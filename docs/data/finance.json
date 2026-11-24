@@ -1,8 +1,348 @@
 {
   "category": "finance",
-  "updated": "2026-11-24T03:30:40.273121+00:00",
+  "updated": "2026-11-24T16:33:26.030006+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "84262281af206e30",
+      "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
+      "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "The move risks new trade friction, but spares already imported holiday goods.",
+      "published": "2026-11-24T16:24:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818347+00:00"
+    },
+    {
+      "id": "9b0b579e7d740616",
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+      "published": "2026-11-24T16:18:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818406+00:00"
+    },
+    {
+      "id": "2a3eda95e3d769f8",
+      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+      "published": "2026-11-24T16:08:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818457+00:00"
+    },
+    {
+      "id": "68e01670268e8f10",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "published": "2026-11-24T15:30:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818491+00:00"
+    },
+    {
+      "id": "a55e0d5d94da33ff",
+      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
+      "published": "2026-11-24T15:21:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818525+00:00"
+    },
+    {
+      "id": "4751342eb04ecab3",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.",
+      "published": "2026-11-24T15:21:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818578+00:00"
+    },
+    {
+      "id": "ffff5b040cadf790",
+      "title": "MTN Benin’s $215 million plan is running into a good problem with customers’ demand for more data",
+      "link": "https://techcabal.com/2026/11/24/mtn-benin-customers-data/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "A jump in traffic is forcing MTN to spend faster than planned. Getting customers onto 5G will take more than building the network. MTN Benin has a problem that most telecom operators would welcome: people are using its network more, and keeping up is proving expensive.",
+      "published": "2026-11-24T15:13:50+00:00",
+      "fetched": "2026-11-24T16:33:26.029645+00:00"
+    },
+    {
+      "id": "56a424babd4c6b76",
+      "title": "The number of 401(k) millionaires drops as the stock market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "published": "2026-11-24T14:59:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818622+00:00"
+    },
+    {
+      "id": "c4255d76b106966f",
+      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+      "published": "2026-11-24T14:59:00+00:00",
+      "fetched": "2026-11-24T16:33:24.818653+00:00"
+    },
+    {
+      "id": "0c5846a37850d8ba",
+      "title": "LAWMA launches night-time clean-up across Lagos, targets major waste black spots",
+      "link": "https://nairametrics.com/2026/11/24/lawma-launches-night-time-clean-up-across-lagos-targets-major-waste-black-spots/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "LAWMA has launched a night-time clean-up operation across Lagos, targeting major waste black spots as part of efforts to address refuse accumulation ahead of the Christmas and New Year celebrations. The post LAWMA launches night-time clean-up across Lagos, targets major waste black spots appeared first on Nairametrics .",
+      "published": "2026-11-24T14:58:19+00:00",
+      "fetched": "2026-11-24T16:33:25.244998+00:00"
+    },
+    {
+      "id": "0ee32f5d2449936c",
+      "title": "Tinubu seeks approval to cut 2026 budget from ₦68.32 trillion to ₦65.18 trillion",
+      "link": "https://nairametrics.com/2026/11/24/tinubu-seeks-approval-to-cut-2026-budget-from-%e2%82%a668-32-trillion-to-%e2%82%a665-18-trillion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "President Bola Tinubu has asked the House of Representatives to approve a bill seeking to repeal and re-enact the 2026 Appropriation Act, alongside a revised Federal Government Fiscal Framework. The post Tinubu seeks approval to cut 2026 budget from ₦68.32 trillion to ₦65.18 trillion appeared first on Nairametrics .",
+      "published": "2026-11-24T14:20:53+00:00",
+      "fetched": "2026-11-24T16:33:25.245064+00:00"
+    },
+    {
+      "id": "eca44a959a11d51d",
+      "title": "Gold Fields plans $7.5 billion investment in Ghana’s Tarkwa Mine",
+      "link": "https://nairametrics.com/2026/11/24/gold-fields-plans-7-5-billion-investment-in-ghanas-tarkwa-mine/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Gold Fields Ghana Limited is projecting a $7.5 billion capital injection into its Tarkwa Mine, outlining a long-term investment plan to sustain production and improve mining operations. The post Gold Fields plans $7.5 billion investment in Ghana’s Tarkwa Mine appeared first on Nairametrics .",
+      "published": "2026-11-24T14:15:54+00:00",
+      "fetched": "2026-11-24T16:33:25.245115+00:00"
+    },
+    {
+      "id": "87aa50bad41abf9f",
+      "title": "Abia seeks China Harbour Engineering’s partnership to develop proposed seaport",
+      "link": "https://nairametrics.com/2026/11/24/abia-seeks-china-harbour-engineerings-partnership-to-develop-proposed-seaport/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Abia State Government is seeking a long-term partnership with China Harbour Engineering Company Limited (CHEC) to develop the proposed Abia Sea Port City, with the Chinese infrastructure company expected to be involved from feasibility studies through construction and final delivery. The post Abia seeks China Harbour Engineering’s partnership to develop proposed seaport appeared first on Nairametrics .",
+      "published": "2026-11-24T13:54:31+00:00",
+      "fetched": "2026-11-24T16:33:25.245169+00:00"
+    },
+    {
+      "id": "a93fce96a1d6808b",
+      "title": "Anthropic stock falls below $83 IPO price days after record debut",
+      "link": "https://nairametrics.com/2026/11/24/anthropic-stock-falls-below-83-ipo-price-days-after-record-debut/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Anthropic shares fell below their $83 initial public offering (IPO) price in premarket trading on Tuesday, November 24, extending a sharp reversal just days after the artificial intelligence company completed the largest IPO in history. The post Anthropic stock falls below $83 IPO price days after record debut appeared first on Nairametrics .",
+      "published": "2026-11-24T13:35:37+00:00",
+      "fetched": "2026-11-24T16:33:25.245214+00:00"
+    },
+    {
+      "id": "1a085a136af9cd43",
+      "title": "Meta’s privacy scandal leaves Kenya chasing the wrong defendants",
+      "link": "https://techcabal.com/2026/11/24/meta-and-sama-privacy-probe-kenya/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Meta faces a privacy probe in Kenya, but the companies and workers left to answer for its Ray-Ban glasses are already paying the price.",
+      "published": "2026-11-24T13:30:17+00:00",
+      "fetched": "2026-11-24T16:33:26.029688+00:00"
+    },
+    {
+      "id": "cfbc80d2f811e98b",
+      "title": "Inside the social media strategies of Nigeria’s biggest listed companies",
+      "link": "https://nairametrics.com/2026/11/24/inside-the-social-media-strategies-of-nigerias-biggest-listed-companies/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria’s biggest listed companies are increasingly meeting their customers where they spend a significant part of their time: on their smartphones. The post Inside the social media strategies of Nigeria’s biggest listed companies appeared first on Nairametrics .",
+      "published": "2026-11-24T13:28:33+00:00",
+      "fetched": "2026-11-24T16:33:25.245259+00:00"
+    },
+    {
+      "id": "7e06486e2c92facf",
+      "title": "CBN holds interest rate at 23% as MPC cites inflation risks",
+      "link": "https://nairametrics.com/2026/11/24/cbn-retains-mpr-at-23/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria (CBN) has retained the Monetary Policy Rate (MPR) at 23%, following the 308th meeting of the Monetary Policy Committee (MPC) in Abuja. The post CBN holds interest rate at 23% as MPC cites inflation risks appeared first on Nairametrics .",
+      "published": "2026-11-24T13:11:03+00:00",
+      "fetched": "2026-11-24T16:33:25.245298+00:00"
+    },
+    {
+      "id": "6fa0d819b13e4542",
+      "title": "Upstream investment, pipeline security key to Nigeria’s 3 million bpd oil target – Expert",
+      "link": "https://nairametrics.com/2026/11/24/upstream-investment-pipeline-security-key-to-nigerias-3-million-bpd-oil-target-expert/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria could raise crude oil production to three million barrels per day (bpd) by sustaining upstream investment, accelerating oilfield development, improving pipeline security and addressing operational constraints in the petroleum sector, energy expert Oluwaseun Dania has said. The post Upstream investment, pipeline security key to Nigeria’s 3 million bpd oil target – Expert appeared first on Nairametrics .",
+      "published": "2026-11-24T13:08:08+00:00",
+      "fetched": "2026-11-24T16:33:25.245353+00:00"
+    },
+    {
+      "id": "c684040853f92e80",
+      "title": "Liquidity strategy for corporates: NTBs, OMO Bills and Timings.",
+      "link": "https://nairametrics.com/2026/11/24/liquidity-strategy-for-corporates-ntbs-omo-bills-and-timings/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "For corporates, cash in the bank can feel reassuring: it is readily available for day-to-day operations and unexpected needs. But idle cash, meaning surplus funds not needed for immediate obligations, carries a cost. It earns little or nothing while it waits to be used.",
+      "published": "2026-11-24T12:57:15+00:00",
+      "fetched": "2026-11-24T16:33:25.245403+00:00"
+    },
+    {
+      "id": "c9172ffa2051aa44",
+      "title": "Oil prices sink near three-month lows despite Strait of Hormuz risks",
+      "link": "https://nairametrics.com/2026/11/24/oil-prices-sink-near-three-month-lows-despite-strait-of-hormuz-risks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Crude oil prices remained near three-month lows in early trading on Tuesday, with Brent trading below $90 per barrel amid concerns over rising supply and a potential market surplus, despite persistent risks to shipping through the Strait of Hormuz. The post Oil prices sink near three-month lows despite Strait of Hormuz risks appeared first on Nairametrics .",
+      "published": "2026-11-24T12:08:21+00:00",
+      "fetched": "2026-11-24T16:33:25.245445+00:00"
+    },
+    {
+      "id": "dfa7daee142f6ede",
+      "title": "Dangote Refinery IPO: what happens after the offer closes?",
+      "link": "https://nairametrics.com/2026/11/24/dangote-refinery-ipo-what-happens-after-the-offer-closes/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Dangote Refinery IPO closed on Tuesday, 27 October 2026, bringing a major offer for the Nigerian capital market to a close.The offer drew a wide range of investors, from pension funds and asset managers to first-time individual shareholders, and Dangote Petroleum Refinery and Petrochemicals FZE (DPRP) reports applications from 120 countries, including all 54 [ ] The post Dangote Refinery IPO: what happens after the offer closes? appeared first on Nairametrics .",
+      "published": "2026-11-24T12:04:52+00:00",
+      "fetched": "2026-11-24T16:33:25.245493+00:00"
+    },
+    {
+      "id": "8c2afda4dc958da4",
+      "title": "These are the most profitable banks in Nigeria following 9M 2026 release",
+      "link": "https://nairametrics.com/2026/11/24/these-are-the-most-profitable-banks-in-nigeria-following-9m-2026-release/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's banking sector continued to post strong mixed earnings performance in the first nine months of 2026, while some banks benefited from balance sheet expansion, improved non-interest income, and stronger asset growth, others recorded declines in earnings despite maintaining sizeable asset bases and market valuations. The post These are the most profitable banks in Nigeria following 9M 2026 release appeared first on Nairametrics .",
+      "published": "2026-11-24T11:48:55+00:00",
+      "fetched": "2026-11-24T16:33:25.245536+00:00"
+    },
+    {
+      "id": "fa8ba640f08676a7",
+      "title": "The capital multiplier: how Nigerian banks save billions by cutting diesel exposure",
+      "link": "https://nairametrics.com/2026/11/24/the-capital-multiplier-how-nigerian-banks-save-billions-by-cutting-diesel-exposure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Running critical financial infrastructure across Nigeria, from 24/7 automated teller machines and branch networks to core digital banking systems and data centres, demands absolute operational continuity. In the Nigerian banking sector, every power interruption translates into transaction downtime, a range of operational disruptions, and reputational risk. Yet, for years, managing this critical uptime meant relying [ ] The post The capital multiplier: how Nigerian banks save billions by cutting diesel exposure appeared first on Nairametrics .",
+      "published": "2026-11-24T11:27:37+00:00",
+      "fetched": "2026-11-24T16:33:25.245615+00:00"
+    },
+    {
+      "id": "06dcd35f6ddfc736",
+      "title": "FG disowns N100,000 family grant website after Nigerians submit personal and bank details",
+      "link": "https://nairametrics.com/2026/11/24/fg-disowns-n100000-family-grant-website-after-nigerians-submit-personal-and-bank-details/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government has disowned the viral Nigeria Family Strengthening and Development Programme (NFSP), warning Nigerians against registering on its website after the purported N100,000 family support grant attracted widespread attention and applications. The post FG disowns N100,000 family grant website after Nigerians submit personal and bank details appeared first on Nairametrics .",
+      "published": "2026-11-24T11:13:25+00:00",
+      "fetched": "2026-11-24T16:33:25.245668+00:00"
+    },
+    {
+      "id": "b0531f80e18a964f",
+      "title": "Banks, card networks raid Safaricom, Airtel and MTN for top talent",
+      "link": "https://techcabal.com/2026/11/24/banks-card-raid-safaricom-airtel-talent/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "African banks and Visa have poached at least six senior executives from Safaricom and other telcom operators.",
+      "published": "2026-11-24T11:03:52+00:00",
+      "fetched": "2026-11-24T16:33:26.029716+00:00"
+    },
+    {
+      "id": "0d24def6946c765b",
+      "title": "In the DRC, Wave’s next pricing test is the franc",
+      "link": "https://techcabal.com/2026/11/24/francophone-weekly-by-techcabal-049/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Wave is the first mobile money provider to win a licence in the DRC in 11 years. Its free-withdrawal model could put pressure on Airtel Money and M-PESA just as the country prepares to ban cash dollar payments for goods and services. With digital dollar payments still allowed, can Wave make the Congolese franc cheaper to use?",
+      "published": "2026-11-24T10:42:39+00:00",
+      "fetched": "2026-11-24T16:33:26.029758+00:00"
+    },
+    {
+      "id": "92c324acf1675924",
+      "title": "Access Holdings tops Nigerian banks with N1.22 trillion in 9M 2026 foreign earnings",
+      "link": "https://nairametrics.com/2026/11/24/access-holdings-tops-nigerian-banks-with-n1-22-trillion-in-9m-2026-foreign-earnings/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "During the nine-month period ended September 30, 2026, Nigeria’s major financial holding companies and commercial banking institutions demonstrated significant revenue generation from operations outside their domestic market. The post Access Holdings tops Nigerian banks with N1.22 trillion in 9M 2026 foreign earnings appeared first on Nairametrics .",
+      "published": "2026-11-24T10:31:18+00:00",
+      "fetched": "2026-11-24T16:33:25.245716+00:00"
+    },
+    {
+      "id": "b5abefffc91e21f0",
+      "title": "HBM Nigeria records 19% revenue growth, PAT rises 31% to N272bn in 9M 2026",
+      "link": "https://nairametrics.com/2026/11/24/hbm-nigeria-records-19-revenue-growth-pat-rises-31-to-n272bn-in-9m-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "HBM Nigeria Plc, formerly Lafarge Africa Plc, a leading provider of innovative building solutions and manufacturer of a wide range of cement, ready mix, mortar and Plaster of Paris brands has declared a Profit After Tax (PAT) of N272billion representing a 31% growth in its 9M 2026 performance. Net sales grew by 19% in 9M [ ] The post HBM Nigeria records 19% revenue growth, PAT rises 31% to N272bn in 9M 2026 appeared first on Nairametrics .",
+      "published": "2026-11-24T10:28:08+00:00",
+      "fetched": "2026-11-24T16:33:25.245763+00:00"
+    },
+    {
+      "id": "e185128359628306",
+      "title": "Naira slips to N1,823/£ as year-end holiday demand builds",
+      "link": "https://nairametrics.com/2026/11/24/naira-slips-to-n1823-as-year-end-holiday-demand-builds/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Demand for the British pound is picking up in Nigeria as holiday travel, seasonal shopping, and extra tuition and fee payments to UK universities get underway. The post Naira slips to N1,823/£ as year-end holiday demand builds appeared first on Nairametrics .",
+      "published": "2026-11-24T10:19:25+00:00",
+      "fetched": "2026-11-24T16:33:25.245805+00:00"
+    },
+    {
+      "id": "7228713c3d7b2241",
+      "title": "Payaza acquires Seesail to bring commerce tools and finance to Africa’s small businesses",
+      "link": "https://nairametrics.com/2026/11/24/payaza-acquires-seesail-to-bring-commerce-tools-and-finance-to-africas-small-businesses/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Shopaza, the commerce platform from Payaza, one of the top payment gateways in Africa, has acquired Seesail Technologies Ltd, the Ghana-founded commerce platform for small businesses. Financial terms were not disclosed during this acquisition between both parties. The entire Seesail team joins Shopaza, a Payaza product, and co-founder and CEO Victor Blavo becomes General Manager, [ ] The post Payaza acquires Seesail to bring commerce tools and finance to Africa s small businesses appeared first on Nairametrics .",
+      "published": "2026-11-24T10:08:19+00:00",
+      "fetched": "2026-11-24T16:33:25.245860+00:00"
+    },
+    {
+      "id": "9d2fa1f60410f1df",
+      "title": "GLNG offers 21.5% on N6.5 billion commercial paper",
+      "link": "https://nairametrics.com/2026/11/24/glng-offers-21-5-on-n6-5-billion-commercial-paper/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "GLNG Funding SPV Plc has opened an offer to raise up to N6.5 billion through its Series 8 Commercial Paper under its N30 billion programme. The post GLNG offers 21.5% on N6.5 billion commercial paper appeared first on Nairametrics .",
+      "published": "2026-11-24T10:07:49+00:00",
+      "fetched": "2026-11-24T16:33:25.245894+00:00"
+    },
+    {
+      "id": "7c570b895f5ab307",
+      "title": "Four schools advance to Access Bank’s Spot the Scam debate Final",
+      "link": "https://nairametrics.com/2026/11/24/four-schools-advance-to-access-banks-spot-the-scam-debate-final/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Four secondary schools have qualified for the grand finale of Access Bank Plc s Spot the Scam Debate Competition, following the conclusion of the semi-final stage of the financial crime awareness initiative. The schools are Keke Senior High School, British International School, CIS Lagos and Vetland Senior Grammar School. They emerged from 12 schools that participated [ ] The post Four schools advance to Access Bank s Spot the Scam debate Final appeared first on Nairametrics .",
+      "published": "2026-11-24T09:58:19+00:00",
+      "fetched": "2026-11-24T16:33:25.245944+00:00"
+    },
+    {
+      "id": "f6e748ae345b4ddf",
+      "title": "Nigeria wants to turn data protection into a 500,000-job pipeline",
+      "link": "https://techcabal.com/2026/11/24/nigeria-data-protection-500000-jobs/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Nigeria’s data protection regulator wants more mid-career professionals to step into the country’s growing privacy workforce, betting that local talent can fill a global shortage of certified experts.",
+      "published": "2026-11-24T06:16:49+00:00",
+      "fetched": "2026-11-24T16:33:26.029794+00:00"
+    },
+    {
+      "id": "23e1d93b30fe4a93",
+      "title": "👨🏿‍🚀TechCabal Daily – Hello from the Absa side",
+      "link": "https://techcabal.com/2026/11/24/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-hello-from-the-absa-side/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "In today's edition: Inside TC Mzansi Shoprite's $207 million telecoms bet Absa teams up with Vodacom Africa's cheap phones get pricier",
+      "published": "2026-11-24T06:02:26+00:00",
+      "fetched": "2026-11-24T16:33:26.029827+00:00"
+    },
     {
       "id": "559965f616dca4bf",
       "title": "HPE just posted its strongest growth ever — but its stock is sinking",
@@ -1162,346 +1502,6 @@
       "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
       "published": "2026-11-20T21:58:00+00:00",
       "fetched": "2026-11-20T23:25:45.266619+00:00"
-    },
-    {
-      "id": "b430dff7ae8dfa1f",
-      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
-      "published": "2026-11-20T21:39:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266637+00:00"
-    },
-    {
-      "id": "4c64a509e3d1da44",
-      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A looming oversupply problem could weigh on the stock over the next year",
-      "published": "2026-11-20T21:39:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266652+00:00"
-    },
-    {
-      "id": "9e82b94558698dff",
-      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-      "published": "2026-11-20T21:36:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266668+00:00"
-    },
-    {
-      "id": "f61c14b56216f360",
-      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-      "published": "2026-11-20T21:34:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266684+00:00"
-    },
-    {
-      "id": "a85f9ad19dfea0b9",
-      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
-      "published": "2026-11-20T21:25:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266699+00:00"
-    },
-    {
-      "id": "aba072313f1abf09",
-      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-      "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
-      "published": "2026-11-20T21:10:48+00:00",
-      "fetched": "2026-11-20T23:25:45.415119+00:00"
-    },
-    {
-      "id": "e4f9a70527a84b58",
-      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
-      "published": "2026-11-20T21:01:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266716+00:00"
-    },
-    {
-      "id": "e16fff3042f2e4c5",
-      "title": "Moniepoint MFB set to commission regional office in Abuja to deepen brand trust and strengthen support for businesses",
-      "link": "https://nairametrics.com/2026/11/20/moniepoint-mfb-set-to-commission-regional-office-in-abuja-to-deepen-brand-trust-and-strengthen-support-for-businesses/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Moniepoint Microfinance Bank, Nigeria’s definitive bank for small and medium-sized businesses as well as their customers and individuals, has announced the upcoming official commissioning of its new North Central Regional Headquarters in Abuja. The post Moniepoint MFB set to commission regional office in Abuja to deepen brand trust and strengthen support for businesses appeared first on Nairametrics .",
-      "published": "2026-11-20T20:16:39+00:00",
-      "fetched": "2026-11-20T23:25:45.806348+00:00"
-    },
-    {
-      "id": "09817b98e291e924",
-      "title": "Access calls for mobilising capital to finance Africa’s productive economy at AFIS 2026",
-      "link": "https://nairametrics.com/2026/11/20/access-calls-for-mobilising-capital-to-finance-africas-productive-economy-at-afis-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Access Group took part in the Africa Financial Industry Summit (AFIS 2026) held in Luanda, Angola, recently.At the summit, the Group called for greater capital mobilisation towards productive sectors and stronger contributions from African financial institutions to the continent s economic growth.The summit brought together more than 1,500 participants and 18 central bank governors. It explored [ ] The post Access calls for mobilising capital to finance Africa s productive economy at AFIS 2026 appeared first on Nairametrics .",
-      "published": "2026-11-20T20:01:33+00:00",
-      "fetched": "2026-11-20T23:25:45.806395+00:00"
-    },
-    {
-      "id": "d5297af379a07a69",
-      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Odds that the S P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
-      "published": "2026-11-20T19:59:03+00:00",
-      "fetched": "2026-11-20T23:25:45.415093+00:00"
-    },
-    {
-      "id": "922a6652bcf13bf2",
-      "title": "FCMB’s 9M 2026 pre-tax profit jumps 103% to N272.8 billion, beats Q3 forecast",
-      "link": "https://nairametrics.com/2026/11/20/fcmbs-9m-2026-pre-tax-profit-jumps-103-to-n272-8-billion-beats-q3-forecast/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FCMB Group Plc reported a 102.8% increase in pre-tax profit to N272.77 billion for the nine months ended September 30, 2026, compared with N134.50 billion in the corresponding period of 2025. The post FCMB s 9M 2026 pre-tax profit jumps 103% to N272.8 billion, beats Q3 forecast appeared first on Nairametrics .",
-      "published": "2026-11-20T19:30:10+00:00",
-      "fetched": "2026-11-20T23:25:45.806422+00:00"
-    },
-    {
-      "id": "5369a3b46a8dd1f0",
-      "title": "Customs suspends training at two colleges after FCC recruitment concerns",
-      "link": "https://nairametrics.com/2026/11/20/customs-suspends-training-at-two-colleges-after-fcc-recruitment-concerns/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Customs Service (NCS) has temporarily suspended training activities at its two training colleges following concerns raised by the Federal Character Commission (FCC) over its ongoing recruitment exercise. The post Customs suspends training at two colleges after FCC recruitment concerns appeared first on Nairametrics .",
-      "published": "2026-11-20T18:31:11+00:00",
-      "fetched": "2026-11-20T23:25:45.806445+00:00"
-    },
-    {
-      "id": "7e7b8f374526069c",
-      "title": "Banking stocks sell-offs wipe N406 billion off NGX market value",
-      "link": "https://nairametrics.com/2026/11/20/banking-stocks-sell-offs-wipe-n406-billion-off-ngx-market-value/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Exchange (NGX) extended its downturn on Friday, November 20, 2026, as equity market capitalisation dropped by N406.34 billion in a single session, declining from N161.21 trillion recorded on Thursday to close at N160.80 trillion on Friday. The post Banking stocks sell-offs wipe N406 billion off NGX market value appeared first on Nairametrics .",
-      "published": "2026-11-20T18:18:10+00:00",
-      "fetched": "2026-11-20T23:25:45.806469+00:00"
-    },
-    {
-      "id": "f7a0e501223e84ee",
-      "title": "GTA 6 could cost Nigerian gamers N1.2 million, the console is the real headache",
-      "link": "https://nairametrics.com/2026/11/20/gta-6-could-cost-nigerian-gamers-n1-2-million-the-console-is-the-real-headache/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The release of Grand Theft Auto VI (GTA 6) is putting the purchasing power of Nigerian video game consumers into focus, with the acquisition of the console and the latest edition of the franchise estimated to cost more than N1.2 million. The game, developed by Rockstar Games, was released on November 19, 2026, for PlayStation [ ] The post GTA 6 could cost Nigerian gamers N1.2 million, the console is the real headache appeared first on Nairametrics .",
-      "published": "2026-11-20T16:31:17+00:00",
-      "fetched": "2026-11-20T23:25:45.806497+00:00"
-    },
-    {
-      "id": "343ba4a9b4816f09",
-      "title": "FULL LIST: African startups, insurers, and banks that failed in Q3 2026",
-      "link": "https://nairametrics.com/2026/11/20/full-list-african-startups-insurers-and-banks-that-failed-in-q3-2026/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In this article, Nairametrics examines the companies and financial institutions that experienced significant business failures or formal winding-down developments across Africa during the third quarter. The post FULL LIST: African startups, insurers, and banks that failed in Q3 2026 appeared first on Nairametrics .",
-      "published": "2026-11-20T16:23:15+00:00",
-      "fetched": "2026-11-20T23:25:45.806518+00:00"
-    },
-    {
-      "id": "b2e3305e03f58d5f",
-      "title": "31% of Nigerians use digital payments more after fraud, report reveals",
-      "link": "https://nairametrics.com/2026/11/20/31-of-nigerians-use-digital-payments-more-after-fraud-report-reveals/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "About 31% of Nigerian individuals who experienced digital payment fraud increased their use of digital payment services afterwards, according to the 2026 State of Inclusive Instant Payment Systems in Africa (SIIPS) report. The post 31% of Nigerians use digital payments more after fraud, report reveals appeared first on Nairametrics .",
-      "published": "2026-11-20T16:17:01+00:00",
-      "fetched": "2026-11-20T23:25:45.806540+00:00"
-    },
-    {
-      "id": "f7390c61cb1ee278",
-      "title": "Anthropic IPO proceeds hit $93.5 billion as underwriters exercise extra share option",
-      "link": "https://nairametrics.com/2026/11/20/anthropic-ipo-proceeds-hit-93-5-billion-as-underwriters-exercise-extra-share-option/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Anthropic's initial public offering (IPO) proceeds have climbed to approximately $93.5 billion from the initial $81.3 billion after underwriters exercised their option to purchase an additional 147 million shares, expanding the size of the artificial intelligence company's historic stock market debut. The post Anthropic IPO proceeds hit $93.5 billion as underwriters exercise extra share option appeared first on Nairametrics .",
-      "published": "2026-11-20T15:55:50+00:00",
-      "fetched": "2026-11-20T23:25:45.806565+00:00"
-    },
-    {
-      "id": "826e6bc9d79dc9e6",
-      "title": "At AfriLabs 2026, Benin calls for innovation built around people",
-      "link": "https://techcabal.com/2026/11/20/afrilabs-2026-benin-innovation/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "Benin has put more than 250 public services online. At the 2026 AfriLabs Annual Gathering in Cotonou, its digital transformation minister explained how voice AI could help people access those services in languages such as Fon, Dendi, Bariba and Yoruba.",
-      "published": "2026-11-20T14:52:36+00:00",
-      "fetched": "2026-11-20T23:25:47.214105+00:00"
-    },
-    {
-      "id": "7e9159b11a3279fb",
-      "title": "The bull market has a new problem. The 'smart money' is selling",
-      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
-      "published": "2026-11-20T14:15:29+00:00",
-      "fetched": "2026-11-20T23:25:45.415138+00:00"
-    },
-    {
-      "id": "ca159d65b01983cf",
-      "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
-      "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”",
-      "published": "2026-11-20T14:15:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874429+00:00"
-    },
-    {
-      "id": "ecead6573eb40a3c",
-      "title": "The ex-banker connecting 2,000 Kenyan farms to hotels, schools, and supermarkets",
-      "link": "https://techcabal.com/2026/11/20/ex-banker-cherotich-rutto-tawi-fresh/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "The trouble with arriving 15 minutes late to see Cherotich Rutto, an ex-banker, is that she has the air of a strict school principal who would have noticed at minute one.",
-      "published": "2026-11-20T14:05:34+00:00",
-      "fetched": "2026-11-20T14:27:09.998256+00:00"
-    },
-    {
-      "id": "26107bae8b6ff229",
-      "title": "These little-known investments could be among the best bargains in a crash",
-      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
-      "published": "2026-11-20T14:00:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874457+00:00"
-    },
-    {
-      "id": "eec19241e551cc17",
-      "title": "Dangote supplies 31.89 million litres of petrol daily in October as imports rise 47%",
-      "link": "https://nairametrics.com/2026/11/20/dangote-supplies-31-89-million-litres-of-petrol-daily-in-october-as-imports-rise-47/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Dangote Refinery increased its daily petrol supply to Nigeria by 12% to 31.89 million litres in October 2026, even as the country's petrol imports rose by 47% to 15 million litres per day. The post Dangote supplies 31.89 million litres of petrol daily in October as imports rise 47% appeared first on Nairametrics .",
-      "published": "2026-11-20T13:58:35+00:00",
-      "fetched": "2026-11-20T14:27:07.459708+00:00"
-    },
-    {
-      "id": "74a227558adeefa6",
-      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
-      "published": "2026-11-20T13:48:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874476+00:00"
-    },
-    {
-      "id": "999303c0e8c5c6eb",
-      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-      "published": "2026-11-20T13:29:50+00:00",
-      "fetched": "2026-11-20T14:27:07.039555+00:00"
-    },
-    {
-      "id": "bc08b0d392ef4871",
-      "title": "FirstBank launches ‘Make it LIT’ campaign to simplify digital banking experience",
-      "link": "https://nairametrics.com/2026/11/20/firstbank-launches-make-it-lit-campaign-to-simplify-digital-banking-experience/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "FirstBank Group has launched its ‘Make it LIT’ campaign to promote its LIT mobile application as an integrated digital platform that combines banking, payments, shopping, travel and other lifestyle services in one place. The post FirstBank launches ‘Make it LIT’ campaign to simplify digital banking experience appeared first on Nairametrics .",
-      "published": "2026-11-20T13:26:08+00:00",
-      "fetched": "2026-11-20T14:27:07.459751+00:00"
-    },
-    {
-      "id": "000dba4590ec820e",
-      "title": "NCC moves to tackle hidden charges, pricing gaps in telecom value-added services",
-      "link": "https://nairametrics.com/2026/11/20/ncc-moves-to-tackle-hidden-charges-pricing-gaps-in-telecom-value-added-services/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Communications Commission (NCC) has commissioned a study to establish a cost-based benchmark for telecom value-added services (VAS), amid concerns over inconsistent pricing, revenue-sharing arrangements and limited transparency across the industry. The post NCC moves to tackle hidden charges, pricing gaps in telecom value-added services appeared first on Nairametrics .",
-      "published": "2026-11-20T13:03:03+00:00",
-      "fetched": "2026-11-20T14:27:07.459780+00:00"
-    },
-    {
-      "id": "2c4ea77c5cf3f2ab",
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-      "published": "2026-11-20T13:00:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874494+00:00"
-    },
-    {
-      "id": "545cf981d9bfe370",
-      "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
-      "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
-      "published": "2026-11-20T12:45:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874517+00:00"
-    },
-    {
-      "id": "df3d0df77ed89f4f",
-      "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "The S P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
-      "published": "2026-11-20T12:43:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874537+00:00"
-    },
-    {
-      "id": "93d128f3f12de3c3",
-      "title": "Nigeria’s $1 trillion stock market ambition needs its tech startups",
-      "link": "https://techcabal.com/2026/11/20/nigeria-1-trillion-stock-market-startups/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "There are 146 companies listed on the Nigerian Exchange (NGX), a number the bourse wants to double as it works towards a $1 trillion market capitalisation over the next decade.",
-      "published": "2026-11-20T12:35:17+00:00",
-      "fetched": "2026-11-20T14:27:09.998283+00:00"
-    },
-    {
-      "id": "c9a42f7f363ad2a1",
-      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-      "published": "2026-11-20T12:30:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874555+00:00"
-    },
-    {
-      "id": "9b2e01ddf213dd28",
-      "title": "GTA 6 sets record with $2.36 billion revenue within 24 hours of release",
-      "link": "https://nairametrics.com/2026/11/20/gta-6-sets-record-with-2-36-billion-revenue-within-24-hours-of-release/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Grand Theft Auto 6 (GTA 6) has generated an estimated $2.36 billion in pre-orders and first-day sales, potentially making it the biggest entertainment launch in history. The post GTA 6 sets record with $2.36 billion revenue within 24 hours of release appeared first on Nairametrics .",
-      "published": "2026-11-20T12:28:56+00:00",
-      "fetched": "2026-11-20T14:27:07.459804+00:00"
-    },
-    {
-      "id": "1498af35000f6b56",
-      "title": "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that since 1990.",
-      "link": "https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A look at what the S P 500 did after that earlier IPO. Plus, a CoreWeave co-founder’s bet on bonds, and why tech outages have people stocking up on food and cash.",
-      "published": "2026-11-20T12:19:00+00:00",
-      "fetched": "2026-11-20T14:27:06.874578+00:00"
     }
   ]
 }
