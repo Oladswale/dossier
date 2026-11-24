@@ -1,8 +1,128 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-23T16:36:46.569130+00:00",
+  "updated": "2026-11-24T03:30:55.202122+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "7cd2642842591e46",
+      "title": "Flipping a House Isn’t Paying Like It Used To. Is Renting the Better Bet?",
+      "link": "https://www.realtor.com/advice/buy/flip-vs-rent-out-fixer-upper-returns/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Flipping profits are shrinking, and rental yields are falling, too. New 2026 research shows when buying a fixer-upper can still pay off.",
+      "published": "2026-11-23T22:22:00+00:00",
+      "fetched": "2026-11-24T03:30:55.201305+00:00"
+    },
+    {
+      "id": "134e892929c0c11e",
+      "title": "Meghan Markle and Prince Harry Plan To Spend the Holidays at Their New U.K. Home—With a Special Guest for Archie and Lilibet’s First British Christmas",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/meghan-markle-prince-harry-christmas-plans-new-uk-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A trip to California had been a possibility, but the Duke and Duchess of Sussex intend to spend both Thanksgiving and Christmas in Britain.",
+      "published": "2026-11-23T21:53:38+00:00",
+      "fetched": "2026-11-24T03:30:55.201348+00:00"
+    },
+    {
+      "id": "3fe557be0163862d",
+      "title": "Jennifer Garner Lights Up Her L.A. Home for Christmas Before the Thanksgiving Turkey Hits the Table",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jennifer-garner-christmas-thanksgiving-decorations-los-angeles-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The 54-year-old actress shared a look at her holiday decorations on Instagram, revealing that even her greenhouse got a festive touch.",
+      "published": "2026-11-23T21:21:11+00:00",
+      "fetched": "2026-11-24T03:30:55.201378+00:00"
+    },
+    {
+      "id": "a0ff7ac8f5a0e2f2",
+      "title": "New York Gov. Kathy Hochul Signs New Private Listings Bill",
+      "link": "https://www.realtor.com/news/trends/new-york-gov-kathy-hochul-signs-new-private-listings-bill/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The bill means properties will be required to be visible to the public as they hit the market, unless sellers sign an opt-out consent.",
+      "published": "2026-11-23T21:07:11+00:00",
+      "fetched": "2026-11-24T03:30:55.201406+00:00"
+    },
+    {
+      "id": "90b419c5f7979ef6",
+      "title": "Buying a Home Soon? This Overlooked Open Enrollment Perk Could Save You Thousands in Legal Fees",
+      "link": "https://www.realtor.com/advice/finance/open-enrollment-benefits-closing-legal-fees-homebuying/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Open enrollment can offer more benefits outside of health insurance, especially if you're looking to buy a home next year.",
+      "published": "2026-11-23T20:06:33+00:00",
+      "fetched": "2026-11-24T03:30:55.201454+00:00"
+    },
+    {
+      "id": "3723106611d639b4",
+      "title": "Why an Uninsulated Garage Can Wreak Havoc on Your Home This Winter",
+      "link": "https://www.realtor.com/advice/home-improvement/uninsulated-garages-damage-winter/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "If you have a garage, ensuring that it's insulated may save you money as well as heartache in the coming winter months.",
+      "published": "2026-11-23T20:06:00+00:00",
+      "fetched": "2026-11-24T03:30:55.201481+00:00"
+    },
+    {
+      "id": "fcf56b9c16bf6ba7",
+      "title": "Will Smith and Jada Pinkett Smith’s $42 Million Calabasas Home Erupts in Flames",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/will-smith-jada-pinkett-calabasas-home-catches-on-fire/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Los Angeles County Sheriff's Department and the Malibu/Lost Hills Sheriff’s Station responded to a 911 call at the property on Nov. 23.",
+      "published": "2026-11-23T18:44:56+00:00",
+      "fetched": "2026-11-24T03:30:55.201516+00:00"
+    },
+    {
+      "id": "073d354250256f6f",
+      "title": "The 2026 Manhattan Wealth Rush: Ultraluxury Real Estate Is Smashing Sales Records",
+      "link": "https://www.realtor.com/news/trends/manhattan-ultraluxury-real-estate-market-2026-bidding-war/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Led by Hugh Jackman’s $28.75 million triplex sale, Manhattan’s luxury real estate market is booming as low inventory sparks bidding wars.",
+      "published": "2026-11-23T18:35:29+00:00",
+      "fetched": "2026-11-24T03:30:55.201546+00:00"
+    },
+    {
+      "id": "cc98130efaca6032",
+      "title": "New Homes Are Now $40K Cheaper Than Existing Homes",
+      "link": "https://www.realtor.com/news/trends/new-homes-are-now-40k-cheaper-than-existing-homes/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "New-construction homes are less expensive than existing ones, and the difference has never been larger, NAHB found.",
+      "published": "2026-11-23T17:54:33+00:00",
+      "fetched": "2026-11-24T03:30:55.201572+00:00"
+    },
+    {
+      "id": "ebec26cac9bee129",
+      "title": "‘Secret Lives of Mormon Wives’ Star Taylor Frankie Paul Trades Reality TV for Real Estate—Inside the Townhouse She Transformed and Is Now Renting Out",
+      "link": "https://www.realtor.com/news/reality-tv/taylor-frankie-paul-real-estate-utah-townhouse-rental/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Paul has been documenting the next step in her property journey on Instagram, sharing a reel that puts her renovation skills on display.",
+      "published": "2026-11-23T17:26:58+00:00",
+      "fetched": "2026-11-24T03:30:55.201605+00:00"
+    },
+    {
+      "id": "52cbd4b0ff015b40",
+      "title": "Top Schools, Low Prices, Positive Cash Flow: Is This One of America’s Best Rental Market?",
+      "link": "https://www.biggerpockets.com/blog/top-schools-low-prices-positive-cash-flow-is-this-one-of-americas-best-rental-market",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Memphis isn’t just on investors’ radar; it’s leading the country. According to Realtor.com’s 2026 Investor Report, the Memphis metro area had the highest investor buyer share of any of the [ ]",
+      "published": "2026-11-23T17:26:44+00:00",
+      "fetched": "2026-11-24T03:30:54.926895+00:00"
+    },
+    {
+      "id": "1e05d315df03030a",
+      "title": "EXCLUSIVE: Steven Spielberg’s L.A. Ranch Sells for $8 Million Below Asking—Just 2 Months After Hitting the Market",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/steven-spielberg-sells-los-angeles-ranch-at-a-discount/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Spielberg, 79, and his wife, Kate Capshaw, 72, purchased the property in 1999 through their corporate entity, Texas Tart, for $5.75 million.",
+      "published": "2026-11-23T15:43:32+00:00",
+      "fetched": "2026-11-24T03:30:55.201636+00:00"
+    },
     {
       "id": "54cb69efafd7da2b",
       "title": "EXCLUSIVE: Steven Spielberg’s L.A. Ranch Sells for $8 Million Below Asking—Just Two Months After Hitting the Market",
@@ -14,6 +134,16 @@
       "fetched": "2026-11-23T16:36:46.568460+00:00"
     },
     {
+      "id": "45a8e8d14d55b8df",
+      "title": "Jensen Huang Is Reinstated as Nvidia CEO—Here’s How He Amassed a $146 Billion Fortune With Wife Lori",
+      "link": "https://www.realtor.com/news/trends/jensen-huang-reinstated-nvidia-ceo/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nvidia board announced on Monday that it reinstated Jensen Huang as president and CEO following his resignation amid a cheating scandal.",
+      "published": "2026-11-23T15:03:01+00:00",
+      "fetched": "2026-11-24T03:30:55.201664+00:00"
+    },
+    {
       "id": "765d3fdf23951c4c",
       "title": "Jensen Huang is Reinstated as Nvidia CEO",
       "link": "https://www.realtor.com/news/trends/jensen-huang-reinstated-nvidia-ceo/",
@@ -22,6 +152,16 @@
       "summary": "Nvidia board announced Monday that it reinstated Jensen Huang as president and CEO following his resignation amid a cheating scandal.",
       "published": "2026-11-23T15:03:01+00:00",
       "fetched": "2026-11-23T16:36:46.568494+00:00"
+    },
+    {
+      "id": "cdf871da4704540f",
+      "title": "Inside Jensen Huang’s $53 Million Property Portfolio as the Nvidia CEO Is Reinstated After Affair With Suspected Chinese Spy",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/nvidia-ceo-jensen-huang-property-portfolio-stock/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Following an admission to two extramarital affairs, Nvidia CEO and co-founder Jensen Huang has been reinstated.",
+      "published": "2026-11-23T14:52:00+00:00",
+      "fetched": "2026-11-24T03:30:55.201691+00:00"
     },
     {
       "id": "b2384bd70ce2ad5d",
@@ -1362,146 +1502,6 @@
       "summary": "What would you risk to give your family a better future? When you’re living paycheck to paycheck, buying a first rental property can feel completely out of reach, until the [ ]",
       "published": "2026-11-16T12:00:02+00:00",
       "fetched": "2026-11-16T14:05:04.806284+00:00"
-    },
-    {
-      "id": "71d1ee876f287dc8",
-      "title": "Mapped: Where the Most Homeowners Own Their Homes Outright With No Mortgage",
-      "link": "https://www.realtor.com/news/trends/mapped-states-most-mortgage-free-homeowners-west-virginia-acs-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A new report shows that 41% of U.S. homeowners are now mortgage-free, led by West Virginia. Meanwhile, DC logs the highest home loan debt.",
-      "published": "2026-11-16T10:00:00+00:00",
-      "fetched": "2026-11-16T14:05:05.366882+00:00"
-    },
-    {
-      "id": "e82949b9762d649e",
-      "title": "America’s Trillion-Dollar Credit Card Debt Threatens To Lock Millions Out of the Housing Market",
-      "link": "https://www.realtor.com/advice/finance/america-trillion-dollar-credit-card-debt-homeownership-money-monday/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Credit card balances have climbed by $22 billion to a record $1.29 trillion recently, which could spell trouble for aspiring homeowners.",
-      "published": "2026-11-16T09:48:00+00:00",
-      "fetched": "2026-11-16T14:05:05.366916+00:00"
-    },
-    {
-      "id": "de868c9cd16aed72",
-      "title": "Housing Week Ahead: Construction Insights, Rental Trends, and Pending Sales",
-      "link": "https://www.realtor.com/news/trends/housing-week-ahead-construction-insights-rental-trends-and-pending-sales/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The coming week holds a packed slate of insights from Realtor.com Economics, as well as vital indicators about the housing market.",
-      "published": "2026-11-16T09:32:00+00:00",
-      "fetched": "2026-11-16T14:05:05.366944+00:00"
-    },
-    {
-      "id": "abe413e0a7800c53",
-      "title": "How Training Veterans in Skilled Trades Could Speed Up Homebuilding and Ease Housing Costs",
-      "link": "https://www.realtor.com/news/trends/veterans-skilled-trades-construction-labor-shortage-hbi/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "When looking for a solution to the shortage, HBI discovered “an untapped market” in the veteran and transitioning military population.",
-      "published": "2026-11-15T19:33:00+00:00",
-      "fetched": "2026-11-15T22:09:36.121200+00:00"
-    },
-    {
-      "id": "5f9ac3858ae1143a",
-      "title": "The ‘Andy Warhol of Real Estate’ Unveils a $2.9M Portland Home Shaped Like a ‘Bouquet of Flowers’",
-      "link": "https://www.realtor.com/news/unique-homes/robert-oshatz-modern-home-portland-west-hills-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Architect Robert Oshatz unveils a new $2.888M modern treehouse in Portland’s West Hills with curved wood ceilings and light prisms.",
-      "published": "2026-11-15T16:35:00+00:00",
-      "fetched": "2026-11-15T22:09:36.121238+00:00"
-    },
-    {
-      "id": "83028cca52597d91",
-      "title": "Iconic 1960 Midcentury Modern ‘Wave House’ Is Back on the Market—With a Twist",
-      "link": "https://www.realtor.com/news/unique-homes/iconic-1960-midcentury-modern-wave-house-relists-with-a-twist/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Architect Jules Gregory’s iconic 1960 \"Wave House\" in Lambertville, NJ, is now for sale separately alongside a $995,000 studio.",
-      "published": "2026-11-15T15:30:00+00:00",
-      "fetched": "2026-11-15T22:09:36.121257+00:00"
-    },
-    {
-      "id": "d866b9d7ce29c8ce",
-      "title": "Waldorf Astoria Chooses Upscale Denver Neighborhood for Its First Colorado Residences",
-      "link": "https://www.realtor.com/news/trends/waldorf-astoria-denver-colorado-cherry-creek-residences/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Waldorf Astoria has chosen a neighborhood ten minutes from downtown Denver for its first foray into residential living in Colorado.",
-      "published": "2026-11-15T14:34:00+00:00",
-      "fetched": "2026-11-15T22:09:36.121276+00:00"
-    },
-    {
-      "id": "4be170735c2b1df9",
-      "title": "Inside a Secluded $3.3 Million Mediterranean Estate With a Resort-Inspired Backyard Retreat in Agoura Hills",
-      "link": "https://www.realtor.com/news/unique-homes/secluded-santa-monica-mountains-california-estate-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "With a sprawling backyard and unparalleled privacy, this $3.295 million Santa Monica Mountains estate is a rare find.",
-      "published": "2026-11-15T13:05:00+00:00",
-      "fetched": "2026-11-15T22:09:36.121292+00:00"
-    },
-    {
-      "id": "3fb68167b0566fca",
-      "title": "Inside Winter’s Buzziest Getaways—Where Celebrities and Influencers Flock for an Upstate Escape",
-      "link": "https://www.realtor.com/news/trends/beacon-catskills-celebrity-winter-getaways-home-prices/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Celebrities and influencers have been heading over to Beacon and the Catskills for an upstate escape in winter's hotspots.",
-      "published": "2026-11-14T19:45:00+00:00",
-      "fetched": "2026-11-14T21:43:43.865930+00:00"
-    },
-    {
-      "id": "893c7e147c517867",
-      "title": "Las Vegas Is Running Short on $100K-a-Month Rentals as A-Listers and Athletes Drive Demand",
-      "link": "https://www.realtor.com/news/trends/las-vegas-nevada-shortage-luxury-rentals-celebrities-athletes-demand/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "While the overall Las Vegas housing market has stalled, its ultraluxury rental sector is doing better than ever.",
-      "published": "2026-11-14T17:38:00+00:00",
-      "fetched": "2026-11-14T21:43:43.865966+00:00"
-    },
-    {
-      "id": "9e2ff24a77d94db2",
-      "title": "Built for Tech Execs: This $4.7M Midcentury Estate Near D.C. Features Radiant-Cooled Floors and a Secret Bar",
-      "link": "https://www.realtor.com/news/unique-homes/clifton-va-midcentury-modern-wellness-estate-for-sale/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built for wellness near Washington, D.C, this $4.7M midcentury estate in Clifton, VA, features radiant floors, a spa, and a speakeasy.",
-      "published": "2026-11-14T16:32:00+00:00",
-      "fetched": "2026-11-14T21:43:43.865996+00:00"
-    },
-    {
-      "id": "cb191e1bdfd4ab8a",
-      "title": "‘Magical’ Tree House With 30-Foot Glass Living Room Returns to the Market",
-      "link": "https://www.realtor.com/news/unique-homes/austin-tx-glass-tree-house-for-sale-price-cut/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Built into a cliffside with 30-foot windows, the four-bedroom Glass Tree House is relisted for $1,095,000 after a $405,000 price cut.",
-      "published": "2026-11-14T15:30:00+00:00",
-      "fetched": "2026-11-14T21:43:43.866025+00:00"
-    },
-    {
-      "id": "cf69f96183d2d630",
-      "title": "EXCLUSIVE: ’90 Day Fiancé’ Star Let Her Fiancé Live Rent-Free in Her Ghana Apartment—See What She Found When She Returned",
-      "link": "https://www.realtor.com/news/reality-tv/90-day-fiance-michelle-ghana-apartment-felix-rent-free/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "'90 Day Fiancé: The Other Way' star Michelle inspects her Ghana apartment after letting Felix live there rent-free while she was away.",
-      "published": "2026-11-14T13:11:00+00:00",
-      "fetched": "2026-11-14T21:43:43.866060+00:00"
-    },
-    {
-      "id": "ea4b20579601e1f7",
-      "title": "Sellers Are Cutting Home Prices the Most in These Markets—Led by One ‘Weirdly Nice’ City",
-      "link": "https://www.realtor.com/news/trends/sellers-cutting-prices-markets-salt-lake-city-indianapolis-denver-october-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Price reductions were most common in Salt Lake City, where 31.8% of listings had price cuts as of October.",
-      "published": "2026-11-14T11:00:00+00:00",
-      "fetched": "2026-11-14T12:35:08.494072+00:00"
     }
   ]
 }

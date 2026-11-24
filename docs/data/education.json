@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-23T16:36:46.028164+00:00",
+  "updated": "2026-11-24T03:30:54.551402+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "d10eded024baa0d8",
+      "title": "Many languages, one common neural code",
+      "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+      "published": "2026-11-23T21:15:00+00:00",
+      "fetched": "2026-11-24T03:30:53.836678+00:00"
+    },
+    {
+      "id": "724363bee5b003c5",
+      "title": "J-PAL North America launches Medicaid Learning Lab to help state agencies test, learn, and improve health care delivery",
+      "link": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "The lab will support four state Medicaid agencies in building capacity to use evidence in their decision-making.",
+      "published": "2026-11-23T20:55:00+00:00",
+      "fetched": "2026-11-24T03:30:53.836714+00:00"
+    },
     {
       "id": "5feac5b39ae854e2",
       "title": "Behold the Most Detailed Painting in History: The Ghent Altarpiece",
@@ -1482,26 +1502,6 @@
       "summary": "Cast your mind, if you will, back to the year 2020. It now feels like a different time, what with the spreading COVID-19 pandemic and the heated sociopolitical battles being waged online, and indeed in the (socially distanced) streets. That spring, we featured here on Open Culture an amusing retro-technological diversion called Hyperland.",
       "published": "2026-10-20T09:00:25+00:00",
       "fetched": "2026-10-20T10:29:57.415440+00:00"
-    },
-    {
-      "id": "99b68fdeadb14a1b",
-      "title": "Hear How Clare Torry’s Vocals on Pink Floyd’s “The Great Gig in the Sky” Made the Song Go from Pretty Good to Downright Great",
-      "link": "https://www.openculture.com/2026/10/how-clare-torry-made-gig-in-the-sky-great.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Smack in the middle of Pink Floyd’s classic Dark Side of the Moon sits a song many listeners may hear as an extended bridge between the two true centerpieces, “Time” and “Money.” But I’ve always thought of “The Great Gig in the Sky” as the album’s true center, a swirling, swinging, soulful prog-rock masterpiece, carried to [ ]",
-      "published": "2026-10-20T08:00:24+00:00",
-      "fetched": "2026-10-20T10:29:57.415505+00:00"
-    },
-    {
-      "id": "b269f979e37a8232",
-      "title": "MIT spinout makes surgical stitching more like applying a sticky note",
-      "link": "https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "SanaHeal has developed a biologically compatible adhesive that sticks to wet tissues to simplify a variety of surgeries.",
-      "published": "2026-10-20T04:00:00+00:00",
-      "fetched": "2026-10-20T10:29:56.403053+00:00"
     }
   ]
 }

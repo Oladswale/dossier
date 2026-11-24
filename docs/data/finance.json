@@ -1,8 +1,168 @@
 {
   "category": "finance",
-  "updated": "2026-11-23T16:36:32.080737+00:00",
+  "updated": "2026-11-24T03:30:40.273121+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "559965f616dca4bf",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "published": "2026-11-24T01:01:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597463+00:00"
+    },
+    {
+      "id": "73e2d6bdf46a9e19",
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "SharkNinja will join the S P 500, replacing AES.",
+      "published": "2026-11-23T23:18:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597505+00:00"
+    },
+    {
+      "id": "b2d8009814a102d5",
+      "title": "FG targets 2027 to clear outstanding N3.3 trillion GenCo debt",
+      "link": "https://nairametrics.com/2026/11/23/fg-targets-2027-to-clear-outstanding-n3-3-trillion-genco-debt/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government plans to complete payment of the outstanding N3.3 trillion power sector debt owed to Generation Companies (GenCos) by 2027, according to the Minister of Power, Joseph Tegbe. The post FG targets 2027 to clear outstanding N3.3 trillion GenCo debt appeared first on Nairametrics .",
+      "published": "2026-11-23T22:21:02+00:00",
+      "fetched": "2026-11-24T03:30:39.080020+00:00"
+    },
+    {
+      "id": "dfd3c0ef17855a67",
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
+      "published": "2026-11-23T22:04:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597542+00:00"
+    },
+    {
+      "id": "a2ea78279715c9ed",
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
+      "published": "2026-11-23T21:51:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597578+00:00"
+    },
+    {
+      "id": "88b3278d445e3289",
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+      "published": "2026-11-23T21:45:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597608+00:00"
+    },
+    {
+      "id": "8716e3e2515aa747",
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+      "published": "2026-11-23T21:36:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597638+00:00"
+    },
+    {
+      "id": "f88db1644f4d0b59",
+      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+      "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+      "published": "2026-11-23T21:33:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597673+00:00"
+    },
+    {
+      "id": "8e130bea32f731ec",
+      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+      "published": "2026-11-23T21:24:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597701+00:00"
+    },
+    {
+      "id": "4f125d883a039e3b",
+      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+      "published": "2026-11-23T21:19:00+00:00",
+      "fetched": "2026-11-24T03:30:38.597727+00:00"
+    },
+    {
+      "id": "e90ed458ebce5664",
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "published": "2026-11-23T21:02:17+00:00",
+      "fetched": "2026-11-24T03:30:38.689341+00:00"
+    },
+    {
+      "id": "a2412ada58f6ef77",
+      "title": "NGX sell-off wipes out N767 billion, banking stocks lead market retreat",
+      "link": "https://nairametrics.com/2026/11/23/ngx-sell-off-wipes-out-n767-billion-banking-stocks-lead-market-retreat/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Nigerian Exchange (NGX) opened the trading week on a bearish note as heavy sell-offs across key sectors wiped off N767.36 billion from equity market capitalisation. The post NGX sell-off wipes out N767 billion, banking stocks lead market retreat appeared first on Nairametrics .",
+      "published": "2026-11-23T18:11:01+00:00",
+      "fetched": "2026-11-24T03:30:39.080069+00:00"
+    },
+    {
+      "id": "6f242b6a10289495",
+      "title": "NEC raises police colleges’ rehabilitation funding to N230 billion",
+      "link": "https://nairametrics.com/2026/11/23/nec-raises-police-colleges-rehabilitation-funding-to-n230-billion/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Economic Council (NEC) has approved an additional N130 billion for the rehabilitation of police training institutions, bringing its total commitment to N230 billion. The post NEC raises police colleges rehabilitation funding to N230 billion appeared first on Nairametrics .",
+      "published": "2026-11-23T18:05:53+00:00",
+      "fetched": "2026-11-24T03:30:39.080113+00:00"
+    },
+    {
+      "id": "9580920a936aab00",
+      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+      "published": "2026-11-23T18:00:47+00:00",
+      "fetched": "2026-11-24T03:30:38.689385+00:00"
+    },
+    {
+      "id": "d1584822be653ce0",
+      "title": "FG, UNHCR launch Digital Gateway to expand services for displaced people",
+      "link": "https://nairametrics.com/2026/11/23/fg-unhcr-launch-digital-gateway-to-expand-services-for-displaced-people/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Federal Government of Nigeria and the United Nations High Commissioner for Refugees (UNHCR) have launched a digital platform to simplify registration and improve access to information and support services for refugees, asylum-seekers and stateless persons in the country. The post FG, UNHCR launch Digital Gateway to expand services for displaced people appeared first on Nairametrics .",
+      "published": "2026-11-23T17:54:49+00:00",
+      "fetched": "2026-11-24T03:30:39.080159+00:00"
+    },
+    {
+      "id": "0f2f277742e50b3c",
+      "title": "Why African banks and telecoms cannot wait for quantum computers to arrive",
+      "link": "https://techcabal.com/2026/11/23/why-african-must-prepare-for-quantum/",
+      "source": "TechCabal",
+      "category": "finance",
+      "summary": "Quantum computers capable of breaking today’s encryption do not yet exist, but data stolen now could become readable later. For African banks and telecom operators, protecting long-lived secrets means preparing before those machines arrive.",
+      "published": "2026-11-23T16:44:28+00:00",
+      "fetched": "2026-11-24T03:30:40.272919+00:00"
+    },
     {
       "id": "ce11fa5f549af38c",
       "title": "The surprising reason businesses can’t keep up with customer demand. Hint: It’s not just a strong U.S. economy.",
@@ -12,6 +172,16 @@
       "summary": "The economy is on track to grow 3% in the final three months of 2026, a pair of S P surveys showed, aided by rising customer demand and the hope for more political stabilityafter the U.S. elections.",
       "published": "2026-11-23T16:03:00+00:00",
       "fetched": "2026-11-23T16:36:30.402270+00:00"
+    },
+    {
+      "id": "381027606324fa4b",
+      "title": "Nigerian equities transactions hit N17.13 trillion in 10 months despite foreign investors’ withdrawal",
+      "link": "https://nairametrics.com/2026/11/23/nigerian-equities-transactions-hit-n17-13-trillion-in-10-months-despite-foreign-investors-withdrawal/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Transactions on the Nigerian Exchange (NGX) reached N17.13 trillion in the first ten months of 2026, approximately 79% increase from N9.57 trillion recorded in the corresponding period of 2025, despite a steady withdrawal by foreign portfolio investors. The post Nigerian equities transactions hit N17.13 trillion in 10 months despite foreign investors’ withdrawal appeared first on Nairametrics .",
+      "published": "2026-11-23T15:44:32+00:00",
+      "fetched": "2026-11-24T03:30:39.080215+00:00"
     },
     {
       "id": "b5bc49d9f6242763",
@@ -1332,176 +1502,6 @@
       "summary": "A look at what the S P 500 did after that earlier IPO. Plus, a CoreWeave co-founder’s bet on bonds, and why tech outages have people stocking up on food and cash.",
       "published": "2026-11-20T12:19:00+00:00",
       "fetched": "2026-11-20T14:27:06.874578+00:00"
-    },
-    {
-      "id": "fee075eab2af996c",
-      "title": "Tony Elumelu tells Tinubu to focus on power after Fuel, FX and tax reforms",
-      "link": "https://nairametrics.com/2026/11/20/tony-elumelu-tells-tinubu-to-focus-on-power-after-fuel-fx-and-tax-reforms/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Tony Elumelu, chairman of Heirs Holdings and Transcorp Group, has urged President Bola Tinubu to keep electricity at the centre of his economic reform agenda, saying transparent rules would make Nigeria's power sector more attractive to investors. The post Tony Elumelu tells Tinubu to focus on power after Fuel, FX and tax reforms appeared first on Nairametrics .",
-      "published": "2026-11-20T11:57:42+00:00",
-      "fetched": "2026-11-20T14:27:07.459831+00:00"
-    },
-    {
-      "id": "fccdc2afd8d54d0f",
-      "title": "Elumelu urges Tinubu to set court performance targets to attract investors",
-      "link": "https://nairametrics.com/2026/11/20/elumelu-urges-tinubu-to-set-court-performance-targets-to-attract-investors/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Tony Elumelu, chairman of Heirs Holdings and Transcorp Group, has urged President Bola Tinubu to introduce performance targets for court case management and dispute resolution to strengthen investor confidence in Nigeria. The post Elumelu urges Tinubu to set court performance targets to attract investors appeared first on Nairametrics .",
-      "published": "2026-11-20T11:34:01+00:00",
-      "fetched": "2026-11-20T14:27:07.459854+00:00"
-    },
-    {
-      "id": "7ff8cdebe60907d0",
-      "title": "World Bank finds higher poverty rates in Sub-Saharan African towns than rural communities",
-      "link": "https://nairametrics.com/2026/11/20/world-bank-finds-higher-poverty-rates-in-sub-saharan-african-towns-than-rural-communities/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Households in average-sized towns across Sub-Saharan Africa are worse off economically than those in rural areas, according to a new World Bank report, challenging the assumption that moving from rural communities to urban settlements automatically improves living standards. The post World Bank finds higher poverty rates in Sub-Saharan African towns than rural communities appeared first on Nairametrics .",
-      "published": "2026-11-20T11:15:21+00:00",
-      "fetched": "2026-11-20T14:27:07.459880+00:00"
-    },
-    {
-      "id": "4923c87fd702409c",
-      "title": "Avon HMO, Avon Medical draw over 1,000 to Eko Atlantic",
-      "link": "https://nairametrics.com/2026/11/20/avon-hmo-avon-medical-draw-over-1000-to-eko-atlantic/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Avon Healthcare Limited (Avon HMO) and Avon Medical Practice, healthcare subsidiaries of Heirs Holdings Group, have drawn over 1,000 people to Eko Atlantic City, Lagos, for the 2026 Avon Colour Run, a morning of exercise, free health checks and wellness education aimed at making preventive care part of everyday life.Held on Saturday, 14 November 2026, [ ] The post Avon HMO, Avon Medical draw over 1,000 to Eko Atlantic appeared first on Nairametrics .",
-      "published": "2026-11-20T11:10:09+00:00",
-      "fetched": "2026-11-20T14:27:07.459909+00:00"
-    },
-    {
-      "id": "947ccceed63249de",
-      "title": "Nigerian stocks plunge on heavy sell-offs in Dangote Cement, Aradel, and banks amid falling oil and weaker naira",
-      "link": "https://nairametrics.com/2026/11/20/nigerian-stocks-plunge-on-heavy-sell-offs-in-dangote-cement-aradel-and-banks-amid-falling-oil-and-weaker-naira/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "A three-day bout of aggressive profit-taking, macroeconomic concerns, and liquidity rotation has wiped N3 trillion from the Nigerian stock market amid a blistering rally that lifted stocks to record levels earlier this month. The post Nigerian stocks plunge on heavy sell-offs in Dangote Cement, Aradel, and banks amid falling oil and weaker naira appeared first on Nairametrics .",
-      "published": "2026-11-20T11:04:55+00:00",
-      "fetched": "2026-11-20T14:27:07.459936+00:00"
-    },
-    {
-      "id": "b8b822261ec5ee54",
-      "title": "Innocent C.I ke to deliver convocation lecture at FUTA’s 37th Convocation Ceremony",
-      "link": "https://nairametrics.com/2026/11/20/innocent-c-i-ke-to-deliver-convocation-lecture-at-futas-37th-convocation-ceremony/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Group Managing Director/Chief Executive Officer of Access Holdings Plc, Mr. Innocent C. Ike, has been invited by the Federal University of Technology, Akure (FUTA) to deliver the Convocation Lecture at the University s 37th Convocation Ceremony.",
-      "published": "2026-11-20T09:41:19+00:00",
-      "fetched": "2026-11-20T14:27:07.459969+00:00"
-    },
-    {
-      "id": "8de5ba917ba4cddc",
-      "title": "Casava wins Microinsurance Company of the Year at Almond Insurance Industry Awards",
-      "link": "https://nairametrics.com/2026/11/20/casava-wins-microinsurance-company-of-the-year-at-almond-insurance-industry-awards/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Award recognises Casava s contribution to advancing accessible insurance and strengthening financial inclusion in Nigeria. Recognition underscores the company s commitment to advancing accessible insurance and strengthening financial inclusion in Nigeria. Casava has been named Microinsurance Company of the Year at the Almond Insurance Industry Awards, marking a significant milestone in the company s efforts to expand access [ ] The post Casava wins Microinsurance Company of the Year at Almond Insurance Industry Awards appeared first on Nairametrics .",
-      "published": "2026-11-20T09:36:28+00:00",
-      "fetched": "2026-11-20T14:27:07.460000+00:00"
-    },
-    {
-      "id": "cce195091302b24c",
-      "title": "NRS gives crypto firms November 30 deadline to register for tax compliance",
-      "link": "https://nairametrics.com/2026/11/20/nrs-gives-crypto-firms-november-30-deadline-to-register-for-tax-compliance/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigeria Revenue Service (NRS) has given virtual asset service providers (VASPs), including cryptocurrency exchanges and digital asset platforms operating in Nigeria, until November 30, 2026, to register on its newly deployed tax compliance portal. The post NRS gives crypto firms November 30 deadline to register for tax compliance appeared first on Nairametrics .",
-      "published": "2026-11-20T09:32:31+00:00",
-      "fetched": "2026-11-20T14:27:07.460024+00:00"
-    },
-    {
-      "id": "76c8db7954a752a0",
-      "title": "Simon Kolawole chronicles intrigues of 2023 presidential election in new book",
-      "link": "https://nairametrics.com/2026/11/20/simon-kolawole-chronicles-intrigues-of-2023-presidential-election-in-new-book/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The much-anticipated book on the 2023 presidential election by Simon Kolawole, journalist and founder of TheCable newspaper, will go on sale on Monday, November 23. The post Simon Kolawole chronicles intrigues of 2023 presidential election in new book appeared first on Nairametrics .",
-      "published": "2026-11-20T09:27:55+00:00",
-      "fetched": "2026-11-20T14:27:07.460045+00:00"
-    },
-    {
-      "id": "09960048ea295de1",
-      "title": "FG to shift unspent 2026 capital budget to 2027, moves to end overlapping budgets",
-      "link": "https://nairametrics.com/2026/11/20/fg-to-shift-unspent-2026-capital-budget-to-2027-moves-to-end-overlapping-budgets/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The federal government has advanced plans to harmonise the country’s budget, allowing outstanding capital expenditure balances from 2026 to be carried forward into 2027 as the Federal Government moves towards a single annual budget cycle. The post FG to shift unspent 2026 capital budget to 2027, moves to end overlapping budgets appeared first on Nairametrics .",
-      "published": "2026-11-20T09:01:55+00:00",
-      "fetched": "2026-11-20T14:27:07.460083+00:00"
-    },
-    {
-      "id": "0dc14fc8cc555e27",
-      "title": "Fidelity Bank announces Stanley Chiedoziem Amuchie as Managing Director/Chief Executive Officer",
-      "link": "https://nairametrics.com/2026/11/20/fidelity-bank-announces-stanley-chiedoziem-amuchie-as-managing-director-chief-executive-officer/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Fidelity Bank Plc is pleased to announce the confirmation of Mr. Stanley Chiedoziem Amuchie as its substantive Managing Director / Chief Executive Officer, following approval by the Central Bank of Nigeria (CBN) with effect from January 1, 2027. Amuchie, who is currently an Executive Director and the Chief Operations and Information Officer of the tier-one [ ] The post Fidelity Bank announces Stanley Chiedoziem Amuchie as Managing Director/Chief Executive Officer appeared first on Nairametrics .",
-      "published": "2026-11-20T09:00:35+00:00",
-      "fetched": "2026-11-20T14:27:07.460114+00:00"
-    },
-    {
-      "id": "7a7e36a8fc94fccd",
-      "title": "Huang: The boy who moved between China and South Africa wants to make Africa’s money move",
-      "link": "https://techcabal.com/2026/11/20/huang-cross-border-payments-africa/",
-      "source": "TechCabal",
-      "category": "finance",
-      "summary": "For Harry Huang, the problem with moving money across borders was not something he discovered in a boardroom or at a fintech conference. He had seen it much earlier, through his family’s import-export business. His parents were building a business in South Africa, dealing with suppliers and customers beyond the country’s borders.",
-      "published": "2026-11-20T08:28:36+00:00",
-      "fetched": "2026-11-20T14:27:09.998318+00:00"
-    },
-    {
-      "id": "092feee6818bac40",
-      "title": "Nigeria’s biggest IPOs of the last 30 years: Presco up 33,000%, Seplat 2,720%",
-      "link": "https://nairametrics.com/2026/11/20/nigerias-biggest-ipos-of-the-last-30-years-presco-up-33000-seplat-2720/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Over the past 30 years (1996–2026), Nigeria’s capital market has undergone several phases of public offerings, spanning its transition from the Nigerian Stock Exchange (NSE) to the Nigerian Exchange Group (NGX). The post Nigeria s biggest IPOs of the last 30 years: Presco up 33,000%, Seplat 2,720% appeared first on Nairametrics .",
-      "published": "2026-11-20T08:27:33+00:00",
-      "fetched": "2026-11-20T14:27:07.460143+00:00"
-    },
-    {
-      "id": "7dad46387f4904ab",
-      "title": "How iGaming Operators can expand across Nigerian states",
-      "link": "https://nairametrics.com/2026/11/20/how-igaming-operators-can-expand-across-nigerian-states/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Expanding across Nigeria means more than reaching new players. Since the Supreme Court transferred gaming regulation to the states in 2024, operators have had to account for different regulatory requirements as they enter new parts of the country. In November 2024, Nigeria’s Supreme Court affirmed the states’ authority over lottery and gaming regulation, with federal [ ] The post How iGaming Operators can expand across Nigerian states appeared first on Nairametrics .",
-      "published": "2026-11-20T08:12:32+00:00",
-      "fetched": "2026-11-20T14:27:07.460175+00:00"
-    },
-    {
-      "id": "449e004d809b90bd",
-      "title": "2026 Transport Safety Week: Unilever Nigeria rewards transporters, drivers for safety performance",
-      "link": "https://nairametrics.com/2026/11/20/2026-transport-safety-week-unilever-nigeria-rewards-transporters-drivers-for-safety-performance/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Unilever Nigeria, a leading manufacturing and fast-moving consumer goods company, has recognised and rewarded its transporters and drivers for their commitment to road safety and operational excellence at its 7th annual Transport Safety Week held in Agbara, Ogun State. The post 2026 Transport Safety Week: Unilever Nigeria rewards transporters, drivers for safety performance appeared first on Nairametrics .",
-      "published": "2026-11-20T08:05:22+00:00",
-      "fetched": "2026-11-20T14:27:07.460200+00:00"
-    },
-    {
-      "id": "1f76c24f1acb07a1",
-      "title": "Why BUA Cement, Dangote Cement, MTN, six others have free floats below 20% and still trading",
-      "link": "https://nairametrics.com/2026/11/20/why-bua-cement-dangote-cement-mtn-six-others-have-free-floats-below-20-and-still-trading/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nine companies in the NGX 30 Index have less than 20% of their shares in the hands of the investing public, with the bulk held by major shareholders, founders, and other strategic investors. The post Why BUA Cement, Dangote Cement, MTN, six others have free floats below 20% and still trading appeared first on Nairametrics .",
-      "published": "2026-11-20T07:52:54+00:00",
-      "fetched": "2026-11-20T14:27:07.460223+00:00"
-    },
-    {
-      "id": "67c35b9ac074229f",
-      "title": "Abia proposes N1.2 trillion 2027 budget, plans N552.67 billion concessional loans",
-      "link": "https://nairametrics.com/2026/11/20/abia-proposes-n1-2-trillion-2027-budget-plans-n552-67-billion-concessional-loans/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Abia State Governor Alex Otti has presented a N1.2 trillion Appropriation Bill for the 2027 fiscal year to the State House of Assembly, with N960 billion, representing 80% of the proposed budget, allocated to capital expenditure. The post Abia proposes N1.2 trillion 2027 budget, plans N552.67 billion concessional loans appeared first on Nairametrics .",
-      "published": "2026-11-20T07:38:54+00:00",
-      "fetched": "2026-11-20T14:27:07.460245+00:00"
     }
   ]
 }
