@@ -1,8 +1,168 @@
 {
   "category": "finance",
-  "updated": "2026-11-24T16:33:26.030006+00:00",
+  "updated": "2026-11-25T01:40:05.634248+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "3269e2405cb3ac29",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "published": "2026-11-25T01:13:56+00:00",
+      "fetched": "2026-11-25T01:40:03.949021+00:00"
+    },
+    {
+      "id": "e0ed26195180ea86",
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "published": "2026-11-25T01:11:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685158+00:00"
+    },
+    {
+      "id": "c30de6f908b99d8f",
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "published": "2026-11-25T00:30:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685193+00:00"
+    },
+    {
+      "id": "0d95497e0bc5f31a",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "published": "2026-11-25T00:05:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685220+00:00"
+    },
+    {
+      "id": "2da5aed55b59908a",
+      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "published": "2026-11-24T23:11:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685243+00:00"
+    },
+    {
+      "id": "b9d1a021783367cc",
+      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "The product, the first one beyond event contracts, was introduced in May.",
+      "published": "2026-11-24T23:03:24+00:00",
+      "fetched": "2026-11-25T01:40:03.949049+00:00"
+    },
+    {
+      "id": "419d54a7469a7a68",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "published": "2026-11-24T21:53:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685266+00:00"
+    },
+    {
+      "id": "db54ae9433424ef5",
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "published": "2026-11-24T21:31:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685303+00:00"
+    },
+    {
+      "id": "4808b08dca041e5a",
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "category": "finance",
+      "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+      "published": "2026-11-24T21:22:00+00:00",
+      "fetched": "2026-11-25T01:40:03.685332+00:00"
+    },
+    {
+      "id": "6d28fbdb8af08109",
+      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "source": "CNBC Finance",
+      "category": "finance",
+      "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+      "published": "2026-11-24T20:45:57+00:00",
+      "fetched": "2026-11-25T01:40:03.949070+00:00"
+    },
+    {
+      "id": "3ea8bb63a0a9edc4",
+      "title": "NGX slips N514.9 billion despite rally in insurance stocks",
+      "link": "https://nairametrics.com/2026/11/24/ngx-slips-n514-9-billion-despite-rally-in-insurance-stocks/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Bearish momentum extended its grip on the Nigerian Exchange Limited (NGX) on Tuesday, November 24, 2026, as selling pressure across major sectorial heavyweights dragged equity market capitalization down by N514.91 billion in a single trading session despite a rally in insurance stocks. The post NGX slips N514.9 billion despite rally in insurance stocks appeared first on Nairametrics .",
+      "published": "2026-11-24T18:42:33+00:00",
+      "fetched": "2026-11-25T01:40:04.307878+00:00"
+    },
+    {
+      "id": "80257a168d667ff7",
+      "title": "AIICO and Cornerstone plan merger. What’s in it for shareholders?",
+      "link": "https://nairametrics.com/2026/11/24/aiico-and-cornerstone-plan-merger-whats-in-it-for-shareholders/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "When AIICO joined the Nigerian stock market in 1990, Cornerstone had yet to be incorporated. More than three decades later, the two insurers are proposing to bring their businesses together. The post AIICO and Cornerstone plan merger.",
+      "published": "2026-11-24T18:17:18+00:00",
+      "fetched": "2026-11-25T01:40:04.307927+00:00"
+    },
+    {
+      "id": "38335c45296cb899",
+      "title": "Best-performing equity mutual funds in Nigeria as of October 2026",
+      "link": "https://nairametrics.com/2026/11/24/best-performing-equity-mutual-funds-in-nigeria-as-of-october-2026/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Nigeria's equity mutual fund segment slipped to a net asset value (NAV) of N239.76 billion as of October 30, 2026, down 1.67% from N243.84 billion recorded at the end of September, as the segment gave back part of the gains recorded in the prior month. The post Best-performing equity mutual funds in Nigeria as of October 2026 appeared first on Nairametrics .",
+      "published": "2026-11-24T17:59:18+00:00",
+      "fetched": "2026-11-25T01:40:04.307962+00:00"
+    },
+    {
+      "id": "41746b49514dcddf",
+      "title": "Presco Plc appoints Gangadhar Shetty as new Managing Director to lead the next phase of growth",
+      "link": "https://nairametrics.com/2026/11/24/presco-plc-appoints-gangadhar-shetty-as-new-managing-director-to-lead-the-next-phase-of-growth/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "Presco Plc (Bloomberg: PRESCO:NL Reuters: PRESCO.LG NGX: PRESCO), Nigeria’s leading fully integrated agro-industrial company, today announced the appointment of Mr. Gangadhar Shetty as its new Managing Director, effective 1st January 2027. This strategic appointment marks an important milestone in the Company s leadership journey, reinforcing its commitment to operational excellence, sustainable growth and long-term [ ] The post Presco Plc appoints Gangadhar Shetty as new Managing Director to lead the next phase of growth appeared first on Nairametrics .",
+      "published": "2026-11-24T17:37:30+00:00",
+      "fetched": "2026-11-25T01:40:04.308024+00:00"
+    },
+    {
+      "id": "03e3724a099cd550",
+      "title": "NAFDAC challenges Edo committee’s authority to declare products counterfeit",
+      "link": "https://nairametrics.com/2026/11/24/nafdac-challenges-edo-committees-authority-to-declare-products-counterfeit/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) has challenged the Edo State Consumer Protection Committee's authority to seize regulated products, seal business premises, impose fines and declare products counterfeit or adulterated without its authorisation. The post NAFDAC challenges Edo committee s authority to declare products counterfeit appeared first on Nairametrics .",
+      "published": "2026-11-24T17:35:54+00:00",
+      "fetched": "2026-11-25T01:40:04.308061+00:00"
+    },
+    {
+      "id": "a232ed3be09bdd02",
+      "title": "Cardoso explains why Naira is under pressure",
+      "link": "https://nairametrics.com/2026/11/24/cardoso-explain-why-naira-is-under-pressure/",
+      "source": "Nairametrics",
+      "category": "finance",
+      "summary": "The Central Bank of Nigeria (CBN) has assured Nigerians that the country’s foreign exchange reserves remain strong enough to withstand external shocks, describing the recent decline as a normal and temporary market adjustment. CBN Governor Olayemi Cardoso gave the assurance on Tuesday during a media briefing after the 308th meeting of the Monetary Policy Committee [ ] The post Cardoso explains why Naira is under pressure appeared first on Nairametrics .",
+      "published": "2026-11-24T17:11:03+00:00",
+      "fetched": "2026-11-25T01:40:04.308102+00:00"
+    },
     {
       "id": "84262281af206e30",
       "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
@@ -1342,166 +1502,6 @@
       "summary": "The Gulf is attracting startups with venture capital, funding programmes, and access to international markets. Nigerian entrepreneur Samuel Ubido believes African founders are overlooking opportunities in the region, and they may not need to relocate to benefit.",
       "published": "2026-11-21T11:55:41+00:00",
       "fetched": "2026-11-21T13:46:25.837120+00:00"
-    },
-    {
-      "id": "7bc1b568fbd3e33a",
-      "title": "Kenya begins crude oil drilling ahead of December 1 first oil target",
-      "link": "https://nairametrics.com/2026/11/21/kenya-begins-crude-oil-drilling-ahead-of-december-1-first-oil-target/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Kenya has commenced crude oil drilling in the South Lokichar Basin, marking a major step towards commercial production, which is targeted to begin on December 1, 2026. The post Kenya begins crude oil drilling ahead of December 1 first oil target appeared first on Nairametrics .",
-      "published": "2026-11-21T10:52:50+00:00",
-      "fetched": "2026-11-21T13:46:25.156042+00:00"
-    },
-    {
-      "id": "0b0fd4d8dd0e22d8",
-      "title": "FG begins construction of $70 million privately funded passport manufacturing centre in Abuja",
-      "link": "https://nairametrics.com/2026/11/21/fg-begins-construction-of-70-million-privately-funded-passport-manufacturing-centre-in-abuja/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Federal Government has commenced construction of a $70 million National Passport Manufacturing Centre in Abuja, with the project entirely funded by private capital and no financial commitment from the government. The post FG begins construction of $70 million privately funded passport manufacturing centre in Abuja appeared first on Nairametrics .",
-      "published": "2026-11-21T09:50:48+00:00",
-      "fetched": "2026-11-21T13:46:25.156092+00:00"
-    },
-    {
-      "id": "66845b06d5a6aca9",
-      "title": "Kenya’s foreign reserves fall $656 million as import cover drops to 5.6 months",
-      "link": "https://nairametrics.com/2026/11/21/kenyas-foreign-reserves-fall-656-million-as-import-cover-drops-to-5-6-months/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Kenya’s foreign-exchange reserves fell by $656 million in the week to November 19, 2026, reducing the country’s import cover from 5.9 months to 5.6 months (about five months and 18 days), according to the Central Bank of Kenya (CBK). The post Kenya’s foreign reserves fall $656 million as import cover drops to 5.6 months appeared first on Nairametrics .",
-      "published": "2026-11-21T09:15:34+00:00",
-      "fetched": "2026-11-21T13:46:25.156156+00:00"
-    },
-    {
-      "id": "364ad5870ee9513a",
-      "title": "Dangote, Otedola, four others lose N2.19 trillion in equity holdings",
-      "link": "https://nairametrics.com/2026/11/21/dangote-otedola-four-others-lose-n2-19-trillion-in-equity-holdings/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The market value of listed equities linked to Aliko Dangote, Femi Otedola and four other prominent Nigerian investors declined by an estimated N2.19 trillion between November 16 and November 20, 2026. The post Dangote, Otedola, four others lose N2.19 trillion in equity holdings appeared first on Nairametrics .",
-      "published": "2026-11-21T09:04:05+00:00",
-      "fetched": "2026-11-21T13:46:25.156203+00:00"
-    },
-    {
-      "id": "c76effc98c062c8d",
-      "title": "Naira falls 2.50%, touches N1,400 despite CBN’s intervention",
-      "link": "https://nairametrics.com/2026/11/21/naira-falls-2-50-touches-n1400-despite-cbns-intervention/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The naira depreciated by 2.50% against the United States dollar on Friday, November 20, 2026, touching N1,400/$ despite CBN’s sale of $1.30 billion to meet interbank foreign exchange demand that increased nearly twelvefold during the week. The post Naira falls 2.50%, touches N1,400 despite CBN’s intervention appeared first on Nairametrics .",
-      "published": "2026-11-21T08:49:34+00:00",
-      "fetched": "2026-11-21T13:46:25.156256+00:00"
-    },
-    {
-      "id": "1fb5a54aa89ebe37",
-      "title": "10 oldest listed Companies on the NGX and when they joined",
-      "link": "https://nairametrics.com/2026/11/21/10-oldest-listed-companies-on-the-ngx-and-when-they-joined/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Nigeria's capital market has undergone significant changes over the decades, with companies entering the Nigerian Exchange (NGX) to raise capital, expand their businesses and provide investors with opportunities to own stakes in some of the country's biggest enterprises. However, remaining listed has proved just as challenging as gaining admission to the Exchange. The post 10 oldest listed Companies on the NGX and when they joined appeared first on Nairametrics .",
-      "published": "2026-11-21T07:56:49+00:00",
-      "fetched": "2026-11-21T13:46:25.156311+00:00"
-    },
-    {
-      "id": "23372aed8f9c0a07",
-      "title": "GSMA says Africa has 64% mobile internet usage gap despite 92% network coverage",
-      "link": "https://nairametrics.com/2026/11/21/gsma-says-africa-has-64-mobile-internet-usage-gap-despite-92-network-coverage/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "Africa has a 64% mobile internet usage gap despite mobile broadband networks covering 92% of the continent’s population, as high smartphone costs, limited digital skills and inadequate access to relevant local content continue to prevent millions of people from using the internet. The post GSMA says Africa has 64% mobile internet usage gap despite 92% network coverage appeared first on Nairametrics .",
-      "published": "2026-11-21T07:37:12+00:00",
-      "fetched": "2026-11-21T13:46:25.156368+00:00"
-    },
-    {
-      "id": "d1f72742d5b290d0",
-      "title": "Why Nigerian banks must partner with stablecoin infrastructure providers – Clea CEO",
-      "link": "https://nairametrics.com/2026/11/21/why-nigerian-banks-must-partner-with-stablecoin-infrastructure-providers-clea-ceo/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "In this interview with Nairametrics, Sheriff Adedokun, Co-Founder and CEO of Clea, discusses the challenges and opportunities in the industry and makes the case for banks to adopt digital asset infrastructure providers. The post Why Nigerian banks must partner with stablecoin infrastructure providers – Clea CEO appeared first on Nairametrics .",
-      "published": "2026-11-21T07:28:52+00:00",
-      "fetched": "2026-11-21T13:46:25.156421+00:00"
-    },
-    {
-      "id": "32c313b7c8a6f664",
-      "title": "Lagos delivers 294 homes in Ogombo, Abraham Adesanya, targets 2,000 more",
-      "link": "https://nairametrics.com/2026/11/21/lagos-delivers-294-homes-in-ogombo-abraham-adesanya-targets-2000-more/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Lagos State Government has delivered 294 housing units across two developments in Ogombo and Abraham Adesanya, while targeting more than 2,000 additional homes across the state before the end of Governor Babajide Sanwo-Olu’s administration. The post Lagos delivers 294 homes in Ogombo, Abraham Adesanya, targets 2,000 more appeared first on Nairametrics .",
-      "published": "2026-11-21T07:13:12+00:00",
-      "fetched": "2026-11-21T13:46:25.156470+00:00"
-    },
-    {
-      "id": "2789f7be39f80d65",
-      "title": "NISO blames line trips for Friday’s power disruption, rules out grid collapse",
-      "link": "https://nairametrics.com/2026/11/21/niso-blames-line-trips-for-fridays-power-disruption-rules-out-grid-collapse/",
-      "source": "Nairametrics",
-      "category": "finance",
-      "summary": "The Nigerian Independent System Operator (NISO) has attributed Friday’s electricity disruption in parts of the country to the tripping of multiple transmission lines, ruling out a national grid collapse. The post NISO blames line trips for Friday’s power disruption, rules out grid collapse appeared first on Nairametrics .",
-      "published": "2026-11-21T06:39:23+00:00",
-      "fetched": "2026-11-21T13:46:25.156547+00:00"
-    },
-    {
-      "id": "b19aab674423db43",
-      "title": "How China is using summits to expand its global influence",
-      "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-      "source": "CNBC Finance",
-      "category": "finance",
-      "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-      "published": "2026-11-21T06:00:02+00:00",
-      "fetched": "2026-11-21T13:46:24.877458+00:00"
-    },
-    {
-      "id": "574d1bf7e91b0158",
-      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-      "published": "2026-11-21T03:20:00+00:00",
-      "fetched": "2026-11-21T04:25:23.211533+00:00"
-    },
-    {
-      "id": "9161259617b9a529",
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "All 11 S P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-      "published": "2026-11-20T22:46:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266551+00:00"
-    },
-    {
-      "id": "3506737ea9cc7a51",
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-      "published": "2026-11-20T22:44:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266578+00:00"
-    },
-    {
-      "id": "6586d790f16e1187",
-      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "94% of stocks in the S P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-      "published": "2026-11-20T22:44:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266598+00:00"
-    },
-    {
-      "id": "50867e1b02c3e172",
-      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "category": "finance",
-      "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
-      "published": "2026-11-20T21:58:00+00:00",
-      "fetched": "2026-11-20T23:25:45.266619+00:00"
     }
   ]
 }

@@ -1,8 +1,138 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-24T16:33:41.095674+00:00",
+  "updated": "2026-11-25T01:40:21.413835+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "ab9dc48d786c0ef7",
+      "title": "‘The Murder of JonBenét Ramsey’ Puts Family’s Former Boulder, CO, Residence in the Spotlight Once Again",
+      "link": "https://www.realtor.com/news/trends/murder-of-jonbenet-ramsey-netflix-series-boulder-colorado-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The infamous cold case is regaining attention with an upcoming Netflix limited series starring Melissa McCarthy and Clive Owen.",
+      "published": "2026-11-25T00:03:37+00:00",
+      "fetched": "2026-11-25T01:40:21.413145+00:00"
+    },
+    {
+      "id": "a761c7ef673fdd8f",
+      "title": "Amazon Explicitly Bans Tiny Homes—Here’s How Sellers Are Sneaking $20K Prefabs Onto the Site Anyway",
+      "link": "https://www.realtor.com/news/trends/amazon-tiny-homes-ban-zoning-insurance-risks/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Amazon bans tiny homes, yet $20,000 prefabs still appear. See how sellers skirt the rules—and the zoning and insurance risks buyers face.",
+      "published": "2026-11-24T22:44:01+00:00",
+      "fetched": "2026-11-25T01:40:21.413179+00:00"
+    },
+    {
+      "id": "acc0d6495f1bf494",
+      "title": "If the AI Bubble Pops, Here’s What It Means for Your Home’s Value",
+      "link": "https://www.realtor.com/advice/finance/ai-bubble-housing-market-home-prices/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The AI boom has helped drive housing demand. Its collapse could threaten the wealth of homeowners who have never invested in tech stocks.",
+      "published": "2026-11-24T22:32:00+00:00",
+      "fetched": "2026-11-25T01:40:21.413202+00:00"
+    },
+    {
+      "id": "9b992d9c102abfe6",
+      "title": "Iowa Residents Told To Evacuate or Shelter in Place as U.S. Army Prepares To Detonate Nearly 10,000 Pounds of a Lead Explosive",
+      "link": "https://www.realtor.com/news/trends/iowa-residents-evacuate-army-lead-explosive-detonation/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Iowa residents are advised to evacuate or shelter in place as the U.S. Army prepares to detonate 9,700 pounds of unstable lead azide.",
+      "published": "2026-11-24T21:16:45+00:00",
+      "fetched": "2026-11-25T01:40:21.413225+00:00"
+    },
+    {
+      "id": "fa7838c18c1452d9",
+      "title": "Inside Elizabeth Holmes’ Secret Oceanfront Rental Seen in ‘You Can See Everything’ Documentary a Month Before She’s Sent to Prison",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/elizabeth-holmes-you-can-see-everything-home-del-mar-california/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The Theranos founder's documentary was filmed in secret at an ultraprivate home she rented before going to prison.",
+      "published": "2026-11-24T19:25:00+00:00",
+      "fetched": "2026-11-25T01:40:21.413248+00:00"
+    },
+    {
+      "id": "6700da9155af055b",
+      "title": "Jessica Alba Ordered To Pay Cash Warren $577K—Inside Her Recent Beverly Hills Real Estate Moves",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/jessica-alba-to-pay-cash-warren-retirement-benefits-beverly-hills-real-estate/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The ruling comes after the former couple sold their longtime Beverly Hills-area home and Alba later purchased another property in the area.",
+      "published": "2026-11-24T19:24:04+00:00",
+      "fetched": "2026-11-25T01:40:21.413270+00:00"
+    },
+    {
+      "id": "52330ff630404728",
+      "title": "Derek Hough Recalls Difficult Utah Upbringing with Neighbors Who ‘Terrorized’ Family Before Moving to London",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/derek-hough-utah-neighbors-london-move-shirley-ballas/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The \"Dancing with the Stars\" judge opened up about his challenging childhood that lead him to move to London with the Ballas family.",
+      "published": "2026-11-24T19:18:23+00:00",
+      "fetched": "2026-11-25T01:40:21.413292+00:00"
+    },
+    {
+      "id": "e46525b5bd1d0073",
+      "title": "Can a Solar Generator Actually Keep Your Lights On During an Outage—or Is It Just Expensive Hype?",
+      "link": "https://www.realtor.com/advice/home-improvement/solar-generator-outage-usefulness/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Americans are clearing generators off retailers' shelves, with many focusing on solar generators. But are they the better buy?",
+      "published": "2026-11-24T19:01:12+00:00",
+      "fetched": "2026-11-25T01:40:21.413315+00:00"
+    },
+    {
+      "id": "6ade585658e74d4d",
+      "title": "Miley Cyrus’ Wedding Venue Was Frank Sinatra’s Former Palm Springs Home—and It’s Available as a Vacation Rental",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/miley-cyrus-wedding-frank-sinatra-palm-springs-home-for-rent/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Miley Cyrus and Maxx Morando tied the knot at a famous Palm Springs estate that the \"Fly Me to the Moon\" singer commissioned in 1947.",
+      "published": "2026-11-24T17:59:06+00:00",
+      "fetched": "2026-11-25T01:40:21.413338+00:00"
+    },
+    {
+      "id": "92e97b7ab9cb4947",
+      "title": "Condo vs. Townhouse: Which Investment Will Turn Around More Equity After a Decade?",
+      "link": "https://www.realtor.com/advice/buy/condo-vs-townhouse-equity-returns/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Condos and townhouses have both soared in value, but the last decade shows clear winners depending on where you buy.",
+      "published": "2026-11-24T17:53:00+00:00",
+      "fetched": "2026-11-25T01:40:21.413357+00:00"
+    },
+    {
+      "id": "45e81d29e3f8c841",
+      "title": "AnnaLynne McCord Looks Back on the ‘Days of Our Lives’ Role That ‘Saved’ Her—Months After Her Backyard Wedding at Her L.A. Home",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/annalynne-mccord-days-of-our-lives-role-los-angeles-home-backyard-wedding/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "In an interview with Hollywood Hills Magazine, the actress, 39, said joining the soap “saved” her.",
+      "published": "2026-11-24T17:31:02+00:00",
+      "fetched": "2026-11-25T01:40:21.413380+00:00"
+    },
+    {
+      "id": "696a76959b1b7bef",
+      "title": "Ann Michael Maye Unveils a Patriots Christmas Tree at Home With Drake Maye—and His Jersey Number Makes the Cut",
+      "link": "https://www.realtor.com/news/sports/drake-maye-wife-ann-michael-maye-christmas-tree-massachusetts-home/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Ann Michael teamed up with Minted to reveal a holiday display that draws as much from her kitchen as it does the football field.",
+      "published": "2026-11-24T16:35:18+00:00",
+      "fetched": "2026-11-25T01:40:21.413402+00:00"
+    },
+    {
+      "id": "1a84f0b819a283d4",
+      "title": "Thanksgiving Nor’easter Could Leave Homeowners in the Dark: Where Power Outages Are Likely Over the Holiday",
+      "link": "https://www.realtor.com/news/trends/thanksgiving-weather-forecast-noreaster-power-outages-macys-parade/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The weather looks bad for homeowners on both the East and West coasts, with some areas primed for power outages on Thanksgiving.",
+      "published": "2026-11-24T16:07:57+00:00",
+      "fetched": "2026-11-25T01:40:21.413423+00:00"
+    },
     {
       "id": "d37ed9e91dc25f08",
       "title": "Thanksgiving Nor’easter Could Leave Homeowners In The Dark: Where Power Outages are Likeliest Over The Holiday",
@@ -12,6 +142,16 @@
       "summary": "The weather looks bad for homeowners on both the East and West coasts, with some areas primed for power outages on Thanksgiving.",
       "published": "2026-11-24T16:07:57+00:00",
       "fetched": "2026-11-24T16:33:41.094873+00:00"
+    },
+    {
+      "id": "676ab3535275b83a",
+      "title": "National Home Value Growth Holds Steady, Yet Miami Outperforms",
+      "link": "https://www.realtor.com/news/trends/home-prices-values-case-shiller-index-september-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Home price growth remained flat at 2.1% in September while inflation accelerated.",
+      "published": "2026-11-24T15:12:03+00:00",
+      "fetched": "2026-11-25T01:40:21.413440+00:00"
     },
     {
       "id": "49b17c0f30a484a7",
@@ -1362,146 +1502,6 @@
       "summary": "With multigenerational housing on the rise, future-proofing isn't just for you, but also those who might find themselves living with you.",
       "published": "2026-11-16T22:58:01+00:00",
       "fetched": "2026-11-17T01:10:04.650265+00:00"
-    },
-    {
-      "id": "3d50971ce2729001",
-      "title": "Inside the Properties James Bond Has Made Famous as Robert Pattinson Gears Up to Play 007",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/james-bond-real-life-properties-filming-locations/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Robert Pattinson has been announced as the next actor to play James Bond, but the film franchise has touched down in many iconic properties.",
-      "published": "2026-11-16T22:40:16+00:00",
-      "fetched": "2026-11-17T01:10:04.650302+00:00"
-    },
-    {
-      "id": "9a047159d243949d",
-      "title": "Jennifer Lopez Celebrates ‘Freedom’ as an Empty Nester Since Her Twins Left California Home for College",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jennifer-lopez-empty-nest-twins-college-california-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Lopez, who shares the twins with ex-husband Marc Anthony, admitted that she \"cried for six months straight\" when her twins went to college.",
-      "published": "2026-11-16T22:11:17+00:00",
-      "fetched": "2026-11-17T01:10:04.650337+00:00"
-    },
-    {
-      "id": "77db96e40198201c",
-      "title": "Nantucket Brokerage Must Pay $1.3 Million to Buyers Who Couldn’t Expand Their Home as Desired",
-      "link": "https://www.realtor.com/news/trends/nantucket-home-lawsuit-william-raevis-additions-permits/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Mary Murray and Jeffrey Ment bought a two-bedroom home on Nantucket after their real estate agent erroneously said they could add on to it.",
-      "published": "2026-11-16T21:54:15+00:00",
-      "fetched": "2026-11-17T01:10:04.650369+00:00"
-    },
-    {
-      "id": "26033e6b6a5e45c4",
-      "title": "Landlord With Dark Past Is Charged With the Murder of Disabled Tenant Who Was ‘Late on Rent’",
-      "link": "https://www.realtor.com/news/trends/landlord-murder-charge-jonah-jeter-new-mexico/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A New Mexico landlord is accused of fatally shooting his disabled tenant amid an alleged eviction dispute.",
-      "published": "2026-11-16T21:37:02+00:00",
-      "fetched": "2026-11-17T01:10:04.650399+00:00"
-    },
-    {
-      "id": "da0f41f1d3306c14",
-      "title": "Drake Maye Suffers Potentially Season-Ending Ankle Injury—Inside His Massachusetts Home Where He Could Recover",
-      "link": "https://www.realtor.com/news/sports/drake-maye-ankle-injury-massachusetts-home-where-he-could-recover/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "According to reports, Maye fractured his ankle and may be sidelined for the remainder of the season.",
-      "published": "2026-11-16T21:07:18+00:00",
-      "fetched": "2026-11-17T01:10:04.650427+00:00"
-    },
-    {
-      "id": "87be6b6000ccb751",
-      "title": "Manhattan’s Top 2 Sales This Week Go Under Contract After Price Hikes",
-      "link": "https://www.realtor.com/news/trends/manhattan-most-expensive-sales-olshan-november-16-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The top-two sales in Manhattan last week were in signature luxury buildings that were able to raise their asking prices since first listing.",
-      "published": "2026-11-16T20:25:24+00:00",
-      "fetched": "2026-11-17T01:10:04.650456+00:00"
-    },
-    {
-      "id": "fef85617b10add06",
-      "title": "Inside Harry Styles’ Multimillion-Dollar Property Portfolio as He’s Snubbed in the 2027 Grammy Nominations",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/inside-harry-styles-property-portfolio-tribeca-new-york-london/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Although the hitmaker was snubbed by the Grammys, he boasts several chart-topping homes.",
-      "published": "2026-11-16T19:50:16+00:00",
-      "fetched": "2026-11-17T01:10:04.650483+00:00"
-    },
-    {
-      "id": "2888eb093a9fc9a7",
-      "title": "Unlicensed Plumber Accused of Squatting and Subleasing Rooms in Senior Woman’s Home",
-      "link": "https://www.realtor.com/news/trends/unlicensed-plumber-squatting-san-diego-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "A 76-year-old woman who hired a plumber to make repairs to her San Diego home said he took over the house and rented it out to strangers.",
-      "published": "2026-11-16T19:45:31+00:00",
-      "fetched": "2026-11-17T01:10:04.650511+00:00"
-    },
-    {
-      "id": "f504a3ba1dea7b99",
-      "title": "Noah Kahan Says ‘Life Goes On’ After Grammys Snub—Inside the Vermont Town the Artist Calls Home When He Wants to Escape Nashville",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/noah-kahan-strafford-vermont-nashville-tennessee-homes/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Noah Kahan has been candid about the stark contrast between life in the spotlight versus the quiet pace of his hometown.",
-      "published": "2026-11-16T19:34:15+00:00",
-      "fetched": "2026-11-17T01:10:04.650540+00:00"
-    },
-    {
-      "id": "546f62c59ef34de5",
-      "title": "EXCLUSIVE: Jenny McCarthy and Donnie Wahlberg Sell Longtime Illinois Home for $2.6 Million",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jenny-mccarthy-donnie-wahlberg-sell-longtime-illinois-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The singer, 57, and the actress, 53, owned the residence for more than a decade, having purchased it for $1.1 million in 2015.",
-      "published": "2026-11-16T19:22:40+00:00",
-      "fetched": "2026-11-17T01:10:04.650568+00:00"
-    },
-    {
-      "id": "38ec0a2ca85aa9e1",
-      "title": "Inside Dolly Parton’s Eclectic Property Portfolio and Legacy as the Music Legend Receives Posthumous Grammy Nods",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/dolly-parton-homes-tennessee-brentwood-california-secret/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The singer, who passed away in August at the age of 80, has been honored with three posthumous Grammy nominations.",
-      "published": "2026-11-16T19:10:00+00:00",
-      "fetched": "2026-11-17T01:10:04.650595+00:00"
-    },
-    {
-      "id": "ba44b4b095fcf05c",
-      "title": "Why Transparency Matters More Than Ever in Real Estate Financing",
-      "link": "https://www.biggerpockets.com/blog/why-transparency-matters-more-than-ever-in-real-estate-financing",
-      "source": "BiggerPockets Blog",
-      "category": "real-estate",
-      "summary": "This article is presented by Dominion Financial. Every December, a bunch of very smart people publish their housing forecasts for the year ahead, and every December, I read them all. [ ]",
-      "published": "2026-11-16T19:03:47+00:00",
-      "fetched": "2026-11-17T01:10:04.246820+00:00"
-    },
-    {
-      "id": "5691720eaa942825",
-      "title": "Inside Warren Buffett’s Surprisingly Modest Property Portfolio as He Steps Down as Berkshire Hathaway Chairman",
-      "link": "https://www.realtor.com/news/trends/warren-buffett-property-portfolio-berkshire-chairman/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Berkshire Hathaway announced that Buffett has stepped down as chairman, with his son, Howard G. Buffett, taking over.",
-      "published": "2026-11-16T18:33:00+00:00",
-      "fetched": "2026-11-17T01:10:04.650623+00:00"
-    },
-    {
-      "id": "ea91c0bb592d755b",
-      "title": "HOA Trade Group Presses for More Protections After DC Shooter Targeted Building Manager",
-      "link": "https://www.realtor.com/news/real-estate-news/dc-gym-shooting-matt-lambert-hoa-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The trade group representing homeowners associations is calling for stronger protections after a shooting in DC.",
-      "published": "2026-11-16T17:29:58+00:00",
-      "fetched": "2026-11-17T01:10:04.650647+00:00"
     }
   ]
 }
