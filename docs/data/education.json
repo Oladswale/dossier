@@ -1,8 +1,38 @@
 {
   "category": "education",
-  "updated": "2026-11-25T01:40:20.755638+00:00",
+  "updated": "2026-11-25T16:15:24.450080+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "80f71b738404ee09",
+      "title": "Draining peatlands leaves a long legacy of warming",
+      "link": "https://news.mit.edu/2026/draining-peatlands-leaves-long-warming-legacy-1125",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "A new study finds the long-term decomposition of drained bogs, fens, and swamps is responsible for about 3 percent of human-caused climate warming.",
+      "published": "2026-11-25T16:00:00+00:00",
+      "fetched": "2026-11-25T16:15:23.994536+00:00"
+    },
+    {
+      "id": "6c8101c2e76a1e5b",
+      "title": "The Map of Ancient Philosophy: Animation Shows How Socrates, Aristotle, Confucius, the Buddha & Other Great Thinkers Fit Together",
+      "link": "https://www.openculture.com/2026/11/the-map-of-ancient-philosophy.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Here on Open Culture, we’ve often featured the charming and informative posters of Domain of Science. Each one maps out a different field of knowledge: there’s biology, physics, chemistry, quantum physics, quantum computing, fungi, and many others besides. But with his latest map, Domain of Science creator Dominic Walliman has turned away from the scientific [ ]",
+      "published": "2026-11-25T09:00:18+00:00",
+      "fetched": "2026-11-25T16:15:24.449952+00:00"
+    },
+    {
+      "id": "4fc0fac982ab25c4",
+      "title": "Electric seaglider created by MIT alumni takes flight",
+      "link": "https://news.mit.edu/2026/electric-seaglider-from-mit-alumni-takes-flight-1125",
+      "source": "MIT News",
+      "category": "education",
+      "summary": "Hoping to combine the speed of planes with the affordability of ferries, Regent Craft is developing a quiet, more sustainable mode of maritime transportation.",
+      "published": "2026-11-25T05:00:00+00:00",
+      "fetched": "2026-11-25T16:15:23.994559+00:00"
+    },
     {
       "id": "1ced3ce02474cefc",
       "title": "3 Questions: Tackling energy challenges in a changing world",
@@ -1472,36 +1502,6 @@
       "summary": "Professor Fan Wang is recognized as “Committed to Caring” for creating a supportive environment for ambitious research and student well-being.",
       "published": "2026-10-21T20:45:00+00:00",
       "fetched": "2026-10-21T20:56:51.356163+00:00"
-    },
-    {
-      "id": "df0be8e79faf018b",
-      "title": "For students with their sights set on space medicine, a new community takes flight",
-      "link": "https://news.mit.edu/2026/mit-doctors-without-gravity-takes-flight-1021",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "MIT’s Doctors Without Gravity club connects health and space science enthusiasts.",
-      "published": "2026-10-21T20:40:00+00:00",
-      "fetched": "2026-10-21T20:56:51.356189+00:00"
-    },
-    {
-      "id": "a569279c4a8bd54b",
-      "title": "In 1897, London’s Lampposts Dispensed Hot Coffee, Tea, and “Fluid Beef”",
-      "link": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Any reader of Victorian literature will wonder how much a ha’penny was actually worth in those days. For a little more than a year at the very end of that period, it could buy you a cup of coffee, cocoa, milk, tea, or “fluid beef” — which would pour out of a lamppost on the [ ]",
-      "published": "2026-10-21T09:00:04+00:00",
-      "fetched": "2026-10-21T10:41:10.387286+00:00"
-    },
-    {
-      "id": "50dcaf3a68842100",
-      "title": "Sears Sold 75,000 DIY Mail Order Homes Between 1908 and 1939, and Transformed American Life",
-      "link": "https://www.openculture.com/2026/10/sears-sold-75000-diy-mail-order-homes-transformed-american-life.html",
-      "source": "Open Culture",
-      "category": "education",
-      "summary": "Two of the books that most shaped American culture both happened to bear the nickname “The Big Book.” While the second of these, the A.A. Manual, published in 1939, changed the country with 12-Step recovery groups, the first of these, the Sears Catalog, transformed America with mass consumption, offering customers in every part of the [ ]",
-      "published": "2026-10-21T08:00:54+00:00",
-      "fetched": "2026-10-21T10:41:10.387348+00:00"
     }
   ]
 }
