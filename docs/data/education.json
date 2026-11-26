@@ -1,8 +1,28 @@
 {
   "category": "education",
-  "updated": "2026-11-26T01:13:20.554151+00:00",
+  "updated": "2026-11-26T15:52:59.813904+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "55c378f115d7bf56",
+      "title": "How a Thanksgiving Crisis Inspired the Invention of Swanson’s TV Dinner (1953)",
+      "link": "https://www.openculture.com/2026/11/how-a-thanksgiving-crisis-inspired-the-invention-of-swansons-tv-dinner-1953.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "“Taste — the mouth’s response to the sensation of eating and drinking — is a strange and complex and complicated thing,” writes New York Times food editor Craig Claiborne. “I am convinced that there are a multitude of people (Americans, mostly, to judge by the people who buy TV dinners and frozen pizzas) who have no [ ]",
+      "published": "2026-11-26T10:00:00+00:00",
+      "fetched": "2026-11-26T15:52:59.813639+00:00"
+    },
+    {
+      "id": "466128e9522ac852",
+      "title": "The Illustrated Version of “Alice’s Restaurant”: Watch Arlo Guthrie’s Thanksgiving Counterculture Classic",
+      "link": "https://www.openculture.com/2026/11/alices-restaurant-watch-arlo-guthries-thanksgiving-counterculture-classic.html",
+      "source": "Open Culture",
+      "category": "education",
+      "summary": "Alice’s Restaurant. It’s now a Thanksgiving classic, and something of a tradition around here. Recorded in 1967, the 18+ minute counterculture song recounts Arlo Guthrie’s real encounter with the law, starting on Thanksgiving Day 1965.",
+      "published": "2026-11-26T09:00:57+00:00",
+      "fetched": "2026-11-26T15:52:59.813705+00:00"
+    },
     {
       "id": "80f71b738404ee09",
       "title": "Draining peatlands leaves a long legacy of warming",
@@ -1482,26 +1502,6 @@
       "summary": "Latin is a language As dead as dead can be; It killed the Romans long ago, And now it’s killing me. That famed ditty isn’t likely to resonate with many modern school children, but interest in ancient Rome remains fairly robust. We’ve come to accept that those stately ruins were once covered in graffiti.",
       "published": "2026-10-22T08:00:47+00:00",
       "fetched": "2026-10-22T10:43:41.933478+00:00"
-    },
-    {
-      "id": "15b835c47c885e8d",
-      "title": "Startup plans to rejuvenate the nuclear power industry with a new manufacturing approach",
-      "link": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Founded by Jake Jurewicz ’14, SM ’15, Blue Energy manufactures giant pieces of nuclear reactors at shipyards and ships them on barges for final assembly, to lower costs.",
-      "published": "2026-10-22T04:00:00+00:00",
-      "fetched": "2026-10-22T10:43:41.190809+00:00"
-    },
-    {
-      "id": "9041a48da6db1223",
-      "title": "Making room to explore",
-      "link": "https://news.mit.edu/2026/fan-wang-making-room-to-explore-1021",
-      "source": "MIT News",
-      "category": "education",
-      "summary": "Professor Fan Wang is recognized as “Committed to Caring” for creating a supportive environment for ambitious research and student well-being.",
-      "published": "2026-10-21T20:45:00+00:00",
-      "fetched": "2026-10-21T20:56:51.356163+00:00"
     }
   ]
 }
