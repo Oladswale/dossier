@@ -1,8 +1,78 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-27T01:11:44.846393+00:00",
+  "updated": "2026-11-27T15:41:21.661023+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "6ce7d1c0265dec6b",
+      "title": "How State Environmental Laws Are Being ‘Weaponized’ To Stall Housing and Drive Up Costs",
+      "link": "https://www.realtor.com/news/real-estate-news/state-environmental-laws-stall-housing-costs-study/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "A study finds state environmental review laws are often used to stall housing developments, adding years of delays and millions in costs.",
+      "published": "2026-11-27T14:04:00+00:00",
+      "fetched": "2026-11-27T15:41:21.660331+00:00"
+    },
+    {
+      "id": "0669d2a9330b183e",
+      "title": "Buffett’s Berkshire Hathaway Bets $600M on Housing",
+      "link": "https://www.biggerpockets.com/blog/real-estate-1362",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Berkshire Hathaway, legendary investor Warren Buffett’s holding company, just made a nearly $600M bet on the housing market, all while real estate sentiment hits its lowest levels in over a [ ]",
+      "published": "2026-11-27T12:00:51+00:00",
+      "fetched": "2026-11-27T15:41:21.081379+00:00"
+    },
+    {
+      "id": "53a30fa866ddf3df",
+      "title": "How to Buy 4 Rental Properties by 40 Years Old",
+      "link": "https://www.biggerpockets.com/blog/rookie-802",
+      "source": "BiggerPockets Blog",
+      "category": "real-estate",
+      "summary": "Four rental properties by age 40? It’s possible, and if you can achieve it, your financial future will change forever. Henry and I have done it—both of us were able [ ]",
+      "published": "2026-11-27T12:00:00+00:00",
+      "fetched": "2026-11-27T15:41:21.081424+00:00"
+    },
+    {
+      "id": "5a89809b07a7218a",
+      "title": "I Found a Real Estate ‘Unicorn’: 2 Homes, 1 Mortgage, and $187K a Year",
+      "link": "https://www.realtor.com/news/first-person/pigeon-forge-airbnb-investment-two-homes-one-mortgage/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "See how a real estate investor bought two Pigeon Forge cabins under one mortgage for $462,000—and grossed up to $187,000 in a single year.",
+      "published": "2026-11-27T10:00:00+00:00",
+      "fetched": "2026-11-27T15:41:21.660370+00:00"
+    },
+    {
+      "id": "f67bc3ccfa23068f",
+      "title": "From Honky-Tonks to High-End Estates: Inside Nashville’s Lasting Luxury Boom",
+      "link": "https://www.realtor.com/news/trends/nashville-pandemic-gains-luxury-housing-market-report-november-2026/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Nashville has retained 83% of its pandemic-era home price gains, fueled by corporate relocations and luxury builds.",
+      "published": "2026-11-27T09:43:00+00:00",
+      "fetched": "2026-11-27T15:41:21.660397+00:00"
+    },
+    {
+      "id": "ff2fe8bef5949305",
+      "title": "Why This Winter Could Be a Hidden Opportunity for Homebuyers—Plus a New Rate Discount From Chase",
+      "link": "https://www.realtor.com/news/trends/chase-mortgage-rate-discount-winter-housing-forecast/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "The housing market remains tough this winter. But for prepared buyers, there are still going to be opportunities.",
+      "published": "2026-11-27T09:00:00+00:00",
+      "fetched": "2026-11-27T15:41:21.660424+00:00"
+    },
+    {
+      "id": "a20e2a02ec2eae6b",
+      "title": "Washington, DC, Struggles with Low Starter Home Availability Compared to Other Cities",
+      "link": "https://www.realtor.com/advice/hyperlocal/washington-dc-low-starter-home-availability/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Living near the nation's capitol has become that much harder in recent years as starter home inventory keeps declining.",
+      "published": "2026-11-27T00:01:00+00:00",
+      "fetched": "2026-11-27T15:41:21.660449+00:00"
+    },
     {
       "id": "1c34be5fb3fb5878",
       "title": "Inside a 3-Home Co-Living Compound Designed for Friends To Buy Together",
@@ -42,6 +112,16 @@
       "summary": "What would you pay to watch the Macy’s Thanksgiving Day Parade from your own Manhattan living room?",
       "published": "2026-11-26T13:30:00+00:00",
       "fetched": "2026-11-26T15:53:00.418558+00:00"
+    },
+    {
+      "id": "addb63daac82d716",
+      "title": "Mountain Modern Home With Views of Two Ski Resorts Lists for $15.3 Million in Park City",
+      "link": "https://www.realtor.com/news/unique-homes/mountain-modern-home-park-city-for-sale/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Built in 2005, this architecturally designed home has four bedrooms, spans 7,053 square feet, and boasts panoramic views.",
+      "published": "2026-11-26T13:03:00+00:00",
+      "fetched": "2026-11-27T15:41:21.660513+00:00"
     },
     {
       "id": "c13adc541d884275",
@@ -1422,86 +1502,6 @@
       "summary": "Grand Theft Auto VI is out on Thursday. Here's a guide to some of the real-life locations that fans believe inspired the game.",
       "published": "2026-11-18T17:46:53+00:00",
       "fetched": "2026-11-18T23:38:25.241893+00:00"
-    },
-    {
-      "id": "2c5636974348ad16",
-      "title": "Glenn Close Details the Greenwich Upbringing That Served as a Beacon During Her Time in a ‘Restrictive Cult’ and Inspired Her ‘Family Sanctuary’ in Montana",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/glenn-close-restrictive-cult-upbringing-family-sanctuary-bozeman-montana/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "During an honorary Oscar's acceptance speech, \"The Hunger Games\" star shared how her childhood has impacted her current life.",
-      "published": "2026-11-18T17:27:45+00:00",
-      "fetched": "2026-11-18T23:38:25.241923+00:00"
-    },
-    {
-      "id": "dcd972b90a85d441",
-      "title": "Jenny McCarthy’s Son Opens Up About the Heartbreak of Leaving the $2.6 Million Illinois Home He Grew Up In",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/jenny-mccarthy-donnie-wahlberg-son-tearful-goodbye-childhood-illinois-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The singer, 57, and the actress, 53, owned the residence for more than a decade, having purchased it for $1.1 million in 2015.",
-      "published": "2026-11-18T16:25:09+00:00",
-      "fetched": "2026-11-18T23:38:25.241951+00:00"
-    },
-    {
-      "id": "181492b97ee2b26c",
-      "title": "Pending Home Sales Tumble to New Record Low as High Mortgage Rates Freeze Buyers",
-      "link": "https://www.realtor.com/news/trends/pending-home-sales-fall-october-2026-housing-update/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Pending home sales fell 4.7% last month compared to September, and were down 16.7% compared to October 2025.",
-      "published": "2026-11-18T15:18:37+00:00",
-      "fetched": "2026-11-18T23:38:25.241974+00:00"
-    },
-    {
-      "id": "2ca58e52b3e1d96a",
-      "title": "Mortgage Demand Falls 2.3% as Rates Resume Climbing After 4 Weeks of Declines",
-      "link": "https://www.realtor.com/news/trends/mortgage-applications-rates-mba-survey-movember-18-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Interest rates climbed once more, after declining for the past four weeks, and remain over 7%.",
-      "published": "2026-11-18T14:28:14+00:00",
-      "fetched": "2026-11-18T14:39:43.493368+00:00"
-    },
-    {
-      "id": "ae969ddafabdf7eb",
-      "title": "Single-Family Construction Rebounds in November, but Permits Nosedive",
-      "link": "https://www.realtor.com/news/trends/housing-starts-permits-census-november-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Construction of new single-family homes rose a bit in October, but permits fell sharply, the U.S. Census Bureau reported.",
-      "published": "2026-11-18T14:07:25+00:00",
-      "fetched": "2026-11-18T23:38:25.242006+00:00"
-    },
-    {
-      "id": "fba0539c84218dd2",
-      "title": "Single-Family Construction Rebounds in November, But Permits Nosedive",
-      "link": "https://www.realtor.com/news/trends/housing-starts-permits-census-november-2026/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Construction of new single-family homes rose a bit October, but permits fell sharply the U.S. Census Bureau reported.",
-      "published": "2026-11-18T14:07:25+00:00",
-      "fetched": "2026-11-18T14:39:43.493395+00:00"
-    },
-    {
-      "id": "81f126489b752dab",
-      "title": "Farrah Aldjufrie and Zach Goldsmith Welcome Their First Child—Inside the Umansky Family’s Plans for Baby’s First Holiday Season",
-      "link": "https://www.realtor.com/news/reality-tv/kyle-richards-daughter-farrah-aldjufrie-zach-goldstein-welcome-baby-umansky-family-plans/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The 37-year-old property mogul, who is the daughter of Richards and her ex-husband, Guraish Aldjufrie, shared that she was pregnant in July.",
-      "published": "2026-11-18T14:02:16+00:00",
-      "fetched": "2026-11-18T14:39:43.493436+00:00"
-    },
-    {
-      "id": "eff5818fa1d7b1b3",
-      "title": "Patrick and Brittany Mahomes Are Expecting a Baby Boy—Inside the Custom Missouri Mansion Where They’ll Raise Their Fourth Child",
-      "link": "https://www.realtor.com/news/celebrity-real-estate/patrick-brittany-mahomes-expecting-fourth-child-inside-missouri-home/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "The quarterback and his wife, took to Instagram to share the joyous news that their family is expanding earlier this month.",
-      "published": "2026-11-18T13:47:00+00:00",
-      "fetched": "2026-11-18T14:39:43.493459+00:00"
     }
   ]
 }
