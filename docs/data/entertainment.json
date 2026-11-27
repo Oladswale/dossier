@@ -1,8 +1,188 @@
 {
   "category": "entertainment",
-  "updated": "2026-11-26T15:52:59.000058+00:00",
+  "updated": "2026-11-27T01:11:43.356395+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "b2de0b34ea19fc12",
+      "title": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+      "link": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "SPOILER ALERT: This article contains major spoilers for the finale of Blade Runner 2099, now streaming on Prime Video. In the finale of Blade Runner 2099, the future of humanity is anything but certain. After discovering that the stolen memory they’ve spent the series searching for contains Dr.",
+      "published": "2026-11-27T01:00:00+00:00",
+      "fetched": "2026-11-27T01:11:43.096198+00:00"
+    },
+    {
+      "id": "8eb33e6bef72455f",
+      "title": "Watch Miranda Lambert Perform Medley of Her Hits at Dallas Cowboys Halftime Show",
+      "link": "https://www.rollingstone.com/music/music-country/miranda-lambert-dallas-cowboys-halftime-show-performance-1235664551/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The native Texan tackled songs like \"Gunpowder Lead\" and \"Little Red Wagon\" in her first NFL appearance during the annual Thanksgiving tradition",
+      "published": "2026-11-27T00:00:49+00:00",
+      "fetched": "2026-11-27T01:11:43.222118+00:00"
+    },
+    {
+      "id": "45d070f37fb9bd91",
+      "title": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
+      "link": "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died. He was 91.",
+      "published": "2026-11-26T23:33:00+00:00",
+      "fetched": "2026-11-27T01:11:43.096244+00:00"
+    },
+    {
+      "id": "8a57078bc99aa8c8",
+      "title": "Lola Blankets’ Black Friday Sale Is Officially Live — and Everything Is 50% Off",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/shop-lola-blankets-black-friday-sale-get-50-percent-off-1235664228/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "From the bestselling Lola Original to cozy pet beds and even holiday stockings, you can save hundreds on the brand's viral favorites right now",
+      "published": "2026-11-26T23:00:00+00:00",
+      "fetched": "2026-11-27T01:11:43.222150+00:00"
+    },
+    {
+      "id": "fd2318a3f3032c50",
+      "title": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
+      "link": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Asha Bhosle and S. Janaki, two of Indian cinema s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S. Chithra and actor-filmmaker Suhasini Maniratnam.",
+      "published": "2026-11-26T22:34:41+00:00",
+      "fetched": "2026-11-27T01:11:43.096284+00:00"
+    },
+    {
+      "id": "89a1ef56769a3463",
+      "title": "Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character’s Motivations",
+      "link": "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film. Plemons plays Plutarch Heavensbee, a Capitol insider, who becomes a key figure in the rebellion that sparks in the latter half of Suzanne Collins’ original trilogy of dystopian novels. [ ]",
+      "published": "2026-11-26T22:30:37+00:00",
+      "fetched": "2026-11-27T01:11:43.096327+00:00"
+    },
+    {
+      "id": "c19ccedaaaef36c8",
+      "title": "John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, “Oh My God, He’s the Devil”’",
+      "link": "https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "John Travolta rarely connects with all his characters. Sometimes, he even loves to hate them. “They say you have to find something you like,” the actor explains.",
+      "published": "2026-11-26T22:05:47+00:00",
+      "fetched": "2026-11-27T01:11:43.096369+00:00"
+    },
+    {
+      "id": "29f36213cb3f5e18",
+      "title": "Chiwetel Ejiofor on How Stephen Frears’ ‘Dirty Pretty Things’ Led Him to Fall in Love With Film",
+      "link": "https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Chiwetel Ejiofor started his film career by doing something that many would consider as the absolute peak: he made a film with Steven Spielberg. “Amistad” was his very first film and, understandably, he was afraid of peaking too soon. “I was definitely worried about it at the time,” he said at Torino Film Festival.",
+      "published": "2026-11-26T20:58:05+00:00",
+      "fetched": "2026-11-27T01:11:43.096408+00:00"
+    },
+    {
+      "id": "80b3329db0279ec2",
+      "title": "Luca Guadagnino Wants Next Movie to Be a ‘Love Story,’ Confirms ‘American Psycho’ and ‘Separate Rooms’ Not Happening",
+      "link": "https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Luca Guadagnino wants to return to romance. Speaking to Variety at the Marrakech Film Festival where he s presenting Artificial, the Italian filmmaker behind “Call Me by Your Name,” “Bones and All” and “Queer” revealed that he hopes his next directorial endeavor will be another love story. “I think a lot of inspiration could come from [ ]",
+      "published": "2026-11-26T20:47:42+00:00",
+      "fetched": "2026-11-27T01:11:43.096448+00:00"
+    },
+    {
+      "id": "dcf1d0ec5175d74a",
+      "title": "What’s New on Netflix for December 2026",
+      "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Winter is here, and December is the perfect time to get cozy and hunker down for the holidays. What better way to do so than surfing the streaming platforms for a new show to binge or movie to obsess over? “La Bola Negra,” which has garnered significant attention in its festival run, is one of [ ]",
+      "published": "2026-11-26T20:35:00+00:00",
+      "fetched": "2026-11-27T01:11:43.096483+00:00"
+    },
+    {
+      "id": "7bfbf5336efe5e0c",
+      "title": "‘Hejira’ at 50: Beck, Cameron Crowe, Clairo, and More Honor Joni Mitchell’s 1976 Masterpiece",
+      "link": "https://www.rollingstone.com/music/music-features/joni-mitchell-hejira-anniversary-1235656052/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "Jamie Lee Curtis, producer Nigel Godrich, Fleet Foxes' Robin Pecknold, and more discuss the road-trip classic",
+      "published": "2026-11-26T20:23:59+00:00",
+      "fetched": "2026-11-27T01:11:43.222172+00:00"
+    },
+    {
+      "id": "23bbb41ef146cdac",
+      "title": "Watch Wu-Tang Clan Perform ‘Triumph,’ ‘Bring Da Ruckus’ at NFL Thanksgiving Halftime Show",
+      "link": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums",
+      "published": "2026-11-26T20:21:52+00:00",
+      "fetched": "2026-11-27T01:11:43.222193+00:00"
+    },
+    {
+      "id": "ffa0d04844e31729",
+      "title": "What’s New on Disney+ in December 2026",
+      "link": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Disney+ is back to bring festive cheer home with holly jolly favorites and new seasonal premieres to watch with the whole family. Fans can stream classics like “Home Alone 2: Lost in New York” and “Die Hard,” or make the season merry with new releases including “Mickey’s Home Alone” and “Diary of a Wimpy Kid [ ]",
+      "published": "2026-11-26T20:20:00+00:00",
+      "fetched": "2026-11-27T01:11:43.096518+00:00"
+    },
+    {
+      "id": "1fe53ee82f1def01",
+      "title": "Jessy Moussallem’s ‘Faux Bijoux,’ Laila Abbas’ ‘America Is Behind the Door’ Take Top Prizes at Marrakech’s Atlas Workshops",
+      "link": "https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/",
+      "source": "Variety",
+      "category": "entertainment",
+      "summary": "Jessy Moussallem’s “Faux Bijoux” and Laila Abbas’ “America Is Behind the Door” claimed the top post-production and development prizes, respectively, at this year’s Atlas Workshops, the industry strand running Nov. 22 – 26 as part of the Marrakech Film Festival. The winner of a post-production grant in the amount of €30,000 ($33,000), Moussallem’s debut feature [ ]",
+      "published": "2026-11-26T20:13:14+00:00",
+      "fetched": "2026-11-27T01:11:43.096558+00:00"
+    },
+    {
+      "id": "11b21196246d9ff3",
+      "title": "Ariana Grande’s Best On-Screen Roles",
+      "link": "https://www.rollingstone.com/tv-movies/tv-movie-lists/ariana-grande-focker-in-law-best-acting-roles-1235663043/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "With Focker-In-Law out this week, we look back at some of the singer's most memorable characters and cameos",
+      "published": "2026-11-26T18:00:00+00:00",
+      "fetched": "2026-11-27T01:11:43.222212+00:00"
+    },
+    {
+      "id": "2e9b1a00b19d9d91",
+      "title": "Snoop Dogg Teams Up With Feid for Thanksgiving Single ‘Gracias x Todo’",
+      "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "The musicians recently previewed the track during a performance at the Latin Grammy Awards",
+      "published": "2026-11-26T17:40:02+00:00",
+      "fetched": "2026-11-27T01:11:43.222230+00:00"
+    },
+    {
+      "id": "dfbc2f6f0d1a50f0",
+      "title": "Donald Trump Rants About ‘Radical Far Left,’ Ballroom Critics in Thanksgiving Post",
+      "link": "https://www.rollingstone.com/politics/politics-news/donald-trump-thanksgiving-post-rant-radical-far-left-1235664889/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "He added his thanks that \"murders, drug dealers, and criminals ... are mostly gone now, brought back to their point of origin\"",
+      "published": "2026-11-26T16:56:08+00:00",
+      "fetched": "2026-11-27T01:11:43.222251+00:00"
+    },
+    {
+      "id": "8f347b793942d06c",
+      "title": "Jalen Brunson Is Teaming Up With Lowe’s for a Black Friday Giveaway Worth Millions",
+      "link": "https://www.rollingstone.com/product-recommendations/lifestyle/best-lowes-black-friday-deals-2026-shop-online-1235664845/",
+      "source": "Rolling Stone",
+      "category": "entertainment",
+      "summary": "We sat down with the NBA superstar to talk about his latest campaign, his favorite holiday traditions, and why he’s a proud \"Belieber\"",
+      "published": "2026-11-26T15:56:52+00:00",
+      "fetched": "2026-11-27T01:11:43.222275+00:00"
+    },
     {
       "id": "ddac356a1b1211e1",
       "title": "The Best Audible Books to Listen to Right Now: ‘ACOTAR,’ ‘Hunger Games,’ ‘Pride & Prejudice’ and More",
@@ -1322,186 +1502,6 @@
       "summary": "The U.K. s position as one of the world s biggest entertainment hubs is being given a boost by UTA, which is relocating its London headquarters to a new purpose-built space and bring with it all its local businesses. According to the agency, the move — set to take place in early 2027 — shows its unwavering commitment to [ ]",
       "published": "2026-11-23T15:00:00+00:00",
       "fetched": "2026-11-23T16:36:44.449466+00:00"
-    },
-    {
-      "id": "7916d3eba3aa11e1",
-      "title": "The 200 Best Songs of the 1990s",
-      "link": "https://www.rollingstone.com/music/music-lists/best-1990s-songs-1235651872/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "From Biggie to Blur to Britney, from New Jack Swing to shoegaze to ska — let’s celebrate the beauty, brilliance, and weirdness of one of music’s most bountiful decades",
-      "published": "2026-11-23T14:54:48+00:00",
-      "fetched": "2026-11-23T16:36:44.842856+00:00"
-    },
-    {
-      "id": "f98400c2e95c72de",
-      "title": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
-      "link": "https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Netflix’s feature-length documentary “Tyson Fury,” which follows the two-time heavyweight champion of the world’s journey from childhood to the pinnacle of his sport, reveals that the boxer has been diagnosed with schizophrenia. The film, which is directed by Lucy Wilcox, will debut on Nov. 27, just two weeks before Fury’s live Netflix bout against Anthony [ ]",
-      "published": "2026-11-23T14:37:00+00:00",
-      "fetched": "2026-11-23T16:36:44.449516+00:00"
-    },
-    {
-      "id": "fc246d5f8b98ac9d",
-      "title": "‘Avengers: Doomsday’ Final Trailer: Captain America’s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men",
-      "link": "https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Marvel has dropped the final trailer for Avengers: Doomsday ahead of its Dec. 18 release. The new trailer picks up after the new scene featuring Steve Rogers and Peggy Carter that was added to Avengers: Endgame Encore, which reveals the couple s teenaged son.",
-      "published": "2026-11-23T14:09:57+00:00",
-      "fetched": "2026-11-23T16:36:44.449601+00:00"
-    },
-    {
-      "id": "222a9800658752ab",
-      "title": "Travis Scott, Slayyyter, 21 Savage Top ‘Grand Theft Auto VI: The Album (Deluxe Edition)’",
-      "link": "https://www.rollingstone.com/music/music-news/grand-theft-auto-vi-the-album-deluxe-edition-album-release-1235662514/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The expanded album features 23 original tracks from the hit video game",
-      "published": "2026-11-23T14:00:00+00:00",
-      "fetched": "2026-11-23T16:36:44.842883+00:00"
-    },
-    {
-      "id": "9ab72aeaf2cd45c4",
-      "title": "Switched at Birth: How Two Men Spent 36 Years Living Each Other’s Lives",
-      "link": "https://www.rollingstone.com/culture/culture-features/switched-at-birth-1235636233/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "Jeremy Morrison and Kyle Bylin were the only two babies born on a cold night in Grafton, North Dakota, in 1988. When one of them took a DNA test decades later, everything changed",
-      "published": "2026-11-23T14:00:00+00:00",
-      "fetched": "2026-11-23T16:36:44.842915+00:00"
-    },
-    {
-      "id": "9ad6f8bee550e324",
-      "title": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd, Postpones London Show",
-      "link": "https://www.rollingstone.com/music/music-news/don-toliver-manchester-show-evacuation-unknown-substance-1235662518/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "More than 12,000 people were safely removed from Co-op Live on Sunday night; “I just wanna make sure everyone is safe,” Toliver said",
-      "published": "2026-11-23T08:09:24+00:00",
-      "fetched": "2026-11-23T16:36:44.842946+00:00"
-    },
-    {
-      "id": "829b6c9c93219960",
-      "title": "Watch Olivia Rodrigo Cover ‘Dead Leaves and the Dirty Ground’ at Jack White’s Blue Room",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-dead-leaves-and-the-dirty-ground-cover-live-1235662456/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The singer played a tight set during a performance recorded for Third Man Records",
-      "published": "2026-11-23T03:35:49+00:00",
-      "fetched": "2026-11-23T04:14:53.677162+00:00"
-    },
-    {
-      "id": "af663e86b4a706db",
-      "title": "Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar",
-      "link": "https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spain, the Country of Honor at this year s International Film Festival of India (IFFI), made its case to Indian filmmakers at WAVES Film Bazaar in Goa, laying out its incentives, locations and crews and pushing for closer co-production ties. The panel, Spain: Where Stories Find Their Stage – Incentives, Locations Co-production Opportunities, was part [ ]",
-      "published": "2026-11-23T02:43:23+00:00",
-      "fetched": "2026-11-23T04:14:53.437364+00:00"
-    },
-    {
-      "id": "873ac51c4f3c18a2",
-      "title": "China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame",
-      "link": "https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Lionsgate Films dystopian prequel The Hunger Games: Sunrise on the Reaping debuted atop the mainland China box office during the Nov. 20–22 weekend, collecting RMB39.3 million ($5.9 million) over its three-day opening frame, according to data from Artisan Gateway. New Classics Pictures crime procedural drama Traces of Justice moved to second place after a two-week [ ]",
-      "published": "2026-11-23T02:33:16+00:00",
-      "fetched": "2026-11-23T04:14:53.437430+00:00"
-    },
-    {
-      "id": "d956c55ce925f324",
-      "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
-      "link": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Don Toliver’s concert at Co-op Live in Manchester, England ended in an evacuation as tear gas was released in the crowd on Sunday. “It is understood that a substance believed to be tear gas was let off in the crowd towards the end of a concert, wrote the Greater Manchester Police in a statement. According [ ]",
-      "published": "2026-11-23T02:00:46+00:00",
-      "fetched": "2026-11-23T04:14:53.437468+00:00"
-    },
-    {
-      "id": "b111bc15c06b1f85",
-      "title": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
-      "link": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. Hey, so I m here with my movie Hexed, but it looks like they delivered a chair from a different movie, said the actress [ ]",
-      "published": "2026-11-23T01:32:26+00:00",
-      "fetched": "2026-11-23T04:14:53.437504+00:00"
-    },
-    {
-      "id": "33734baac6212c29",
-      "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
-      "link": "https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "The K-pop group Ateez continued its string of chart successes with the No. 1 bow on the Billboard 200 album chart of Golden Hour: Part 6. It s the third time in 2026 that the group has had an EP debut in the top spot; the last such occasion came in July, when they premiered at [ ]",
-      "published": "2026-11-22T23:27:32+00:00",
-      "fetched": "2026-11-23T04:14:53.437538+00:00"
-    },
-    {
-      "id": "2a90e660626b6d70",
-      "title": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
-      "link": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has defied expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.” Surely part of the success here [ ]",
-      "published": "2026-11-22T22:46:48+00:00",
-      "fetched": "2026-11-22T22:52:58.831772+00:00"
-    },
-    {
-      "id": "bf75cce1e073e005",
-      "title": "Vikings vs. 49ers Livestream: How to Watch the Mexico Game for Free Online",
-      "link": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-vikings-49ers-mexico-game-online-free-livestream-1235661526/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "The NFC showdown will be the sixth regular-season game held in Mexico City’s Estadio Azteca",
-      "published": "2026-11-22T22:20:00+00:00",
-      "fetched": "2026-11-22T22:52:58.999852+00:00"
-    },
-    {
-      "id": "465e787e02707df4",
-      "title": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
-      "link": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their [ ]",
-      "published": "2026-11-22T21:31:30+00:00",
-      "fetched": "2026-11-22T22:52:58.831832+00:00"
-    },
-    {
-      "id": "97db028ef82b335a",
-      "title": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
-      "link": "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Spain’s Huelva Ibero-American Film Festival, one of Europe’s foremost Latin American cinema platforms, prized two of the region’s cinema greats, awarding top prizes to Chilean actor Alfredo Castro and Argentine writer-director Lucía Puenzo on Saturday night. “La Bola Negra” also reaped yet another plaudit, its scribe-helmer-producer duo Javier Calvo and Javier Ambrossi Los Javis [ ]",
-      "published": "2026-11-22T21:09:57+00:00",
-      "fetched": "2026-11-22T22:52:58.831885+00:00"
-    },
-    {
-      "id": "0cd9fa074c205a43",
-      "title": "PlaqueBoyMax Wants to Find Your Next Favorite Artist",
-      "link": "https://www.rollingstone.com/music/music-features/plaqueboymax-rising-star-interview-new-album-1235662193/",
-      "source": "Rolling Stone",
-      "category": "entertainment",
-      "summary": "With his music competition, \"Rising Star,\" the streamer is giving emerging artists a weekend to show what they can do. He’s got an album of his own in the works, too",
-      "published": "2026-11-22T20:49:50+00:00",
-      "fetched": "2026-11-22T22:52:58.999890+00:00"
-    },
-    {
-      "id": "adceadb17439e741",
-      "title": "John Turturro Says ‘I Still Consider Myself a Beginner’ as He Gets Marrakech Film Festival Tribute Award: ‘Every Job Is Like a First Love’",
-      "link": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255/",
-      "source": "Variety",
-      "category": "entertainment",
-      "summary": "Though his career has spanned over four decades, John Turturro still feels like it s just the beginning. The 69-year-old actor and filmmaker was honored with a tribute award at Marrakech Film Festival on Sunday night, where he was greeted with roaring applause as he mimed the iconic bowling moves of his The Big Lebowski character [ ]",
-      "published": "2026-11-22T20:39:11+00:00",
-      "fetched": "2026-11-22T22:52:58.831932+00:00"
     }
   ]
 }
