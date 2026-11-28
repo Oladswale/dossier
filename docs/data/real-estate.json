@@ -1,8 +1,28 @@
 {
   "category": "real-estate",
-  "updated": "2026-11-28T00:44:30.721581+00:00",
+  "updated": "2026-11-28T14:37:15.055254+00:00",
   "count": 150,
   "items": [
+    {
+      "id": "0b4184ca405178fb",
+      "title": "EXCLUSIVE: This Miami Condo Tower Will Offer a Concierge That Can Find a Sitter, Stock Your Fridge, and Arrange Dinner for You",
+      "link": "https://www.realtor.com/news/trends/miami-cipriani-tower-condo-luxury-home-services/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Imagine coming home to a stocked fridge and a chef already making dinner. At Cipriani Residences Miami, that’s how a weeknight could look.",
+      "published": "2026-11-28T14:32:00+00:00",
+      "fetched": "2026-11-28T14:37:15.054814+00:00"
+    },
+    {
+      "id": "44722e95babb2019",
+      "title": "After Seeing Her Neighbor Priced Out, She Wrote a Novel Where Zoning Codes Are ‘the Villain’",
+      "link": "https://www.realtor.com/news/trends/rachel-pastan-new-novel-lucky-live-here/",
+      "source": "Realtor.com News",
+      "category": "real-estate",
+      "summary": "Author Rachel Pastan tackles housing affordability in her latest novel, “We’re So Lucky To Live Here.\"",
+      "published": "2026-11-28T12:12:00+00:00",
+      "fetched": "2026-11-28T14:37:15.054839+00:00"
+    },
     {
       "id": "8a2347acaadfdb1e",
       "title": "Bronwyn Newport Gives Estranged Husband Todd Bradley a Tour of Her New Salt Lake City Home: ‘It’s Time To Move On’",
@@ -1482,26 +1502,6 @@
       "summary": "In the West Coast, most locales are struggling to have enough entry-level inventory for buyers. But things are improving in Portland.",
       "published": "2026-11-18T21:51:35+00:00",
       "fetched": "2026-11-18T23:38:25.241645+00:00"
-    },
-    {
-      "id": "a938d485ad70ba12",
-      "title": "Dorit Kemsley Reveals She’s Found a New Home After Eviction From the L.A. Family Estate She Shared With Estranged Husband PK",
-      "link": "https://www.realtor.com/news/reality-tv/dorit-kemsley-new-home-eviction-from-los-angeles-family-home-ex-husband-pk/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "While attending the Maison D’Or cocktail launch, Dorit told Page Six that she and her children found a new place to call home.",
-      "published": "2026-11-18T21:20:47+00:00",
-      "fetched": "2026-11-18T23:38:25.241676+00:00"
-    },
-    {
-      "id": "c9e03924728f37b8",
-      "title": "Oklahoma City, OK, Struggles With Low Starter Home Availability Compared to Other Cities",
-      "link": "https://www.realtor.com/advice/hyperlocal/oklahoma-city-ok-starter-home-availability-declines/",
-      "source": "Realtor.com News",
-      "category": "real-estate",
-      "summary": "Oklahoma City's starter home share fell 3.4 points—from 34.8% in 2019 to 33.1% in 2022, and down to 31.4% in 2026—shrinking stock.",
-      "published": "2026-11-18T21:02:22+00:00",
-      "fetched": "2026-11-18T23:38:25.241704+00:00"
     }
   ]
 }
